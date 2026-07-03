@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-03",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-07-02T22:33:21.846Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "白鞋鞋邊與內裡的濕悶痕跡",
+      "instagram_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養",
+      "facebook_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養",
+      "image_prompt": "Realistic square shop photo inside a premium Taiwanese laundry and shoe-care counter: a pair of used white sneakers on a clean inspection table, visible grey edge marks and shoe lining, staff hands with neutral gloves gently checking the shoe edge, soft daylight, practical documentary style, no logo, no readable text, no poster design, no fake phone number, no watermark.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "local_image_path": "docs/assets/2026-07-03/slot-01.png",
+      "public_image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "雨季通勤後的包角與鞋底檢查",
+      "instagram_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
+      "facebook_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
+      "image_prompt": "Realistic square shop photo at a Taiwanese laundry care counter after a rainy commute: a damp everyday shoulder bag and a pair of commuter shoes placed on a clean inspection table, visible bag corners and shoe sole edges, absorbent towel nearby, staff hand pointing at material condition, warm natural light, documentary shop-photo look, no poster, no logo, no readable text, no fake address, no watermark.",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "local_image_path": "docs/assets/2026-07-03/slot-02.png",
+      "public_image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
+      "status": "pending"
+    }
+  ]
+}

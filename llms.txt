@@ -1,0 +1,86 @@
+# 私享家洗衣店
+
+> AI-readable source of record for 私享家洗衣店 daily social captions, care topics, image assets, hashtags, business profile, and content routes.
+
+This is the curated AI entry point. Read this file first, then choose the smallest endpoint that fits the task.
+
+## Primary Entry Points
+- [Latest daily package](https://39211.github.io/latest.json): two publishable social slots for the newest content date.
+- [Full structured post feed](https://39211.github.io/social-posts.json): all generated post records with captions, images, routes, and hashtags.
+- [Business profile](https://39211.github.io/business-profile.json): official NAP, social links, map identifiers, service topics, and verification status.
+- [Services JSON](https://39211.github.io/services.json): service-page records with answer summaries, case stories, images, FAQ, and LocalBusiness links.
+- [Answers JSON](https://39211.github.io/answers.json): concise AIO/GEO answers for service and local-intent queries.
+- [Geo targets JSON](https://39211.github.io/geo-targets.json): local service areas, address anchors, and query-intent map for 台中西屯 searches.
+- [LLMS JSONL](https://39211.github.io/llms.jsonl): line-delimited business, service, answer, and post records for AI ingestion.
+- [鞋包清潔](https://39211.github.io/services/shoe-bag-care.html): service SEO page with NAP, image, FAQ, and structured data.
+- [白鞋清潔](https://39211.github.io/services/white-shoe-cleaning.html): service SEO page with NAP, image, FAQ, and structured data.
+- [布品收納](https://39211.github.io/services/fabric-storage.html): service SEO page with NAP, image, FAQ, and structured data.
+- [台中西屯洗衣店](https://39211.github.io/services/taichung-xitun-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
+- [JSON Feed](https://39211.github.io/feed.json): chronological update feed for readers and AI ingestion.
+- [Knowledge graph](https://39211.github.io/knowledge-graph.json): Schema.org JSON-LD business, dataset, post, and image entities.
+- [AI discovery index](https://39211.github.io/ai-discovery.json): machine-readable map of every AI/SEO endpoint.
+- [Full context](https://39211.github.io/llms-full.txt): expanded Markdown context with all current posts.
+
+## Business Context
+- Business: 私享家洗衣店
+- Google Business Profile name: 私享家 旗艦總店
+- Type: DryCleaningOrLaundry
+- Address: 407 臺中市西屯區至善里青海路二段365號
+- Landmark: 至善國中對面
+- Google Maps: https://maps.app.goo.gl/kUREPkWDXYNTkpct7
+- Google Maps CID: 0x41f4295a6302e177
+- Google Place ID: (not verified)
+- Facebook: https://www.facebook.com/100083194756904/
+- Instagram: https://www.instagram.com/si_xiang_jia/
+- LINE: https://line.me/ti/p/4m-rA6hxf6
+- Phone: 04-2452-7411
+- LINE / mobile estimates: 0968-327-653
+- Opening hours: 週一至週五 10:00-20:00；週六 12:00-18:00；週日公休
+- Holiday hours rule: 重大節日與連假營業時間以店家當期公告為準；未公告前，不在 schema 產生具體 specialOpeningHoursSpecification。
+- Canonical URL: https://39211.github.io/
+- Topics: 衣物清潔, 鞋包清潔, 布品收納, 白鞋清潔, 雨季保養
+
+## Data Contract
+- Cadence: two daily social slots, 11:30 and 19:30 Asia/Taipei.
+- Each post includes: date, slot, time, title, topic, visual_route, traffic_route, hashtags, image_url, calendar_url, facebook_caption, instagram_caption.
+- Use the business profile and structured data as the source of record for phone, hours, map, and social links.
+- Do not treat Google Maps CID as Google Place ID. Use google_place_id only when it is non-null.
+- Emit concrete holiday opening hours only from owner-verified holiday_hours_rule.overrides.
+- Use visual_route, traffic_route, and hashtags as observable labels for later performance analysis.
+
+## Business Data Sources
+- Google Maps short link provided by owner; resolved name/address and Maps feature id were used for business identity.
+- Public Google Maps page exposed Maps feature id/CID, but did not expose a Google Places API place_id; CID is stored separately and not treated as place_id.
+- Facebook canonical page, Instagram handle, phone, mobile/LINE, official LINE URL, and opening hours were cross-checked from public Facebook/Instagram search results on 2026-07-02.
+- Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
+
+## Published Posts
+- [2026-07-03 19:30 雨季通勤後的包角與鞋底檢查](https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-02)
+  platform targets: facebook, instagram
+  routes: visual_route=customer-consultation; traffic_route=value-prop-lead
+  hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
+  image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png
+  calendar: https://39211.github.io/content-calendar/2026-07-03.json
+- [2026-07-03 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-01)
+  platform targets: facebook, instagram
+  routes: visual_route=shop-inspection; traffic_route=object-proof
+  hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
+  image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-07-03.json
+- [2026-07-02 19:30 雨季通勤後的包角與鞋底檢查](https://39211.github.io/content-calendar/2026-07-02.json#post-2026-07-02-slot-02)
+  platform targets: facebook, instagram
+  routes: visual_route=customer-consultation; traffic_route=value-prop-lead
+  hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
+  image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-02.png
+  calendar: https://39211.github.io/content-calendar/2026-07-02.json
+- [2026-07-02 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://39211.github.io/content-calendar/2026-07-02.json#post-2026-07-02-slot-01)
+  platform targets: facebook, instagram
+  routes: visual_route=shop-inspection; traffic_route=object-proof
+  hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
+  image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-07-02.json
+
+## Optional
+- [Lite context](https://39211.github.io/llms-lite.txt): smallest context file for quick checks.
+- [AI sitemap](https://39211.github.io/ai-sitemap.xml): AI-oriented XML endpoint map.
+- [Robots](https://39211.github.io/robots.txt): crawler access directives.

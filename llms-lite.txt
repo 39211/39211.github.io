@@ -1,0 +1,19 @@
+# 私享家洗衣店
+
+> AI-readable source of record for 私享家洗衣店 daily social captions, care topics, image assets, hashtags, business profile, and content routes.
+
+Canonical: https://39211.github.io/
+Latest date: 2026-07-03
+Read first: https://39211.github.io/latest.json
+Full feed: https://39211.github.io/social-posts.json
+Business profile: https://39211.github.io/business-profile.json
+Services: https://39211.github.io/services.json
+Answers: https://39211.github.io/answers.json
+Geo targets: https://39211.github.io/geo-targets.json
+LLMS JSONL: https://39211.github.io/llms.jsonl
+鞋包清潔: https://39211.github.io/services/shoe-bag-care.html
+白鞋清潔: https://39211.github.io/services/white-shoe-cleaning.html
+布品收納: https://39211.github.io/services/fabric-storage.html
+台中西屯洗衣店: https://39211.github.io/services/taichung-xitun-laundry.html
+Knowledge graph: https://39211.github.io/knowledge-graph.json
+Full context: https://39211.github.io/llms-full.txt

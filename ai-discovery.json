@@ -1,0 +1,751 @@
+{
+  "schema_version": "2026-07-02",
+  "standard_level": "standard",
+  "generated_at": "2026-07-03T19:56:05.873Z",
+  "website": {
+    "name": "私享家洗衣店",
+    "business_name": "私享家洗衣店",
+    "url": "https://39211.github.io/",
+    "base_url": "https://39211.github.io",
+    "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
+    "timezone": "Asia/Taipei",
+    "locale": "zh_TW",
+    "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
+    "google_maps_feature_id": "0x34691713872dd6f5:0x41f4295a6302e177",
+    "google_maps_cid": "0x41f4295a6302e177",
+    "google_place_id": null,
+    "facebook_url": "https://www.facebook.com/100083194756904/",
+    "facebook_share_url": "https://www.facebook.com/share/1BZF4VnihJ/",
+    "instagram_url": "https://www.instagram.com/si_xiang_jia/",
+    "line_url": "https://line.me/ti/p/4m-rA6hxf6"
+  },
+  "business_profile": {
+    "name": "私享家洗衣店",
+    "google_business_profile_name": "私享家 旗艦總店",
+    "alternate_names": [
+      "私享家 旗艦店",
+      "私享家精品洗護"
+    ],
+    "address": {
+      "@type": "PostalAddress",
+      "postalCode": "407",
+      "addressRegion": "臺中市",
+      "addressLocality": "西屯區",
+      "streetAddress": "至善里青海路二段365號",
+      "addressCountry": "TW"
+    },
+    "address_text": "407 臺中市西屯區至善里青海路二段365號",
+    "landmark": "至善國中對面",
+    "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
+    "google_maps_feature_id": "0x34691713872dd6f5:0x41f4295a6302e177",
+    "google_maps_cid": "0x41f4295a6302e177",
+    "google_place_id": null,
+    "facebook_url": "https://www.facebook.com/100083194756904/",
+    "facebook_share_url": "https://www.facebook.com/share/1BZF4VnihJ/",
+    "instagram_url": "https://www.instagram.com/si_xiang_jia/",
+    "line_url": "https://line.me/ti/p/4m-rA6hxf6",
+    "line_id": "0968327653",
+    "telephone": "+886-4-2452-7411",
+    "telephone_local": "04-2452-7411",
+    "mobile_or_line": "+886-968-327-653",
+    "mobile_or_line_local": "0968-327-653",
+    "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休",
+    "opening_hours_schema": [
+      "Mo-Fr 10:00-20:00",
+      "Sa 12:00-18:00"
+    ],
+    "opening_hours_specification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "10:00",
+        "closes": "20:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "12:00",
+        "closes": "18:00"
+      }
+    ],
+    "holiday_hours_rule": {
+      "default_rule": "重大節日與連假營業時間以店家當期公告為準；未公告前，不在 schema 產生具體 specialOpeningHoursSpecification。",
+      "social_content_rule": "重大節日前先發布預告海報；節日當天或連假後用真實門市照片補一篇提醒或收件狀況文。",
+      "schema_rule": "只有當 overrides 有明確日期、開關店時間，且 verified_by_owner 為 true 時，才輸出 specialOpeningHoursSpecification。",
+      "major_holidays": [
+        "農曆春節",
+        "端午節",
+        "中秋節",
+        "母親節",
+        "父親節"
+      ],
+      "overrides": []
+    },
+    "service_topics": [
+      "衣物清潔",
+      "鞋包清潔",
+      "布品收納",
+      "白鞋清潔",
+      "雨季保養"
+    ],
+    "source_notes": [
+      "Google Maps short link provided by owner; resolved name/address and Maps feature id were used for business identity.",
+      "Public Google Maps page exposed Maps feature id/CID, but did not expose a Google Places API place_id; CID is stored separately and not treated as place_id.",
+      "Facebook canonical page, Instagram handle, phone, mobile/LINE, official LINE URL, and opening hours were cross-checked from public Facebook/Instagram search results on 2026-07-02.",
+      "Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified."
+    ],
+    "verification_status": {
+      "name_address_map": "owner_provided_google_maps_link",
+      "google_maps_cid": "resolved_from_owner_google_maps_link",
+      "google_place_id": "not_verified_public_maps_url_exposes_feature_id_only",
+      "facebook_canonical": "public_search_result_cross_check",
+      "instagram_phone_hours": "public_facebook_instagram_search_result_cross_check",
+      "official_line_url": "public_facebook_instagram_search_result_cross_check",
+      "holiday_hours_rule": "owner_rule_configured",
+      "holiday_hours_overrides": "not_configured"
+    }
+  },
+  "local_search_targets": {
+    "primary_queries": [
+      "洗衣店",
+      "台中洗衣店",
+      "西屯洗衣店",
+      "台中西屯洗衣店",
+      "青海路洗衣店",
+      "台中西屯洗鞋",
+      "台中西屯洗包",
+      "台中西屯白鞋清潔",
+      "台中西屯布品收納"
+    ],
+    "primary_area": "西屯區",
+    "street_anchor": "青海路二段",
+    "canonical_url": "https://39211.github.io/",
+    "intent_note": "Use these as local SEO/AIO/GEO query anchors for people searching laundry, shoe cleaning, bag cleaning, white shoe cleaning, and fabric storage near Taichung Xitun."
+  },
+  "entrypoints": {
+    "index": "https://39211.github.io/index.html",
+    "llms": "https://39211.github.io/llms.txt",
+    "llms_lite": "https://39211.github.io/llms-lite.txt",
+    "llms_full": "https://39211.github.io/llms-full.txt",
+    "well_known_llms": "https://39211.github.io/.well-known/llms.txt",
+    "well_known_ai": "https://39211.github.io/.well-known/ai.json",
+    "robots": "https://39211.github.io/robots.txt",
+    "sitemap": "https://39211.github.io/sitemap.xml",
+    "ai_sitemap": "https://39211.github.io/ai-sitemap.xml",
+    "latest": "https://39211.github.io/latest.json",
+    "social_posts": "https://39211.github.io/social-posts.json",
+    "business_profile": "https://39211.github.io/business-profile.json",
+    "services": "https://39211.github.io/services.json",
+    "answers": "https://39211.github.io/answers.json",
+    "geo_targets": "https://39211.github.io/geo-targets.json",
+    "llms_jsonl": "https://39211.github.io/llms.jsonl",
+    "service_pages": {
+      "shoe-bag-care": "https://39211.github.io/services/shoe-bag-care.html",
+      "white-shoe-cleaning": "https://39211.github.io/services/white-shoe-cleaning.html",
+      "fabric-storage": "https://39211.github.io/services/fabric-storage.html",
+      "taichung-xitun-laundry": "https://39211.github.io/services/taichung-xitun-laundry.html"
+    },
+    "feed": "https://39211.github.io/feed.json",
+    "knowledge_graph": "https://39211.github.io/knowledge-graph.json",
+    "ai_discovery": "https://39211.github.io/ai-discovery.json"
+  },
+  "recommended_read_order": [
+    "https://39211.github.io/llms.txt",
+    "https://39211.github.io/services.json",
+    "https://39211.github.io/answers.json",
+    "https://39211.github.io/geo-targets.json",
+    "https://39211.github.io/services/shoe-bag-care.html",
+    "https://39211.github.io/services/white-shoe-cleaning.html",
+    "https://39211.github.io/services/fabric-storage.html",
+    "https://39211.github.io/services/taichung-xitun-laundry.html",
+    "https://39211.github.io/latest.json",
+    "https://39211.github.io/knowledge-graph.json",
+    "https://39211.github.io/feed.json",
+    "https://39211.github.io/llms.jsonl",
+    "https://39211.github.io/llms-full.txt"
+  ],
+  "capabilities": {
+    "supports_daily_updates": true,
+    "supports_incremental_feed": true,
+    "supports_json_ld_knowledge_graph": true,
+    "supports_full_context": true,
+    "supports_service_records": true,
+    "supports_answer_records": true,
+    "supports_geo_targets": true,
+    "supports_jsonl_ingestion": true,
+    "update_frequency": "daily"
+  },
+  "open_graph": {
+    "title": "私享家洗衣店｜台中西屯青海路洗衣、洗鞋、洗包、布品收納",
+    "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
+    "type": "website",
+    "url": "https://39211.github.io/",
+    "site_name": "私享家洗衣店",
+    "image": "https://sixiangjia-laundry-social.netlify.app/assets/services/fabric-storage-hero-product.png",
+    "image_alt": "外套、寢具與布品收納前產品級檢查主圖｜私享家洗衣店",
+    "locale": "zh_TW"
+  },
+  "structured_data": {
+    "@context": "https://schema.org",
+    "@type": "DryCleaningOrLaundry",
+    "@id": "https://39211.github.io/#business",
+    "name": "私享家洗衣店",
+    "alternateName": [
+      "私享家 旗艦總店",
+      "私享家 旗艦店",
+      "私享家精品洗護"
+    ],
+    "url": "https://39211.github.io/",
+    "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
+    "inLanguage": "zh-Hant",
+    "address": {
+      "@type": "PostalAddress",
+      "postalCode": "407",
+      "addressRegion": "臺中市",
+      "addressLocality": "西屯區",
+      "streetAddress": "至善里青海路二段365號",
+      "addressCountry": "TW"
+    },
+    "telephone": "+886-4-2452-7411",
+    "identifier": [
+      {
+        "@type": "PropertyValue",
+        "propertyID": "Google Maps CID",
+        "value": "0x41f4295a6302e177"
+      }
+    ],
+    "contactPoint": [
+      {
+        "@type": "ContactPoint",
+        "telephone": "+886-4-2452-7411",
+        "contactType": "customer service",
+        "areaServed": "TW",
+        "availableLanguage": [
+          "zh-Hant"
+        ]
+      },
+      {
+        "@type": "ContactPoint",
+        "telephone": "+886-968-327-653",
+        "url": "https://line.me/ti/p/4m-rA6hxf6",
+        "contactType": "LINE / mobile estimates",
+        "areaServed": "TW",
+        "availableLanguage": [
+          "zh-Hant"
+        ]
+      }
+    ],
+    "openingHours": [
+      "Mo-Fr 10:00-20:00",
+      "Sa 12:00-18:00"
+    ],
+    "openingHoursSpecification": [
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": [
+          "Monday",
+          "Tuesday",
+          "Wednesday",
+          "Thursday",
+          "Friday"
+        ],
+        "opens": "10:00",
+        "closes": "20:00"
+      },
+      {
+        "@type": "OpeningHoursSpecification",
+        "dayOfWeek": "Saturday",
+        "opens": "12:00",
+        "closes": "18:00"
+      }
+    ],
+    "hasMap": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
+    "sameAs": [
+      "https://www.facebook.com/100083194756904/",
+      "https://www.instagram.com/si_xiang_jia/",
+      "https://line.me/ti/p/4m-rA6hxf6"
+    ],
+    "image": [
+      "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-01.png",
+      "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-02.png",
+      "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png",
+      "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
+      "https://sixiangjia-laundry-social.netlify.app/assets/services/shoe-bag-care-hero-product.png",
+      "https://sixiangjia-laundry-social.netlify.app/assets/services/white-shoe-cleaning-hero-product.png",
+      "https://sixiangjia-laundry-social.netlify.app/assets/services/fabric-storage-hero-product.png"
+    ],
+    "areaServed": [
+      {
+        "@type": "Country",
+        "name": "Taiwan"
+      },
+      {
+        "@type": "AdministrativeArea",
+        "name": "台中市西屯區"
+      },
+      {
+        "@type": "Place",
+        "name": "青海路二段"
+      }
+    ],
+    "knowsAbout": [
+      "衣物清潔",
+      "鞋包清潔",
+      "布品收納",
+      "白鞋清潔",
+      "雨季保養",
+      "洗衣店",
+      "台中洗衣店",
+      "西屯洗衣店",
+      "台中西屯洗衣店",
+      "青海路洗衣店",
+      "台中西屯洗鞋",
+      "台中西屯洗包",
+      "台中西屯白鞋清潔",
+      "台中西屯布品收納"
+    ],
+    "hasOfferCatalog": {
+      "@type": "OfferCatalog",
+      "name": "私享家洗衣店服務目錄",
+      "itemListElement": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "鞋包清潔",
+            "serviceType": "鞋包清潔",
+            "description": "台中西屯洗鞋洗包建議先拍鞋面、鞋底、包角、提把與內裡，私享家會依材質、濕氣、水痕與磨耗程度判斷清潔方式與可改善範圍。",
+            "areaServed": "台中西屯",
+            "url": "https://39211.github.io/services/shoe-bag-care.html"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "白鞋清潔",
+            "serviceType": "白鞋清潔",
+            "description": "台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。",
+            "areaServed": "台中西屯",
+            "url": "https://39211.github.io/services/white-shoe-cleaning.html"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "布品收納",
+            "serviceType": "布品收納",
+            "description": "台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。",
+            "areaServed": "台中西屯",
+            "url": "https://39211.github.io/services/fabric-storage.html"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "台中西屯洗衣店",
+            "serviceType": "台中西屯洗衣店",
+            "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，可先用 LINE 傳照片詢問。",
+            "areaServed": "台中西屯",
+            "url": "https://39211.github.io/services/taichung-xitun-laundry.html"
+          }
+        }
+      ]
+    }
+  },
+  "service_pages": [
+    {
+      "slug": "shoe-bag-care",
+      "name": "鞋包清潔",
+      "title": "鞋包清潔｜台中西屯洗鞋、洗包與材質照護｜私享家洗衣店",
+      "description": "台中西屯鞋包清潔與洗鞋洗包諮詢，私享家洗衣店會先看鞋面、鞋底、包角、提把、內裡與材質狀態，再判斷適合的清潔方式。",
+      "url": "https://39211.github.io/services/shoe-bag-care.html",
+      "keywords": [
+        "鞋包清潔",
+        "洗鞋",
+        "洗包",
+        "包包清潔",
+        "鞋子清潔",
+        "台中西屯鞋包清潔",
+        "青海路洗鞋"
+      ],
+      "answer_summary": "台中西屯洗鞋洗包建議先拍鞋面、鞋底、包角、提把與內裡，私享家會依材質、濕氣、水痕與磨耗程度判斷清潔方式與可改善範圍。",
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/services/shoe-bag-care-hero-product.png",
+      "image_alt": "鞋包清潔前的包角、鞋面與皮革檢查主圖",
+      "image_note": "AI 生成的高擬真產品風格主圖，用於呈現鞋包清潔前的包角、鞋面、皮革水痕與邊緣檢查情境；不是實際客戶物件照片。",
+      "case_story": {
+        "label": "雨季通勤後的鞋包狀況",
+        "situation": "客人常在雨天通勤、逛街或活動後才發現包包四角變暗、鞋底邊緣卡泥灰，鞋內有一點悶味，但表面看起來又不算嚴重。",
+        "inspection": "門市會先分開看包包材質、包角水痕、提把油痕、鞋底邊緣、縫線卡灰與鞋內濕氣，判斷是表面灰塵、雨水滲入、油脂吸附，還是材質本身已經磨耗。",
+        "recommendation": "如果照片中看到包角濕痕、提把發暗、鞋內悶味或鞋底邊緣泛灰，建議先不要直接收進鞋櫃或防塵袋，拍照詢問後再決定是否送洗或局部處理。"
+      },
+      "faq_count": 4
+    },
+    {
+      "slug": "white-shoe-cleaning",
+      "name": "白鞋清潔",
+      "title": "白鞋清潔｜台中西屯白鞋泛黃、鞋邊與內裡整理｜私享家洗衣店",
+      "description": "台中西屯白鞋清潔諮詢，針對白鞋泛黃、鞋邊泛灰、縫線卡灰、內裡濕悶與鞋墊狀態，私享家洗衣店先判斷材質再處理。",
+      "url": "https://39211.github.io/services/white-shoe-cleaning.html",
+      "keywords": [
+        "白鞋清潔",
+        "白鞋保養",
+        "白鞋泛黃",
+        "鞋邊泛灰",
+        "台中西屯白鞋清潔",
+        "青海路洗鞋"
+      ],
+      "answer_summary": "台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。",
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/services/white-shoe-cleaning-hero-product.png",
+      "image_alt": "白鞋清潔前的鞋邊、縫線與內裡檢查主圖",
+      "image_note": "AI 生成的高擬真產品風格主圖，用於呈現白鞋清潔前的鞋邊、縫線、皮革鞋面與內裡檢查情境；不是實際客戶物件照片。",
+      "case_story": {
+        "label": "白鞋鞋邊泛灰與內裡濕悶",
+        "situation": "客人通常是在白鞋鞋邊泛灰、鞋面看起來不亮、內裡有悶味時才想清潔，但這類狀況不一定只靠刷白就能解決。",
+        "inspection": "門市會先確認鞋面材質、膠邊磨耗與氧化、縫線卡灰、鞋墊是否可拆，以及味道是表層濕氣、長時間穿著吸附，還是收納後悶出來的味道。",
+        "recommendation": "如果鞋邊已經變毛、膠邊有氧化、縫線卡灰或內裡有味道，建議先拍鞋邊、鞋面和鞋內給門市看，再判斷可整理程度。"
+      },
+      "faq_count": 4
+    },
+    {
+      "slug": "fabric-storage",
+      "name": "布品收納",
+      "title": "布品收納｜台中西屯換季衣物、外套與寢具整理｜私享家洗衣店",
+      "description": "台中西屯布品收納與換季整理建議，私享家洗衣店協助檢查衣物、外套、寢具、被套與厚棉布品在收納前的濕氣、味道與髒污。",
+      "url": "https://39211.github.io/services/fabric-storage.html",
+      "keywords": [
+        "布品收納",
+        "換季收納",
+        "衣物收納",
+        "寢具清潔",
+        "外套清潔",
+        "台中西屯布品整理"
+      ],
+      "answer_summary": "台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。",
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/services/fabric-storage-hero-product.png",
+      "image_alt": "外套、寢具與布品收納前檢查主圖",
+      "image_note": "AI 生成的高擬真產品風格主圖，用於呈現外套、寢具與布品收納前檢查情境；不是實際客戶物件照片。",
+      "case_story": {
+        "label": "換季前的布品與衣物檢查",
+        "situation": "客人常在換季時把外套、寢具、被套或厚棉布品直接收進櫃子，幾個月後才發現悶味、黃斑、摺痕處變暗或布料觸感變差。",
+        "inspection": "門市建議先看領口、袖口、腋下、寢具接觸皮膚的位置、被套內側、收納袋內是否有潮味，以及布品摺痕和邊角是否有灰塵殘留。",
+        "recommendation": "如果布品有汗味、潮氣、局部髒污或收納袋內有悶味，不建議直接密封收納；可以先拍照詢問，再決定是否需要清潔整理。"
+      },
+      "faq_count": 4
+    },
+    {
+      "slug": "taichung-xitun-laundry",
+      "name": "台中西屯洗衣店",
+      "title": "台中西屯洗衣店｜青海路衣物、洗鞋洗包與布品收納｜私享家洗衣店",
+      "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包、白鞋清潔與布品收納前檢查，可用 LINE 先傳照片詢問。",
+      "url": "https://39211.github.io/services/taichung-xitun-laundry.html",
+      "keywords": [
+        "台中西屯洗衣店",
+        "青海路洗衣店",
+        "西屯洗衣",
+        "台中洗鞋",
+        "台中洗包",
+        "私享家洗衣店"
+      ],
+      "answer_summary": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，可先用 LINE 傳照片詢問。",
+      "image_url": "",
+      "image_alt": "私享家洗衣店台中西屯青海路服務導覽",
+      "image_note": "台中西屯青海路洗衣、洗鞋、洗包與布品收納服務導覽頁。",
+      "case_story": {
+        "label": "第一次詢問私享家時怎麼開始",
+        "situation": "很多客人不是一開始就確定要洗衣、洗鞋、洗包或整理布品，而是手上有一件外套、一雙白鞋、一個包包或一袋換季寢具，不知道該不該送洗。",
+        "inspection": "門市會先看照片中的材質、痕跡位置、是否有濕氣或味道，再確認是日常灰塵、雨季水痕、久放收納、汗氣殘留，還是材質磨耗。",
+        "recommendation": "建議先用 LINE 傳整體照片、局部近照和材質標籤，再補充大概什麼時候弄髒、放多久、是否淋雨或有味道，門市會先協助判斷。"
+      },
+      "faq_count": 4
+    }
+  ],
+  "content_contract": {
+    "cadence": "Two daily social slots at 11:30 and 19:30 Asia/Taipei.",
+    "fields": [
+      "date",
+      "slot",
+      "time",
+      "topic",
+      "visual_route",
+      "traffic_route",
+      "hashtags",
+      "facebook_caption",
+      "instagram_caption",
+      "image_url",
+      "calendar_url"
+    ],
+    "homepage_archive_policy": {
+      "expanded_recent_days": 7,
+      "expanded_behavior": "Homepage renders approved posts from the newest seven content dates directly.",
+      "archive_behavior": "Older approved posts stay in SEO/AIO/GEO data and render inside a collapsed homepage archive."
+    },
+    "omitted_until_verified": [
+      "google_place_id",
+      "holiday_hours_overrides"
+    ]
+  },
+  "data_quality": {
+    "public_base_url_configured": true,
+    "post_count": 4,
+    "latest_date": "2026-07-03",
+    "all_posts_have_images": true,
+    "all_posts_have_hashtags": true,
+    "all_posts_have_routes": true
+  },
+  "latest_date": "2026-07-03",
+  "latest_posts": [
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-01",
+      "date": "2026-07-03",
+      "date_published": "2026-07-03T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-07-03 11:30 白鞋鞋邊與內裡的濕悶痕跡",
+      "topic": "白鞋鞋邊與內裡的濕悶痕跡",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#白鞋清潔",
+        "#鞋子保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-03.json",
+      "facebook_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養",
+      "instagram_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-02",
+      "date": "2026-07-03",
+      "date_published": "2026-07-03T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-07-03 19:30 雨季通勤後的包角與鞋底檢查",
+      "topic": "雨季通勤後的包角與鞋底檢查",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#雨季保養",
+        "#鞋包清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-03.json",
+      "facebook_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
+      "instagram_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔"
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-02",
+      "date": "2026-07-03",
+      "date_published": "2026-07-03T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-07-03 19:30 雨季通勤後的包角與鞋底檢查",
+      "topic": "雨季通勤後的包角與鞋底檢查",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#雨季保養",
+        "#鞋包清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-03.json",
+      "facebook_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
+      "instagram_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-01",
+      "date": "2026-07-03",
+      "date_published": "2026-07-03T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-07-03 11:30 白鞋鞋邊與內裡的濕悶痕跡",
+      "topic": "白鞋鞋邊與內裡的濕悶痕跡",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#白鞋清潔",
+        "#鞋子保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-03.json",
+      "facebook_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養",
+      "instagram_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-02.json#post-2026-07-02-slot-02",
+      "date": "2026-07-02",
+      "date_published": "2026-07-02T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-07-02 19:30 雨季通勤後的包角與鞋底檢查",
+      "topic": "雨季通勤後的包角與鞋底檢查",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#雨季保養",
+        "#鞋包清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-02.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-02.json",
+      "facebook_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
+      "instagram_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-02.json#post-2026-07-02-slot-01",
+      "date": "2026-07-02",
+      "date_published": "2026-07-02T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-07-02 11:30 白鞋鞋邊與內裡的濕悶痕跡",
+      "topic": "白鞋鞋邊與內裡的濕悶痕跡",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#白鞋清潔",
+        "#鞋子保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-01.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-02.json",
+      "facebook_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養",
+      "instagram_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養"
+    }
+  ],
+  "published_posts": [
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-02.json#post-2026-07-02-slot-01",
+      "date": "2026-07-02",
+      "date_published": "2026-07-02T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-07-02 11:30 白鞋鞋邊與內裡的濕悶痕跡",
+      "topic": "白鞋鞋邊與內裡的濕悶痕跡",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#白鞋清潔",
+        "#鞋子保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-01.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-02.json",
+      "facebook_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養",
+      "instagram_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-02.json#post-2026-07-02-slot-02",
+      "date": "2026-07-02",
+      "date_published": "2026-07-02T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-07-02 19:30 雨季通勤後的包角與鞋底檢查",
+      "topic": "雨季通勤後的包角與鞋底檢查",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#雨季保養",
+        "#鞋包清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-02.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-02.json",
+      "facebook_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
+      "instagram_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-01",
+      "date": "2026-07-03",
+      "date_published": "2026-07-03T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-07-03 11:30 白鞋鞋邊與內裡的濕悶痕跡",
+      "topic": "白鞋鞋邊與內裡的濕悶痕跡",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#白鞋清潔",
+        "#鞋子保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-03.json",
+      "facebook_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養",
+      "instagram_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-02",
+      "date": "2026-07-03",
+      "date_published": "2026-07-03T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-07-03 19:30 雨季通勤後的包角與鞋底檢查",
+      "topic": "雨季通勤後的包角與鞋底檢查",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#雨季保養",
+        "#鞋包清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-03.json",
+      "facebook_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
+      "instagram_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔"
+    }
+  ]
+}
