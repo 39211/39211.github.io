@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-04T02:23:27.811Z",
+  "generated_at": "2026-07-04T07:33:12.314Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -58,7 +58,7 @@
       "service": "鞋包清潔",
       "source_url": "https://39211.github.io/services/shoe-bag-care.html",
       "local_intent": "台中西屯 鞋包清潔",
-      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/services/shoe-bag-care-hero-product.png"
+      "image_url": "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png"
     },
     {
       "id": "shoe-bag-care-faq-01",
@@ -104,7 +104,7 @@
       "service": "白鞋清潔",
       "source_url": "https://39211.github.io/services/white-shoe-cleaning.html",
       "local_intent": "台中西屯 白鞋清潔",
-      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/services/white-shoe-cleaning-hero-product.png"
+      "image_url": "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png"
     },
     {
       "id": "white-shoe-cleaning-faq-01",
@@ -150,7 +150,7 @@
       "service": "布品收納",
       "source_url": "https://39211.github.io/services/fabric-storage.html",
       "local_intent": "台中西屯 布品收納",
-      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/services/fabric-storage-hero-product.png"
+      "image_url": "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
     },
     {
       "id": "fabric-storage-faq-01",

@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-04T02:23:27.811Z
+- Generated at: 2026-07-04T07:33:12.314Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -116,15 +116,15 @@
     "https://line.me/ti/p/4m-rA6hxf6"
   ],
   "image": [
-    "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-01.png",
-    "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-02.png",
-    "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png",
-    "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
-    "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-01.png",
-    "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-02.png",
-    "https://sixiangjia-laundry-social.netlify.app/assets/services/shoe-bag-care-hero-product.png",
-    "https://sixiangjia-laundry-social.netlify.app/assets/services/white-shoe-cleaning-hero-product.png",
-    "https://sixiangjia-laundry-social.netlify.app/assets/services/fabric-storage-hero-product.png"
+    "https://39211.github.io/assets/2026-07-02/slot-01.png",
+    "https://39211.github.io/assets/2026-07-02/slot-02.png",
+    "https://39211.github.io/assets/2026-07-03/slot-01.png",
+    "https://39211.github.io/assets/2026-07-03/slot-02.png",
+    "https://39211.github.io/assets/2026-07-04/slot-01.png",
+    "https://39211.github.io/assets/2026-07-04/slot-02.png",
+    "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
+    "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
+    "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
   ],
   "areaServed": [
     {
@@ -241,7 +241,7 @@
 - visual_route: shop-inspection
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-- image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-01.png
+- image: https://39211.github.io/assets/2026-07-02/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-02.json
 
 Facebook caption:
@@ -281,7 +281,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-- image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-02.png
+- image: https://39211.github.io/assets/2026-07-02/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-02.json
 
 Facebook caption:
@@ -321,7 +321,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-- image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png
+- image: https://39211.github.io/assets/2026-07-03/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-03.json
 
 Facebook caption:
@@ -361,7 +361,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-- image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png
+- image: https://39211.github.io/assets/2026-07-03/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-03.json
 
 Facebook caption:
@@ -401,7 +401,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #台中洗衣店 #布品清潔 #收納前整理
-- image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-01.png
+- image: https://39211.github.io/assets/2026-07-04/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-04.json
 
 Facebook caption:
@@ -441,7 +441,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔 #台中洗衣店
-- image: https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-02.png
+- image: https://39211.github.io/assets/2026-07-04/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-04.json
 
 Facebook caption:
