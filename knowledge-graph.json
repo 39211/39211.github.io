@@ -86,6 +86,8 @@
         "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-02/slot-02.png",
         "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png",
         "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
+        "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-01.png",
+        "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-02.png",
         "https://sixiangjia-laundry-social.netlify.app/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjia-laundry-social.netlify.app/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjia-laundry-social.netlify.app/assets/services/fabric-storage-hero-product.png"
@@ -185,7 +187,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-03T19:56:05.873Z",
+      "dateModified": "2026-07-04T02:23:27.811Z",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -636,6 +638,70 @@
       "contentUrl": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
       "url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
       "caption": "雨季通勤後的包角與鞋底檢查",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-01",
+      "headline": "2026-07-04 11:30 週末布品收納前的櫃台分類",
+      "text": "週末整理棉被、抱枕和外套時，先不要急著整袋塞進收納袋。\n\n私享家洗衣店\n\n布品要不要洗，第一步不是看大小，是先看味道、濕氣和接觸位置。棉被容易留汗味，抱枕常有灰塵或飲料痕，外套則要看領口、袖口和內裡。\n\n我們會先把大件布品分開看，確認材質、厚度和髒污來源，再判斷適合整件整理、局部處理，還是只需要收納前除味。\n\n如果家裡有準備收起來的大件布品，可以先拍整件、洗標和髒污位置，整理前先判斷會比較穩。\n\n#私享家洗衣店 #台中洗衣店 #布品清潔 #收納前整理",
+      "datePublished": "2026-07-04T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#布品清潔",
+        "#收納前整理"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-01:image",
+      "contentUrl": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-01.png",
+      "url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-01.png",
+      "caption": "週末布品收納前的櫃台分類",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-02",
+      "headline": "2026-07-04 19:30 雨後鞋底包角與提把細節",
+      "text": "雨後回家，鞋底邊緣、包角和提把可以先看一下，不要急著直接收進櫃子。\n\n私享家洗衣店\n\n濕氣、泥灰和手汗常常不是一次變髒，而是慢慢卡在邊角。鞋底邊緣如果還有濕氣，包角如果已經變暗，下次拿出來味道和痕跡會更明顯。\n\n我們會先看鞋面、鞋底邊、包包材質和提把狀態，再判斷是表面灰、雨水痕，還是需要分段整理。\n\n帶來櫃台或拍邊角近照，我們先幫你看狀態。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔 #台中洗衣店",
+      "datePublished": "2026-07-04T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#雨季保養",
+        "#鞋包清潔",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-02:image",
+      "contentUrl": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-02.png",
+      "url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-02.png",
+      "caption": "雨後鞋底包角與提把細節",
       "inLanguage": "zh-Hant"
     }
   ]

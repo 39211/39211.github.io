@@ -1,0 +1,35 @@
+{
+  "date": "2026-07-04",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-07-03T02:21:00.000Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "fabric-storage",
+      "topic": "週末布品收納前的櫃台分類",
+      "instagram_caption": "週末整理棉被、抱枕和外套時，先不要急著整袋塞進收納袋。\n\n私享家洗衣店\n\n布品要不要洗，第一步不是看大小，是先看味道、濕氣和接觸位置。棉被容易留汗味，抱枕常有灰塵或飲料痕，外套則要看領口、袖口和內裡。\n\n我們會先把大件布品分開看，確認材質、厚度和髒污來源，再判斷適合整件整理、局部處理，還是只需要收納前除味。\n\n如果家裡有準備收起來的大件布品，可以先拍整件、洗標和髒污位置，整理前先判斷會比較穩。\n\n#私享家洗衣店 #台中洗衣店 #布品清潔 #收納前整理",
+      "facebook_caption": "週末整理棉被、抱枕和外套時，先不要急著整袋塞進收納袋。\n\n私享家洗衣店\n\n布品要不要洗，第一步不是看大小，是先看味道、濕氣和接觸位置。棉被容易留汗味，抱枕常有灰塵或飲料痕，外套則要看領口、袖口和內裡。\n\n我們會先把大件布品分開看，確認材質、厚度和髒污來源，再判斷適合整件整理、局部處理，還是只需要收納前除味。\n\n如果家裡有準備收起來的大件布品，可以先拍整件、洗標和髒污位置，整理前先判斷會比較穩。\n\n#私享家洗衣店 #台中洗衣店 #布品清潔 #收納前整理",
+      "image_prompt": "Use case: photorealistic-natural. Asset type: square social media shop photo. Scene/backdrop: inside a clean premium Taiwanese laundry shop counter, realistic documentary photo style. Subject: a large laundry bag on the counter with bedding, a cushion, and a light jacket separated into neat fabric groups for inspection; one staff hand in neutral gloves gently sorting fabric. Composition/framing: square 1:1, waist-level shop counter view, stable natural proportions, fabric items are the focus, no shoes or handbags. Lighting/mood: soft daylight, calm, clean, trustworthy, not glossy advertising. Materials/textures: visible cotton bedding texture, cushion seam, jacket collar, everyday fabric wrinkles, real shop counter surface. Constraints: no poster design, no logo, no readable text, no fake phone number, no watermark, no cartoon style, no luxury showroom, no extra people.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "local_image_path": "docs/assets/2026-07-04/slot-01.png",
+      "public_image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "shoe-bag-care",
+      "topic": "雨後鞋底包角與提把細節",
+      "instagram_caption": "雨後回家，鞋底邊緣、包角和提把可以先看一下，不要急著直接收進櫃子。\n\n私享家洗衣店\n\n濕氣、泥灰和手汗常常不是一次變髒，而是慢慢卡在邊角。鞋底邊緣如果還有濕氣，包角如果已經變暗，下次拿出來味道和痕跡會更明顯。\n\n我們會先看鞋面、鞋底邊、包包材質和提把狀態，再判斷是表面灰、雨水痕，還是需要分段整理。\n\n帶來櫃台或拍邊角近照，我們先幫你看狀態。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔 #台中洗衣店",
+      "facebook_caption": "雨後回家，鞋底邊緣、包角和提把可以先看一下，不要急著直接收進櫃子。\n\n私享家洗衣店\n\n濕氣、泥灰和手汗常常不是一次變髒，而是慢慢卡在邊角。鞋底邊緣如果還有濕氣，包角如果已經變暗，下次拿出來味道和痕跡會更明顯。\n\n我們會先看鞋面、鞋底邊、包包材質和提把狀態，再判斷是表面灰、雨水痕，還是需要分段整理。\n\n帶來櫃台或拍邊角近照，我們先幫你看狀態。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔 #台中洗衣店",
+      "image_prompt": "Use case: photorealistic-natural. Asset type: square social media shop photo. Scene/backdrop: clean Taiwanese laundry and shoe-bag care counter after a rainy commute, realistic documentary shop-photo look. Subject: close macro detail of a normal-proportioned commuter shoe sole edge beside an everyday fabric shoulder bag corner and handle, with a small absorbent towel nearby; one staff hand points gently at the edge condition. Composition/framing: square 1:1 close-up, focus on shoe sole edge, bag corner, and handle, no elongated or stretched footwear, no full long shoe profile, no clutter. Lighting/mood: warm natural indoor light, calm, practical, trustworthy. Materials/textures: damp-looking rubber sole edge, fabric or nylon bag corner, subtle dust and water marks, real counter surface. Constraints: no poster design, no logo, no readable text, no fake address, no watermark, no luxury showroom, no cartoon style, no distorted objects.",
+      "visual_route": "macro-detail",
+      "traffic_route": "value-prop-lead",
+      "local_image_path": "docs/assets/2026-07-04/slot-02.png",
+      "public_image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-02.png",
+      "status": "pending"
+    }
+  ]
+}

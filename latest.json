@@ -1,70 +1,72 @@
 {
-  "generated_at": "2026-07-03T19:56:05.873Z",
+  "generated_at": "2026-07-04T02:23:27.811Z",
   "site_name": "私享家洗衣店",
   "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
   "timezone": "Asia/Taipei",
   "base_url": "https://39211.github.io",
   "base_url_configured": true,
   "canonical_url": "https://39211.github.io/",
-  "date": "2026-07-03",
+  "date": "2026-07-04",
   "posts": [
     {
-      "id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-01",
-      "date": "2026-07-03",
-      "date_published": "2026-07-03T11:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-01",
+      "date": "2026-07-04",
+      "date_published": "2026-07-04T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "category": "知識文",
-      "title": "2026-07-03 11:30 白鞋鞋邊與內裡的濕悶痕跡",
-      "topic": "白鞋鞋邊與內裡的濕悶痕跡",
+      "category": "fabric-storage",
+      "title": "2026-07-04 11:30 週末布品收納前的櫃台分類",
+      "topic": "週末布品收納前的櫃台分類",
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "hashtags": [
         "#私享家洗衣店",
-        "#白鞋清潔",
-        "#鞋子保養"
+        "#台中洗衣店",
+        "#布品清潔",
+        "#收納前整理"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-07-03/slot-01.png",
-      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-01.png",
-      "calendar_path": "content-calendar/2026-07-03.json",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-03.json",
-      "url": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-01",
-      "facebook_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養",
-      "instagram_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養"
+      "image_path": "assets/2026-07-04/slot-01.png",
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-01.png",
+      "calendar_path": "content-calendar/2026-07-04.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-04.json",
+      "url": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-01",
+      "facebook_caption": "週末整理棉被、抱枕和外套時，先不要急著整袋塞進收納袋。\n\n私享家洗衣店\n\n布品要不要洗，第一步不是看大小，是先看味道、濕氣和接觸位置。棉被容易留汗味，抱枕常有灰塵或飲料痕，外套則要看領口、袖口和內裡。\n\n我們會先把大件布品分開看，確認材質、厚度和髒污來源，再判斷適合整件整理、局部處理，還是只需要收納前除味。\n\n如果家裡有準備收起來的大件布品，可以先拍整件、洗標和髒污位置，整理前先判斷會比較穩。\n\n#私享家洗衣店 #台中洗衣店 #布品清潔 #收納前整理",
+      "instagram_caption": "週末整理棉被、抱枕和外套時，先不要急著整袋塞進收納袋。\n\n私享家洗衣店\n\n布品要不要洗，第一步不是看大小，是先看味道、濕氣和接觸位置。棉被容易留汗味，抱枕常有灰塵或飲料痕，外套則要看領口、袖口和內裡。\n\n我們會先把大件布品分開看，確認材質、厚度和髒污來源，再判斷適合整件整理、局部處理，還是只需要收納前除味。\n\n如果家裡有準備收起來的大件布品，可以先拍整件、洗標和髒污位置，整理前先判斷會比較穩。\n\n#私享家洗衣店 #台中洗衣店 #布品清潔 #收納前整理"
     },
     {
-      "id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-02",
-      "date": "2026-07-03",
-      "date_published": "2026-07-03T19:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-02",
+      "date": "2026-07-04",
+      "date_published": "2026-07-04T19:30:00+08:00",
       "slot": 2,
       "time": "19:30",
-      "category": "情境文",
-      "title": "2026-07-03 19:30 雨季通勤後的包角與鞋底檢查",
-      "topic": "雨季通勤後的包角與鞋底檢查",
-      "visual_route": "customer-consultation",
+      "category": "shoe-bag-care",
+      "title": "2026-07-04 19:30 雨後鞋底包角與提把細節",
+      "topic": "雨後鞋底包角與提把細節",
+      "visual_route": "macro-detail",
       "traffic_route": "value-prop-lead",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
-        "#鞋包清潔"
+        "#鞋包清潔",
+        "#台中洗衣店"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-07-03/slot-02.png",
-      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-03/slot-02.png",
-      "calendar_path": "content-calendar/2026-07-03.json",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-03.json",
-      "url": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-02",
-      "facebook_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
-      "instagram_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔"
+      "image_path": "assets/2026-07-04/slot-02.png",
+      "image_url": "https://sixiangjia-laundry-social.netlify.app/assets/2026-07-04/slot-02.png",
+      "calendar_path": "content-calendar/2026-07-04.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-04.json",
+      "url": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-02",
+      "facebook_caption": "雨後回家，鞋底邊緣、包角和提把可以先看一下，不要急著直接收進櫃子。\n\n私享家洗衣店\n\n濕氣、泥灰和手汗常常不是一次變髒，而是慢慢卡在邊角。鞋底邊緣如果還有濕氣，包角如果已經變暗，下次拿出來味道和痕跡會更明顯。\n\n我們會先看鞋面、鞋底邊、包包材質和提把狀態，再判斷是表面灰、雨水痕，還是需要分段整理。\n\n帶來櫃台或拍邊角近照，我們先幫你看狀態。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔 #台中洗衣店",
+      "instagram_caption": "雨後回家，鞋底邊緣、包角和提把可以先看一下，不要急著直接收進櫃子。\n\n私享家洗衣店\n\n濕氣、泥灰和手汗常常不是一次變髒，而是慢慢卡在邊角。鞋底邊緣如果還有濕氣，包角如果已經變暗，下次拿出來味道和痕跡會更明顯。\n\n我們會先看鞋面、鞋底邊、包包材質和提把狀態，再判斷是表面灰、雨水痕，還是需要分段整理。\n\n帶來櫃台或拍邊角近照，我們先幫你看狀態。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔 #台中洗衣店"
     }
   ]
 }
