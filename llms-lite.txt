@@ -3,7 +3,7 @@
 > AI-readable source of record for 私享家洗衣店 daily social captions, care topics, image assets, hashtags, business profile, and content routes.
 
 Canonical: https://39211.github.io/
-Latest date: 2026-07-04
+Latest date: 2026-07-05
 Read first: https://39211.github.io/latest.json
 Full feed: https://39211.github.io/social-posts.json
 Business profile: https://39211.github.io/business-profile.json
