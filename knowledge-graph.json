@@ -82,17 +82,17 @@
         "https://line.me/ti/p/4m-rA6hxf6"
       ],
       "image": [
-        "https://39211.github.io/assets/2026-07-02/slot-01.png",
-        "https://39211.github.io/assets/2026-07-02/slot-02.png",
-        "https://39211.github.io/assets/2026-07-03/slot-01.png",
-        "https://39211.github.io/assets/2026-07-03/slot-02.png",
-        "https://39211.github.io/assets/2026-07-04/slot-01.png",
-        "https://39211.github.io/assets/2026-07-04/slot-02.png",
-        "https://39211.github.io/assets/2026-07-05/slot-01.png",
-        "https://39211.github.io/assets/2026-07-05/slot-02.png",
-        "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
-        "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
-        "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
       ],
       "areaServed": [
         {
@@ -189,7 +189,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-05T06:19:00.906Z",
+      "dateModified": "2026-07-05T06:20:27.482Z",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -213,7 +213,7 @@
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
+        "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
         "caption": "鞋包清潔前的包角、鞋面與皮革檢查主圖"
       }
     },
@@ -295,7 +295,7 @@
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
+        "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
         "caption": "白鞋清潔前的鞋邊、縫線與內裡檢查主圖"
       }
     },
@@ -376,7 +376,7 @@
       },
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://39211.github.io/assets/services/fabric-storage-hero-product.png",
+        "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png",
         "caption": "外套、寢具與布品收納前檢查主圖"
       }
     },
@@ -544,8 +544,8 @@
     {
       "@type": "ImageObject",
       "@id": "https://39211.github.io/content-calendar/2026-07-02.json#post-2026-07-02-slot-01:image",
-      "contentUrl": "https://39211.github.io/assets/2026-07-02/slot-01.png",
-      "url": "https://39211.github.io/assets/2026-07-02/slot-01.png",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png",
       "caption": "白鞋鞋邊與內裡的濕悶痕跡",
       "inLanguage": "zh-Hant"
     },
@@ -575,8 +575,8 @@
     {
       "@type": "ImageObject",
       "@id": "https://39211.github.io/content-calendar/2026-07-02.json#post-2026-07-02-slot-02:image",
-      "contentUrl": "https://39211.github.io/assets/2026-07-02/slot-02.png",
-      "url": "https://39211.github.io/assets/2026-07-02/slot-02.png",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png",
       "caption": "雨季通勤後的包角與鞋底檢查",
       "inLanguage": "zh-Hant"
     },
@@ -606,8 +606,8 @@
     {
       "@type": "ImageObject",
       "@id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-01:image",
-      "contentUrl": "https://39211.github.io/assets/2026-07-03/slot-01.png",
-      "url": "https://39211.github.io/assets/2026-07-03/slot-01.png",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-01.png",
       "caption": "白鞋鞋邊與內裡的濕悶痕跡",
       "inLanguage": "zh-Hant"
     },
@@ -637,8 +637,8 @@
     {
       "@type": "ImageObject",
       "@id": "https://39211.github.io/content-calendar/2026-07-03.json#post-2026-07-03-slot-02:image",
-      "contentUrl": "https://39211.github.io/assets/2026-07-03/slot-02.png",
-      "url": "https://39211.github.io/assets/2026-07-03/slot-02.png",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-02.png",
       "caption": "雨季通勤後的包角與鞋底檢查",
       "inLanguage": "zh-Hant"
     },
@@ -669,8 +669,8 @@
     {
       "@type": "ImageObject",
       "@id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-01:image",
-      "contentUrl": "https://39211.github.io/assets/2026-07-04/slot-01.png",
-      "url": "https://39211.github.io/assets/2026-07-04/slot-01.png",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png",
       "caption": "週末布品收納前的櫃台分類",
       "inLanguage": "zh-Hant"
     },
@@ -701,8 +701,8 @@
     {
       "@type": "ImageObject",
       "@id": "https://39211.github.io/content-calendar/2026-07-04.json#post-2026-07-04-slot-02:image",
-      "contentUrl": "https://39211.github.io/assets/2026-07-04/slot-02.png",
-      "url": "https://39211.github.io/assets/2026-07-04/slot-02.png",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png",
       "caption": "雨後鞋底包角與提把細節",
       "inLanguage": "zh-Hant"
     },
@@ -732,8 +732,8 @@
     {
       "@type": "ImageObject",
       "@id": "https://39211.github.io/content-calendar/2026-07-05.json#post-2026-07-05-slot-01:image",
-      "contentUrl": "https://39211.github.io/assets/2026-07-05/slot-01.png",
-      "url": "https://39211.github.io/assets/2026-07-05/slot-01.png",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-01.png",
       "caption": "白鞋鞋邊與內裡的濕悶痕跡",
       "inLanguage": "zh-Hant"
     },
@@ -763,8 +763,8 @@
     {
       "@type": "ImageObject",
       "@id": "https://39211.github.io/content-calendar/2026-07-05.json#post-2026-07-05-slot-02:image",
-      "contentUrl": "https://39211.github.io/assets/2026-07-05/slot-02.png",
-      "url": "https://39211.github.io/assets/2026-07-05/slot-02.png",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png",
       "caption": "雨季通勤後的包角與鞋底檢查",
       "inLanguage": "zh-Hant"
     }
