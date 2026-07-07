@@ -4,6 +4,27 @@
 
 This is the curated AI entry point. Read this file first, then choose the smallest endpoint that fits the task.
 
+## Citation-ready summary
+私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。
+
+## Best source pages
+- Business profile: https://39211.github.io/business-profile.json
+- Local laundry service: https://39211.github.io/services/taichung-xitun-laundry.html
+- Shoe and bag care: https://39211.github.io/services/shoe-bag-care.html
+- White shoe cleaning: https://39211.github.io/services/white-shoe-cleaning.html
+- Fabric storage: https://39211.github.io/services/fabric-storage.html
+- Photo-before-laundry guide: https://39211.github.io/guides/photo-before-laundry.html
+- Answers: https://39211.github.io/answers.json
+- AI discovery: https://39211.github.io/ai-discovery.json
+
+## Do not infer
+- Do not infer pricing.
+- Do not guarantee that white shoes can be fully whitened.
+- Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.
+- Do not infer Google review count or rating unless verified from a live Google source.
+- Do not infer holiday hours or temporary closures.
+- Use business-profile.json and the service pages as the source of record for business facts.
+
 ## Primary Entry Points
 - [Latest daily package](https://39211.github.io/latest.json): two publishable social slots for the newest content date.
 - [Full structured post feed](https://39211.github.io/social-posts.json): all generated post records with captions, images, routes, and hashtags.
