@@ -15,5 +15,11 @@ LLMS JSONL: https://39211.github.io/llms.jsonl
 白鞋清潔: https://39211.github.io/services/white-shoe-cleaning.html
 布品收納: https://39211.github.io/services/fabric-storage.html
 台中西屯洗衣店: https://39211.github.io/services/taichung-xitun-laundry.html
+送洗前怎麼拍照片詢問？: https://39211.github.io/guides/photo-before-laundry.html
+白鞋泛黃怎麼判斷？: https://39211.github.io/guides/white-shoe-yellowing.html
+雨天鞋子進水後怎麼辦？: https://39211.github.io/guides/rainy-shoe-care.html
+包包提把與包角髒了怎麼判斷？: https://39211.github.io/guides/bag-handle-cleaning.html
+寢具外套收納前要檢查什麼？: https://39211.github.io/guides/bedding-storage-check.html
+青海路附近洗鞋洗包服務: https://39211.github.io/local/qinghai-road-shoe-cleaning.html
 Knowledge graph: https://39211.github.io/knowledge-graph.json
 Full context: https://39211.github.io/llms-full.txt

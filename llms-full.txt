@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-07T02:24:30.702Z
+- Generated at: 2026-07-07T17:20:29.056Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -29,6 +29,12 @@
 - service_pages.white-shoe-cleaning: https://39211.github.io/services/white-shoe-cleaning.html
 - service_pages.fabric-storage: https://39211.github.io/services/fabric-storage.html
 - service_pages.taichung-xitun-laundry: https://39211.github.io/services/taichung-xitun-laundry.html
+- support_pages.photo-before-laundry: https://39211.github.io/guides/photo-before-laundry.html
+- support_pages.white-shoe-yellowing: https://39211.github.io/guides/white-shoe-yellowing.html
+- support_pages.rainy-shoe-care: https://39211.github.io/guides/rainy-shoe-care.html
+- support_pages.bag-handle-cleaning: https://39211.github.io/guides/bag-handle-cleaning.html
+- support_pages.bedding-storage-check: https://39211.github.io/guides/bedding-storage-check.html
+- support_pages.qinghai-road-shoe-cleaning: https://39211.github.io/local/qinghai-road-shoe-cleaning.html
 - feed: https://39211.github.io/feed.json
 - knowledge_graph: https://39211.github.io/knowledge-graph.json
 - ai_discovery: https://39211.github.io/ai-discovery.json

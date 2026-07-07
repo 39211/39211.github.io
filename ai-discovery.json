@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-07-07T02:24:30.702Z",
+  "generated_at": "2026-07-07T17:20:29.056Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -151,6 +151,14 @@
       "fabric-storage": "https://39211.github.io/services/fabric-storage.html",
       "taichung-xitun-laundry": "https://39211.github.io/services/taichung-xitun-laundry.html"
     },
+    "support_pages": {
+      "photo-before-laundry": "https://39211.github.io/guides/photo-before-laundry.html",
+      "white-shoe-yellowing": "https://39211.github.io/guides/white-shoe-yellowing.html",
+      "rainy-shoe-care": "https://39211.github.io/guides/rainy-shoe-care.html",
+      "bag-handle-cleaning": "https://39211.github.io/guides/bag-handle-cleaning.html",
+      "bedding-storage-check": "https://39211.github.io/guides/bedding-storage-check.html",
+      "qinghai-road-shoe-cleaning": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html"
+    },
     "feed": "https://39211.github.io/feed.json",
     "knowledge_graph": "https://39211.github.io/knowledge-graph.json",
     "ai_discovery": "https://39211.github.io/ai-discovery.json"
@@ -164,6 +172,12 @@
     "https://39211.github.io/services/white-shoe-cleaning.html",
     "https://39211.github.io/services/fabric-storage.html",
     "https://39211.github.io/services/taichung-xitun-laundry.html",
+    "https://39211.github.io/guides/photo-before-laundry.html",
+    "https://39211.github.io/guides/white-shoe-yellowing.html",
+    "https://39211.github.io/guides/rainy-shoe-care.html",
+    "https://39211.github.io/guides/bag-handle-cleaning.html",
+    "https://39211.github.io/guides/bedding-storage-check.html",
+    "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
     "https://39211.github.io/latest.json",
     "https://39211.github.io/knowledge-graph.json",
     "https://39211.github.io/feed.json",
@@ -178,6 +192,7 @@
     "supports_service_records": true,
     "supports_answer_records": true,
     "supports_geo_targets": true,
+    "supports_support_pages": true,
     "supports_jsonl_ingestion": true,
     "update_frequency": "daily"
   },
@@ -472,6 +487,110 @@
         "recommendation": "建議先用 LINE 傳整體照片、局部近照和材質標籤，再補充大概什麼時候弄髒、放多久、是否淋雨或有味道，門市會先協助判斷。"
       },
       "faq_count": 4
+    }
+  ],
+  "support_pages": [
+    {
+      "slug": "photo-before-laundry",
+      "category": "guide",
+      "title": "送洗前怎麼拍照片詢問？｜私享家洗衣店",
+      "description": "送洗前先拍整體、局部、材質與最在意的痕跡，私享家洗衣店才能更準確判斷衣物、鞋子、包包或布品是否適合整理。",
+      "url": "https://39211.github.io/guides/photo-before-laundry.html",
+      "keywords": [
+        "送洗前拍照",
+        "LINE 詢問洗衣店",
+        "台中西屯洗衣店",
+        "青海路洗衣店"
+      ],
+      "local_intent": "台中西屯 送洗前 LINE 詢問",
+      "linked_service": "",
+      "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "white-shoe-yellowing",
+      "category": "guide",
+      "title": "白鞋泛黃怎麼判斷？｜私享家洗衣店",
+      "description": "白鞋泛黃不一定只是髒污，可能和材質、膠邊、氧化、濕氣與清潔方式有關。整理前先判斷鞋面、鞋邊與內裡狀態。",
+      "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
+      "keywords": [
+        "白鞋泛黃",
+        "白鞋清潔",
+        "台中西屯白鞋清潔",
+        "鞋子保養"
+      ],
+      "local_intent": "台中西屯 白鞋泛黃 白鞋清潔",
+      "linked_service": "白鞋清潔",
+      "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "rainy-shoe-care",
+      "category": "guide",
+      "title": "雨天鞋子進水後怎麼辦？｜私享家洗衣店",
+      "description": "雨天通勤後鞋內濕氣、鞋底泥灰和鞋邊水痕容易被忽略。先通風、不要悶放，再判斷是否需要專業清潔。",
+      "url": "https://39211.github.io/guides/rainy-shoe-care.html",
+      "keywords": [
+        "雨天鞋子保養",
+        "鞋子進水",
+        "雨季保養",
+        "台中洗鞋"
+      ],
+      "local_intent": "台中西屯 雨天鞋子清潔",
+      "linked_service": "鞋包清潔",
+      "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "bag-handle-cleaning",
+      "category": "guide",
+      "title": "包包提把與包角髒了怎麼判斷？｜私享家洗衣店",
+      "description": "包包提把、包角和底部常先累積手汗、水痕、摩擦和灰塵。整理前要先看材質與痕跡是否已滲入。",
+      "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
+      "keywords": [
+        "包包清潔",
+        "包包提把清潔",
+        "包角清潔",
+        "台中西屯洗包"
+      ],
+      "local_intent": "台中西屯 包包清潔",
+      "linked_service": "鞋包清潔",
+      "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "bedding-storage-check",
+      "category": "guide",
+      "title": "寢具外套收納前要檢查什麼？｜私享家洗衣店",
+      "description": "寢具、外套與厚棉布品收納前，先檢查領口袖口、腋下、棉被邊角、濕氣和悶味，避免收起來後味道變重。",
+      "url": "https://39211.github.io/guides/bedding-storage-check.html",
+      "keywords": [
+        "布品收納",
+        "寢具收納",
+        "外套收納",
+        "換季清潔"
+      ],
+      "local_intent": "台中西屯 布品收納 寢具清潔",
+      "linked_service": "布品收納",
+      "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "qinghai-road-shoe-cleaning",
+      "category": "local",
+      "title": "青海路附近洗鞋洗包服務｜私享家洗衣店",
+      "description": "私享家洗衣店位於台中市西屯區青海路二段，提供白鞋清潔、鞋包照護、衣物洗護與布品收納，可先用 LINE 傳照片詢問。",
+      "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
+      "keywords": [
+        "青海路洗衣店",
+        "青海路洗鞋",
+        "台中西屯洗鞋",
+        "西屯洗包"
+      ],
+      "local_intent": "青海路 洗鞋 洗包 洗衣店",
+      "linked_service": "鞋包清潔",
+      "faq_count": 2,
+      "step_count": 4
     }
   ],
   "content_contract": {

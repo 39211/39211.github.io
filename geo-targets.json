@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-07T02:24:30.702Z",
+  "generated_at": "2026-07-07T17:20:29.056Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -267,6 +267,240 @@
       "area": "至善里",
       "url": "https://39211.github.io/services/taichung-xitun-laundry.html",
       "answer_summary": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，可先用 LINE 傳照片詢問。"
+    },
+    {
+      "query": "台中西屯 台中西屯 送洗前 LINE 詢問",
+      "service": "送洗前怎麼拍照片詢問？",
+      "area": "台中西屯",
+      "url": "https://39211.github.io/guides/photo-before-laundry.html",
+      "answer_summary": "先用照片把物件狀態說清楚，比只問價錢更有用。私享家會依材質、髒污來源、濕氣與磨耗狀態先做初步判斷。",
+      "keywords": [
+        "送洗前拍照",
+        "LINE 詢問洗衣店",
+        "台中西屯洗衣店",
+        "青海路洗衣店"
+      ]
+    },
+    {
+      "query": "青海路二段 台中西屯 送洗前 LINE 詢問",
+      "service": "送洗前怎麼拍照片詢問？",
+      "area": "青海路二段",
+      "url": "https://39211.github.io/guides/photo-before-laundry.html",
+      "answer_summary": "先用照片把物件狀態說清楚，比只問價錢更有用。私享家會依材質、髒污來源、濕氣與磨耗狀態先做初步判斷。",
+      "keywords": [
+        "送洗前拍照",
+        "LINE 詢問洗衣店",
+        "台中西屯洗衣店",
+        "青海路洗衣店"
+      ]
+    },
+    {
+      "query": "至善里 台中西屯 送洗前 LINE 詢問",
+      "service": "送洗前怎麼拍照片詢問？",
+      "area": "至善里",
+      "url": "https://39211.github.io/guides/photo-before-laundry.html",
+      "answer_summary": "先用照片把物件狀態說清楚，比只問價錢更有用。私享家會依材質、髒污來源、濕氣與磨耗狀態先做初步判斷。",
+      "keywords": [
+        "送洗前拍照",
+        "LINE 詢問洗衣店",
+        "台中西屯洗衣店",
+        "青海路洗衣店"
+      ]
+    },
+    {
+      "query": "台中西屯 台中西屯 白鞋泛黃 白鞋清潔",
+      "service": "白鞋清潔",
+      "area": "台中西屯",
+      "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
+      "answer_summary": "白鞋清潔要先分清楚是表面髒污、膠邊氧化、內裡濕悶，還是材質本身變色，避免用錯方式讓鞋面變毛或膠痕更明顯。",
+      "keywords": [
+        "白鞋泛黃",
+        "白鞋清潔",
+        "台中西屯白鞋清潔",
+        "鞋子保養"
+      ]
+    },
+    {
+      "query": "青海路二段 台中西屯 白鞋泛黃 白鞋清潔",
+      "service": "白鞋清潔",
+      "area": "青海路二段",
+      "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
+      "answer_summary": "白鞋清潔要先分清楚是表面髒污、膠邊氧化、內裡濕悶，還是材質本身變色，避免用錯方式讓鞋面變毛或膠痕更明顯。",
+      "keywords": [
+        "白鞋泛黃",
+        "白鞋清潔",
+        "台中西屯白鞋清潔",
+        "鞋子保養"
+      ]
+    },
+    {
+      "query": "至善里 台中西屯 白鞋泛黃 白鞋清潔",
+      "service": "白鞋清潔",
+      "area": "至善里",
+      "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
+      "answer_summary": "白鞋清潔要先分清楚是表面髒污、膠邊氧化、內裡濕悶，還是材質本身變色，避免用錯方式讓鞋面變毛或膠痕更明顯。",
+      "keywords": [
+        "白鞋泛黃",
+        "白鞋清潔",
+        "台中西屯白鞋清潔",
+        "鞋子保養"
+      ]
+    },
+    {
+      "query": "台中西屯 台中西屯 雨天鞋子清潔",
+      "service": "鞋包清潔",
+      "area": "台中西屯",
+      "url": "https://39211.github.io/guides/rainy-shoe-care.html",
+      "answer_summary": "鞋子淋雨後最怕直接收進鞋櫃。濕氣留在鞋內、鞋墊和縫線附近，會讓味道與水痕更難處理。",
+      "keywords": [
+        "雨天鞋子保養",
+        "鞋子進水",
+        "雨季保養",
+        "台中洗鞋"
+      ]
+    },
+    {
+      "query": "青海路二段 台中西屯 雨天鞋子清潔",
+      "service": "鞋包清潔",
+      "area": "青海路二段",
+      "url": "https://39211.github.io/guides/rainy-shoe-care.html",
+      "answer_summary": "鞋子淋雨後最怕直接收進鞋櫃。濕氣留在鞋內、鞋墊和縫線附近，會讓味道與水痕更難處理。",
+      "keywords": [
+        "雨天鞋子保養",
+        "鞋子進水",
+        "雨季保養",
+        "台中洗鞋"
+      ]
+    },
+    {
+      "query": "至善里 台中西屯 雨天鞋子清潔",
+      "service": "鞋包清潔",
+      "area": "至善里",
+      "url": "https://39211.github.io/guides/rainy-shoe-care.html",
+      "answer_summary": "鞋子淋雨後最怕直接收進鞋櫃。濕氣留在鞋內、鞋墊和縫線附近，會讓味道與水痕更難處理。",
+      "keywords": [
+        "雨天鞋子保養",
+        "鞋子進水",
+        "雨季保養",
+        "台中洗鞋"
+      ]
+    },
+    {
+      "query": "台中西屯 台中西屯 包包清潔",
+      "service": "鞋包清潔",
+      "area": "台中西屯",
+      "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
+      "answer_summary": "包包不是只有表面擦一擦。提把、包角、底部和五金附近，常見的是手汗、摩擦、水痕與材質吸附混在一起。",
+      "keywords": [
+        "包包清潔",
+        "包包提把清潔",
+        "包角清潔",
+        "台中西屯洗包"
+      ]
+    },
+    {
+      "query": "青海路二段 台中西屯 包包清潔",
+      "service": "鞋包清潔",
+      "area": "青海路二段",
+      "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
+      "answer_summary": "包包不是只有表面擦一擦。提把、包角、底部和五金附近，常見的是手汗、摩擦、水痕與材質吸附混在一起。",
+      "keywords": [
+        "包包清潔",
+        "包包提把清潔",
+        "包角清潔",
+        "台中西屯洗包"
+      ]
+    },
+    {
+      "query": "至善里 台中西屯 包包清潔",
+      "service": "鞋包清潔",
+      "area": "至善里",
+      "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
+      "answer_summary": "包包不是只有表面擦一擦。提把、包角、底部和五金附近，常見的是手汗、摩擦、水痕與材質吸附混在一起。",
+      "keywords": [
+        "包包清潔",
+        "包包提把清潔",
+        "包角清潔",
+        "台中西屯洗包"
+      ]
+    },
+    {
+      "query": "台中西屯 台中西屯 布品收納 寢具清潔",
+      "service": "布品收納",
+      "area": "台中西屯",
+      "url": "https://39211.github.io/guides/bedding-storage-check.html",
+      "answer_summary": "換季收納前不是只要摺好。厚棉布品、外套和寢具如果帶著汗味、濕氣或局部髒污收進袋子，下一季拿出來會更明顯。",
+      "keywords": [
+        "布品收納",
+        "寢具收納",
+        "外套收納",
+        "換季清潔"
+      ]
+    },
+    {
+      "query": "青海路二段 台中西屯 布品收納 寢具清潔",
+      "service": "布品收納",
+      "area": "青海路二段",
+      "url": "https://39211.github.io/guides/bedding-storage-check.html",
+      "answer_summary": "換季收納前不是只要摺好。厚棉布品、外套和寢具如果帶著汗味、濕氣或局部髒污收進袋子，下一季拿出來會更明顯。",
+      "keywords": [
+        "布品收納",
+        "寢具收納",
+        "外套收納",
+        "換季清潔"
+      ]
+    },
+    {
+      "query": "至善里 台中西屯 布品收納 寢具清潔",
+      "service": "布品收納",
+      "area": "至善里",
+      "url": "https://39211.github.io/guides/bedding-storage-check.html",
+      "answer_summary": "換季收納前不是只要摺好。厚棉布品、外套和寢具如果帶著汗味、濕氣或局部髒污收進袋子，下一季拿出來會更明顯。",
+      "keywords": [
+        "布品收納",
+        "寢具收納",
+        "外套收納",
+        "換季清潔"
+      ]
+    },
+    {
+      "query": "台中西屯 青海路 洗鞋 洗包 洗衣店",
+      "service": "鞋包清潔",
+      "area": "台中西屯",
+      "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
+      "answer_summary": "如果你在青海路二段、西屯區附近找洗鞋、洗包或洗衣店，可以先把鞋邊、包角、提把、衣物標籤和髒污位置拍給私享家判斷。",
+      "keywords": [
+        "青海路洗衣店",
+        "青海路洗鞋",
+        "台中西屯洗鞋",
+        "西屯洗包"
+      ]
+    },
+    {
+      "query": "青海路二段 青海路 洗鞋 洗包 洗衣店",
+      "service": "鞋包清潔",
+      "area": "青海路二段",
+      "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
+      "answer_summary": "如果你在青海路二段、西屯區附近找洗鞋、洗包或洗衣店，可以先把鞋邊、包角、提把、衣物標籤和髒污位置拍給私享家判斷。",
+      "keywords": [
+        "青海路洗衣店",
+        "青海路洗鞋",
+        "台中西屯洗鞋",
+        "西屯洗包"
+      ]
+    },
+    {
+      "query": "至善里 青海路 洗鞋 洗包 洗衣店",
+      "service": "鞋包清潔",
+      "area": "至善里",
+      "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
+      "answer_summary": "如果你在青海路二段、西屯區附近找洗鞋、洗包或洗衣店，可以先把鞋邊、包角、提把、衣物標籤和髒污位置拍給私享家判斷。",
+      "keywords": [
+        "青海路洗衣店",
+        "青海路洗鞋",
+        "台中西屯洗鞋",
+        "西屯洗包"
+      ]
     }
   ],
   "discovery_groups": [

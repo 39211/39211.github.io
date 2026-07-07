@@ -17,6 +17,8 @@ Allow: /answers.json
 Allow: /geo-targets.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
+Allow: /guides/
+Allow: /local/
 
 User-agent: ChatGPT-User
 Allow: /
@@ -29,6 +31,8 @@ Allow: /answers.json
 Allow: /geo-targets.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
+Allow: /guides/
+Allow: /local/
 
 User-agent: ClaudeBot
 Allow: /
@@ -41,6 +45,8 @@ Allow: /answers.json
 Allow: /geo-targets.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
+Allow: /guides/
+Allow: /local/
 
 User-agent: Claude-Web
 Allow: /
@@ -53,6 +59,8 @@ Allow: /answers.json
 Allow: /geo-targets.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
+Allow: /guides/
+Allow: /local/
 
 User-agent: anthropic-ai
 Allow: /
@@ -65,6 +73,8 @@ Allow: /answers.json
 Allow: /geo-targets.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
+Allow: /guides/
+Allow: /local/
 
 User-agent: PerplexityBot
 Allow: /
@@ -77,6 +87,8 @@ Allow: /answers.json
 Allow: /geo-targets.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
+Allow: /guides/
+Allow: /local/
 
 User-agent: Google-Extended
 Allow: /
@@ -89,6 +101,8 @@ Allow: /answers.json
 Allow: /geo-targets.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
+Allow: /guides/
+Allow: /local/
 
 User-agent: Applebot-Extended
 Allow: /
@@ -101,6 +115,8 @@ Allow: /answers.json
 Allow: /geo-targets.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
+Allow: /guides/
+Allow: /local/
 
 User-agent: Amazonbot
 Allow: /
@@ -113,5 +129,7 @@ Allow: /answers.json
 Allow: /geo-targets.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
+Allow: /guides/
+Allow: /local/
 
 Sitemap: https://39211.github.io/sitemap.xml

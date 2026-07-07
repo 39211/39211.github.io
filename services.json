@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-07T02:24:30.702Z",
+  "generated_at": "2026-07-07T17:20:29.056Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AIO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://39211.github.io/",
@@ -72,6 +72,26 @@
         {
           "question": "鞋子或包包送洗前需要先自己刷嗎？",
           "answer": "不建議先硬刷。可以先把乾的表面灰塵輕拍掉，再拍照詢問；若材質不明，硬刷或泡水可能讓痕跡更明顯。"
+        }
+      ],
+      "related_support_pages": [
+        {
+          "slug": "rainy-shoe-care",
+          "title": "雨天鞋子進水後怎麼辦？｜私享家洗衣店",
+          "url": "https://39211.github.io/guides/rainy-shoe-care.html",
+          "local_intent": "台中西屯 雨天鞋子清潔"
+        },
+        {
+          "slug": "bag-handle-cleaning",
+          "title": "包包提把與包角髒了怎麼判斷？｜私享家洗衣店",
+          "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
+          "local_intent": "台中西屯 包包清潔"
+        },
+        {
+          "slug": "qinghai-road-shoe-cleaning",
+          "title": "青海路附近洗鞋洗包服務｜私享家洗衣店",
+          "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
+          "local_intent": "青海路 洗鞋 洗包 洗衣店"
         }
       ],
       "local_business": {
@@ -156,6 +176,14 @@
           "answer": "要看味道來源。若鞋墊可拆、內裡潮濕或久放悶味，會先判斷是否適合局部整理與通風處理。"
         }
       ],
+      "related_support_pages": [
+        {
+          "slug": "white-shoe-yellowing",
+          "title": "白鞋泛黃怎麼判斷？｜私享家洗衣店",
+          "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
+          "local_intent": "台中西屯 白鞋泛黃 白鞋清潔"
+        }
+      ],
       "local_business": {
         "name": "私享家洗衣店",
         "address_text": "407 臺中市西屯區至善里青海路二段365號",
@@ -236,6 +264,14 @@
         {
           "question": "布品可以直接放真空袋嗎？",
           "answer": "如果還有潮氣、汗味或局部髒污，不建議直接密封。先確認狀態再收，會比下次拿出來才處理更好。"
+        }
+      ],
+      "related_support_pages": [
+        {
+          "slug": "bedding-storage-check",
+          "title": "寢具外套收納前要檢查什麼？｜私享家洗衣店",
+          "url": "https://39211.github.io/guides/bedding-storage-check.html",
+          "local_intent": "台中西屯 布品收納 寢具清潔"
         }
       ],
       "local_business": {
@@ -320,6 +356,7 @@
           "answer": "會。排程產生且審核通過的 FB / IG 貼文會同步成公開 SEO / AIO / GEO 資料，讓服務頁和日常案例互相補強。"
         }
       ],
+      "related_support_pages": [],
       "local_business": {
         "name": "私享家洗衣店",
         "address_text": "407 臺中市西屯區至善里青海路二段365號",
