@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T17:42:11.569Z",
+  "generated_at": "2026-07-08T02:24:20.718Z",
   "site_name": "私享家洗衣店",
   "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
   "timezone": "Asia/Taipei",
@@ -8,7 +8,7 @@
   "image_base_url": "https://39211.github.io/laundry-social-auto-poster",
   "image_base_url_configured": true,
   "canonical_url": "https://39211.github.io/",
-  "latest_date": "2026-07-07",
+  "latest_date": "2026-07-08",
   "open_graph": {
     "title": "私享家洗衣店｜台中西屯青海路洗衣、洗鞋、洗包、布品收納",
     "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
@@ -438,6 +438,66 @@
       "url": "https://39211.github.io/content-calendar/2026-07-07.json#post-2026-07-07-slot-02",
       "facebook_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
       "instagram_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-08.json#post-2026-07-08-slot-01",
+      "date": "2026-07-08",
+      "date_published": "2026-07-08T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-07-08 11:30 棉被收納前的濕氣與睡眠味",
+      "topic": "棉被收納前的濕氣與睡眠味",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#棉被清潔",
+        "#布品收納",
+        "#台中洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-07-08/slot-01.png",
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png",
+      "calendar_path": "content-calendar/2026-07-08.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-08.json",
+      "url": "https://39211.github.io/content-calendar/2026-07-08.json#post-2026-07-08-slot-01",
+      "facebook_caption": "棉被要收進櫃子前，不能只看表面乾不乾，還要看有沒有睡眠味和悶住的濕氣。\n\n私享家洗衣店\n\n台中潮濕的日子多，棉被如果帶著身體味和濕氣直接收納，下一季拿出來容易有悶味，布面也比較不清爽。\n\n我們會看棉被厚度、表布材質、縫線位置和填充狀態，再判斷能不能水洗、需不需要分區處理，以及收納前要不要加強乾燥。\n\n要整理棉被前，可以先拍整件、洗標和有味道的位置給我們看。\n\n#私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店",
+      "instagram_caption": "棉被要收進櫃子前，不能只看表面乾不乾，還要看有沒有睡眠味和悶住的濕氣。\n\n私享家洗衣店\n\n台中潮濕的日子多，棉被如果帶著身體味和濕氣直接收納，下一季拿出來容易有悶味，布面也比較不清爽。\n\n我們會看棉被厚度、表布材質、縫線位置和填充狀態，再判斷能不能水洗、需不需要分區處理，以及收納前要不要加強乾燥。\n\n要整理棉被前，可以先拍整件、洗標和有味道的位置給我們看。\n\n#私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-08.json#post-2026-07-08-slot-02",
+      "date": "2026-07-08",
+      "date_published": "2026-07-08T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "title": "2026-07-08 19:30 旅行回來先處理外套與行李灰塵",
+      "topic": "旅行回來先處理外套與行李灰塵",
+      "visual_route": "customer-consultation",
+      "traffic_route": "share-worthy-care",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#旅行後整理",
+        "#衣物清潔",
+        "#行李箱清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-07-08/slot-02.png",
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
+      "calendar_path": "content-calendar/2026-07-08.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-08.json",
+      "url": "https://39211.github.io/content-calendar/2026-07-08.json#post-2026-07-08-slot-02",
+      "facebook_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n私享家洗衣店\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n旅行回來要整理，可以把外套、包底和輪邊照片傳來，我們幫你排優先順序。\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔",
+      "instagram_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n私享家洗衣店\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n旅行回來要整理，可以把外套、包底和輪邊照片傳來，我們幫你排優先順序。\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔"
     }
   ]
 }

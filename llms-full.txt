@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-07T17:42:11.569Z
+- Generated at: 2026-07-08T02:24:20.718Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -132,6 +132,8 @@
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-01.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -641,4 +643,84 @@ Instagram caption:
 你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。
 
 #私享家洗衣店 #雨季保養 #鞋包清潔
+
+### 2026-07-08 11:30 棉被收納前的濕氣與睡眠味
+
+- id: https://39211.github.io/content-calendar/2026-07-08.json#post-2026-07-08-slot-01
+- published local time: 2026-07-08T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: value-prop-lead
+- hashtags: #私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-07-08.json
+
+Facebook caption:
+
+棉被要收進櫃子前，不能只看表面乾不乾，還要看有沒有睡眠味和悶住的濕氣。
+
+私享家洗衣店
+
+台中潮濕的日子多，棉被如果帶著身體味和濕氣直接收納，下一季拿出來容易有悶味，布面也比較不清爽。
+
+我們會看棉被厚度、表布材質、縫線位置和填充狀態，再判斷能不能水洗、需不需要分區處理，以及收納前要不要加強乾燥。
+
+要整理棉被前，可以先拍整件、洗標和有味道的位置給我們看。
+
+#私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店
+
+Instagram caption:
+
+棉被要收進櫃子前，不能只看表面乾不乾，還要看有沒有睡眠味和悶住的濕氣。
+
+私享家洗衣店
+
+台中潮濕的日子多，棉被如果帶著身體味和濕氣直接收納，下一季拿出來容易有悶味，布面也比較不清爽。
+
+我們會看棉被厚度、表布材質、縫線位置和填充狀態，再判斷能不能水洗、需不需要分區處理，以及收納前要不要加強乾燥。
+
+要整理棉被前，可以先拍整件、洗標和有味道的位置給我們看。
+
+#私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店
+
+### 2026-07-08 19:30 旅行回來先處理外套與行李灰塵
+
+- id: https://39211.github.io/content-calendar/2026-07-08.json#post-2026-07-08-slot-02
+- published local time: 2026-07-08T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: share-worthy-care
+- hashtags: #私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-07-08.json
+
+Facebook caption:
+
+旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。
+
+私享家洗衣店
+
+如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。
+
+我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。
+
+旅行回來要整理，可以把外套、包底和輪邊照片傳來，我們幫你排優先順序。
+
+#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
+
+Instagram caption:
+
+旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。
+
+私享家洗衣店
+
+如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。
+
+我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。
+
+旅行回來要整理，可以把外套、包底和輪邊照片傳來，我們幫你排優先順序。
+
+#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
 
