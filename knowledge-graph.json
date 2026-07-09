@@ -94,6 +94,8 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -193,7 +195,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-08T02:24:20.718Z",
+      "dateModified": "2026-07-09T02:24:28.157Z",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -1352,6 +1354,70 @@
       "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
       "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
       "caption": "旅行回來先處理外套與行李灰塵",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-01",
+      "headline": "2026-07-09 11:30 包包提把的手汗與邊油痕",
+      "text": "包包提把如果開始變黏、變暗，通常不是單純灰塵，而是手汗、保養品和摩擦慢慢堆在表面。\n\n私享家洗衣店\n\n提把和包角是最常被碰到的位置，處理方式如果太強，可能讓皮革變乾、帆布起毛，或讓原本的邊油痕更明顯。\n\n我們會先分辨提把是皮革、合成皮還是布面，再看邊油、縫線和轉角磨耗，判斷能清到什麼程度、哪些痕跡需要保守處理。\n\n包包提把變暗時，可以拍近照和整包照片，我們先幫你看材質狀態。\n\n#私享家洗衣店 #包包清潔 #提把清潔 #精品洗護",
+      "datePublished": "2026-07-09T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#包包清潔",
+        "#提把清潔",
+        "#精品洗護"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-01:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png",
+      "caption": "包包提把的手汗與邊油痕",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-02",
+      "headline": "2026-07-09 19:30 孩子上學鞋襪的泥灰與汗味",
+      "text": "孩子的上學鞋襪常常不是髒在單一位置，而是鞋底泥灰、鞋內汗味和襪子纖維一起累積。\n\n私享家洗衣店\n\n放學後如果直接丟進鞋櫃或洗衣籃，味道會悶住，鞋邊灰痕也會越來越明顯。\n\n我們會先看鞋面材質、鞋底邊、鞋墊能不能拆和襪子纖維狀態，再判斷適合清潔或分開處理。\n\n上學鞋如果開始有味道，拍鞋內、鞋底邊和鞋面，我們先幫你看。\n\n#私享家洗衣店 #童鞋清潔 #鞋子除味 #台中洗鞋",
+      "datePublished": "2026-07-09T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#童鞋清潔",
+        "#鞋子除味",
+        "#台中洗鞋"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-02:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
+      "caption": "孩子上學鞋襪的泥灰與汗味",
       "inLanguage": "zh-Hant"
     }
   ]

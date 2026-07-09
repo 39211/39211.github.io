@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-08T02:24:20.718Z
+- Generated at: 2026-07-09T02:24:28.157Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -134,6 +134,8 @@
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -723,4 +725,84 @@ Instagram caption:
 旅行回來要整理，可以把外套、包底和輪邊照片傳來，我們幫你排優先順序。
 
 #私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
+
+### 2026-07-09 11:30 包包提把的手汗與邊油痕
+
+- id: https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-01
+- published local time: 2026-07-09T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: object-proof
+- hashtags: #私享家洗衣店 #包包清潔 #提把清潔 #精品洗護
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-07-09.json
+
+Facebook caption:
+
+包包提把如果開始變黏、變暗，通常不是單純灰塵，而是手汗、保養品和摩擦慢慢堆在表面。
+
+私享家洗衣店
+
+提把和包角是最常被碰到的位置，處理方式如果太強，可能讓皮革變乾、帆布起毛，或讓原本的邊油痕更明顯。
+
+我們會先分辨提把是皮革、合成皮還是布面，再看邊油、縫線和轉角磨耗，判斷能清到什麼程度、哪些痕跡需要保守處理。
+
+包包提把變暗時，可以拍近照和整包照片，我們先幫你看材質狀態。
+
+#私享家洗衣店 #包包清潔 #提把清潔 #精品洗護
+
+Instagram caption:
+
+包包提把如果開始變黏、變暗，通常不是單純灰塵，而是手汗、保養品和摩擦慢慢堆在表面。
+
+私享家洗衣店
+
+提把和包角是最常被碰到的位置，處理方式如果太強，可能讓皮革變乾、帆布起毛，或讓原本的邊油痕更明顯。
+
+我們會先分辨提把是皮革、合成皮還是布面，再看邊油、縫線和轉角磨耗，判斷能清到什麼程度、哪些痕跡需要保守處理。
+
+包包提把變暗時，可以拍近照和整包照片，我們先幫你看材質狀態。
+
+#私享家洗衣店 #包包清潔 #提把清潔 #精品洗護
+
+### 2026-07-09 19:30 孩子上學鞋襪的泥灰與汗味
+
+- id: https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-02
+- published local time: 2026-07-09T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: object-proof
+- hashtags: #私享家洗衣店 #童鞋清潔 #鞋子除味 #台中洗鞋
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-07-09.json
+
+Facebook caption:
+
+孩子的上學鞋襪常常不是髒在單一位置，而是鞋底泥灰、鞋內汗味和襪子纖維一起累積。
+
+私享家洗衣店
+
+放學後如果直接丟進鞋櫃或洗衣籃，味道會悶住，鞋邊灰痕也會越來越明顯。
+
+我們會先看鞋面材質、鞋底邊、鞋墊能不能拆和襪子纖維狀態，再判斷適合清潔或分開處理。
+
+上學鞋如果開始有味道，拍鞋內、鞋底邊和鞋面，我們先幫你看。
+
+#私享家洗衣店 #童鞋清潔 #鞋子除味 #台中洗鞋
+
+Instagram caption:
+
+孩子的上學鞋襪常常不是髒在單一位置，而是鞋底泥灰、鞋內汗味和襪子纖維一起累積。
+
+私享家洗衣店
+
+放學後如果直接丟進鞋櫃或洗衣籃，味道會悶住，鞋邊灰痕也會越來越明顯。
+
+我們會先看鞋面材質、鞋底邊、鞋墊能不能拆和襪子纖維狀態，再判斷適合清潔或分開處理。
+
+上學鞋如果開始有味道，拍鞋內、鞋底邊和鞋面，我們先幫你看。
+
+#私享家洗衣店 #童鞋清潔 #鞋子除味 #台中洗鞋
 
