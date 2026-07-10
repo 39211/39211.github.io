@@ -96,6 +96,8 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -195,7 +197,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-09T02:24:28.157Z",
+      "dateModified": "2026-07-10T08:36:24.582Z",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -1418,6 +1420,70 @@
       "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
       "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
       "caption": "孩子上學鞋襪的泥灰與汗味",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-01",
+      "headline": "2026-07-10 11:30 皮鞋雨痕與鞋面乾裂前的檢查",
+      "text": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n私享家洗衣店\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養",
+      "datePublished": "2026-07-10T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#皮鞋保養",
+        "#鞋子清潔",
+        "#雨季保養"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-01:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
+      "caption": "皮鞋雨痕與鞋面乾裂前的檢查",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-02",
+      "headline": "2026-07-10 19:30 週末大掃除後的布品分袋",
+      "text": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n私享家洗衣店\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n家裡整理出一袋布品時，可以先拍袋內物件和洗標，我們幫你分。\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店",
+      "datePublished": "2026-07-10T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#布品收納",
+        "#大掃除整理",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-02:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
+      "caption": "週末大掃除後的布品分袋",
       "inLanguage": "zh-Hant"
     }
   ]

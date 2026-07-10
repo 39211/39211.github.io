@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T02:24:28.157Z",
+  "generated_at": "2026-07-10T08:36:24.582Z",
   "site_name": "私享家洗衣店",
   "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
   "timezone": "Asia/Taipei",
@@ -8,7 +8,7 @@
   "image_base_url": "https://39211.github.io/laundry-social-auto-poster",
   "image_base_url_configured": true,
   "canonical_url": "https://39211.github.io/",
-  "latest_date": "2026-07-09",
+  "latest_date": "2026-07-10",
   "open_graph": {
     "title": "私享家洗衣店｜台中西屯青海路洗衣、洗鞋、洗包、布品收納",
     "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
@@ -558,6 +558,66 @@
       "url": "https://39211.github.io/content-calendar/2026-07-09.json#post-2026-07-09-slot-02",
       "facebook_caption": "孩子的上學鞋襪常常不是髒在單一位置，而是鞋底泥灰、鞋內汗味和襪子纖維一起累積。\n\n私享家洗衣店\n\n放學後如果直接丟進鞋櫃或洗衣籃，味道會悶住，鞋邊灰痕也會越來越明顯。\n\n我們會先看鞋面材質、鞋底邊、鞋墊能不能拆和襪子纖維狀態，再判斷適合清潔或分開處理。\n\n上學鞋如果開始有味道，拍鞋內、鞋底邊和鞋面，我們先幫你看。\n\n#私享家洗衣店 #童鞋清潔 #鞋子除味 #台中洗鞋",
       "instagram_caption": "孩子的上學鞋襪常常不是髒在單一位置，而是鞋底泥灰、鞋內汗味和襪子纖維一起累積。\n\n私享家洗衣店\n\n放學後如果直接丟進鞋櫃或洗衣籃，味道會悶住，鞋邊灰痕也會越來越明顯。\n\n我們會先看鞋面材質、鞋底邊、鞋墊能不能拆和襪子纖維狀態，再判斷適合清潔或分開處理。\n\n上學鞋如果開始有味道，拍鞋內、鞋底邊和鞋面，我們先幫你看。\n\n#私享家洗衣店 #童鞋清潔 #鞋子除味 #台中洗鞋"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-01",
+      "date": "2026-07-10",
+      "date_published": "2026-07-10T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-07-10 11:30 皮鞋雨痕與鞋面乾裂前的檢查",
+      "topic": "皮鞋雨痕與鞋面乾裂前的檢查",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#皮鞋保養",
+        "#鞋子清潔",
+        "#雨季保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-07-10/slot-01.png",
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
+      "calendar_path": "content-calendar/2026-07-10.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-10.json",
+      "url": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-01",
+      "facebook_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n私享家洗衣店\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養",
+      "instagram_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n私享家洗衣店\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-02",
+      "date": "2026-07-10",
+      "date_published": "2026-07-10T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "title": "2026-07-10 19:30 週末大掃除後的布品分袋",
+      "topic": "週末大掃除後的布品分袋",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#布品收納",
+        "#大掃除整理",
+        "#台中洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-07-10/slot-02.png",
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
+      "calendar_path": "content-calendar/2026-07-10.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-10.json",
+      "url": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-02",
+      "facebook_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n私享家洗衣店\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n家裡整理出一袋布品時，可以先拍袋內物件和洗標，我們幫你分。\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店",
+      "instagram_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n私享家洗衣店\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n家裡整理出一袋布品時，可以先拍袋內物件和洗標，我們幫你分。\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店"
     }
   ]
 }

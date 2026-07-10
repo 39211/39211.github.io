@@ -1,0 +1,37 @@
+{
+  "date": "2026-07-10",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-07-09T22:33:41.954Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "皮鞋雨痕與鞋面乾裂前的檢查",
+      "instagram_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n私享家洗衣店\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養",
+      "facebook_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n私享家洗衣店\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養",
+      "image_prompt": "Realistic square shop photo in a shoe-care workspace: leather dress shoes on a clean inspection table, subtle rain marks on upper, soft cloth and brush nearby, staff hand checking creases, premium documentary style, no logo, no readable text.",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-07-10/slot-01.png",
+      "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "週末大掃除後的布品分袋",
+      "instagram_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n私享家洗衣店\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n家裡整理出一袋布品時，可以先拍袋內物件和洗標，我們幫你分。\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店",
+      "facebook_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n私享家洗衣店\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n家裡整理出一袋布品時，可以先拍袋內物件和洗標，我們幫你分。\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店",
+      "image_prompt": "Realistic square shop photo: bedding, jacket, and cushion cover sorted into separate neat piles on a laundry counter, staff hand labeling categories without readable text, premium clean documentary style, no logo.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-07-10/slot-02.png",
+      "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
+      "status": "pending"
+    }
+  ]
+}
