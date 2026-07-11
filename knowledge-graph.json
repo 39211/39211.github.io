@@ -98,6 +98,8 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -197,7 +199,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-10T08:36:24.582Z",
+      "dateModified": "2026-07-11T02:22:12.567Z",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -1484,6 +1486,70 @@
       "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
       "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
       "caption": "週末大掃除後的布品分袋",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-01",
+      "headline": "2026-07-11 11:30 先看懂：白鞋鞋邊泛灰前的檢查",
+      "text": "先看懂：白鞋鞋邊泛灰前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n白鞋鞋邊泛灰前的檢查 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養",
+      "datePublished": "2026-07-11T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#白鞋清潔",
+        "#鞋子保養"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-01:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
+      "caption": "先看懂：白鞋鞋邊泛灰前的檢查",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-02",
+      "headline": "2026-07-11 19:30 今天情境：雨後通勤回家不要直接收鞋",
+      "text": "今天情境：雨後通勤回家不要直接收鞋，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n雨後通勤回家不要直接收鞋 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常",
+      "datePublished": "2026-07-11T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#雨天鞋子",
+        "#通勤日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-02:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
+      "caption": "今天情境：雨後通勤回家不要直接收鞋",
       "inLanguage": "zh-Hant"
     }
   ]

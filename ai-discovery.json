@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-07-10T08:36:24.582Z",
+  "generated_at": "2026-07-11T02:22:12.567Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -303,6 +303,8 @@
       "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
       "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
       "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
+      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
+      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
       "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
       "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
       "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -626,66 +628,116 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 16,
-    "latest_date": "2026-07-10",
+    "post_count": 18,
+    "latest_date": "2026-07-11",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true
   },
-  "latest_date": "2026-07-10",
+  "latest_date": "2026-07-11",
   "latest_posts": [
     {
-      "id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-01",
-      "date": "2026-07-10",
-      "date_published": "2026-07-10T11:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-01",
+      "date": "2026-07-11",
+      "date_published": "2026-07-11T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-07-10 11:30 皮鞋雨痕與鞋面乾裂前的檢查",
-      "topic": "皮鞋雨痕與鞋面乾裂前的檢查",
-      "visual_route": "customer-consultation",
-      "traffic_route": "trust-reset",
+      "title": "2026-07-11 11:30 先看懂：白鞋鞋邊泛灰前的檢查",
+      "topic": "先看懂：白鞋鞋邊泛灰前的檢查",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
       "hashtags": [
         "#私享家洗衣店",
-        "#皮鞋保養",
-        "#鞋子清潔",
-        "#雨季保養"
+        "#台中西屯洗衣店",
+        "#白鞋清潔",
+        "#鞋子保養"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-10.json",
-      "facebook_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n私享家洗衣店\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養",
-      "instagram_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n私享家洗衣店\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養"
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-11.json",
+      "facebook_caption": "先看懂：白鞋鞋邊泛灰前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n白鞋鞋邊泛灰前的檢查 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養",
+      "instagram_caption": "先看懂：白鞋鞋邊泛灰前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n白鞋鞋邊泛灰前的檢查 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養"
     },
     {
-      "id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-02",
-      "date": "2026-07-10",
-      "date_published": "2026-07-10T19:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-02",
+      "date": "2026-07-11",
+      "date_published": "2026-07-11T19:30:00+08:00",
       "slot": 2,
       "time": "19:30",
-      "title": "2026-07-10 19:30 週末大掃除後的布品分袋",
-      "topic": "週末大掃除後的布品分袋",
-      "visual_route": "shop-inspection",
+      "title": "2026-07-11 19:30 今天情境：雨後通勤回家不要直接收鞋",
+      "topic": "今天情境：雨後通勤回家不要直接收鞋",
+      "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "hashtags": [
         "#私享家洗衣店",
-        "#布品收納",
-        "#大掃除整理",
-        "#台中洗衣店"
+        "#台中西屯洗衣店",
+        "#雨天鞋子",
+        "#通勤日常"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-10.json",
-      "facebook_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n私享家洗衣店\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n家裡整理出一袋布品時，可以先拍袋內物件和洗標，我們幫你分。\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店",
-      "instagram_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n私享家洗衣店\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n家裡整理出一袋布品時，可以先拍袋內物件和洗標，我們幫你分。\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店"
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-11.json",
+      "facebook_caption": "今天情境：雨後通勤回家不要直接收鞋，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n雨後通勤回家不要直接收鞋 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常",
+      "instagram_caption": "今天情境：雨後通勤回家不要直接收鞋，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n雨後通勤回家不要直接收鞋 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-02",
+      "date": "2026-07-11",
+      "date_published": "2026-07-11T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-07-11 19:30 今天情境：雨後通勤回家不要直接收鞋",
+      "topic": "今天情境：雨後通勤回家不要直接收鞋",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#雨天鞋子",
+        "#通勤日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-11.json",
+      "facebook_caption": "今天情境：雨後通勤回家不要直接收鞋，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n雨後通勤回家不要直接收鞋 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常",
+      "instagram_caption": "今天情境：雨後通勤回家不要直接收鞋，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n雨後通勤回家不要直接收鞋 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-01",
+      "date": "2026-07-11",
+      "date_published": "2026-07-11T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-07-11 11:30 先看懂：白鞋鞋邊泛灰前的檢查",
+      "topic": "先看懂：白鞋鞋邊泛灰前的檢查",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#白鞋清潔",
+        "#鞋子保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-11.json",
+      "facebook_caption": "先看懂：白鞋鞋邊泛灰前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n白鞋鞋邊泛灰前的檢查 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養",
+      "instagram_caption": "先看懂：白鞋鞋邊泛灰前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n白鞋鞋邊泛灰前的檢查 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養"
+    },
     {
       "id": "https://39211.github.io/content-calendar/2026-07-10.json#post-2026-07-10-slot-02",
       "date": "2026-07-10",
@@ -1471,6 +1523,56 @@
       "calendar_url": "https://39211.github.io/content-calendar/2026-07-10.json",
       "facebook_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n私享家洗衣店\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n家裡整理出一袋布品時，可以先拍袋內物件和洗標，我們幫你分。\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店",
       "instagram_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n私享家洗衣店\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n家裡整理出一袋布品時，可以先拍袋內物件和洗標，我們幫你分。\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-01",
+      "date": "2026-07-11",
+      "date_published": "2026-07-11T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-07-11 11:30 先看懂：白鞋鞋邊泛灰前的檢查",
+      "topic": "先看懂：白鞋鞋邊泛灰前的檢查",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#白鞋清潔",
+        "#鞋子保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-11.json",
+      "facebook_caption": "先看懂：白鞋鞋邊泛灰前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n白鞋鞋邊泛灰前的檢查 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養",
+      "instagram_caption": "先看懂：白鞋鞋邊泛灰前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n白鞋鞋邊泛灰前的檢查 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-02",
+      "date": "2026-07-11",
+      "date_published": "2026-07-11T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-07-11 19:30 今天情境：雨後通勤回家不要直接收鞋",
+      "topic": "今天情境：雨後通勤回家不要直接收鞋",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#雨天鞋子",
+        "#通勤日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-11.json",
+      "facebook_caption": "今天情境：雨後通勤回家不要直接收鞋，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n雨後通勤回家不要直接收鞋 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常",
+      "instagram_caption": "今天情境：雨後通勤回家不要直接收鞋，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n雨後通勤回家不要直接收鞋 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常"
     }
   ]
 }
