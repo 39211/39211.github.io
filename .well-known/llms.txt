@@ -82,6 +82,18 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-07-12 19:30 今天情境：下班最常背的包先看提把](https://39211.github.io/content-calendar/2026-07-12.json#post-2026-07-12-slot-02)
+  platform targets: facebook, instagram
+  routes: visual_route=macro-detail; traffic_route=object-proof
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常
+  image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png
+  calendar: https://39211.github.io/content-calendar/2026-07-12.json
+- [2026-07-12 11:30 先看懂：包包提把手汗與邊油痕](https://39211.github.io/content-calendar/2026-07-12.json#post-2026-07-12-slot-01)
+  platform targets: facebook, instagram
+  routes: visual_route=macro-detail; traffic_route=object-proof
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #提把保養
+  image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-07-12.json
 - [2026-07-11 19:30 今天情境：雨後通勤回家不要直接收鞋](https://39211.github.io/content-calendar/2026-07-11.json#post-2026-07-11-slot-02)
   platform targets: facebook, instagram
   routes: visual_route=customer-consultation; traffic_route=value-prop-lead

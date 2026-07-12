@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-11T02:22:12.567Z
+- Generated at: 2026-07-12T02:22:25.575Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -140,6 +140,8 @@
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -977,4 +979,92 @@ Instagram caption:
 想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。
 
 #私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常
+
+### 2026-07-12 11:30 先看懂：包包提把手汗與邊油痕
+
+- id: https://39211.github.io/content-calendar/2026-07-12.json#post-2026-07-12-slot-01
+- published local time: 2026-07-12T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: object-proof
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #提把保養
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-07-12.json
+
+Facebook caption:
+
+先看懂：包包提把手汗與邊油痕，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。
+
+包包提把手汗與邊油痕 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #提把保養
+
+Instagram caption:
+
+先看懂：包包提把手汗與邊油痕，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。
+
+包包提把手汗與邊油痕 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #提把保養
+
+### 2026-07-12 19:30 今天情境：下班最常背的包先看提把
+
+- id: https://39211.github.io/content-calendar/2026-07-12.json#post-2026-07-12-slot-02
+- published local time: 2026-07-12T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: object-proof
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-07-12.json
+
+Facebook caption:
+
+今天情境：下班最常背的包先看提把，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。
+
+下班最常背的包先看提把 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常
+
+Instagram caption:
+
+今天情境：下班最常背的包先看提把，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。
+
+下班最常背的包先看提把 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常
 
