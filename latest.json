@@ -1,72 +1,72 @@
 {
-  "generated_at": "2026-07-12T02:22:25.575Z",
+  "generated_at": "2026-07-13T02:25:04.119Z",
   "site_name": "私享家洗衣店",
   "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
   "timezone": "Asia/Taipei",
   "base_url": "https://39211.github.io",
   "base_url_configured": true,
   "canonical_url": "https://39211.github.io/",
-  "date": "2026-07-12",
+  "date": "2026-07-13",
   "posts": [
     {
-      "id": "https://39211.github.io/content-calendar/2026-07-12.json#post-2026-07-12-slot-01",
-      "date": "2026-07-12",
-      "date_published": "2026-07-12T11:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-07-13.json#post-2026-07-13-slot-01",
+      "date": "2026-07-13",
+      "date_published": "2026-07-13T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
       "category": "知識文",
-      "title": "2026-07-12 11:30 先看懂：包包提把手汗與邊油痕",
-      "topic": "先看懂：包包提把手汗與邊油痕",
-      "visual_route": "macro-detail",
-      "traffic_route": "object-proof",
+      "title": "2026-07-13 11:30 先看懂：棉被收納前的濕氣與睡眠味",
+      "topic": "先看懂：棉被收納前的濕氣與睡眠味",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#包包清潔",
-        "#提把保養"
+        "#棉被清洗",
+        "#布品收納"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-07-12/slot-01.png",
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png",
-      "calendar_path": "content-calendar/2026-07-12.json",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-12.json",
-      "url": "https://39211.github.io/content-calendar/2026-07-12.json#post-2026-07-12-slot-01",
-      "facebook_caption": "先看懂：包包提把手汗與邊油痕，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n包包提把手汗與邊油痕 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #提把保養",
-      "instagram_caption": "先看懂：包包提把手汗與邊油痕，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n包包提把手汗與邊油痕 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #提把保養"
+      "image_path": "assets/2026-07-13/slot-01.png",
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png",
+      "calendar_path": "content-calendar/2026-07-13.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-13.json",
+      "url": "https://39211.github.io/content-calendar/2026-07-13.json#post-2026-07-13-slot-01",
+      "facebook_caption": "先看懂：棉被收納前的濕氣與睡眠味，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n棉被收納前的濕氣與睡眠味 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納",
+      "instagram_caption": "先看懂：棉被收納前的濕氣與睡眠味，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n棉被收納前的濕氣與睡眠味 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納"
     },
     {
-      "id": "https://39211.github.io/content-calendar/2026-07-12.json#post-2026-07-12-slot-02",
-      "date": "2026-07-12",
-      "date_published": "2026-07-12T19:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-07-13.json#post-2026-07-13-slot-02",
+      "date": "2026-07-13",
+      "date_published": "2026-07-13T19:30:00+08:00",
       "slot": 2,
       "time": "19:30",
       "category": "情境文",
-      "title": "2026-07-12 19:30 今天情境：下班最常背的包先看提把",
-      "topic": "今天情境：下班最常背的包先看提把",
-      "visual_route": "macro-detail",
-      "traffic_route": "object-proof",
+      "title": "2026-07-13 19:30 今天情境：週末換季整理先分類布品",
+      "topic": "今天情境：週末換季整理先分類布品",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#包包清潔",
-        "#下班日常"
+        "#換季收納",
+        "#布品清潔"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-07-12/slot-02.png",
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png",
-      "calendar_path": "content-calendar/2026-07-12.json",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-12.json",
-      "url": "https://39211.github.io/content-calendar/2026-07-12.json#post-2026-07-12-slot-02",
-      "facebook_caption": "今天情境：下班最常背的包先看提把，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n下班最常背的包先看提把 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常",
-      "instagram_caption": "今天情境：下班最常背的包先看提把，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n下班最常背的包先看提把 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常"
+      "image_path": "assets/2026-07-13/slot-02.png",
+      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png",
+      "calendar_path": "content-calendar/2026-07-13.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-13.json",
+      "url": "https://39211.github.io/content-calendar/2026-07-13.json#post-2026-07-13-slot-02",
+      "facebook_caption": "今天情境：週末換季整理先分類布品，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n週末換季整理先分類布品 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #換季收納 #布品清潔",
+      "instagram_caption": "今天情境：週末換季整理先分類布品，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n週末換季整理先分類布品 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #換季收納 #布品清潔"
     }
   ]
 }
