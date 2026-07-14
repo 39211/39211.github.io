@@ -42,6 +42,10 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [雨天鞋子進水後怎麼辦？](https://39211.github.io/guides/rainy-shoe-care.html): guide page for answer-engine and local-intent searches.
 - [包包提把與包角髒了怎麼判斷？](https://39211.github.io/guides/bag-handle-cleaning.html): guide page for answer-engine and local-intent searches.
 - [寢具外套收納前要檢查什麼？](https://39211.github.io/guides/bedding-storage-check.html): guide page for answer-engine and local-intent searches.
+- [襯衫清洗與西裝乾洗](https://39211.github.io/guides/shirt-suit-dry-cleaning.html): guide page for answer-engine and local-intent searches.
+- [床組、棉被與寢具清洗](https://39211.github.io/guides/bedding-duvet-cleaning.html): guide page for answer-engine and local-intent searches.
+- [娃娃與絨毛玩偶清潔](https://39211.github.io/guides/plush-doll-cleaning.html): guide page for answer-engine and local-intent searches.
+- [精品名牌與精緻乾洗](https://39211.github.io/guides/luxury-dry-cleaning.html): guide page for answer-engine and local-intent searches.
 - [青海路附近洗鞋洗包服務](https://39211.github.io/local/qinghai-road-shoe-cleaning.html): local page for answer-engine and local-intent searches.
 - [JSON Feed](https://39211.github.io/feed.json): chronological update feed for readers and AI ingestion.
 - [Knowledge graph](https://39211.github.io/knowledge-graph.json): Schema.org JSON-LD business, dataset, post, and image entities.

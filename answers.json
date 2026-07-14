@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-14T07:50:51.518Z",
+  "generated_at": "2026-07-14T08:19:55.969Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -918,6 +918,342 @@
         "寢具收納",
         "外套收納",
         "換季清潔"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shirt-suit-dry-cleaning-summary",
+      "type": "guide_summary",
+      "question": "襯衫清洗與西裝乾洗",
+      "answer": "襯衫的領口袖口、西裝的面料、內襯與配件，不適合用同一種方式處理。先傳清楚照片，讓門市依材質與狀況判斷送洗方向。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
+      "local_intent": "台中西屯 襯衫清洗 西裝乾洗 精緻乾洗",
+      "keywords": [
+        "台中西屯襯衫清洗",
+        "台中西屯西裝乾洗",
+        "西屯乾洗店",
+        "襯衫領口清洗",
+        "西裝送洗",
+        "精緻乾洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shirt-suit-dry-cleaning-faq-01",
+      "type": "guide_faq",
+      "question": "西裝和襯衫可以一起送洗嗎？",
+      "answer": "可以先一起詢問，但門市會依每件衣物的材質、洗標、內襯與污漬位置分別判斷。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html#faq",
+      "local_intent": "台中西屯 襯衫清洗 西裝乾洗 精緻乾洗",
+      "keywords": [
+        "台中西屯襯衫清洗",
+        "台中西屯西裝乾洗",
+        "西屯乾洗店",
+        "襯衫領口清洗",
+        "西裝送洗",
+        "精緻乾洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shirt-suit-dry-cleaning-faq-02",
+      "type": "guide_faq",
+      "question": "襯衫領口泛黃可以直接漂白嗎？",
+      "answer": "不建議先自行強力漂白或硬刷，先保留目前狀態並傳照片，避免材質與顏色風險增加。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html#faq",
+      "local_intent": "台中西屯 襯衫清洗 西裝乾洗 精緻乾洗",
+      "keywords": [
+        "台中西屯襯衫清洗",
+        "台中西屯西裝乾洗",
+        "西屯乾洗店",
+        "襯衫領口清洗",
+        "西裝送洗",
+        "精緻乾洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bedding-duvet-cleaning-summary",
+      "type": "guide_summary",
+      "question": "床組、棉被與寢具清洗",
+      "answer": "床組不是只看表面乾不乾淨；填充物、潮氣、異味與收納前狀態都會影響後續判斷。先傳照片與尺寸，讓門市確認送件方向。",
+      "service": "布品收納",
+      "source_url": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
+      "local_intent": "台中西屯 床組清洗 棉被清洗 寢具送洗",
+      "keywords": [
+        "台中西屯床組清洗",
+        "台中棉被清洗",
+        "西屯寢具清洗",
+        "被套清洗",
+        "床單清洗",
+        "換季寢具收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bedding-duvet-cleaning-faq-01",
+      "type": "guide_faq",
+      "question": "棉被和床單可以一起送洗嗎？",
+      "answer": "可以先一起詢問，但填充物、尺寸與材質不同，門市會分別確認處理方式。",
+      "service": "布品收納",
+      "source_url": "https://39211.github.io/guides/bedding-duvet-cleaning.html#faq",
+      "local_intent": "台中西屯 床組清洗 棉被清洗 寢具送洗",
+      "keywords": [
+        "台中西屯床組清洗",
+        "台中棉被清洗",
+        "西屯寢具清洗",
+        "被套清洗",
+        "床單清洗",
+        "換季寢具收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bedding-duvet-cleaning-faq-02",
+      "type": "guide_faq",
+      "question": "收納前發現寢具有潮味怎麼辦？",
+      "answer": "先不要急著密封收進櫃子，拍下整體與局部狀態，讓門市先判斷材質與受潮情況。",
+      "service": "布品收納",
+      "source_url": "https://39211.github.io/guides/bedding-duvet-cleaning.html#faq",
+      "local_intent": "台中西屯 床組清洗 棉被清洗 寢具送洗",
+      "keywords": [
+        "台中西屯床組清洗",
+        "台中棉被清洗",
+        "西屯寢具清洗",
+        "被套清洗",
+        "床單清洗",
+        "換季寢具收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "plush-doll-cleaning-summary",
+      "type": "guide_summary",
+      "question": "娃娃與絨毛玩偶清潔",
+      "answer": "絨毛、填充物、刺繡、黏貼配件和五官材質都可能不同。先傳正反面、洗標與需要處理的位置，讓門市確認處理界線。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/plush-doll-cleaning.html",
+      "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
+      "keywords": [
+        "台中西屯娃娃清洗",
+        "台中布偶清潔",
+        "絨毛玩偶清洗",
+        "娃娃送洗",
+        "玩偶清潔",
+        "西屯洗衣店"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "plush-doll-cleaning-faq-01",
+      "type": "guide_faq",
+      "question": "娃娃可以直接丟洗衣機嗎？",
+      "answer": "不建議在未確認填充物、五官與黏貼配件前直接機洗，先拍照詢問較安全。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/plush-doll-cleaning.html#faq",
+      "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
+      "keywords": [
+        "台中西屯娃娃清洗",
+        "台中布偶清潔",
+        "絨毛玩偶清洗",
+        "娃娃送洗",
+        "玩偶清潔",
+        "西屯洗衣店"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "plush-doll-cleaning-faq-02",
+      "type": "guide_faq",
+      "question": "絨毛玩偶有異味可以送洗嗎？",
+      "answer": "可以先傳照片並說明異味、受潮與存放情況，門市會先確認材質與處理方向。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/plush-doll-cleaning.html#faq",
+      "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
+      "keywords": [
+        "台中西屯娃娃清洗",
+        "台中布偶清潔",
+        "絨毛玩偶清洗",
+        "娃娃送洗",
+        "玩偶清潔",
+        "西屯洗衣店"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "luxury-dry-cleaning-summary",
+      "type": "guide_summary",
+      "question": "精品名牌與精緻乾洗",
+      "answer": "精品或名牌物件不以品牌名稱直接判斷，而是先看材質、結構、飾件與既有使用痕跡。先傳局部細節，讓門市確認處理方向與界線。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/luxury-dry-cleaning.html",
+      "local_intent": "台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗",
+      "keywords": [
+        "台中西屯精品乾洗",
+        "台中名牌乾洗",
+        "精品服飾清潔",
+        "精緻乾洗",
+        "名牌衣服送洗",
+        "精品清潔"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "luxury-dry-cleaning-faq-01",
+      "type": "guide_faq",
+      "question": "名牌衣服可以直接乾洗嗎？",
+      "answer": "先看洗標、材質與飾件狀態，不建議只因為是名牌就直接套用同一種處理方式。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/luxury-dry-cleaning.html#faq",
+      "local_intent": "台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗",
+      "keywords": [
+        "台中西屯精品乾洗",
+        "台中名牌乾洗",
+        "精品服飾清潔",
+        "精緻乾洗",
+        "名牌衣服送洗",
+        "精品清潔"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "luxury-dry-cleaning-faq-02",
+      "type": "guide_faq",
+      "question": "精品有舊污漬還能詢問嗎？",
+      "answer": "可以，請拍下污漬位置、範圍與材質細節；門市會先說明可行方向與風險界線。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/luxury-dry-cleaning.html#faq",
+      "local_intent": "台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗",
+      "keywords": [
+        "台中西屯精品乾洗",
+        "台中名牌乾洗",
+        "精品服飾清潔",
+        "精緻乾洗",
+        "名牌衣服送洗",
+        "精品清潔"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",

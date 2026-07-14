@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-07-14T07:50:51.518Z",
+  "generated_at": "2026-07-14T08:19:55.969Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -157,6 +157,10 @@
       "rainy-shoe-care": "https://39211.github.io/guides/rainy-shoe-care.html",
       "bag-handle-cleaning": "https://39211.github.io/guides/bag-handle-cleaning.html",
       "bedding-storage-check": "https://39211.github.io/guides/bedding-storage-check.html",
+      "shirt-suit-dry-cleaning": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
+      "bedding-duvet-cleaning": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
+      "plush-doll-cleaning": "https://39211.github.io/guides/plush-doll-cleaning.html",
+      "luxury-dry-cleaning": "https://39211.github.io/guides/luxury-dry-cleaning.html",
       "qinghai-road-shoe-cleaning": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html"
     },
     "feed": "https://39211.github.io/feed.json",
@@ -177,6 +181,10 @@
     "https://39211.github.io/guides/rainy-shoe-care.html",
     "https://39211.github.io/guides/bag-handle-cleaning.html",
     "https://39211.github.io/guides/bedding-storage-check.html",
+    "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
+    "https://39211.github.io/guides/bedding-duvet-cleaning.html",
+    "https://39211.github.io/guides/plush-doll-cleaning.html",
+    "https://39211.github.io/guides/luxury-dry-cleaning.html",
     "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
     "https://39211.github.io/latest.json",
     "https://39211.github.io/knowledge-graph.json",
@@ -690,6 +698,82 @@
       ],
       "local_intent": "台中西屯 布品收納 寢具清潔",
       "linked_service": "布品收納",
+      "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "shirt-suit-dry-cleaning",
+      "category": "guide",
+      "title": "台中西屯襯衫清洗與西裝乾洗｜私享家洗衣店",
+      "description": "襯衫、西裝、外套送洗前，先確認材質、領口袖口髒污、內襯與裝飾細節。私享家洗衣店提供台中西屯洗衣與精緻乾洗的送件前判斷。",
+      "url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
+      "keywords": [
+        "台中西屯襯衫清洗",
+        "台中西屯西裝乾洗",
+        "西屯乾洗店",
+        "襯衫領口清洗",
+        "西裝送洗",
+        "精緻乾洗"
+      ],
+      "local_intent": "台中西屯 襯衫清洗 西裝乾洗 精緻乾洗",
+      "linked_service": "台中西屯洗衣店",
+      "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "bedding-duvet-cleaning",
+      "category": "guide",
+      "title": "台中西屯床組與棉被清洗｜私享家洗衣店",
+      "description": "床組、棉被、被套與寢具送洗前，先確認填充物、尺寸、污漬與是否受潮。私享家洗衣店提供台中西屯寢具清洗與收納前檢查。",
+      "url": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
+      "keywords": [
+        "台中西屯床組清洗",
+        "台中棉被清洗",
+        "西屯寢具清洗",
+        "被套清洗",
+        "床單清洗",
+        "換季寢具收納"
+      ],
+      "local_intent": "台中西屯 床組清洗 棉被清洗 寢具送洗",
+      "linked_service": "布品收納",
+      "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "plush-doll-cleaning",
+      "category": "guide",
+      "title": "台中西屯娃娃與絨毛玩偶清潔｜私享家洗衣店",
+      "description": "娃娃、絨毛玩偶與布偶送洗前，先確認填充物、黏貼配件、五官與局部污漬。私享家洗衣店提供台中西屯布偶清潔的送件前判斷。",
+      "url": "https://39211.github.io/guides/plush-doll-cleaning.html",
+      "keywords": [
+        "台中西屯娃娃清洗",
+        "台中布偶清潔",
+        "絨毛玩偶清洗",
+        "娃娃送洗",
+        "玩偶清潔",
+        "西屯洗衣店"
+      ],
+      "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
+      "linked_service": "台中西屯洗衣店",
+      "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "luxury-dry-cleaning",
+      "category": "guide",
+      "title": "台中西屯精品名牌與精緻乾洗｜私享家洗衣店",
+      "description": "精品名牌服飾、配件與精緻材質送洗前，先確認材質、洗標、五金、飾件與污漬位置。私享家洗衣店提供台中西屯精緻乾洗的送件前判斷。",
+      "url": "https://39211.github.io/guides/luxury-dry-cleaning.html",
+      "keywords": [
+        "台中西屯精品乾洗",
+        "台中名牌乾洗",
+        "精品服飾清潔",
+        "精緻乾洗",
+        "名牌衣服送洗",
+        "精品清潔"
+      ],
+      "local_intent": "台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗",
+      "linked_service": "台中西屯洗衣店",
       "faq_count": 2,
       "step_count": 4
     },

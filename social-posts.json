@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T07:50:51.518Z",
+  "generated_at": "2026-07-14T08:19:55.969Z",
   "site_name": "私享家洗衣店",
   "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
   "timezone": "Asia/Taipei",
@@ -48,6 +48,10 @@
       "rainy-shoe-care": "https://39211.github.io/guides/rainy-shoe-care.html",
       "bag-handle-cleaning": "https://39211.github.io/guides/bag-handle-cleaning.html",
       "bedding-storage-check": "https://39211.github.io/guides/bedding-storage-check.html",
+      "shirt-suit-dry-cleaning": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
+      "bedding-duvet-cleaning": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
+      "plush-doll-cleaning": "https://39211.github.io/guides/plush-doll-cleaning.html",
+      "luxury-dry-cleaning": "https://39211.github.io/guides/luxury-dry-cleaning.html",
       "qinghai-road-shoe-cleaning": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html"
     },
     "feed": "https://39211.github.io/feed.json",

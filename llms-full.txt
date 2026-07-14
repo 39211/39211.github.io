@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-14T07:50:51.518Z
+- Generated at: 2026-07-14T08:19:55.969Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -34,6 +34,10 @@
 - support_pages.rainy-shoe-care: https://39211.github.io/guides/rainy-shoe-care.html
 - support_pages.bag-handle-cleaning: https://39211.github.io/guides/bag-handle-cleaning.html
 - support_pages.bedding-storage-check: https://39211.github.io/guides/bedding-storage-check.html
+- support_pages.shirt-suit-dry-cleaning: https://39211.github.io/guides/shirt-suit-dry-cleaning.html
+- support_pages.bedding-duvet-cleaning: https://39211.github.io/guides/bedding-duvet-cleaning.html
+- support_pages.plush-doll-cleaning: https://39211.github.io/guides/plush-doll-cleaning.html
+- support_pages.luxury-dry-cleaning: https://39211.github.io/guides/luxury-dry-cleaning.html
 - support_pages.qinghai-road-shoe-cleaning: https://39211.github.io/local/qinghai-road-shoe-cleaning.html
 - feed: https://39211.github.io/feed.json
 - knowledge_graph: https://39211.github.io/knowledge-graph.json
