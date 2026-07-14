@@ -104,6 +104,8 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -203,7 +205,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-13T02:25:04.119Z",
+      "dateModified": "2026-07-14T02:23:05.662Z",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -1682,6 +1684,70 @@
       "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png",
       "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png",
       "caption": "今天情境：週末換季整理先分類布品",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-01",
+      "headline": "2026-07-14 11:30 先看懂：深色衣服洗久變灰的判斷",
+      "text": "先看懂：深色衣服洗久變灰的判斷，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n深色衣服洗久變灰的判斷 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #衣物保養 #深色衣物",
+      "datePublished": "2026-07-14T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#衣物保養",
+        "#深色衣物"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-01:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png",
+      "caption": "先看懂：深色衣服洗久變灰的判斷",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-02",
+      "headline": "2026-07-14 19:30 今天情境：暑假旅行回來先處理外套",
+      "text": "今天情境：暑假旅行回來先處理外套，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n暑假旅行回來先處理外套 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #旅行整理 #外套清洗",
+      "datePublished": "2026-07-14T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#旅行整理",
+        "#外套清洗"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-02:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png",
+      "caption": "今天情境：暑假旅行回來先處理外套",
       "inLanguage": "zh-Hant"
     }
   ]
