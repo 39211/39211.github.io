@@ -679,6 +679,58 @@
         ],
         "calendar_url": "https://39211.github.io/content-calendar/2026-07-15.json"
       }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-16.json#post-2026-07-16-slot-01",
+      "url": "https://39211.github.io/posts/2026-07-16-slot-01.html",
+      "title": "2026-07-16 11:30 先看懂：皮鞋雨痕與皺摺邊緣",
+      "date_published": "2026-07-16T11:30:00+08:00",
+      "content_text": "先看懂：皮鞋雨痕與皺摺邊緣，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。\n\n遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #皮鞋保養 #雨天鞋子",
+      "summary": "先看懂：皮鞋雨痕與皺摺邊緣",
+      "image": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "皮鞋保養",
+        "雨天鞋子"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "trust-reset",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-07-16.json"
+      }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-16.json#post-2026-07-16-slot-02",
+      "url": "https://39211.github.io/posts/2026-07-16-slot-02.html",
+      "title": "2026-07-16 19:30 忙到沒手再搬洗衣籃的家庭日常",
+      "date_published": "2026-07-16T19:30:00+08:00",
+      "content_text": "忙到沒手再搬洗衣籃的家庭日常，接送與晚餐之間不該再塞進一趟送洗。\n\n私享家洗衣店\n\n家裡有小孩或長輩要照顧時，洗衣籃常常不是只有一件外套，而是球衣、校服、毛巾和大人衣服一起堆起來。真正卡住的不是願不願意洗，而是沒有多餘的手去搬、去停車、再搬回來。\n\n私享家提供台中市全區免費到府收送。家庭日常衣物可先分袋拍照，用 LINE 傳收件地址與方便聯絡的時段，再由我們確認收送安排。\n\n今天家裡堆著待洗物，直接在 LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認。\n\n追蹤私享家，之後會持續整理忙碌家庭也能輕鬆安排的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "summary": "忙到沒手再搬洗衣籃的家庭日常",
+      "image": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "台中洗衣收送",
+        "免費到府收送"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "value-prop-lead",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-07-16.json"
+      }
     }
   ]
 }

@@ -141,12 +141,18 @@
       width: min(1120px, calc(100% - 44px));
       margin: 0 auto;
     }
-    .hero-media img, .service-photo img, .product-visual img {
+    .hero-media img, .service-photo img, .service-photo video, .product-visual img {
       width: 100%;
       aspect-ratio: 16 / 9;
       object-fit: cover;
       border-radius: 8px;
       box-shadow: var(--shadow);
+    }
+    .service-photo video {
+      width: min(100%, 430px);
+      aspect-ratio: 9 / 16;
+      margin: 0 auto;
+      background: #000;
     }
     .hero-media figcaption, .service-photo figcaption, .product-visual figcaption {
       max-width: 760px;

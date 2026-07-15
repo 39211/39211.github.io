@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-15T02:22:58.015Z
+- Generated at: 2026-07-15T19:10:55.540Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -152,6 +152,8 @@
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -1341,4 +1343,92 @@ Instagram caption:
 追蹤私享家，之後會持續整理襯衫、西裝與精緻衣物的送洗前判斷。
 
 #私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗
+
+### 2026-07-16 11:30 先看懂：皮鞋雨痕與皺摺邊緣
+
+- id: https://39211.github.io/content-calendar/2026-07-16.json#post-2026-07-16-slot-01
+- published local time: 2026-07-16T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: trust-reset
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #皮鞋保養 #雨天鞋子
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-07-16.json
+
+Facebook caption:
+
+先看懂：皮鞋雨痕與皺摺邊緣，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。
+
+遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #皮鞋保養 #雨天鞋子
+
+Instagram caption:
+
+先看懂：皮鞋雨痕與皺摺邊緣，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+鞋子和包包最容易被忽略的地方，通常不是正面，而是鞋邊、提把、包角、內裡或縫線這些每天被摩擦的位置。
+
+遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+有類似狀況時，先拍完整外觀、局部、邊角或洗標，再傳 LINE 讓我們初步看方向。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #皮鞋保養 #雨天鞋子
+
+### 2026-07-16 19:30 忙到沒手再搬洗衣籃的家庭日常
+
+- id: https://39211.github.io/content-calendar/2026-07-16.json#post-2026-07-16-slot-02
+- published local time: 2026-07-16T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: value-prop-lead
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-07-16.json
+
+Facebook caption:
+
+忙到沒手再搬洗衣籃的家庭日常，接送與晚餐之間不該再塞進一趟送洗。
+
+私享家洗衣店
+
+家裡有小孩或長輩要照顧時，洗衣籃常常不是只有一件外套，而是球衣、校服、毛巾和大人衣服一起堆起來。真正卡住的不是願不願意洗，而是沒有多餘的手去搬、去停車、再搬回來。
+
+私享家提供台中市全區免費到府收送。家庭日常衣物可先分袋拍照，用 LINE 傳收件地址與方便聯絡的時段，再由我們確認收送安排。
+
+今天家裡堆著待洗物，直接在 LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認。
+
+追蹤私享家，之後會持續整理忙碌家庭也能輕鬆安排的送洗方式。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
+
+Instagram caption:
+
+忙到沒手再搬洗衣籃的家庭日常，接送與晚餐之間不該再塞進一趟送洗。
+
+私享家洗衣店
+
+家裡有小孩或長輩要照顧時，洗衣籃常常不是只有一件外套，而是球衣、校服、毛巾和大人衣服一起堆起來。真正卡住的不是願不願意洗，而是沒有多餘的手去搬、去停車、再搬回來。
+
+私享家提供台中市全區免費到府收送。家庭日常衣物可先分袋拍照，用 LINE 傳收件地址與方便聯絡的時段，再由我們確認收送安排。
+
+家庭衣物先分袋拍一張，LINE 傳地址與方便時間，我們再確認收送。
+
+追蹤私享家，之後會持續整理忙碌家庭也能輕鬆安排的送洗方式。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
 
