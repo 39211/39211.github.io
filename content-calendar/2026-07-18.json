@@ -1,0 +1,51 @@
+{
+  "date": "2026-07-18",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-07-17T22:32:25.929Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "先看懂：羽絨外套壓扁前的檢查",
+      "format": "image-post",
+      "media_type": "image",
+      "instagram_caption": "先看懂：羽絨外套壓扁前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n羽絨外套要壓扁收進袋子前，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道或濕氣。\n\n遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n有類似狀況時，先拍完整外觀、局部、邊角或洗標，再傳 LINE 讓我們初步看方向。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套 #換季收納",
+      "facebook_caption": "先看懂：羽絨外套壓扁前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n羽絨外套要壓扁收進袋子前，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道或濕氣。\n\n遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步看方向。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套 #換季收納",
+      "image_prompt": "Realistic square shop photo for 私享家洗衣店: 羽絨外套壓扁前的檢查. 真實門市照片：shop-inspection 路線，物件放在乾淨櫃台，手部檢查材質或邊角，光線明亮，不放假品牌、不做誇張對比。 Premium Taiwanese laundry and shoe-care shop mood, clean counter, clear object detail, restrained Apple-like spacing when poster-like, no fake logo, no readable text, no watermark.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "views_target": 23,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。",
+      "seo_sync_page": "/services/fabric-storage.html",
+      "ten_day_review_metric": "建立基準：看 views、非粉觀看比例、IG/FB 來源占比、每日新增追蹤，先找出最不被滑掉且願意追蹤的物件主題。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-07-18/slot-01.png",
+      "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "整套床組不必再自己扛下樓",
+      "format": "reel",
+      "media_type": "image",
+      "instagram_caption": "整套床組不必再自己扛下樓，大件布品最難的通常是搬運而不是清洗。\n\n私享家洗衣店\n\n棉被、床包、保潔墊和枕頭套一起整理時，裝進袋子後體積會突然變得很有存在感。很多人不是不想洗大件，而是一想到下樓、塞車廂和再搬回家就先擱著。\n\n私享家提供台中市全區免費到府收送。大件床組可以先拍整體、洗標與在意的位置，再用 LINE 傳照片、收件地址與聯絡方式，由門市確認品項與收送。\n\n大件床組先拍整體、洗標與在意位置，LINE 傳照片、收件地址與聯絡方式，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理床組、棉被與大件布品的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "facebook_caption": "整套床組不必再自己扛下樓，大件布品最難的通常是搬運而不是清洗。\n\n私享家洗衣店\n\n棉被、床包、保潔墊和枕頭套一起整理時，裝進袋子後體積會突然變得很有存在感。很多人不是不想洗大件，而是一想到下樓、塞車廂和再搬回家就先擱著。\n\n私享家提供台中市全區免費到府收送。大件床組可以先拍整體、洗標與在意的位置，再用 LINE 傳照片、收件地址與聯絡方式，由門市確認品項與收送。\n\n不用先把大件布品搬到店裡，LINE 傳照片、收件地址和聯絡方式，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理床組、棉被與大件布品的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "image_prompt": "Realistic vertical-style reel cover frame for 私享家洗衣店: 整套床組不必再自己扛下樓. 10 秒直式短影音；公寓門口堆著厚實床組袋與棉被袋，客人試著搬動後放下，收送人員穩妥接手並放入乾淨收送箱，最後切到門市檢查台展開床組；寫實高級、不出現文字。 Premium Taiwanese laundry and shoe-care shop mood, clean counter, clear object detail, restrained Apple-like spacing when poster-like, no fake logo, no readable text, no watermark.",
+      "visual_route": "customer-consultation",
+      "traffic_route": "share-worthy-care",
+      "views_target": 28,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理床組、棉被與大件布品的送洗方式。",
+      "seo_sync_page": "/services/taichung-xitun-laundry.html",
+      "ten_day_review_metric": "建立基準：看 views、非粉觀看比例、IG/FB 來源占比、每日新增追蹤，先找出最不被滑掉且願意追蹤的物件主題。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-07-18/slot-02.png",
+      "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
+      "status": "pending"
+    }
+  ]
+}

@@ -110,6 +110,8 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -209,7 +211,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-16T02:31:19.613Z",
+      "dateModified": "2026-07-18T09:30:01.527Z",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -2192,6 +2194,70 @@
       "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
       "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
       "caption": "忙到沒手再搬洗衣籃的家庭日常",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-18.json#post-2026-07-18-slot-01",
+      "headline": "2026-07-18 11:30 先看懂：羽絨外套壓扁前的檢查",
+      "text": "先看懂：羽絨外套壓扁前的檢查，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n羽絨外套要壓扁收進袋子前，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道或濕氣。\n\n遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步看方向。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套 #換季收納",
+      "datePublished": "2026-07-18T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#羽絨外套",
+        "#換季收納"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-18.json#post-2026-07-18-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-18.json#post-2026-07-18-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-18.json#post-2026-07-18-slot-01:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png",
+      "caption": "先看懂：羽絨外套壓扁前的檢查",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-18.json#post-2026-07-18-slot-02",
+      "headline": "2026-07-18 19:30 整套床組不必再自己扛下樓",
+      "text": "整套床組不必再自己扛下樓，大件布品最難的通常是搬運而不是清洗。\n\n私享家洗衣店\n\n棉被、床包、保潔墊和枕頭套一起整理時，裝進袋子後體積會突然變得很有存在感。很多人不是不想洗大件，而是一想到下樓、塞車廂和再搬回家就先擱著。\n\n私享家提供台中市全區免費到府收送。大件床組可以先拍整體、洗標與在意的位置，再用 LINE 傳照片、收件地址與聯絡方式，由門市確認品項與收送。\n\n不用先把大件布品搬到店裡，LINE 傳照片、收件地址和聯絡方式，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理床組、棉被與大件布品的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "datePublished": "2026-07-18T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中洗衣收送",
+        "#免費到府收送"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-18.json#post-2026-07-18-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-18.json#post-2026-07-18-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-18.json#post-2026-07-18-slot-02:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
+      "caption": "整套床組不必再自己扛下樓",
       "inLanguage": "zh-Hant"
     }
   ]
