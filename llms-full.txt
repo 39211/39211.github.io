@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-18T09:30:01.527Z
+- Generated at: 2026-07-19T02:26:53.332Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -156,6 +156,8 @@
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -1519,6 +1521,94 @@ Instagram caption:
 大件床組先拍整體、洗標與在意位置，LINE 傳照片、收件地址與聯絡方式，我們再和你確認收送。
 
 追蹤私享家，之後會持續整理床組、棉被與大件布品的送洗方式。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
+
+### 2026-07-19 11:30 先看懂：抱枕飲料痕與布面味道
+
+- id: https://39211.github.io/content-calendar/2026-07-19.json#post-2026-07-19-slot-01
+- published local time: 2026-07-19T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: dwell-detail
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #抱枕清洗 #居家布品
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-07-19.json
+
+Facebook caption:
+
+先看懂：抱枕飲料痕與布面味道，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。
+
+遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #抱枕清洗 #居家布品
+
+Instagram caption:
+
+先看懂：抱枕飲料痕與布面味道，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。
+
+遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+有類似狀況時，先拍完整外觀、局部、邊角或洗標，再傳 LINE 讓我們初步看方向。
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #抱枕清洗 #居家布品
+
+### 2026-07-19 19:30 精品衣物最怕的不是送洗，是路上顛簸
+
+- id: https://39211.github.io/content-calendar/2026-07-19.json#post-2026-07-19-slot-02
+- published local time: 2026-07-19T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: value-prop-lead
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-07-19.json
+
+Facebook caption:
+
+精品衣物最怕的不是送洗，是路上顛簸；自己塞進後車廂那一段最傷。
+
+私享家洗衣店
+
+禮服、西裝外套、絲質上衣或有飾件的精緻衣物，最需要被穩妥放置與分件確認。自己搬運時最容易發生的，往往是壓摺、磨到五金，或和重物擠在同一袋。
+
+私享家提供台中市全區免費到府收送。精品與精緻衣物可先拍洗標、面料與飾件細節，用 LINE 傳收件地址，再由門市確認收送方式。
+
+精緻衣物想少一次搬運風險，直接在 LINE 傳照片、收件地址和聯絡方式。
+
+追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
+
+Instagram caption:
+
+精品衣物最怕的不是送洗，是路上顛簸；自己塞進後車廂那一段最傷。
+
+私享家洗衣店
+
+禮服、西裝外套、絲質上衣或有飾件的精緻衣物，最需要被穩妥放置與分件確認。自己搬運時最容易發生的，往往是壓摺、磨到五金，或和重物擠在同一袋。
+
+私享家提供台中市全區免費到府收送。精品與精緻衣物可先拍洗標、面料與飾件細節，用 LINE 傳收件地址，再由門市確認收送方式。
+
+先拍洗標、飾件和整體，LINE 傳地址與照片，我們再確認收送。
+
+追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。
 
 #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
 
