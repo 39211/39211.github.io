@@ -17,6 +17,7 @@ LLMS JSONL: https://39211.github.io/llms.jsonl
 白鞋清潔: https://39211.github.io/services/white-shoe-cleaning.html
 布品收納: https://39211.github.io/services/fabric-storage.html
 台中西屯洗衣店: https://39211.github.io/services/taichung-xitun-laundry.html
+台中全市免費洗衣收送: https://39211.github.io/services/taichung-citywide-laundry-pickup.html
 送洗前怎麼拍照片詢問？: https://39211.github.io/guides/photo-before-laundry.html
 白鞋泛黃怎麼判斷？: https://39211.github.io/guides/white-shoe-yellowing.html
 雨天鞋子進水後怎麼辦？: https://39211.github.io/guides/rainy-shoe-care.html

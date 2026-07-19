@@ -1,13 +1,13 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-07-19T20:30:00.661Z",
+  "generated_at": "2026-07-19T21:34:02.031Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
     "url": "https://39211.github.io/",
     "base_url": "https://39211.github.io",
-    "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
+    "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
     "timezone": "Asia/Taipei",
     "locale": "zh_TW",
     "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
@@ -118,6 +118,8 @@
       "西屯洗衣店",
       "台中西屯洗衣店",
       "青海路洗衣店",
+      "台中洗衣收送",
+      "台中免費收送",
       "台中西屯洗鞋",
       "台中西屯洗包",
       "台中西屯白鞋清潔",
@@ -149,7 +151,8 @@
       "shoe-bag-care": "https://39211.github.io/services/shoe-bag-care.html",
       "white-shoe-cleaning": "https://39211.github.io/services/white-shoe-cleaning.html",
       "fabric-storage": "https://39211.github.io/services/fabric-storage.html",
-      "taichung-xitun-laundry": "https://39211.github.io/services/taichung-xitun-laundry.html"
+      "taichung-xitun-laundry": "https://39211.github.io/services/taichung-xitun-laundry.html",
+      "taichung-citywide-laundry-pickup": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html"
     },
     "support_pages": {
       "photo-before-laundry": "https://39211.github.io/guides/photo-before-laundry.html",
@@ -176,6 +179,7 @@
     "https://39211.github.io/services/white-shoe-cleaning.html",
     "https://39211.github.io/services/fabric-storage.html",
     "https://39211.github.io/services/taichung-xitun-laundry.html",
+    "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
     "https://39211.github.io/guides/photo-before-laundry.html",
     "https://39211.github.io/guides/white-shoe-yellowing.html",
     "https://39211.github.io/guides/rainy-shoe-care.html",
@@ -205,8 +209,8 @@
     "update_frequency": "daily"
   },
   "open_graph": {
-    "title": "私享家洗衣店｜台中西屯青海路洗衣、洗鞋、洗包、布品收納",
-    "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
+    "title": "私享家洗衣店｜台中西屯門市・台中全市免費洗衣收送",
+    "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
     "type": "website",
     "url": "https://39211.github.io/",
     "site_name": "私享家洗衣店",
@@ -225,7 +229,7 @@
       "私享家精品洗護"
     ],
     "url": "https://39211.github.io/",
-    "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
+    "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
     "inLanguage": "zh-Hant",
     "address": {
       "@type": "PostalAddress",
@@ -340,6 +344,10 @@
       },
       {
         "@type": "AdministrativeArea",
+        "name": "台中市"
+      },
+      {
+        "@type": "AdministrativeArea",
         "name": "台中市西屯區"
       },
       {
@@ -358,6 +366,8 @@
       "西屯洗衣店",
       "台中西屯洗衣店",
       "青海路洗衣店",
+      "台中洗衣收送",
+      "台中免費收送",
       "台中西屯洗鞋",
       "台中西屯洗包",
       "台中西屯白鞋清潔",
@@ -374,7 +384,10 @@
             "name": "鞋包清潔",
             "serviceType": "鞋包清潔",
             "description": "台中西屯洗鞋洗包建議先拍鞋面、鞋底、包角、提把與內裡，私享家會依材質、濕氣、水痕與磨耗程度判斷清潔方式與可改善範圍。",
-            "areaServed": "台中西屯",
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "台中西屯"
+            },
             "url": "https://39211.github.io/services/shoe-bag-care.html"
           }
         },
@@ -385,7 +398,10 @@
             "name": "白鞋清潔",
             "serviceType": "白鞋清潔",
             "description": "台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。",
-            "areaServed": "台中西屯",
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "台中西屯"
+            },
             "url": "https://39211.github.io/services/white-shoe-cleaning.html"
           }
         },
@@ -396,7 +412,10 @@
             "name": "布品收納",
             "serviceType": "布品收納",
             "description": "台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。",
-            "areaServed": "台中西屯",
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "台中西屯"
+            },
             "url": "https://39211.github.io/services/fabric-storage.html"
           }
         },
@@ -407,9 +426,28 @@
             "name": "台中西屯洗衣店",
             "serviceType": "台中西屯洗衣店",
             "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，可先用 LINE 傳照片詢問。",
-            "areaServed": "台中西屯",
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "台中西屯"
+            },
             "url": "https://39211.github.io/services/taichung-xitun-laundry.html"
           }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "台中全市免費洗衣收送",
+            "serviceType": "台中全市免費洗衣收送",
+            "description": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。",
+            "areaServed": {
+              "@type": "AdministrativeArea",
+              "name": "台中市"
+            },
+            "url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html"
+          },
+          "name": "台中全市免費洗衣收送",
+          "description": "台中市全市免費收送；清潔與洗護費用另計。預約以 LINE 為主。"
         }
       ]
     }
@@ -620,6 +658,58 @@
           "concern": "收納前猶豫是否需要整理",
           "inspection": "先確認是否乾燥、是否有局部髒污、悶味或久放黃痕。",
           "boundary": "不以密封收納掩蓋濕氣；處理方式需依材質與狀態決定。"
+        }
+      ],
+      "faq_count": 4
+    },
+    {
+      "slug": "taichung-citywide-laundry-pickup",
+      "name": "台中全市免費洗衣收送",
+      "title": "台中全市免費洗衣收送｜私享家洗衣店 LINE 預約",
+      "description": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號。收送範圍為台中市，主要透過 LINE 傳照片詢問與預約。",
+      "url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
+      "keywords": [
+        "台中洗衣收送",
+        "台中免費收送",
+        "台中全市收送",
+        "洗衣店收送",
+        "私享家洗衣店",
+        "LINE 預約洗衣"
+      ],
+      "answer_summary": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。",
+      "image_url": "",
+      "image_alt": "台中全市免費洗衣收送服務說明｜私享家洗衣店",
+      "image_note": "台中全市免費洗衣收送說明頁；門市在西屯，收送範圍為台中市。",
+      "case_story": {
+        "label": "住在台中其他行政區，也能先用 LINE 問收送",
+        "situation": "客人可能住在台中市內、不在西屯門市旁邊，手上有衣物、鞋子、包包或布品需要整理，想先確認能不能收送、要怎麼開始。",
+        "inspection": "門市會先依照片看物件類型與狀態，再說明收送範圍是台中市、收送本身免費，以及後續是否適合整理；清潔費用與處理方式需另依物件判斷，不以收送免費代表清潔免費。",
+        "recommendation": "建議先加 LINE 傳整體照與局部近照，並說明大致所在區域與想整理的品項；確認方向後再約定收送，門市地址仍以西屯青海路為實體店面。"
+      },
+      "case_studies": [
+        {
+          "label": "情境 01",
+          "object": "台中市內住家衣物",
+          "material": "依洗標與布料判斷",
+          "concern": "不方便到店，想先確認收送",
+          "inspection": "先確認收送範圍為台中市、收送免費，再依照片看衣物狀態。",
+          "boundary": "收送免費不等於清潔免費；不報未經確認的處理天數或最低消費。"
+        },
+        {
+          "label": "情境 02",
+          "object": "鞋包與白鞋",
+          "material": "鞋面、膠邊、包角分開判斷",
+          "concern": "想先問能不能收、要拍什麼",
+          "inspection": "先傳鞋面、鞋邊、包角與整體照片，門市再回覆是否適合整理與收送安排。",
+          "boundary": "不以保證變全新為前提；材質與痕跡需先看再判斷。"
+        },
+        {
+          "label": "情境 03",
+          "object": "換季布品",
+          "material": "外套、寢具或厚棉布品",
+          "concern": "量大、想約收送",
+          "inspection": "先確認品項、是否乾燥與有無悶味，再談收送與整理方向。",
+          "boundary": "不承諾固定取件時段或保證所有黃痕可消除。"
         }
       ],
       "faq_count": 4
