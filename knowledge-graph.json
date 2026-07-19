@@ -114,6 +114,8 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -213,7 +215,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋子清潔、包包清潔與布品收納。可先用 LINE 傳照片詢問，電話 04-2452-7411。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-19T02:26:53.332Z",
+      "dateModified": "2026-07-19T20:30:00.661Z",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -2324,6 +2326,70 @@
       "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png",
       "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png",
       "caption": "精品衣物最怕的不是送洗，是路上顛簸",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-20.json#post-2026-07-20-slot-01",
+      "headline": "2026-07-20 11:30 先看懂：白襯衫領口與腋下泛黃",
+      "text": "白襯衫領口與腋下開始泛黃時，先看範圍與深淺，不要急著整片硬刷。\n\n私享家洗衣店\n\n領口常累積皮脂、汗與保養品，腋下則會受汗液、止汗產品和穿著時間影響；同樣看起來是泛黃，材質與痕跡形成原因可能不同。\n\n送洗前先把襯衫攤平，看泛黃是集中在縫線、領口折線或腋下局部，還是已向外擴散，再一起確認布料、洗標與既有磨損。\n\n先別用硬刷反覆摩擦，也不要在還有濕氣時直接悶進洗衣袋；錯誤摩擦可能讓纖維起毛，濕氣也會讓味道留得更久。\n\n可以先拍整件全貌、領口、左右腋下與洗標，再傳 LINE，讓我們先依材質與泛黃位置看處理方向。\n\n這類送洗前檢查清單會持續整理，先追蹤起來比較不會臨時找不到。\n\n#私享家洗衣店 #台中西屯洗衣店 #白襯衫 #衣物清潔",
+      "datePublished": "2026-07-20T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#白襯衫",
+        "#衣物清潔"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-20.json#post-2026-07-20-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-20.json#post-2026-07-20-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-20.json#post-2026-07-20-slot-01:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
+      "caption": "先看懂：白襯衫領口與腋下泛黃",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-20.json#post-2026-07-20-slot-02",
+      "headline": "2026-07-20 19:30 鞋包不用再塞進機車踏板出門",
+      "text": "鞋包不用再塞進機車踏板出門，材質與邊角值得被穩妥收送。\n\n私享家洗衣店\n\n白鞋、皮鞋、日常包和托特包最怕在運送途中互相摩擦。自己載出門時，鞋面、提把和包角常常比清洗前先多出一道刮痕或壓痕。\n\n私享家提供台中市全區免費到府收送。鞋子先拍鞋面、鞋底與內裡，包包拍提把、包角與整體，再用 LINE 傳地址與照片。\n\n鞋包不用自己載出門，LINE 傳完整照片、收件地址與聯絡方式，我們再和你確認。\n\n追蹤私享家，之後會持續整理鞋包照護與台中免費收送的實用資訊。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "datePublished": "2026-07-20T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中洗衣收送",
+        "#免費到府收送"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-20.json#post-2026-07-20-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-20.json#post-2026-07-20-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-20.json#post-2026-07-20-slot-02:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png",
+      "caption": "鞋包不用再塞進機車踏板出門",
       "inLanguage": "zh-Hant"
     }
   ]

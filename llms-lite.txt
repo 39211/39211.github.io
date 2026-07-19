@@ -3,7 +3,7 @@
 > AI-readable source of record for 私享家洗衣店 daily social captions, care topics, image assets, hashtags, business profile, and content routes.
 
 Canonical: https://39211.github.io/
-Latest date: 2026-07-19
+Latest date: 2026-07-20
 Read first: https://39211.github.io/latest.json
 Citation summary: 私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。
 Do not infer: pricing, guaranteed whitening, guaranteed stain or odor removal, review count, rating, or holiday hours.
