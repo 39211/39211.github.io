@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T02:37:18.142Z",
+  "generated_at": "2026-07-20T06:51:02.619Z",
   "site_name": "私享家洗衣店",
   "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
   "timezone": "Asia/Taipei",
@@ -181,6 +181,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -221,6 +222,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -261,6 +263,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -301,6 +304,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -342,6 +346,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -383,6 +388,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -423,6 +429,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -463,6 +470,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -503,6 +511,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -543,6 +552,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -584,6 +594,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -625,6 +636,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -666,6 +678,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -707,6 +720,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -748,6 +762,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -789,6 +804,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -830,6 +846,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -871,6 +888,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -912,6 +930,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -953,6 +972,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -994,6 +1014,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1035,6 +1056,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1076,6 +1098,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1117,6 +1140,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1158,6 +1182,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1199,6 +1224,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1240,6 +1266,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1281,6 +1308,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1322,6 +1350,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1363,6 +1392,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1404,6 +1434,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1445,6 +1476,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1492,6 +1524,32 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-03.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-04.png"
       ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 1 of 4. Show the full white shirt with collar and underarm areas visible. Add exactly this headline and no other words: 「白襯衫泛黃｜送洗前先看」.",
+          "local_image_path": "docs/assets/2026-07-20/slot-01.png",
+          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 2 of 4. Show close inspection details of the collar edge and underarm yellowing, with a staff hand pointing gently. Add exactly this headline and no other words: 「領口・腋下｜看範圍與深淺」.",
+          "local_image_path": "docs/assets/2026-07-20/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 3 of 4. Show a stiff brush placed aside while the shirt stays flat beside a clean dry towel, clearly communicating caution without symbols. Add exactly this headline and no other words: 「先別硬刷｜也別帶濕氣悶收」.",
+          "local_image_path": "docs/assets/2026-07-20/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 4 of 4. Show a phone photographing the full shirt, one yellowed close-up, and the care label as a tidy three-view checklist. Add exactly this headline and no other words: 「傳 LINE 前｜拍全貌・局部・洗標」.",
+          "local_image_path": "docs/assets/2026-07-20/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-04.png"
+        }
+      ],
       "media_type": "carousel",
       "video_path": "",
       "video_url": "",
@@ -1533,6 +1591,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1575,6 +1634,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1615,6 +1675,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1656,6 +1717,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1697,6 +1759,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1738,6 +1801,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1779,6 +1843,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1820,6 +1885,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1861,6 +1927,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1902,6 +1969,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1943,6 +2011,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -1984,6 +2053,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2025,6 +2095,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2066,6 +2137,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2107,6 +2179,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2148,6 +2221,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2189,6 +2263,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2230,6 +2305,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2271,6 +2347,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2312,6 +2389,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2353,6 +2431,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2394,6 +2473,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2435,6 +2515,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2476,6 +2557,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2517,6 +2599,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2558,6 +2641,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2599,6 +2683,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
@@ -2646,6 +2731,32 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-03.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-04.png"
       ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 1 of 4. Show the full white shirt with collar and underarm areas visible. Add exactly this headline and no other words: 「白襯衫泛黃｜送洗前先看」.",
+          "local_image_path": "docs/assets/2026-07-20/slot-01.png",
+          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 2 of 4. Show close inspection details of the collar edge and underarm yellowing, with a staff hand pointing gently. Add exactly this headline and no other words: 「領口・腋下｜看範圍與深淺」.",
+          "local_image_path": "docs/assets/2026-07-20/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 3 of 4. Show a stiff brush placed aside while the shirt stays flat beside a clean dry towel, clearly communicating caution without symbols. Add exactly this headline and no other words: 「先別硬刷｜也別帶濕氣悶收」.",
+          "local_image_path": "docs/assets/2026-07-20/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 4 of 4. Show a phone photographing the full shirt, one yellowed close-up, and the care label as a tidy three-view checklist. Add exactly this headline and no other words: 「傳 LINE 前｜拍全貌・局部・洗標」.",
+          "local_image_path": "docs/assets/2026-07-20/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-04.png"
+        }
+      ],
       "media_type": "carousel",
       "video_path": "",
       "video_url": "",
@@ -2687,6 +2798,7 @@
       "image_urls": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png"
       ],
+      "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
