@@ -1,8 +1,8 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-19T21:34:02.031Z",
+  "generated_at": "2026-07-20T02:37:18.142Z",
   "name": "私享家洗衣店 service pages",
-  "description": "Service-level SEO, AIO, and GEO source records for 私享家洗衣店.",
+  "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://39211.github.io/",
   "business_profile_url": "https://39211.github.io/business-profile.json",
   "services": [
@@ -445,7 +445,7 @@
         },
         {
           "heading": "社群內容也會同步成搜尋資料",
-          "body": "審核通過的 Facebook 與 Instagram 貼文會同步進公開 SEO / AIO / GEO feed，讓日常門市案例、雨季提醒、節日海報和服務頁互相連回官方內容來源。"
+          "body": "審核通過的 Facebook 與 Instagram 貼文會同步進公開 SEO / AEO / GEO feed，讓日常門市案例、雨季提醒、節日海報和服務頁互相連回官方內容來源。"
         }
       ],
       "faqs": [
@@ -463,7 +463,7 @@
         },
         {
           "question": "社群貼文內容會和服務頁連在一起嗎？",
-          "answer": "會。排程產生且審核通過的 FB / IG 貼文會同步成公開 SEO / AIO / GEO 資料，讓服務頁和日常案例互相補強。"
+          "answer": "會。排程產生且審核通過的 FB / IG 貼文會同步成公開 SEO / AEO / GEO 資料，讓服務頁和日常案例互相補強。"
         }
       ],
       "related_support_pages": [

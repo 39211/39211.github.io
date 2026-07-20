@@ -30,7 +30,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [Full structured post feed](https://39211.github.io/social-posts.json): all generated post records with captions, images, routes, and hashtags.
 - [Business profile](https://39211.github.io/business-profile.json): official NAP, social links, map identifiers, service topics, and verification status.
 - [Services JSON](https://39211.github.io/services.json): service-page records with answer summaries, case stories, images, FAQ, and LocalBusiness links.
-- [Answers JSON](https://39211.github.io/answers.json): concise AIO/GEO answers for service and local-intent queries.
+- [Answers JSON](https://39211.github.io/answers.json): concise AEO/GEO answers for service and local-intent queries.
 - [Geo targets JSON](https://39211.github.io/geo-targets.json): local service areas, address anchors, and query-intent map for 台中西屯 searches.
 - [LLMS JSONL](https://39211.github.io/llms.jsonl): line-delimited business, service, answer, and post records for AI ingestion.
 - [鞋包清潔](https://39211.github.io/services/shoe-bag-care.html): service SEO page with NAP, image, FAQ, and structured data.

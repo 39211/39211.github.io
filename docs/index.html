@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="zh-Hant">
+<html lang="zh-Hant-TW">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -67,6 +67,17 @@
       text-decoration: none;
     }
     .nav a:hover { color: var(--ink); text-decoration: none; }
+    .breadcrumb {
+      width: min(var(--max), calc(100% - 44px));
+      margin: 0 auto;
+      padding: 18px 0 0;
+      color: var(--muted);
+      font-size: 0.88rem;
+    }
+    .breadcrumb ol { display: flex; flex-wrap: wrap; gap: 8px; margin: 0; padding: 0; list-style: none; }
+    .breadcrumb li + li::before { content: "/"; margin-right: 8px; color: var(--line); }
+    .breadcrumb a { color: var(--muted-strong); }
+    .last-updated { margin: 12px 0 0; color: var(--muted); font-size: 0.88rem; }
     .section-inner { width: min(var(--max), calc(100% - 44px)); min-width: 0; margin: 0 auto; }
     .product-hero {
       text-align: center;
@@ -385,6 +396,7 @@
         width: min(var(--max), calc(100vw - 24px));
         max-width: calc(100vw - 24px);
       }
+      .breadcrumb { width: calc(100vw - 32px); }
       .hero-copy, .section-header, .answer-box, .card, .lead { max-width: 100%; }
       .product-hero { padding-top: 50px; }
       .product-band { padding: 54px 0; }
@@ -428,7 +440,7 @@
       <section class="not-found-panel">
         <p class="eyebrow">Page moved</p>
         <h1>回到私享家首頁。</h1>
-        <p>這個網址可能多了 docs 或少了專案路徑，系統會自動帶你回到私享家洗衣店的公開 SEO / AIO / GEO 主站。</p>
+        <p>這個網址可能多了 docs 或少了專案路徑，系統會自動帶你回到私享家洗衣店的公開 SEO / AEO / GEO 主站。</p>
         <a class="primary-link" href="https://39211.github.io/">回到首頁</a>
       </section>
     </main>

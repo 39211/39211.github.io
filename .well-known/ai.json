@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-07-19T21:34:02.031Z",
+  "generated_at": "2026-07-20T02:37:18.142Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -128,7 +128,7 @@
     "primary_area": "西屯區",
     "street_anchor": "青海路二段",
     "canonical_url": "https://39211.github.io/",
-    "intent_note": "Use these as local SEO/AIO/GEO query anchors for people searching laundry, shoe cleaning, bag cleaning, white shoe cleaning, and fabric storage near Taichung Xitun."
+    "intent_note": "Use these as local SEO/AEO/GEO query anchors for people searching laundry, shoe cleaning, bag cleaning, white shoe cleaning, and fabric storage near Taichung Xitun."
   },
   "entrypoints": {
     "index": "https://39211.github.io/index.html",
@@ -252,7 +252,10 @@
         "@type": "ContactPoint",
         "telephone": "+886-4-2452-7411",
         "contactType": "customer service",
-        "areaServed": "TW",
+        "areaServed": {
+          "@type": "AdministrativeArea",
+          "name": "台中市"
+        },
         "availableLanguage": [
           "zh-Hant"
         ]
@@ -262,7 +265,10 @@
         "telephone": "+886-968-327-653",
         "url": "https://line.me/ti/p/4m-rA6hxf6",
         "contactType": "LINE / mobile estimates",
-        "areaServed": "TW",
+        "areaServed": {
+          "@type": "AdministrativeArea",
+          "name": "台中市"
+        },
         "availableLanguage": [
           "zh-Hant"
         ]
@@ -295,8 +301,7 @@
     "hasMap": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
     "sameAs": [
       "https://www.facebook.com/100083194756904/",
-      "https://www.instagram.com/si_xiang_jia/",
-      "https://line.me/ti/p/4m-rA6hxf6"
+      "https://www.instagram.com/si_xiang_jia/"
     ],
     "image": [
       "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png",
@@ -338,10 +343,6 @@
       "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
     ],
     "areaServed": [
-      {
-        "@type": "Country",
-        "name": "Taiwan"
-      },
       {
         "@type": "AdministrativeArea",
         "name": "台中市"
@@ -914,7 +915,7 @@
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
       "expanded_behavior": "Homepage renders approved posts from the newest seven content dates directly.",
-      "archive_behavior": "Older approved posts stay in SEO/AIO/GEO data and render inside a collapsed homepage archive."
+      "archive_behavior": "Older approved posts stay in SEO/AEO/GEO data and render inside a collapsed homepage archive."
     },
     "omitted_until_verified": [
       "google_place_id",

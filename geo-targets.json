@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-19T21:34:02.031Z",
+  "generated_at": "2026-07-20T02:37:18.142Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -22,6 +22,15 @@
     "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
   },
   "service_areas": [
+    {
+      "label": "台中市",
+      "type": "municipality",
+      "country": "TW",
+      "region": "臺中市",
+      "locality": "",
+      "street": "",
+      "note": "Confirmed pickup and delivery service area; pickup and delivery are free, while cleaning is billed separately."
+    },
     {
       "label": "台中西屯",
       "type": "district",
@@ -50,6 +59,20 @@
       "note": "Neighborhood anchor from business address."
     }
   ],
+  "coverage_boundaries": {
+    "physical_store": {
+      "area": "西屯區",
+      "address_text": "407 臺中市西屯區至善里青海路二段365號",
+      "note": "The physical storefront is in Xitun District."
+    },
+    "pickup_delivery": {
+      "area": "台中市",
+      "pickup_delivery_fee": "free",
+      "cleaning_fee": "quoted separately after item review",
+      "booking_channel": "LINE",
+      "note": "Citywide pickup and delivery does not mean cleaning is free."
+    }
+  },
   "coordinates": {
     "latitude": null,
     "longitude": null,
@@ -297,28 +320,14 @@
       "answer_summary": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，可先用 LINE 傳照片詢問。"
     },
     {
-      "query": "台中西屯 台中洗衣收送",
+      "query": "台中市 洗衣免費收送",
       "service": "台中全市免費洗衣收送",
-      "area": "台中西屯",
+      "area": "台中市",
       "url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
       "answer_summary": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。"
     },
     {
-      "query": "青海路二段 台中洗衣收送",
-      "service": "台中全市免費洗衣收送",
-      "area": "青海路二段",
-      "url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
-      "answer_summary": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。"
-    },
-    {
-      "query": "至善里 台中洗衣收送",
-      "service": "台中全市免費洗衣收送",
-      "area": "至善里",
-      "url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
-      "answer_summary": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。"
-    },
-    {
-      "query": "台中西屯 台中西屯 送洗前 LINE 詢問",
+      "query": "台中西屯 送洗前 LINE 詢問",
       "service": "送洗前怎麼拍照片詢問？",
       "area": "台中西屯",
       "url": "https://39211.github.io/guides/photo-before-laundry.html",
@@ -331,7 +340,7 @@
       ]
     },
     {
-      "query": "青海路二段 台中西屯 送洗前 LINE 詢問",
+      "query": "青海路二段 送洗前 LINE 詢問",
       "service": "送洗前怎麼拍照片詢問？",
       "area": "青海路二段",
       "url": "https://39211.github.io/guides/photo-before-laundry.html",
@@ -344,7 +353,7 @@
       ]
     },
     {
-      "query": "至善里 台中西屯 送洗前 LINE 詢問",
+      "query": "至善里 送洗前 LINE 詢問",
       "service": "送洗前怎麼拍照片詢問？",
       "area": "至善里",
       "url": "https://39211.github.io/guides/photo-before-laundry.html",
@@ -357,7 +366,7 @@
       ]
     },
     {
-      "query": "台中西屯 台中西屯 白鞋泛黃 白鞋清潔",
+      "query": "台中西屯 白鞋泛黃 白鞋清潔",
       "service": "白鞋清潔",
       "area": "台中西屯",
       "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
@@ -370,7 +379,7 @@
       ]
     },
     {
-      "query": "青海路二段 台中西屯 白鞋泛黃 白鞋清潔",
+      "query": "青海路二段 白鞋泛黃 白鞋清潔",
       "service": "白鞋清潔",
       "area": "青海路二段",
       "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
@@ -383,7 +392,7 @@
       ]
     },
     {
-      "query": "至善里 台中西屯 白鞋泛黃 白鞋清潔",
+      "query": "至善里 白鞋泛黃 白鞋清潔",
       "service": "白鞋清潔",
       "area": "至善里",
       "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
@@ -396,7 +405,7 @@
       ]
     },
     {
-      "query": "台中西屯 台中西屯 雨天鞋子清潔",
+      "query": "台中西屯 雨天鞋子清潔",
       "service": "鞋包清潔",
       "area": "台中西屯",
       "url": "https://39211.github.io/guides/rainy-shoe-care.html",
@@ -409,7 +418,7 @@
       ]
     },
     {
-      "query": "青海路二段 台中西屯 雨天鞋子清潔",
+      "query": "青海路二段 雨天鞋子清潔",
       "service": "鞋包清潔",
       "area": "青海路二段",
       "url": "https://39211.github.io/guides/rainy-shoe-care.html",
@@ -422,7 +431,7 @@
       ]
     },
     {
-      "query": "至善里 台中西屯 雨天鞋子清潔",
+      "query": "至善里 雨天鞋子清潔",
       "service": "鞋包清潔",
       "area": "至善里",
       "url": "https://39211.github.io/guides/rainy-shoe-care.html",
@@ -435,7 +444,7 @@
       ]
     },
     {
-      "query": "台中西屯 台中西屯 包包清潔",
+      "query": "台中西屯 包包清潔",
       "service": "鞋包清潔",
       "area": "台中西屯",
       "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
@@ -448,7 +457,7 @@
       ]
     },
     {
-      "query": "青海路二段 台中西屯 包包清潔",
+      "query": "青海路二段 包包清潔",
       "service": "鞋包清潔",
       "area": "青海路二段",
       "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
@@ -461,7 +470,7 @@
       ]
     },
     {
-      "query": "至善里 台中西屯 包包清潔",
+      "query": "至善里 包包清潔",
       "service": "鞋包清潔",
       "area": "至善里",
       "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
@@ -474,7 +483,7 @@
       ]
     },
     {
-      "query": "台中西屯 台中西屯 布品收納 寢具清潔",
+      "query": "台中西屯 布品收納 寢具清潔",
       "service": "布品收納",
       "area": "台中西屯",
       "url": "https://39211.github.io/guides/bedding-storage-check.html",
@@ -487,7 +496,7 @@
       ]
     },
     {
-      "query": "青海路二段 台中西屯 布品收納 寢具清潔",
+      "query": "青海路二段 布品收納 寢具清潔",
       "service": "布品收納",
       "area": "青海路二段",
       "url": "https://39211.github.io/guides/bedding-storage-check.html",
@@ -500,7 +509,7 @@
       ]
     },
     {
-      "query": "至善里 台中西屯 布品收納 寢具清潔",
+      "query": "至善里 布品收納 寢具清潔",
       "service": "布品收納",
       "area": "至善里",
       "url": "https://39211.github.io/guides/bedding-storage-check.html",
@@ -513,7 +522,7 @@
       ]
     },
     {
-      "query": "台中西屯 台中西屯 襯衫清洗 西裝乾洗 精緻乾洗",
+      "query": "台中西屯 襯衫清洗 西裝乾洗 精緻乾洗",
       "service": "台中西屯洗衣店",
       "area": "台中西屯",
       "url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
@@ -528,7 +537,7 @@
       ]
     },
     {
-      "query": "青海路二段 台中西屯 襯衫清洗 西裝乾洗 精緻乾洗",
+      "query": "青海路二段 襯衫清洗 西裝乾洗 精緻乾洗",
       "service": "台中西屯洗衣店",
       "area": "青海路二段",
       "url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
@@ -543,7 +552,7 @@
       ]
     },
     {
-      "query": "至善里 台中西屯 襯衫清洗 西裝乾洗 精緻乾洗",
+      "query": "至善里 襯衫清洗 西裝乾洗 精緻乾洗",
       "service": "台中西屯洗衣店",
       "area": "至善里",
       "url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
@@ -558,7 +567,7 @@
       ]
     },
     {
-      "query": "台中西屯 台中西屯 床組清洗 棉被清洗 寢具送洗",
+      "query": "台中西屯 床組清洗 棉被清洗 寢具送洗",
       "service": "布品收納",
       "area": "台中西屯",
       "url": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
@@ -573,7 +582,7 @@
       ]
     },
     {
-      "query": "青海路二段 台中西屯 床組清洗 棉被清洗 寢具送洗",
+      "query": "青海路二段 床組清洗 棉被清洗 寢具送洗",
       "service": "布品收納",
       "area": "青海路二段",
       "url": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
@@ -588,7 +597,7 @@
       ]
     },
     {
-      "query": "至善里 台中西屯 床組清洗 棉被清洗 寢具送洗",
+      "query": "至善里 床組清洗 棉被清洗 寢具送洗",
       "service": "布品收納",
       "area": "至善里",
       "url": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
@@ -603,7 +612,7 @@
       ]
     },
     {
-      "query": "台中西屯 台中西屯 娃娃清洗 絨毛玩偶清潔",
+      "query": "台中西屯 娃娃清洗 絨毛玩偶清潔",
       "service": "台中西屯洗衣店",
       "area": "台中西屯",
       "url": "https://39211.github.io/guides/plush-doll-cleaning.html",
@@ -618,7 +627,7 @@
       ]
     },
     {
-      "query": "青海路二段 台中西屯 娃娃清洗 絨毛玩偶清潔",
+      "query": "青海路二段 娃娃清洗 絨毛玩偶清潔",
       "service": "台中西屯洗衣店",
       "area": "青海路二段",
       "url": "https://39211.github.io/guides/plush-doll-cleaning.html",
@@ -633,7 +642,7 @@
       ]
     },
     {
-      "query": "至善里 台中西屯 娃娃清洗 絨毛玩偶清潔",
+      "query": "至善里 娃娃清洗 絨毛玩偶清潔",
       "service": "台中西屯洗衣店",
       "area": "至善里",
       "url": "https://39211.github.io/guides/plush-doll-cleaning.html",
@@ -648,7 +657,7 @@
       ]
     },
     {
-      "query": "台中西屯 台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗",
+      "query": "台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗",
       "service": "台中西屯洗衣店",
       "area": "台中西屯",
       "url": "https://39211.github.io/guides/luxury-dry-cleaning.html",
@@ -663,7 +672,7 @@
       ]
     },
     {
-      "query": "青海路二段 台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗",
+      "query": "青海路二段 精品乾洗 名牌衣服清潔 精緻乾洗",
       "service": "台中西屯洗衣店",
       "area": "青海路二段",
       "url": "https://39211.github.io/guides/luxury-dry-cleaning.html",
@@ -678,7 +687,7 @@
       ]
     },
     {
-      "query": "至善里 台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗",
+      "query": "至善里 精品乾洗 名牌衣服清潔 精緻乾洗",
       "service": "台中西屯洗衣店",
       "area": "至善里",
       "url": "https://39211.github.io/guides/luxury-dry-cleaning.html",
@@ -693,7 +702,7 @@
       ]
     },
     {
-      "query": "台中西屯 青海路 洗鞋 洗包 洗衣店",
+      "query": "青海路 洗鞋 洗包 洗衣店",
       "service": "鞋包清潔",
       "area": "台中西屯",
       "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",

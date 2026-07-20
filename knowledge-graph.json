@@ -2,7 +2,6 @@
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@context": "https://schema.org",
       "@type": "DryCleaningOrLaundry",
       "@id": "https://39211.github.io/#business",
       "name": "私享家洗衣店",
@@ -35,7 +34,10 @@
           "@type": "ContactPoint",
           "telephone": "+886-4-2452-7411",
           "contactType": "customer service",
-          "areaServed": "TW",
+          "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "台中市"
+          },
           "availableLanguage": [
             "zh-Hant"
           ]
@@ -45,7 +47,10 @@
           "telephone": "+886-968-327-653",
           "url": "https://line.me/ti/p/4m-rA6hxf6",
           "contactType": "LINE / mobile estimates",
-          "areaServed": "TW",
+          "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "台中市"
+          },
           "availableLanguage": [
             "zh-Hant"
           ]
@@ -78,8 +83,7 @@
       "hasMap": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
       "sameAs": [
         "https://www.facebook.com/100083194756904/",
-        "https://www.instagram.com/si_xiang_jia/",
-        "https://line.me/ti/p/4m-rA6hxf6"
+        "https://www.instagram.com/si_xiang_jia/"
       ],
       "image": [
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png",
@@ -121,10 +125,6 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
       ],
       "areaServed": [
-        {
-          "@type": "Country",
-          "name": "Taiwan"
-        },
         {
           "@type": "AdministrativeArea",
           "name": "台中市"
@@ -241,7 +241,73 @@
       "name": "私享家洗衣店",
       "url": "https://39211.github.io/",
       "inLanguage": "zh-Hant",
-      "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。"
+      "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
+      "publisher": {
+        "@id": "https://39211.github.io/#business"
+      }
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://39211.github.io/#webpage",
+      "name": "私享家洗衣店｜台中西屯門市・台中全市免費洗衣收送",
+      "url": "https://39211.github.io/",
+      "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://39211.github.io/#website"
+      },
+      "mainEntity": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/#homepage-faq"
+      },
+      "dateModified": "2026-07-20"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://39211.github.io/#homepage-faq",
+      "url": "https://39211.github.io/#homepage-faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/#webpage"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "私享家洗衣店在哪裡？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，可用 Google Maps 導航；也可以先透過 LINE 傳照片詢問。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "台中市哪些地方可以預約洗衣收送？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "收送範圍為台中市全區，收送本身免費；清潔、洗護與其他整理費用另依實際物件狀態判斷。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "怎麼預約台中洗衣收送？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "主要透過 LINE 預約。請先傳物件整體照、局部近照、材質標籤，並說明所在區域與品項，門市確認方向後再約定收送。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "收送免費等於清潔免費嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不等於。免費的是台中市內的收送服務，清潔與洗護費用仍需依材質、髒污與物件狀態另行判斷。"
+          }
+        }
+      ]
     },
     {
       "@type": "Dataset",
@@ -249,7 +315,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-19T21:34:02.031Z",
+      "dateModified": "2026-07-20",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -271,6 +337,12 @@
       "about": {
         "@id": "https://39211.github.io/services/shoe-bag-care.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/services/shoe-bag-care.html#service"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/services/shoe-bag-care.html#faq"
+      },
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
@@ -283,6 +355,9 @@
       "name": "鞋包清潔",
       "description": "台中西屯洗鞋洗包建議先拍鞋面、鞋底、包角、提把與內裡，私享家會依材質、濕氣、水痕與磨耗程度判斷清潔方式與可改善範圍。",
       "serviceType": "鞋包清潔",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/services/shoe-bag-care.html#webpage"
+      },
       "provider": {
         "@id": "https://39211.github.io/#business"
       },
@@ -305,6 +380,12 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/services/shoe-bag-care.html#faq",
       "url": "https://39211.github.io/services/shoe-bag-care.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/services/shoe-bag-care.html#webpage"
+      },
+      "about": {
+        "@id": "https://39211.github.io/services/shoe-bag-care.html#service"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -353,6 +434,12 @@
       "about": {
         "@id": "https://39211.github.io/services/white-shoe-cleaning.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/services/white-shoe-cleaning.html#service"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/services/white-shoe-cleaning.html#faq"
+      },
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
@@ -365,6 +452,9 @@
       "name": "白鞋清潔",
       "description": "台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。",
       "serviceType": "白鞋清潔",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/services/white-shoe-cleaning.html#webpage"
+      },
       "provider": {
         "@id": "https://39211.github.io/#business"
       },
@@ -386,6 +476,12 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/services/white-shoe-cleaning.html#faq",
       "url": "https://39211.github.io/services/white-shoe-cleaning.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/services/white-shoe-cleaning.html#webpage"
+      },
+      "about": {
+        "@id": "https://39211.github.io/services/white-shoe-cleaning.html#service"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -434,6 +530,12 @@
       "about": {
         "@id": "https://39211.github.io/services/fabric-storage.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/services/fabric-storage.html#service"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/services/fabric-storage.html#faq"
+      },
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png",
@@ -446,6 +548,9 @@
       "name": "布品收納",
       "description": "台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。",
       "serviceType": "布品收納",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/services/fabric-storage.html#webpage"
+      },
       "provider": {
         "@id": "https://39211.github.io/#business"
       },
@@ -467,6 +572,12 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/services/fabric-storage.html#faq",
       "url": "https://39211.github.io/services/fabric-storage.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/services/fabric-storage.html#webpage"
+      },
+      "about": {
+        "@id": "https://39211.github.io/services/fabric-storage.html#service"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -514,6 +625,12 @@
       },
       "about": {
         "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#service"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#faq"
       }
     },
     {
@@ -522,6 +639,9 @@
       "name": "台中西屯洗衣店",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，可先用 LINE 傳照片詢問。",
       "serviceType": "台中西屯洗衣店",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#webpage"
+      },
       "provider": {
         "@id": "https://39211.github.io/#business"
       },
@@ -543,6 +663,12 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#faq",
       "url": "https://39211.github.io/services/taichung-xitun-laundry.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#webpage"
+      },
+      "about": {
+        "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#service"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -573,7 +699,7 @@
           "name": "社群貼文內容會和服務頁連在一起嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "會。排程產生且審核通過的 FB / IG 貼文會同步成公開 SEO / AIO / GEO 資料，讓服務頁和日常案例互相補強。"
+            "text": "會。排程產生且審核通過的 FB / IG 貼文會同步成公開 SEO / AEO / GEO 資料，讓服務頁和日常案例互相補強。"
           }
         }
       ]
@@ -590,7 +716,14 @@
       },
       "about": {
         "@id": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#service"
-      }
+      },
+      "mainEntity": {
+        "@id": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#service"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#faq"
+      },
+      "dateModified": "2026-07-20"
     },
     {
       "@type": "Service",
@@ -598,6 +731,9 @@
       "name": "台中全市免費洗衣收送",
       "description": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。",
       "serviceType": "台中全市免費洗衣收送",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#webpage"
+      },
       "provider": {
         "@id": "https://39211.github.io/#business"
       },
@@ -619,6 +755,12 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#faq",
       "url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#webpage"
+      },
+      "about": {
+        "@id": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#service"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -667,6 +809,12 @@
       "about": {
         "@id": "https://39211.github.io/#business"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/guides/photo-before-laundry.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/guides/photo-before-laundry.html#faq"
+      },
       "keywords": [
         "送洗前拍照",
         "LINE 詢問洗衣店",
@@ -677,6 +825,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/guides/photo-before-laundry.html#howto",
+      "url": "https://39211.github.io/guides/photo-before-laundry.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/guides/photo-before-laundry.html#webpage"
+      },
       "name": "送洗前怎麼拍照片詢問？",
       "description": "先用照片把物件狀態說清楚，比只問價錢更有用。私享家會依材質、髒污來源、濕氣與磨耗狀態先做初步判斷。",
       "inLanguage": "zh-Hant-TW",
@@ -711,6 +863,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/guides/photo-before-laundry.html#faq",
       "url": "https://39211.github.io/guides/photo-before-laundry.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/guides/photo-before-laundry.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -743,6 +898,12 @@
       "about": {
         "@id": "https://39211.github.io/services/white-shoe-cleaning.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/guides/white-shoe-yellowing.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/guides/white-shoe-yellowing.html#faq"
+      },
       "keywords": [
         "白鞋泛黃",
         "白鞋清潔",
@@ -753,6 +914,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/guides/white-shoe-yellowing.html#howto",
+      "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/guides/white-shoe-yellowing.html#webpage"
+      },
       "name": "白鞋泛黃怎麼判斷？",
       "description": "白鞋清潔要先分清楚是表面髒污、膠邊氧化、內裡濕悶，還是材質本身變色，避免用錯方式讓鞋面變毛或膠痕更明顯。",
       "inLanguage": "zh-Hant-TW",
@@ -787,6 +952,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/guides/white-shoe-yellowing.html#faq",
       "url": "https://39211.github.io/guides/white-shoe-yellowing.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/guides/white-shoe-yellowing.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -819,6 +987,12 @@
       "about": {
         "@id": "https://39211.github.io/services/shoe-bag-care.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/guides/rainy-shoe-care.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/guides/rainy-shoe-care.html#faq"
+      },
       "keywords": [
         "雨天鞋子保養",
         "鞋子進水",
@@ -829,6 +1003,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/guides/rainy-shoe-care.html#howto",
+      "url": "https://39211.github.io/guides/rainy-shoe-care.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/guides/rainy-shoe-care.html#webpage"
+      },
       "name": "雨天鞋子進水後怎麼辦？",
       "description": "鞋子淋雨後最怕直接收進鞋櫃。濕氣留在鞋內、鞋墊和縫線附近，會讓味道與水痕更難處理。",
       "inLanguage": "zh-Hant-TW",
@@ -863,6 +1041,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/guides/rainy-shoe-care.html#faq",
       "url": "https://39211.github.io/guides/rainy-shoe-care.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/guides/rainy-shoe-care.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -895,6 +1076,12 @@
       "about": {
         "@id": "https://39211.github.io/services/shoe-bag-care.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/guides/bag-handle-cleaning.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/guides/bag-handle-cleaning.html#faq"
+      },
       "keywords": [
         "包包清潔",
         "包包提把清潔",
@@ -905,6 +1092,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/guides/bag-handle-cleaning.html#howto",
+      "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/guides/bag-handle-cleaning.html#webpage"
+      },
       "name": "包包提把與包角髒了怎麼判斷？",
       "description": "包包不是只有表面擦一擦。提把、包角、底部和五金附近，常見的是手汗、摩擦、水痕與材質吸附混在一起。",
       "inLanguage": "zh-Hant-TW",
@@ -939,6 +1130,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/guides/bag-handle-cleaning.html#faq",
       "url": "https://39211.github.io/guides/bag-handle-cleaning.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/guides/bag-handle-cleaning.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -971,6 +1165,12 @@
       "about": {
         "@id": "https://39211.github.io/services/fabric-storage.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/guides/bedding-storage-check.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/guides/bedding-storage-check.html#faq"
+      },
       "keywords": [
         "布品收納",
         "寢具收納",
@@ -981,6 +1181,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/guides/bedding-storage-check.html#howto",
+      "url": "https://39211.github.io/guides/bedding-storage-check.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/guides/bedding-storage-check.html#webpage"
+      },
       "name": "寢具外套收納前要檢查什麼？",
       "description": "換季收納前不是只要摺好。厚棉布品、外套和寢具如果帶著汗味、濕氣或局部髒污收進袋子，下一季拿出來會更明顯。",
       "inLanguage": "zh-Hant-TW",
@@ -1015,6 +1219,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/guides/bedding-storage-check.html#faq",
       "url": "https://39211.github.io/guides/bedding-storage-check.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/guides/bedding-storage-check.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -1047,6 +1254,12 @@
       "about": {
         "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html#faq"
+      },
       "keywords": [
         "台中西屯襯衫清洗",
         "台中西屯西裝乾洗",
@@ -1059,6 +1272,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html#howto",
+      "url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html#webpage"
+      },
       "name": "襯衫清洗與西裝乾洗",
       "description": "襯衫的領口袖口、西裝的面料、內襯與配件，不適合用同一種方式處理。先傳清楚照片，讓門市依材質與狀況判斷送洗方向。",
       "inLanguage": "zh-Hant-TW",
@@ -1093,6 +1310,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html#faq",
       "url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -1125,6 +1345,12 @@
       "about": {
         "@id": "https://39211.github.io/services/fabric-storage.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/guides/bedding-duvet-cleaning.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/guides/bedding-duvet-cleaning.html#faq"
+      },
       "keywords": [
         "台中西屯床組清洗",
         "台中棉被清洗",
@@ -1137,6 +1363,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/guides/bedding-duvet-cleaning.html#howto",
+      "url": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/guides/bedding-duvet-cleaning.html#webpage"
+      },
       "name": "床組、棉被與寢具清洗",
       "description": "床組不是只看表面乾不乾淨；填充物、潮氣、異味與收納前狀態都會影響後續判斷。先傳照片與尺寸，讓門市確認送件方向。",
       "inLanguage": "zh-Hant-TW",
@@ -1171,6 +1401,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/guides/bedding-duvet-cleaning.html#faq",
       "url": "https://39211.github.io/guides/bedding-duvet-cleaning.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/guides/bedding-duvet-cleaning.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -1203,6 +1436,12 @@
       "about": {
         "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/guides/plush-doll-cleaning.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/guides/plush-doll-cleaning.html#faq"
+      },
       "keywords": [
         "台中西屯娃娃清洗",
         "台中布偶清潔",
@@ -1215,6 +1454,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/guides/plush-doll-cleaning.html#howto",
+      "url": "https://39211.github.io/guides/plush-doll-cleaning.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/guides/plush-doll-cleaning.html#webpage"
+      },
       "name": "娃娃與絨毛玩偶清潔",
       "description": "絨毛、填充物、刺繡、黏貼配件和五官材質都可能不同。先傳正反面、洗標與需要處理的位置，讓門市確認處理界線。",
       "inLanguage": "zh-Hant-TW",
@@ -1249,6 +1492,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/guides/plush-doll-cleaning.html#faq",
       "url": "https://39211.github.io/guides/plush-doll-cleaning.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/guides/plush-doll-cleaning.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -1281,6 +1527,12 @@
       "about": {
         "@id": "https://39211.github.io/services/taichung-xitun-laundry.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/guides/luxury-dry-cleaning.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/guides/luxury-dry-cleaning.html#faq"
+      },
       "keywords": [
         "台中西屯精品乾洗",
         "台中名牌乾洗",
@@ -1293,6 +1545,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/guides/luxury-dry-cleaning.html#howto",
+      "url": "https://39211.github.io/guides/luxury-dry-cleaning.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/guides/luxury-dry-cleaning.html#webpage"
+      },
       "name": "精品名牌與精緻乾洗",
       "description": "精品或名牌物件不以品牌名稱直接判斷，而是先看材質、結構、飾件與既有使用痕跡。先傳局部細節，讓門市確認處理方向與界線。",
       "inLanguage": "zh-Hant-TW",
@@ -1327,6 +1583,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/guides/luxury-dry-cleaning.html#faq",
       "url": "https://39211.github.io/guides/luxury-dry-cleaning.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/guides/luxury-dry-cleaning.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",
@@ -1359,6 +1618,12 @@
       "about": {
         "@id": "https://39211.github.io/services/shoe-bag-care.html#service"
       },
+      "mainEntity": {
+        "@id": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#faq"
+      },
       "keywords": [
         "青海路洗衣店",
         "青海路洗鞋",
@@ -1369,6 +1634,10 @@
     {
       "@type": "HowTo",
       "@id": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#howto",
+      "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
+      "mainEntityOfPage": {
+        "@id": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#webpage"
+      },
       "name": "青海路附近洗鞋洗包服務",
       "description": "如果你在青海路二段、西屯區附近找洗鞋、洗包或洗衣店，可以先把鞋邊、包角、提把、衣物標籤和髒污位置拍給私享家判斷。",
       "inLanguage": "zh-Hant-TW",
@@ -1403,6 +1672,9 @@
       "@type": "FAQPage",
       "@id": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#faq",
       "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#faq",
+      "isPartOf": {
+        "@id": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#webpage"
+      },
       "mainEntity": [
         {
           "@type": "Question",

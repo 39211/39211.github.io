@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-19T21:34:02.031Z
+- Generated at: 2026-07-20T02:37:18.142Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -80,7 +80,10 @@
       "@type": "ContactPoint",
       "telephone": "+886-4-2452-7411",
       "contactType": "customer service",
-      "areaServed": "TW",
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "台中市"
+      },
       "availableLanguage": [
         "zh-Hant"
       ]
@@ -90,7 +93,10 @@
       "telephone": "+886-968-327-653",
       "url": "https://line.me/ti/p/4m-rA6hxf6",
       "contactType": "LINE / mobile estimates",
-      "areaServed": "TW",
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "台中市"
+      },
       "availableLanguage": [
         "zh-Hant"
       ]
@@ -123,8 +129,7 @@
   "hasMap": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
   "sameAs": [
     "https://www.facebook.com/100083194756904/",
-    "https://www.instagram.com/si_xiang_jia/",
-    "https://line.me/ti/p/4m-rA6hxf6"
+    "https://www.instagram.com/si_xiang_jia/"
   ],
   "image": [
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png",
@@ -166,10 +171,6 @@
     "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
   ],
   "areaServed": [
-    {
-      "@type": "Country",
-      "name": "Taiwan"
-    },
     {
       "@type": "AdministrativeArea",
       "name": "台中市"
