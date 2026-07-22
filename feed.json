@@ -887,6 +887,58 @@
         ],
         "calendar_url": "https://39211.github.io/content-calendar/2026-07-20.json"
       }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-22.json#post-2026-07-22-slot-01",
+      "url": "https://39211.github.io/posts/2026-07-22-slot-01.html",
+      "title": "2026-07-22 11:30 先看懂：行李箱布面與輪子灰塵",
+      "date_published": "2026-07-22T11:30:00+08:00",
+      "content_text": "先看懂：行李箱布面與輪子灰塵，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n行李箱最容易被忽略的地方，通常不是正面布面，而是輪子接縫、拉桿握把、底角、內裡夾層或邊條這些每天被摩擦與積灰的位置。\n\n遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #旅行整理 #行李箱清潔",
+      "summary": "先看懂：行李箱布面與輪子灰塵",
+      "image": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "旅行整理",
+        "行李箱清潔"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-07-22.json"
+      }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-22.json#post-2026-07-22-slot-02",
+      "url": "https://39211.github.io/posts/2026-07-22-slot-02.html",
+      "title": "2026-07-22 19:30 店家與公司的大量衣物也能一次收",
+      "date_published": "2026-07-22T19:30:00+08:00",
+      "content_text": "店家與公司的大量衣物也能一次收，制服、桌布和備品不必分好幾趟搬。\n\n私享家洗衣店\n\n餐飲制服、公司襯衫、門市桌布或活動用布品一次累積起來，最麻煩的是數量與分類，而不是單一污漬。自己分批搬運，往往比清洗本身更花人力。\n\n私享家提供台中市全區免費到府收送。店家或公司批量衣物可先分類拍照、註明件數與材質，用 LINE 傳收件地址，再由門市確認收送安排。\n\n批量衣物先分類拍照並註明件數，LINE 傳收件地址與聯絡人，我們再和你確認。\n\n追蹤私享家，之後會持續整理店家與公司批量送洗的收送方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "summary": "店家與公司的大量衣物也能一次收",
+      "image": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "台中洗衣收送",
+        "免費到府收送"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "value-prop-lead",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-07-22.json"
+      }
     }
   ]
 }

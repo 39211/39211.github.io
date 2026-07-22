@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-20T06:51:02.619Z
+- Generated at: 2026-07-22T02:25:23.637Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -166,6 +166,8 @@
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png",
+    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -1739,6 +1741,94 @@ Instagram caption:
 鞋面、鞋底、包角和提把先拍好，點個人檔案連結加 LINE，傳地址與照片，我們再確認收送。
 
 追蹤私享家，之後會持續整理鞋包照護與台中免費收送的實用資訊。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
+
+### 2026-07-22 11:30 先看懂：行李箱布面與輪子灰塵
+
+- id: https://39211.github.io/content-calendar/2026-07-22.json#post-2026-07-22-slot-01
+- published local time: 2026-07-22T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #旅行整理 #行李箱清潔
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-07-22.json
+
+Facebook caption:
+
+先看懂：行李箱布面與輪子灰塵，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+行李箱最容易被忽略的地方，通常不是正面布面，而是輪子接縫、拉桿握把、底角、內裡夾層或邊條這些每天被摩擦與積灰的位置。
+
+遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #旅行整理 #行李箱清潔
+
+Instagram caption:
+
+先看懂：行李箱布面與輪子灰塵，重點不是急著洗，是先看材質、位置和狀態。
+
+私享家洗衣店
+
+行李箱最容易被忽略的地方，通常不是正面布面，而是輪子接縫、拉桿握把、底角、內裡夾層或邊條這些每天被摩擦與積灰的位置。
+
+遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。
+
+有類似狀況時，先拍完整外觀、局部、邊角或洗標，再傳 LINE 讓我們初步看方向。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #旅行整理 #行李箱清潔
+
+### 2026-07-22 19:30 店家與公司的大量衣物也能一次收
+
+- id: https://39211.github.io/content-calendar/2026-07-22.json#post-2026-07-22-slot-02
+- published local time: 2026-07-22T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: value-prop-lead
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
+- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-07-22.json
+
+Facebook caption:
+
+店家與公司的大量衣物也能一次收，制服、桌布和備品不必分好幾趟搬。
+
+私享家洗衣店
+
+餐飲制服、公司襯衫、門市桌布或活動用布品一次累積起來，最麻煩的是數量與分類，而不是單一污漬。自己分批搬運，往往比清洗本身更花人力。
+
+私享家提供台中市全區免費到府收送。店家或公司批量衣物可先分類拍照、註明件數與材質，用 LINE 傳收件地址，再由門市確認收送安排。
+
+批量衣物先分類拍照並註明件數，LINE 傳收件地址與聯絡人，我們再和你確認。
+
+追蹤私享家，之後會持續整理店家與公司批量送洗的收送方式。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
+
+Instagram caption:
+
+店家與公司的大量衣物也能一次收，制服、桌布和備品不必分好幾趟搬。
+
+私享家洗衣店
+
+餐飲制服、公司襯衫、門市桌布或活動用布品一次累積起來，最麻煩的是數量與分類，而不是單一污漬。自己分批搬運，往往比清洗本身更花人力。
+
+私享家提供台中市全區免費到府收送。店家或公司批量衣物可先分類拍照、註明件數與材質，用 LINE 傳收件地址，再由門市確認收送安排。
+
+制服、桌布或備品先分類拍，LINE 傳件數與地址，我們再確認收送。
+
+追蹤私享家，之後會持續整理店家與公司批量送洗的收送方式。
 
 #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
 
