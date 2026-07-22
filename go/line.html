@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta http-equiv="refresh" content="3;url=https://line.me/ti/p/4m-rA6hxf6" />
+    <title>前往私享家 LINE</title>
+    
+  </head>
+  <body>
+    <main><p>正在前往私享家 LINE；若沒有自動開啟，請<a href="https://line.me/ti/p/4m-rA6hxf6">點這裡</a>。</p></main>
+    <script>
+      (() => {
+        const destination = "https://line.me/ti/p/4m-rA6hxf6";
+        const params = new URLSearchParams(location.search);
+        const source = params.get('source') || 'unknown';
+        const content = params.get('content') || '';
+        const slot = params.get('slot') || '';
+        let redirected = false;
+        const redirect = () => { if (!redirected) { redirected = true; location.replace(destination); } };
+        if (typeof window.gtag === 'function') {
+          window.gtag('event', 'line_click', {
+            source,
+            content,
+            slot,
+            transport_type: 'beacon',
+            event_callback: redirect,
+            event_timeout: 1200
+          });
+          setTimeout(redirect, 1500);
+        } else {
+          setTimeout(redirect, 250);
+        }
+      })();
+    </script>
+  </body>
+</html>

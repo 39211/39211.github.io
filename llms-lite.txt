@@ -27,6 +27,6 @@ LLMS JSONL: https://39211.github.io/llms.jsonl
 床組、棉被與寢具清洗: https://39211.github.io/guides/bedding-duvet-cleaning.html
 娃娃與絨毛玩偶清潔: https://39211.github.io/guides/plush-doll-cleaning.html
 精品名牌與精緻乾洗: https://39211.github.io/guides/luxury-dry-cleaning.html
-青海路附近洗鞋洗包服務: https://39211.github.io/local/qinghai-road-shoe-cleaning.html
+逢甲洗鞋・西屯洗鞋: https://39211.github.io/local/qinghai-road-shoe-cleaning.html
 Knowledge graph: https://39211.github.io/knowledge-graph.json
 Full context: https://39211.github.io/llms-full.txt

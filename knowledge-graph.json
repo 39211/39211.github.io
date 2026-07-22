@@ -11,7 +11,7 @@
         "私享家精品洗護"
       ],
       "url": "https://39211.github.io/",
-      "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
+      "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "inLanguage": "zh-Hant",
       "address": {
         "@type": "PostalAddress",
@@ -168,7 +168,7 @@
               "@type": "Service",
               "name": "鞋包清潔",
               "serviceType": "鞋包清潔",
-              "description": "台中西屯洗鞋洗包建議先拍鞋面、鞋底、包角、提把與內裡，私享家會依材質、濕氣、水痕與磨耗程度判斷清潔方式與可改善範圍。",
+              "description": "逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。",
               "areaServed": {
                 "@type": "AdministrativeArea",
                 "name": "台中西屯"
@@ -243,7 +243,7 @@
       "name": "私享家洗衣店",
       "url": "https://39211.github.io/",
       "inLanguage": "zh-Hant",
-      "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
+      "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "publisher": {
         "@id": "https://39211.github.io/#business"
       }
@@ -251,9 +251,9 @@
     {
       "@type": "WebPage",
       "@id": "https://39211.github.io/#webpage",
-      "name": "私享家洗衣店｜台中西屯門市・台中全市免費洗衣收送",
+      "name": "台中免費收送｜逢甲洗鞋・西屯洗鞋｜私享家洗衣店",
       "url": "https://39211.github.io/",
-      "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
+      "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -264,7 +264,7 @@
       "hasPart": {
         "@id": "https://39211.github.io/#homepage-faq"
       },
-      "dateModified": "2026-07-20"
+      "dateModified": "2026-07-22"
     },
     {
       "@type": "FAQPage",
@@ -315,7 +315,7 @@
       "@type": "Dataset",
       "@id": "https://39211.github.io/#social-post-dataset",
       "name": "私享家洗衣店 social post dataset",
-      "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
+      "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://39211.github.io/social-posts.json",
       "dateModified": "2026-07-22",
       "inLanguage": "zh-Hant",
@@ -329,9 +329,9 @@
     {
       "@type": "WebPage",
       "@id": "https://39211.github.io/services/shoe-bag-care.html#webpage",
-      "name": "鞋包清潔｜台中西屯洗鞋、洗包與材質照護｜私享家洗衣店",
+      "name": "逢甲洗鞋・西屯洗鞋｜鞋包清潔先看材質｜私享家洗衣店",
       "url": "https://39211.github.io/services/shoe-bag-care.html",
-      "description": "台中西屯鞋包清潔與洗鞋洗包諮詢，私享家洗衣店會先看鞋面、鞋底、包角、提把、內裡與材質狀態，再判斷適合的清潔方式。",
+      "description": "找逢甲洗鞋或西屯洗鞋？私享家洗衣店在青海路二段365號，先看鞋面、鞋底、內裡與材質再判斷清潔方式，台中市可免費收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -345,6 +345,7 @@
       "hasPart": {
         "@id": "https://39211.github.io/services/shoe-bag-care.html#faq"
       },
+      "dateModified": "2026-07-22",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
@@ -355,7 +356,7 @@
       "@type": "Service",
       "@id": "https://39211.github.io/services/shoe-bag-care.html#service",
       "name": "鞋包清潔",
-      "description": "台中西屯洗鞋洗包建議先拍鞋面、鞋底、包角、提把與內裡，私享家會依材質、濕氣、水痕與磨耗程度判斷清潔方式與可改善範圍。",
+      "description": "逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。",
       "serviceType": "鞋包清潔",
       "mainEntityOfPage": {
         "@id": "https://39211.github.io/services/shoe-bag-care.html#webpage"
@@ -368,12 +369,12 @@
         "name": "台中西屯"
       },
       "keywords": [
+        "逢甲洗鞋",
+        "西屯洗鞋",
+        "台中西屯洗鞋",
         "鞋包清潔",
-        "洗鞋",
         "洗包",
         "包包清潔",
-        "鞋子清潔",
-        "台中西屯鞋包清潔",
         "青海路洗鞋"
       ],
       "url": "https://39211.github.io/services/shoe-bag-care.html"
@@ -709,9 +710,9 @@
     {
       "@type": "WebPage",
       "@id": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#webpage",
-      "name": "台中全市免費洗衣收送｜私享家洗衣店 LINE 預約",
+      "name": "台中免費收送洗衣｜全市到府、LINE 預約｜私享家洗衣店",
       "url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
-      "description": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號。收送範圍為台中市，主要透過 LINE 傳照片詢問與預約。",
+      "description": "台中免費收送洗衣服務涵蓋全市，收送本身免費、洗護費另計。私享家門市在西屯青海路二段365號，先用 LINE 傳照片預約。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -725,7 +726,7 @@
       "hasPart": {
         "@id": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#faq"
       },
-      "dateModified": "2026-07-20"
+      "dateModified": "2026-07-22"
     },
     {
       "@type": "Service",
@@ -1610,9 +1611,9 @@
     {
       "@type": "WebPage",
       "@id": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#webpage",
-      "name": "青海路附近洗鞋洗包服務｜私享家洗衣店",
+      "name": "逢甲洗鞋・西屯洗鞋｜青海路私享家洗衣店",
       "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
-      "description": "私享家洗衣店位於台中市西屯區青海路二段，提供白鞋清潔、鞋包照護、衣物洗護與布品收納，可先用 LINE 傳照片詢問。",
+      "description": "逢甲、西屯需要洗鞋，可到青海路二段365號私享家洗衣店，先傳鞋面、鞋邊、鞋底與鞋內照片；台中市亦可預約免費收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -1626,10 +1627,12 @@
       "hasPart": {
         "@id": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#faq"
       },
+      "dateModified": "2026-07-22",
       "keywords": [
-        "青海路洗衣店",
-        "青海路洗鞋",
+        "逢甲洗鞋",
+        "西屯洗鞋",
         "台中西屯洗鞋",
+        "青海路洗鞋",
         "西屯洗包"
       ]
     },
@@ -1640,8 +1643,8 @@
       "mainEntityOfPage": {
         "@id": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#webpage"
       },
-      "name": "青海路附近洗鞋洗包服務",
-      "description": "如果你在青海路二段、西屯區附近找洗鞋、洗包或洗衣店，可以先把鞋邊、包角、提把、衣物標籤和髒污位置拍給私享家判斷。",
+      "name": "逢甲洗鞋・西屯洗鞋",
+      "description": "私享家位於西屯青海路二段365號，承接逢甲生活圈與西屯洗鞋需求。先拍鞋面、鞋邊、鞋底與鞋內，門市會依材質和痕跡判斷處理方向。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {

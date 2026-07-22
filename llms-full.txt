@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-22T02:25:23.637Z
+- Generated at: 2026-07-22T06:22:37.909Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -57,7 +57,7 @@
     "私享家精品洗護"
   ],
   "url": "https://39211.github.io/",
-  "description": "私享家洗衣店門市在台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包與布品收納；台中全市可預約免費收送，主要透過 LINE 詢問與預約。",
+  "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
   "inLanguage": "zh-Hant",
   "address": {
     "@type": "PostalAddress",
@@ -214,7 +214,7 @@
           "@type": "Service",
           "name": "鞋包清潔",
           "serviceType": "鞋包清潔",
-          "description": "台中西屯洗鞋洗包建議先拍鞋面、鞋底、包角、提把與內裡，私享家會依材質、濕氣、水痕與磨耗程度判斷清潔方式與可改善範圍。",
+          "description": "逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中西屯"

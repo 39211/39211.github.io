@@ -10,11 +10,11 @@
   <url><loc>https://39211.github.io/answers.json</loc><changefreq>daily</changefreq><!-- answer-engine-records --></url>
   <url><loc>https://39211.github.io/geo-targets.json</loc><changefreq>daily</changefreq><!-- geo-target-records --></url>
   <url><loc>https://39211.github.io/llms.jsonl</loc><changefreq>daily</changefreq><!-- line-delimited-ai-records --></url>
-  <url><loc>https://39211.github.io/services/shoe-bag-care.html</loc><changefreq>daily</changefreq><!-- service-page-shoe-bag-care --></url>
+  <url><loc>https://39211.github.io/services/shoe-bag-care.html</loc><lastmod>2026-07-22</lastmod><changefreq>daily</changefreq><!-- service-page-shoe-bag-care --></url>
   <url><loc>https://39211.github.io/services/white-shoe-cleaning.html</loc><changefreq>daily</changefreq><!-- service-page-white-shoe-cleaning --></url>
   <url><loc>https://39211.github.io/services/fabric-storage.html</loc><changefreq>daily</changefreq><!-- service-page-fabric-storage --></url>
   <url><loc>https://39211.github.io/services/taichung-xitun-laundry.html</loc><changefreq>daily</changefreq><!-- service-page-taichung-xitun-laundry --></url>
-  <url><loc>https://39211.github.io/services/taichung-citywide-laundry-pickup.html</loc><lastmod>2026-07-20</lastmod><changefreq>daily</changefreq><!-- service-page-taichung-citywide-laundry-pickup --></url>
+  <url><loc>https://39211.github.io/services/taichung-citywide-laundry-pickup.html</loc><lastmod>2026-07-22</lastmod><changefreq>daily</changefreq><!-- service-page-taichung-citywide-laundry-pickup --></url>
   <url><loc>https://39211.github.io/guides/photo-before-laundry.html</loc><changefreq>daily</changefreq><!-- guide-page-photo-before-laundry --></url>
   <url><loc>https://39211.github.io/guides/white-shoe-yellowing.html</loc><changefreq>daily</changefreq><!-- guide-page-white-shoe-yellowing --></url>
   <url><loc>https://39211.github.io/guides/rainy-shoe-care.html</loc><changefreq>daily</changefreq><!-- guide-page-rainy-shoe-care --></url>
@@ -24,7 +24,7 @@
   <url><loc>https://39211.github.io/guides/bedding-duvet-cleaning.html</loc><changefreq>daily</changefreq><!-- guide-page-bedding-duvet-cleaning --></url>
   <url><loc>https://39211.github.io/guides/plush-doll-cleaning.html</loc><changefreq>daily</changefreq><!-- guide-page-plush-doll-cleaning --></url>
   <url><loc>https://39211.github.io/guides/luxury-dry-cleaning.html</loc><changefreq>daily</changefreq><!-- guide-page-luxury-dry-cleaning --></url>
-  <url><loc>https://39211.github.io/local/qinghai-road-shoe-cleaning.html</loc><changefreq>daily</changefreq><!-- local-page-qinghai-road-shoe-cleaning --></url>
+  <url><loc>https://39211.github.io/local/qinghai-road-shoe-cleaning.html</loc><lastmod>2026-07-22</lastmod><changefreq>daily</changefreq><!-- local-page-qinghai-road-shoe-cleaning --></url>
   <url><loc>https://39211.github.io/feed.json</loc><changefreq>daily</changefreq><!-- updates-feed --></url>
   <url><loc>https://39211.github.io/social-posts.json</loc><changefreq>daily</changefreq><!-- post-records --></url>
   <url><loc>https://39211.github.io/latest.json</loc><changefreq>daily</changefreq><!-- latest-package --></url>

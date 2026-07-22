@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-22T02:25:23.637Z",
+  "generated_at": "2026-07-22T06:22:37.909Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -217,7 +217,7 @@
       "id": "shoe-bag-care-summary",
       "type": "service_summary",
       "question": "台中西屯鞋包清潔要怎麼判斷？",
-      "answer": "台中西屯洗鞋洗包建議先拍鞋面、鞋底、包角、提把與內裡，私享家會依材質、濕氣、水痕與磨耗程度判斷清潔方式與可改善範圍。",
+      "answer": "逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。",
       "service": "鞋包清潔",
       "source_url": "https://39211.github.io/services/shoe-bag-care.html",
       "local_intent": "台中西屯 鞋包清潔",
@@ -1447,15 +1447,16 @@
     {
       "id": "qinghai-road-shoe-cleaning-summary",
       "type": "local_summary",
-      "question": "青海路附近洗鞋洗包服務",
-      "answer": "如果你在青海路二段、西屯區附近找洗鞋、洗包或洗衣店，可以先把鞋邊、包角、提把、衣物標籤和髒污位置拍給私享家判斷。",
+      "question": "逢甲洗鞋・西屯洗鞋",
+      "answer": "私享家位於西屯青海路二段365號，承接逢甲生活圈與西屯洗鞋需求。先拍鞋面、鞋邊、鞋底與鞋內，門市會依材質和痕跡判斷處理方向。",
       "service": "鞋包清潔",
       "source_url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
-      "local_intent": "青海路 洗鞋 洗包 洗衣店",
+      "local_intent": "逢甲洗鞋 西屯洗鞋 青海路洗鞋",
       "keywords": [
-        "青海路洗衣店",
-        "青海路洗鞋",
+        "逢甲洗鞋",
+        "西屯洗鞋",
         "台中西屯洗鞋",
+        "青海路洗鞋",
         "西屯洗包"
       ],
       "area": "西屯區",
@@ -1477,11 +1478,12 @@
       "answer": "可以，建議拍鞋面、鞋邊、鞋底和鞋內照片，讓門市先判斷狀態。",
       "service": "鞋包清潔",
       "source_url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#faq",
-      "local_intent": "青海路 洗鞋 洗包 洗衣店",
+      "local_intent": "逢甲洗鞋 西屯洗鞋 青海路洗鞋",
       "keywords": [
-        "青海路洗衣店",
-        "青海路洗鞋",
+        "逢甲洗鞋",
+        "西屯洗鞋",
         "台中西屯洗鞋",
+        "青海路洗鞋",
         "西屯洗包"
       ],
       "area": "西屯區",
@@ -1503,11 +1505,12 @@
       "answer": "有提供鞋包照護相關服務，包包會先看材質、包角、提把和內裡狀態。",
       "service": "鞋包清潔",
       "source_url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#faq",
-      "local_intent": "青海路 洗鞋 洗包 洗衣店",
+      "local_intent": "逢甲洗鞋 西屯洗鞋 青海路洗鞋",
       "keywords": [
-        "青海路洗衣店",
-        "青海路洗鞋",
+        "逢甲洗鞋",
+        "西屯洗鞋",
         "台中西屯洗鞋",
+        "青海路洗鞋",
         "西屯洗包"
       ],
       "area": "西屯區",
