@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-25T10:19:16.865Z
+- Generated at: 2026-07-25T13:29:38.499Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -1892,7 +1892,7 @@ Instagram caption:
 
 Facebook caption:
 
-下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。
+下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。
 
 私享家洗衣店
 
@@ -1908,7 +1908,7 @@ Facebook caption:
 
 Instagram caption:
 
-下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。
+下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。
 
 私享家洗衣店
 

@@ -1,7 +1,7 @@
 {
   "date": "2026-07-25",
   "timezone": "Asia/Taipei",
-  "generated_at": "2026-07-25T10:06:14.569Z",
+  "generated_at": "2026-07-25T10:25:46.397Z",
   "slots": [
     {
       "slot": 1,
@@ -15,6 +15,7 @@
       "image_prompt": "Realistic square shop photo for 私享家洗衣店: 冷氣房外套聞起來沒事，也要翻開領口內側看. 寫實方形門市照片；乾淨檢查櫃台上一件深灰色薄外套，完整領口、袖口與淺色內裡同時可見，一雙自然手勢只翻開領口內側檢查細微汗漬與布料紋理；近距離 50mm 紀實攝影、明亮自然光、真實纖維與使用痕跡，不加文字、不放清潔劑、不做前後對比、不出現品牌與浮水印。 Premium Taiwanese laundry and shoe-care shop mood, clean counter, clear object detail, restrained Apple-like spacing when poster-like, no fake logo, no readable text, no watermark.",
       "visual_route": "macro-detail",
       "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
       "views_target": 45,
       "follower_target": 1,
       "follow_cta": "追蹤私享家，之後會持續整理上班外套與日常衣物的實用判斷。",
@@ -32,11 +33,12 @@
       "topic": "下班不用再繞去洗衣店，台中免費收送從門口開始",
       "format": "real-shop-photo",
       "media_type": "image",
-      "instagram_caption": "下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
-      "facebook_caption": "下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "instagram_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "facebook_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
       "image_prompt": "Realistic square shop photo for 私享家洗衣店: 下班不用再繞去洗衣店，台中免費收送從門口開始. 寫實方形台灣公寓門口交接照片；攝影機固定在室外並拉近到雙方上半身和袋子，客人雙腳完整留在室內，只有大型藍色編織聚丙烯購物袋的前角跨在門檻上，袋子有黃色提把但沒有任何品牌或文字；收送人員完整頭部保留在畫面內，雙腳與身體都在室外，雙手自然接住袋子。沒有雨、沒有雨傘，人物不穿牆、不穿門、不穿模，袋子重量與手部受力合理，門框透視與人體比例真實，不加文字、標誌或浮水印。 Premium Taiwanese laundry and shoe-care shop mood, clean counter, clear object detail, restrained Apple-like spacing when poster-like, no fake logo, no readable text, no watermark.",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "views_target": 55,
       "follower_target": 1,
       "follow_cta": "追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。",

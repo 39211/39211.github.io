@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-07-25T10:19:16.865Z",
+  "generated_at": "2026-07-25T13:29:38.499Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -908,6 +908,7 @@
       "slot",
       "time",
       "topic",
+      "content_role",
       "visual_route",
       "traffic_route",
       "hashtags",
@@ -933,7 +934,8 @@
     "latest_date": "2026-07-25",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
-    "all_posts_have_routes": true
+    "all_posts_have_routes": true,
+    "all_posts_have_content_roles": true
   },
   "latest_date": "2026-07-25",
   "latest_posts": [
@@ -947,6 +949,7 @@
       "topic": "冷氣房外套聞起來沒事，也要翻開領口內側看",
       "visual_route": "macro-detail",
       "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -979,6 +982,7 @@
       "topic": "下班不用再繞去洗衣店，台中免費收送從門口開始",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -998,8 +1002,8 @@
       "video_url": "",
       "calendar_url": "https://39211.github.io/content-calendar/2026-07-25.json",
       "article_url": "https://39211.github.io/posts/2026-07-25-slot-02.html",
-      "facebook_caption": "下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
-      "instagram_caption": "下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送"
+      "facebook_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "instagram_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送"
     }
   ],
   "recent_posts": [
@@ -1013,6 +1017,7 @@
       "topic": "下班不用再繞去洗衣店，台中免費收送從門口開始",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1032,8 +1037,8 @@
       "video_url": "",
       "calendar_url": "https://39211.github.io/content-calendar/2026-07-25.json",
       "article_url": "https://39211.github.io/posts/2026-07-25-slot-02.html",
-      "facebook_caption": "下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
-      "instagram_caption": "下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送"
+      "facebook_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "instagram_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-01",
@@ -1045,6 +1050,7 @@
       "topic": "冷氣房外套聞起來沒事，也要翻開領口內側看",
       "visual_route": "macro-detail",
       "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1077,6 +1083,7 @@
       "topic": "店家與公司的大量衣物也能一次收",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1109,6 +1116,7 @@
       "topic": "先看懂：行李箱布面與輪子灰塵",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1141,6 +1149,7 @@
       "topic": "鞋包不用再塞進機車踏板出門",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1173,6 +1182,7 @@
       "topic": "先看懂：白襯衫領口與腋下泛黃",
       "visual_route": "shop-inspection",
       "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1233,6 +1243,7 @@
       "topic": "精品衣物最怕的不是送洗，是路上顛簸",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1265,6 +1276,7 @@
       "topic": "先看懂：抱枕飲料痕與布面味道",
       "visual_route": "macro-detail",
       "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1297,6 +1309,7 @@
       "topic": "整套床組不必再自己扛下樓",
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1329,6 +1342,7 @@
       "topic": "先看懂：羽絨外套壓扁前的檢查",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1361,6 +1375,7 @@
       "topic": "忙到沒手再搬洗衣籃的家庭日常",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1393,6 +1408,7 @@
       "topic": "先看懂：皮鞋雨痕與皺摺邊緣",
       "visual_route": "customer-consultation",
       "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1425,6 +1441,7 @@
       "topic": "今天情境：換季時西裝和襯衫不要一起悶收",
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1457,6 +1474,7 @@
       "topic": "先看懂：外套領口袖口的日常油痕",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1489,6 +1507,7 @@
       "topic": "今天情境：暑假旅行回來先處理外套",
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1521,6 +1540,7 @@
       "topic": "先看懂：深色衣服洗久變灰的判斷",
       "visual_route": "shop-inspection",
       "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1553,6 +1573,7 @@
       "topic": "今天情境：週末換季整理先分類布品",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1585,6 +1606,7 @@
       "topic": "先看懂：棉被收納前的濕氣與睡眠味",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1617,6 +1639,7 @@
       "topic": "今天情境：下班最常背的包先看提把",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1649,6 +1672,7 @@
       "topic": "先看懂：包包提把手汗與邊油痕",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1681,6 +1705,7 @@
       "topic": "今天情境：雨後通勤回家不要直接收鞋",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1713,6 +1738,7 @@
       "topic": "先看懂：白鞋鞋邊泛灰前的檢查",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1745,6 +1771,7 @@
       "topic": "週末大掃除後的布品分袋",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#布品收納",
@@ -1777,6 +1804,7 @@
       "topic": "皮鞋雨痕與鞋面乾裂前的檢查",
       "visual_route": "customer-consultation",
       "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#皮鞋保養",
@@ -1809,6 +1837,7 @@
       "topic": "孩子上學鞋襪的泥灰與汗味",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#童鞋清潔",
@@ -1841,6 +1870,7 @@
       "topic": "包包提把的手汗與邊油痕",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#包包清潔",
@@ -1873,6 +1903,7 @@
       "topic": "旅行回來先處理外套與行李灰塵",
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#旅行後整理",
@@ -1905,6 +1936,7 @@
       "topic": "棉被收納前的濕氣與睡眠味",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#棉被清潔",
@@ -1937,6 +1969,7 @@
       "topic": "雨季通勤後的包角與鞋底檢查",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -1968,6 +2001,7 @@
       "topic": "白鞋鞋邊與內裡的濕悶痕跡",
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -2001,6 +2035,7 @@
       "topic": "白鞋鞋邊與內裡的濕悶痕跡",
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -2032,6 +2067,7 @@
       "topic": "雨季通勤後的包角與鞋底檢查",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -2063,6 +2099,7 @@
       "topic": "白鞋鞋邊與內裡的濕悶痕跡",
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -2094,6 +2131,7 @@
       "topic": "雨季通勤後的包角與鞋底檢查",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -2125,6 +2163,7 @@
       "topic": "週末布品收納前的櫃台分類",
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中洗衣店",
@@ -2157,6 +2196,7 @@
       "topic": "雨後鞋底包角與提把細節",
       "visual_route": "macro-detail",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -2189,6 +2229,7 @@
       "topic": "白鞋鞋邊與內裡的濕悶痕跡",
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -2220,6 +2261,7 @@
       "topic": "雨季通勤後的包角與鞋底檢查",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -2251,6 +2293,7 @@
       "topic": "白鞋鞋邊與內裡的濕悶痕跡",
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -2282,6 +2325,7 @@
       "topic": "雨季通勤後的包角與鞋底檢查",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -2313,6 +2357,7 @@
       "topic": "棉被收納前的濕氣與睡眠味",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#棉被清潔",
@@ -2345,6 +2390,7 @@
       "topic": "旅行回來先處理外套與行李灰塵",
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#旅行後整理",
@@ -2377,6 +2423,7 @@
       "topic": "包包提把的手汗與邊油痕",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#包包清潔",
@@ -2409,6 +2456,7 @@
       "topic": "孩子上學鞋襪的泥灰與汗味",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#童鞋清潔",
@@ -2441,6 +2489,7 @@
       "topic": "皮鞋雨痕與鞋面乾裂前的檢查",
       "visual_route": "customer-consultation",
       "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#皮鞋保養",
@@ -2473,6 +2522,7 @@
       "topic": "週末大掃除後的布品分袋",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#布品收納",
@@ -2505,6 +2555,7 @@
       "topic": "先看懂：白鞋鞋邊泛灰前的檢查",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2537,6 +2588,7 @@
       "topic": "今天情境：雨後通勤回家不要直接收鞋",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2569,6 +2621,7 @@
       "topic": "先看懂：包包提把手汗與邊油痕",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2601,6 +2654,7 @@
       "topic": "今天情境：下班最常背的包先看提把",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2633,6 +2687,7 @@
       "topic": "先看懂：棉被收納前的濕氣與睡眠味",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2665,6 +2720,7 @@
       "topic": "今天情境：週末換季整理先分類布品",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2697,6 +2753,7 @@
       "topic": "先看懂：深色衣服洗久變灰的判斷",
       "visual_route": "shop-inspection",
       "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2729,6 +2786,7 @@
       "topic": "今天情境：暑假旅行回來先處理外套",
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2761,6 +2819,7 @@
       "topic": "先看懂：外套領口袖口的日常油痕",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2793,6 +2852,7 @@
       "topic": "今天情境：換季時西裝和襯衫不要一起悶收",
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2825,6 +2885,7 @@
       "topic": "先看懂：皮鞋雨痕與皺摺邊緣",
       "visual_route": "customer-consultation",
       "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2857,6 +2918,7 @@
       "topic": "忙到沒手再搬洗衣籃的家庭日常",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2889,6 +2951,7 @@
       "topic": "先看懂：羽絨外套壓扁前的檢查",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2921,6 +2984,7 @@
       "topic": "整套床組不必再自己扛下樓",
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2953,6 +3017,7 @@
       "topic": "先看懂：抱枕飲料痕與布面味道",
       "visual_route": "macro-detail",
       "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2985,6 +3050,7 @@
       "topic": "精品衣物最怕的不是送洗，是路上顛簸",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3017,6 +3083,7 @@
       "topic": "先看懂：白襯衫領口與腋下泛黃",
       "visual_route": "shop-inspection",
       "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3077,6 +3144,7 @@
       "topic": "鞋包不用再塞進機車踏板出門",
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3109,6 +3177,7 @@
       "topic": "先看懂：行李箱布面與輪子灰塵",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3141,6 +3210,7 @@
       "topic": "店家與公司的大量衣物也能一次收",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3173,6 +3243,7 @@
       "topic": "冷氣房外套聞起來沒事，也要翻開領口內側看",
       "visual_route": "macro-detail",
       "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3205,6 +3276,7 @@
       "topic": "下班不用再繞去洗衣店，台中免費收送從門口開始",
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3224,8 +3296,8 @@
       "video_url": "",
       "calendar_url": "https://39211.github.io/content-calendar/2026-07-25.json",
       "article_url": "https://39211.github.io/posts/2026-07-25-slot-02.html",
-      "facebook_caption": "下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
-      "instagram_caption": "下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送"
+      "facebook_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "instagram_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送"
     }
   ]
 }
