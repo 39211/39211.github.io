@@ -122,6 +122,8 @@
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png",
+        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
@@ -317,7 +319,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-22",
+      "dateModified": "2026-07-25",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -2841,6 +2843,70 @@
       "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png",
       "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png",
       "caption": "店家與公司的大量衣物也能一次收",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-01",
+      "headline": "2026-07-25 11:30 冷氣房外套聞起來沒事，也要翻開領口內側看",
+      "text": "冷氣房外套聞起來沒事，不代表領口內側沒有汗與皮脂；先翻開再決定要不要洗。\n\n私享家洗衣店\n\n辦公室薄外套每天接觸脖子、頭髮和通勤汗氣，最早留下痕跡的通常是領口內側、袖口與腋下內裡，不一定會先出現明顯味道。\n\n先在自然光下翻開領口，看有沒有顏色變深、油感或局部泛黃，再一起確認袖口、內裡和洗標。不要先噴香水蓋味，也不要只在同一處反覆搓揉。\n\n把外套正面、領口內側、袖口和洗標各拍一張，再傳 LINE，我們可以先依材質與痕跡位置看處理方向。\n\n追蹤私享家，之後會持續整理上班外套與日常衣物的實用判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口清潔",
+      "datePublished": "2026-07-25T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#外套清洗",
+        "#領口清潔"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-01:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png",
+      "caption": "冷氣房外套聞起來沒事，也要翻開領口內側看",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-02",
+      "headline": "2026-07-25 19:30 下班不用再繞去洗衣店，台中免費收送從門口開始",
+      "text": "下班不用再繞去洗衣店；台中市全區免費到府收送，待洗衣物可以從家門口開始交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
+      "datePublished": "2026-07-25T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中洗衣收送",
+        "#免費到府收送"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-02:image",
+      "contentUrl": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png",
+      "url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png",
+      "caption": "下班不用再繞去洗衣店，台中免費收送從門口開始",
       "inLanguage": "zh-Hant"
     }
   ]
