@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-25T13:29:38.499Z",
+  "generated_at": "2026-07-26T18:00:03.132Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://39211.github.io/",
@@ -24,7 +24,7 @@
         "青海路洗鞋"
       ],
       "answer_summary": "逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。",
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
+      "image_url": "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
       "image_path": "assets/services/shoe-bag-care-hero-product.png",
       "image_alt": "鞋包清潔前的包角、鞋面與皮革檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現鞋包清潔前的包角、鞋面、皮革水痕與邊緣檢查情境；不是實際客戶物件照片。",
@@ -152,7 +152,7 @@
         "青海路洗鞋"
       ],
       "answer_summary": "台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。",
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
+      "image_url": "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
       "image_path": "assets/services/white-shoe-cleaning-hero-product.png",
       "image_alt": "白鞋清潔前的鞋邊、縫線與內裡檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現白鞋清潔前的鞋邊、縫線、皮革鞋面與內裡檢查情境；不是實際客戶物件照片。",
@@ -268,7 +268,7 @@
         "台中西屯布品整理"
       ],
       "answer_summary": "台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。",
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png",
+      "image_url": "https://39211.github.io/assets/services/fabric-storage-hero-product.png",
       "image_path": "assets/services/fabric-storage-hero-product.png",
       "image_alt": "外套、寢具與布品收納前檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現外套、寢具與布品收納前檢查情境；不是實際客戶物件照片。",

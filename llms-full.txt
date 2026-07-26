@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-25T13:29:38.499Z
+- Generated at: 2026-07-26T18:00:03.132Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -132,47 +132,49 @@
     "https://www.instagram.com/si_xiang_jia/"
   ],
   "image": [
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
-    "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
+    "https://39211.github.io/assets/2026-07-02/slot-01.png",
+    "https://39211.github.io/assets/2026-07-02/slot-02.png",
+    "https://39211.github.io/assets/2026-07-03/slot-01.png",
+    "https://39211.github.io/assets/2026-07-03/slot-02.png",
+    "https://39211.github.io/assets/2026-07-04/slot-01.png",
+    "https://39211.github.io/assets/2026-07-04/slot-02.png",
+    "https://39211.github.io/assets/2026-07-05/slot-01.png",
+    "https://39211.github.io/assets/2026-07-05/slot-02.png",
+    "https://39211.github.io/assets/2026-07-07/slot-01.png",
+    "https://39211.github.io/assets/2026-07-07/slot-02.png",
+    "https://39211.github.io/assets/2026-07-08/slot-01.png",
+    "https://39211.github.io/assets/2026-07-08/slot-02.png",
+    "https://39211.github.io/assets/2026-07-09/slot-01.png",
+    "https://39211.github.io/assets/2026-07-09/slot-02.png",
+    "https://39211.github.io/assets/2026-07-10/slot-01.png",
+    "https://39211.github.io/assets/2026-07-10/slot-02.png",
+    "https://39211.github.io/assets/2026-07-11/slot-01.png",
+    "https://39211.github.io/assets/2026-07-11/slot-02.png",
+    "https://39211.github.io/assets/2026-07-12/slot-01.png",
+    "https://39211.github.io/assets/2026-07-12/slot-02.png",
+    "https://39211.github.io/assets/2026-07-13/slot-01.png",
+    "https://39211.github.io/assets/2026-07-13/slot-02.png",
+    "https://39211.github.io/assets/2026-07-14/slot-01.png",
+    "https://39211.github.io/assets/2026-07-14/slot-02.png",
+    "https://39211.github.io/assets/2026-07-15/slot-01.png",
+    "https://39211.github.io/assets/2026-07-15/slot-02.png",
+    "https://39211.github.io/assets/2026-07-16/slot-01.png",
+    "https://39211.github.io/assets/2026-07-16/slot-02.png",
+    "https://39211.github.io/assets/2026-07-18/slot-01.png",
+    "https://39211.github.io/assets/2026-07-18/slot-02.png",
+    "https://39211.github.io/assets/2026-07-19/slot-01.png",
+    "https://39211.github.io/assets/2026-07-19/slot-02.png",
+    "https://39211.github.io/assets/2026-07-20/slot-01.png",
+    "https://39211.github.io/assets/2026-07-20/slot-02.png",
+    "https://39211.github.io/assets/2026-07-22/slot-01.png",
+    "https://39211.github.io/assets/2026-07-22/slot-02.png",
+    "https://39211.github.io/assets/2026-07-25/slot-01.png",
+    "https://39211.github.io/assets/2026-07-25/slot-02.png",
+    "https://39211.github.io/assets/2026-07-27/slot-01.png",
+    "https://39211.github.io/assets/2026-07-27/slot-02.png",
+    "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
+    "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
+    "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
   ],
   "areaServed": [
     {
@@ -319,7 +321,7 @@
 - visual_route: shop-inspection
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png
+- image: https://39211.github.io/assets/2026-07-02/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-02.json
 
 Facebook caption:
@@ -359,7 +361,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png
+- image: https://39211.github.io/assets/2026-07-02/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-02.json
 
 Facebook caption:
@@ -399,7 +401,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-01.png
+- image: https://39211.github.io/assets/2026-07-03/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-03.json
 
 Facebook caption:
@@ -439,7 +441,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-02.png
+- image: https://39211.github.io/assets/2026-07-03/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-03.json
 
 Facebook caption:
@@ -479,7 +481,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #台中洗衣店 #布品清潔 #收納前整理
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png
+- image: https://39211.github.io/assets/2026-07-04/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-04.json
 
 Facebook caption:
@@ -519,7 +521,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔 #台中洗衣店
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png
+- image: https://39211.github.io/assets/2026-07-04/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-04.json
 
 Facebook caption:
@@ -559,7 +561,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-01.png
+- image: https://39211.github.io/assets/2026-07-05/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-05.json
 
 Facebook caption:
@@ -599,7 +601,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png
+- image: https://39211.github.io/assets/2026-07-05/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-05.json
 
 Facebook caption:
@@ -639,7 +641,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-01.png
+- image: https://39211.github.io/assets/2026-07-07/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-07.json
 
 Facebook caption:
@@ -679,7 +681,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png
+- image: https://39211.github.io/assets/2026-07-07/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-07.json
 
 Facebook caption:
@@ -719,7 +721,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png
+- image: https://39211.github.io/assets/2026-07-08/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-08.json
 
 Facebook caption:
@@ -759,7 +761,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: share-worthy-care
 - hashtags: #私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png
+- image: https://39211.github.io/assets/2026-07-08/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-08.json
 
 Facebook caption:
@@ -799,7 +801,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #包包清潔 #提把清潔 #精品洗護
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png
+- image: https://39211.github.io/assets/2026-07-09/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-09.json
 
 Facebook caption:
@@ -839,7 +841,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #童鞋清潔 #鞋子除味 #台中洗鞋
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png
+- image: https://39211.github.io/assets/2026-07-09/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-09.json
 
 Facebook caption:
@@ -879,7 +881,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: trust-reset
 - hashtags: #私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png
+- image: https://39211.github.io/assets/2026-07-10/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-10.json
 
 Facebook caption:
@@ -919,7 +921,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png
+- image: https://39211.github.io/assets/2026-07-10/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-10.json
 
 Facebook caption:
@@ -959,7 +961,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png
+- image: https://39211.github.io/assets/2026-07-11/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-11.json
 
 Facebook caption:
@@ -1003,7 +1005,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png
+- image: https://39211.github.io/assets/2026-07-11/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-11.json
 
 Facebook caption:
@@ -1047,7 +1049,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #提把保養
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png
+- image: https://39211.github.io/assets/2026-07-12/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-12.json
 
 Facebook caption:
@@ -1091,7 +1093,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png
+- image: https://39211.github.io/assets/2026-07-12/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-12.json
 
 Facebook caption:
@@ -1135,7 +1137,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png
+- image: https://39211.github.io/assets/2026-07-13/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-13.json
 
 Facebook caption:
@@ -1179,7 +1181,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #換季收納 #布品清潔
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png
+- image: https://39211.github.io/assets/2026-07-13/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-13.json
 
 Facebook caption:
@@ -1223,7 +1225,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: dwell-detail
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #衣物保養 #深色衣物
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png
+- image: https://39211.github.io/assets/2026-07-14/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-14.json
 
 Facebook caption:
@@ -1267,7 +1269,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: share-worthy-care
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #旅行整理 #外套清洗
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png
+- image: https://39211.github.io/assets/2026-07-14/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-14.json
 
 Facebook caption:
@@ -1311,7 +1313,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口袖口
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png
+- image: https://39211.github.io/assets/2026-07-15/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-15.json
 
 Facebook caption:
@@ -1355,7 +1357,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: share-worthy-care
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png
+- image: https://39211.github.io/assets/2026-07-15/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-15.json
 
 Facebook caption:
@@ -1399,7 +1401,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: trust-reset
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #皮鞋保養 #雨天鞋子
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png
+- image: https://39211.github.io/assets/2026-07-16/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-16.json
 
 Facebook caption:
@@ -1443,7 +1445,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png
+- image: https://39211.github.io/assets/2026-07-16/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-16.json
 
 Facebook caption:
@@ -1487,7 +1489,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #羽絨外套 #換季收納
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png
+- image: https://39211.github.io/assets/2026-07-18/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-18.json
 
 Facebook caption:
@@ -1531,7 +1533,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: share-worthy-care
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png
+- image: https://39211.github.io/assets/2026-07-18/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-18.json
 
 Facebook caption:
@@ -1575,7 +1577,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: dwell-detail
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #抱枕清洗 #居家布品
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png
+- image: https://39211.github.io/assets/2026-07-19/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-19.json
 
 Facebook caption:
@@ -1619,7 +1621,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png
+- image: https://39211.github.io/assets/2026-07-19/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-19.json
 
 Facebook caption:
@@ -1663,7 +1665,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: trust-reset
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #白襯衫 #衣物清潔
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png
+- image: https://39211.github.io/assets/2026-07-20/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-20.json
 
 Facebook caption:
@@ -1711,7 +1713,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: object-proof
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png
+- image: https://39211.github.io/assets/2026-07-20/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-20.json
 
 Facebook caption:
@@ -1755,7 +1757,7 @@ Instagram caption:
 - visual_route: shop-inspection
 - traffic_route: share-worthy-care
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #旅行整理 #行李箱清潔
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png
+- image: https://39211.github.io/assets/2026-07-22/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-22.json
 
 Facebook caption:
@@ -1799,7 +1801,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png
+- image: https://39211.github.io/assets/2026-07-22/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-22.json
 
 Facebook caption:
@@ -1843,7 +1845,7 @@ Instagram caption:
 - visual_route: macro-detail
 - traffic_route: share-worthy-care
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口清潔
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png
+- image: https://39211.github.io/assets/2026-07-25/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-25.json
 
 Facebook caption:
@@ -1887,7 +1889,7 @@ Instagram caption:
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-- image: https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png
+- image: https://39211.github.io/assets/2026-07-25/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-25.json
 
 Facebook caption:
@@ -1921,4 +1923,92 @@ Instagram caption:
 追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。
 
 #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
+
+### 2026-07-27 11:30 工作包外面乾淨，內裡的粉痕與筆痕怎麼看？
+
+- id: https://39211.github.io/content-calendar/2026-07-27.json#post-2026-07-27-slot-01
+- published local time: 2026-07-27T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: dwell-detail
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔
+- image: https://39211.github.io/assets/2026-07-27/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-07-27.json
+
+Facebook caption:
+
+工作包外面看起來乾淨，內裡的白色粉痕和筆痕，反而最容易拖到最後才處理。
+
+私享家洗衣店
+
+先把包內物品全部取出，在自然光下看內裡材質。粉痕要先分辨是鬆散粉末，還是已被摩擦進纖維；筆痕則看範圍、顏色，以及有沒有靠近縫線或黏合處。
+
+不要直接把清潔劑倒進包內，也不要為了一小塊痕跡把整片內裡泡濕。先拍包包全貌、內裡、污點近照與材質標示，保留原本狀態再判斷。
+
+把四張照片傳 LINE，我們可以先依材質、痕跡位置與範圍看下一步。
+
+追蹤私享家，之後會持續整理包包內裡、提把與包角的送洗前判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔
+
+Instagram caption:
+
+工作包外面看起來乾淨，內裡的白色粉痕和筆痕，反而最容易拖到最後才處理。
+
+私享家洗衣店
+
+先把包內物品全部取出，在自然光下看內裡材質。粉痕要先分辨是鬆散粉末，還是已被摩擦進纖維；筆痕則看範圍、顏色，以及有沒有靠近縫線或黏合處。
+
+不要直接把清潔劑倒進包內，也不要為了一小塊痕跡把整片內裡泡濕。先拍包包全貌、內裡、污點近照與材質標示，保留原本狀態再判斷。
+
+拍好四張照片後，點個人檔案連結加 LINE，讓我們先看材質、位置與範圍。
+
+追蹤私享家，之後會持續整理包包內裡、提把與包角的送洗前判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔
+
+### 2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗
+
+- id: https://39211.github.io/content-calendar/2026-07-27.json#post-2026-07-27-slot-02
+- published local time: 2026-07-27T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: object-proof
+- traffic_route: value-prop-lead
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗
+- image: https://39211.github.io/assets/2026-07-27/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-07-27.json
+
+Facebook caption:
+
+健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。
+
+私享家洗衣店
+
+汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。
+
+不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。
+
+先傳衣物數量、洗標、汗濕位置、所在區域與可配合時段，我們再確認收送安排。
+
+追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗
+
+Instagram caption:
+
+健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。
+
+私享家洗衣店
+
+汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。
+
+不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。
+
+準備好衣物數量、洗標、汗濕位置、所在區域與可配合時段後，點個人檔案連結加 LINE，我們再確認收送安排。
+
+追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗
 

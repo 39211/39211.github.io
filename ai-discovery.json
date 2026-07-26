@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-07-25T13:29:38.499Z",
+  "generated_at": "2026-07-26T18:00:03.132Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -214,7 +214,7 @@
     "type": "website",
     "url": "https://39211.github.io/",
     "site_name": "私享家洗衣店",
-    "image": "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png",
+    "image": "https://39211.github.io/assets/services/fabric-storage-hero-product.png",
     "image_alt": "外套、寢具與布品收納前產品級檢查主圖｜私享家洗衣店",
     "locale": "zh_TW"
   },
@@ -304,47 +304,49 @@
       "https://www.instagram.com/si_xiang_jia/"
     ],
     "image": [
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
-      "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png"
+      "https://39211.github.io/assets/2026-07-02/slot-01.png",
+      "https://39211.github.io/assets/2026-07-02/slot-02.png",
+      "https://39211.github.io/assets/2026-07-03/slot-01.png",
+      "https://39211.github.io/assets/2026-07-03/slot-02.png",
+      "https://39211.github.io/assets/2026-07-04/slot-01.png",
+      "https://39211.github.io/assets/2026-07-04/slot-02.png",
+      "https://39211.github.io/assets/2026-07-05/slot-01.png",
+      "https://39211.github.io/assets/2026-07-05/slot-02.png",
+      "https://39211.github.io/assets/2026-07-07/slot-01.png",
+      "https://39211.github.io/assets/2026-07-07/slot-02.png",
+      "https://39211.github.io/assets/2026-07-08/slot-01.png",
+      "https://39211.github.io/assets/2026-07-08/slot-02.png",
+      "https://39211.github.io/assets/2026-07-09/slot-01.png",
+      "https://39211.github.io/assets/2026-07-09/slot-02.png",
+      "https://39211.github.io/assets/2026-07-10/slot-01.png",
+      "https://39211.github.io/assets/2026-07-10/slot-02.png",
+      "https://39211.github.io/assets/2026-07-11/slot-01.png",
+      "https://39211.github.io/assets/2026-07-11/slot-02.png",
+      "https://39211.github.io/assets/2026-07-12/slot-01.png",
+      "https://39211.github.io/assets/2026-07-12/slot-02.png",
+      "https://39211.github.io/assets/2026-07-13/slot-01.png",
+      "https://39211.github.io/assets/2026-07-13/slot-02.png",
+      "https://39211.github.io/assets/2026-07-14/slot-01.png",
+      "https://39211.github.io/assets/2026-07-14/slot-02.png",
+      "https://39211.github.io/assets/2026-07-15/slot-01.png",
+      "https://39211.github.io/assets/2026-07-15/slot-02.png",
+      "https://39211.github.io/assets/2026-07-16/slot-01.png",
+      "https://39211.github.io/assets/2026-07-16/slot-02.png",
+      "https://39211.github.io/assets/2026-07-18/slot-01.png",
+      "https://39211.github.io/assets/2026-07-18/slot-02.png",
+      "https://39211.github.io/assets/2026-07-19/slot-01.png",
+      "https://39211.github.io/assets/2026-07-19/slot-02.png",
+      "https://39211.github.io/assets/2026-07-20/slot-01.png",
+      "https://39211.github.io/assets/2026-07-20/slot-02.png",
+      "https://39211.github.io/assets/2026-07-22/slot-01.png",
+      "https://39211.github.io/assets/2026-07-22/slot-02.png",
+      "https://39211.github.io/assets/2026-07-25/slot-01.png",
+      "https://39211.github.io/assets/2026-07-25/slot-02.png",
+      "https://39211.github.io/assets/2026-07-27/slot-01.png",
+      "https://39211.github.io/assets/2026-07-27/slot-02.png",
+      "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
+      "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
+      "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
     ],
     "areaServed": [
       {
@@ -474,7 +476,7 @@
         "青海路洗鞋"
       ],
       "answer_summary": "逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。",
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/services/shoe-bag-care-hero-product.png",
+      "image_url": "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
       "image_alt": "鞋包清潔前的包角、鞋面與皮革檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現鞋包清潔前的包角、鞋面、皮革水痕與邊緣檢查情境；不是實際客戶物件照片。",
       "case_story": {
@@ -526,7 +528,7 @@
         "青海路洗鞋"
       ],
       "answer_summary": "台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。",
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/services/white-shoe-cleaning-hero-product.png",
+      "image_url": "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
       "image_alt": "白鞋清潔前的鞋邊、縫線與內裡檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現白鞋清潔前的鞋邊、縫線、皮革鞋面與內裡檢查情境；不是實際客戶物件照片。",
       "case_story": {
@@ -578,7 +580,7 @@
         "台中西屯布品整理"
       ],
       "answer_summary": "台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。",
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/services/fabric-storage-hero-product.png",
+      "image_url": "https://39211.github.io/assets/services/fabric-storage-hero-product.png",
       "image_alt": "外套、寢具與布品收納前檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現外套、寢具與布品收納前檢查情境；不是實際客戶物件照片。",
       "case_story": {
@@ -930,84 +932,150 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 38,
-    "latest_date": "2026-07-25",
+    "post_count": 40,
+    "latest_date": "2026-07-27",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true
   },
-  "latest_date": "2026-07-25",
+  "latest_date": "2026-07-27",
   "latest_posts": [
     {
-      "id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-01",
-      "date": "2026-07-25",
-      "date_published": "2026-07-25T11:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-07-27.json#post-2026-07-27-slot-01",
+      "date": "2026-07-27",
+      "date_published": "2026-07-27T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-07-25 11:30 冷氣房外套聞起來沒事，也要翻開領口內側看",
-      "topic": "冷氣房外套聞起來沒事，也要翻開領口內側看",
+      "title": "2026-07-27 11:30 工作包外面乾淨，內裡的粉痕與筆痕怎麼看？",
+      "topic": "工作包外面乾淨，內裡的粉痕與筆痕怎麼看？",
       "visual_route": "macro-detail",
-      "traffic_route": "share-worthy-care",
+      "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#外套清洗",
-        "#領口清潔"
+        "#包包保養",
+        "#內裡清潔"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-27/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png"
+        "https://39211.github.io/assets/2026-07-27/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-25.json",
-      "article_url": "https://39211.github.io/posts/2026-07-25-slot-01.html",
-      "facebook_caption": "冷氣房外套聞起來沒事，不代表領口內側沒有汗與皮脂；先翻開再決定要不要洗。\n\n私享家洗衣店\n\n辦公室薄外套每天接觸脖子、頭髮和通勤汗氣，最早留下痕跡的通常是領口內側、袖口與腋下內裡，不一定會先出現明顯味道。\n\n先在自然光下翻開領口，看有沒有顏色變深、油感或局部泛黃，再一起確認袖口、內裡和洗標。不要先噴香水蓋味，也不要只在同一處反覆搓揉。\n\n把外套正面、領口內側、袖口和洗標各拍一張，再傳 LINE，我們可以先依材質與痕跡位置看處理方向。\n\n追蹤私享家，之後會持續整理上班外套與日常衣物的實用判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口清潔",
-      "instagram_caption": "冷氣房外套聞起來沒事，不代表領口內側沒有汗與皮脂；先翻開再決定要不要洗。\n\n私享家洗衣店\n\n辦公室薄外套每天接觸脖子、頭髮和通勤汗氣，最早留下痕跡的通常是領口內側、袖口與腋下內裡，不一定會先出現明顯味道。\n\n先在自然光下翻開領口，看有沒有顏色變深、油感或局部泛黃，再一起確認袖口、內裡和洗標。不要先噴香水蓋味，也不要只在同一處反覆搓揉。\n\n拍好外套正面、領口內側、袖口和洗標後，點個人檔案連結加 LINE，讓我們先看材質與痕跡位置。\n\n追蹤私享家，之後會持續整理上班外套與日常衣物的實用判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口清潔"
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-27.json",
+      "article_url": "https://39211.github.io/posts/2026-07-27-slot-01.html",
+      "facebook_caption": "工作包外面看起來乾淨，內裡的白色粉痕和筆痕，反而最容易拖到最後才處理。\n\n私享家洗衣店\n\n先把包內物品全部取出，在自然光下看內裡材質。粉痕要先分辨是鬆散粉末，還是已被摩擦進纖維；筆痕則看範圍、顏色，以及有沒有靠近縫線或黏合處。\n\n不要直接把清潔劑倒進包內，也不要為了一小塊痕跡把整片內裡泡濕。先拍包包全貌、內裡、污點近照與材質標示，保留原本狀態再判斷。\n\n把四張照片傳 LINE，我們可以先依材質、痕跡位置與範圍看下一步。\n\n追蹤私享家，之後會持續整理包包內裡、提把與包角的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔",
+      "instagram_caption": "工作包外面看起來乾淨，內裡的白色粉痕和筆痕，反而最容易拖到最後才處理。\n\n私享家洗衣店\n\n先把包內物品全部取出，在自然光下看內裡材質。粉痕要先分辨是鬆散粉末，還是已被摩擦進纖維；筆痕則看範圍、顏色，以及有沒有靠近縫線或黏合處。\n\n不要直接把清潔劑倒進包內，也不要為了一小塊痕跡把整片內裡泡濕。先拍包包全貌、內裡、污點近照與材質標示，保留原本狀態再判斷。\n\n拍好四張照片後，點個人檔案連結加 LINE，讓我們先看材質、位置與範圍。\n\n追蹤私享家，之後會持續整理包包內裡、提把與包角的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔"
     },
     {
-      "id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-02",
-      "date": "2026-07-25",
-      "date_published": "2026-07-25T19:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-07-27.json#post-2026-07-27-slot-02",
+      "date": "2026-07-27",
+      "date_published": "2026-07-27T19:30:00+08:00",
       "slot": 2,
       "time": "19:30",
-      "title": "2026-07-25 19:30 下班不用再繞去洗衣店，台中免費收送從門口開始",
-      "topic": "下班不用再繞去洗衣店，台中免費收送從門口開始",
-      "visual_route": "customer-consultation",
+      "title": "2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗",
+      "topic": "健身結束先把濕衣物拿出來，再決定怎麼送洗",
+      "visual_route": "object-proof",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#台中洗衣收送",
-        "#免費到府收送"
+        "#台中免費收送",
+        "#運動衣清洗"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-27/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png"
+        "https://39211.github.io/assets/2026-07-27/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-25.json",
-      "article_url": "https://39211.github.io/posts/2026-07-25-slot-02.html",
-      "facebook_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
-      "instagram_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送"
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-27.json",
+      "article_url": "https://39211.github.io/posts/2026-07-27-slot-02.html",
+      "facebook_caption": "健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。\n\n私享家洗衣店\n\n汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。\n\n不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。\n\n先傳衣物數量、洗標、汗濕位置、所在區域與可配合時段，我們再確認收送安排。\n\n追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗",
+      "instagram_caption": "健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。\n\n私享家洗衣店\n\n汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。\n\n不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。\n\n準備好衣物數量、洗標、汗濕位置、所在區域與可配合時段後，點個人檔案連結加 LINE，我們再確認收送安排。\n\n追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗"
     }
   ],
   "recent_posts": [
     {
+      "id": "https://39211.github.io/content-calendar/2026-07-27.json#post-2026-07-27-slot-02",
+      "date": "2026-07-27",
+      "date_published": "2026-07-27T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗",
+      "topic": "健身結束先把濕衣物拿出來，再決定怎麼送洗",
+      "visual_route": "object-proof",
+      "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#運動衣清洗"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-07-27/slot-02.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-07-27/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-27.json",
+      "article_url": "https://39211.github.io/posts/2026-07-27-slot-02.html",
+      "facebook_caption": "健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。\n\n私享家洗衣店\n\n汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。\n\n不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。\n\n先傳衣物數量、洗標、汗濕位置、所在區域與可配合時段，我們再確認收送安排。\n\n追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗",
+      "instagram_caption": "健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。\n\n私享家洗衣店\n\n汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。\n\n不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。\n\n準備好衣物數量、洗標、汗濕位置、所在區域與可配合時段後，點個人檔案連結加 LINE，我們再確認收送安排。\n\n追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-27.json#post-2026-07-27-slot-01",
+      "date": "2026-07-27",
+      "date_published": "2026-07-27T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-07-27 11:30 工作包外面乾淨，內裡的粉痕與筆痕怎麼看？",
+      "topic": "工作包外面乾淨，內裡的粉痕與筆痕怎麼看？",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#包包保養",
+        "#內裡清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-07-27/slot-01.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-07-27/slot-01.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-27.json",
+      "article_url": "https://39211.github.io/posts/2026-07-27-slot-01.html",
+      "facebook_caption": "工作包外面看起來乾淨，內裡的白色粉痕和筆痕，反而最容易拖到最後才處理。\n\n私享家洗衣店\n\n先把包內物品全部取出，在自然光下看內裡材質。粉痕要先分辨是鬆散粉末，還是已被摩擦進纖維；筆痕則看範圍、顏色，以及有沒有靠近縫線或黏合處。\n\n不要直接把清潔劑倒進包內，也不要為了一小塊痕跡把整片內裡泡濕。先拍包包全貌、內裡、污點近照與材質標示，保留原本狀態再判斷。\n\n把四張照片傳 LINE，我們可以先依材質、痕跡位置與範圍看下一步。\n\n追蹤私享家，之後會持續整理包包內裡、提把與包角的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔",
+      "instagram_caption": "工作包外面看起來乾淨，內裡的白色粉痕和筆痕，反而最容易拖到最後才處理。\n\n私享家洗衣店\n\n先把包內物品全部取出，在自然光下看內裡材質。粉痕要先分辨是鬆散粉末，還是已被摩擦進纖維；筆痕則看範圍、顏色，以及有沒有靠近縫線或黏合處。\n\n不要直接把清潔劑倒進包內，也不要為了一小塊痕跡把整片內裡泡濕。先拍包包全貌、內裡、污點近照與材質標示，保留原本狀態再判斷。\n\n拍好四張照片後，點個人檔案連結加 LINE，讓我們先看材質、位置與範圍。\n\n追蹤私享家，之後會持續整理包包內裡、提把與包角的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔"
+    },
+    {
       "id": "https://39211.github.io/content-calendar/2026-07-25.json#post-2026-07-25-slot-02",
       "date": "2026-07-25",
       "date_published": "2026-07-25T19:30:00+08:00",
@@ -1028,9 +1096,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-25/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png"
+        "https://39211.github.io/assets/2026-07-25/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1061,9 +1129,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-25/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png"
+        "https://39211.github.io/assets/2026-07-25/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1094,9 +1162,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-22/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png"
+        "https://39211.github.io/assets/2026-07-22/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1127,9 +1195,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-22/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png"
+        "https://39211.github.io/assets/2026-07-22/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1160,9 +1228,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-20/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png"
+        "https://39211.github.io/assets/2026-07-20/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1193,37 +1261,37 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-20/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-02.png",
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-03.png",
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-04.png"
+        "https://39211.github.io/assets/2026-07-20/slot-01.png",
+        "https://39211.github.io/assets/2026-07-20/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-07-20/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-07-20/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
           "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 1 of 4. Show the full white shirt with collar and underarm areas visible. Add exactly this headline and no other words: 「白襯衫泛黃｜送洗前先看」.",
           "local_image_path": "docs/assets/2026-07-20/slot-01.png",
-          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png"
+          "public_image_url": "https://39211.github.io/assets/2026-07-20/slot-01.png"
         },
         {
           "slide": 2,
           "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 2 of 4. Show close inspection details of the collar edge and underarm yellowing, with a staff hand pointing gently. Add exactly this headline and no other words: 「領口・腋下｜看範圍與深淺」.",
           "local_image_path": "docs/assets/2026-07-20/slot-01-slide-02.png",
-          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-02.png"
+          "public_image_url": "https://39211.github.io/assets/2026-07-20/slot-01-slide-02.png"
         },
         {
           "slide": 3,
           "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 3 of 4. Show a stiff brush placed aside while the shirt stays flat beside a clean dry towel, clearly communicating caution without symbols. Add exactly this headline and no other words: 「先別硬刷｜也別帶濕氣悶收」.",
           "local_image_path": "docs/assets/2026-07-20/slot-01-slide-03.png",
-          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-03.png"
+          "public_image_url": "https://39211.github.io/assets/2026-07-20/slot-01-slide-03.png"
         },
         {
           "slide": 4,
           "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 4 of 4. Show a phone photographing the full shirt, one yellowed close-up, and the care label as a tidy three-view checklist. Add exactly this headline and no other words: 「傳 LINE 前｜拍全貌・局部・洗標」.",
           "local_image_path": "docs/assets/2026-07-20/slot-01-slide-04.png",
-          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-04.png"
+          "public_image_url": "https://39211.github.io/assets/2026-07-20/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
@@ -1254,9 +1322,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-19/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png"
+        "https://39211.github.io/assets/2026-07-19/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1287,9 +1355,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-19/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png"
+        "https://39211.github.io/assets/2026-07-19/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1320,9 +1388,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-18/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png"
+        "https://39211.github.io/assets/2026-07-18/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1353,9 +1421,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-18/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png"
+        "https://39211.github.io/assets/2026-07-18/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1386,9 +1454,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-16/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png"
+        "https://39211.github.io/assets/2026-07-16/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1419,9 +1487,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-16/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png"
+        "https://39211.github.io/assets/2026-07-16/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1452,9 +1520,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-15/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png"
+        "https://39211.github.io/assets/2026-07-15/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1485,9 +1553,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-15/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png"
+        "https://39211.github.io/assets/2026-07-15/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1518,9 +1586,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-14/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png"
+        "https://39211.github.io/assets/2026-07-14/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1551,9 +1619,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-14/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png"
+        "https://39211.github.io/assets/2026-07-14/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1584,9 +1652,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-13/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png"
+        "https://39211.github.io/assets/2026-07-13/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1617,9 +1685,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-13/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png"
+        "https://39211.github.io/assets/2026-07-13/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1650,9 +1718,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-12/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png"
+        "https://39211.github.io/assets/2026-07-12/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1683,9 +1751,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-12/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png"
+        "https://39211.github.io/assets/2026-07-12/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1716,9 +1784,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-11/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png"
+        "https://39211.github.io/assets/2026-07-11/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1749,9 +1817,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-11/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png"
+        "https://39211.github.io/assets/2026-07-11/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1782,9 +1850,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-10/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png"
+        "https://39211.github.io/assets/2026-07-10/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1815,9 +1883,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-10/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png"
+        "https://39211.github.io/assets/2026-07-10/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1848,9 +1916,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-09/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png"
+        "https://39211.github.io/assets/2026-07-09/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1881,9 +1949,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-09/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png"
+        "https://39211.github.io/assets/2026-07-09/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1914,9 +1982,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-08/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png"
+        "https://39211.github.io/assets/2026-07-08/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1947,9 +2015,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-08/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png"
+        "https://39211.github.io/assets/2026-07-08/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -1958,70 +2026,6 @@
       "article_url": "https://39211.github.io/posts/2026-07-08-slot-01.html",
       "facebook_caption": "棉被要收進櫃子前，不能只看表面乾不乾，還要看有沒有睡眠味和悶住的濕氣。\n\n私享家洗衣店\n\n台中潮濕的日子多，棉被如果帶著身體味和濕氣直接收納，下一季拿出來容易有悶味，布面也比較不清爽。\n\n我們會看棉被厚度、表布材質、縫線位置和填充狀態，再判斷能不能水洗、需不需要分區處理，以及收納前要不要加強乾燥。\n\n要整理棉被前，可以先拍整件、洗標和有味道的位置給我們看。\n\n#私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店",
       "instagram_caption": "棉被要收進櫃子前，不能只看表面乾不乾，還要看有沒有睡眠味和悶住的濕氣。\n\n私享家洗衣店\n\n台中潮濕的日子多，棉被如果帶著身體味和濕氣直接收納，下一季拿出來容易有悶味，布面也比較不清爽。\n\n我們會看棉被厚度、表布材質、縫線位置和填充狀態，再判斷能不能水洗、需不需要分區處理，以及收納前要不要加強乾燥。\n\n要整理棉被前，可以先拍整件、洗標和有味道的位置給我們看。\n\n#私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店"
-    },
-    {
-      "id": "https://39211.github.io/content-calendar/2026-07-07.json#post-2026-07-07-slot-02",
-      "date": "2026-07-07",
-      "date_published": "2026-07-07T19:30:00+08:00",
-      "slot": 2,
-      "time": "19:30",
-      "title": "2026-07-07 19:30 雨季通勤後的包角與鞋底檢查",
-      "topic": "雨季通勤後的包角與鞋底檢查",
-      "visual_route": "customer-consultation",
-      "traffic_route": "value-prop-lead",
-      "content_role": "evidence-conversion",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#雨季保養",
-        "#鞋包清潔"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png",
-      "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-07.json",
-      "article_url": "",
-      "facebook_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔",
-      "instagram_caption": "雨季通勤後，包包四角和鞋底邊緣常常比外觀看起來更早累積水痕、泥灰和摩擦痕。\n\n私享家洗衣店\n\n如果回家後直接收進鞋櫃或衣櫃，濕氣會悶在鞋內、包角或提把裡，下一次拿出來才發現味道變重，邊角也比較暗。\n\n我們會先看包包材質是皮革、尼龍還是帆布，再判斷包角是否只是表面灰、是否有水痕滲入；鞋子則會看鞋底邊緣、內裡濕氣和鞋墊狀態，避免用錯方式讓材質變硬或褪色。\n\n你可以先拍包角、提把、鞋底邊緣和鞋內照片傳來，我們幫你看狀態，再決定值不值得整理。\n\n#私享家洗衣店 #雨季保養 #鞋包清潔"
-    },
-    {
-      "id": "https://39211.github.io/content-calendar/2026-07-07.json#post-2026-07-07-slot-01",
-      "date": "2026-07-07",
-      "date_published": "2026-07-07T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-07-07 11:30 白鞋鞋邊與內裡的濕悶痕跡",
-      "topic": "白鞋鞋邊與內裡的濕悶痕跡",
-      "visual_route": "shop-inspection",
-      "traffic_route": "object-proof",
-      "content_role": "reach-answer",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#白鞋清潔",
-        "#鞋子保養"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-01.png",
-      "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-01.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-07.json",
-      "article_url": "",
-      "facebook_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養",
-      "instagram_caption": "白鞋鞋邊如果開始泛灰，內裡又有一點濕悶味，先不要急著用漂白水或硬刷把表面刷白。\n\n私享家洗衣店\n\n這類鞋子常見的問題不是單一髒污，而是鞋面材質、膠邊、縫線和鞋墊吸附狀態不一樣。處理前如果沒有分開看，容易讓鞋邊變毛、膠痕更明顯，或把內裡味道留住。\n\n我們會先看鞋面是皮革、布面還是合成材質，再檢查鞋邊磨耗、內裡濕氣、鞋墊能不能拆，以及髒污是表面灰塵還是已經滲進纖維。\n\n不確定能不能整理，先拍鞋面、鞋邊和內裡給我們看，我們再幫你判斷適合怎麼處理。\n\n#私享家洗衣店 #白鞋清潔 #鞋子保養"
     }
   ],
   "published_posts": [
@@ -2045,9 +2049,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-02/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-01.png"
+        "https://39211.github.io/assets/2026-07-02/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2077,9 +2081,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-02/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-02/slot-02.png"
+        "https://39211.github.io/assets/2026-07-02/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2109,9 +2113,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-03/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-01.png"
+        "https://39211.github.io/assets/2026-07-03/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2141,9 +2145,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-03/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-03/slot-02.png"
+        "https://39211.github.io/assets/2026-07-03/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2174,9 +2178,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-04/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-01.png"
+        "https://39211.github.io/assets/2026-07-04/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2207,9 +2211,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-04/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-04/slot-02.png"
+        "https://39211.github.io/assets/2026-07-04/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2239,9 +2243,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-05/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-01.png"
+        "https://39211.github.io/assets/2026-07-05/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2271,9 +2275,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-05/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-05/slot-02.png"
+        "https://39211.github.io/assets/2026-07-05/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2303,9 +2307,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-07/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-01.png"
+        "https://39211.github.io/assets/2026-07-07/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2335,9 +2339,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-07/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-07/slot-02.png"
+        "https://39211.github.io/assets/2026-07-07/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2368,9 +2372,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-08/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-01.png"
+        "https://39211.github.io/assets/2026-07-08/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2401,9 +2405,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-08/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-08/slot-02.png"
+        "https://39211.github.io/assets/2026-07-08/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2434,9 +2438,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-09/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-01.png"
+        "https://39211.github.io/assets/2026-07-09/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2467,9 +2471,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-09/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-09/slot-02.png"
+        "https://39211.github.io/assets/2026-07-09/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2500,9 +2504,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-10/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-01.png"
+        "https://39211.github.io/assets/2026-07-10/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2533,9 +2537,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-10/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-10/slot-02.png"
+        "https://39211.github.io/assets/2026-07-10/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2566,9 +2570,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-11/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-01.png"
+        "https://39211.github.io/assets/2026-07-11/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2599,9 +2603,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-11/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-11/slot-02.png"
+        "https://39211.github.io/assets/2026-07-11/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2632,9 +2636,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-12/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-01.png"
+        "https://39211.github.io/assets/2026-07-12/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2665,9 +2669,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-12/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-12/slot-02.png"
+        "https://39211.github.io/assets/2026-07-12/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2698,9 +2702,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-13/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-01.png"
+        "https://39211.github.io/assets/2026-07-13/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2731,9 +2735,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-13/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-13/slot-02.png"
+        "https://39211.github.io/assets/2026-07-13/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2764,9 +2768,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-14/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-01.png"
+        "https://39211.github.io/assets/2026-07-14/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2797,9 +2801,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-14/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-14/slot-02.png"
+        "https://39211.github.io/assets/2026-07-14/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2830,9 +2834,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-15/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-01.png"
+        "https://39211.github.io/assets/2026-07-15/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2863,9 +2867,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-15/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-15/slot-02.png"
+        "https://39211.github.io/assets/2026-07-15/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2896,9 +2900,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-16/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-01.png"
+        "https://39211.github.io/assets/2026-07-16/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2929,9 +2933,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-16/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-16/slot-02.png"
+        "https://39211.github.io/assets/2026-07-16/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2962,9 +2966,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-18/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-01.png"
+        "https://39211.github.io/assets/2026-07-18/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -2995,9 +2999,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-18/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-18/slot-02.png"
+        "https://39211.github.io/assets/2026-07-18/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -3028,9 +3032,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-19/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-01.png"
+        "https://39211.github.io/assets/2026-07-19/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -3061,9 +3065,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-19/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-19/slot-02.png"
+        "https://39211.github.io/assets/2026-07-19/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -3094,37 +3098,37 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-20/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png",
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-02.png",
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-03.png",
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-04.png"
+        "https://39211.github.io/assets/2026-07-20/slot-01.png",
+        "https://39211.github.io/assets/2026-07-20/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-07-20/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-07-20/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
           "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 1 of 4. Show the full white shirt with collar and underarm areas visible. Add exactly this headline and no other words: 「白襯衫泛黃｜送洗前先看」.",
           "local_image_path": "docs/assets/2026-07-20/slot-01.png",
-          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01.png"
+          "public_image_url": "https://39211.github.io/assets/2026-07-20/slot-01.png"
         },
         {
           "slide": 2,
           "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 2 of 4. Show close inspection details of the collar edge and underarm yellowing, with a staff hand pointing gently. Add exactly this headline and no other words: 「領口・腋下｜看範圍與深淺」.",
           "local_image_path": "docs/assets/2026-07-20/slot-01-slide-02.png",
-          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-02.png"
+          "public_image_url": "https://39211.github.io/assets/2026-07-20/slot-01-slide-02.png"
         },
         {
           "slide": 3,
           "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 3 of 4. Show a stiff brush placed aside while the shirt stays flat beside a clean dry towel, clearly communicating caution without symbols. Add exactly this headline and no other words: 「先別硬刷｜也別帶濕氣悶收」.",
           "local_image_path": "docs/assets/2026-07-20/slot-01-slide-03.png",
-          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-03.png"
+          "public_image_url": "https://39211.github.io/assets/2026-07-20/slot-01-slide-03.png"
         },
         {
           "slide": 4,
           "image_prompt": "Create one polished square 1:1 social carousel page for a premium Taiwanese laundry-care shop. Use a photorealistic white dress shirt on a clean inspection counter, restrained navy and warm-white palette, large safe margins, crisp Traditional Chinese typography, no logo, no address, no phone number, no watermark, and no extra text. Page 4 of 4. Show a phone photographing the full shirt, one yellowed close-up, and the care label as a tidy three-view checklist. Add exactly this headline and no other words: 「傳 LINE 前｜拍全貌・局部・洗標」.",
           "local_image_path": "docs/assets/2026-07-20/slot-01-slide-04.png",
-          "public_image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-01-slide-04.png"
+          "public_image_url": "https://39211.github.io/assets/2026-07-20/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
@@ -3155,9 +3159,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-20/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-20/slot-02.png"
+        "https://39211.github.io/assets/2026-07-20/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -3188,9 +3192,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-22/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-01.png"
+        "https://39211.github.io/assets/2026-07-22/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -3221,9 +3225,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-22/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-22/slot-02.png"
+        "https://39211.github.io/assets/2026-07-22/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -3254,9 +3258,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-07-25/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-01.png"
+        "https://39211.github.io/assets/2026-07-25/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -3287,9 +3291,9 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-07-25/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/laundry-social-auto-poster/assets/2026-07-25/slot-02.png"
+        "https://39211.github.io/assets/2026-07-25/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
@@ -3298,6 +3302,72 @@
       "article_url": "https://39211.github.io/posts/2026-07-25-slot-02.html",
       "facebook_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n現在就把待洗物拍一張，LINE 傳收件地址、品項照片和方便聯絡的時間，我們再和你確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送",
       "instagram_caption": "下班不用再繞去洗衣店，台中免費收送從門口開始；台中市全區免費到府收送，待洗衣物可以從家門口完成交接。\n\n私享家洗衣店\n\n通勤回家後再搬一大袋衣物出門，真正花時間的是繞路、停車與搬上搬下。把待洗物先分袋拍照，收送人員抵達後在門口完成交接，就能少跑一趟。\n\n私享家提供台中市全區免費到府收送。衣物可先裝入大型藍色收納袋，用 LINE 傳品項照片、收件地址與方便聯絡的時間，再由我們確認安排。\n\n把待洗物裝袋拍一張，點個人檔案連結加 LINE，傳地址、品項與方便時間，我們再確認收送。\n\n追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗方式。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-27.json#post-2026-07-27-slot-01",
+      "date": "2026-07-27",
+      "date_published": "2026-07-27T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-07-27 11:30 工作包外面乾淨，內裡的粉痕與筆痕怎麼看？",
+      "topic": "工作包外面乾淨，內裡的粉痕與筆痕怎麼看？",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#包包保養",
+        "#內裡清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-07-27/slot-01.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-07-27/slot-01.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-27.json",
+      "article_url": "https://39211.github.io/posts/2026-07-27-slot-01.html",
+      "facebook_caption": "工作包外面看起來乾淨，內裡的白色粉痕和筆痕，反而最容易拖到最後才處理。\n\n私享家洗衣店\n\n先把包內物品全部取出，在自然光下看內裡材質。粉痕要先分辨是鬆散粉末，還是已被摩擦進纖維；筆痕則看範圍、顏色，以及有沒有靠近縫線或黏合處。\n\n不要直接把清潔劑倒進包內，也不要為了一小塊痕跡把整片內裡泡濕。先拍包包全貌、內裡、污點近照與材質標示，保留原本狀態再判斷。\n\n把四張照片傳 LINE，我們可以先依材質、痕跡位置與範圍看下一步。\n\n追蹤私享家，之後會持續整理包包內裡、提把與包角的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔",
+      "instagram_caption": "工作包外面看起來乾淨，內裡的白色粉痕和筆痕，反而最容易拖到最後才處理。\n\n私享家洗衣店\n\n先把包內物品全部取出，在自然光下看內裡材質。粉痕要先分辨是鬆散粉末，還是已被摩擦進纖維；筆痕則看範圍、顏色，以及有沒有靠近縫線或黏合處。\n\n不要直接把清潔劑倒進包內，也不要為了一小塊痕跡把整片內裡泡濕。先拍包包全貌、內裡、污點近照與材質標示，保留原本狀態再判斷。\n\n拍好四張照片後，點個人檔案連結加 LINE，讓我們先看材質、位置與範圍。\n\n追蹤私享家，之後會持續整理包包內裡、提把與包角的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-07-27.json#post-2026-07-27-slot-02",
+      "date": "2026-07-27",
+      "date_published": "2026-07-27T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗",
+      "topic": "健身結束先把濕衣物拿出來，再決定怎麼送洗",
+      "visual_route": "object-proof",
+      "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#運動衣清洗"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-07-27/slot-02.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-07-27/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-07-27.json",
+      "article_url": "https://39211.github.io/posts/2026-07-27-slot-02.html",
+      "facebook_caption": "健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。\n\n私享家洗衣店\n\n汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。\n\n不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。\n\n先傳衣物數量、洗標、汗濕位置、所在區域與可配合時段，我們再確認收送安排。\n\n追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗",
+      "instagram_caption": "健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。\n\n私享家洗衣店\n\n汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。\n\n不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。\n\n準備好衣物數量、洗標、汗濕位置、所在區域與可配合時段後，點個人檔案連結加 LINE，我們再確認收送安排。\n\n追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗"
     }
   ]
 }
