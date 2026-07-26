@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-26T18:00:03.132Z
+- Generated at: 2026-07-26T18:11:37.098Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -1974,7 +1974,7 @@ Instagram caption:
 - published local time: 2026-07-27T19:30:00+08:00
 - category: 情境文
 - platforms: facebook, instagram
-- visual_route: object-proof
+- visual_route: shop-inspection
 - traffic_route: value-prop-lead
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗
 - image: https://39211.github.io/assets/2026-07-27/slot-02.png

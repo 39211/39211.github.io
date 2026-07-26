@@ -89,7 +89,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 ## Published Posts
 - [2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗](https://39211.github.io/posts/2026-07-27-slot-02.html)
   platform targets: facebook, instagram
-  routes: content_role=evidence-conversion; visual_route=object-proof; traffic_route=value-prop-lead
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=value-prop-lead
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗
   image: https://39211.github.io/assets/2026-07-27/slot-02.png
   calendar: https://39211.github.io/content-calendar/2026-07-27.json

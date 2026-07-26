@@ -1074,7 +1074,7 @@
       "_sixiangjia": {
         "slot": 2,
         "category": "情境文",
-        "visual_route": "object-proof",
+        "visual_route": "shop-inspection",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
         "platforms": [

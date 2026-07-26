@@ -1,7 +1,7 @@
 {
   "date": "2026-07-27",
   "timezone": "Asia/Taipei",
-  "generated_at": "2026-07-26T17:54:47.920Z",
+  "generated_at": "2026-07-26T18:11:28.420Z",
   "slots": [
     {
       "slot": 1,
@@ -36,7 +36,7 @@
       "instagram_caption": "健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。\n\n私享家洗衣店\n\n汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。\n\n不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。\n\n準備好衣物數量、洗標、汗濕位置、所在區域與可配合時段後，點個人檔案連結加 LINE，我們再確認收送安排。\n\n追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗",
       "facebook_caption": "健身結束最先要做的，不是把拉鍊拉起來；是把濕衣物從包裡拿出來。\n\n私享家洗衣店\n\n汗濕運動衣、毛巾和乾淨物品一起悶在密閉包袋裡，濕氣與味道會停留在衣物內層、縫線和包內。回家後先分開取出，攤開通風，再確認洗標與汗濕範圍。\n\n不要先噴香氛蓋味，也不要把濕毛巾繼續壓在衣物上。要安排送洗時，私享家提供台中市全區免費收送，主要透過 LINE 預約。\n\n先傳衣物數量、洗標、汗濕位置、所在區域與可配合時段，我們再確認收送安排。\n\n追蹤私享家，之後會持續整理運動衣物與台中免費收送的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗",
       "image_prompt": "Realistic square shop photo for 私享家洗衣店: 健身結束先把濕衣物拿出來，再決定怎麼送洗. 寫實方形居家玄關整理照片；淺色長椅左側只有一個無品牌深灰色健身包，拉鍊完全打開，包體結構和兩條提把連接點完整合理；右側一件灰色短袖運動上衣已從包內取出並平整攤開，深色運動毛巾分開放置，旁邊只有一個無標籤透明水瓶。無人物、無手、無鞋、無雨、無清潔劑、無文字、無標誌、無浮水印；自然晚間室內光，真實布料濕氣與重量，不做髒污誇張或前後對比。 Premium Taiwanese laundry and shoe-care shop mood, clean counter, clear object detail, restrained Apple-like spacing when poster-like, no fake logo, no readable text, no watermark.",
-      "visual_route": "object-proof",
+      "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
       "views_target": 55,

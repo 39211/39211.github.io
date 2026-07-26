@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-07-26T18:00:03.132Z",
+  "generated_at": "2026-07-26T18:11:37.098Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -982,7 +982,7 @@
       "time": "19:30",
       "title": "2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗",
       "topic": "健身結束先把濕衣物拿出來，再決定怎麼送洗",
-      "visual_route": "object-proof",
+      "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
       "hashtags": [
@@ -1017,7 +1017,7 @@
       "time": "19:30",
       "title": "2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗",
       "topic": "健身結束先把濕衣物拿出來，再決定怎麼送洗",
-      "visual_route": "object-proof",
+      "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
       "hashtags": [
@@ -3344,7 +3344,7 @@
       "time": "19:30",
       "title": "2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗",
       "topic": "健身結束先把濕衣物拿出來，再決定怎麼送洗",
-      "visual_route": "object-proof",
+      "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
       "hashtags": [
