@@ -31,6 +31,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "object-proof",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -57,6 +60,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -83,6 +89,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "object-proof",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -109,6 +118,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -136,6 +148,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "object-proof",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -163,6 +178,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -189,6 +207,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "object-proof",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -215,6 +236,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -241,6 +265,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "object-proof",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -267,6 +294,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -294,6 +324,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "value-prop-lead",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -321,6 +354,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "share-worthy-care",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -348,6 +384,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "object-proof",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -375,6 +414,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "object-proof",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -402,6 +444,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "trust-reset",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -429,6 +474,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -456,6 +504,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "object-proof",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -483,6 +534,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -510,6 +564,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "object-proof",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -537,6 +594,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "object-proof",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -564,6 +624,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "value-prop-lead",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -591,6 +654,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -618,6 +684,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "dwell-detail",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -645,6 +714,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "share-worthy-care",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -672,6 +744,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "object-proof",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -699,6 +774,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "share-worthy-care",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -726,6 +804,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "trust-reset",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -753,6 +834,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -780,6 +864,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "value-prop-lead",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -807,6 +894,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "share-worthy-care",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -834,6 +924,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "dwell-detail",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -861,6 +954,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -888,6 +984,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "trust-reset",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -915,6 +1014,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "object-proof",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -942,6 +1044,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "share-worthy-care",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -969,6 +1074,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -996,6 +1104,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "share-worthy-care",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -1023,6 +1134,9 @@
         "visual_route": "customer-consultation",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -1050,6 +1164,9 @@
         "visual_route": "macro-detail",
         "traffic_route": "dwell-detail",
         "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"
@@ -1077,6 +1194,9 @@
         "visual_route": "shop-inspection",
         "traffic_route": "value-prop-lead",
         "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
         "platforms": [
           "facebook",
           "instagram"

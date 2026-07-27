@@ -15,6 +15,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/
@@ -29,6 +30,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/
@@ -43,6 +45,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/
@@ -57,6 +60,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/
@@ -71,6 +75,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/
@@ -85,6 +90,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/
@@ -99,6 +105,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/
@@ -113,6 +120,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/
@@ -127,6 +135,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/
@@ -141,6 +150,7 @@ Allow: /llms.jsonl
 Allow: /services.json
 Allow: /answers.json
 Allow: /geo-targets.json
+Allow: /search-visibility.json
 Allow: /feed.json
 Allow: /knowledge-graph.json
 Allow: /guides/

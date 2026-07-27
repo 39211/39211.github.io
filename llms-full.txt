@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-27T02:26:15.808Z
+- Generated at: 2026-07-27T19:36:34.578Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -24,11 +24,13 @@
 - services: https://39211.github.io/services.json
 - answers: https://39211.github.io/answers.json
 - geo_targets: https://39211.github.io/geo-targets.json
+- search_visibility: https://39211.github.io/search-visibility.json
 - llms_jsonl: https://39211.github.io/llms.jsonl
 - service_pages.shoe-bag-care: https://39211.github.io/services/shoe-bag-care.html
 - service_pages.white-shoe-cleaning: https://39211.github.io/services/white-shoe-cleaning.html
 - service_pages.fabric-storage: https://39211.github.io/services/fabric-storage.html
 - service_pages.taichung-xitun-laundry: https://39211.github.io/services/taichung-xitun-laundry.html
+- service_pages.business-bulk-laundry: https://39211.github.io/services/business-bulk-laundry.html
 - service_pages.taichung-citywide-laundry-pickup: https://39211.github.io/services/taichung-citywide-laundry-pickup.html
 - support_pages.photo-before-laundry: https://39211.github.io/guides/photo-before-laundry.html
 - support_pages.white-shoe-yellowing: https://39211.github.io/guides/white-shoe-yellowing.html
@@ -39,6 +41,7 @@
 - support_pages.bedding-duvet-cleaning: https://39211.github.io/guides/bedding-duvet-cleaning.html
 - support_pages.plush-doll-cleaning: https://39211.github.io/guides/plush-doll-cleaning.html
 - support_pages.luxury-dry-cleaning: https://39211.github.io/guides/luxury-dry-cleaning.html
+- support_pages.taichung-laundry-service-search: https://39211.github.io/guides/taichung-laundry-service-search.html
 - support_pages.qinghai-road-shoe-cleaning: https://39211.github.io/local/qinghai-road-shoe-cleaning.html
 - feed: https://39211.github.io/feed.json
 - knowledge_graph: https://39211.github.io/knowledge-graph.json
@@ -272,6 +275,20 @@
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
+          "name": "店家與公司大量衣物送洗",
+          "serviceType": "店家與公司大量衣物送洗",
+          "description": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。",
+          "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "台中市"
+          },
+          "url": "https://39211.github.io/services/business-bulk-laundry.html"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
           "name": "台中全市免費洗衣收送",
           "serviceType": "台中全市免費洗衣收送",
           "description": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。",
@@ -293,7 +310,7 @@
 - Posts are generated as operational social content for Facebook and Instagram.
 - Captions are Traditional Chinese unless explicitly marked otherwise.
 - Image URLs point to static publishable PNG assets.
-- Performance labels are preserved as visual_route, traffic_route, and hashtags.
+- Performance labels are preserved as visual_route, traffic_route, search_intent, target_queries, evidence_type, and hashtags.
 - Business phone, hours, map, Facebook, and Instagram are emitted from the centralized business profile.
 - Business profile data is loaded from data/business-profile.json.
 - Google Maps CID is not the same thing as Google Place ID; Google Place ID remains null until verified.
@@ -320,6 +337,9 @@
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
 - image: https://39211.github.io/assets/2026-07-02/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-02.json
@@ -360,6 +380,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
 - image: https://39211.github.io/assets/2026-07-02/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-02.json
@@ -400,6 +423,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
 - image: https://39211.github.io/assets/2026-07-03/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-03.json
@@ -440,6 +466,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
 - image: https://39211.github.io/assets/2026-07-03/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-03.json
@@ -480,6 +509,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中洗衣店 #布品清潔 #收納前整理
 - image: https://39211.github.io/assets/2026-07-04/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-04.json
@@ -520,6 +552,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔 #台中洗衣店
 - image: https://39211.github.io/assets/2026-07-04/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-04.json
@@ -560,6 +595,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
 - image: https://39211.github.io/assets/2026-07-05/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-05.json
@@ -600,6 +638,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
 - image: https://39211.github.io/assets/2026-07-05/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-05.json
@@ -640,6 +681,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
 - image: https://39211.github.io/assets/2026-07-07/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-07.json
@@ -680,6 +724,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
 - image: https://39211.github.io/assets/2026-07-07/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-07.json
@@ -720,6 +767,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店
 - image: https://39211.github.io/assets/2026-07-08/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-08.json
@@ -760,6 +810,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
 - image: https://39211.github.io/assets/2026-07-08/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-08.json
@@ -800,6 +853,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #包包清潔 #提把清潔 #精品洗護
 - image: https://39211.github.io/assets/2026-07-09/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-09.json
@@ -840,6 +896,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #童鞋清潔 #鞋子除味 #台中洗鞋
 - image: https://39211.github.io/assets/2026-07-09/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-09.json
@@ -880,6 +939,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: trust-reset
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養
 - image: https://39211.github.io/assets/2026-07-10/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-10.json
@@ -920,6 +982,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店
 - image: https://39211.github.io/assets/2026-07-10/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-10.json
@@ -960,6 +1025,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養
 - image: https://39211.github.io/assets/2026-07-11/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-11.json
@@ -1004,6 +1072,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常
 - image: https://39211.github.io/assets/2026-07-11/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-11.json
@@ -1048,6 +1119,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #提把保養
 - image: https://39211.github.io/assets/2026-07-12/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-12.json
@@ -1092,6 +1166,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常
 - image: https://39211.github.io/assets/2026-07-12/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-12.json
@@ -1136,6 +1213,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納
 - image: https://39211.github.io/assets/2026-07-13/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-13.json
@@ -1180,6 +1260,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #換季收納 #布品清潔
 - image: https://39211.github.io/assets/2026-07-13/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-13.json
@@ -1224,6 +1307,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: dwell-detail
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #衣物保養 #深色衣物
 - image: https://39211.github.io/assets/2026-07-14/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-14.json
@@ -1268,6 +1354,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #旅行整理 #外套清洗
 - image: https://39211.github.io/assets/2026-07-14/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-14.json
@@ -1312,6 +1401,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口袖口
 - image: https://39211.github.io/assets/2026-07-15/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-15.json
@@ -1356,6 +1448,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗
 - image: https://39211.github.io/assets/2026-07-15/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-15.json
@@ -1400,6 +1495,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: trust-reset
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #皮鞋保養 #雨天鞋子
 - image: https://39211.github.io/assets/2026-07-16/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-16.json
@@ -1444,6 +1542,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
 - image: https://39211.github.io/assets/2026-07-16/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-16.json
@@ -1488,6 +1589,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #羽絨外套 #換季收納
 - image: https://39211.github.io/assets/2026-07-18/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-18.json
@@ -1532,6 +1636,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
 - image: https://39211.github.io/assets/2026-07-18/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-18.json
@@ -1576,6 +1683,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: dwell-detail
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #抱枕清洗 #居家布品
 - image: https://39211.github.io/assets/2026-07-19/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-19.json
@@ -1620,6 +1730,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
 - image: https://39211.github.io/assets/2026-07-19/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-19.json
@@ -1664,6 +1777,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: trust-reset
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #白襯衫 #衣物清潔
 - image: https://39211.github.io/assets/2026-07-20/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-20.json
@@ -1712,6 +1828,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
 - image: https://39211.github.io/assets/2026-07-20/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-20.json
@@ -1756,6 +1875,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #旅行整理 #行李箱清潔
 - image: https://39211.github.io/assets/2026-07-22/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-22.json
@@ -1800,6 +1922,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
 - image: https://39211.github.io/assets/2026-07-22/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-22.json
@@ -1844,6 +1969,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口清潔
 - image: https://39211.github.io/assets/2026-07-25/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-25.json
@@ -1888,6 +2016,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: customer-consultation
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
 - image: https://39211.github.io/assets/2026-07-25/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-25.json
@@ -1932,6 +2063,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: macro-detail
 - traffic_route: dwell-detail
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔
 - image: https://39211.github.io/assets/2026-07-27/slot-01.png
 - calendar: https://39211.github.io/content-calendar/2026-07-27.json
@@ -1976,6 +2110,9 @@ Instagram caption:
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗
 - image: https://39211.github.io/assets/2026-07-27/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-07-27.json

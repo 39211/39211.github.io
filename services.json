@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-27T02:26:15.808Z",
+  "generated_at": "2026-07-27T19:36:34.578Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://39211.github.io/",
@@ -484,6 +484,12 @@
           "title": "台中西屯精品名牌與精緻乾洗｜私享家洗衣店",
           "url": "https://39211.github.io/guides/luxury-dry-cleaning.html",
           "local_intent": "台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗"
+        },
+        {
+          "slug": "taichung-laundry-service-search",
+          "title": "台中洗衣、洗鞋、洗包與免費收送怎麼找？｜私享家洗衣店",
+          "url": "https://39211.github.io/guides/taichung-laundry-service-search.html",
+          "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送"
         }
       ],
       "local_business": {
@@ -498,6 +504,116 @@
         "webpage": "https://39211.github.io/services/taichung-xitun-laundry.html#webpage",
         "service": "https://39211.github.io/services/taichung-xitun-laundry.html#service",
         "faq": "https://39211.github.io/services/taichung-xitun-laundry.html#faq",
+        "business": "https://39211.github.io/#business"
+      }
+    },
+    {
+      "slug": "business-bulk-laundry",
+      "name": "店家與公司大量衣物送洗",
+      "title": "台中店家・公司大量衣物送洗｜全市免費收送｜私享家洗衣店",
+      "description": "台中店家、公司或工作室有大量衣物、制服與布品需要送洗，可先用 LINE 整理品項與照片；私享家提供台中市全區免費收送，洗護費另計。",
+      "url": "https://39211.github.io/services/business-bulk-laundry.html",
+      "canonical_url": "https://39211.github.io/services/business-bulk-laundry.html",
+      "in_language": "zh-Hant-TW",
+      "keywords": [
+        "台中公司衣物送洗",
+        "台中店家大量送洗",
+        "台中制服送洗",
+        "台中布品送洗",
+        "大量衣物收送",
+        "公司洗衣收送",
+        "LINE 預約送洗"
+      ],
+      "answer_summary": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。",
+      "image_url": "",
+      "image_path": "",
+      "image_alt": "台中店家與公司大量衣物送洗前的分類與交接說明",
+      "image_note": "服務說明頁；只有在已核准公開內容中找到相符案例時才使用社群圖片。",
+      "image_source_type": "",
+      "image_source_note": "",
+      "source_post_id": "",
+      "source_post_topic": "",
+      "case_story": {
+        "label": "一次有多件衣物或布品，需要先分類再安排收送",
+        "situation": "店家或公司可能累積一批制服、工作衣、毛巾、床組或活動後布品，不方便逐件帶到門市，也擔心不同材質混在一起後無法說清楚。",
+        "inspection": "門市會先看品項清單、件數、材質標籤、主要髒污、是否潮濕，以及是否有需要分開交接的特殊物件；這些資訊會影響後續洗護判斷與收送安排。",
+        "recommendation": "先用 LINE 傳一張整批照片，再補充各類品項與大約件數；有特殊污漬、深淺色、填充物或不能混洗的物件，請另外拍近照與標籤。"
+      },
+      "case_studies": [
+        {
+          "label": "情境 01",
+          "object": "公司制服與工作衣",
+          "material": "棉、聚酯纖維或混紡",
+          "concern": "件數多、領口袖口與工作環境髒污不同",
+          "inspection": "先分品項、顏色、洗標與主要髒污，再確認是否有需要個別標記的衣物。",
+          "boundary": "未看品項前不承諾固定報價、固定完成天數或所有污漬都能去除。"
+        },
+        {
+          "label": "情境 02",
+          "object": "店家毛巾與日常布品",
+          "material": "棉質、混紡或不同厚度布料",
+          "concern": "汗氣、油脂、濕氣與使用頻率不同",
+          "inspection": "先確認是否潮濕、是否混有特殊污漬，以及需要分開處理的布品。",
+          "boundary": "不把不同材質與不同用途物件視為同一種清洗條件。"
+        },
+        {
+          "label": "情境 03",
+          "object": "活動後床組或大量衣物",
+          "material": "床包、被套、衣物與其他布品",
+          "concern": "體積大、不方便自行搬運",
+          "inspection": "先列出品項與數量，拍整批和特殊物件照片，再確認台中市內收送安排。",
+          "boundary": "收送本身免費不代表洗護免費；品項與處理方式需另行確認。"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "先回答：店家或公司大量衣物可以安排收送嗎？",
+          "body": "可以先詢問。私享家提供台中市全區免費收送，店家、公司、工作室或團隊可先透過 LINE 提供品項、數量與照片。門市會先確認是否適合承接與如何分類，再安排後續；收送免費不代表清潔與洗護免費。"
+        },
+        {
+          "heading": "LINE 詢問需要準備什麼？",
+          "body": "建議準備整批照片、品項清單、大約件數、材質或洗標、最在意的污漬，以及所在區域。若有深淺色、特殊材質、填充物、油污、潮濕或需要個別標記的物件，請分開拍照說明。"
+        },
+        {
+          "heading": "為什麼不先寫固定報價與完成天數？",
+          "body": "大量送洗的品項、材質、件數與狀況差異很大。沒有看過物件前直接承諾固定價格、最低消費、完成時間或清潔效果，容易造成期待落差；本頁只公開已確認的服務範圍、收送方式與詢問流程。"
+        },
+        {
+          "heading": "台中市全區免費收送的邊界",
+          "body": "收送範圍為台中市，收送本身免費；清潔、洗護與其他整理費用另計。台中市以外、固定交接時段、急件或其他特殊安排，需由門市在 LINE 對話中另行確認。"
+        }
+      ],
+      "faqs": [
+        {
+          "question": "台中店家或公司有大量衣物可以送洗嗎？",
+          "answer": "可以先用 LINE 提供品項、件數與照片詢問；門市確認物件狀態與承接方式後，再安排台中市內免費收送。"
+        },
+        {
+          "question": "大量衣物收送要付收送費嗎？",
+          "answer": "台中市內收送本身免費；清潔、洗護與其他整理費用另依品項與實際狀態判斷。"
+        },
+        {
+          "question": "公司制服、毛巾和床組可以放在同一批詢問嗎？",
+          "answer": "可以一起詢問，但請分開列出品項與件數，並拍材質標籤或特殊污漬；不同材質與用途會分開判斷。"
+        },
+        {
+          "question": "大量送洗有固定價格或固定完成天數嗎？",
+          "answer": "本頁不承諾固定價格、最低消費或完成天數。需要先看品項、件數、材質與狀態，再由門市回覆。"
+        }
+      ],
+      "related_support_pages": [],
+      "local_business": {
+        "name": "私享家洗衣店",
+        "address_text": "407 臺中市西屯區至善里青海路二段365號",
+        "telephone": "04-2452-7411",
+        "line_url": "https://line.me/ti/p/4m-rA6hxf6",
+        "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
+        "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
+      },
+      "schema_ids": {
+        "webpage": "https://39211.github.io/services/business-bulk-laundry.html#webpage",
+        "service": "https://39211.github.io/services/business-bulk-laundry.html#service",
+        "faq": "https://39211.github.io/services/business-bulk-laundry.html#faq",
         "business": "https://39211.github.io/#business"
       }
     },

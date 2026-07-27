@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T02:26:15.808Z",
+  "generated_at": "2026-07-27T19:36:34.578Z",
   "site_name": "私享家洗衣店",
   "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -35,12 +35,14 @@
     "services": "https://39211.github.io/services.json",
     "answers": "https://39211.github.io/answers.json",
     "geo_targets": "https://39211.github.io/geo-targets.json",
+    "search_visibility": "https://39211.github.io/search-visibility.json",
     "llms_jsonl": "https://39211.github.io/llms.jsonl",
     "service_pages": {
       "shoe-bag-care": "https://39211.github.io/services/shoe-bag-care.html",
       "white-shoe-cleaning": "https://39211.github.io/services/white-shoe-cleaning.html",
       "fabric-storage": "https://39211.github.io/services/fabric-storage.html",
       "taichung-xitun-laundry": "https://39211.github.io/services/taichung-xitun-laundry.html",
+      "business-bulk-laundry": "https://39211.github.io/services/business-bulk-laundry.html",
       "taichung-citywide-laundry-pickup": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html"
     },
     "support_pages": {
@@ -53,6 +55,7 @@
       "bedding-duvet-cleaning": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
       "plush-doll-cleaning": "https://39211.github.io/guides/plush-doll-cleaning.html",
       "luxury-dry-cleaning": "https://39211.github.io/guides/luxury-dry-cleaning.html",
+      "taichung-laundry-service-search": "https://39211.github.io/guides/taichung-laundry-service-search.html",
       "qinghai-road-shoe-cleaning": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html"
     },
     "feed": "https://39211.github.io/feed.json",
@@ -164,6 +167,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -206,6 +212,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -248,6 +257,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -290,6 +302,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -332,6 +347,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中洗衣店",
@@ -375,6 +393,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -418,6 +439,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -460,6 +484,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -502,6 +529,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -544,6 +574,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -586,6 +619,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#棉被清潔",
@@ -629,6 +665,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#旅行後整理",
@@ -672,6 +711,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#包包清潔",
@@ -715,6 +757,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#童鞋清潔",
@@ -758,6 +803,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "trust-reset",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#皮鞋保養",
@@ -801,6 +849,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#布品收納",
@@ -844,6 +895,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -887,6 +941,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -930,6 +987,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -973,6 +1033,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1016,6 +1079,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1059,6 +1125,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1102,6 +1171,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1145,6 +1217,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1188,6 +1263,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1231,6 +1309,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1274,6 +1355,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "trust-reset",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1317,6 +1401,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1360,6 +1447,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1403,6 +1493,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1446,6 +1539,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1489,6 +1585,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1532,6 +1631,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "trust-reset",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1606,6 +1708,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1649,6 +1754,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1692,6 +1800,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1735,6 +1846,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "share-worthy-care",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1778,6 +1892,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1821,6 +1938,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1864,6 +1984,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1909,6 +2032,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#白鞋清潔",
@@ -1951,6 +2077,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -1993,6 +2122,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中洗衣店",
@@ -2036,6 +2168,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#雨季保養",
@@ -2079,6 +2214,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#棉被清潔",
@@ -2122,6 +2260,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#旅行後整理",
@@ -2165,6 +2306,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#包包清潔",
@@ -2208,6 +2352,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#童鞋清潔",
@@ -2251,6 +2398,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "trust-reset",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#皮鞋保養",
@@ -2294,6 +2444,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#布品收納",
@@ -2337,6 +2490,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2380,6 +2536,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2423,6 +2582,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2466,6 +2628,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2509,6 +2674,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2552,6 +2720,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2595,6 +2766,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2638,6 +2812,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2681,6 +2858,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2724,6 +2904,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2767,6 +2950,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "trust-reset",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2810,6 +2996,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2853,6 +3042,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2896,6 +3088,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2939,6 +3134,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -2982,6 +3180,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3025,6 +3226,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "trust-reset",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3099,6 +3303,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3142,6 +3349,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3185,6 +3395,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3228,6 +3441,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "share-worthy-care",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3271,6 +3487,9 @@
       "visual_route": "customer-consultation",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3314,6 +3533,9 @@
       "visual_route": "macro-detail",
       "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -3357,6 +3579,9 @@
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",

@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-07-27T02:26:15.808Z",
+  "generated_at": "2026-07-27T19:36:34.578Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -318,6 +318,13 @@
       "area": "至善里",
       "url": "https://39211.github.io/services/taichung-xitun-laundry.html",
       "answer_summary": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，可先用 LINE 傳照片詢問。"
+    },
+    {
+      "query": "台中市 公司大量衣物送洗",
+      "service": "店家與公司大量衣物送洗",
+      "area": "台中市",
+      "url": "https://39211.github.io/services/business-bulk-laundry.html",
+      "answer_summary": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。"
     },
     {
       "query": "台中市 洗衣免費收送",
@@ -702,6 +709,60 @@
       ]
     },
     {
+      "query": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送",
+      "service": "台中西屯洗衣店",
+      "area": "台中西屯",
+      "url": "https://39211.github.io/guides/taichung-laundry-service-search.html",
+      "answer_summary": "先用手上的物件和問題找服務，不必只搜尋店名。私享家把台中洗衣、洗鞋、洗包、床組棉被、襯衫西裝、娃娃、精品乾洗與免費收送分成可核對的服務與指南；每個答案都回到材質、位置、狀態與處理界線。",
+      "keywords": [
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
+        "台中洗包包",
+        "台中棉被清洗",
+        "台中西裝乾洗",
+        "台中娃娃清洗",
+        "台中精品乾洗",
+        "台中洗衣免費收送"
+      ]
+    },
+    {
+      "query": "青海路二段 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送",
+      "service": "台中西屯洗衣店",
+      "area": "青海路二段",
+      "url": "https://39211.github.io/guides/taichung-laundry-service-search.html",
+      "answer_summary": "先用手上的物件和問題找服務，不必只搜尋店名。私享家把台中洗衣、洗鞋、洗包、床組棉被、襯衫西裝、娃娃、精品乾洗與免費收送分成可核對的服務與指南；每個答案都回到材質、位置、狀態與處理界線。",
+      "keywords": [
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
+        "台中洗包包",
+        "台中棉被清洗",
+        "台中西裝乾洗",
+        "台中娃娃清洗",
+        "台中精品乾洗",
+        "台中洗衣免費收送"
+      ]
+    },
+    {
+      "query": "至善里 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送",
+      "service": "台中西屯洗衣店",
+      "area": "至善里",
+      "url": "https://39211.github.io/guides/taichung-laundry-service-search.html",
+      "answer_summary": "先用手上的物件和問題找服務，不必只搜尋店名。私享家把台中洗衣、洗鞋、洗包、床組棉被、襯衫西裝、娃娃、精品乾洗與免費收送分成可核對的服務與指南；每個答案都回到材質、位置、狀態與處理界線。",
+      "keywords": [
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
+        "台中洗包包",
+        "台中棉被清洗",
+        "台中西裝乾洗",
+        "台中娃娃清洗",
+        "台中精品乾洗",
+        "台中洗衣免費收送"
+      ]
+    },
+    {
       "query": "逢甲洗鞋 西屯洗鞋 青海路洗鞋",
       "service": "鞋包清潔",
       "area": "台中西屯",
@@ -784,6 +845,11 @@
           "label": "白鞋要重新整理",
           "description": "先判斷是表面灰塵、膠邊氧化、縫線卡灰或內裡味道。",
           "url": "https://39211.github.io/services/white-shoe-cleaning.html"
+        },
+        {
+          "label": "店家與公司大量送洗",
+          "description": "先整理品項、件數、材質與特殊污漬，再用 LINE 詢問台中市收送安排。",
+          "url": "https://39211.github.io/services/business-bulk-laundry.html"
         }
       ]
     },
