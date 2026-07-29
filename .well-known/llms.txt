@@ -92,6 +92,39 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-07-29 19:30 精品包最怕的不是髒，是邊角](https://39211.github.io/posts/2026-07-29-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
+  target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中到府收送洗衣 | 台中公司大量衣物送洗
+  evidence_type: pickup-logistics
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+  image: https://39211.github.io/assets/2026-07-29/slot-02.png
+  video: https://39211.github.io/assets/2026-07-29/slot-02.mp4
+  calendar: https://39211.github.io/content-calendar/2026-07-29.json
+- [2026-07-29 11:30 鞋子放回鞋櫃前，先看鞋口內裡與鞋墊邊](https://39211.github.io/posts/2026-07-29-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=problem-diagnosis
+  target_queries: 台中白鞋清潔 | 台中洗鞋店 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #鞋子清潔 #鞋櫃收納
+  image: https://39211.github.io/assets/2026-07-29/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-07-29.json
+- [2026-07-28 19:30 下班前用 LINE 約好，運動衣不用再繞路送](https://39211.github.io/posts/2026-07-28-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=pickup-logistics
+  target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中到府收送洗衣 | 台中公司大量衣物送洗
+  evidence_type: pickup-logistics
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗
+  image: https://39211.github.io/assets/2026-07-28/slot-02.png
+  calendar: https://39211.github.io/content-calendar/2026-07-28.json
+- [2026-07-28 11:30 夏季棉麻衣物的汗味，先看腋下與側縫](https://39211.github.io/posts/2026-07-28-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=aftercare
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉麻衣物 #汗味處理
+  image: https://39211.github.io/assets/2026-07-28/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-07-28.json
 - [2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗](https://39211.github.io/posts/2026-07-27-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)

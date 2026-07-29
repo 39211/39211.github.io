@@ -126,6 +126,10 @@
         "https://39211.github.io/assets/2026-07-25/slot-02.png",
         "https://39211.github.io/assets/2026-07-27/slot-01.png",
         "https://39211.github.io/assets/2026-07-27/slot-02.png",
+        "https://39211.github.io/assets/2026-07-28/slot-01.png",
+        "https://39211.github.io/assets/2026-07-28/slot-02.png",
+        "https://39211.github.io/assets/2026-07-29/slot-01.png",
+        "https://39211.github.io/assets/2026-07-29/slot-02.png",
         "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -335,7 +339,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-27",
+      "dateModified": "2026-07-29",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -3203,6 +3207,134 @@
       "contentUrl": "https://39211.github.io/assets/2026-07-27/slot-02.png",
       "url": "https://39211.github.io/assets/2026-07-27/slot-02.png",
       "caption": "健身結束先把濕衣物拿出來，再決定怎麼送洗",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-28.json#post-2026-07-28-slot-01",
+      "headline": "2026-07-28 11:30 夏季棉麻衣物的汗味，先看腋下與側縫",
+      "text": "夏季棉麻衣物的汗味，先看腋下與側縫。表面乾了，不代表縫線和重疊布料裡沒有濕氣。\n\n私享家洗衣店\n\n把衣物翻到內側，在自然光下看腋下、側縫、領口與袖口。這些位置布料重疊、接觸皮膚多，顏色與觸感通常比衣身更早改變。\n\n不要先用香氛把味道蓋掉，也不要還帶著濕氣就塞進洗衣籃；先確認洗標、汗濕範圍與既有褪色，再決定如何整理。\n\n拍整件全貌、腋下內側、側縫與洗標傳 LINE，我們可以先依材質與位置看方向。\n\n你家最常送洗的是哪一件？留言告訴我們。\n\n追蹤私享家，之後會持續整理棉麻、夏季衣物與汗濕位置的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #棉麻衣物 #汗味處理",
+      "datePublished": "2026-07-28T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#棉麻衣物",
+        "#汗味處理"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-28.json#post-2026-07-28-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-28.json#post-2026-07-28-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-28.json#post-2026-07-28-slot-01:image",
+      "contentUrl": "https://39211.github.io/assets/2026-07-28/slot-01.png",
+      "url": "https://39211.github.io/assets/2026-07-28/slot-01.png",
+      "caption": "夏季棉麻衣物的汗味，先看腋下與側縫",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-28.json#post-2026-07-28-slot-02",
+      "headline": "2026-07-28 19:30 下班前用 LINE 約好，運動衣不用再繞路送",
+      "text": "下班前用 LINE 約好，運動衣不用再繞路送。先把乾濕衣物分開，回家後就能直接交接。\n\n私享家洗衣店\n\n健身後的上衣、毛巾與乾淨換洗衣物如果全部塞在同一袋，回家前就容易把濕氣壓在布料內層。先分開，收送時也更容易確認品項。\n\n私享家提供台中市全區免費收送，主要透過 LINE 預約。預約前先準備衣物數量、洗標照片、所在區域與可配合時段。\n\n把分袋後的衣物與洗標拍好傳 LINE，我們再確認收送安排。\n\n你家最常送洗的是哪一件？留言告訴我們。\n\n追蹤私享家，之後會持續整理台中免費收送與下班族運動衣物的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗",
+      "datePublished": "2026-07-28T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#運動衣清洗"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-28.json#post-2026-07-28-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-28.json#post-2026-07-28-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-28.json#post-2026-07-28-slot-02:image",
+      "contentUrl": "https://39211.github.io/assets/2026-07-28/slot-02.png",
+      "url": "https://39211.github.io/assets/2026-07-28/slot-02.png",
+      "caption": "下班前用 LINE 約好，運動衣不用再繞路送",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-29.json#post-2026-07-29-slot-01",
+      "headline": "2026-07-29 11:30 鞋子放回鞋櫃前，先看鞋口內裡與鞋墊邊",
+      "text": "鞋子放回鞋櫃前，先看鞋口內裡與鞋墊邊。鞋面看起來乾，不代表鞋內接觸腳部的位置已經乾燥。\n\n私享家洗衣店\n\n先看鞋口布邊、後跟內裡與鞋墊周圍有沒有顏色變深、濕感或細屑；左右腳一起比較，會比只聞味道更容易找到差異。\n\n不要把仍有濕氣的鞋直接放進密閉鞋盒，也不要為了局部痕跡反覆硬刷鞋口；先確認材質與黏合處狀態。\n\n拍鞋面、鞋口內裡、後跟與鞋底邊傳 LINE，我們可以先看材質與位置。\n\n追蹤私享家，之後會持續整理鞋內濕氣、鞋口與鞋底邊的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子清潔 #鞋櫃收納",
+      "datePublished": "2026-07-29T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#鞋子清潔",
+        "#鞋櫃收納"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-29.json#post-2026-07-29-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-29.json#post-2026-07-29-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-29.json#post-2026-07-29-slot-01:image",
+      "contentUrl": "https://39211.github.io/assets/2026-07-29/slot-01.png",
+      "url": "https://39211.github.io/assets/2026-07-29/slot-01.png",
+      "caption": "鞋子放回鞋櫃前，先看鞋口內裡與鞋墊邊",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-07-29.json#post-2026-07-29-slot-02",
+      "headline": "2026-07-29 19:30 精品包最怕的不是髒，是邊角",
+      "text": "精品包最怕的不是髒，是邊角。\n\n私享家洗衣店\n\n精品包最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n哪一件是你最不敢自己動手處理的？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-07-29T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-07-29.json#post-2026-07-29-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-07-29.json#post-2026-07-29-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-07-29.json#post-2026-07-29-slot-02:image",
+      "contentUrl": "https://39211.github.io/assets/2026-07-29/slot-02.png",
+      "url": "https://39211.github.io/assets/2026-07-29/slot-02.png",
+      "caption": "精品包最怕的不是髒，是邊角",
       "inLanguage": "zh-Hant"
     }
   ]

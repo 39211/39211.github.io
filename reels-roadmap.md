@@ -48,13 +48,22 @@ Anything above +300 would be exceptional and should not be planned for.
 
 ## Phases
 
-**Day 18 to 30, testing.** Two to three Reels a week, four to six in total,
-alongside the existing daily posts. Topics restricted to what the video model
-handles and what carries intent: stain before and after, the laundry pile, the
-common sorting mistake. Testing whether a generated Reel with ambient audio and
-subtitles can reach 300 accounts at a 30% watch ratio, whether it produces even
-one or two real inquiries, and whether object-only shots feel too cold to women
-aged 25 to 44.
+**Day 18 to 30, testing.** One Reel a day in slot 2, alongside the daily slot 1
+post. The owner chose daily over the two or three a week this plan originally
+assumed, and production runs a full batch ahead so the cadence does not depend
+on a good day. Topics are restricted to what the video model handles and what
+carries intent: one item, its real failure point, and the before and after of
+treating it. Testing whether a generated Reel with ambient audio and subtitles
+can reach 300 accounts at a 30% watch ratio, whether it produces even one or two
+real inquiries, and whether object-only shots feel too cold to women aged 25 to
+44.
+
+Daily is the one thing here that could backfire on its own. Repetition
+downranking is real, and twelve consecutive Reels built from the same two-clip
+structure is exactly the shape it punishes. The guards are that no two
+consecutive days share an object type, and that the batch review at 72 hours
+compares reach across the run: three consecutive Reels below a 20% watch ratio
+drops the cadence rather than defending it.
 
 **Day 31 to 60, scaling.** Three to four Reels a week plus one daily post. Keep
 whatever before-and-after formats worked, add Taichung-specific problems (damp
