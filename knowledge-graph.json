@@ -134,6 +134,8 @@
         "https://39211.github.io/assets/2026-07-30/slot-02.png",
         "https://39211.github.io/assets/2026-07-31/slot-01.png",
         "https://39211.github.io/assets/2026-07-31/slot-02.png",
+        "https://39211.github.io/assets/2026-08-01/slot-01.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02.png",
         "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -343,7 +345,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-07-31",
+      "dateModified": "2026-08-01",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -3467,6 +3469,70 @@
       "contentUrl": "https://39211.github.io/assets/2026-07-31/slot-02.png",
       "url": "https://39211.github.io/assets/2026-07-31/slot-02.png",
       "caption": "床單被套不用自己扛下樓，先分件拍好再約收送",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-01",
+      "headline": "2026-08-01 11:30 針織外套起毛球前，先看袖口與側腰摩擦區",
+      "text": "針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。\n\n把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。\n\n不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。\n\n拍整件、袖口、側腰、勾紗近照與洗標傳 LINE，我們可以先看材質。\n\n你衣櫃裡放最久沒動的是什麼？\n\n追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護",
+      "datePublished": "2026-08-01T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#針織外套",
+        "#毛球照護"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-01:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-01/slot-01.png",
+      "url": "https://39211.github.io/assets/2026-08-01/slot-01.png",
+      "caption": "針織外套起毛球前，先看袖口與側腰摩擦區",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-02",
+      "headline": "2026-08-01 19:30 白鞋泛黃，不是刷得不夠用力",
+      "text": "白鞋泛黃，不是刷得不夠用力。\n\n私享家洗衣店\n\n白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-08-01T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-02:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-01/slot-02.png",
+      "url": "https://39211.github.io/assets/2026-08-01/slot-02.png",
+      "caption": "白鞋泛黃，不是刷得不夠用力",
       "inLanguage": "zh-Hant"
     }
   ]

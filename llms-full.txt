@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-07-31T16:47:55.292Z
+- Generated at: 2026-07-31T22:30:02.818Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -183,6 +183,8 @@
     "https://39211.github.io/assets/2026-07-30/slot-02.png",
     "https://39211.github.io/assets/2026-07-31/slot-01.png",
     "https://39211.github.io/assets/2026-07-31/slot-02.png",
+    "https://39211.github.io/assets/2026-08-01/slot-01.png",
+    "https://39211.github.io/assets/2026-08-01/slot-02.png",
     "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -2546,4 +2548,96 @@ Instagram caption:
 分件拍好後，直接用 LINE 傳件數、區域與可配合時段。
 
 #私享家洗衣店 #床單被套 #台中免費收送 #寢具送洗
+
+### 2026-08-01 11:30 針織外套起毛球前，先看袖口與側腰摩擦區
+
+- id: https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-01
+- published local time: 2026-08-01T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: dwell-detail
+- search_intent: problem-diagnosis
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護
+- image: https://39211.github.io/assets/2026-08-01/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-08-01.json
+
+Facebook caption:
+
+針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。
+
+把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。
+
+不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。
+
+拍整件、袖口、側腰、勾紗近照與洗標傳 LINE，我們可以先看材質。
+
+你衣櫃裡放最久沒動的是什麼？
+
+追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護
+
+Instagram caption:
+
+針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。
+
+把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。
+
+不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。
+
+拍好整件、袖口、側腰、勾紗近照與洗標後，直接私訊，讓我們先看材質。
+
+你衣櫃裡放最久沒動的是什麼？
+
+追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。
+
+#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護
+
+### 2026-08-01 19:30 白鞋泛黃，不是刷得不夠用力
+
+- id: https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-02
+- published local time: 2026-08-01T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+- image: https://39211.github.io/assets/2026-08-01/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-08-01.json
+
+Facebook caption:
+
+白鞋泛黃，不是刷得不夠用力。
+
+私享家洗衣店
+
+白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。
+
+有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+
+Instagram caption:
+
+白鞋泛黃，不是刷得不夠用力。
+
+私享家洗衣店
+
+白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。
+
+有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
 

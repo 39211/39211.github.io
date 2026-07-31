@@ -92,6 +92,23 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-01 19:30 白鞋泛黃，不是刷得不夠用力](https://39211.github.io/posts/2026-08-01-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+  image: https://39211.github.io/assets/2026-08-01/slot-02.png
+  video: https://39211.github.io/assets/2026-08-01/slot-02.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-01.json
+- [2026-08-01 11:30 針織外套起毛球前，先看袖口與側腰摩擦區](https://39211.github.io/posts/2026-08-01-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=problem-diagnosis
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護
+  image: https://39211.github.io/assets/2026-08-01/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-08-01.json
 - [2026-07-31 19:30 床單被套不用自己扛下樓，先分件拍好再約收送](https://39211.github.io/posts/2026-07-31-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=pickup-logistics

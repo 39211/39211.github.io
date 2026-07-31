@@ -1481,6 +1481,71 @@
         ],
         "calendar_url": "https://39211.github.io/content-calendar/2026-07-31.json"
       }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-01",
+      "url": "https://39211.github.io/posts/2026-08-01-slot-01.html",
+      "title": "2026-08-01 11:30 針織外套起毛球前，先看袖口與側腰摩擦區",
+      "date_published": "2026-08-01T11:30:00+08:00",
+      "content_text": "針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。\n\n把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。\n\n不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。\n\n拍整件、袖口、側腰、勾紗近照與洗標傳 LINE，我們可以先看材質。\n\n你衣櫃裡放最久沒動的是什麼？\n\n追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護",
+      "summary": "針織外套起毛球前，先看袖口與側腰摩擦區",
+      "image": "https://39211.github.io/assets/2026-08-01/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "針織外套",
+        "毛球照護"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "macro-detail",
+        "traffic_route": "dwell-detail",
+        "content_role": "reach-answer",
+        "search_intent": "problem-diagnosis",
+        "target_queries": [
+          "台中棉被清洗",
+          "台中床組清洗",
+          "白鞋泛黃怎麼辦",
+          "鞋子淋雨怎麼處理"
+        ],
+        "evidence_type": "first-party-inspection",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-08-01.json"
+      }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-02",
+      "url": "https://39211.github.io/posts/2026-08-01-slot-02.html",
+      "title": "2026-08-01 19:30 白鞋泛黃，不是刷得不夠用力",
+      "date_published": "2026-08-01T19:30:00+08:00",
+      "content_text": "白鞋泛黃，不是刷得不夠用力。\n\n私享家洗衣店\n\n白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "summary": "白鞋泛黃，不是刷得不夠用力",
+      "image": "https://39211.github.io/assets/2026-08-01/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "台中免費收送",
+        "洗護日常"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-08-01.json"
+      }
     }
   ]
 }
