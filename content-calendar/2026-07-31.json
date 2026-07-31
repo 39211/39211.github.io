@@ -1,0 +1,203 @@
+{
+  "date": "2026-07-31",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-07-30T22:37:23.477Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "球鞋鞋舌翻進去，只拍鞋面會漏掉鞋口內裡",
+      "format": "mixed-carousel",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "球鞋鞋舌翻進去，只拍鞋面會漏掉鞋口內裡。\n\n私享家洗衣店\n\n同一雙鞋先拍完整左右腳，再補鞋口、鞋舌、後跟內裡與鞋底邊。帆布、網布和合成材質的紋理不同，既有磨痕、脫線與變形位置也要留在原始照片裡。\n\n不要先遮掉污痕，也不要只拍最乾淨的角度。把全貌與局部放在同一組照片，比較容易說清楚你在意的位置。\n\n拍好左右腳全貌、鞋口內裡與鞋底邊，直接用 LINE 傳來先詢問。\n\n#私享家洗衣店 #球鞋送洗 #鞋子檢查 #台中洗衣",
+      "facebook_caption": "球鞋鞋舌翻進去，只拍鞋面會漏掉鞋口內裡。\n\n私享家洗衣店\n\n同一雙鞋先拍完整左右腳，再補鞋口、鞋舌、後跟內裡與鞋底邊。帆布、網布和合成材質的紋理不同，既有磨痕、脫線與變形位置也要留在原始照片裡。\n\n不要先遮掉污痕，也不要只拍最乾淨的角度。把全貌與局部放在同一組照片，比較容易說清楚你在意的位置。\n\n拍好左右腳全貌、鞋口內裡與鞋底邊，直接用 LINE 傳來先詢問。\n\n#私享家洗衣店 #球鞋送洗 #鞋子檢查 #台中洗衣",
+      "image_prompt": "Create one portrait 4:5 photorealistic natural phone photo inside an ordinary Taiwanese laundry inspection area. Photo 1 of 4. Show exactly one matching pair of unbranded adult gray canvas sneakers, exactly two complete shoes, resting fully on a worn dark rubber inspection mat. The right shoe tongue is gently folded inward so part of the heel lining is not visible; the left shoe is fully readable. Both shoes have complete ordinary gray laces threaded through the same number of metal-free eyelets, complete tongues, toe caps, soles and heel geometry. Motivated fluorescent ceiling light mixed with cool window daylight from the left, practical lamp visible in the background, honest microtexture, slight scuffs and creases, controlled asymmetry, believable weight and contact shadows. Handheld framing with slight imperfection. No person, no hand, no tool, no cleaning result, no poster, no readable text, no labels, no logo, no watermark.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photorealistic natural phone photo inside an ordinary Taiwanese laundry inspection area. Photo 1 of 4. Show exactly one matching pair of unbranded adult gray canvas sneakers, exactly two complete shoes, resting fully on a worn dark rubber inspection mat. The right shoe tongue is gently folded inward so part of the heel lining is not visible; the left shoe is fully readable. Both shoes have complete ordinary gray laces threaded through the same number of metal-free eyelets, complete tongues, toe caps, soles and heel geometry. Motivated fluorescent ceiling light mixed with cool window daylight from the left, practical lamp visible in the background, honest microtexture, slight scuffs and creases, controlled asymmetry, believable weight and contact shadows. Handheld framing with slight imperfection. No person, no hand, no tool, no cleaning result, no poster, no readable text, no labels, no logo, no watermark.",
+          "local_image_path": "docs/assets/2026-07-31/slot-01.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Use the supplied first carousel photo as the exact subject reference. Create one portrait 4:5 photorealistic natural phone photo of the same exact matching pair of unbranded adult gray canvas sneakers on the same worn dark rubber mat, with identical laces, eyelet count, stitching, scuffs, sole wear and left-right identity. Photo 2 of 4. One adult forearm enters from the frame edge; a broad blank matte-gray inspection card slides only under the right shoe tongue and lifts it about two centimeters to reveal the heel lining. The right shoe stays fully grounded and the left shoe does not move. Keep the hand away from close-up; show only one coherent hand with five fingers. Preserve motivated mixed shop lighting, believable weight and contact shadows. No cleaning transformation, no extra shoe, no detached lace, no readable text, no label, no logo, no watermark.",
+          "local_image_path": "docs/assets/2026-07-31/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Use the supplied first carousel photo as the exact subject reference. Create one portrait 4:5 photorealistic natural phone photo of the same exact matching pair of unbranded adult gray canvas sneakers on the same worn dark rubber mat, with identical laces, eyelet count, stitching, scuffs, sole wear and left-right identity. Photo 3 of 4. Keep both complete shoes fully inside frame and stationary; angle the camera slightly lower so the shoe openings, heel lining and the existing sidewall scuffs are all readable without moving the shoes. Preserve motivated mixed shop lighting, honest material microtexture, controlled asymmetry, believable weight and contact shadows. No person, no hand, no tool, no cleaning transformation, no readable text, no label, no logo, no watermark.",
+          "local_image_path": "docs/assets/2026-07-31/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Use the supplied first carousel photo as the exact subject reference. Create one portrait 4:5 photorealistic natural phone photo of the same exact matching pair of unbranded adult gray canvas sneakers on the same worn dark rubber mat, with identical laces, eyelet count, stitching, scuffs, sole wear and left-right identity. Photo 4 of 4. Show a restrained overhead view with both complete shoes parallel but slightly asymmetrical, so the entire pair, toe caps, laces, tongues, heel edges and contact patches are visible. Preserve motivated mixed shop lighting, honest wear, believable weight and contact shadows. No person, no hand, no tool, no phone screen, no cleaning transformation, no readable text, no label, no logo, no watermark.",
+          "local_image_path": "docs/assets/2026-07-31/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. Fixed close camera. Exactly one matching pair of unbranded adult gray canvas sneakers rests fully on a worn dark rubber mat; the right shoe tongue is folded inward and its heel lining is partly hidden, while the left shoe remains stationary and readable. One adult forearm enters from the frame edge and performs one dominant action only: slide one broad blank matte-gray inspection card beneath the right shoe tongue and lift the tongue about two centimeters, then stop. The card is a wide support, not a thin finger tool. Keep both shoes grounded throughout. Preserve exactly two shoes, complete ordinary laces, equal eyelet counts, tongues, toe caps, soles, five fingers, realistic weight and contact shadows. No cleaning transformation, no shoe rotation, no translation toward camera, no extra hands, no duplicate object, no morphing, no penetration, no readable text, no label, no logo, no watermark. End on the revealed lining and hold for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "球鞋鞋舌翻進去，鞋口內裡就容易漏拍",
+        "conflict": "右腳鞋舌折在內側，後跟內裡第一眼看不完整。",
+        "single_action": "同一隻成人手只用一張寬版無字檢查卡托起右腳鞋舌約兩公分，鞋子全程貼在止滑墊上。",
+        "payoff": "鞋口內裡露出來，左右腳仍維持原位與完整配對。",
+        "cta": "拍好左右腳全貌、鞋口內裡與鞋底邊，直接用 LINE 傳來先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "精確 9:16 固定直式近景；前景是同一雙完整無品牌灰色帆布球鞋與深色止滑墊，右腳鞋舌折入、左腳不動；中景是乾淨收納托盤，中後景是有明確來源的實用檢查燈；寬版無字灰色檢查卡停在右腳鞋舌前，單一前臂從畫面邊緣進入，手部不做近距離特寫；混合日光與實用燈，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. Fixed close camera. Exactly one matching pair of unbranded adult gray canvas sneakers rests fully on a worn dark rubber mat; the right shoe tongue is folded inward and its heel lining is partly hidden, while the left shoe remains stationary and readable. One adult forearm enters from the frame edge and performs one dominant action only: slide one broad blank matte-gray inspection card beneath the right shoe tongue and lift the tongue about two centimeters, then stop. The card is a wide support, not a thin finger tool. Keep both shoes grounded throughout. Preserve exactly two shoes, complete ordinary laces, equal eyelet counts, tongues, toe caps, soles, five fingers, realistic weight and contact shadows. No cleaning transformation, no shoe rotation, no translation toward camera, no extra hands, no duplicate object, no morphing, no penetration, no readable text, no label, no logo, no watermark. End on the revealed lining and hold for one second.",
+        "fallback_media_type": "carousel",
+        "generation_id": "sixiangjia_20260731_s01_shoe_tongue_card_v01",
+        "repair_sources": [
+          {
+            "source_date": "2026-07-29",
+            "source_slot": 1
+          }
+        ]
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-07-31",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "mixed-carousel-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false,
+        "repair_sources": [
+          {
+            "source_date": "2026-07-29",
+            "source_slot": 1
+          }
+        ]
+      },
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "views_target": 90,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理鞋口、鞋底邊與送洗前照片怎麼拍。",
+      "seo_sync_page": "/services/shoe-cleaning.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "球鞋送洗前怎麼拍",
+        "鞋口內裡怎麼看",
+        "台中鞋子清洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "ten_day_review_metric": "滿 72 小時後比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺值保留 null。",
+      "content_plan_source": "repair-queue-plus-daily-learning",
+      "local_image_path": "docs/assets/2026-07-31/slot-01.png",
+      "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-01.png",
+      "local_video_path": "docs/assets/2026-07-31/slot-01.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-07-31/slot-01.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "床單被套不用自己扛下樓，先分件拍好再約收送",
+      "format": "mixed-carousel",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "床單被套不用自己扛下樓，先分件拍好再約收送。\n\n私享家洗衣店\n\n先把床單、被套與枕套分開，拍完整件數、材質表面、洗標與在意位置。折疊後仍要保留每件的邊角與體積，不要把不同布品塞成一團才拍。\n\n私享家提供台中市全區免費收送，主要透過 LINE 預約。把件數、所在區域與可配合時段一起傳來，後續再確認收送安排。\n\n分件拍好後，直接用 LINE 傳件數、區域與可配合時段。\n\n#私享家洗衣店 #床單被套 #台中免費收送 #寢具送洗",
+      "facebook_caption": "床單被套不用自己扛下樓，先分件拍好再約收送。\n\n私享家洗衣店\n\n先把床單、被套與枕套分開，拍完整件數、材質表面、洗標與在意位置。折疊後仍要保留每件的邊角與體積，不要把不同布品塞成一團才拍。\n\n私享家提供台中市全區免費收送，主要透過 LINE 預約。把件數、所在區域與可配合時段一起傳來，後續再確認收送安排。\n\n分件拍好後，直接用 LINE 傳件數、區域與可配合時段。\n\n#私享家洗衣店 #床單被套 #台中免費收送 #寢具送洗",
+      "image_prompt": "Create one portrait 4:5 photorealistic natural phone photo inside an ordinary Taiwanese laundry pickup-preparation area. Photo 1 of 4. Show exactly one complete folded warm-beige cotton duvet cover on a sturdy worn wooden bench beside exactly one low rigid open gray plastic laundry bin. The duvet cover has one continuous dark-beige piping seam, soft ordinary wrinkles, slight everyday wear and believable volume. The bin is plain, unbranded, has no handles and stays fully supported by the floor beside the bench. Motivated fluorescent ceiling light mixed with cool window daylight from the left and a warm practical doorway lamp in the background. Controlled asymmetry, honest microtexture, believable weight and contact shadows. No person, no hand, no flexible bag, no extra bedding, no cleaning result, no poster, no readable text, no label, no logo, no watermark.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photorealistic natural phone photo inside an ordinary Taiwanese laundry pickup-preparation area. Photo 1 of 4. Show exactly one complete folded warm-beige cotton duvet cover on a sturdy worn wooden bench beside exactly one low rigid open gray plastic laundry bin. The duvet cover has one continuous dark-beige piping seam, soft ordinary wrinkles, slight everyday wear and believable volume. The bin is plain, unbranded, has no handles and stays fully supported by the floor beside the bench. Motivated fluorescent ceiling light mixed with cool window daylight from the left and a warm practical doorway lamp in the background. Controlled asymmetry, honest microtexture, believable weight and contact shadows. No person, no hand, no flexible bag, no extra bedding, no cleaning result, no poster, no readable text, no label, no logo, no watermark.",
+          "local_image_path": "docs/assets/2026-07-31/slot-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-02.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Use the supplied first carousel photo as the exact subject reference. Create one portrait 4:5 photorealistic natural phone photo of the same exact complete folded warm-beige cotton duvet cover and the same exact low rigid open gray plastic laundry bin in the same pickup-preparation area. Preserve the identical dark-beige piping seam, folds, wrinkles, bin shape and wear. Photo 2 of 4. One adult forearm enters from the frame edge and supports one near corner of the folded duvet cover with a broad palm, showing the fabric thickness while the whole bundle remains on the bench. Keep the hand away from close-up and show one coherent five-finger hand. Preserve motivated mixed lighting, believable weight and contact shadows. No flexible bag, no extra bedding, no readable text, no label, no logo, no watermark.",
+          "local_image_path": "docs/assets/2026-07-31/slot-02-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-02-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Use the supplied first carousel photo as the exact subject reference. Create one portrait 4:5 photorealistic natural phone photo of the same exact complete folded warm-beige cotton duvet cover and the same exact low rigid open gray plastic laundry bin in the same pickup-preparation area. Preserve the identical dark-beige piping seam, folds, wrinkles, bin shape and wear. Photo 3 of 4. Show the duvet cover resting halfway across the wide rigid bin rim as a static preparation state, with the bench still supporting most of its weight and the bin fully grounded. Make every contact edge and shadow readable. No person, no hand, no flexible bag, no extra bedding, no floating fabric, no readable text, no label, no logo, no watermark.",
+          "local_image_path": "docs/assets/2026-07-31/slot-02-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-02-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Use the supplied first carousel photo as the exact subject reference. Create one portrait 4:5 photorealistic natural phone photo of the same exact complete folded warm-beige cotton duvet cover and the same exact low rigid open gray plastic laundry bin in the same pickup-preparation area. Preserve the identical dark-beige piping seam, folds, wrinkles, bin shape and wear. Photo 4 of 4. Show a restrained wider view with the whole duvet cover back on the bench and the empty bin beside it, both fully inside frame; keep one corner slightly offset to retain everyday asymmetry. Preserve motivated mixed lighting, honest microtexture, believable volume and contact shadows. No person, no hand, no flexible bag, no extra bedding, no phone screen, no readable text, no label, no logo, no watermark.",
+          "local_image_path": "docs/assets/2026-07-31/slot-02-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-02-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese pickup-preparation shot. Fixed medium-close camera. Exactly one complete folded warm-beige cotton duvet cover rests on a sturdy worn wooden bench beside exactly one low rigid open gray plastic laundry bin on the floor. The cover has one continuous dark-beige piping seam and ordinary wrinkles; the bin is plain, unbranded and has no handles. One adult forearm enters from the frame edge and performs one dominant action only: slide the whole folded duvet cover straight from the bench into the wide open rigid bin, then stop. The bin remains stationary and its rim stays visible; the fabric compresses slightly only at the contact edge. Preserve exactly one duvet cover, one rigid bin, one hand with five fingers, realistic weight, inertia and contact shadows. No flexible bag, no lifting high into the air, no extra bedding, no extra limbs, no duplicate object, no morphing, no floating, no wall or bin penetration, no readable text, no label, no logo, no watermark. End with the cover fully supported by the bin and hold for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "床單被套不用自己扛下樓，先分件拍好",
+        "conflict": "完整折好的被套仍在長凳上，旁邊的收納箱是空的。",
+        "single_action": "同一隻成人手只把完整折好的被套從長凳水平推入低矮硬質收納箱，箱體全程不動。",
+        "payoff": "被套由硬質箱完整承托，件數與體積仍清楚可見。",
+        "cta": "分件拍好後，直接用 LINE 傳件數、區域與可配合時段。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "精確 9:16 固定直式中近景；前景是一件完整折好的暖米色棉質被套與舊木凳，中景是一個低矮、無提把、無品牌、開口寬的灰色硬質收納箱，中後景是有明確來源的暖色門口實用燈；單一前臂從畫面邊緣進入，手掌靠近被套側邊；混合日光與實用燈，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese pickup-preparation shot. Fixed medium-close camera. Exactly one complete folded warm-beige cotton duvet cover rests on a sturdy worn wooden bench beside exactly one low rigid open gray plastic laundry bin on the floor. The cover has one continuous dark-beige piping seam and ordinary wrinkles; the bin is plain, unbranded and has no handles. One adult forearm enters from the frame edge and performs one dominant action only: slide the whole folded duvet cover straight from the bench into the wide open rigid bin, then stop. The bin remains stationary and its rim stays visible; the fabric compresses slightly only at the contact edge. Preserve exactly one duvet cover, one rigid bin, one hand with five fingers, realistic weight, inertia and contact shadows. No flexible bag, no lifting high into the air, no extra bedding, no extra limbs, no duplicate object, no morphing, no floating, no wall or bin penetration, no readable text, no label, no logo, no watermark. End with the cover fully supported by the bin and hold for one second.",
+        "fallback_media_type": "carousel",
+        "generation_id": "sixiangjia_20260731_s02_bedding_rigid_bin_v01",
+        "repair_sources": [
+          {
+            "source_date": "2026-07-29",
+            "source_slot": 2
+          }
+        ]
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-07-31",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "mixed-carousel-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false,
+        "repair_sources": [
+          {
+            "source_date": "2026-07-29",
+            "source_slot": 2
+          }
+        ]
+      },
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
+      "views_target": 110,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理寢具分件與台中收送前怎麼準備。",
+      "seo_sync_page": "/services/taichung-citywide-laundry-pickup.html",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中棉被清洗",
+        "台中床單被套送洗",
+        "台中免費收送洗衣"
+      ],
+      "evidence_type": "pickup-logistics",
+      "ten_day_review_metric": "滿 72 小時後比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺值保留 null。",
+      "content_plan_source": "repair-queue-plus-daily-learning",
+      "local_image_path": "docs/assets/2026-07-31/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-07-31/slot-02.png",
+      "local_video_path": "docs/assets/2026-07-31/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-07-31/slot-02.mp4",
+      "status": "pending"
+    }
+  ]
+}

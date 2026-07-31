@@ -1,0 +1,179 @@
+{
+  "date": "2026-07-30",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-07-29T22:36:30.312Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "童鞋送洗前，鞋口內裡與鞋底邊要一起拍",
+      "format": "real-shop-photo",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "童鞋送洗前，鞋口內裡與鞋底邊要一起拍。孩子每天活動量大，最早累積痕跡的未必是鞋面。\n\n私享家洗衣店\n\n左右鞋並排看鞋口、鞋舌、後跟內裡與鞋底邊，確認磨損是否對稱、黏合處有沒有翹起，以及污痕集中在哪一側。\n\n不要只為了鞋底邊發黑就大力刷同一處，也不要自行拉扯已經翹起的黏合邊；保留原狀比較容易判斷。\n\n拍好左右鞋全貌、鞋口內裡、鞋底邊與尺寸標示後，直接私訊，讓我們先看狀態。\n\n你那雙白鞋放多久沒穿了？\n\n追蹤私享家，之後會持續整理童鞋內裡、磨損與黏合處的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #童鞋清潔 #鞋子保養",
+      "facebook_caption": "童鞋送洗前，鞋口內裡與鞋底邊要一起拍。孩子每天活動量大，最早累積痕跡的未必是鞋面。\n\n私享家洗衣店\n\n左右鞋並排看鞋口、鞋舌、後跟內裡與鞋底邊，確認磨損是否對稱、黏合處有沒有翹起，以及污痕集中在哪一側。\n\n不要只為了鞋底邊發黑就大力刷同一處，也不要自行拉扯已經翹起的黏合邊；保留原狀比較容易判斷。\n\n拍左右鞋全貌、鞋口內裡、鞋底邊與尺寸標示傳 LINE，讓我們先看狀態。\n\n你那雙白鞋放多久沒穿了？\n\n追蹤私享家，之後會持續整理童鞋內裡、磨損與黏合處的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #童鞋清潔 #鞋子保養",
+      "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 1 of 4. Present 童鞋送洗前，鞋口內裡與鞋底邊要一起拍 through exactly one paired set of two unbranded navy-and-warm-white child sneakers as the main close-up on a clean inspection counter. Keep both complete shoes readable, with continuous laces, tongues, soles and heel geometry, and do not imply a cleaning result.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 1 of 4. Present 童鞋送洗前，鞋口內裡與鞋底邊要一起拍 through exactly one paired set of two unbranded navy-and-warm-white child sneakers as the main close-up on a clean inspection counter. Keep both complete shoes readable, with continuous laces, tongues, soles and heel geometry, and do not imply a cleaning result.",
+          "local_image_path": "docs/assets/2026-07-30/slot-01.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 2 of 4. Show the same paired set of two child sneakers; one complete adult hand gently angles only the right shoe to reveal its opening and heel lining while the left shoe stays fully visible and stationary. Preserve five fingers, laces, tongues, seams, soles, object count and original condition.",
+          "local_image_path": "docs/assets/2026-07-30/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 3 of 4. Show the same paired set of two child sneakers fully supported on the counter while one harsh brush and one plain unlabeled chemical bottle are placed aside and not touching either shoe. Preserve both complete shoes and the same asymmetric wear marks. No cleaning action, warning symbol or transformation.",
+          "local_image_path": "docs/assets/2026-07-30/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 4 of 4. Show one plain smartphone photographing the same paired set of two child sneakers, with the right shoe opening and heel lining visible beside the complete left shoe. The phone screen may show the camera view but must contain no readable interface text.",
+          "local_image_path": "docs/assets/2026-07-30/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot about 童鞋. Fixed close camera with layered depth: exactly one paired set of unbranded sneakers in the foreground, the right shoe opening angled away from camera, a clean inspection tray in the midground, and one softly glowing practical lamp in the background. One adult hand performs one dominant action only: rotate only the right shoe about thirty degrees until its opening and heel lining face the camera; the left shoe remains stationary. Preserve exactly two shoes with complete laces, tongues, soles and heel geometry, five fingers, realistic weight and contact shadows. No cleaning transformation, no extra hands, no duplicate object, no morphing, no penetration, no readable text, no logo, no watermark. End on the revealed detail and hold for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "童鞋也可以送洗",
+        "conflict": "右腳鞋口仍朝側面，內裡與後跟位置第一眼看不完整。",
+        "single_action": "同一隻成人手只把右腳鞋旋轉約三十度，讓鞋口與後跟內裡朝向鏡頭；左腳鞋全程不動。",
+        "payoff": "先看材質、位置與原始狀態，再決定怎麼處理。",
+        "cta": "拍全貌、局部與洗標，點個人檔案連結加 LINE 先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式微距中近景；完整童鞋位於乾淨檢查台前景，檢查燈與收納托盤形成中後景層次；只有一隻手停在既有可動位置，物件數量、材質、縫線與接觸陰影清楚，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot about 童鞋. Fixed close camera with layered depth: exactly one paired set of unbranded sneakers in the foreground, the right shoe opening angled away from camera, a clean inspection tray in the midground, and one softly glowing practical lamp in the background. One adult hand performs one dominant action only: rotate only the right shoe about thirty degrees until its opening and heel lining face the camera; the left shoe remains stationary. Preserve exactly two shoes with complete laces, tongues, soles and heel geometry, five fingers, realistic weight and contact shadows. No cleaning transformation, no extra hands, no duplicate object, no morphing, no penetration, no readable text, no logo, no watermark. End on the revealed detail and hold for one second.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-07-30",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "views_target": 45,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理童鞋內裡、磨損與黏合處的送洗前判斷。",
+      "seo_sync_page": "/services/white-shoe-cleaning.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中白鞋清潔",
+        "台中洗鞋店",
+        "白鞋泛黃怎麼辦",
+        "鞋子淋雨怎麼處理"
+      ],
+      "evidence_type": "first-party-inspection",
+      "ten_day_review_metric": "每篇發布滿 72 小時後，比較非粉絲觸及、收藏、分享、LINE 點擊與預約；缺少資料時保留 null。每天固定一篇觸及內容、一篇證據或轉換內容。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-07-30/slot-01.png",
+      "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-01.png",
+      "local_video_path": "docs/assets/2026-07-30/slot-01.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-07-30/slot-01.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "孩子的鞋一次整理，家長不用再多跑一趟",
+      "format": "real-shop-photo",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "孩子的鞋一次整理，家長不用再多跑一趟。先分雙拍照，收送時比較不會混在一起。\n\n私享家洗衣店\n\n運動鞋、上學鞋與備用鞋同時要整理時，最容易漏掉的是左右鞋配對、尺寸與各自的在意位置。先分雙排好，比直接堆袋更清楚。\n\n私享家提供台中市全區免費收送，主要透過 LINE 預約。預約前先拍每一雙全貌、鞋底、內裡與所在區域。\n\n每雙拍好後，直接私訊傳雙數、區域與方便時段。\n\n你家最常送洗的是哪一件？\n\n住台中、又一直抽不出時間送洗的朋友，這篇傳給他最實用。\n\n追蹤私享家，之後會持續整理台中免費收送與家庭鞋類一次整理的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #童鞋清潔",
+      "facebook_caption": "孩子的鞋一次整理，家長不用再多跑一趟。先分雙拍照，收送時比較不會混在一起。\n\n私享家洗衣店\n\n運動鞋、上學鞋與備用鞋同時要整理時，最容易漏掉的是左右鞋配對、尺寸與各自的在意位置。先分雙排好，比直接堆袋更清楚。\n\n私享家提供台中市全區免費收送，主要透過 LINE 預約。預約前先拍每一雙全貌、鞋底、內裡與所在區域。\n\n把每雙照片、雙數與方便時段傳 LINE，我們再確認收送。\n\n你家最常送洗的是哪一件？\n\n住台中、又一直抽不出時間送洗的朋友，這篇傳給他最實用。\n\n追蹤私享家，之後會持續整理台中免費收送與家庭鞋類一次整理的實用方法。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #童鞋清潔",
+      "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 1 of 4. Present 孩子的鞋一次整理，家長不用再多跑一趟 with exactly one paired set of two unbranded navy-and-warm-white sneakers on a sturdy wooden bench beside one low-profile blue woven polypropylene laundry bag. Show both complete bag handles and all four attachment points; the bag is open and not overfilled.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 1 of 4. Present 孩子的鞋一次整理，家長不用再多跑一趟 with exactly one paired set of two unbranded navy-and-warm-white sneakers on a sturdy wooden bench beside one low-profile blue woven polypropylene laundry bag. Show both complete bag handles and all four attachment points; the bag is open and not overfilled.",
+          "local_image_path": "docs/assets/2026-07-30/slot-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-02.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 2 of 4. Show the same paired set of two sneakers and the same blue woven bag. One complete adult hand gently tilts only the left shoe tongue to expose the inner lining without readable label text. Preserve five fingers, laces, seams, both complete bag handles, all four attachment points and original condition.",
+          "local_image_path": "docs/assets/2026-07-30/slot-02-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-02-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 3 of 4. Show the same paired set of two sneakers neatly separated beside the same open blue woven bag instead of being forced inside. The bench fully supports both objects; preserve realistic shoe weight, contact shadows, both complete handles and all four attachment points.",
+          "local_image_path": "docs/assets/2026-07-30/slot-02-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-02-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. The object shows honest everyday use consistent with the topic - dust, scuffs, creases or slight discolouration where the topic describes them - and must not look brand new or freshly styled. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy, no boutique or showroom interior. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 4 of 4. Show one plain smartphone photographing the same paired set of two sneakers with the left shoe's inner lining visible and the same complete blue woven bag on the bench. Keep both complete handles and all four attachment points visible. The phone screen may show the camera view but must contain no readable interface text.",
+          "local_image_path": "docs/assets/2026-07-30/slot-02-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-02-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese apartment-entryway shot. Fixed close camera. A single adult hand holds one unbranded child sneaker above an open gray storage bag while its matching shoe remains alone on the floor mat. The hand performs one dominant action only: move the held shoe away from the bag and place it beside the matching shoe, toes aligned, completing the pair. The bag stays open and stationary. Preserve exactly two shoes, complete laces and tongues, five fingers, realistic weight and contact shadows. No child, no extra hands, no duplicated shoes, no morphing, no text, no logo, no watermark. End on the paired shoes and hold for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "先配對，再裝袋",
+        "conflict": "一隻童鞋正要被放進袋子，另一隻還單獨留在地墊上。",
+        "single_action": "同一隻成人手把手上的童鞋移回地墊，放到另一隻鞋旁完成左右配對。",
+        "payoff": "每雙先配對拍照，收送時不漏鞋、不混雙。",
+        "cta": "台中市全區免費收送；點個人檔案連結加 LINE 預約。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式玄關近景；地墊上只有一隻童鞋，另一隻由單一成人手拿在打開的灰色收納袋上方；鞋帶、鞋舌與提把固定點完整。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese apartment-entryway shot. Fixed close camera. A single adult hand holds one unbranded child sneaker above an open gray storage bag while its matching shoe remains alone on the floor mat. The hand performs one dominant action only: move the held shoe away from the bag and place it beside the matching shoe, toes aligned, completing the pair. The bag stays open and stationary. Preserve exactly two shoes, complete laces and tongues, five fingers, realistic weight and contact shadows. No child, no extra hands, no duplicated shoes, no morphing, no text, no logo, no watermark. End on the paired shoes and hold for one second.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-07-30",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
+      "views_target": 55,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理台中免費收送與家庭鞋類一次整理的實用方法。",
+      "seo_sync_page": "/services/taichung-citywide-laundry-pickup.html",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗衣收送",
+        "台中免費收送洗衣",
+        "台中到府收送洗衣",
+        "台中公司大量衣物送洗"
+      ],
+      "evidence_type": "pickup-logistics",
+      "ten_day_review_metric": "每篇發布滿 72 小時後，比較非粉絲觸及、收藏、分享、LINE 點擊與預約；缺少資料時保留 null。每天固定一篇觸及內容、一篇證據或轉換內容。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-07-30/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-07-30/slot-02.png",
+      "local_video_path": "docs/assets/2026-07-30/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-07-30/slot-02.mp4",
+      "status": "pending"
+    }
+  ]
+}
