@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-07-31T22:30:02.818Z",
+  "generated_at": "2026-08-01T11:54:18.970Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -1065,9 +1065,9 @@
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 9,
-    "posts_with_target_queries": 9,
-    "posts_with_evidence_type": 9
+    "posts_with_search_intent": 10,
+    "posts_with_target_queries": 10,
+    "posts_with_evidence_type": 10
   },
   "latest_date": "2026-08-01",
   "latest_posts": [
@@ -1077,24 +1077,24 @@
       "date_published": "2026-08-01T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-08-01 11:30 針織外套起毛球前，先看袖口與側腰摩擦區",
-      "topic": "針織外套起毛球前，先看袖口與側腰摩擦區",
-      "visual_route": "macro-detail",
-      "traffic_route": "dwell-detail",
+      "title": "2026-08-01 11:30 一雙鞋送洗前，先把鞋口與鞋頭對齊看",
+      "topic": "一雙鞋送洗前，先把鞋口與鞋頭對齊看",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "白鞋泛黃怎麼辦",
-        "鞋子淋雨怎麼處理"
+        "台中鞋子清洗",
+        "鞋子送洗前拍照",
+        "鞋頭磨痕",
+        "鞋口內裡"
       ],
-      "evidence_type": "first-party-inspection",
+      "evidence_type": "first-party-inspection-framing",
       "hashtags": [
         "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#針織外套",
-        "#毛球照護"
+        "#台中鞋子清洗",
+        "#鞋子送洗",
+        "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
@@ -1112,8 +1112,8 @@
       "video_url": "",
       "calendar_url": "https://39211.github.io/content-calendar/2026-08-01.json",
       "article_url": "https://39211.github.io/posts/2026-08-01-slot-01.html",
-      "facebook_caption": "針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。\n\n把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。\n\n不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。\n\n拍整件、袖口、側腰、勾紗近照與洗標傳 LINE，我們可以先看材質。\n\n你衣櫃裡放最久沒動的是什麼？\n\n追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護",
-      "instagram_caption": "針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。\n\n把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。\n\n不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。\n\n拍好整件、袖口、側腰、勾紗近照與洗標後，直接私訊，讓我們先看材質。\n\n你衣櫃裡放最久沒動的是什麼？\n\n追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護"
+      "facebook_caption": "一雙鞋送洗前，先把鞋口與鞋頭對齊看。左右腳擺歪時，鞋口內裡、鞋舌位置與鞋頭磨痕很容易看漏。\n\n私享家洗衣店\n\n把同一雙鞋平放在檢查台上，先拍整雙，再拍兩側鞋口、鞋舌與鞋頭。照片只用來確認原始狀態，不代表已完成清潔或修復。\n\n先別硬扭鞋身，也別拉扯鞋舌。拍好全貌和局部後，傳 LINE 讓我們先看材質與狀況。\n\n追蹤私享家，持續整理鞋子送洗前的拍照重點。\n\n#私享家洗衣店 #台中鞋子清洗 #鞋子送洗 #送洗前檢查",
+      "instagram_caption": "一雙鞋送洗前，先把鞋口與鞋頭對齊看。左右腳擺歪時，鞋口內裡、鞋舌位置與鞋頭磨痕很容易看漏。\n\n私享家洗衣店\n\n把同一雙鞋平放在檢查台上，先拍整雙，再拍兩側鞋口、鞋舌與鞋頭。照片只用來確認原始狀態，不代表已完成清潔或修復。\n\n先別硬扭鞋身，也別拉扯鞋舌。拍好全貌和局部後，直接傳 LINE 讓我們先看材質與狀況。\n\n追蹤私享家，持續整理鞋子送洗前的拍照重點。\n\n#私享家洗衣店 #台中鞋子清洗 #鞋子送洗 #送洗前檢查"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-02",
@@ -1121,19 +1121,24 @@
       "date_published": "2026-08-01T19:30:00+08:00",
       "slot": 2,
       "time": "19:30",
-      "title": "2026-08-01 19:30 白鞋泛黃，不是刷得不夠用力",
-      "topic": "白鞋泛黃，不是刷得不夠用力",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
+      "title": "2026-08-01 19:30 床包被套收送前，先確認是空的單層布套",
+      "topic": "床包被套收送前，先確認是空的單層布套",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
+      "search_intent": "local-service-conversion",
+      "target_queries": [
+        "台中棉被清洗",
+        "被套送洗",
+        "台中免費收送",
+        "床組 LINE 預約"
+      ],
+      "evidence_type": "first-party-item-intake-framing",
       "hashtags": [
         "#私享家洗衣店",
-        "#台中西屯洗衣店",
+        "#台中棉被清洗",
         "#台中免費收送",
-        "#洗護日常"
+        "#床組送洗"
       ],
       "platforms": [
         "facebook",
@@ -1141,15 +1146,18 @@
       ],
       "image_url": "https://39211.github.io/assets/2026-08-01/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/assets/2026-08-01/slot-02.png"
+        "https://39211.github.io/assets/2026-08-01/slot-02.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02-slide-02.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02-slide-03.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02-slide-04.png"
       ],
       "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://39211.github.io/assets/2026-08-01/slot-02.mp4",
+      "media_type": "image",
+      "video_url": "",
       "calendar_url": "https://39211.github.io/content-calendar/2026-08-01.json",
       "article_url": "https://39211.github.io/posts/2026-08-01-slot-02.html",
-      "facebook_caption": "白鞋泛黃，不是刷得不夠用力。\n\n私享家洗衣店\n\n白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
-      "instagram_caption": "白鞋泛黃，不是刷得不夠用力。\n\n私享家洗衣店\n\n白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+      "facebook_caption": "床包被套收送前，先確認是空的單層布套。薄布套和填充棉被看起來相近，但拍照時要把厚度、開口與是否有內容物拍清楚。\n\n私享家洗衣店\n\n先把同一件空的被套平放，拍完整外觀、單層布邊與開口，再確認裡面沒有棉芯、枕頭或其他衣物。照片是收送前的品項確認，不代表清潔結果。\n\n台中市全區可免費收送。拍好全貌與細節後，直接用 LINE 預約並說明件數。\n\n追蹤私享家，持續整理床組收送前的品項確認方法。\n\n#私享家洗衣店 #台中棉被清洗 #台中免費收送 #床組送洗",
+      "instagram_caption": "床包被套收送前，先確認是空的單層布套。薄布套和填充棉被看起來相近，但拍照時要把厚度、開口與是否有內容物拍清楚。\n\n私享家洗衣店\n\n先把同一件空的被套平放，拍完整外觀、單層布邊與開口，再確認裡面沒有棉芯、枕頭或其他衣物。照片是收送前的品項確認，不代表清潔結果。\n\n台中市全區可免費收送。拍好全貌與細節後，直接用 LINE 預約並說明件數。\n\n追蹤私享家，持續整理床組收送前的品項確認方法。\n\n#私享家洗衣店 #台中棉被清洗 #台中免費收送 #床組送洗"
     }
   ],
   "recent_posts": [
@@ -1159,19 +1167,24 @@
       "date_published": "2026-08-01T19:30:00+08:00",
       "slot": 2,
       "time": "19:30",
-      "title": "2026-08-01 19:30 白鞋泛黃，不是刷得不夠用力",
-      "topic": "白鞋泛黃，不是刷得不夠用力",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
+      "title": "2026-08-01 19:30 床包被套收送前，先確認是空的單層布套",
+      "topic": "床包被套收送前，先確認是空的單層布套",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
+      "search_intent": "local-service-conversion",
+      "target_queries": [
+        "台中棉被清洗",
+        "被套送洗",
+        "台中免費收送",
+        "床組 LINE 預約"
+      ],
+      "evidence_type": "first-party-item-intake-framing",
       "hashtags": [
         "#私享家洗衣店",
-        "#台中西屯洗衣店",
+        "#台中棉被清洗",
         "#台中免費收送",
-        "#洗護日常"
+        "#床組送洗"
       ],
       "platforms": [
         "facebook",
@@ -1179,15 +1192,18 @@
       ],
       "image_url": "https://39211.github.io/assets/2026-08-01/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/assets/2026-08-01/slot-02.png"
+        "https://39211.github.io/assets/2026-08-01/slot-02.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02-slide-02.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02-slide-03.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02-slide-04.png"
       ],
       "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://39211.github.io/assets/2026-08-01/slot-02.mp4",
+      "media_type": "image",
+      "video_url": "",
       "calendar_url": "https://39211.github.io/content-calendar/2026-08-01.json",
       "article_url": "https://39211.github.io/posts/2026-08-01-slot-02.html",
-      "facebook_caption": "白鞋泛黃，不是刷得不夠用力。\n\n私享家洗衣店\n\n白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
-      "instagram_caption": "白鞋泛黃，不是刷得不夠用力。\n\n私享家洗衣店\n\n白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+      "facebook_caption": "床包被套收送前，先確認是空的單層布套。薄布套和填充棉被看起來相近，但拍照時要把厚度、開口與是否有內容物拍清楚。\n\n私享家洗衣店\n\n先把同一件空的被套平放，拍完整外觀、單層布邊與開口，再確認裡面沒有棉芯、枕頭或其他衣物。照片是收送前的品項確認，不代表清潔結果。\n\n台中市全區可免費收送。拍好全貌與細節後，直接用 LINE 預約並說明件數。\n\n追蹤私享家，持續整理床組收送前的品項確認方法。\n\n#私享家洗衣店 #台中棉被清洗 #台中免費收送 #床組送洗",
+      "instagram_caption": "床包被套收送前，先確認是空的單層布套。薄布套和填充棉被看起來相近，但拍照時要把厚度、開口與是否有內容物拍清楚。\n\n私享家洗衣店\n\n先把同一件空的被套平放，拍完整外觀、單層布邊與開口，再確認裡面沒有棉芯、枕頭或其他衣物。照片是收送前的品項確認，不代表清潔結果。\n\n台中市全區可免費收送。拍好全貌與細節後，直接用 LINE 預約並說明件數。\n\n追蹤私享家，持續整理床組收送前的品項確認方法。\n\n#私享家洗衣店 #台中棉被清洗 #台中免費收送 #床組送洗"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-01",
@@ -1195,24 +1211,24 @@
       "date_published": "2026-08-01T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-08-01 11:30 針織外套起毛球前，先看袖口與側腰摩擦區",
-      "topic": "針織外套起毛球前，先看袖口與側腰摩擦區",
-      "visual_route": "macro-detail",
-      "traffic_route": "dwell-detail",
+      "title": "2026-08-01 11:30 一雙鞋送洗前，先把鞋口與鞋頭對齊看",
+      "topic": "一雙鞋送洗前，先把鞋口與鞋頭對齊看",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "白鞋泛黃怎麼辦",
-        "鞋子淋雨怎麼處理"
+        "台中鞋子清洗",
+        "鞋子送洗前拍照",
+        "鞋頭磨痕",
+        "鞋口內裡"
       ],
-      "evidence_type": "first-party-inspection",
+      "evidence_type": "first-party-inspection-framing",
       "hashtags": [
         "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#針織外套",
-        "#毛球照護"
+        "#台中鞋子清洗",
+        "#鞋子送洗",
+        "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
@@ -1230,8 +1246,8 @@
       "video_url": "",
       "calendar_url": "https://39211.github.io/content-calendar/2026-08-01.json",
       "article_url": "https://39211.github.io/posts/2026-08-01-slot-01.html",
-      "facebook_caption": "針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。\n\n把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。\n\n不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。\n\n拍整件、袖口、側腰、勾紗近照與洗標傳 LINE，我們可以先看材質。\n\n你衣櫃裡放最久沒動的是什麼？\n\n追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護",
-      "instagram_caption": "針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。\n\n把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。\n\n不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。\n\n拍好整件、袖口、側腰、勾紗近照與洗標後，直接私訊，讓我們先看材質。\n\n你衣櫃裡放最久沒動的是什麼？\n\n追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護"
+      "facebook_caption": "一雙鞋送洗前，先把鞋口與鞋頭對齊看。左右腳擺歪時，鞋口內裡、鞋舌位置與鞋頭磨痕很容易看漏。\n\n私享家洗衣店\n\n把同一雙鞋平放在檢查台上，先拍整雙，再拍兩側鞋口、鞋舌與鞋頭。照片只用來確認原始狀態，不代表已完成清潔或修復。\n\n先別硬扭鞋身，也別拉扯鞋舌。拍好全貌和局部後，傳 LINE 讓我們先看材質與狀況。\n\n追蹤私享家，持續整理鞋子送洗前的拍照重點。\n\n#私享家洗衣店 #台中鞋子清洗 #鞋子送洗 #送洗前檢查",
+      "instagram_caption": "一雙鞋送洗前，先把鞋口與鞋頭對齊看。左右腳擺歪時，鞋口內裡、鞋舌位置與鞋頭磨痕很容易看漏。\n\n私享家洗衣店\n\n把同一雙鞋平放在檢查台上，先拍整雙，再拍兩側鞋口、鞋舌與鞋頭。照片只用來確認原始狀態，不代表已完成清潔或修復。\n\n先別硬扭鞋身，也別拉扯鞋舌。拍好全貌和局部後，直接傳 LINE 讓我們先看材質與狀況。\n\n追蹤私享家，持續整理鞋子送洗前的拍照重點。\n\n#私享家洗衣店 #台中鞋子清洗 #鞋子送洗 #送洗前檢查"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-07-31.json#post-2026-07-31-slot-02",
@@ -4131,24 +4147,24 @@
       "date_published": "2026-08-01T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-08-01 11:30 針織外套起毛球前，先看袖口與側腰摩擦區",
-      "topic": "針織外套起毛球前，先看袖口與側腰摩擦區",
-      "visual_route": "macro-detail",
-      "traffic_route": "dwell-detail",
+      "title": "2026-08-01 11:30 一雙鞋送洗前，先把鞋口與鞋頭對齊看",
+      "topic": "一雙鞋送洗前，先把鞋口與鞋頭對齊看",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "白鞋泛黃怎麼辦",
-        "鞋子淋雨怎麼處理"
+        "台中鞋子清洗",
+        "鞋子送洗前拍照",
+        "鞋頭磨痕",
+        "鞋口內裡"
       ],
-      "evidence_type": "first-party-inspection",
+      "evidence_type": "first-party-inspection-framing",
       "hashtags": [
         "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#針織外套",
-        "#毛球照護"
+        "#台中鞋子清洗",
+        "#鞋子送洗",
+        "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
@@ -4166,8 +4182,8 @@
       "video_url": "",
       "calendar_url": "https://39211.github.io/content-calendar/2026-08-01.json",
       "article_url": "https://39211.github.io/posts/2026-08-01-slot-01.html",
-      "facebook_caption": "針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。\n\n把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。\n\n不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。\n\n拍整件、袖口、側腰、勾紗近照與洗標傳 LINE，我們可以先看材質。\n\n你衣櫃裡放最久沒動的是什麼？\n\n追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護",
-      "instagram_caption": "針織外套起毛球前，先看袖口與側腰摩擦區。毛球通常不是平均出現，而是先集中在反覆摩擦的位置。\n\n把外套平放，在斜光下比較袖口、腋下、側腰與背包接觸處的纖維是否開始蓬起，再一起確認織法、洗標與既有勾紗。\n\n不要直接用刀片削，也不要拉扯單顆凸起纖維；先分辨是表面毛羽、毛球還是已經勾紗。\n\n拍好整件、袖口、側腰、勾紗近照與洗標後，直接私訊，讓我們先看材質。\n\n你衣櫃裡放最久沒動的是什麼？\n\n追蹤私享家，之後會持續整理針織纖維、毛球與勾紗的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #針織外套 #毛球照護"
+      "facebook_caption": "一雙鞋送洗前，先把鞋口與鞋頭對齊看。左右腳擺歪時，鞋口內裡、鞋舌位置與鞋頭磨痕很容易看漏。\n\n私享家洗衣店\n\n把同一雙鞋平放在檢查台上，先拍整雙，再拍兩側鞋口、鞋舌與鞋頭。照片只用來確認原始狀態，不代表已完成清潔或修復。\n\n先別硬扭鞋身，也別拉扯鞋舌。拍好全貌和局部後，傳 LINE 讓我們先看材質與狀況。\n\n追蹤私享家，持續整理鞋子送洗前的拍照重點。\n\n#私享家洗衣店 #台中鞋子清洗 #鞋子送洗 #送洗前檢查",
+      "instagram_caption": "一雙鞋送洗前，先把鞋口與鞋頭對齊看。左右腳擺歪時，鞋口內裡、鞋舌位置與鞋頭磨痕很容易看漏。\n\n私享家洗衣店\n\n把同一雙鞋平放在檢查台上，先拍整雙，再拍兩側鞋口、鞋舌與鞋頭。照片只用來確認原始狀態，不代表已完成清潔或修復。\n\n先別硬扭鞋身，也別拉扯鞋舌。拍好全貌和局部後，直接傳 LINE 讓我們先看材質與狀況。\n\n追蹤私享家，持續整理鞋子送洗前的拍照重點。\n\n#私享家洗衣店 #台中鞋子清洗 #鞋子送洗 #送洗前檢查"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-01.json#post-2026-08-01-slot-02",
@@ -4175,19 +4191,24 @@
       "date_published": "2026-08-01T19:30:00+08:00",
       "slot": 2,
       "time": "19:30",
-      "title": "2026-08-01 19:30 白鞋泛黃，不是刷得不夠用力",
-      "topic": "白鞋泛黃，不是刷得不夠用力",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
+      "title": "2026-08-01 19:30 床包被套收送前，先確認是空的單層布套",
+      "topic": "床包被套收送前，先確認是空的單層布套",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
+      "search_intent": "local-service-conversion",
+      "target_queries": [
+        "台中棉被清洗",
+        "被套送洗",
+        "台中免費收送",
+        "床組 LINE 預約"
+      ],
+      "evidence_type": "first-party-item-intake-framing",
       "hashtags": [
         "#私享家洗衣店",
-        "#台中西屯洗衣店",
+        "#台中棉被清洗",
         "#台中免費收送",
-        "#洗護日常"
+        "#床組送洗"
       ],
       "platforms": [
         "facebook",
@@ -4195,15 +4216,18 @@
       ],
       "image_url": "https://39211.github.io/assets/2026-08-01/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/assets/2026-08-01/slot-02.png"
+        "https://39211.github.io/assets/2026-08-01/slot-02.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02-slide-02.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02-slide-03.png",
+        "https://39211.github.io/assets/2026-08-01/slot-02-slide-04.png"
       ],
       "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://39211.github.io/assets/2026-08-01/slot-02.mp4",
+      "media_type": "image",
+      "video_url": "",
       "calendar_url": "https://39211.github.io/content-calendar/2026-08-01.json",
       "article_url": "https://39211.github.io/posts/2026-08-01-slot-02.html",
-      "facebook_caption": "白鞋泛黃，不是刷得不夠用力。\n\n私享家洗衣店\n\n白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
-      "instagram_caption": "白鞋泛黃，不是刷得不夠用力。\n\n私享家洗衣店\n\n白鞋泛黃，問題常在中底和鞋邊。硬刷只會起毛，拍給我們先幫你判斷。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+      "facebook_caption": "床包被套收送前，先確認是空的單層布套。薄布套和填充棉被看起來相近，但拍照時要把厚度、開口與是否有內容物拍清楚。\n\n私享家洗衣店\n\n先把同一件空的被套平放，拍完整外觀、單層布邊與開口，再確認裡面沒有棉芯、枕頭或其他衣物。照片是收送前的品項確認，不代表清潔結果。\n\n台中市全區可免費收送。拍好全貌與細節後，直接用 LINE 預約並說明件數。\n\n追蹤私享家，持續整理床組收送前的品項確認方法。\n\n#私享家洗衣店 #台中棉被清洗 #台中免費收送 #床組送洗",
+      "instagram_caption": "床包被套收送前，先確認是空的單層布套。薄布套和填充棉被看起來相近，但拍照時要把厚度、開口與是否有內容物拍清楚。\n\n私享家洗衣店\n\n先把同一件空的被套平放，拍完整外觀、單層布邊與開口，再確認裡面沒有棉芯、枕頭或其他衣物。照片是收送前的品項確認，不代表清潔結果。\n\n台中市全區可免費收送。拍好全貌與細節後，直接用 LINE 預約並說明件數。\n\n追蹤私享家，持續整理床組收送前的品項確認方法。\n\n#私享家洗衣店 #台中棉被清洗 #台中免費收送 #床組送洗"
     }
   ]
 }
