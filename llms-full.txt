@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-08-01T22:30:03.851Z
+- Generated at: 2026-08-02T23:09:08.213Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -185,6 +185,8 @@
     "https://39211.github.io/assets/2026-07-31/slot-02.png",
     "https://39211.github.io/assets/2026-08-01/slot-01.png",
     "https://39211.github.io/assets/2026-08-01/slot-02.png",
+    "https://39211.github.io/assets/2026-08-02/slot-01.png",
+    "https://39211.github.io/assets/2026-08-02/slot-02.png",
     "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -2634,4 +2636,88 @@ Instagram caption:
 追蹤私享家，持續整理床組收送前的品項確認方法。
 
 #私享家洗衣店 #台中棉被清洗 #台中免費收送 #床組送洗
+
+### 2026-08-02 11:30 枕頭套有油痕時，枕套與枕芯要分開看
+
+- id: https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-01
+- published local time: 2026-08-02T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: dwell-detail
+- search_intent: problem-diagnosis
+- target_queries: 台中枕頭套清洗 | 枕套與枕芯怎麼分開拍 | 台中寢具送洗
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣
+- image: https://39211.github.io/assets/2026-08-02/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-08-02.json
+
+Facebook caption:
+
+枕頭套有油痕時，枕套與枕芯要分開看。
+
+私享家洗衣店
+
+同一組寢具，先把枕套取下，分別拍枕套正反面、開口與縫線，再補一張枕芯全貌；兩件物品的材質、結構與原始狀態才不會混在一起。
+
+拍好全貌與局部後，直接用 LINE 傳給我們先詢問。
+
+#私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣
+
+Instagram caption:
+
+枕頭套有油痕時，枕套與枕芯要分開看。
+
+私享家洗衣店
+
+同一組寢具，先把枕套取下，分別拍枕套正反面、開口與縫線，再補一張枕芯全貌；兩件物品的材質、結構與原始狀態才不會混在一起。
+
+拍好全貌與局部後，直接用 LINE 傳給我們先詢問。
+
+#私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣
+
+### 2026-08-02 19:30 包包最先變舊的地方，是提把
+
+- id: https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-02
+- published local time: 2026-08-02T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: pickup-logistics
+- target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中寢具送洗
+- evidence_type: pickup-logistics
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+- image: https://39211.github.io/assets/2026-08-02/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-08-02.json
+
+Facebook caption:
+
+包包最先變舊的地方，是提把。
+
+私享家洗衣店
+
+那不是灰塵，是手汗一天一天堆起來的。等到摸起來發黏，就比較難救了。
+
+有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。
+
+哪一件是你最不敢自己動手處理的？
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+
+Instagram caption:
+
+包包最先變舊的地方，是提把。
+
+私享家洗衣店
+
+那不是灰塵，是手汗一天一天堆起來的。等到摸起來發黏，就比較難救了。
+
+有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。
+
+哪一件是你最不敢自己動手處理的？
+
+身邊有人的包正在磨邊角嗎？這篇傳給他。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
 

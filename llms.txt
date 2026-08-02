@@ -92,6 +92,23 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-02 19:30 包包最先變舊的地方，是提把](https://39211.github.io/posts/2026-08-02-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
+  target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中寢具送洗
+  evidence_type: pickup-logistics
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+  image: https://39211.github.io/assets/2026-08-02/slot-02.png
+  video: https://39211.github.io/assets/2026-08-02/slot-02.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-02.json
+- [2026-08-02 11:30 枕頭套有油痕時，枕套與枕芯要分開看](https://39211.github.io/posts/2026-08-02-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=problem-diagnosis
+  target_queries: 台中枕頭套清洗 | 枕套與枕芯怎麼分開拍 | 台中寢具送洗
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣
+  image: https://39211.github.io/assets/2026-08-02/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-08-02.json
 - [2026-08-01 19:30 床包被套收送前，先確認是空的單層布套](https://39211.github.io/posts/2026-08-01-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=local-service-conversion

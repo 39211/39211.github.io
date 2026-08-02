@@ -136,6 +136,8 @@
         "https://39211.github.io/assets/2026-07-31/slot-02.png",
         "https://39211.github.io/assets/2026-08-01/slot-01.png",
         "https://39211.github.io/assets/2026-08-01/slot-02.png",
+        "https://39211.github.io/assets/2026-08-02/slot-01.png",
+        "https://39211.github.io/assets/2026-08-02/slot-02.png",
         "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -345,7 +347,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-08-01",
+      "dateModified": "2026-08-02",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -3533,6 +3535,70 @@
       "contentUrl": "https://39211.github.io/assets/2026-08-01/slot-02.png",
       "url": "https://39211.github.io/assets/2026-08-01/slot-02.png",
       "caption": "床包被套收送前，先確認是空的單層布套",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-01",
+      "headline": "2026-08-02 11:30 枕頭套有油痕時，枕套與枕芯要分開看",
+      "text": "枕頭套有油痕時，枕套與枕芯要分開看。\n\n私享家洗衣店\n\n同一組寢具，先把枕套取下，分別拍枕套正反面、開口與縫線，再補一張枕芯全貌；兩件物品的材質、結構與原始狀態才不會混在一起。\n\n拍好全貌與局部後，直接用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣",
+      "datePublished": "2026-08-02T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#枕頭套",
+        "#寢具整理",
+        "#台中洗衣"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-01:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-02/slot-01.png",
+      "url": "https://39211.github.io/assets/2026-08-02/slot-01.png",
+      "caption": "枕頭套有油痕時，枕套與枕芯要分開看",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-02",
+      "headline": "2026-08-02 19:30 包包最先變舊的地方，是提把",
+      "text": "包包最先變舊的地方，是提把。\n\n私享家洗衣店\n\n那不是灰塵，是手汗一天一天堆起來的。等到摸起來發黏，就比較難救了。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n哪一件是你最不敢自己動手處理的？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-08-02T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-02:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-02/slot-02.png",
+      "url": "https://39211.github.io/assets/2026-08-02/slot-02.png",
+      "caption": "包包最先變舊的地方，是提把",
       "inLanguage": "zh-Hant"
     }
   ]

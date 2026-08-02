@@ -1,0 +1,125 @@
+{
+  "date": "2026-08-02",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-08-01T22:35:17.935Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "枕頭套有油痕時，枕套與枕芯要分開看",
+      "format": "real-shop-photo",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "枕頭套有油痕時，枕套與枕芯要分開看。\n\n私享家洗衣店\n\n同一組寢具，先把枕套取下，分別拍枕套正反面、開口與縫線，再補一張枕芯全貌；兩件物品的材質、結構與原始狀態才不會混在一起。\n\n拍好全貌與局部後，直接用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣",
+      "facebook_caption": "枕頭套有油痕時，枕套與枕芯要分開看。\n\n私享家洗衣店\n\n同一組寢具，先把枕套取下，分別拍枕套正反面、開口與縫線，再補一張枕芯全貌；兩件物品的材質、結構與原始狀態才不會混在一起。\n\n拍好全貌與局部後，直接用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣",
+      "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty warm-white cotton standard pillowcase with one faded navy piping around its opening and exactly one plain off-white pillow insert behind it. Keep the same shallow pale-gray rigid inspection tray, the same two tiny repaired stitch marks 4 cm apart on the pillowcase lower-left seam, the same object geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic cotton microtexture, small creases, controlled asymmetry, believable weight and contact shadows, restrained handheld framing, ordinary shop wear. No person, no hands, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 1 of 4: full setup with the pillowcase opening facing camera and the pillow insert fully supported behind the tray; keep every object completely in frame.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty warm-white cotton standard pillowcase with one faded navy piping around its opening and exactly one plain off-white pillow insert behind it. Keep the same shallow pale-gray rigid inspection tray, the same two tiny repaired stitch marks 4 cm apart on the pillowcase lower-left seam, the same object geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic cotton microtexture, small creases, controlled asymmetry, believable weight and contact shadows, restrained handheld framing, ordinary shop wear. No person, no hands, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 1 of 4: full setup with the pillowcase opening facing camera and the pillow insert fully supported behind the tray; keep every object completely in frame.",
+          "local_image_path": "docs/assets/2026-08-02/slot-01.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-02/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty warm-white cotton standard pillowcase with one faded navy piping around its opening and exactly one plain off-white pillow insert behind it. Keep the same shallow pale-gray rigid inspection tray, the same two tiny repaired stitch marks 4 cm apart on the pillowcase lower-left seam, the same object geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic cotton microtexture, small creases, controlled asymmetry, believable weight and contact shadows, restrained handheld framing, ordinary shop wear. No person, no hands, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 2 of 4: medium-close view of the same pillowcase opening, faded navy piping and both repaired stitch marks; the same pillow insert remains fully visible behind it.",
+          "local_image_path": "docs/assets/2026-08-02/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-02/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty warm-white cotton standard pillowcase with one faded navy piping around its opening and exactly one plain off-white pillow insert behind it. Keep the same shallow pale-gray rigid inspection tray, the same two tiny repaired stitch marks 4 cm apart on the pillowcase lower-left seam, the same object geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic cotton microtexture, small creases, controlled asymmetry, believable weight and contact shadows, restrained handheld framing, ordinary shop wear. No person, no hands, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 3 of 4: a plain unmarked matte-gray inspection card lies partly across the front edge of the tray and visibly obscures a small portion of the pillowcase opening; all fabric and the pillow insert stay fixed and supported.",
+          "local_image_path": "docs/assets/2026-08-02/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-02/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty warm-white cotton standard pillowcase with one faded navy piping around its opening and exactly one plain off-white pillow insert behind it. Keep the same shallow pale-gray rigid inspection tray, the same two tiny repaired stitch marks 4 cm apart on the pillowcase lower-left seam, the same object geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic cotton microtexture, small creases, controlled asymmetry, believable weight and contact shadows, restrained handheld framing, ordinary shop wear. No person, no hands, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 4 of 4: the same plain inspection card now rests completely beside the tray, leaving the unchanged pillowcase opening, piping and repaired stitch marks unobstructed; the pillow insert remains in the same position.",
+          "local_image_path": "docs/assets/2026-08-02/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-02/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. In the first second show exactly one empty warm-white cotton pillowcase fixed in one shallow pale-gray rigid tray, with one plain matte-gray inspection card partly blocking its opening; exactly one plain pillow insert stays supported behind it. Fixed restrained medium-close camera, mixed 4500K practical ceiling light and cool window daylight from the left, realistic cotton microtexture, wear and contact shadows. One adult forearm enters from the right and performs one dominant action only: grip the card and slide it horizontally completely out of frame, then stop; the pillowcase, pillow insert and tray never move. Preserve exactly one pillowcase, one pillow insert, one tray and one card, preserve the exact seams, piping and geometry, preserve five fingers and plausible grip. No extra hands, no extra limbs, no duplicate object, no morphing, no penetration, no floating, no cleaning transformation, no readable text, no logo, no watermark. End on the unobstructed pillowcase opening and hold for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "枕套開口別被遮住",
+        "conflict": "灰色檢查卡遮住枕套開口，枕套與枕芯的原始狀態看不完整。",
+        "single_action": "同一隻成人手只把灰色檢查卡水平拉出畫面，枕套、枕芯與托盤全程固定不動。",
+        "payoff": "卡片離開後，枕套開口、滾邊與枕芯全貌同時清楚可見。",
+        "cta": "拍好全貌與局部，直接用 LINE 傳給我們先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式中近景；前景是托盤內的枕套與遮住部分開口的灰色卡片，中景是完整枕芯，中後景保留普通店內工作檯與受控不對稱生活痕跡；混合光源、接觸陰影、物件數量與幾何清楚，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. In the first second show exactly one empty warm-white cotton pillowcase fixed in one shallow pale-gray rigid tray, with one plain matte-gray inspection card partly blocking its opening; exactly one plain pillow insert stays supported behind it. Fixed restrained medium-close camera, mixed 4500K practical ceiling light and cool window daylight from the left, realistic cotton microtexture, wear and contact shadows. One adult forearm enters from the right and performs one dominant action only: grip the card and slide it horizontally completely out of frame, then stop; the pillowcase, pillow insert and tray never move. Preserve exactly one pillowcase, one pillow insert, one tray and one card, preserve the exact seams, piping and geometry, preserve five fingers and plausible grip. No extra hands, no extra limbs, no duplicate object, no morphing, no penetration, no floating, no cleaning transformation, no readable text, no logo, no watermark. End on the unobstructed pillowcase opening and hold for one second.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-08-02",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "views_target": 90,
+      "follower_target": 1,
+      "follow_cta": "用 LINE 傳全貌與局部，先讓我們看清楚物件狀態。",
+      "seo_sync_page": "/guides/bedding-duvet-cleaning.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中枕頭套清洗",
+        "枕套與枕芯怎麼分開拍",
+        "台中寢具送洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "ten_day_review_metric": "比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "daily-repair-informed-original",
+      "local_image_path": "docs/assets/2026-08-02/slot-01.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-02/slot-01.png",
+      "local_video_path": "docs/assets/2026-08-02/slot-01.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-02/slot-01.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "包包最先變舊的地方，是提把",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "包包最先變舊的地方，是提把。\n\n私享家洗衣店\n\n那不是灰塵，是手汗一天一天堆起來的。等到摸起來發黏，就比較難救了。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n哪一件是你最不敢自己動手處理的？\n\n身邊有人的包正在磨邊角嗎？這篇傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "facebook_caption": "包包最先變舊的地方，是提把。\n\n私享家洗衣店\n\n那不是灰塵，是手汗一天一天堆起來的。等到摸起來發黏，就比較難救了。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n哪一件是你最不敢自己動手處理的？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "image_prompt": "Reel cover still: one everyday unbranded handbag, the handle darkened and slightly glossy where it is gripped",
+      "video_prompt": "Animate the supplied image while preserving its exact composition, object placement, materials, surface wear, lighting direction and colour temperature. One restrained continuous action only: an extremely gentle push-in with slight natural handheld shake, as if held by a person. Keep every object in its original position and its original condition. Do not clean, repair, alter or transform the object. Do not add or remove anything. No hands in close-up and no finger detail. Do not add people, readable text, captions, logos, dialogue or music. No morphing, warping, flicker, jump cuts, sudden motion or collapsing geometry. Audio near-silent with only faint room tone. Natural restrained motion, stable first and final frames. Duration: 5 seconds. Aspect ratio: 9:16. Resolution: 720p.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "views_target": 110,
+      "follower_target": 1,
+      "follow_cta": "把照片、件數、區域與時段用 LINE 傳給我們確認收送。",
+      "seo_sync_page": "/services/taichung-citywide-laundry-pickup.html",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗衣收送",
+        "台中免費收送洗衣",
+        "台中寢具送洗"
+      ],
+      "evidence_type": "pickup-logistics",
+      "ten_day_review_metric": "比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "daily-repair-informed-original",
+      "local_image_path": "docs/assets/2026-08-02/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-02/slot-02.png",
+      "local_video_path": "docs/assets/2026-08-02/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-02/slot-02.mp4",
+      "status": "pending"
+    }
+  ]
+}
