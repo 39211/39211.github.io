@@ -92,6 +92,23 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-03 19:30 棉被收進櫃子前，先聞一下](https://39211.github.io/posts/2026-08-03-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
+  target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中到府收送洗衣 | 台中公司大量衣物送洗
+  evidence_type: pickup-logistics
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+  image: https://39211.github.io/assets/2026-08-03/slot-02.png
+  video: https://39211.github.io/assets/2026-08-03/slot-02.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-03.json
+- [2026-08-03 11:30 化妝包的粉痕，拉鍊邊與內袋縫線要一起看](https://39211.github.io/posts/2026-08-03-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=problem-diagnosis
+  target_queries: 台中洗鞋店 | 台中洗包包 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡
+  image: https://39211.github.io/assets/2026-08-03/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-08-03.json
 - [2026-08-02 19:30 包包最先變舊的地方，是提把](https://39211.github.io/posts/2026-08-02-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics

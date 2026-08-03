@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-02T23:09:08.213Z",
+  "generated_at": "2026-08-03T22:30:06.573Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -381,6 +381,8 @@
       "https://39211.github.io/assets/2026-08-01/slot-02.png",
       "https://39211.github.io/assets/2026-08-02/slot-01.png",
       "https://39211.github.io/assets/2026-08-02/slot-02.png",
+      "https://39211.github.io/assets/2026-08-03/slot-01.png",
+      "https://39211.github.io/assets/2026-08-03/slot-02.png",
       "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
       "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
       "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -1061,69 +1063,70 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 52,
-    "latest_date": "2026-08-02",
+    "post_count": 54,
+    "latest_date": "2026-08-03",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 12,
-    "posts_with_target_queries": 12,
-    "posts_with_evidence_type": 12
+    "posts_with_search_intent": 14,
+    "posts_with_target_queries": 14,
+    "posts_with_evidence_type": 14
   },
-  "latest_date": "2026-08-02",
+  "latest_date": "2026-08-03",
   "latest_posts": [
     {
-      "id": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-01",
-      "date": "2026-08-02",
-      "date_published": "2026-08-02T11:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-08-03.json#post-2026-08-03-slot-01",
+      "date": "2026-08-03",
+      "date_published": "2026-08-03T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-08-02 11:30 枕頭套有油痕時，枕套與枕芯要分開看",
-      "topic": "枕頭套有油痕時，枕套與枕芯要分開看",
-      "visual_route": "shop-inspection",
+      "title": "2026-08-03 11:30 化妝包的粉痕，拉鍊邊與內袋縫線要一起看",
+      "topic": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看",
+      "visual_route": "macro-detail",
       "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中枕頭套清洗",
-        "枕套與枕芯怎麼分開拍",
-        "台中寢具送洗"
+        "台中洗鞋店",
+        "台中洗包包",
+        "白鞋泛黃怎麼辦",
+        "鞋子淋雨怎麼處理"
       ],
       "evidence_type": "first-party-inspection",
       "hashtags": [
         "#私享家洗衣店",
-        "#枕頭套",
-        "#寢具整理",
-        "#台中洗衣"
+        "#台中西屯洗衣店",
+        "#化妝包清潔",
+        "#包包內裡"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/assets/2026-08-02/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-08-03/slot-01.png",
       "image_urls": [
-        "https://39211.github.io/assets/2026-08-02/slot-01.png",
-        "https://39211.github.io/assets/2026-08-02/slot-01-slide-02.png",
-        "https://39211.github.io/assets/2026-08-02/slot-01-slide-03.png",
-        "https://39211.github.io/assets/2026-08-02/slot-01-slide-04.png"
+        "https://39211.github.io/assets/2026-08-03/slot-01.png",
+        "https://39211.github.io/assets/2026-08-03/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-03/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-03/slot-01-slide-04.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-08-02.json",
-      "article_url": "https://39211.github.io/posts/2026-08-02-slot-01.html",
-      "facebook_caption": "枕頭套有油痕時，枕套與枕芯要分開看。\n\n私享家洗衣店\n\n同一組寢具，先把枕套取下，分別拍枕套正反面、開口與縫線，再補一張枕芯全貌；兩件物品的材質、結構與原始狀態才不會混在一起。\n\n拍好全貌與局部後，直接用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣",
-      "instagram_caption": "枕頭套有油痕時，枕套與枕芯要分開看。\n\n私享家洗衣店\n\n同一組寢具，先把枕套取下，分別拍枕套正反面、開口與縫線，再補一張枕芯全貌；兩件物品的材質、結構與原始狀態才不會混在一起。\n\n拍好全貌與局部後，直接用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣"
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-03.json",
+      "article_url": "https://39211.github.io/posts/2026-08-03-slot-01.html",
+      "facebook_caption": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看。鬆散粉末和已被摩擦進纖維的痕跡，處理方向不一樣。\n\n先把內容物全部取出，在自然光下看內裡底部、內袋縫線、拉鍊布邊與包角；確認粉痕是浮在表面，還是已集中在織紋與縫隙。\n\n不要直接把清潔液倒進包內，也不要為了拉鍊邊一小塊痕跡把整個內裡泡濕；先保留原狀拍照。\n\n拍全貌、內裡底部、拉鍊邊與材質標示傳 LINE，我們可以先看範圍。\n\n你最常背的那個包，哪裡先磨壞的？\n\n追蹤私享家，之後會持續整理化妝包內裡、粉痕與拉鍊邊的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡",
+      "instagram_caption": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看。鬆散粉末和已被摩擦進纖維的痕跡，處理方向不一樣。\n\n先把內容物全部取出，在自然光下看內裡底部、內袋縫線、拉鍊布邊與包角；確認粉痕是浮在表面，還是已集中在織紋與縫隙。\n\n不要直接把清潔液倒進包內，也不要為了拉鍊邊一小塊痕跡把整個內裡泡濕；先保留原狀拍照。\n\n拍好全貌、內裡底部、拉鍊邊與材質標示後，直接私訊，讓我們先看範圍。\n\n你最常背的那個包，哪裡先磨壞的？\n\n追蹤私享家，之後會持續整理化妝包內裡、粉痕與拉鍊邊的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡"
     },
     {
-      "id": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-02",
-      "date": "2026-08-02",
-      "date_published": "2026-08-02T19:30:00+08:00",
+      "id": "https://39211.github.io/content-calendar/2026-08-03.json#post-2026-08-03-slot-02",
+      "date": "2026-08-03",
+      "date_published": "2026-08-03T19:30:00+08:00",
       "slot": 2,
       "time": "19:30",
-      "title": "2026-08-02 19:30 包包最先變舊的地方，是提把",
-      "topic": "包包最先變舊的地方，是提把",
+      "title": "2026-08-03 19:30 棉被收進櫃子前，先聞一下",
+      "topic": "棉被收進櫃子前，先聞一下",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
@@ -1131,7 +1134,8 @@
       "target_queries": [
         "台中洗衣收送",
         "台中免費收送洗衣",
-        "台中寢具送洗"
+        "台中到府收送洗衣",
+        "台中公司大量衣物送洗"
       ],
       "evidence_type": "pickup-logistics",
       "hashtags": [
@@ -1144,20 +1148,105 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://39211.github.io/assets/2026-08-02/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-08-03/slot-02.png",
       "image_urls": [
-        "https://39211.github.io/assets/2026-08-02/slot-02.png"
+        "https://39211.github.io/assets/2026-08-03/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_url": "https://39211.github.io/assets/2026-08-02/slot-02.mp4",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-08-02.json",
-      "article_url": "https://39211.github.io/posts/2026-08-02-slot-02.html",
-      "facebook_caption": "包包最先變舊的地方，是提把。\n\n私享家洗衣店\n\n那不是灰塵，是手汗一天一天堆起來的。等到摸起來發黏，就比較難救了。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n哪一件是你最不敢自己動手處理的？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
-      "instagram_caption": "包包最先變舊的地方，是提把。\n\n私享家洗衣店\n\n那不是灰塵，是手汗一天一天堆起來的。等到摸起來發黏，就比較難救了。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n哪一件是你最不敢自己動手處理的？\n\n身邊有人的包正在磨邊角嗎？這篇傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+      "video_url": "https://39211.github.io/assets/2026-08-03/slot-02.mp4",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-03.json",
+      "article_url": "https://39211.github.io/posts/2026-08-03-slot-02.html",
+      "facebook_caption": "棉被收進櫃子前，先聞一下。\n\n私享家洗衣店\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季就是那個味道。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n你家的棉被大概多久整理一次？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "棉被收進櫃子前，先聞一下。\n\n私享家洗衣店\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季就是那個味道。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n你家的棉被大概多久整理一次？\n\n家裡那位總說「棉被還可以再放一下」的人，這篇可以轉給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-03.json#post-2026-08-03-slot-02",
+      "date": "2026-08-03",
+      "date_published": "2026-08-03T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-08-03 19:30 棉被收進櫃子前，先聞一下",
+      "topic": "棉被收進櫃子前，先聞一下",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗衣收送",
+        "台中免費收送洗衣",
+        "台中到府收送洗衣",
+        "台中公司大量衣物送洗"
+      ],
+      "evidence_type": "pickup-logistics",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-08-03/slot-02.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-03/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://39211.github.io/assets/2026-08-03/slot-02.mp4",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-03.json",
+      "article_url": "https://39211.github.io/posts/2026-08-03-slot-02.html",
+      "facebook_caption": "棉被收進櫃子前，先聞一下。\n\n私享家洗衣店\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季就是那個味道。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n你家的棉被大概多久整理一次？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "棉被收進櫃子前，先聞一下。\n\n私享家洗衣店\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季就是那個味道。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n你家的棉被大概多久整理一次？\n\n家裡那位總說「棉被還可以再放一下」的人，這篇可以轉給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-03.json#post-2026-08-03-slot-01",
+      "date": "2026-08-03",
+      "date_published": "2026-08-03T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-08-03 11:30 化妝包的粉痕，拉鍊邊與內袋縫線要一起看",
+      "topic": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋店",
+        "台中洗包包",
+        "白鞋泛黃怎麼辦",
+        "鞋子淋雨怎麼處理"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#化妝包清潔",
+        "#包包內裡"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-08-03/slot-01.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-03/slot-01.png",
+        "https://39211.github.io/assets/2026-08-03/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-03/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-03/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-03.json",
+      "article_url": "https://39211.github.io/posts/2026-08-03-slot-01.html",
+      "facebook_caption": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看。鬆散粉末和已被摩擦進纖維的痕跡，處理方向不一樣。\n\n先把內容物全部取出，在自然光下看內裡底部、內袋縫線、拉鍊布邊與包角；確認粉痕是浮在表面，還是已集中在織紋與縫隙。\n\n不要直接把清潔液倒進包內，也不要為了拉鍊邊一小塊痕跡把整個內裡泡濕；先保留原狀拍照。\n\n拍全貌、內裡底部、拉鍊邊與材質標示傳 LINE，我們可以先看範圍。\n\n你最常背的那個包，哪裡先磨壞的？\n\n追蹤私享家，之後會持續整理化妝包內裡、粉痕與拉鍊邊的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡",
+      "instagram_caption": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看。鬆散粉末和已被摩擦進纖維的痕跡，處理方向不一樣。\n\n先把內容物全部取出，在自然光下看內裡底部、內袋縫線、拉鍊布邊與包角；確認粉痕是浮在表面，還是已集中在織紋與縫隙。\n\n不要直接把清潔液倒進包內，也不要為了拉鍊邊一小塊痕跡把整個內裡泡濕；先保留原狀拍照。\n\n拍好全貌、內裡底部、拉鍊邊與材質標示後，直接私訊，讓我們先看範圍。\n\n你最常背的那個包，哪裡先磨壞的？\n\n追蹤私享家，之後會持續整理化妝包內裡、粉痕與拉鍊邊的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡"
+    },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-02.json#post-2026-08-02-slot-02",
       "date": "2026-08-02",
@@ -2273,78 +2362,6 @@
       "article_url": "https://39211.github.io/posts/2026-07-15-slot-01.html",
       "facebook_caption": "先看懂：外套領口袖口的日常油痕，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口袖口",
       "instagram_caption": "先看懂：外套領口袖口的日常油痕，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n遇到這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n有類似狀況時，先拍完整外觀、局部、邊角或洗標，再傳 LINE 讓我們初步看方向。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口袖口"
-    },
-    {
-      "id": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-02",
-      "date": "2026-07-14",
-      "date_published": "2026-07-14T19:30:00+08:00",
-      "slot": 2,
-      "time": "19:30",
-      "title": "2026-07-14 19:30 今天情境：暑假旅行回來先處理外套",
-      "topic": "今天情境：暑假旅行回來先處理外套",
-      "visual_route": "customer-consultation",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#旅行整理",
-        "#外套清洗"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://39211.github.io/assets/2026-07-14/slot-02.png",
-      "image_urls": [
-        "https://39211.github.io/assets/2026-07-14/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-14.json",
-      "article_url": "https://39211.github.io/posts/2026-07-14-slot-02.html",
-      "facebook_caption": "今天情境：暑假旅行回來先處理外套，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n暑假旅行回來先處理外套 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #旅行整理 #外套清洗",
-      "instagram_caption": "今天情境：暑假旅行回來先處理外套，用 15 秒看懂最容易被忽略的位置。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n暑假旅行回來先處理外套 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n#私享家洗衣店 #台中西屯洗衣店 #旅行整理 #外套清洗"
-    },
-    {
-      "id": "https://39211.github.io/content-calendar/2026-07-14.json#post-2026-07-14-slot-01",
-      "date": "2026-07-14",
-      "date_published": "2026-07-14T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-07-14 11:30 先看懂：深色衣服洗久變灰的判斷",
-      "topic": "先看懂：深色衣服洗久變灰的判斷",
-      "visual_route": "shop-inspection",
-      "traffic_route": "dwell-detail",
-      "content_role": "reach-answer",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#衣物保養",
-        "#深色衣物"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://39211.github.io/assets/2026-07-14/slot-01.png",
-      "image_urls": [
-        "https://39211.github.io/assets/2026-07-14/slot-01.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-07-14.json",
-      "article_url": "https://39211.github.io/posts/2026-07-14-slot-01.html",
-      "facebook_caption": "先看懂：深色衣服洗久變灰的判斷，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n深色衣服洗久變灰的判斷 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #衣物保養 #深色衣物",
-      "instagram_caption": "先看懂：深色衣服洗久變灰的判斷，重點不是急著洗，是先看材質、位置和狀態。\n\n私享家洗衣店\n\n衣物、寢具和居家布品在收納或常用之後，領口、袖口、縫線、厚布和內層位置通常比表面更早累積味道。\n\n深色衣服洗久變灰的判斷 這類狀況，我會先看材質、髒污停留的位置、是否有濕氣或異味，再判斷適合局部處理、整件整理，還是先保守觀察。\n\n如果你也有類似物件，可以先拍正面、近照、邊角、內裡或洗標，再傳 LINE 讓我們初步判斷。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #衣物保養 #深色衣物"
     }
   ],
   "published_posts": [
@@ -4319,6 +4336,91 @@
       "article_url": "https://39211.github.io/posts/2026-08-02-slot-02.html",
       "facebook_caption": "包包最先變舊的地方，是提把。\n\n私享家洗衣店\n\n那不是灰塵，是手汗一天一天堆起來的。等到摸起來發黏，就比較難救了。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n哪一件是你最不敢自己動手處理的？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
       "instagram_caption": "包包最先變舊的地方，是提把。\n\n私享家洗衣店\n\n那不是灰塵，是手汗一天一天堆起來的。等到摸起來發黏，就比較難救了。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n哪一件是你最不敢自己動手處理的？\n\n身邊有人的包正在磨邊角嗎？這篇傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-03.json#post-2026-08-03-slot-01",
+      "date": "2026-08-03",
+      "date_published": "2026-08-03T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-08-03 11:30 化妝包的粉痕，拉鍊邊與內袋縫線要一起看",
+      "topic": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋店",
+        "台中洗包包",
+        "白鞋泛黃怎麼辦",
+        "鞋子淋雨怎麼處理"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#化妝包清潔",
+        "#包包內裡"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-08-03/slot-01.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-03/slot-01.png",
+        "https://39211.github.io/assets/2026-08-03/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-03/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-03/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-03.json",
+      "article_url": "https://39211.github.io/posts/2026-08-03-slot-01.html",
+      "facebook_caption": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看。鬆散粉末和已被摩擦進纖維的痕跡，處理方向不一樣。\n\n先把內容物全部取出，在自然光下看內裡底部、內袋縫線、拉鍊布邊與包角；確認粉痕是浮在表面，還是已集中在織紋與縫隙。\n\n不要直接把清潔液倒進包內，也不要為了拉鍊邊一小塊痕跡把整個內裡泡濕；先保留原狀拍照。\n\n拍全貌、內裡底部、拉鍊邊與材質標示傳 LINE，我們可以先看範圍。\n\n你最常背的那個包，哪裡先磨壞的？\n\n追蹤私享家，之後會持續整理化妝包內裡、粉痕與拉鍊邊的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡",
+      "instagram_caption": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看。鬆散粉末和已被摩擦進纖維的痕跡，處理方向不一樣。\n\n先把內容物全部取出，在自然光下看內裡底部、內袋縫線、拉鍊布邊與包角；確認粉痕是浮在表面，還是已集中在織紋與縫隙。\n\n不要直接把清潔液倒進包內，也不要為了拉鍊邊一小塊痕跡把整個內裡泡濕；先保留原狀拍照。\n\n拍好全貌、內裡底部、拉鍊邊與材質標示後，直接私訊，讓我們先看範圍。\n\n你最常背的那個包，哪裡先磨壞的？\n\n追蹤私享家，之後會持續整理化妝包內裡、粉痕與拉鍊邊的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-03.json#post-2026-08-03-slot-02",
+      "date": "2026-08-03",
+      "date_published": "2026-08-03T19:30:00+08:00",
+      "slot": 2,
+      "time": "19:30",
+      "title": "2026-08-03 19:30 棉被收進櫃子前，先聞一下",
+      "topic": "棉被收進櫃子前，先聞一下",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗衣收送",
+        "台中免費收送洗衣",
+        "台中到府收送洗衣",
+        "台中公司大量衣物送洗"
+      ],
+      "evidence_type": "pickup-logistics",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-08-03/slot-02.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-03/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://39211.github.io/assets/2026-08-03/slot-02.mp4",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-03.json",
+      "article_url": "https://39211.github.io/posts/2026-08-03-slot-02.html",
+      "facebook_caption": "棉被收進櫃子前，先聞一下。\n\n私享家洗衣店\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季就是那個味道。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n你家的棉被大概多久整理一次？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "棉被收進櫃子前，先聞一下。\n\n私享家洗衣店\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季就是那個味道。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n你家的棉被大概多久整理一次？\n\n家裡那位總說「棉被還可以再放一下」的人，這篇可以轉給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
     }
   ]
 }
