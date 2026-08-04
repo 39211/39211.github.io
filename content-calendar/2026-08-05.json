@@ -1,0 +1,127 @@
+{
+  "date": "2026-08-05",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-07-28T14:32:03.228Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "先看懂：運動衣汗味與彈性纖維",
+      "format": "image-post",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "運動衣摸起來乾，不代表領口內側真的乾透。\n\n私享家洗衣店\n\n汗味和濕氣常停在領口、腋下與彈性纖維較厚的布邊。外觀看起來沒事，收進櫃子後才發現味道又回來，通常是裡層狀態還沒看清楚。\n\n送洗前先拍整件、問題位置和洗標。點個人檔案連結加 LINE，把照片傳給我們先看；台中市全區免費收送。\n\n你的運動衣最容易卡味道的是領口，還是腋下？\n\n#私享家洗衣店 #台中西屯洗衣店 #運動衣送洗 #台中免費收送",
+      "facebook_caption": "運動衣摸起來乾，不代表領口內側真的乾透。\n\n私享家洗衣店\n\n汗味和濕氣常停在領口、腋下與彈性纖維較厚的布邊。外觀看起來沒事，收進櫃子後才發現味道又回來，通常是裡層狀態還沒看清楚。\n\n送洗前先拍整件、問題位置和洗標，把照片傳 LINE 讓我們先看；台中市全區免費收送。\n\n你的運動衣最容易卡味道的是領口，還是腋下？\n\n#私享家洗衣店 #台中西屯洗衣店 #運動衣送洗 #台中免費收送",
+      "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 1 of 4. Present 運動衣汗味與彈性纖維 through exactly one complete 衣物 item as the main close-up on a clean inspection counter. Keep the entire object readable and do not imply a cleaning result.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 1 of 4. Present 運動衣汗味與彈性纖維 through exactly one complete 衣物 item as the main close-up on a clean inspection counter. Keep the entire object readable and do not imply a cleaning result.",
+          "local_image_path": "docs/assets/2026-08-05/slot-01.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-05/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 2 of 4. Show the same complete 衣物 item's material and affected area being inspected closely by one complete adult hand. Preserve five fingers, seams, edges, object count and original condition.",
+          "local_image_path": "docs/assets/2026-08-05/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-05/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 3 of 4. Show the same complete 衣物 item handled conservatively while one harsh brush and one chemical bottle are placed aside and not touching it. No cleaning action, warning symbol or transformation.",
+          "local_image_path": "docs/assets/2026-08-05/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-05/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one portrait 4:5 photo that looks taken on a phone inside an ordinary Taiwanese laundry shop. Keep the exact featured object consistent across all four photos, with natural material texture, believable weight and contact shadows, and everyday shop surroundings. Handheld framing with slight imperfection, fluorescent ceiling light mixed with daylight. Not editorial, not cinematic, not studio lighting, not glossy. No poster layout, no graphic panel, no readable text, no logo, no address, no phone number, no watermark. Photo 4 of 4. Show one phone photographing the same complete 衣物 item, with one relevant close-up and the care label or lining also visible. The phone screen may show the camera view but must contain no readable interface text.",
+          "local_image_path": "docs/assets/2026-08-05/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-05/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 9.67-second 9:16 photorealistic Taiwanese laundry inspection-counter Reel in the established 2026-07-29 Sixiangjia style. Use the same dark charcoal athletic shirt and the same folded-in collar from the supplied first frame. Start with a natural full collar view, make one restrained slow push-in, dissolve once into a slightly tighter collar detail, then hold. Preserve exactly one garment, its fabric weave, seams, fold, counter, background, lighting direction and contact shadows. No hands, people, extra objects, cleaning transformation, stain removal, morphing, geometry drift, penetration, readable text, logos or watermarks. Grok audio is discarded; final audio is independent zh-TW TTS. Burn in only two safe-area lines in post: first 運動衣摸起來乾，不代表內側真的乾透 and then 拍全貌、問題位置和洗標，LINE 先詢問. End on the unchanged collar detail.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "運動衣也可以送洗",
+        "conflict": "運動衣的領口或布邊仍折在內側，接觸皮膚的位置第一眼看不完整。",
+        "single_action": "同一隻成人手只掀開運動衣的一個既有領口或布邊，露出內側後停住。",
+        "payoff": "先看材質、位置與原始狀態，再決定怎麼處理。",
+        "cta": "拍全貌、局部與洗標，點個人檔案連結加 LINE 先詢問。",
+        "duration_seconds": 9.67,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式微距中近景；完整運動衣位於乾淨檢查台前景，檢查燈與收納托盤形成中後景層次；只有一隻手停在既有可動位置，物件數量、材質、縫線與接觸陰影清楚，無文字。",
+        "grok_motion_prompt": "Create two continuous 5-second 9:16 photorealistic Taiwanese laundry inspection-counter shots in the established 2026-07-29 Sixiangjia style, using the same dark charcoal athletic shirt and folded-in collar from the supplied first frame. Shot one is a restrained slow push-in on the full collar; shot two changes only to a slightly tighter collar detail with another restrained push-in. Preserve exactly one garment, its fabric weave, seams, fold, counter, lighting direction and contact shadows. No hands, people, extra objects, cleaning transformation, stain removal, morphing, geometry drift, penetration, readable text, logos or watermarks. No speech or music in the generated clips; final audio is independent zh-TW TTS. End on the unchanged collar detail.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-07-29",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "views_target": 90,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。",
+      "seo_sync_page": "/services/fabric-storage.html",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中棉被清洗",
+        "台中床組清洗",
+        "鞋子淋雨後怎麼收",
+        "棉被收納前要洗嗎"
+      ],
+      "evidence_type": "customer-question",
+      "ten_day_review_metric": "比較 image-post、carousel-guide、reel 的停留、分享、LINE 點擊與預約；同步檢查 GSC、Bing 與 AI 問題面板中的曝光、品牌提及和引用網址。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-08-05/slot-01.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-05/slot-01.png",
+      "local_video_path": "docs/assets/2026-08-05/slot-01.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-05/slot-01.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "化妝包最會藏粉痕的，不是正面，是拉鍊邊",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "化妝包最會藏粉痕的，不是正面，是拉鍊邊。\n\n私享家洗衣店\n\n粉底、蜜粉和每天開闔留下的接觸痕，常會停在拉鍊布邊、轉角和內袋縫線。表面看起來還好，靠近才會看見那些細小殘痕。\n\n送洗前先拍完整外觀，再補一張拉鍊邊或內袋近照。點個人檔案連結加 LINE，把照片傳給我們先看；台中市全區免費收送。\n\n你的化妝包，最容易留下粉痕的是拉鍊邊，還是內袋角落？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #化妝包送洗",
+      "facebook_caption": "化妝包最會藏粉痕的，不是正面，是拉鍊邊。\n\n私享家洗衣店\n\n粉底、蜜粉和每天開闔留下的接觸痕，常會停在拉鍊布邊、轉角和內袋縫線。表面看起來還好，靠近才會看見那些細小殘痕。\n\n送洗前先拍完整外觀，再補一張拉鍊邊或內袋近照，把照片傳 LINE 讓我們先看；台中市全區免費收送。\n\n你的化妝包，最容易留下粉痕的是拉鍊邊，還是內袋角落？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #化妝包送洗",
+      "image_prompt": "Reel cover still in the 2026-07-29 published style: one unbranded taupe pebbled makeup pouch on an off-white inspection counter inside an ordinary Taiwanese laundry shop. Extreme phone close-up of the zipper edge and corner with small powder traces, muted practical lighting, blue-grey shop storage softly out of focus. No people, hands, logo, readable text, cleaning action or transformation.",
+      "video_prompt": "2026-07-29 published-style two-shot makeup-pouch Reel. Preserve one identical unbranded taupe pebbled makeup pouch, the same zipper, pull, seams, powder traces, counter, background and practical lighting. Shot A shows the pouch body and zipper edge with an extremely gentle push-in and slight natural handheld movement. Shot B is a tighter inspection view of the same zipper edge and seam with the same restrained motion. Join the two five-second shots with a 0.4-second dissolve. Do not clean, repair, transform, add or remove anything. No people, hands, extra props, readable generated text, logos, morphing, warping, flicker, jump cuts or collapsing geometry. Grok-generated clip audio is excluded; independent Traditional Chinese narration is added in post. Final output 9:16, 720x1280, 24 fps, approximately 9.67 seconds.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "views_target": 110,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，節日前後的送洗提醒會先幫你排好。",
+      "seo_sync_page": "/guides/shirt-suit-dry-cleaning.html",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中西裝乾洗",
+        "台中襯衫清洗",
+        "鞋子淋雨後怎麼收",
+        "棉被收納前要洗嗎"
+      ],
+      "evidence_type": "customer-question",
+      "ten_day_review_metric": "比較 image-post、carousel-guide、reel 的停留、分享、LINE 點擊與預約；同步檢查 GSC、Bing 與 AI 問題面板中的曝光、品牌提及和引用網址。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-08-05/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-05/slot-02.png",
+      "local_video_path": "docs/assets/2026-08-05/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-05/slot-02.mp4",
+      "status": "pending"
+    }
+  ]
+}

@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-08-03T22:30:06.573Z
+- Generated at: 2026-08-04T22:30:04.730Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -189,6 +189,10 @@
     "https://39211.github.io/assets/2026-08-02/slot-02.png",
     "https://39211.github.io/assets/2026-08-03/slot-01.png",
     "https://39211.github.io/assets/2026-08-03/slot-02.png",
+    "https://39211.github.io/assets/2026-08-04/slot-01.png",
+    "https://39211.github.io/assets/2026-08-04/slot-02.png",
+    "https://39211.github.io/assets/2026-08-05/slot-01.png",
+    "https://39211.github.io/assets/2026-08-05/slot-02.png",
     "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -2814,4 +2818,174 @@ Instagram caption:
 家裡那位總說「棉被還可以再放一下」的人，這篇可以轉給他。
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+
+### 2026-08-04 11:30 化妝包粉痕先看內袋縫線
+
+- id: https://39211.github.io/content-calendar/2026-08-04.json#post-2026-08-04-slot-01
+- published local time: 2026-08-04T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: dwell-detail
+- search_intent: problem-diagnosis
+- target_queries: 台中化妝包清潔 | 化妝包粉痕 | 台中洗包包
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #化妝包 #包包內裡 #台中洗衣
+- image: https://39211.github.io/assets/2026-08-04/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-08-04.json
+
+Facebook caption:
+
+化妝包有粉痕時，先把內袋縫線完整露出來。
+
+私享家洗衣店
+
+先清空內容物，只記錄原始狀態：拍完整外觀、內裡底部、拉鍊布邊與內袋縫線；不要讓卡片或內容物遮住縫線，也不要在拍照前加入清潔液。
+
+拍好全貌與局部，直接用 LINE 傳給我們先詢問。
+
+#私享家洗衣店 #化妝包 #包包內裡 #台中洗衣
+
+Instagram caption:
+
+化妝包有粉痕時，先把內袋縫線完整露出來。
+
+私享家洗衣店
+
+先清空內容物，只記錄原始狀態：拍完整外觀、內裡底部、拉鍊布邊與內袋縫線；不要讓卡片或內容物遮住縫線，也不要在拍照前加入清潔液。
+
+拍好全貌與局部，直接用 LINE 傳給我們先詢問。
+
+#私享家洗衣店 #化妝包 #包包內裡 #台中洗衣
+
+### 2026-08-04 19:30 襯衫領口發黃，洗衣精加倍沒有用
+
+- id: https://39211.github.io/content-calendar/2026-08-04.json#post-2026-08-04-slot-02
+- published local time: 2026-08-04T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: pickup-logistics
+- target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中被套送洗
+- evidence_type: pickup-logistics
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+- image: https://39211.github.io/assets/2026-08-04/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-08-04.json
+
+Facebook caption:
+
+襯衫領口發黃，洗衣精加倍沒有用。
+
+私享家洗衣店
+
+那不是沒洗乾淨，是皮脂氧化了。加倍的洗衣精只會把布洗薄。
+
+有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+
+Instagram caption:
+
+襯衫領口發黃，洗衣精加倍沒有用。
+
+私享家洗衣店
+
+那不是沒洗乾淨，是皮脂氧化了。加倍的洗衣精只會把布洗薄。
+
+有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+
+### 2026-08-05 11:30 先看懂：運動衣汗味與彈性纖維
+
+- id: https://39211.github.io/content-calendar/2026-08-05.json#post-2026-08-05-slot-01
+- published local time: 2026-08-05T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: value-prop-lead
+- search_intent: aftercare
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #運動衣送洗 #台中免費收送
+- image: https://39211.github.io/assets/2026-08-05/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-08-05.json
+
+Facebook caption:
+
+運動衣摸起來乾，不代表領口內側真的乾透。
+
+私享家洗衣店
+
+汗味和濕氣常停在領口、腋下與彈性纖維較厚的布邊。外觀看起來沒事，收進櫃子後才發現味道又回來，通常是裡層狀態還沒看清楚。
+
+送洗前先拍整件、問題位置和洗標，把照片傳 LINE 讓我們先看；台中市全區免費收送。
+
+你的運動衣最容易卡味道的是領口，還是腋下？
+
+#私享家洗衣店 #台中西屯洗衣店 #運動衣送洗 #台中免費收送
+
+Instagram caption:
+
+運動衣摸起來乾，不代表領口內側真的乾透。
+
+私享家洗衣店
+
+汗味和濕氣常停在領口、腋下與彈性纖維較厚的布邊。外觀看起來沒事，收進櫃子後才發現味道又回來，通常是裡層狀態還沒看清楚。
+
+送洗前先拍整件、問題位置和洗標。點個人檔案連結加 LINE，把照片傳給我們先看；台中市全區免費收送。
+
+你的運動衣最容易卡味道的是領口，還是腋下？
+
+#私享家洗衣店 #台中西屯洗衣店 #運動衣送洗 #台中免費收送
+
+### 2026-08-05 19:30 化妝包最會藏粉痕的，不是正面，是拉鍊邊
+
+- id: https://39211.github.io/content-calendar/2026-08-05.json#post-2026-08-05-slot-02
+- published local time: 2026-08-05T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: aftercare
+- target_queries: 台中西裝乾洗 | 台中襯衫清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #化妝包送洗
+- image: https://39211.github.io/assets/2026-08-05/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-08-05.json
+
+Facebook caption:
+
+化妝包最會藏粉痕的，不是正面，是拉鍊邊。
+
+私享家洗衣店
+
+粉底、蜜粉和每天開闔留下的接觸痕，常會停在拉鍊布邊、轉角和內袋縫線。表面看起來還好，靠近才會看見那些細小殘痕。
+
+送洗前先拍完整外觀，再補一張拉鍊邊或內袋近照，把照片傳 LINE 讓我們先看；台中市全區免費收送。
+
+你的化妝包，最容易留下粉痕的是拉鍊邊，還是內袋角落？
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #化妝包送洗
+
+Instagram caption:
+
+化妝包最會藏粉痕的，不是正面，是拉鍊邊。
+
+私享家洗衣店
+
+粉底、蜜粉和每天開闔留下的接觸痕，常會停在拉鍊布邊、轉角和內袋縫線。表面看起來還好，靠近才會看見那些細小殘痕。
+
+送洗前先拍完整外觀，再補一張拉鍊邊或內袋近照。點個人檔案連結加 LINE，把照片傳給我們先看；台中市全區免費收送。
+
+你的化妝包，最容易留下粉痕的是拉鍊邊，還是內袋角落？
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #化妝包送洗
 

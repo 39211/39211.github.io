@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-04",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-08-03T22:37:15.642Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "化妝包粉痕先看內袋縫線",
+      "format": "mixed-carousel",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "化妝包有粉痕時，先把內袋縫線完整露出來。\n\n私享家洗衣店\n\n先清空內容物，只記錄原始狀態：拍完整外觀、內裡底部、拉鍊布邊與內袋縫線；不要讓卡片或內容物遮住縫線，也不要在拍照前加入清潔液。\n\n拍好全貌與局部，直接用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #化妝包 #包包內裡 #台中洗衣",
+      "facebook_caption": "化妝包有粉痕時，先把內袋縫線完整露出來。\n\n私享家洗衣店\n\n先清空內容物，只記錄原始狀態：拍完整外觀、內裡底部、拉鍊布邊與內袋縫線；不要讓卡片或內容物遮住縫線，也不要在拍照前加入清潔液。\n\n拍好全貌與局部，直接用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #化妝包 #包包內裡 #台中洗衣",
+      "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty rectangular dusty-rose woven-canvas makeup pouch with one matte-black zipper, one pale-gray cotton lining, one rectangular inner pocket, and exactly two short beige repair stitches 4 cm apart on the lower-right inner-pocket seam. Keep the same pouch, zipper, lining, pocket, stitches, shallow blue-gray rigid inspection tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture, slight abrasion, controlled asymmetry, believable weight and contact shadows, restrained handheld framing and ordinary shop wear. No person, no hands, no cosmetics, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 1 of 4: show the complete open pouch fully supported in the tray, with the lining, inner pocket and both stitches unobstructed and every edge in frame.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty rectangular dusty-rose woven-canvas makeup pouch with one matte-black zipper, one pale-gray cotton lining, one rectangular inner pocket, and exactly two short beige repair stitches 4 cm apart on the lower-right inner-pocket seam. Keep the same pouch, zipper, lining, pocket, stitches, shallow blue-gray rigid inspection tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture, slight abrasion, controlled asymmetry, believable weight and contact shadows, restrained handheld framing and ordinary shop wear. No person, no hands, no cosmetics, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 1 of 4: show the complete open pouch fully supported in the tray, with the lining, inner pocket and both stitches unobstructed and every edge in frame.",
+          "local_image_path": "docs/assets/2026-08-04/slot-01.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-04/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty rectangular dusty-rose woven-canvas makeup pouch with one matte-black zipper, one pale-gray cotton lining, one rectangular inner pocket, and exactly two short beige repair stitches 4 cm apart on the lower-right inner-pocket seam. Keep the same pouch, zipper, lining, pocket, stitches, shallow blue-gray rigid inspection tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture, slight abrasion, controlled asymmetry, believable weight and contact shadows, restrained handheld framing and ordinary shop wear. No person, no hands, no cosmetics, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 2 of 4: medium-close view of the same inner pocket, both beige stitches and matte-black zipper while the complete pouch remains supported and readable.",
+          "local_image_path": "docs/assets/2026-08-04/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-04/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty rectangular dusty-rose woven-canvas makeup pouch with one matte-black zipper, one pale-gray cotton lining, one rectangular inner pocket, and exactly two short beige repair stitches 4 cm apart on the lower-right inner-pocket seam. Keep the same pouch, zipper, lining, pocket, stitches, shallow blue-gray rigid inspection tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture, slight abrasion, controlled asymmetry, believable weight and contact shadows, restrained handheld framing and ordinary shop wear. No person, no hands, no cosmetics, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 3 of 4: one plain unmarked matte-gray inspection card sits in a rigid horizontal side rail at the tray edge and blocks only the lower part of the inner-pocket seam; the pouch never changes position.",
+          "local_image_path": "docs/assets/2026-08-04/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-04/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one empty rectangular dusty-rose woven-canvas makeup pouch with one matte-black zipper, one pale-gray cotton lining, one rectangular inner pocket, and exactly two short beige repair stitches 4 cm apart on the lower-right inner-pocket seam. Keep the same pouch, zipper, lining, pocket, stitches, shallow blue-gray rigid inspection tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture, slight abrasion, controlled asymmetry, believable weight and contact shadows, restrained handheld framing and ordinary shop wear. No person, no hands, no cosmetics, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 4 of 4: the same inspection card now rests completely beside the tray after a horizontal exit, leaving the unchanged inner-pocket seam and both stitches unobstructed; preserve the exact pouch position.",
+          "local_image_path": "docs/assets/2026-08-04/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-04/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. In the first second show exactly one empty rectangular dusty-rose woven-canvas makeup pouch fixed open in one shallow blue-gray rigid tray, with one plain matte-gray inspection card captured inside one rigid horizontal side rail and partly blocking the lower inner-pocket seam. Fixed restrained medium-close camera, mixed 4500K practical ceiling light and cool window daylight from the left, realistic woven microtexture, slight wear and contact shadows. One adult forearm enters from the right and performs one dominant action only: grip the card and slide it horizontally along the rigid rail completely out of frame, then stop; the pouch, zipper, lining, inner pocket and tray never move. Preserve exactly one pouch, one zipper, one inner pocket, one tray, one rail and one card; preserve the exact seams, two beige stitches and geometry; preserve five fingers and plausible grip. No extra hands, no extra limbs, no duplicate object, no morphing, no penetration, no floating, no rotation, no cleaning transformation, no readable text, no logo, no watermark. End on the unobstructed inner-pocket seam and hold for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "generation_id": "sixiangjia_20260804_s01_makeup_pouch_guided_card_exit_v01",
+        "memory_hook": "化妝包內袋縫線露出來",
+        "conflict": "灰色檢查卡遮住化妝包內袋下緣，兩個修補針腳與原始粉痕範圍看不完整。",
+        "single_action": "同一隻成人手只把卡片沿剛性水平導軌完全拉出畫面，化妝包、內袋與托盤全程固定。",
+        "payoff": "卡片離開後，內袋縫線與兩個針腳同時完整可見，沒有清潔前後轉換。",
+        "cta": "拍好全貌與局部，直接用 LINE 傳給我們先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式中近景；前景是剛性托盤導軌內的灰色卡片，中景是完整打開的化妝包與內袋縫線，中後景保留普通店內工作檯與受控不對稱生活痕跡；混合光源、接觸陰影與物件幾何清楚，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. In the first second show exactly one empty rectangular dusty-rose woven-canvas makeup pouch fixed open in one shallow blue-gray rigid tray, with one plain matte-gray inspection card captured inside one rigid horizontal side rail and partly blocking the lower inner-pocket seam. Fixed restrained medium-close camera, mixed 4500K practical ceiling light and cool window daylight from the left, realistic woven microtexture, slight wear and contact shadows. One adult forearm enters from the right and performs one dominant action only: grip the card and slide it horizontally along the rigid rail completely out of frame, then stop; the pouch, zipper, lining, inner pocket and tray never move. Preserve exactly one pouch, one zipper, one inner pocket, one tray, one rail and one card; preserve the exact seams, two beige stitches and geometry; preserve five fingers and plausible grip. No extra hands, no extra limbs, no duplicate object, no morphing, no penetration, no floating, no rotation, no cleaning transformation, no readable text, no logo, no watermark. End on the unobstructed inner-pocket seam and hold for one second.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-08-04",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "views_target": 90,
+      "follower_target": 1,
+      "follow_cta": "用 LINE 傳全貌與局部，先讓我們看清楚物件狀態。",
+      "seo_sync_page": "/services/shoe-bag-care.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中化妝包清潔",
+        "化妝包粉痕",
+        "台中洗包包"
+      ],
+      "evidence_type": "first-party-inspection",
+      "ten_day_review_metric": "比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "daily-repair-informed-original",
+      "local_image_path": "docs/assets/2026-08-04/slot-01.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-04/slot-01.png",
+      "local_video_path": "docs/assets/2026-08-04/slot-01.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-04/slot-01.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "襯衫領口發黃，洗衣精加倍沒有用",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "襯衫領口發黃，洗衣精加倍沒有用。\n\n私享家洗衣店\n\n那不是沒洗乾淨，是皮脂氧化了。加倍的洗衣精只會把布洗薄。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "facebook_caption": "襯衫領口發黃，洗衣精加倍沒有用。\n\n私享家洗衣店\n\n那不是沒洗乾淨，是皮脂氧化了。加倍的洗衣精只會把布洗薄。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "image_prompt": "Reel cover still: one white dress shirt laid flat, collar band and inner collar edge yellowed",
+      "video_prompt": "Animate the supplied image while preserving its exact composition, object placement, materials, surface wear, lighting direction and colour temperature. One restrained continuous action only: an extremely gentle push-in with slight natural handheld shake, as if held by a person. Keep every object in its original position and its original condition. Do not clean, repair, alter or transform the object. Do not add or remove anything. No hands in close-up and no finger detail. Do not add people, readable text, captions, logos, dialogue or music. No morphing, warping, flicker, jump cuts, sudden motion or collapsing geometry. Audio near-silent with only faint room tone. Natural restrained motion, stable first and final frames. Duration: 5 seconds. Aspect ratio: 9:16. Resolution: 720p.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "views_target": 110,
+      "follower_target": 1,
+      "follow_cta": "把照片、件數、區域與時段用 LINE 傳給我們確認收送。",
+      "seo_sync_page": "/services/taichung-citywide-laundry-pickup.html",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗衣收送",
+        "台中免費收送洗衣",
+        "台中被套送洗"
+      ],
+      "evidence_type": "pickup-logistics",
+      "ten_day_review_metric": "比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "daily-repair-informed-original",
+      "local_image_path": "docs/assets/2026-08-04/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-04/slot-02.png",
+      "local_video_path": "docs/assets/2026-08-04/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-04/slot-02.mp4",
+      "status": "pending"
+    }
+  ]
+}

@@ -92,6 +92,40 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-05 19:30 化妝包最會藏粉痕的，不是正面，是拉鍊邊](https://39211.github.io/posts/2026-08-05-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=aftercare
+  target_queries: 台中西裝乾洗 | 台中襯衫清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #化妝包送洗
+  image: https://39211.github.io/assets/2026-08-05/slot-02.png
+  video: https://39211.github.io/assets/2026-08-05/slot-02.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-05.json
+- [2026-08-05 11:30 先看懂：運動衣汗味與彈性纖維](https://39211.github.io/posts/2026-08-05-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=aftercare
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #運動衣送洗 #台中免費收送
+  image: https://39211.github.io/assets/2026-08-05/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-08-05.json
+- [2026-08-04 19:30 襯衫領口發黃，洗衣精加倍沒有用](https://39211.github.io/posts/2026-08-04-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
+  target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中被套送洗
+  evidence_type: pickup-logistics
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+  image: https://39211.github.io/assets/2026-08-04/slot-02.png
+  video: https://39211.github.io/assets/2026-08-04/slot-02.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-04.json
+- [2026-08-04 11:30 化妝包粉痕先看內袋縫線](https://39211.github.io/posts/2026-08-04-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=problem-diagnosis
+  target_queries: 台中化妝包清潔 | 化妝包粉痕 | 台中洗包包
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #化妝包 #包包內裡 #台中洗衣
+  image: https://39211.github.io/assets/2026-08-04/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-08-04.json
 - [2026-08-03 19:30 棉被收進櫃子前，先聞一下](https://39211.github.io/posts/2026-08-03-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
