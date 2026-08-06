@@ -1,0 +1,126 @@
+{
+  "date": "2026-08-06",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-08-06T06:36:00+08:00",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "旅行外套收進衣櫃前，先翻開領口內側",
+      "format": "mixed-carousel",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "旅行外套收進衣櫃前，先翻開領口內側。\n\n私享家洗衣店\n\n先把外套平放，拍完整正反面、領口內側與洗標；不要先刷、噴或改變原始狀態，讓材質、灰塵位置與磨損都看得清楚。\n\n拍好全貌與局部，用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #旅行外套 #換季收納 #台中洗衣",
+      "facebook_caption": "旅行外套收進衣櫃前，先翻開領口內側。\n\n私享家洗衣店\n\n先把外套平放，拍完整正反面、領口內側與洗標；不要先刷、噴或改變原始狀態，讓材質、灰塵位置與磨損都看得清楚。\n\n拍好全貌與局部，用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #旅行外套 #換季收納 #台中洗衣",
+      "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded charcoal-gray lightweight nylon travel jacket with exactly two sleeves, one black central zipper, one standing collar with pale-gray inner facing, and two small abrasion marks at the lower-left hem. The same jacket lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact jacket, sleeve placement, zipper, collar, inner facing, abrasion marks, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic nylon microtexture, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, tiled floor and ordinary metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 1 of 4: show the complete jacket and tray with every jacket edge in frame; one plain matte-gray inspection card sits in a rigid horizontal tray rail and blocks only the lower half of the inner-collar seam.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded charcoal-gray lightweight nylon travel jacket with exactly two sleeves, one black central zipper, one standing collar with pale-gray inner facing, and two small abrasion marks at the lower-left hem. The same jacket lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact jacket, sleeve placement, zipper, collar, inner facing, abrasion marks, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic nylon microtexture, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, tiled floor and ordinary metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 1 of 4: show the complete jacket and tray with every jacket edge in frame; one plain matte-gray inspection card sits in a rigid horizontal tray rail and blocks only the lower half of the inner-collar seam.",
+          "local_image_path": "docs/assets/2026-08-06/slot-01.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-06/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded charcoal-gray lightweight nylon travel jacket with exactly two sleeves, one black central zipper, one standing collar with pale-gray inner facing, and two small abrasion marks at the lower-left hem. The same jacket lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact jacket, sleeve placement, zipper, collar, inner facing, abrasion marks, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic nylon microtexture, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, tiled floor and ordinary metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 2 of 4: medium-close view of the same collar, pale-gray inner facing, black zipper and matte-gray card while the complete jacket remains readable and supported; the card still blocks only the lower inner-collar seam.",
+          "local_image_path": "docs/assets/2026-08-06/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-06/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded charcoal-gray lightweight nylon travel jacket with exactly two sleeves, one black central zipper, one standing collar with pale-gray inner facing, and two small abrasion marks at the lower-left hem. The same jacket lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact jacket, sleeve placement, zipper, collar, inner facing, abrasion marks, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic nylon microtexture, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, tiled floor and ordinary metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 3 of 4: the same matte-gray card remains captured in the rigid horizontal rail at the tray edge, with its right edge exposed for a later pull; show no person and no hand, and do not move the jacket or tray.",
+          "local_image_path": "docs/assets/2026-08-06/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-06/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded charcoal-gray lightweight nylon travel jacket with exactly two sleeves, one black central zipper, one standing collar with pale-gray inner facing, and two small abrasion marks at the lower-left hem. The same jacket lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact jacket, sleeve placement, zipper, collar, inner facing, abrasion marks, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic nylon microtexture, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, tiled floor and ordinary metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no care-label lettering, no logo, no address, no phone number, no watermark. Photo 4 of 4: the same inspection card now rests completely beside the tray after a horizontal exit, leaving the unchanged pale-gray inner-collar seam fully visible; preserve the exact jacket and tray position and show no hand.",
+          "local_image_path": "docs/assets/2026-08-06/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-06/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. In the first second show exactly one unbranded charcoal-gray nylon travel jacket fixed flat in one shallow blue-gray rigid tray, with exactly one plain matte-gray inspection card captured in one rigid horizontal side rail and blocking only the lower half of the pale-gray inner-collar seam. Exactly one adult forearm and one complete hand wait at the right edge with five natural fingers lightly gripping only the card. Fixed restrained vertical medium-close camera with clear foreground card and hand, midground collar and jacket, and softly visible ordinary shop rack in the background. Mixed 4500K practical ceiling light and cool window daylight from the left, realistic nylon microtexture, slight wear, controlled asymmetry, believable weight and contact shadows. One dominant action only: slide the card horizontally right along the fixed rail completely out of frame, then the hand stops outside the frame; the jacket, collar, zipper, sleeves, tray and camera never move. Preserve exactly one jacket, two sleeves, one zipper, one tray, one rail, one card, one forearm and one hand; preserve the exact seams, folds, five fingers and geometry. No extra limbs, no extra hands, no duplicate object, no duplicated card, no morphing, no penetration, no floating, no rotation, no cleaning transformation, no readable text, no logo, no watermark. End on the unobstructed inner-collar seam and hold for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "generation_id": "sixiangjia_20260806_s01_travel_jacket_card_exit_v01",
+        "memory_hook": "外套領口內側先看清楚",
+        "conflict": "灰色檢查卡遮住旅行外套的內領下緣，領口內側與原始磨損第一眼看不完整。",
+        "single_action": "同一隻成人手只把一張灰色卡片沿剛性水平導軌向右完全拉出畫面，外套、領口與托盤全程固定。",
+        "payoff": "卡片離開後，內領縫線與原始狀態完整可見，沒有清潔前後轉換。",
+        "cta": "拍好全貌與局部，用 LINE 傳給我們先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式中近景；前景只有一張導軌內的灰色卡片與一隻完整手，中景是完整旅行外套、領口與托盤，中後景保留普通店內金屬架與受控不對稱生活痕跡；混合光源、接觸陰影、五指與物件幾何清楚，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. In the first second show exactly one unbranded charcoal-gray nylon travel jacket fixed flat in one shallow blue-gray rigid tray, with exactly one plain matte-gray inspection card captured in one rigid horizontal side rail and blocking only the lower half of the pale-gray inner-collar seam. Exactly one adult forearm and one complete hand wait at the right edge with five natural fingers lightly gripping only the card. Fixed restrained vertical medium-close camera with clear foreground card and hand, midground collar and jacket, and softly visible ordinary shop rack in the background. Mixed 4500K practical ceiling light and cool window daylight from the left, realistic nylon microtexture, slight wear, controlled asymmetry, believable weight and contact shadows. One dominant action only: slide the card horizontally right along the fixed rail completely out of frame, then the hand stops outside the frame; the jacket, collar, zipper, sleeves, tray and camera never move. Preserve exactly one jacket, two sleeves, one zipper, one tray, one rail, one card, one forearm and one hand; preserve the exact seams, folds, five fingers and geometry. No extra limbs, no extra hands, no duplicate object, no duplicated card, no morphing, no penetration, no floating, no rotation, no cleaning transformation, no readable text, no logo, no watermark. End on the unobstructed inner-collar seam and hold for one second.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-08-06",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "views_target": 90,
+      "follower_target": 1,
+      "follow_cta": "用 LINE 傳全貌與局部，先讓我們看清楚物件狀態。",
+      "seo_sync_page": "/services/fabric-storage.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "旅行外套送洗",
+        "換季外套收納",
+        "台中外套清洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "ten_day_review_metric": "比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "daily-repair-informed-original",
+      "local_image_path": "docs/assets/2026-08-06/slot-01.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-06/slot-01.png",
+      "local_video_path": "docs/assets/2026-08-06/slot-01.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-06/slot-01.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "帆布鞋沾泥，越用力刷越糟",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "帆布鞋沾泥，越用力刷越糟。\n\n私享家洗衣店\n\n濕的時候刷，泥會被推進織紋裡，布面也會起毛。等乾了再處理反而好救。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "facebook_caption": "帆布鞋沾泥，越用力刷越糟。\n\n私享家洗衣店\n\n濕的時候刷，泥會被推進織紋裡，布面也會起毛。等乾了再處理反而好救。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "image_prompt": "Reel cover still: one pair of canvas shoes with dried mud worked into the woven fabric",
+      "video_prompt": "Animate the supplied image while preserving its exact composition, object placement, materials, surface wear, lighting direction and colour temperature. One restrained continuous action only: an extremely gentle push-in with slight natural handheld shake, as if held by a person. Keep every object in its original position and its original condition. Do not clean, repair, alter or transform the object. Do not add or remove anything. No hands in close-up and no finger detail. Do not add people, readable text, captions, logos, dialogue or music. No morphing, warping, flicker, jump cuts, sudden motion or collapsing geometry. Audio near-silent with only faint room tone. Natural restrained motion, stable first and final frames. Duration: 5 seconds. Aspect ratio: 9:16. Resolution: 720p.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "views_target": 110,
+      "follower_target": 1,
+      "follow_cta": "把照片、件數、區域與時段用 LINE 傳給我們確認收送。",
+      "seo_sync_page": "/services/shoe-bag-care.html",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗鞋",
+        "台中帆布鞋清洗",
+        "台中免費收送洗衣"
+      ],
+      "evidence_type": "pickup-logistics",
+      "ten_day_review_metric": "比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "daily-repair-informed-original",
+      "local_image_path": "docs/assets/2026-08-06/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-06/slot-02.png",
+      "local_video_path": "docs/assets/2026-08-06/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-06/slot-02.mp4",
+      "status": "pending"
+    }
+  ]
+}

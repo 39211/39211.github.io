@@ -92,6 +92,23 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-06 19:30 帆布鞋沾泥，越用力刷越糟](https://39211.github.io/posts/2026-08-06-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
+  target_queries: 台中洗鞋 | 台中帆布鞋清洗 | 台中免費收送洗衣
+  evidence_type: pickup-logistics
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+  image: https://39211.github.io/assets/2026-08-06/slot-02.png
+  video: https://39211.github.io/assets/2026-08-06/slot-02.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-06.json
+- [2026-08-06 11:30 旅行外套收進衣櫃前，先翻開領口內側](https://39211.github.io/posts/2026-08-06-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=problem-diagnosis
+  target_queries: 旅行外套送洗 | 換季外套收納 | 台中外套清洗
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #旅行外套 #換季收納 #台中洗衣
+  image: https://39211.github.io/assets/2026-08-06/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-08-06.json
 - [2026-08-05 19:30 化妝包最會藏粉痕的，不是正面，是拉鍊邊](https://39211.github.io/posts/2026-08-05-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=aftercare

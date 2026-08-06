@@ -1827,6 +1827,74 @@
         ],
         "calendar_url": "https://39211.github.io/content-calendar/2026-08-05.json"
       }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-06.json#post-2026-08-06-slot-01",
+      "url": "https://39211.github.io/posts/2026-08-06-slot-01.html",
+      "title": "2026-08-06 11:30 旅行外套收進衣櫃前，先翻開領口內側",
+      "date_published": "2026-08-06T11:30:00+08:00",
+      "content_text": "旅行外套收進衣櫃前，先翻開領口內側。\n\n私享家洗衣店\n\n先把外套平放，拍完整正反面、領口內側與洗標；不要先刷、噴或改變原始狀態，讓材質、灰塵位置與磨損都看得清楚。\n\n拍好全貌與局部，用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #旅行外套 #換季收納 #台中洗衣",
+      "summary": "旅行外套收進衣櫃前，先翻開領口內側",
+      "image": "https://39211.github.io/assets/2026-08-06/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "旅行外套",
+        "換季收納",
+        "台中洗衣"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "dwell-detail",
+        "content_role": "reach-answer",
+        "search_intent": "problem-diagnosis",
+        "target_queries": [
+          "旅行外套送洗",
+          "換季外套收納",
+          "台中外套清洗"
+        ],
+        "evidence_type": "first-party-inspection",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-08-06.json"
+      }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-06.json#post-2026-08-06-slot-02",
+      "url": "https://39211.github.io/posts/2026-08-06-slot-02.html",
+      "title": "2026-08-06 19:30 帆布鞋沾泥，越用力刷越糟",
+      "date_published": "2026-08-06T19:30:00+08:00",
+      "content_text": "帆布鞋沾泥，越用力刷越糟。\n\n私享家洗衣店\n\n濕的時候刷，泥會被推進織紋裡，布面也會起毛。等乾了再處理反而好救。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "summary": "帆布鞋沾泥，越用力刷越糟",
+      "image": "https://39211.github.io/assets/2026-08-06/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "台中免費收送",
+        "洗護日常"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "evidence-conversion",
+        "search_intent": "pickup-logistics",
+        "target_queries": [
+          "台中洗鞋",
+          "台中帆布鞋清洗",
+          "台中免費收送洗衣"
+        ],
+        "evidence_type": "pickup-logistics",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-08-06.json"
+      }
     }
   ]
 }
