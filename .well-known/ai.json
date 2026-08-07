@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-07T17:05:36.959Z",
+  "generated_at": "2026-08-07T17:18:57.411Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -176,6 +176,9 @@
     "support_pages": {
       "photo-before-laundry": "https://39211.github.io/guides/photo-before-laundry.html",
       "white-shoe-yellowing": "https://39211.github.io/guides/white-shoe-yellowing.html",
+      "down-jacket-cleaning": "https://39211.github.io/guides/down-jacket-cleaning.html",
+      "leather-jacket-care": "https://39211.github.io/guides/leather-jacket-care.html",
+      "dry-cleaning-guide": "https://39211.github.io/guides/dry-cleaning-guide.html",
       "rainy-shoe-care": "https://39211.github.io/guides/rainy-shoe-care.html",
       "bag-handle-cleaning": "https://39211.github.io/guides/bag-handle-cleaning.html",
       "bedding-storage-check": "https://39211.github.io/guides/bedding-storage-check.html",
@@ -204,6 +207,9 @@
     "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
     "https://39211.github.io/guides/photo-before-laundry.html",
     "https://39211.github.io/guides/white-shoe-yellowing.html",
+    "https://39211.github.io/guides/down-jacket-cleaning.html",
+    "https://39211.github.io/guides/leather-jacket-care.html",
+    "https://39211.github.io/guides/dry-cleaning-guide.html",
     "https://39211.github.io/guides/rainy-shoe-care.html",
     "https://39211.github.io/guides/bag-handle-cleaning.html",
     "https://39211.github.io/guides/bedding-storage-check.html",
@@ -871,6 +877,64 @@
       "linked_service": "白鞋清潔",
       "faq_count": 2,
       "step_count": 4
+    },
+    {
+      "slug": "down-jacket-cleaning",
+      "category": "guide",
+      "title": "羽絨外套、羽絨被可以水洗嗎？台中送洗前先看這篇｜私享家洗衣店",
+      "description": "羽絨外套和羽絨被能不能水洗、洗完會不會不蓬，要先看洗標、塗層與走線。台中市可免費收送，LINE 傳照片先判斷再決定。",
+      "url": "https://39211.github.io/guides/down-jacket-cleaning.html",
+      "keywords": [
+        "羽絨外套清洗",
+        "羽絨被送洗",
+        "羽絨外套可以水洗嗎",
+        "台中洗羽絨被",
+        "台中羽絨外套送洗",
+        "羽絨被清洗"
+      ],
+      "local_intent": "台中 羽絨外套清洗 羽絨被送洗 換季",
+      "linked_service": "布品收納",
+      "faq_count": 4,
+      "step_count": 5
+    },
+    {
+      "slug": "leather-jacket-care",
+      "category": "guide",
+      "title": "皮衣可以洗嗎？發霉、變硬怎麼救｜台中皮衣保養 私享家洗衣店",
+      "description": "皮衣不能用一般方式洗。發霉、變硬、色差要依真皮、合成皮或麂皮分別判斷。台中皮衣清潔保養可先 LINE 傳照片評估。",
+      "url": "https://39211.github.io/guides/leather-jacket-care.html",
+      "keywords": [
+        "皮衣保養",
+        "皮衣清潔",
+        "台中皮衣保養",
+        "皮衣發霉",
+        "皮衣可以洗嗎",
+        "皮衣送洗"
+      ],
+      "local_intent": "台中 皮衣保養 皮衣清潔 皮衣發霉",
+      "linked_service": "鞋包清潔",
+      "faq_count": 4,
+      "step_count": 5
+    },
+    {
+      "slug": "dry-cleaning-guide",
+      "category": "guide",
+      "title": "乾洗、水洗差在哪？哪些衣物一定要乾洗｜台中乾洗 私享家洗衣店",
+      "description": "西裝、大衣、絲質、羊毛該乾洗還是水洗？先看洗標和材質。台中乾洗送洗可免費收送，LINE 傳照片與洗標先判斷。",
+      "url": "https://39211.github.io/guides/dry-cleaning-guide.html",
+      "keywords": [
+        "乾洗 水洗 差別",
+        "台中乾洗",
+        "乾洗店 台中",
+        "西裝乾洗",
+        "大衣乾洗",
+        "襯衫送洗",
+        "台中西屯乾洗"
+      ],
+      "local_intent": "台中 乾洗 西裝乾洗 大衣乾洗 襯衫送洗",
+      "linked_service": "台中西屯洗衣店",
+      "faq_count": 4,
+      "step_count": 5
     },
     {
       "slug": "rainy-shoe-care",

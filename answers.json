@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-07T17:05:36.959Z",
+  "generated_at": "2026-08-07T17:18:57.411Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -970,6 +970,431 @@
         "白鞋清潔",
         "台中西屯白鞋清潔",
         "鞋子保養"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "down-jacket-cleaning-summary",
+      "type": "guide_summary",
+      "question": "羽絨外套、羽絨被怎麼洗才不會毀掉？",
+      "answer": "羽絨最怕兩件事：洗錯方式讓羽絨結塊，和沒乾透就收納悶出味道。大部分羽絨其實適合專業水洗加低溫烘乾，反而不一定適合乾洗；但外層有塗層或貼合工藝的要另外判斷。台中換季前送洗可約免費收送。",
+      "service": "布品收納",
+      "source_url": "https://39211.github.io/guides/down-jacket-cleaning.html",
+      "local_intent": "台中 羽絨外套清洗 羽絨被送洗 換季",
+      "keywords": [
+        "羽絨外套清洗",
+        "羽絨被送洗",
+        "羽絨外套可以水洗嗎",
+        "台中洗羽絨被",
+        "台中羽絨外套送洗",
+        "羽絨被清洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "down-jacket-cleaning-faq-01",
+      "type": "guide_faq",
+      "question": "羽絨外套可以自己丟洗衣機嗎？",
+      "answer": "有風險。家用洗衣機的轉速與烘乾溫度容易讓羽絨結塊或跑絨，尤其是有塗層或貼合工藝的外套。不確定時先拍洗標和外觀照片來問。",
+      "service": "布品收納",
+      "source_url": "https://39211.github.io/guides/down-jacket-cleaning.html#faq",
+      "local_intent": "台中 羽絨外套清洗 羽絨被送洗 換季",
+      "keywords": [
+        "羽絨外套清洗",
+        "羽絨被送洗",
+        "羽絨外套可以水洗嗎",
+        "台中洗羽絨被",
+        "台中羽絨外套送洗",
+        "羽絨被清洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "down-jacket-cleaning-faq-02",
+      "type": "guide_faq",
+      "question": "羽絨外套洗完不蓬了怎麼辦？",
+      "answer": "多半是羽絨受潮結塊或烘乾不足。專業低溫慢烘通常能改善蓬鬆度，但若羽絨已流失或纖維受損，只能恢復到有限程度，會先告知界線。",
+      "service": "布品收納",
+      "source_url": "https://39211.github.io/guides/down-jacket-cleaning.html#faq",
+      "local_intent": "台中 羽絨外套清洗 羽絨被送洗 換季",
+      "keywords": [
+        "羽絨外套清洗",
+        "羽絨被送洗",
+        "羽絨外套可以水洗嗎",
+        "台中洗羽絨被",
+        "台中羽絨外套送洗",
+        "羽絨被清洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "down-jacket-cleaning-faq-03",
+      "type": "guide_faq",
+      "question": "羽絨被多久洗一次？",
+      "answer": "一般建議每年換季收納前清洗一次；平時用被套保護可以拉長間隔。有汗味、潮味或黃斑時就不要再等。",
+      "service": "布品收納",
+      "source_url": "https://39211.github.io/guides/down-jacket-cleaning.html#faq",
+      "local_intent": "台中 羽絨外套清洗 羽絨被送洗 換季",
+      "keywords": [
+        "羽絨外套清洗",
+        "羽絨被送洗",
+        "羽絨外套可以水洗嗎",
+        "台中洗羽絨被",
+        "台中羽絨外套送洗",
+        "羽絨被清洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "down-jacket-cleaning-faq-04",
+      "type": "guide_faq",
+      "question": "台中洗羽絨被可以收送嗎？",
+      "answer": "可以，台中市全區免費收送。羽絨被體積大不好帶，約好時間到府收件即可，LINE：0968327653。",
+      "service": "布品收納",
+      "source_url": "https://39211.github.io/guides/down-jacket-cleaning.html#faq",
+      "local_intent": "台中 羽絨外套清洗 羽絨被送洗 換季",
+      "keywords": [
+        "羽絨外套清洗",
+        "羽絨被送洗",
+        "羽絨外套可以水洗嗎",
+        "台中洗羽絨被",
+        "台中羽絨外套送洗",
+        "羽絨被清洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "leather-jacket-care-summary",
+      "type": "guide_summary",
+      "question": "皮衣清潔保養：發霉、變硬、色差怎麼判斷？",
+      "answer": "皮衣最常見的三個狀況：收納環境潮濕悶出霉點、久放缺油變硬、局部摩擦造成色差。真皮、合成皮和麂皮的處理方式完全不同，用錯方式會讓皮面褪色或硬化。送保養前先拍全身照與問題位置特寫。",
+      "service": "鞋包清潔",
+      "source_url": "https://39211.github.io/guides/leather-jacket-care.html",
+      "local_intent": "台中 皮衣保養 皮衣清潔 皮衣發霉",
+      "keywords": [
+        "皮衣保養",
+        "皮衣清潔",
+        "台中皮衣保養",
+        "皮衣發霉",
+        "皮衣可以洗嗎",
+        "皮衣送洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "leather-jacket-care-faq-01",
+      "type": "guide_faq",
+      "question": "皮衣發霉還有救嗎？",
+      "answer": "表面霉點大多能明顯改善；霉斑已滲入皮層或造成色差的，以淡化和抑制擴散為目標，不保證完全復原，評估時會先講清楚。",
+      "service": "鞋包清潔",
+      "source_url": "https://39211.github.io/guides/leather-jacket-care.html#faq",
+      "local_intent": "台中 皮衣保養 皮衣清潔 皮衣發霉",
+      "keywords": [
+        "皮衣保養",
+        "皮衣清潔",
+        "台中皮衣保養",
+        "皮衣發霉",
+        "皮衣可以洗嗎",
+        "皮衣送洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "leather-jacket-care-faq-02",
+      "type": "guide_faq",
+      "question": "皮衣可以送一般乾洗嗎？",
+      "answer": "一般乾洗溶劑會帶走皮革油脂，讓皮面變硬龜裂。皮衣要走皮革專屬的清潔與補油流程，送洗前請先確認店家有皮革護理能力。",
+      "service": "鞋包清潔",
+      "source_url": "https://39211.github.io/guides/leather-jacket-care.html#faq",
+      "local_intent": "台中 皮衣保養 皮衣清潔 皮衣發霉",
+      "keywords": [
+        "皮衣保養",
+        "皮衣清潔",
+        "台中皮衣保養",
+        "皮衣發霉",
+        "皮衣可以洗嗎",
+        "皮衣送洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "leather-jacket-care-faq-03",
+      "type": "guide_faq",
+      "question": "皮衣多久保養一次？",
+      "answer": "常穿的一年一次；收納過潮濕季節後建議檢查一次。摸起來變硬、顏色變濁或有霉味就是該保養的訊號。",
+      "service": "鞋包清潔",
+      "source_url": "https://39211.github.io/guides/leather-jacket-care.html#faq",
+      "local_intent": "台中 皮衣保養 皮衣清潔 皮衣發霉",
+      "keywords": [
+        "皮衣保養",
+        "皮衣清潔",
+        "台中皮衣保養",
+        "皮衣發霉",
+        "皮衣可以洗嗎",
+        "皮衣送洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "leather-jacket-care-faq-04",
+      "type": "guide_faq",
+      "question": "台中皮衣保養怎麼送？",
+      "answer": "拍全身照加問題位置特寫，LINE 傳給門市先評估（0968327653）；台中市全區可約免費收送。",
+      "service": "鞋包清潔",
+      "source_url": "https://39211.github.io/guides/leather-jacket-care.html#faq",
+      "local_intent": "台中 皮衣保養 皮衣清潔 皮衣發霉",
+      "keywords": [
+        "皮衣保養",
+        "皮衣清潔",
+        "台中皮衣保養",
+        "皮衣發霉",
+        "皮衣可以洗嗎",
+        "皮衣送洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "dry-cleaning-guide-summary",
+      "type": "guide_summary",
+      "question": "乾洗還是水洗？送洗前搞懂這一篇",
+      "answer": "乾洗用溶劑帶走油性髒污、保護不耐水的纖維與版型；水洗對汗味和水性髒污比較有效。西裝、大衣、絲質上衣通常走乾洗，襯衫和棉質日常衣物多半水洗加整燙。判斷不了就拍洗標，一張照片比猜十次準。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/dry-cleaning-guide.html",
+      "local_intent": "台中 乾洗 西裝乾洗 大衣乾洗 襯衫送洗",
+      "keywords": [
+        "乾洗 水洗 差別",
+        "台中乾洗",
+        "乾洗店 台中",
+        "西裝乾洗",
+        "大衣乾洗",
+        "襯衫送洗",
+        "台中西屯乾洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "dry-cleaning-guide-faq-01",
+      "type": "guide_faq",
+      "question": "乾洗和水洗到底差在哪？",
+      "answer": "乾洗用溶劑不用水，擅長油性髒污並保護怕水縮皺的材質與版型；水洗對汗和水性髒污較徹底。依材質和髒污類型選，不是乾洗就一定比較高級。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/dry-cleaning-guide.html#faq",
+      "local_intent": "台中 乾洗 西裝乾洗 大衣乾洗 襯衫送洗",
+      "keywords": [
+        "乾洗 水洗 差別",
+        "台中乾洗",
+        "乾洗店 台中",
+        "西裝乾洗",
+        "大衣乾洗",
+        "襯衫送洗",
+        "台中西屯乾洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "dry-cleaning-guide-faq-02",
+      "type": "guide_faq",
+      "question": "哪些衣物一定要乾洗？",
+      "answer": "洗標只有乾洗符號的、羊毛大衣、有墊肩襯裡的西裝外套、絲質與部分嫘縈製品。錯用水洗可能縮水變形，無法完全復原。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/dry-cleaning-guide.html#faq",
+      "local_intent": "台中 乾洗 西裝乾洗 大衣乾洗 襯衫送洗",
+      "keywords": [
+        "乾洗 水洗 差別",
+        "台中乾洗",
+        "乾洗店 台中",
+        "西裝乾洗",
+        "大衣乾洗",
+        "襯衫送洗",
+        "台中西屯乾洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "dry-cleaning-guide-faq-03",
+      "type": "guide_faq",
+      "question": "西裝多久乾洗一次？",
+      "answer": "常穿的每季一到兩次即可，穿一次洗一次反而傷纖維；平時掛通風處、局部除味就好，有明顯髒污或異味再送。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/dry-cleaning-guide.html#faq",
+      "local_intent": "台中 乾洗 西裝乾洗 大衣乾洗 襯衫送洗",
+      "keywords": [
+        "乾洗 水洗 差別",
+        "台中乾洗",
+        "乾洗店 台中",
+        "西裝乾洗",
+        "大衣乾洗",
+        "襯衫送洗",
+        "台中西屯乾洗"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "dry-cleaning-guide-faq-04",
+      "type": "guide_faq",
+      "question": "台中乾洗怎麼估價？",
+      "answer": "網站不放未驗證價目。拍衣物全身照加洗標照 LINE 傳給門市（0968327653），會先報判斷與費用範圍再由你決定；台中市全區免費收送。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://39211.github.io/guides/dry-cleaning-guide.html#faq",
+      "local_intent": "台中 乾洗 西裝乾洗 大衣乾洗 襯衫送洗",
+      "keywords": [
+        "乾洗 水洗 差別",
+        "台中乾洗",
+        "乾洗店 台中",
+        "西裝乾洗",
+        "大衣乾洗",
+        "襯衫送洗",
+        "台中西屯乾洗"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",

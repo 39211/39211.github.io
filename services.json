@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-07T17:05:36.959Z",
+  "generated_at": "2026-08-07T17:18:57.411Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://39211.github.io/",
@@ -101,6 +101,12 @@
         }
       ],
       "related_support_pages": [
+        {
+          "slug": "leather-jacket-care",
+          "title": "皮衣可以洗嗎？發霉、變硬怎麼救｜台中皮衣保養 私享家洗衣店",
+          "url": "https://39211.github.io/guides/leather-jacket-care.html",
+          "local_intent": "台中 皮衣保養 皮衣清潔 皮衣發霉"
+        },
         {
           "slug": "rainy-shoe-care",
           "title": "雨天鞋子進水後怎麼辦？｜私享家洗衣店",
@@ -346,6 +352,12 @@
       ],
       "related_support_pages": [
         {
+          "slug": "down-jacket-cleaning",
+          "title": "羽絨外套、羽絨被可以水洗嗎？台中送洗前先看這篇｜私享家洗衣店",
+          "url": "https://39211.github.io/guides/down-jacket-cleaning.html",
+          "local_intent": "台中 羽絨外套清洗 羽絨被送洗 換季"
+        },
+        {
           "slug": "bedding-storage-check",
           "title": "寢具外套收納前要檢查什麼？｜私享家洗衣店",
           "url": "https://39211.github.io/guides/bedding-storage-check.html",
@@ -467,6 +479,12 @@
         }
       ],
       "related_support_pages": [
+        {
+          "slug": "dry-cleaning-guide",
+          "title": "乾洗、水洗差在哪？哪些衣物一定要乾洗｜台中乾洗 私享家洗衣店",
+          "url": "https://39211.github.io/guides/dry-cleaning-guide.html",
+          "local_intent": "台中 乾洗 西裝乾洗 大衣乾洗 襯衫送洗"
+        },
         {
           "slug": "shirt-suit-dry-cleaning",
           "title": "台中西屯襯衫清洗與西裝乾洗｜私享家洗衣店",
