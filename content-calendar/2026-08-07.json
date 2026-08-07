@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-07",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-08-07T06:38:59+08:00",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "化妝包拉鍊邊卡粉，先看內袋縫線",
+      "format": "mixed-carousel",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "化妝包拉鍊邊卡粉，先看內袋縫線。\n\n私享家洗衣店\n\n先不要擦、刷或噴；把完整外觀、拉鍊邊、內袋縫線與材質近照拍清楚，保留粉痕位置、磨損和原始狀態，詢問時才不會漏掉重點。\n\n拍好全貌與局部，點個人檔案連結加 LINE 先詢問。\n\n#私享家洗衣店 #化妝包 #拉鍊邊 #台中洗衣",
+      "facebook_caption": "化妝包拉鍊邊卡粉，先看內袋縫線。\n\n私享家洗衣店\n\n先不要擦、刷或噴；把完整外觀、拉鍊邊、內袋縫線與材質近照拍清楚，保留粉痕位置、磨損和原始狀態，詢問時才不會漏掉重點。\n\n拍好全貌與局部，用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #化妝包 #拉鍊邊 #台中洗衣",
+      "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded muted-teal rectangular woven-fabric makeup pouch with one black zipper, one single black zipper pull at the right end, pale-beige lining, one small inner slip pocket, and two light beige powder smudges along the lower front seam. The same pouch lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact pouch, zipper, single pull, lining, pocket, powder smudges, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture and edge wear, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, ordinary tiled floor and metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no cosmetic brand, no logo, no address, no phone number, no watermark. Photo 1 of 4: show the complete pouch and tray with every pouch edge in frame; exactly one plain matte-gray inspection card sits in a rigid horizontal tray rail and blocks only the lower half of the zipper seam without touching the pouch.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded muted-teal rectangular woven-fabric makeup pouch with one black zipper, one single black zipper pull at the right end, pale-beige lining, one small inner slip pocket, and two light beige powder smudges along the lower front seam. The same pouch lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact pouch, zipper, single pull, lining, pocket, powder smudges, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture and edge wear, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, ordinary tiled floor and metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no cosmetic brand, no logo, no address, no phone number, no watermark. Photo 1 of 4: show the complete pouch and tray with every pouch edge in frame; exactly one plain matte-gray inspection card sits in a rigid horizontal tray rail and blocks only the lower half of the zipper seam without touching the pouch.",
+          "local_image_path": "docs/assets/2026-08-07/slot-01.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-07/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded muted-teal rectangular woven-fabric makeup pouch with one black zipper, one single black zipper pull at the right end, pale-beige lining, one small inner slip pocket, and two light beige powder smudges along the lower front seam. The same pouch lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact pouch, zipper, single pull, lining, pocket, powder smudges, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture and edge wear, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, ordinary tiled floor and metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no cosmetic brand, no logo, no address, no phone number, no watermark. Photo 2 of 4: medium-close three-quarter view of the same complete pouch, black zipper, single pull, pale-beige lining, inner pocket and two powder smudges; the same one matte-gray card still blocks only the lower zipper seam while the pouch remains fully supported.",
+          "local_image_path": "docs/assets/2026-08-07/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-07/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded muted-teal rectangular woven-fabric makeup pouch with one black zipper, one single black zipper pull at the right end, pale-beige lining, one small inner slip pocket, and two light beige powder smudges along the lower front seam. The same pouch lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact pouch, zipper, single pull, lining, pocket, powder smudges, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture and edge wear, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, ordinary tiled floor and metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no cosmetic brand, no logo, no address, no phone number, no watermark. Photo 3 of 4: the same single matte-gray card remains captured in the fixed horizontal tray rail, its right edge exposed for a later pull; show no person and no hand, and do not move the pouch, zipper pull, tray or powder marks.",
+          "local_image_path": "docs/assets/2026-08-07/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-07/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one portrait 4:5 photorealistic phone photo inside an ordinary Taiwanese laundry shop. Show exactly one unbranded muted-teal rectangular woven-fabric makeup pouch with one black zipper, one single black zipper pull at the right end, pale-beige lining, one small inner slip pocket, and two light beige powder smudges along the lower front seam. The same pouch lies fully supported and motionless in one shallow blue-gray rigid inspection tray. Keep the exact pouch, zipper, single pull, lining, pocket, powder smudges, tray, geometry, wear, folds, lighting and background across all four photos. Motivated imperfect fluorescent ceiling light mixed with cool window daylight from the left, realistic woven microtexture and edge wear, controlled asymmetry, plausible weight and contact shadows, restrained handheld framing, ordinary tiled floor and metal rack softly visible. No boutique or showroom, no poster, no graphic panel, no readable text, no cosmetic brand, no logo, no address, no phone number, no watermark. Photo 4 of 4: the same one inspection card now rests completely beside the tray after a horizontal exit, leaving the unchanged lower zipper seam, pale-beige lining and two powder smudges fully visible; preserve the exact pouch and tray position and show no hand.",
+          "local_image_path": "docs/assets/2026-08-07/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-07/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. In the first second show exactly one unbranded muted-teal woven-fabric makeup pouch fixed flat in one shallow blue-gray rigid tray, with exactly one plain matte-gray inspection card captured in one rigid horizontal tray rail and blocking only the lower half of the black zipper seam without touching the pouch. Exactly one adult forearm and one complete hand wait at the right edge with five natural fingers lightly gripping only the card. Fixed restrained vertical medium-close camera with foreground card and hand, midground complete pouch, black zipper with one pull, pale-beige lining and two powder smudges, and a softly visible ordinary metal rack in the background. Mixed 4500K practical ceiling light and cool window daylight from the left, realistic woven microtexture and edge wear, controlled asymmetry, believable weight and contact shadows. One dominant action only: slide the one card horizontally right along the fixed rail completely out of frame, then the hand stops outside the frame; the pouch, zipper pull, lining, tray and camera never move. Preserve exactly one pouch, one zipper, one pull, one tray, one rail, one card, one forearm and one hand; preserve the exact seams, folds, five fingers and geometry. No extra limbs, no extra hands, no duplicate objects, no duplicate card, no duplicate pouch, no morphing, no penetration, no floating, no rotation, no cleaning transformation, no readable text, no logo, no watermark. End on the unobstructed zipper seam and original powder marks and hold for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "generation_id": "sixiangjia_20260807_s01_makeup_pouch_single_card_exit_v01",
+        "memory_hook": "化妝包拉鍊邊先看清楚",
+        "conflict": "一張灰色檢查卡遮住化妝包的拉鍊下緣，內袋縫線與粉痕位置第一眼看不完整。",
+        "single_action": "同一隻成人手只把一張灰色卡片沿固定水平導軌向右完全拉出畫面，化妝包、拉鍊與托盤全程固定。",
+        "payoff": "卡片離開後，拉鍊縫線、內袋與原始粉痕完整可見，沒有清潔前後轉換。",
+        "cta": "拍好全貌與局部，點個人檔案連結加 LINE 先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式中近景；前景只有一張導軌內的灰色卡片與一隻完整手，中景是完整化妝包、拉鍊、內袋與托盤，中後景保留普通店內金屬架與受控不對稱生活痕跡；混合光源、接觸陰影、五指與物件幾何清楚，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. In the first second show exactly one unbranded muted-teal woven-fabric makeup pouch fixed flat in one shallow blue-gray rigid tray, with exactly one plain matte-gray inspection card captured in one rigid horizontal tray rail and blocking only the lower half of the black zipper seam without touching the pouch. Exactly one adult forearm and one complete hand wait at the right edge with five natural fingers lightly gripping only the card. Fixed restrained vertical medium-close camera with foreground card and hand, midground complete pouch, black zipper with one pull, pale-beige lining and two powder smudges, and a softly visible ordinary metal rack in the background. Mixed 4500K practical ceiling light and cool window daylight from the left, realistic woven microtexture and edge wear, controlled asymmetry, believable weight and contact shadows. One dominant action only: slide the one card horizontally right along the fixed rail completely out of frame, then the hand stops outside the frame; the pouch, zipper pull, lining, tray and camera never move. Preserve exactly one pouch, one zipper, one pull, one tray, one rail, one card, one forearm and one hand; preserve the exact seams, folds, five fingers and geometry. No extra limbs, no extra hands, no duplicate objects, no duplicate card, no duplicate pouch, no morphing, no penetration, no floating, no rotation, no cleaning transformation, no readable text, no logo, no watermark. End on the unobstructed zipper seam and original powder marks and hold for one second.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-08-07",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "views_target": 90,
+      "follower_target": 1,
+      "follow_cta": "用 LINE 傳全貌與局部，先讓我們看清楚物件狀態。",
+      "seo_sync_page": "/services/shoe-bag-care.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "化妝包清洗",
+        "化妝包拉鍊清潔",
+        "台中包包清洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "ten_day_review_metric": "比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "daily-repair-informed-original",
+      "local_image_path": "docs/assets/2026-08-07/slot-01.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-07/slot-01.png",
+      "local_video_path": "docs/assets/2026-08-07/slot-01.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-07/slot-01.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "西裝變形，通常從肩線開始",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "西裝變形，通常從肩線開始。\n\n掛錯衣架、擠在衣櫃裡，肩襯塌下去就回不來了。那比髒更難處理。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "facebook_caption": "西裝變形，通常從肩線開始。\n\n掛錯衣架、擠在衣櫃裡，肩襯塌下去就回不來了。那比髒更難處理。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "image_prompt": "Reel cover still: one suit jacket on a padded hanger, shoulder line collapsed and lapel edge creased",
+      "video_prompt": "Animate the supplied image while preserving its exact composition, object placement, materials, surface wear, lighting direction and colour temperature. One restrained continuous action only: an extremely gentle push-in with slight natural handheld shake, as if held by a person. Keep every object in its original position and its original condition. Do not clean, repair, alter or transform the object. Do not add or remove anything. No hands in close-up and no finger detail. Do not add people, readable text, captions, logos, dialogue or music. No morphing, warping, flicker, jump cuts, sudden motion or collapsing geometry. Audio near-silent with only faint room tone. Natural restrained motion, stable first and final frames. Duration: 5 seconds. Aspect ratio: 9:16. Resolution: 720p.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "views_target": 110,
+      "follower_target": 1,
+      "follow_cta": "把照片、件數、區域與時段用 LINE 傳給我們確認收送。",
+      "seo_sync_page": "/services/shoe-bag-care.html",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗鞋",
+        "台中帆布鞋清洗",
+        "台中免費收送洗衣"
+      ],
+      "evidence_type": "pickup-logistics",
+      "ten_day_review_metric": "比較 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "daily-repair-informed-original",
+      "local_image_path": "docs/assets/2026-08-07/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-07/slot-02.png",
+      "local_video_path": "docs/assets/2026-08-07/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-07/slot-02.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 3,
+      "time": "12:00",
+      "category": "情境文",
+      "topic": "後背包底部，是全包最髒的一面",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "後背包底部，是全包最髒的一面。\n\n它天天放在地上，卻幾乎沒人洗過。背帶的汗和底部的灰，是兩種不同的髒。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "facebook_caption": "後背包底部，是全包最髒的一面。\n\n它天天放在地上，卻幾乎沒人洗過。背帶的汗和底部的灰，是兩種不同的髒。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "image_prompt": "Reel cover still: one fabric backpack tipped to show its base, ground grime across the bottom panel",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "local_image_path": "docs/assets/2026-08-07/slot-03.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-07/slot-03.png",
+      "status": "pending",
+      "video_prompt": "Animate the supplied image while preserving its exact composition, object placement, materials, surface wear, lighting direction and colour temperature. One restrained continuous action only: an extremely gentle push-in with slight natural handheld shake, as if held by a person. Keep every object in its original position and its original condition. Do not clean, repair, alter or transform the object. Do not add or remove anything. No hands in close-up and no finger detail. Do not add people, readable text, captions, logos, dialogue or music. No morphing, warping, flicker, jump cuts, sudden motion or collapsing geometry. Audio near-silent with only faint room tone. Natural restrained motion, stable first and final frames. Duration: 5 seconds. Aspect ratio: 9:16. Resolution: 720p.",
+      "local_video_path": "docs/assets/2026-08-07/slot-03.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-07/slot-03.mp4"
+    }
+  ]
+}

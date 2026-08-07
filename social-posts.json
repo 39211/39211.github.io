@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-06T22:30:07.581Z",
+  "generated_at": "2026-08-07T17:05:36.959Z",
   "site_name": "私享家洗衣店",
   "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -9,7 +9,7 @@
   "image_base_url": "https://39211.github.io",
   "image_base_url_configured": true,
   "canonical_url": "https://39211.github.io/",
-  "latest_date": "2026-08-06",
+  "latest_date": "2026-08-07",
   "open_graph": {
     "title": "台中免費收送｜逢甲洗鞋・西屯洗鞋｜私享家洗衣店",
     "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
@@ -3102,6 +3102,158 @@
       "url": "https://39211.github.io/content-calendar/2026-08-06.json#post-2026-08-06-slot-02",
       "facebook_caption": "帆布鞋沾泥，越用力刷越糟。\n\n私享家洗衣店\n\n濕的時候刷，泥會被推進織紋裡，布面也會起毛。等乾了再處理反而好救。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
       "instagram_caption": "帆布鞋沾泥，越用力刷越糟。\n\n私享家洗衣店\n\n濕的時候刷，泥會被推進織紋裡，布面也會起毛。等乾了再處理反而好救。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-01",
+      "date": "2026-08-07",
+      "date_published": "2026-08-07T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-08-07 11:30 化妝包拉鍊邊卡粉，先看內袋縫線",
+      "topic": "化妝包拉鍊邊卡粉，先看內袋縫線",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "化妝包清洗",
+        "化妝包拉鍊清潔",
+        "台中包包清洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#化妝包",
+        "#拉鍊邊",
+        "#台中洗衣"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-07/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-08-07/slot-01.png",
+      "image_paths": [
+        "assets/2026-08-07/slot-01.png",
+        "assets/2026-08-07/slot-01-slide-02.png",
+        "assets/2026-08-07/slot-01-slide-03.png",
+        "assets/2026-08-07/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-07/slot-01.png",
+        "https://39211.github.io/assets/2026-08-07/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-07/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-07/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-08-07.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-07.json",
+      "article_path": "posts/2026-08-07-slot-01.html",
+      "article_url": "https://39211.github.io/posts/2026-08-07-slot-01.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-01",
+      "facebook_caption": "化妝包拉鍊邊卡粉，先看內袋縫線。\n\n私享家洗衣店\n\n先不要擦、刷或噴；把完整外觀、拉鍊邊、內袋縫線與材質近照拍清楚，保留粉痕位置、磨損和原始狀態，詢問時才不會漏掉重點。\n\n拍好全貌與局部，用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #化妝包 #拉鍊邊 #台中洗衣",
+      "instagram_caption": "化妝包拉鍊邊卡粉，先看內袋縫線。\n\n私享家洗衣店\n\n先不要擦、刷或噴；把完整外觀、拉鍊邊、內袋縫線與材質近照拍清楚，保留粉痕位置、磨損和原始狀態，詢問時才不會漏掉重點。\n\n拍好全貌與局部，點個人檔案連結加 LINE 先詢問。\n\n#私享家洗衣店 #化妝包 #拉鍊邊 #台中洗衣"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-02",
+      "date": "2026-08-07",
+      "date_published": "2026-08-07T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-08-07 20:30 西裝變形，通常從肩線開始",
+      "topic": "西裝變形，通常從肩線開始",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗鞋",
+        "台中帆布鞋清洗",
+        "台中免費收送洗衣"
+      ],
+      "evidence_type": "pickup-logistics",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-07/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-08-07/slot-02.png",
+      "image_paths": [
+        "assets/2026-08-07/slot-02.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-07/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-08-07/slot-02.mp4",
+      "video_url": "https://39211.github.io/assets/2026-08-07/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-08-07.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-07.json",
+      "article_path": "posts/2026-08-07-slot-02.html",
+      "article_url": "https://39211.github.io/posts/2026-08-07-slot-02.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-02",
+      "facebook_caption": "西裝變形，通常從肩線開始。\n\n掛錯衣架、擠在衣櫃裡，肩襯塌下去就回不來了。那比髒更難處理。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "西裝變形，通常從肩線開始。\n\n掛錯衣架、擠在衣櫃裡，肩襯塌下去就回不來了。那比髒更難處理。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-03",
+      "date": "2026-08-07",
+      "date_published": "2026-08-07T12:00:00+08:00",
+      "slot": 3,
+      "time": "12:00",
+      "category": "情境文",
+      "title": "2026-08-07 12:00 後背包底部，是全包最髒的一面",
+      "topic": "後背包底部，是全包最髒的一面",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-07/slot-03.png",
+      "image_url": "https://39211.github.io/assets/2026-08-07/slot-03.png",
+      "image_paths": [
+        "assets/2026-08-07/slot-03.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-07/slot-03.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-08-07/slot-03.mp4",
+      "video_url": "https://39211.github.io/assets/2026-08-07/slot-03.mp4",
+      "calendar_path": "content-calendar/2026-08-07.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-07.json",
+      "article_path": "posts/2026-08-07-slot-03.html",
+      "article_url": "https://39211.github.io/posts/2026-08-07-slot-03.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-03",
+      "facebook_caption": "後背包底部，是全包最髒的一面。\n\n它天天放在地上，卻幾乎沒人洗過。背帶的汗和底部的灰，是兩種不同的髒。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "後背包底部，是全包最髒的一面。\n\n它天天放在地上，卻幾乎沒人洗過。背帶的汗和底部的灰，是兩種不同的髒。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
     }
   ],
   "article_posts": [
@@ -5781,6 +5933,158 @@
       "url": "https://39211.github.io/content-calendar/2026-08-06.json#post-2026-08-06-slot-02",
       "facebook_caption": "帆布鞋沾泥，越用力刷越糟。\n\n私享家洗衣店\n\n濕的時候刷，泥會被推進織紋裡，布面也會起毛。等乾了再處理反而好救。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
       "instagram_caption": "帆布鞋沾泥，越用力刷越糟。\n\n私享家洗衣店\n\n濕的時候刷，泥會被推進織紋裡，布面也會起毛。等乾了再處理反而好救。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-01",
+      "date": "2026-08-07",
+      "date_published": "2026-08-07T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-08-07 11:30 化妝包拉鍊邊卡粉，先看內袋縫線",
+      "topic": "化妝包拉鍊邊卡粉，先看內袋縫線",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "化妝包清洗",
+        "化妝包拉鍊清潔",
+        "台中包包清洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#化妝包",
+        "#拉鍊邊",
+        "#台中洗衣"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-07/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-08-07/slot-01.png",
+      "image_paths": [
+        "assets/2026-08-07/slot-01.png",
+        "assets/2026-08-07/slot-01-slide-02.png",
+        "assets/2026-08-07/slot-01-slide-03.png",
+        "assets/2026-08-07/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-07/slot-01.png",
+        "https://39211.github.io/assets/2026-08-07/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-07/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-07/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-08-07.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-07.json",
+      "article_path": "posts/2026-08-07-slot-01.html",
+      "article_url": "https://39211.github.io/posts/2026-08-07-slot-01.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-01",
+      "facebook_caption": "化妝包拉鍊邊卡粉，先看內袋縫線。\n\n私享家洗衣店\n\n先不要擦、刷或噴；把完整外觀、拉鍊邊、內袋縫線與材質近照拍清楚，保留粉痕位置、磨損和原始狀態，詢問時才不會漏掉重點。\n\n拍好全貌與局部，用 LINE 傳給我們先詢問。\n\n#私享家洗衣店 #化妝包 #拉鍊邊 #台中洗衣",
+      "instagram_caption": "化妝包拉鍊邊卡粉，先看內袋縫線。\n\n私享家洗衣店\n\n先不要擦、刷或噴；把完整外觀、拉鍊邊、內袋縫線與材質近照拍清楚，保留粉痕位置、磨損和原始狀態，詢問時才不會漏掉重點。\n\n拍好全貌與局部，點個人檔案連結加 LINE 先詢問。\n\n#私享家洗衣店 #化妝包 #拉鍊邊 #台中洗衣"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-02",
+      "date": "2026-08-07",
+      "date_published": "2026-08-07T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-08-07 20:30 西裝變形，通常從肩線開始",
+      "topic": "西裝變形，通常從肩線開始",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗鞋",
+        "台中帆布鞋清洗",
+        "台中免費收送洗衣"
+      ],
+      "evidence_type": "pickup-logistics",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-07/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-08-07/slot-02.png",
+      "image_paths": [
+        "assets/2026-08-07/slot-02.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-07/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-08-07/slot-02.mp4",
+      "video_url": "https://39211.github.io/assets/2026-08-07/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-08-07.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-07.json",
+      "article_path": "posts/2026-08-07-slot-02.html",
+      "article_url": "https://39211.github.io/posts/2026-08-07-slot-02.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-02",
+      "facebook_caption": "西裝變形，通常從肩線開始。\n\n掛錯衣架、擠在衣櫃裡，肩襯塌下去就回不來了。那比髒更難處理。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "西裝變形，通常從肩線開始。\n\n掛錯衣架、擠在衣櫃裡，肩襯塌下去就回不來了。那比髒更難處理。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-03",
+      "date": "2026-08-07",
+      "date_published": "2026-08-07T12:00:00+08:00",
+      "slot": 3,
+      "time": "12:00",
+      "category": "情境文",
+      "title": "2026-08-07 12:00 後背包底部，是全包最髒的一面",
+      "topic": "後背包底部，是全包最髒的一面",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-07/slot-03.png",
+      "image_url": "https://39211.github.io/assets/2026-08-07/slot-03.png",
+      "image_paths": [
+        "assets/2026-08-07/slot-03.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-07/slot-03.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-08-07/slot-03.mp4",
+      "video_url": "https://39211.github.io/assets/2026-08-07/slot-03.mp4",
+      "calendar_path": "content-calendar/2026-08-07.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-07.json",
+      "article_path": "posts/2026-08-07-slot-03.html",
+      "article_url": "https://39211.github.io/posts/2026-08-07-slot-03.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-07.json#post-2026-08-07-slot-03",
+      "facebook_caption": "後背包底部，是全包最髒的一面。\n\n它天天放在地上，卻幾乎沒人洗過。背帶的汗和底部的灰，是兩種不同的髒。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "後背包底部，是全包最髒的一面。\n\n它天天放在地上，卻幾乎沒人洗過。背帶的汗和底部的灰，是兩種不同的髒。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
     }
   ]
 }
