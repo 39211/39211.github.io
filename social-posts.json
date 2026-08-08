@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T13:38:47.660Z",
+  "generated_at": "2026-08-08T14:48:13.171Z",
   "site_name": "私享家洗衣店",
   "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -156,7 +156,8 @@
       "official_line_url": "public_facebook_instagram_search_result_cross_check",
       "holiday_hours_rule": "owner_rule_configured",
       "holiday_hours_overrides": "not_configured"
-    }
+    },
+    "youtube_url": "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ"
   },
   "posts": [
     {

@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-08T13:38:47.660Z",
+  "generated_at": "2026-08-08T14:48:13.171Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -109,7 +109,8 @@
       "official_line_url": "public_facebook_instagram_search_result_cross_check",
       "holiday_hours_rule": "owner_rule_configured",
       "holiday_hours_overrides": "not_configured"
-    }
+    },
+    "youtube_url": "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ"
   },
   "local_search_targets": {
     "primary_queries": [
@@ -332,7 +333,9 @@
     "hasMap": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
     "sameAs": [
       "https://www.facebook.com/100083194756904/",
-      "https://www.instagram.com/si_xiang_jia/"
+      "https://www.instagram.com/si_xiang_jia/",
+      "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ",
+      "https://maps.app.goo.gl/kUREPkWDXYNTkpct7"
     ],
     "image": [
       "https://39211.github.io/assets/2026-07-02/slot-01.png",
