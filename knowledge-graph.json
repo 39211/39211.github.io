@@ -154,6 +154,10 @@
         "https://39211.github.io/assets/2026-08-08/slot-01.png",
         "https://39211.github.io/assets/2026-08-08/slot-02.png",
         "https://39211.github.io/assets/2026-08-08/slot-03.png",
+        "https://39211.github.io/assets/2026-08-09/slot-02.png",
+        "https://39211.github.io/assets/2026-08-09/slot-03.png",
+        "https://39211.github.io/assets/2026-08-10/slot-02.png",
+        "https://39211.github.io/assets/2026-08-10/slot-03.png",
         "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -363,7 +367,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-08-08",
+      "dateModified": "2026-08-10",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -4446,6 +4450,134 @@
       "contentUrl": "https://39211.github.io/assets/2026-08-08/slot-03.png",
       "url": "https://39211.github.io/assets/2026-08-08/slot-03.png",
       "caption": "窗簾最髒的地方，你可能沒看過",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-09.json#post-2026-08-09-slot-02",
+      "headline": "2026-08-09 20:30 窗簾最髒的地方，你可能沒看過",
+      "text": "窗簾最髒的地方，你可能沒看過。\n\n下緣那一折，灰塵和濕氣都積在裡面。摸起來乾，味道其實藏在那裡。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-08-09T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-09.json#post-2026-08-09-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-09.json#post-2026-08-09-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-09.json#post-2026-08-09-slot-02:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-09/slot-02.png",
+      "url": "https://39211.github.io/assets/2026-08-09/slot-02.png",
+      "caption": "窗簾最髒的地方，你可能沒看過",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-09.json#post-2026-08-09-slot-03",
+      "headline": "2026-08-09 12:00 娃娃不是不能洗，是不能亂洗",
+      "text": "娃娃不是不能洗，是不能亂洗。\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。\n\n加 LINE 直接問：0968327653\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-08-09T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-09.json#post-2026-08-09-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-09.json#post-2026-08-09-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-09.json#post-2026-08-09-slot-03:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-09/slot-03.png",
+      "url": "https://39211.github.io/assets/2026-08-09/slot-03.png",
+      "caption": "娃娃不是不能洗，是不能亂洗",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02",
+      "headline": "2026-08-10 19:30 娃娃不是不能洗，是不能亂洗",
+      "text": "娃娃不是不能洗，是不能亂洗。\n\n私享家洗衣店\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-08-10T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-10/slot-02.png",
+      "url": "https://39211.github.io/assets/2026-08-10/slot-02.png",
+      "caption": "娃娃不是不能洗，是不能亂洗",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03",
+      "headline": "2026-08-10 12:00 皮鞋淋雨，擦乾就沒事了嗎",
+      "text": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-08-10T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-10/slot-03.png",
+      "url": "https://39211.github.io/assets/2026-08-10/slot-03.png",
+      "caption": "皮鞋淋雨，擦乾就沒事了嗎",
       "inLanguage": "zh-Hant"
     }
   ]
