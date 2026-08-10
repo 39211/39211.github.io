@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-10T02:25:39.618Z",
+  "generated_at": "2026-08-10T04:10:13.421Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -1154,8 +1154,8 @@
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 25,
-    "posts_with_target_queries": 25,
+    "posts_with_search_intent": 24,
+    "posts_with_target_queries": 24,
     "posts_with_evidence_type": 25
   },
   "latest_date": "2026-08-10",
@@ -1163,22 +1163,17 @@
     {
       "id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02",
       "date": "2026-08-10",
-      "date_published": "2026-08-10T19:30:00+08:00",
+      "date_published": "2026-08-10T20:30:00+08:00",
       "slot": 2,
-      "time": "19:30",
-      "title": "2026-08-10 19:30 娃娃不是不能洗，是不能亂洗",
+      "time": "20:30",
+      "title": "2026-08-10 20:30 娃娃不是不能洗，是不能亂洗",
       "topic": "娃娃不是不能洗，是不能亂洗",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "鞋子淋雨後怎麼收",
-        "棉被收納前要洗嗎"
-      ],
-      "evidence_type": "customer-question",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "owner-authorized-synthetic-inspection-concept",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1197,9 +1192,9 @@
       "media_type": "reel",
       "video_url": "https://39211.github.io/assets/2026-08-10/slot-02.mp4",
       "calendar_url": "https://39211.github.io/content-calendar/2026-08-10.json",
-      "article_url": "https://39211.github.io/posts/2026-08-10-slot-02.html",
-      "facebook_caption": "娃娃不是不能洗，是不能亂洗。\n\n私享家洗衣店\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
-      "instagram_caption": "娃娃不是不能洗，是不能亂洗。\n\n私享家洗衣店\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n認識那種娃娃捨不得丟、又不敢洗的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+      "article_url": "",
+      "facebook_caption": "娃娃不是不能洗，是不能亂洗。\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。\n\n加 LINE 直接問：0968327653\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "娃娃不是不能洗，是不能亂洗。\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n家裡有不敢洗的娃娃？拍一張私訊，我們先幫你看能不能洗。\n\n加 LINE 直接問：0968327653\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n認識那種娃娃捨不得丟、又不敢洗的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03",
@@ -1278,22 +1273,17 @@
     {
       "id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02",
       "date": "2026-08-10",
-      "date_published": "2026-08-10T19:30:00+08:00",
+      "date_published": "2026-08-10T20:30:00+08:00",
       "slot": 2,
-      "time": "19:30",
-      "title": "2026-08-10 19:30 娃娃不是不能洗，是不能亂洗",
+      "time": "20:30",
+      "title": "2026-08-10 20:30 娃娃不是不能洗，是不能亂洗",
       "topic": "娃娃不是不能洗，是不能亂洗",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "鞋子淋雨後怎麼收",
-        "棉被收納前要洗嗎"
-      ],
-      "evidence_type": "customer-question",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "owner-authorized-synthetic-inspection-concept",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -1312,9 +1302,9 @@
       "media_type": "reel",
       "video_url": "https://39211.github.io/assets/2026-08-10/slot-02.mp4",
       "calendar_url": "https://39211.github.io/content-calendar/2026-08-10.json",
-      "article_url": "https://39211.github.io/posts/2026-08-10-slot-02.html",
-      "facebook_caption": "娃娃不是不能洗，是不能亂洗。\n\n私享家洗衣店\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
-      "instagram_caption": "娃娃不是不能洗，是不能亂洗。\n\n私享家洗衣店\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n認識那種娃娃捨不得丟、又不敢洗的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+      "article_url": "",
+      "facebook_caption": "娃娃不是不能洗，是不能亂洗。\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。\n\n加 LINE 直接問：0968327653\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "娃娃不是不能洗，是不能亂洗。\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n家裡有不敢洗的娃娃？拍一張私訊，我們先幫你看能不能洗。\n\n加 LINE 直接問：0968327653\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n認識那種娃娃捨不得丟、又不敢洗的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-09.json#post-2026-08-09-slot-03",
@@ -5101,22 +5091,17 @@
     {
       "id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02",
       "date": "2026-08-10",
-      "date_published": "2026-08-10T19:30:00+08:00",
+      "date_published": "2026-08-10T20:30:00+08:00",
       "slot": 2,
-      "time": "19:30",
-      "title": "2026-08-10 19:30 娃娃不是不能洗，是不能亂洗",
+      "time": "20:30",
+      "title": "2026-08-10 20:30 娃娃不是不能洗，是不能亂洗",
       "topic": "娃娃不是不能洗，是不能亂洗",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "鞋子淋雨後怎麼收",
-        "棉被收納前要洗嗎"
-      ],
-      "evidence_type": "customer-question",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "owner-authorized-synthetic-inspection-concept",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
@@ -5135,9 +5120,9 @@
       "media_type": "reel",
       "video_url": "https://39211.github.io/assets/2026-08-10/slot-02.mp4",
       "calendar_url": "https://39211.github.io/content-calendar/2026-08-10.json",
-      "article_url": "https://39211.github.io/posts/2026-08-10-slot-02.html",
-      "facebook_caption": "娃娃不是不能洗，是不能亂洗。\n\n私享家洗衣店\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
-      "instagram_caption": "娃娃不是不能洗，是不能亂洗。\n\n私享家洗衣店\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n認識那種娃娃捨不得丟、又不敢洗的人嗎？傳給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+      "article_url": "",
+      "facebook_caption": "娃娃不是不能洗，是不能亂洗。\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。\n\n加 LINE 直接問：0968327653\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "娃娃不是不能洗，是不能亂洗。\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n家裡有不敢洗的娃娃？拍一張私訊，我們先幫你看能不能洗。\n\n加 LINE 直接問：0968327653\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n認識那種娃娃捨不得丟、又不敢洗的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03",

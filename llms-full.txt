@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-08-10T02:25:39.618Z
+- Generated at: 2026-08-10T04:10:13.421Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -3474,17 +3474,17 @@ Instagram caption:
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
 
-### 2026-08-10 19:30 娃娃不是不能洗，是不能亂洗
+### 2026-08-10 20:30 娃娃不是不能洗，是不能亂洗
 
 - id: https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02
-- published local time: 2026-08-10T19:30:00+08:00
+- published local time: 2026-08-10T20:30:00+08:00
 - category: 情境文
 - platforms: facebook, instagram
 - visual_route: shop-inspection
 - traffic_route: share-worthy-care
-- search_intent: aftercare
-- target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
-- evidence_type: customer-question
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: owner-authorized-synthetic-inspection-concept
 - hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
 - image: https://39211.github.io/assets/2026-08-10/slot-02.png
 - calendar: https://39211.github.io/content-calendar/2026-08-10.json
@@ -3493,13 +3493,15 @@ Facebook caption:
 
 娃娃不是不能洗，是不能亂洗。
 
-私享家洗衣店
-
 怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。
 
-有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。
+家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。
+
+加 LINE 直接問：0968327653
 
 家裡有沒有那種一直想洗、又不太敢洗的娃娃？
+
+私享家洗衣店｜台中市區免費到府收送
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
 
@@ -3507,15 +3509,17 @@ Instagram caption:
 
 娃娃不是不能洗，是不能亂洗。
 
-私享家洗衣店
-
 怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。
 
-有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。
+家裡有不敢洗的娃娃？拍一張私訊，我們先幫你看能不能洗。
+
+加 LINE 直接問：0968327653
 
 家裡有沒有那種一直想洗、又不太敢洗的娃娃？
 
 認識那種娃娃捨不得丟、又不敢洗的人嗎？傳給他。
+
+私享家洗衣店｜台中市區免費到府收送
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
 
