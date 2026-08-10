@@ -2155,25 +2155,24 @@
       }
     },
     {
-      "id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02",
-      "url": "https://39211.github.io/content-calendar/2026-08-10.json",
-      "title": "2026-08-10 20:30 娃娃不是不能洗，是不能亂洗",
-      "date_published": "2026-08-10T20:30:00+08:00",
-      "content_text": "娃娃不是不能洗，是不能亂洗。\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。\n\n加 LINE 直接問：0968327653\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
-      "summary": "娃娃不是不能洗，是不能亂洗",
-      "image": "https://39211.github.io/assets/2026-08-10/slot-02.png",
+      "id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-01",
+      "url": "https://39211.github.io/posts/2026-08-10-slot-01.html",
+      "title": "2026-08-10 11:30 帆布鞋沾泥後，先拍鞋底邊與鞋口",
+      "date_published": "2026-08-10T11:30:00+08:00",
+      "content_text": "帆布鞋沾泥，先別急著刷。\n\n私享家洗衣店\n\n先把整雙鞋、鞋底邊與鞋口拍清楚，泥痕落在哪裡、鞋面有沒有摺痕、鞋帶與內裡是否完整，都會影響後續判斷。\n\n拍全貌與兩個局部，傳 LINE 先詢問。\n\n#私享家洗衣店 #帆布鞋照護 #台中免費收送",
+      "summary": "帆布鞋沾泥後，先拍鞋底邊與鞋口",
+      "image": "https://39211.github.io/assets/2026-08-10/slot-01.png",
       "tags": [
         "私享家洗衣店",
-        "台中西屯洗衣店",
-        "台中免費收送",
-        "洗護日常"
+        "帆布鞋照護",
+        "台中免費收送"
       ],
       "_sixiangjia": {
-        "slot": 2,
-        "category": "情境文",
+        "slot": 1,
+        "category": "知識文",
         "visual_route": "shop-inspection",
-        "traffic_route": "share-worthy-care",
-        "content_role": "evidence-conversion",
+        "traffic_route": "save-worthy-inspection",
+        "content_role": "reach-answer",
         "search_intent": "",
         "target_queries": [],
         "evidence_type": "owner-authorized-synthetic-inspection-concept",
@@ -2185,28 +2184,27 @@
       }
     },
     {
-      "id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03",
-      "url": "https://39211.github.io/posts/2026-08-10-slot-03.html",
-      "title": "2026-08-10 12:00 皮鞋淋雨，擦乾就沒事了嗎",
-      "date_published": "2026-08-10T12:00:00+08:00",
-      "content_text": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
-      "summary": "皮鞋淋雨，擦乾就沒事了嗎",
-      "image": "https://39211.github.io/assets/2026-08-10/slot-03.png",
+      "id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02",
+      "url": "https://39211.github.io/posts/2026-08-10-slot-02.html",
+      "title": "2026-08-10 20:30 化妝包卡粉，先拍拉鍊邊與內袋縫線",
+      "date_published": "2026-08-10T20:30:00+08:00",
+      "content_text": "化妝包的粉痕，常躲在拉鍊邊。\n\n私享家洗衣店\n\n同一個化妝包先拍正面、拉鍊邊與內袋縫線，並保留粉痕原本的位置；材質、縫線與拉鍊狀態看得清楚，才方便先判斷可不可以接件。\n\n台中市全區免費收送。拍三個位置，傳 LINE 先詢問。\n\n#私享家洗衣店 #化妝包照護 #台中免費收送",
+      "summary": "化妝包卡粉，先拍拉鍊邊與內袋縫線",
+      "image": "https://39211.github.io/assets/2026-08-10/slot-02.png",
       "tags": [
         "私享家洗衣店",
-        "台中西屯洗衣店",
-        "台中免費收送",
-        "洗護日常"
+        "化妝包照護",
+        "台中免費收送"
       ],
       "_sixiangjia": {
-        "slot": 3,
+        "slot": 2,
         "category": "情境文",
         "visual_route": "shop-inspection",
-        "traffic_route": "share-worthy-care",
+        "traffic_route": "evidence-conversion",
         "content_role": "evidence-conversion",
         "search_intent": "",
         "target_queries": [],
-        "evidence_type": "",
+        "evidence_type": "owner-authorized-synthetic-inspection-concept",
         "platforms": [
           "facebook",
           "instagram"
