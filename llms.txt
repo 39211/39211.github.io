@@ -95,20 +95,30 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
-- [2026-08-10 20:30 化妝包卡粉，先拍拉鍊邊與內袋縫線](https://39211.github.io/posts/2026-08-10-slot-02.html)
+- [2026-08-10 12:00 皮鞋淋雨，擦乾就沒事了嗎](https://39211.github.io/posts/2026-08-10-slot-03.html)
   platform targets: facebook, instagram
-  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=evidence-conversion; search_intent=(legacy-unassigned)
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+  image: https://39211.github.io/assets/2026-08-10/slot-03.png
+  video: https://39211.github.io/assets/2026-08-10/slot-03.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-10.json
+- [2026-08-10 20:30 娃娃不是不能洗，是不能亂洗](https://39211.github.io/content-calendar/2026-08-10.json)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: owner-authorized-synthetic-inspection-concept
-  hashtags: #私享家洗衣店 #化妝包照護 #台中免費收送
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
   image: https://39211.github.io/assets/2026-08-10/slot-02.png
+  video: https://39211.github.io/assets/2026-08-10/slot-02.mp4
   calendar: https://39211.github.io/content-calendar/2026-08-10.json
-- [2026-08-10 11:30 帆布鞋沾泥後，先拍鞋底邊與鞋口](https://39211.github.io/posts/2026-08-10-slot-01.html)
+- [2026-08-10 11:30 制服燙整前，先看領口和袖口的舊痕](https://39211.github.io/posts/2026-08-10-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=save-worthy-inspection; search_intent=(legacy-unassigned)
-  target_queries: (legacy-unassigned)
+  target_queries: 制服送洗 台中 | 制服領口黃 | 開學 制服 燙整 | 台中洗衣店
   evidence_type: owner-authorized-synthetic-inspection-concept
-  hashtags: #私享家洗衣店 #帆布鞋照護 #台中免費收送
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #開學準備 #制服送洗
   image: https://39211.github.io/assets/2026-08-10/slot-01.png
   calendar: https://39211.github.io/content-calendar/2026-08-10.json
 - [2026-08-09 12:00 娃娃不是不能洗，是不能亂洗](https://39211.github.io/posts/2026-08-09-slot-03.html)

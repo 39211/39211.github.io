@@ -158,6 +158,7 @@
         "https://39211.github.io/assets/2026-08-09/slot-03.png",
         "https://39211.github.io/assets/2026-08-10/slot-01.png",
         "https://39211.github.io/assets/2026-08-10/slot-02.png",
+        "https://39211.github.io/assets/2026-08-10/slot-03.png",
         "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -4519,14 +4520,15 @@
     {
       "@type": "SocialMediaPosting",
       "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-01",
-      "headline": "2026-08-10 11:30 帆布鞋沾泥後，先拍鞋底邊與鞋口",
-      "text": "帆布鞋沾泥，先別急著刷。\n\n私享家洗衣店\n\n先把整雙鞋、鞋底邊與鞋口拍清楚，泥痕落在哪裡、鞋面有沒有摺痕、鞋帶與內裡是否完整，都會影響後續判斷。\n\n拍全貌與兩個局部，傳 LINE 先詢問。\n\n#私享家洗衣店 #帆布鞋照護 #台中免費收送",
+      "headline": "2026-08-10 11:30 制服燙整前，先看領口和袖口的舊痕",
+      "text": "制服燙整前，先看領口和袖口的舊痕。\n\n開學前送洗制服的家長最多。但很多制服的問題不是皺，是領口袖口積了一學期的皮脂，高溫一燙反而把黃痕定型。\n\n我們會先看領口內側和袖口摺線，有舊痕先處理再整燙，順序對了制服才會又平又乾淨。\n\n家裡的制服領口已經黃了？拍一張私訊給我們看看。\n\n你家的開學準備清單裡，有把制服送洗排進去嗎？\n\n追蹤私享家，之後會持續整理開學前衣物鞋包的送洗判斷。\n\n加 LINE 直接問：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #制服送洗",
       "datePublished": "2026-08-10T11:30:00+08:00",
       "inLanguage": "zh-Hant",
       "keywords": [
         "#私享家洗衣店",
-        "#帆布鞋照護",
-        "#台中免費收送"
+        "#台中西屯洗衣店",
+        "#開學準備",
+        "#制服送洗"
       ],
       "image": {
         "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-01:image"
@@ -4544,20 +4546,21 @@
       "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-01:image",
       "contentUrl": "https://39211.github.io/assets/2026-08-10/slot-01.png",
       "url": "https://39211.github.io/assets/2026-08-10/slot-01.png",
-      "caption": "帆布鞋沾泥後，先拍鞋底邊與鞋口",
+      "caption": "制服燙整前，先看領口和袖口的舊痕",
       "inLanguage": "zh-Hant"
     },
     {
       "@type": "SocialMediaPosting",
       "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02",
-      "headline": "2026-08-10 20:30 化妝包卡粉，先拍拉鍊邊與內袋縫線",
-      "text": "化妝包的粉痕，常躲在拉鍊邊。\n\n私享家洗衣店\n\n同一個化妝包先拍正面、拉鍊邊與內袋縫線，並保留粉痕原本的位置；材質、縫線與拉鍊狀態看得清楚，才方便先判斷可不可以接件。\n\n台中市全區免費收送。拍三個位置，傳 LINE 先詢問。\n\n#私享家洗衣店 #化妝包照護 #台中免費收送",
+      "headline": "2026-08-10 20:30 娃娃不是不能洗，是不能亂洗",
+      "text": "娃娃不是不能洗，是不能亂洗。\n\n怕的不是水，是脫水那一段。填充會結塊，黏上去的五官也可能掉。\n\n家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。\n\n加 LINE 直接問：0968327653\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
       "datePublished": "2026-08-10T20:30:00+08:00",
       "inLanguage": "zh-Hant",
       "keywords": [
         "#私享家洗衣店",
-        "#化妝包照護",
-        "#台中免費收送"
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
       ],
       "image": {
         "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02:image"
@@ -4575,7 +4578,39 @@
       "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-02:image",
       "contentUrl": "https://39211.github.io/assets/2026-08-10/slot-02.png",
       "url": "https://39211.github.io/assets/2026-08-10/slot-02.png",
-      "caption": "化妝包卡粉，先拍拉鍊邊與內袋縫線",
+      "caption": "娃娃不是不能洗，是不能亂洗",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03",
+      "headline": "2026-08-10 12:00 皮鞋淋雨，擦乾就沒事了嗎",
+      "text": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-08-10T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-10/slot-03.png",
+      "url": "https://39211.github.io/assets/2026-08-10/slot-03.png",
+      "caption": "皮鞋淋雨，擦乾就沒事了嗎",
       "inLanguage": "zh-Hant"
     }
   ]
