@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-11T01:52:57.959Z",
+  "generated_at": "2026-08-11T02:32:29.237Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -1383,7 +1383,7 @@
       "id": "dry-cleaning-guide-faq-04",
       "type": "guide_faq",
       "question": "台中乾洗怎麼估價？",
-      "answer": "網站不放未驗證價目。拍衣物全身照加洗標照 LINE 傳給門市（0968327653），會先報判斷與費用範圍再由你決定；台中市全區免費收送。",
+      "answer": "公開價目（水洗價）：襯衫 $70、西裝背心 $80、毛衣 $150、薄外套 $150、厚外套 $180、長大衣 $300、禮服 $450、羽絨外套 $280、G-T 外套 $250。乾洗柔洗另計，以實際報價為主；LINE 傳照片（0968327653）可先確認，台中市全區免費收送。",
       "service": "台中西屯洗衣店",
       "source_url": "https://39211.github.io/guides/dry-cleaning-guide.html#faq",
       "local_intent": "台中 乾洗 西裝乾洗 大衣乾洗 襯衫送洗",
@@ -2166,7 +2166,7 @@
       "id": "qinghai-road-shoe-cleaning-faq-01",
       "type": "local_faq",
       "question": "逢甲附近洗鞋要多少錢？",
-      "answer": "依鞋款材質與髒污狀態而定，網站不放未驗證的統一價目。用 LINE 傳鞋面、鞋邊、鞋底、鞋內四張照片，門市會先報判斷與費用範圍再由你決定。",
+      "answer": "公開價目（水洗價）：一般運動鞋 $250、皮類運動鞋 $300、休閒鞋 $350、皮鞋 $400、麂皮鞋 $400、高跟鞋 $400、名牌鞋 $600、童鞋 $150。乾洗柔洗另計，發霉特污另計，以實際報價為主；LINE 傳照片可先確認。",
       "service": "鞋包清潔",
       "source_url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html#faq",
       "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送",

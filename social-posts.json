@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T01:52:57.959Z",
+  "generated_at": "2026-08-11T02:32:29.237Z",
   "site_name": "私享家洗衣店",
   "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -9,7 +9,7 @@
   "image_base_url": "https://39211.github.io",
   "image_base_url_configured": true,
   "canonical_url": "https://39211.github.io/",
-  "latest_date": "2026-08-10",
+  "latest_date": "2026-08-11",
   "open_graph": {
     "title": "私享家洗衣店｜台中免費收送・逢甲洗鞋・西屯洗鞋",
     "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
@@ -3653,6 +3653,155 @@
       "url": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03",
       "facebook_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
       "instagram_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-01",
+      "date": "2026-08-11",
+      "date_published": "2026-08-11T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-08-11 11:30 書包背帶發黑，開學前先看這兩個位置",
+      "topic": "書包背帶發黑，開學前先看這兩個位置",
+      "visual_route": "shop-inspection",
+      "traffic_route": "question-led",
+      "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [
+        "書包清洗 台中",
+        "書包背帶 汗味",
+        "開學 書包 送洗",
+        "台中洗衣店"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#開學準備",
+        "#書包清洗"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-11/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-08-11/slot-01.png",
+      "image_paths": [
+        "assets/2026-08-11/slot-01.png",
+        "assets/2026-08-11/slot-01-slide-02.png",
+        "assets/2026-08-11/slot-01-slide-03.png",
+        "assets/2026-08-11/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-11/slot-01.png",
+        "https://39211.github.io/assets/2026-08-11/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-11/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-11/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-08-11.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-11.json",
+      "article_path": "posts/2026-08-11-slot-01.html",
+      "article_url": "https://39211.github.io/posts/2026-08-11-slot-01.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-01",
+      "facebook_caption": "書包背帶發黑，開學前先看這兩個位置。\n\n背帶內側和背板是整個書包最髒的兩塊：整學期的汗和灰都壓在這裡，表面看不太出來，聞得出來。\n\n我們會先看背帶縫線有沒有鬆、背板海綿有沒有變形，能處理的先處理，再整包清潔。開學前送洗，開學那天背的是乾淨的。\n\n書包多久沒洗了？拍一張私訊給我們看看。\n\n你家的開學清單，有把書包排進去嗎？\n\n追蹤私享家，之後會持續整理開學前衣物鞋包的送洗判斷。\n\n加 LINE 直接問：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #書包清洗",
+      "instagram_caption": "書包背帶發黑，開學前先看這兩個位置。\n\n背帶內側和背板是整個書包最髒的兩塊：整學期的汗和灰都壓在這裡，表面看不太出來，聞得出來。\n\n我們會先看背帶縫線有沒有鬆、背板海綿有沒有變形，能處理的先處理，再整包清潔。開學前送洗，開學那天背的是乾淨的。\n\n書包多久沒洗了？拍一張私訊給我們看看。\n\n你家的開學清單，有把書包排進去嗎？\n\n追蹤私享家，之後會持續整理開學前衣物鞋包的送洗判斷。\n\n加 LINE 直接問：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #書包清洗"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-02",
+      "date": "2026-08-11",
+      "date_published": "2026-08-11T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-08-11 20:30 皮鞋淋雨，擦乾就沒事了嗎",
+      "topic": "皮鞋淋雨，擦乾就沒事了嗎",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-11/slot-02.png",
+      "image_url": "https://39211.github.io/assets/2026-08-11/slot-02.png",
+      "image_paths": [
+        "assets/2026-08-11/slot-02.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-11/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-08-11/slot-02.mp4",
+      "video_url": "https://39211.github.io/assets/2026-08-11/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-08-11.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-11.json",
+      "article_path": "posts/2026-08-11-slot-02.html",
+      "article_url": "https://39211.github.io/posts/2026-08-11-slot-02.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-02",
+      "facebook_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-03",
+      "date": "2026-08-11",
+      "date_published": "2026-08-11T12:00:00+08:00",
+      "slot": 3,
+      "time": "12:00",
+      "category": "情境文",
+      "title": "2026-08-11 12:00 白鞋泛黃，不是刷得不夠用力",
+      "topic": "白鞋泛黃，不是刷得不夠用力",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-11/slot-03.png",
+      "image_url": "https://39211.github.io/assets/2026-08-11/slot-03.png",
+      "image_paths": [
+        "assets/2026-08-11/slot-03.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-11/slot-03.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-08-11/slot-03.mp4",
+      "video_url": "https://39211.github.io/assets/2026-08-11/slot-03.mp4",
+      "calendar_path": "content-calendar/2026-08-11.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-11.json",
+      "article_path": "posts/2026-08-11-slot-03.html",
+      "article_url": "https://39211.github.io/posts/2026-08-11-slot-03.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-03",
+      "facebook_caption": "白鞋泛黃，不是刷得不夠用力。\n\n問題多半在中底和鞋邊，那裡是材質在氧化。越用力刷，布面越容易起毛。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "白鞋泛黃，不是刷得不夠用力。\n\n問題多半在中底和鞋邊，那裡是材質在氧化。越用力刷，布面越容易起毛。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
     }
   ],
   "article_posts": [
@@ -6736,6 +6885,109 @@
       "url": "https://39211.github.io/content-calendar/2026-08-10.json#post-2026-08-10-slot-03",
       "facebook_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
       "instagram_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-01",
+      "date": "2026-08-11",
+      "date_published": "2026-08-11T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-08-11 11:30 書包背帶發黑，開學前先看這兩個位置",
+      "topic": "書包背帶發黑，開學前先看這兩個位置",
+      "visual_route": "shop-inspection",
+      "traffic_route": "question-led",
+      "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [
+        "書包清洗 台中",
+        "書包背帶 汗味",
+        "開學 書包 送洗",
+        "台中洗衣店"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#開學準備",
+        "#書包清洗"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-11/slot-01.png",
+      "image_url": "https://39211.github.io/assets/2026-08-11/slot-01.png",
+      "image_paths": [
+        "assets/2026-08-11/slot-01.png",
+        "assets/2026-08-11/slot-01-slide-02.png",
+        "assets/2026-08-11/slot-01-slide-03.png",
+        "assets/2026-08-11/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-11/slot-01.png",
+        "https://39211.github.io/assets/2026-08-11/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-11/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-11/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-08-11.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-11.json",
+      "article_path": "posts/2026-08-11-slot-01.html",
+      "article_url": "https://39211.github.io/posts/2026-08-11-slot-01.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-01",
+      "facebook_caption": "書包背帶發黑，開學前先看這兩個位置。\n\n背帶內側和背板是整個書包最髒的兩塊：整學期的汗和灰都壓在這裡，表面看不太出來，聞得出來。\n\n我們會先看背帶縫線有沒有鬆、背板海綿有沒有變形，能處理的先處理，再整包清潔。開學前送洗，開學那天背的是乾淨的。\n\n書包多久沒洗了？拍一張私訊給我們看看。\n\n你家的開學清單，有把書包排進去嗎？\n\n追蹤私享家，之後會持續整理開學前衣物鞋包的送洗判斷。\n\n加 LINE 直接問：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #書包清洗",
+      "instagram_caption": "書包背帶發黑，開學前先看這兩個位置。\n\n背帶內側和背板是整個書包最髒的兩塊：整學期的汗和灰都壓在這裡，表面看不太出來，聞得出來。\n\n我們會先看背帶縫線有沒有鬆、背板海綿有沒有變形，能處理的先處理，再整包清潔。開學前送洗，開學那天背的是乾淨的。\n\n書包多久沒洗了？拍一張私訊給我們看看。\n\n你家的開學清單，有把書包排進去嗎？\n\n追蹤私享家，之後會持續整理開學前衣物鞋包的送洗判斷。\n\n加 LINE 直接問：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #書包清洗"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-03",
+      "date": "2026-08-11",
+      "date_published": "2026-08-11T12:00:00+08:00",
+      "slot": 3,
+      "time": "12:00",
+      "category": "情境文",
+      "title": "2026-08-11 12:00 白鞋泛黃，不是刷得不夠用力",
+      "topic": "白鞋泛黃，不是刷得不夠用力",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-08-11/slot-03.png",
+      "image_url": "https://39211.github.io/assets/2026-08-11/slot-03.png",
+      "image_paths": [
+        "assets/2026-08-11/slot-03.png"
+      ],
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-11/slot-03.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-08-11/slot-03.mp4",
+      "video_url": "https://39211.github.io/assets/2026-08-11/slot-03.mp4",
+      "calendar_path": "content-calendar/2026-08-11.json",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-11.json",
+      "article_path": "posts/2026-08-11-slot-03.html",
+      "article_url": "https://39211.github.io/posts/2026-08-11-slot-03.html",
+      "url": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-03",
+      "facebook_caption": "白鞋泛黃，不是刷得不夠用力。\n\n問題多半在中底和鞋邊，那裡是材質在氧化。越用力刷，布面越容易起毛。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "instagram_caption": "白鞋泛黃，不是刷得不夠用力。\n\n問題多半在中底和鞋邊，那裡是材質在氧化。越用力刷，布面越容易起毛。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
     }
   ]
 }

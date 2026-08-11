@@ -159,6 +159,9 @@
         "https://39211.github.io/assets/2026-08-10/slot-01.png",
         "https://39211.github.io/assets/2026-08-10/slot-02.png",
         "https://39211.github.io/assets/2026-08-10/slot-03.png",
+        "https://39211.github.io/assets/2026-08-11/slot-01.png",
+        "https://39211.github.io/assets/2026-08-11/slot-02.png",
+        "https://39211.github.io/assets/2026-08-11/slot-03.png",
         "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -368,7 +371,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-08-10",
+      "dateModified": "2026-08-11",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -1459,7 +1462,7 @@
           "name": "台中乾洗怎麼估價？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "網站不放未驗證價目。拍衣物全身照加洗標照 LINE 傳給門市（0968327653），會先報判斷與費用範圍再由你決定；台中市全區免費收送。"
+            "text": "公開價目（水洗價）：襯衫 $70、西裝背心 $80、毛衣 $150、薄外套 $150、厚外套 $180、長大衣 $300、禮服 $450、羽絨外套 $280、G-T 外套 $250。乾洗柔洗另計，以實際報價為主；LINE 傳照片（0968327653）可先確認，台中市全區免費收送。"
           }
         }
       ]
@@ -2304,7 +2307,7 @@
           "name": "逢甲附近洗鞋要多少錢？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "依鞋款材質與髒污狀態而定，網站不放未驗證的統一價目。用 LINE 傳鞋面、鞋邊、鞋底、鞋內四張照片，門市會先報判斷與費用範圍再由你決定。"
+            "text": "公開價目（水洗價）：一般運動鞋 $250、皮類運動鞋 $300、休閒鞋 $350、皮鞋 $400、麂皮鞋 $400、高跟鞋 $400、名牌鞋 $600、童鞋 $150。乾洗柔洗另計，發霉特污另計，以實際報價為主；LINE 傳照片可先確認。"
           }
         },
         {
@@ -4611,6 +4614,102 @@
       "contentUrl": "https://39211.github.io/assets/2026-08-10/slot-03.png",
       "url": "https://39211.github.io/assets/2026-08-10/slot-03.png",
       "caption": "皮鞋淋雨，擦乾就沒事了嗎",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-01",
+      "headline": "2026-08-11 11:30 書包背帶發黑，開學前先看這兩個位置",
+      "text": "書包背帶發黑，開學前先看這兩個位置。\n\n背帶內側和背板是整個書包最髒的兩塊：整學期的汗和灰都壓在這裡，表面看不太出來，聞得出來。\n\n我們會先看背帶縫線有沒有鬆、背板海綿有沒有變形，能處理的先處理，再整包清潔。開學前送洗，開學那天背的是乾淨的。\n\n書包多久沒洗了？拍一張私訊給我們看看。\n\n你家的開學清單，有把書包排進去嗎？\n\n追蹤私享家，之後會持續整理開學前衣物鞋包的送洗判斷。\n\n加 LINE 直接問：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #書包清洗",
+      "datePublished": "2026-08-11T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#開學準備",
+        "#書包清洗"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-01:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-11/slot-01.png",
+      "url": "https://39211.github.io/assets/2026-08-11/slot-01.png",
+      "caption": "書包背帶發黑，開學前先看這兩個位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-02",
+      "headline": "2026-08-11 20:30 皮鞋淋雨，擦乾就沒事了嗎",
+      "text": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-08-11T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-02:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-11/slot-02.png",
+      "url": "https://39211.github.io/assets/2026-08-11/slot-02.png",
+      "caption": "皮鞋淋雨，擦乾就沒事了嗎",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-03",
+      "headline": "2026-08-11 12:00 白鞋泛黃，不是刷得不夠用力",
+      "text": "白鞋泛黃，不是刷得不夠用力。\n\n問題多半在中底和鞋邊，那裡是材質在氧化。越用力刷，布面越容易起毛。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "datePublished": "2026-08-11T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-11.json#post-2026-08-11-slot-03:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-11/slot-03.png",
+      "url": "https://39211.github.io/assets/2026-08-11/slot-03.png",
+      "caption": "白鞋泛黃，不是刷得不夠用力",
       "inLanguage": "zh-Hant"
     }
   ]

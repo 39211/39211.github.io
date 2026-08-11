@@ -1,0 +1,137 @@
+{
+  "date": "2026-08-11",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-08-10T22:38:31.231Z",
+  "production_contract": {
+    "force_rebuilt": true,
+    "slot_count": 2,
+    "images_per_slot": 4,
+    "video_candidates_per_slot": 1,
+    "approval_authorized": false,
+    "publishing_authorized_by_this_run": false
+  },
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "書包背帶發黑，開學前先看這兩個位置",
+      "format": "image-post",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "書包背帶發黑，開學前先看這兩個位置。\n\n背帶內側和背板是整個書包最髒的兩塊：整學期的汗和灰都壓在這裡，表面看不太出來，聞得出來。\n\n我們會先看背帶縫線有沒有鬆、背板海綿有沒有變形，能處理的先處理，再整包清潔。開學前送洗，開學那天背的是乾淨的。\n\n書包多久沒洗了？拍一張私訊給我們看看。\n\n你家的開學清單，有把書包排進去嗎？\n\n追蹤私享家，之後會持續整理開學前衣物鞋包的送洗判斷。\n\n加 LINE 直接問：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #書包清洗",
+      "facebook_caption": "書包背帶發黑，開學前先看這兩個位置。\n\n背帶內側和背板是整個書包最髒的兩塊：整學期的汗和灰都壓在這裡，表面看不太出來，聞得出來。\n\n我們會先看背帶縫線有沒有鬆、背板海綿有沒有變形，能處理的先處理，再整包清潔。開學前送洗，開學那天背的是乾淨的。\n\n書包多久沒洗了？拍一張私訊給我們看看。\n\n你家的開學清單，有把書包排進去嗎？\n\n追蹤私享家，之後會持續整理開學前衣物鞋包的送洗判斷。\n\n加 LINE 直接問：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #書包清洗",
+      "image_prompt": "Create one portrait 4:5 photo. Shot on a phone, 35mm documentary perspective, f/2.8 feel with the featured object sharp and the background still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly blurred in the background, everyday Taiwanese laundry shop clutter at the frame edges. Soft mixed light from the storefront window and fluorescent ceiling, gentle shadow falloff, natural highlight roll-off, Kodak Portra 400 inspired warm tone, subtle film grain, slight handheld framing imperfection, contact shadow under the object. Featured object: an unbranded navy-blue school backpack, honestly used - fabric weave visible, darkened sweat marks on the inner shoulder-strap padding, light dust in the zipper seams, slightly compressed back panel. Not editorial, not studio lighting, no plastic or waxy surfaces, no artificial background blur, no readable text, no brand marks or logos, no watermark. Composition: the backpack standing upright on the counter, both shoulder straps turned outward so the darkened inner padding faces the camera.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one portrait 4:5 photo. Shot on a phone, 35mm documentary perspective, f/2.8 feel with the featured object sharp and the background still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly blurred in the background, everyday Taiwanese laundry shop clutter at the frame edges. Soft mixed light from the storefront window and fluorescent ceiling, gentle shadow falloff, natural highlight roll-off, Kodak Portra 400 inspired warm tone, subtle film grain, slight handheld framing imperfection, contact shadow under the object. Featured object: an unbranded navy-blue school backpack, honestly used - fabric weave visible, darkened sweat marks on the inner shoulder-strap padding, light dust in the zipper seams, slightly compressed back panel. Not editorial, not studio lighting, no plastic or waxy surfaces, no artificial background blur, no readable text, no brand marks or logos, no watermark. Composition: the backpack standing upright on the counter, both shoulder straps turned outward so the darkened inner padding faces the camera.",
+          "local_image_path": "docs/assets/2026-08-11/slot-01.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-11/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Create one portrait 4:5 photo. Shot on a phone, 35mm documentary perspective, f/2.8 feel with the featured object sharp and the background still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly blurred in the background, everyday Taiwanese laundry shop clutter at the frame edges. Soft mixed light from the storefront window and fluorescent ceiling, gentle shadow falloff, natural highlight roll-off, Kodak Portra 400 inspired warm tone, subtle film grain, slight handheld framing imperfection, contact shadow under the object. Featured object: an unbranded navy-blue school backpack, honestly used - fabric weave visible, darkened sweat marks on the inner shoulder-strap padding, light dust in the zipper seams, slightly compressed back panel. Not editorial, not studio lighting, no plastic or waxy surfaces, no artificial background blur, no readable text, no brand marks or logos, no watermark. Composition: close-up of ONE shoulder strap flipped over, a hand holding it steady, the darkened sweat line on the padding clearly visible.",
+          "local_image_path": "docs/assets/2026-08-11/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-11/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Create one portrait 4:5 photo. Shot on a phone, 35mm documentary perspective, f/2.8 feel with the featured object sharp and the background still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly blurred in the background, everyday Taiwanese laundry shop clutter at the frame edges. Soft mixed light from the storefront window and fluorescent ceiling, gentle shadow falloff, natural highlight roll-off, Kodak Portra 400 inspired warm tone, subtle film grain, slight handheld framing imperfection, contact shadow under the object. Featured object: an unbranded navy-blue school backpack, honestly used - fabric weave visible, darkened sweat marks on the inner shoulder-strap padding, light dust in the zipper seams, slightly compressed back panel. Not editorial, not studio lighting, no plastic or waxy surfaces, no artificial background blur, no readable text, no brand marks or logos, no watermark. Composition: the back panel facing camera under the counter light, foam compression and faint salt marks visible, one hand pressing the padding lightly.",
+          "local_image_path": "docs/assets/2026-08-11/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-11/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create one portrait 4:5 photo. Shot on a phone, 35mm documentary perspective, f/2.8 feel with the featured object sharp and the background still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly blurred in the background, everyday Taiwanese laundry shop clutter at the frame edges. Soft mixed light from the storefront window and fluorescent ceiling, gentle shadow falloff, natural highlight roll-off, Kodak Portra 400 inspired warm tone, subtle film grain, slight handheld framing imperfection, contact shadow under the object. Featured object: an unbranded navy-blue school backpack, honestly used - fabric weave visible, darkened sweat marks on the inner shoulder-strap padding, light dust in the zipper seams, slightly compressed back panel. Not editorial, not studio lighting, no plastic or waxy surfaces, no artificial background blur, no readable text, no brand marks or logos, no watermark. Composition: the same backpack after cleaning, straps clean and lofted, standing on the counter, shop interior softly behind.",
+          "local_image_path": "docs/assets/2026-08-11/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-11/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. First second already shows exactly two stationary off-white canvas slip-on shoes, one blank matte-grey card held by a separate shallow stainless-steel rail across the line of sight to the right shoe opening, and one broad adult forearm entering from frame-left. One dominant action only: the same relaxed open hand grips only the outer short edge of the single card and slides it laterally left until the right shoe opening is fully visible, then releases and exits frame. Preserve exactly two shoes, one card, one rail and one hand. Keep the full hand silhouette readable without a close-up; five fingers remain anatomically coherent but finger detail is not the focal point. Both shoes and the rail remain fixed, grounded and unchanged. Preserve canvas weave, navy foxing lines, realistic weight, grip, inertia and contact shadows. Fixed restrained camera, motivated mixed fluorescent and storefront light. No cleaning transformation. No extra hands. No duplicate object, card or shoe. No penetration, no floating, no morphing, no readable text, no logo, no watermark, no generated audio. End on the unobstructed shoe opening for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "鞋口被遮住，先拍全貌",
+        "conflict": "單張近照讓右鞋鞋口被檢查卡遮住，左右鞋與原始狀態難以同時看清。",
+        "single_action": "同一隻手只把獨立軌道上的單一卡片向左滑出，兩隻鞋完全不動。",
+        "payoff": "鞋口重新完整可見，保留送洗前的原始狀態。",
+        "cta": "拍全貌、鞋口與鞋底，LINE 傳來先詢問。",
+        "duration_seconds": 6,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "精確 1080x1920 固定直式鏡位；前景是兩隻完整帆布便鞋與獨立淺軌上的單一卡片，卡片遮住右鞋鞋口的視線但不接觸鞋面；中景是一隻成人前臂從左側進入，完整張開的手掌非手指特寫；中後景保留真實洗衣店層次；無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. First second already shows exactly two stationary off-white canvas slip-on shoes, one blank matte-grey card held by a separate shallow stainless-steel rail across the line of sight to the right shoe opening, and one broad adult forearm entering from frame-left. One dominant action only: the same relaxed open hand grips only the outer short edge of the single card and slides it laterally left until the right shoe opening is fully visible, then releases and exits frame. Preserve exactly two shoes, one card, one rail and one hand. Keep the full hand silhouette readable without a close-up; five fingers remain anatomically coherent but finger detail is not the focal point. Both shoes and the rail remain fixed, grounded and unchanged. Preserve canvas weave, navy foxing lines, realistic weight, grip, inertia and contact shadows. Fixed restrained camera, motivated mixed fluorescent and storefront light. No cleaning transformation. No extra hands. No duplicate object, card or shoe. No penetration, no floating, no morphing, no readable text, no logo, no watermark, no generated audio. End on the unobstructed shoe opening for one second.",
+        "fallback_media_type": "carousel"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-08-11",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "mixed-carousel-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "shop-inspection",
+      "traffic_route": "question-led",
+      "content_role": "reach-answer",
+      "primary_experiment_variable": "broad_hand_silhouette_without_finger_closeup",
+      "experiment_status": "hypothesis_ready",
+      "local_image_path": "docs/assets/2026-08-11/slot-01.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-11/slot-01.png",
+      "local_video_path": "docs/assets/2026-08-11/slot-01.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-11/slot-01.mp4",
+      "status": "pending",
+      "target_queries": [
+        "書包清洗 台中",
+        "書包背帶 汗味",
+        "開學 書包 送洗",
+        "台中洗衣店"
+      ],
+      "seo_sync_page": "/guides/photo-before-laundry.html"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "皮鞋淋雨，擦乾就沒事了嗎",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "facebook_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n水痕通常過幾天才浮出來。這時候上油，等於把它鎖進皮裡面。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "image_prompt": "Reel cover still: one pair of unbranded leather dress shoes, faint dried rain marks across both vamps",
+      "video_prompt": "Animate the supplied image while preserving its exact composition, object placement, materials, surface wear, lighting direction and colour temperature. One restrained continuous action only: an extremely gentle push-in with slight natural handheld shake, as if held by a person. Keep every object in its original position and its original condition. Do not clean, repair, alter or transform the object. Do not add or remove anything. No hands in close-up and no finger detail. Do not add people, readable text, captions, logos, dialogue or music. No morphing, warping, flicker, jump cuts, sudden motion or collapsing geometry. Audio near-silent with only faint room tone. Natural restrained motion, stable first and final frames. Duration: 5 seconds. Aspect ratio: 9:16. Resolution: 720p.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "primary_experiment_variable": "stable_seam_anchor_without_powder_marker",
+      "experiment_status": "hypothesis_ready",
+      "local_image_path": "docs/assets/2026-08-11/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-11/slot-02.png",
+      "local_video_path": "docs/assets/2026-08-11/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-11/slot-02.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 3,
+      "time": "12:00",
+      "category": "情境文",
+      "topic": "白鞋泛黃，不是刷得不夠用力",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "白鞋泛黃，不是刷得不夠用力。\n\n問題多半在中底和鞋邊，那裡是材質在氧化。越用力刷，布面越容易起毛。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "facebook_caption": "白鞋泛黃，不是刷得不夠用力。\n\n問題多半在中底和鞋邊，那裡是材質在氧化。越用力刷，布面越容易起毛。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n加 LINE 直接問：0968327653\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
+      "image_prompt": "Reel cover still: one pair of unbranded white sneakers, midsole edge and rubber trim visibly greyed and yellowed",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "local_image_path": "docs/assets/2026-08-11/slot-03.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-11/slot-03.png",
+      "status": "pending",
+      "video_prompt": "Animate the supplied image while preserving its exact composition, object placement, materials, surface wear, lighting direction and colour temperature. One restrained continuous action only: an extremely gentle push-in with slight natural handheld shake, as if held by a person. Keep every object in its original position and its original condition. Do not clean, repair, alter or transform the object. Do not add or remove anything. No hands in close-up and no finger detail. Do not add people, readable text, captions, logos, dialogue or music. No morphing, warping, flicker, jump cuts, sudden motion or collapsing geometry. Audio near-silent with only faint room tone. Natural restrained motion, stable first and final frames. Duration: 5 seconds. Aspect ratio: 9:16. Resolution: 720p.",
+      "local_video_path": "docs/assets/2026-08-11/slot-03.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-11/slot-03.mp4"
+    }
+  ]
+}
