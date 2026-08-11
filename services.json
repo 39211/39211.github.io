@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-11T12:12:54.431Z",
+  "generated_at": "2026-08-11T12:36:11.003Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://39211.github.io/",
@@ -491,6 +491,12 @@
         }
       ],
       "related_support_pages": [
+        {
+          "slug": "school-uniform-care",
+          "title": "開學前制服怎麼整理?領口黃、袖口髒的處理順序｜台中送洗",
+          "url": "https://39211.github.io/guides/school-uniform-care.html",
+          "local_intent": "台中 制服送洗 開學 領口發黃"
+        },
         {
           "slug": "dry-cleaning-guide",
           "title": "乾洗、水洗差在哪？哪些衣物一定要乾洗｜台中乾洗 私享家洗衣店",

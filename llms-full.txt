@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-08-11T12:12:54.431Z
+- Generated at: 2026-08-11T12:36:11.003Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -34,6 +34,7 @@
 - service_pages.taichung-citywide-laundry-pickup: https://39211.github.io/services/taichung-citywide-laundry-pickup.html
 - support_pages.photo-before-laundry: https://39211.github.io/guides/photo-before-laundry.html
 - support_pages.white-shoe-yellowing: https://39211.github.io/guides/white-shoe-yellowing.html
+- support_pages.school-uniform-care: https://39211.github.io/guides/school-uniform-care.html
 - support_pages.birkenstock-care: https://39211.github.io/guides/birkenstock-care.html
 - support_pages.luxury-bag-mold: https://39211.github.io/guides/luxury-bag-mold.html
 - support_pages.down-jacket-cleaning: https://39211.github.io/guides/down-jacket-cleaning.html

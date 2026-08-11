@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:12:54.431Z",
+  "generated_at": "2026-08-11T12:36:11.003Z",
   "site_name": "私享家洗衣店",
   "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -49,6 +49,7 @@
     "support_pages": {
       "photo-before-laundry": "https://39211.github.io/guides/photo-before-laundry.html",
       "white-shoe-yellowing": "https://39211.github.io/guides/white-shoe-yellowing.html",
+      "school-uniform-care": "https://39211.github.io/guides/school-uniform-care.html",
       "birkenstock-care": "https://39211.github.io/guides/birkenstock-care.html",
       "luxury-bag-mold": "https://39211.github.io/guides/luxury-bag-mold.html",
       "down-jacket-cleaning": "https://39211.github.io/guides/down-jacket-cleaning.html",

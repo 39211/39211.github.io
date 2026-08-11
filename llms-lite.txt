@@ -22,6 +22,7 @@ LLMS JSONL: https://39211.github.io/llms.jsonl
 台中全市免費洗衣收送: https://39211.github.io/services/taichung-citywide-laundry-pickup.html
 送洗前怎麼拍照片詢問？: https://39211.github.io/guides/photo-before-laundry.html
 白鞋泛黃怎麼判斷？: https://39211.github.io/guides/white-shoe-yellowing.html
+開學前的制服整理:順序錯了會把黃痕定死: https://39211.github.io/guides/school-uniform-care.html
 勃肯鞋鞋床發黑、有味道,還救得回來嗎?: https://39211.github.io/guides/birkenstock-care.html
 精品包發霉:先別擦,先看這三件事: https://39211.github.io/guides/luxury-bag-mold.html
 羽絨外套、羽絨被怎麼洗才不會毀掉？: https://39211.github.io/guides/down-jacket-cleaning.html

@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-11T12:12:54.431Z",
+  "generated_at": "2026-08-11T12:36:11.003Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -177,6 +177,7 @@
     "support_pages": {
       "photo-before-laundry": "https://39211.github.io/guides/photo-before-laundry.html",
       "white-shoe-yellowing": "https://39211.github.io/guides/white-shoe-yellowing.html",
+      "school-uniform-care": "https://39211.github.io/guides/school-uniform-care.html",
       "birkenstock-care": "https://39211.github.io/guides/birkenstock-care.html",
       "luxury-bag-mold": "https://39211.github.io/guides/luxury-bag-mold.html",
       "down-jacket-cleaning": "https://39211.github.io/guides/down-jacket-cleaning.html",
@@ -210,6 +211,7 @@
     "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
     "https://39211.github.io/guides/photo-before-laundry.html",
     "https://39211.github.io/guides/white-shoe-yellowing.html",
+    "https://39211.github.io/guides/school-uniform-care.html",
     "https://39211.github.io/guides/birkenstock-care.html",
     "https://39211.github.io/guides/luxury-bag-mold.html",
     "https://39211.github.io/guides/down-jacket-cleaning.html",
@@ -895,6 +897,25 @@
       "linked_service": "白鞋清潔",
       "faq_count": 2,
       "step_count": 4
+    },
+    {
+      "slug": "school-uniform-care",
+      "category": "guide",
+      "title": "開學前制服怎麼整理?領口黃、袖口髒的處理順序｜台中送洗",
+      "description": "開學前制服領口發黃、袖口油污,先處理再整燙才不會把黃痕定型。台中西屯可免費收送,LINE 傳照片先估。",
+      "url": "https://39211.github.io/guides/school-uniform-care.html",
+      "keywords": [
+        "制服送洗",
+        "制服領口發黃",
+        "開學 制服 整理",
+        "台中制服清洗",
+        "學生制服 送洗",
+        "制服整燙"
+      ],
+      "local_intent": "台中 制服送洗 開學 領口發黃",
+      "linked_service": "台中西屯洗衣店",
+      "faq_count": 4,
+      "step_count": 5
     },
     {
       "slug": "birkenstock-care",
