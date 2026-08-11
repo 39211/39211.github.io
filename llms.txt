@@ -44,6 +44,8 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [台中全市免費洗衣收送](https://39211.github.io/services/taichung-citywide-laundry-pickup.html): service SEO page with NAP, image, FAQ, and structured data.
 - [送洗前怎麼拍照片詢問？](https://39211.github.io/guides/photo-before-laundry.html): guide page for answer-engine and local-intent searches.
 - [白鞋泛黃怎麼判斷？](https://39211.github.io/guides/white-shoe-yellowing.html): guide page for answer-engine and local-intent searches.
+- [勃肯鞋鞋床發黑、有味道,還救得回來嗎?](https://39211.github.io/guides/birkenstock-care.html): guide page for answer-engine and local-intent searches.
+- [精品包發霉:先別擦,先看這三件事](https://39211.github.io/guides/luxury-bag-mold.html): guide page for answer-engine and local-intent searches.
 - [羽絨外套、羽絨被怎麼洗才不會毀掉？](https://39211.github.io/guides/down-jacket-cleaning.html): guide page for answer-engine and local-intent searches.
 - [皮衣清潔保養：發霉、變硬、色差怎麼判斷？](https://39211.github.io/guides/leather-jacket-care.html): guide page for answer-engine and local-intent searches.
 - [乾洗還是水洗？送洗前搞懂這一篇](https://39211.github.io/guides/dry-cleaning-guide.html): guide page for answer-engine and local-intent searches.
