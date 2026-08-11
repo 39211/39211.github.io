@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-11T02:32:29.237Z",
+  "generated_at": "2026-08-11T08:03:15.735Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -854,7 +854,7 @@
           "boundary": "不承諾固定取件時段或保證所有黃痕可消除。"
         }
       ],
-      "faq_count": 4
+      "faq_count": 5
     }
   ],
   "support_pages": [
