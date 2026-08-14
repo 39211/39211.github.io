@@ -98,6 +98,32 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-14 12:00 精品包最怕的不是髒，是邊角](https://39211.github.io/posts/2026-08-14-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+  image: https://39211.github.io/assets/2026-08-14/slot-03.png
+  video: https://39211.github.io/assets/2026-08-14/slot-03.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-14.json
+- [2026-08-14 20:30 行李箱收進櫃子前，先看輪子](https://39211.github.io/posts/2026-08-14-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=trust-proof
+  target_queries: 化妝包清洗 台中 | 台中洗包 | 化妝包 拉鍊邊 清潔
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+  image: https://39211.github.io/assets/2026-08-14/slot-02.png
+  video: https://39211.github.io/assets/2026-08-14/slot-02.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-14.json
+- [2026-08-14 11:30 可收藏：白鞋鞋邊泛灰前的檢查，送洗前先看三個位置](https://39211.github.io/posts/2026-08-14-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=object-proof; search_intent=problem-diagnosis
+  target_queries: 台中白鞋清潔 | 台中洗鞋店 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+  evidence_type: first-party-inspection
+  hashtags: #台中洗鞋 #西屯洗鞋 #洗鞋推薦 #白鞋泛黃 #白鞋清潔 #球鞋清洗 #台中洗衣店 #鞋子保養 #西屯 #逢甲
+  image: https://39211.github.io/assets/2026-08-14/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-08-14.json
 - [2026-08-11 12:00 白鞋泛黃，不是刷得不夠用力](https://39211.github.io/posts/2026-08-11-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
