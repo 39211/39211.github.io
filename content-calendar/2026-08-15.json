@@ -1,0 +1,196 @@
+{
+  "date": "2026-08-15",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-08-14T22:36:36.882Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "帆布鞋鞋口被擋住時，先別只拍鞋面",
+      "format": "mixed-carousel",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "帆布鞋鞋口被擋住時，先別只拍鞋面。\n\n私享家洗衣店\n\n送洗前把左右鞋放平，先看鞋口內裡、鞋舌邊與鞋底接縫。照片只拍鞋面，容易漏掉真正需要判斷的材質與原始狀態。\n\n拍鞋子全貌、鞋口與鞋底，點個人檔案連結加 LINE 先詢問。\n\n#私享家洗衣店 #帆布鞋照護 #台中洗鞋",
+      "facebook_caption": "帆布鞋鞋口被擋住時，先別只拍鞋面。\n\n私享家洗衣店\n\n送洗前把左右鞋放平，先看鞋口內裡、鞋舌邊與鞋底接縫。照片只拍鞋面，容易漏掉真正需要判斷的材質與原始狀態。\n\n拍鞋子全貌、鞋口與鞋底，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post\n\n#私享家洗衣店 #帆布鞋照護 #台中洗鞋",
+      "image_prompt": "Create one 4:5 photorealistic phone photo in a real Taiwanese laundry inspection area. Use exactly the same two unbranded off-white low-top canvas shoes in every slide: the same six metal eyelets per shoe, the same complete white laces, the same beige rubber toe caps and soles, and the same small scuff on the outer right toe. Both shoes stay grounded on the same worn grey rubber inspection mat. One blank matte-grey rectangular card is physically seated inside one shallow brushed-steel support rail; the rail touches the mat and never floats or penetrates either shoe. Mixed fluorescent ceiling light and cool storefront daylight from camera-left, realistic canvas weave, small wear marks, controlled asymmetry, believable weight and contact shadows, restrained phone-camera perspective. Everyday shop clutter may remain soft and unreadable in the background. No cleaning transformation, no result claim, no fake text, no logo-like marks, no poster, no graphic panel, no watermark. Slide 1 of 4: exactly two shoes, one card and one connected rail. The card visibly crosses and occludes the upper half of the right shoe opening while the rail remains outside the shoe; the left shoe opening stays unobstructed. No person or hand is visible.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one 4:5 photorealistic phone photo in a real Taiwanese laundry inspection area. Use exactly the same two unbranded off-white low-top canvas shoes in every slide: the same six metal eyelets per shoe, the same complete white laces, the same beige rubber toe caps and soles, and the same small scuff on the outer right toe. Both shoes stay grounded on the same worn grey rubber inspection mat. One blank matte-grey rectangular card is physically seated inside one shallow brushed-steel support rail; the rail touches the mat and never floats or penetrates either shoe. Mixed fluorescent ceiling light and cool storefront daylight from camera-left, realistic canvas weave, small wear marks, controlled asymmetry, believable weight and contact shadows, restrained phone-camera perspective. Everyday shop clutter may remain soft and unreadable in the background. No cleaning transformation, no result claim, no fake text, no logo-like marks, no poster, no graphic panel, no watermark. Slide 1 of 4: exactly two shoes, one card and one connected rail. The card visibly crosses and occludes the upper half of the right shoe opening while the rail remains outside the shoe; the left shoe opening stays unobstructed. No person or hand is visible.",
+          "local_image_path": "docs/assets/2026-08-15/slot-01.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Using slide 1 as the exact identity reference, create one 4:5 photorealistic phone photo of the same scene. Preserve exactly the same two off-white canvas shoes, eyelets, complete laces, beige toe caps, small right-toe scuff, mat, blank card and physically connected shallow steel rail. One broad adult forearm enters from frame-left and one relaxed complete hand touches only the outer short edge of the card; all five fingers are anatomically coherent and individually traceable without becoming a close-up. The card has moved only a few centimetres left along the rail but still partly occludes the right shoe opening. Both shoes and the rail remain fixed and grounded. Preserve the same motivated mixed light, microtexture, wear and contact shadows. No extra hand, duplicate object, floating, penetration, fake text, logo, poster, graphic or watermark.",
+          "local_image_path": "docs/assets/2026-08-15/slot-01-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Using slide 1 as the exact identity reference, create one 4:5 photorealistic phone photo of the same scene. Preserve exactly the same two off-white canvas shoes, eyelets, complete laces, beige toe caps, small right-toe scuff, mat, blank card and physically connected shallow steel rail. The same broad forearm and one complete hand have slid the single card laterally left along the rail until the right shoe opening is fully visible; all five fingers remain coherent and the hand touches only the card edge. The card remains captured by the rail, while both shoes and the rail remain stationary, grounded and unchanged. Show the same canvas weave, wear and contact shadows. No cleaning transformation, extra hand, duplicate object, floating, penetration, fake text, logo, poster, graphic or watermark.",
+          "local_image_path": "docs/assets/2026-08-15/slot-01-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Using slide 1 as the exact identity reference, create one 4:5 photorealistic phone photo of the same two off-white canvas shoes after the card moved left. Preserve the same two shoes, six eyelets per shoe, complete laces, beige toe caps and soles, small right-toe scuff, grey mat, one blank card and one connected shallow steel rail. Move the camera only slightly closer and lower so the unchanged right shoe opening, lining edge and contact shadow are easy to inspect; the single card remains visible at frame-left inside the rail and does not occlude the opening. No person or hand is visible. Keep motivated mixed shop lighting, material microtexture and realistic wear. No cleaning result, fake text, logo, poster, graphic or watermark.",
+          "local_image_path": "docs/assets/2026-08-15/slot-01-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. The first frame shows exactly two stationary unbranded off-white low-top canvas shoes on one worn grey rubber mat, one blank matte-grey card physically seated in one shallow brushed-steel support rail touching the mat, and one broad adult forearm from frame-left. The card visibly occludes the upper half of the right shoe opening while the rail remains outside both shoes. One dominant action only: the same relaxed hand grips only the outer short edge of the single card and slides it laterally left inside the connected rail until the right shoe opening is fully visible, then holds. Preserve exactly two shoes, one card, one connected rail, one forearm and one hand. Preserve six eyelets per shoe, complete laces, beige toe caps and soles, realistic canvas weave, wear, weight, inertia and contact shadows. Both shoes and rail remain fixed. All five fingers remain anatomically coherent without close-up finger detail. Fixed restrained camera, mixed fluorescent and cool storefront light. No cleaning transformation or effect claim. No extra hands. No duplicate object. No morphing or geometry changes. No penetration. No floating. No readable text. No logo. No watermark. No generated audio. End on the unobstructed opening and hold for one second.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "鞋口被擋住先別拍",
+        "conflict": "單一卡片擋住右鞋鞋口，上緣與內裡在第一秒看不完整。",
+        "single_action": "同一隻成人手只把卡片沿相連導軌水平滑向左側，鞋子與導軌全程不動。",
+        "payoff": "卡片離開後，右鞋鞋口內裡保持原狀並清楚露出。",
+        "cta": "拍全貌、鞋口與鞋底，點個人檔案連結加 LINE 先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式中近景；前景是兩隻著地帆布鞋、遮住右鞋口的單一卡片與相連淺導軌，中景保留灰色檢查墊，背景是柔焦店內實景；一隻寬鬆手臂從左側進入，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. The first frame shows exactly two stationary unbranded off-white low-top canvas shoes on one worn grey rubber mat, one blank matte-grey card physically seated in one shallow brushed-steel support rail touching the mat, and one broad adult forearm from frame-left. The card visibly occludes the upper half of the right shoe opening while the rail remains outside both shoes. One dominant action only: the same relaxed hand grips only the outer short edge of the single card and slides it laterally left inside the connected rail until the right shoe opening is fully visible, then holds. Preserve exactly two shoes, one card, one connected rail, one forearm and one hand. Preserve six eyelets per shoe, complete laces, beige toe caps and soles, realistic canvas weave, wear, weight, inertia and contact shadows. Both shoes and rail remain fixed. All five fingers remain anatomically coherent without close-up finger detail. Fixed restrained camera, mixed fluorescent and cool storefront light. No cleaning transformation or effect claim. No extra hands. No duplicate object. No morphing or geometry changes. No penetration. No floating. No readable text. No logo. No watermark. No generated audio. End on the unobstructed opening and hold for one second.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-07-29",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "views_target": 113,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，持續看懂衣物與鞋包的送洗前檢查。",
+      "seo_sync_page": "/services/shoe-bag-care.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋",
+        "帆布鞋送洗",
+        "鞋口怎麼拍"
+      ],
+      "evidence_type": "first-party-inspection",
+      "ten_day_review_metric": "72 小時後看 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-08-15/slot-01.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-01.png",
+      "local_video_path": "docs/assets/2026-08-15/slot-01.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-15/slot-01.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看",
+      "format": "mixed-carousel",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看。\n\n私享家洗衣店\n\n先固定袋身，再沿著拉鍊看內裡縫線、布面磨耗與原有粉痕位置。照片裡保留全貌和細節，比只拍一個局部更容易先判斷材質與狀態。\n\n拍化妝包全貌、內裡與拉鍊邊，點個人檔案連結加 LINE 先詢問。\n\n#私享家洗衣店 #化妝包照護 #台中洗包包",
+      "facebook_caption": "化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看。\n\n私享家洗衣店\n\n先固定袋身，再沿著拉鍊看內裡縫線、布面磨耗與原有粉痕位置。照片裡保留全貌和細節，比只拍一個局部更容易先判斷材質與狀態。\n\n拍化妝包全貌、內裡與拉鍊邊，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post\n\n#私享家洗衣店 #化妝包照護 #台中洗包包",
+      "image_prompt": "Create one 4:5 photorealistic phone photo in a real Taiwanese laundry inspection area. Use exactly the same one unbranded faded olive-green rectangular canvas makeup pouch in every slide: exactly one zipper opening, one plain metal zipper pull, zero handles, zero straps, the same beige cotton lining and one dark-beige inner seam, and the same tiny scuff at the lower-right outer corner. The pouch stays open and grounded on the same worn grey rubber inspection mat. One blank matte-grey card is physically seated in one shallow brushed-steel support rail outside the zipper and pull path; the rail touches the mat and never enters the pouch. Mixed fluorescent ceiling light and cool storefront daylight from camera-left, visible canvas weave, small wear marks, controlled asymmetry, believable weight and contact shadows, restrained phone-camera perspective. Everyday shop clutter may stay soft and unreadable. No cleaning transformation, no result claim, no powder marker, no fake text, no logo-like marks, no poster, no graphic panel, no watermark. Slide 1 of 4: exactly one pouch, one card and one connected rail. The card visibly occludes the middle of the single dark-beige inner seam without touching the pouch. No person or hand is visible.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Create one 4:5 photorealistic phone photo in a real Taiwanese laundry inspection area. Use exactly the same one unbranded faded olive-green rectangular canvas makeup pouch in every slide: exactly one zipper opening, one plain metal zipper pull, zero handles, zero straps, the same beige cotton lining and one dark-beige inner seam, and the same tiny scuff at the lower-right outer corner. The pouch stays open and grounded on the same worn grey rubber inspection mat. One blank matte-grey card is physically seated in one shallow brushed-steel support rail outside the zipper and pull path; the rail touches the mat and never enters the pouch. Mixed fluorescent ceiling light and cool storefront daylight from camera-left, visible canvas weave, small wear marks, controlled asymmetry, believable weight and contact shadows, restrained phone-camera perspective. Everyday shop clutter may stay soft and unreadable. No cleaning transformation, no result claim, no powder marker, no fake text, no logo-like marks, no poster, no graphic panel, no watermark. Slide 1 of 4: exactly one pouch, one card and one connected rail. The card visibly occludes the middle of the single dark-beige inner seam without touching the pouch. No person or hand is visible.",
+          "local_image_path": "docs/assets/2026-08-15/slot-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-02.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Using slide 1 as the exact identity reference, create one 4:5 photorealistic phone photo of the same scene. Preserve exactly the same single faded olive-green makeup pouch, one zipper opening, one plain zipper pull, zero handles, zero straps, beige lining, dark-beige inner seam, lower-right scuff, grey mat, one blank card and one physically connected shallow steel rail outside the zipper path. One broad adult forearm enters from frame-left and one relaxed complete hand touches only the card's outer short edge; all five fingers are anatomically coherent and individually traceable without a close-up. The card has moved only a few centimetres left along the rail and still partly occludes the same seam. Pouch and rail remain fixed and grounded. Preserve mixed light, canvas microtexture, wear and contact shadows. No extra hand, duplicate object, floating, penetration, powder, fake text, logo, poster, graphic or watermark.",
+          "local_image_path": "docs/assets/2026-08-15/slot-02-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-02-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Using slide 1 as the exact identity reference, create one 4:5 photorealistic phone photo of the same scene. Preserve exactly the same single faded olive-green makeup pouch, one zipper opening, one plain zipper pull, zero handles, zero straps, beige lining, dark-beige inner seam, lower-right scuff, grey mat, one blank card and one physically connected shallow steel rail outside the zipper path. The same broad forearm and one complete hand have slid the single card laterally left along the rail until the unchanged dark-beige seam is fully visible; all five fingers remain coherent and touch only the card edge. The pouch and rail stay fixed, grounded and unchanged. Hold on the revealed seam with realistic canvas weave, weight and contact shadows. No cleaning transformation, extra hand, duplicate object, floating, penetration, powder, fake text, logo, poster, graphic or watermark.",
+          "local_image_path": "docs/assets/2026-08-15/slot-02-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-02-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Using slide 1 as the exact identity reference, create one 4:5 photorealistic phone photo of the same single faded olive-green makeup pouch after the card moved left. Preserve the same one zipper opening, one plain zipper pull, zero handles, zero straps, beige lining, dark-beige inner seam, lower-right scuff, grey mat, one blank card and one connected shallow steel rail outside the zipper path. Move the camera only slightly closer while keeping the full pouch readable; the unchanged seam remains fully visible for a longer payoff hold, and the single card stays at frame-left inside the rail. No person or hand is visible. Keep motivated mixed shop lighting, microtexture, wear and contact shadows. No cleaning result, powder, fake text, logo, poster, graphic or watermark.",
+          "local_image_path": "docs/assets/2026-08-15/slot-02-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-02-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. The first frame shows exactly one open faded olive-green rectangular canvas makeup pouch with exactly one zipper opening, one plain metal zipper pull, zero handles and zero straps; exactly one blank matte-grey card physically seated in exactly one shallow brushed-steel support rail outside the zipper path; and one broad adult forearm entering from frame-left. The card visibly occludes the middle of the single dark-beige inner seam without touching the pouch. One dominant action only: the same relaxed hand grips only the card's outer short edge and slides it laterally left inside the connected rail until the entire unchanged seam is visible, then holds for one and a half seconds. Preserve exactly one pouch, one card, one connected rail, one zipper pull, one forearm and one hand. Keep all five fingers anatomically coherent without close-up finger detail. Pouch and rail remain fixed, grounded and unchanged. Preserve canvas weave, zipper-edge wear, realistic weight, inertia and contact shadows. Fixed restrained camera, mixed fluorescent and cool storefront light. No cleaning transformation or effect claim. No powder marker. No extra hands. No duplicate object. No morphing or geometry changes. No penetration. No floating. No readable text. No logo. No watermark. No generated audio.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "化妝包內縫要翻開看",
+        "conflict": "單一卡片擋住米色內縫，拉鍊邊內側在第一秒看不完整。",
+        "single_action": "同一隻成人手只把卡片沿相連導軌水平滑向左側，袋身與導軌全程不動。",
+        "payoff": "卡片離開後，原本的米色內縫完整露出並停留一點五秒。",
+        "cta": "拍全貌、內裡與拉鍊邊，點個人檔案連結加 LINE 先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式中近景；前景是打開且著地的單一化妝包、遮住米色內縫的單一卡片與相連淺導軌，中景保留灰色檢查墊，背景是柔焦店內實景；一隻寬鬆手臂從左側進入，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. The first frame shows exactly one open faded olive-green rectangular canvas makeup pouch with exactly one zipper opening, one plain metal zipper pull, zero handles and zero straps; exactly one blank matte-grey card physically seated in exactly one shallow brushed-steel support rail outside the zipper path; and one broad adult forearm entering from frame-left. The card visibly occludes the middle of the single dark-beige inner seam without touching the pouch. One dominant action only: the same relaxed hand grips only the card's outer short edge and slides it laterally left inside the connected rail until the entire unchanged seam is visible, then holds for one and a half seconds. Preserve exactly one pouch, one card, one connected rail, one zipper pull, one forearm and one hand. Keep all five fingers anatomically coherent without close-up finger detail. Pouch and rail remain fixed, grounded and unchanged. Preserve canvas weave, zipper-edge wear, realistic weight, inertia and contact shadows. Fixed restrained camera, mixed fluorescent and cool storefront light. No cleaning transformation or effect claim. No powder marker. No extra hands. No duplicate object. No morphing or geometry changes. No penetration. No floating. No readable text. No logo. No watermark. No generated audio.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-07-29",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "content_role": "evidence-conversion",
+      "views_target": 90,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，持續看懂衣物與鞋包的送洗前檢查。",
+      "seo_sync_page": "/services/shoe-bag-care.html",
+      "search_intent": "trust-proof",
+      "target_queries": [
+        "台中洗包包",
+        "化妝包送洗",
+        "化妝包拉鍊邊"
+      ],
+      "evidence_type": "first-party-inspection",
+      "ten_day_review_metric": "72 小時後看 reach、views、收藏、分享、LINE 點擊、詢問與預約；缺失值保留 null。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-08-15/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-02.png",
+      "local_video_path": "docs/assets/2026-08-15/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-15/slot-02.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 3,
+      "time": "12:00",
+      "category": "情境文",
+      "topic": "皮鞋淋雨，擦乾就沒事了嗎",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n淋雨那天擦乾了，水痕過幾天才浮出來。這時候上油等於把它鎖進皮裡面，之後就是補色。還沒上油的現在剛好。皮鞋四百起。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "facebook_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n淋雨那天擦乾了，水痕過幾天才浮出來。這時候上油等於把它鎖進皮裡面，之後就是補色。還沒上油的現在剛好。皮鞋四百起。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "image_prompt": "Reel cover still: one pair of unbranded leather dress shoes, faint dried rain marks across both vamps",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "local_image_path": "docs/assets/2026-08-15/slot-03.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-15/slot-03.png",
+      "status": "pending",
+      "video_prompt": "Animate the supplied image while preserving its exact composition, object placement, materials, surface wear, lighting direction and colour temperature. One restrained continuous action only: an extremely gentle push-in with slight natural handheld shake, as if held by a person. Keep every object in its original position and its original condition. Do not clean, repair, alter or transform the object. Do not add or remove anything. No hands in close-up and no finger detail. Do not add people, readable text, captions, logos, dialogue or music. No morphing, warping, flicker, jump cuts, sudden motion or collapsing geometry. Audio near-silent with only faint room tone. Natural restrained motion, stable first and final frames. Duration: 5 seconds. Aspect ratio: 9:16. Resolution: 720p.",
+      "local_video_path": "docs/assets/2026-08-15/slot-03.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-15/slot-03.mp4"
+    }
+  ]
+}

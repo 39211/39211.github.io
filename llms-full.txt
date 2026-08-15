@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-08-14T22:30:41.096Z
+- Generated at: 2026-08-15T03:55:12.447Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -220,6 +220,9 @@
     "https://39211.github.io/assets/2026-08-14/slot-01.png",
     "https://39211.github.io/assets/2026-08-14/slot-02.png",
     "https://39211.github.io/assets/2026-08-14/slot-03.png",
+    "https://39211.github.io/assets/2026-08-15/slot-01.png",
+    "https://39211.github.io/assets/2026-08-15/slot-02.png",
+    "https://39211.github.io/assets/2026-08-15/slot-03.png",
     "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -3934,4 +3937,135 @@ Instagram caption:
 私享家洗衣店｜台中市區免費到府收送
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
+
+### 2026-08-15 11:30 帆布鞋鞋口被擋住時，先別只拍鞋面
+
+- id: https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-01
+- published local time: 2026-08-15T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 台中洗鞋 | 帆布鞋送洗 | 鞋口怎麼拍
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #帆布鞋照護 #台中洗鞋
+- image: https://39211.github.io/assets/2026-08-15/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-08-15.json
+
+Facebook caption:
+
+帆布鞋鞋口被擋住時，先別只拍鞋面。
+
+私享家洗衣店
+
+送洗前把左右鞋放平，先看鞋口內裡、鞋舌邊與鞋底接縫。照片只拍鞋面，容易漏掉真正需要判斷的材質與原始狀態。
+
+拍鞋子全貌、鞋口與鞋底，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post
+
+#私享家洗衣店 #帆布鞋照護 #台中洗鞋
+
+Instagram caption:
+
+帆布鞋鞋口被擋住時，先別只拍鞋面。
+
+私享家洗衣店
+
+送洗前把左右鞋放平，先看鞋口內裡、鞋舌邊與鞋底接縫。照片只拍鞋面，容易漏掉真正需要判斷的材質與原始狀態。
+
+拍鞋子全貌、鞋口與鞋底，點個人檔案連結加 LINE 先詢問。
+
+#私享家洗衣店 #帆布鞋照護 #台中洗鞋
+
+### 2026-08-15 19:30 化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看
+
+- id: https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-02
+- published local time: 2026-08-15T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: trust-reset
+- search_intent: trust-proof
+- target_queries: 台中洗包包 | 化妝包送洗 | 化妝包拉鍊邊
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #化妝包照護 #台中洗包包
+- image: https://39211.github.io/assets/2026-08-15/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-08-15.json
+
+Facebook caption:
+
+化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看。
+
+私享家洗衣店
+
+先固定袋身，再沿著拉鍊看內裡縫線、布面磨耗與原有粉痕位置。照片裡保留全貌和細節，比只拍一個局部更容易先判斷材質與狀態。
+
+拍化妝包全貌、內裡與拉鍊邊，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post
+
+#私享家洗衣店 #化妝包照護 #台中洗包包
+
+Instagram caption:
+
+化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看。
+
+私享家洗衣店
+
+先固定袋身，再沿著拉鍊看內裡縫線、布面磨耗與原有粉痕位置。照片裡保留全貌和細節，比只拍一個局部更容易先判斷材質與狀態。
+
+拍化妝包全貌、內裡與拉鍊邊，點個人檔案連結加 LINE 先詢問。
+
+#私享家洗衣店 #化妝包照護 #台中洗包包
+
+### 2026-08-15 12:00 皮鞋淋雨，擦乾就沒事了嗎
+
+- id: https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-03
+- published local time: 2026-08-15T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://39211.github.io/assets/2026-08-15/slot-03.png
+- calendar: https://39211.github.io/content-calendar/2026-08-15.json
+
+Facebook caption:
+
+皮鞋淋雨，擦乾就沒事了嗎。
+
+淋雨那天擦乾了，水痕過幾天才浮出來。這時候上油等於把它鎖進皮裡面，之後就是補色。還沒上油的現在剛好。皮鞋四百起。
+
+不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。
+
+參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+私享家洗衣店｜台中市區免費到府收送
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+皮鞋淋雨，擦乾就沒事了嗎。
+
+淋雨那天擦乾了，水痕過幾天才浮出來。這時候上油等於把它鎖進皮裡面，之後就是補色。還沒上油的現在剛好。皮鞋四百起。
+
+不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
+
+參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+私享家洗衣店｜台中市區免費到府收送
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
 

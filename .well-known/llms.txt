@@ -98,6 +98,31 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-15 12:00 皮鞋淋雨，擦乾就沒事了嗎](https://39211.github.io/posts/2026-08-15-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://39211.github.io/assets/2026-08-15/slot-03.png
+  video: https://39211.github.io/assets/2026-08-15/slot-03.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-15.json
+- [2026-08-15 19:30 化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看](https://39211.github.io/posts/2026-08-15-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=trust-reset; search_intent=trust-proof
+  target_queries: 台中洗包包 | 化妝包送洗 | 化妝包拉鍊邊
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #化妝包照護 #台中洗包包
+  image: https://39211.github.io/assets/2026-08-15/slot-02.png
+  calendar: https://39211.github.io/content-calendar/2026-08-15.json
+- [2026-08-15 11:30 帆布鞋鞋口被擋住時，先別只拍鞋面](https://39211.github.io/posts/2026-08-15-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=problem-diagnosis
+  target_queries: 台中洗鞋 | 帆布鞋送洗 | 鞋口怎麼拍
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #帆布鞋照護 #台中洗鞋
+  image: https://39211.github.io/assets/2026-08-15/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-08-15.json
 - [2026-08-14 12:00 精品包最怕的不是髒，是邊角](https://39211.github.io/posts/2026-08-14-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)

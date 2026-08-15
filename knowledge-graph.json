@@ -165,6 +165,9 @@
         "https://39211.github.io/assets/2026-08-14/slot-01.png",
         "https://39211.github.io/assets/2026-08-14/slot-02.png",
         "https://39211.github.io/assets/2026-08-14/slot-03.png",
+        "https://39211.github.io/assets/2026-08-15/slot-01.png",
+        "https://39211.github.io/assets/2026-08-15/slot-02.png",
+        "https://39211.github.io/assets/2026-08-15/slot-03.png",
         "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
         "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
         "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -374,7 +377,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://39211.github.io/social-posts.json",
-      "dateModified": "2026-08-14",
+      "dateModified": "2026-08-15",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://39211.github.io/#website"
@@ -5165,6 +5168,107 @@
       "contentUrl": "https://39211.github.io/assets/2026-08-14/slot-03.png",
       "url": "https://39211.github.io/assets/2026-08-14/slot-03.png",
       "caption": "精品包最怕的不是髒，是邊角",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-01",
+      "headline": "2026-08-15 11:30 帆布鞋鞋口被擋住時，先別只拍鞋面",
+      "text": "帆布鞋鞋口被擋住時，先別只拍鞋面。\n\n私享家洗衣店\n\n送洗前把左右鞋放平，先看鞋口內裡、鞋舌邊與鞋底接縫。照片只拍鞋面，容易漏掉真正需要判斷的材質與原始狀態。\n\n拍鞋子全貌、鞋口與鞋底，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post\n\n#私享家洗衣店 #帆布鞋照護 #台中洗鞋",
+      "datePublished": "2026-08-15T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#帆布鞋照護",
+        "#台中洗鞋"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-01:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-15/slot-01.png",
+      "url": "https://39211.github.io/assets/2026-08-15/slot-01.png",
+      "caption": "帆布鞋鞋口被擋住時，先別只拍鞋面",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-02",
+      "headline": "2026-08-15 19:30 化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看",
+      "text": "化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看。\n\n私享家洗衣店\n\n先固定袋身，再沿著拉鍊看內裡縫線、布面磨耗與原有粉痕位置。照片裡保留全貌和細節，比只拍一個局部更容易先判斷材質與狀態。\n\n拍化妝包全貌、內裡與拉鍊邊，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post\n\n#私享家洗衣店 #化妝包照護 #台中洗包包",
+      "datePublished": "2026-08-15T19:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#化妝包照護",
+        "#台中洗包包"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-02:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-15/slot-02.png",
+      "url": "https://39211.github.io/assets/2026-08-15/slot-02.png",
+      "caption": "化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-03",
+      "headline": "2026-08-15 12:00 皮鞋淋雨，擦乾就沒事了嗎",
+      "text": "皮鞋淋雨，擦乾就沒事了嗎。\n\n淋雨那天擦乾了，水痕過幾天才浮出來。這時候上油等於把它鎖進皮裡面，之後就是補色。還沒上油的現在剛好。皮鞋四百起。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-15T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://39211.github.io/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://39211.github.io/#business"
+      },
+      "url": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-03:image",
+      "contentUrl": "https://39211.github.io/assets/2026-08-15/slot-03.png",
+      "url": "https://39211.github.io/assets/2026-08-15/slot-03.png",
+      "caption": "皮鞋淋雨，擦乾就沒事了嗎",
       "inLanguage": "zh-Hant"
     }
   ]
