@@ -1,0 +1,112 @@
+{
+  "date": "2026-08-16",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-08-15T22:49:56.576Z",
+  "slots": [
+    {
+      "slot": 2,
+      "time": "19:30",
+      "category": "情境文",
+      "topic": "化妝包拉鍊邊看得到，內袋縫線卻常被遮住",
+      "format": "mixed-carousel",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "化妝包拉鍊邊看得到，內袋縫線卻常被遮住。\n\n私享家洗衣店\n\n拍照時請把袋身全貌、內裡和拉鍊邊留在同一組照片裡，尤其是較深的內袋縫線。保留原本磨耗，不加濾鏡，LINE 詢問時才不會只剩表面角度。\n\n拍全貌、內裡與拉鍊邊，點個人檔案連結加 LINE 先詢問。\n\n#私享家洗衣店 #化妝包 #台中包包清潔",
+      "facebook_caption": "化妝包拉鍊邊看得到，內袋縫線卻常被遮住。\n\n私享家洗衣店\n\n拍照時請把袋身全貌、內裡和拉鍊邊留在同一組照片裡，尤其是較深的內袋縫線。保留原本磨耗，不加濾鏡，LINE 詢問時才不會只剩表面角度。\n\n拍全貌、內裡與拉鍊邊，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post\n\n#私享家洗衣店 #化妝包 #台中包包清潔",
+      "image_prompt": "Photorealistic 4:5 phone photo in a real Taiwanese laundry inspection area, slightly imperfect eye-level handheld framing. Mixed fluorescent ceiling light and cool storefront daylight from camera-left, with a believable practical source, neutral exposure, gentle falloff and realistic contact shadows. One worn grey rubber inspection mat on a pale work counter; softly recognizable everyday shop clutter at the edges, with every background label fully blurred and unreadable. Visible fabric weave, small scuffs, controlled asymmetry, plausible weight and no sterile showroom polish. No cleaning transformation, result claim, poster layout, graphic panel, readable text, logo-like mark, watermark, address or phone number. Exactly one unbranded faded olive-green rectangular canvas makeup pouch, open and grounded in a fixed position: one zipper opening, one plain unmarked metal zipper pull, zero handles, zero straps, beige cotton lining, one dark-beige inner seam, and one tiny scuff on the lower-right outside corner. Exactly one blank matte-grey rectangular slider card is captive inside exactly one shallow brushed-steel rail with one continuous flat base plate and two visible end stops; the whole base plate rests on the mat outside the zipper path and never enters or touches the pouch. No person or hand. Slide 1 of 4. The slider card stands in front of and fully occludes the middle section of the dark-beige inner seam while remaining visibly captured between the rail end stops. Show the complete pouch, full base plate, card-to-rail contact, zipper pull and contact shadows.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Photorealistic 4:5 phone photo in a real Taiwanese laundry inspection area, slightly imperfect eye-level handheld framing. Mixed fluorescent ceiling light and cool storefront daylight from camera-left, with a believable practical source, neutral exposure, gentle falloff and realistic contact shadows. One worn grey rubber inspection mat on a pale work counter; softly recognizable everyday shop clutter at the edges, with every background label fully blurred and unreadable. Visible fabric weave, small scuffs, controlled asymmetry, plausible weight and no sterile showroom polish. No cleaning transformation, result claim, poster layout, graphic panel, readable text, logo-like mark, watermark, address or phone number. Exactly one unbranded faded olive-green rectangular canvas makeup pouch, open and grounded in a fixed position: one zipper opening, one plain unmarked metal zipper pull, zero handles, zero straps, beige cotton lining, one dark-beige inner seam, and one tiny scuff on the lower-right outside corner. Exactly one blank matte-grey rectangular slider card is captive inside exactly one shallow brushed-steel rail with one continuous flat base plate and two visible end stops; the whole base plate rests on the mat outside the zipper path and never enters or touches the pouch. No person or hand. Slide 1 of 4. The slider card stands in front of and fully occludes the middle section of the dark-beige inner seam while remaining visibly captured between the rail end stops. Show the complete pouch, full base plate, card-to-rail contact, zipper pull and contact shadows.",
+          "local_image_path": "docs/assets/2026-08-16/slot-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-16/slot-02.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Photorealistic 4:5 phone photo in a real Taiwanese laundry inspection area, slightly imperfect eye-level handheld framing. Mixed fluorescent ceiling light and cool storefront daylight from camera-left, with a believable practical source, neutral exposure, gentle falloff and realistic contact shadows. One worn grey rubber inspection mat on a pale work counter; softly recognizable everyday shop clutter at the edges, with every background label fully blurred and unreadable. Visible fabric weave, small scuffs, controlled asymmetry, plausible weight and no sterile showroom polish. No cleaning transformation, result claim, poster layout, graphic panel, readable text, logo-like mark, watermark, address or phone number. Exactly one unbranded faded olive-green rectangular canvas makeup pouch, open and grounded in a fixed position: one zipper opening, one plain unmarked metal zipper pull, zero handles, zero straps, beige cotton lining, one dark-beige inner seam, and one tiny scuff on the lower-right outside corner. Exactly one blank matte-grey rectangular slider card is captive inside exactly one shallow brushed-steel rail with one continuous flat base plate and two visible end stops; the whole base plate rests on the mat outside the zipper path and never enters or touches the pouch. No person or hand. Slide 2 of 4. Use slide 1 as the exact identity and composition reference. Move the camera only slightly lower and closer. The card remains captive in the same continuous-base rail and still fully occludes the unchanged dark-beige inner seam. Preserve pouch shape, lining, zipper pull, scuff, card count, end stops and grounded base plate exactly.",
+          "local_image_path": "docs/assets/2026-08-16/slot-02-slide-02.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-16/slot-02-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Photorealistic 4:5 phone photo in a real Taiwanese laundry inspection area, slightly imperfect eye-level handheld framing. Mixed fluorescent ceiling light and cool storefront daylight from camera-left, with a believable practical source, neutral exposure, gentle falloff and realistic contact shadows. One worn grey rubber inspection mat on a pale work counter; softly recognizable everyday shop clutter at the edges, with every background label fully blurred and unreadable. Visible fabric weave, small scuffs, controlled asymmetry, plausible weight and no sterile showroom polish. No cleaning transformation, result claim, poster layout, graphic panel, readable text, logo-like mark, watermark, address or phone number. Exactly one unbranded faded olive-green rectangular canvas makeup pouch, open and grounded in a fixed position: one zipper opening, one plain unmarked metal zipper pull, zero handles, zero straps, beige cotton lining, one dark-beige inner seam, and one tiny scuff on the lower-right outside corner. Exactly one blank matte-grey rectangular slider card is captive inside exactly one shallow brushed-steel rail with one continuous flat base plate and two visible end stops; the whole base plate rests on the mat outside the zipper path and never enters or touches the pouch. No person or hand. Slide 3 of 4. Use slide 1 as the exact identity reference. The single card has moved laterally left inside the same grounded rail until the entire unchanged dark-beige inner seam is visible; the pouch and rail remain fixed. Preserve the same lining, zipper pull, scuff, card, two end stops, base plate and contact shadows.",
+          "local_image_path": "docs/assets/2026-08-16/slot-02-slide-03.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-16/slot-02-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Photorealistic 4:5 phone photo in a real Taiwanese laundry inspection area, slightly imperfect eye-level handheld framing. Mixed fluorescent ceiling light and cool storefront daylight from camera-left, with a believable practical source, neutral exposure, gentle falloff and realistic contact shadows. One worn grey rubber inspection mat on a pale work counter; softly recognizable everyday shop clutter at the edges, with every background label fully blurred and unreadable. Visible fabric weave, small scuffs, controlled asymmetry, plausible weight and no sterile showroom polish. No cleaning transformation, result claim, poster layout, graphic panel, readable text, logo-like mark, watermark, address or phone number. Exactly one unbranded faded olive-green rectangular canvas makeup pouch, open and grounded in a fixed position: one zipper opening, one plain unmarked metal zipper pull, zero handles, zero straps, beige cotton lining, one dark-beige inner seam, and one tiny scuff on the lower-right outside corner. Exactly one blank matte-grey rectangular slider card is captive inside exactly one shallow brushed-steel rail with one continuous flat base plate and two visible end stops; the whole base plate rests on the mat outside the zipper path and never enters or touches the pouch. No person or hand. Slide 4 of 4. Use slide 1 as the exact identity reference. Keep the card at frame-left but still captive inside the same rail, with the unchanged seam fully exposed. Move the camera only slightly closer while keeping the complete pouch, continuous base plate and both rail end stops readable. Preserve every object and surface mark exactly.",
+          "local_image_path": "docs/assets/2026-08-16/slot-02-slide-04.png",
+          "public_image_url": "https://39211.github.io/assets/2026-08-16/slot-02-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. First frame: exactly one open faded olive-green rectangular canvas makeup pouch on one worn grey rubber mat, with exactly one zipper opening, one plain unmarked metal zipper pull, zero handles, zero straps, beige lining and one dark-beige inner seam; exactly one blank matte-grey rectangular slider card visibly captive inside exactly one shallow brushed-steel rail with one continuous flat base plate and two visible end stops. The full base plate is grounded outside the zipper path and never enters or touches the pouch. The card fully occludes the middle of the dark-beige seam. Exactly one broad adult forearm and one anatomically coherent hand enter from frame-left without close-up finger detail. All five fingers remain anatomically coherent. One dominant action only: the hand touches only the outer short edge of the single card and slides it laterally left inside the same fixed rail until the entire unchanged seam is visible, then holds for one and a half seconds. The pouch, zipper, base plate and rail remain fixed and grounded. Preserve exactly one pouch, one card, one connected rail, one base plate, two end stops, one zipper pull, one forearm and one hand. Preserve card-to-rail contact, pouch shape, lining, seam, scuff, canvas weave, realistic weight, inertia and contact shadows. Fixed restrained camera. Motivated mixed fluorescent and cool storefront light. No cleaning transformation. No effect claim. No powder marker. No extra hands. No duplicate object. No morphing. No geometry changes. No penetration. No floating. No readable text. No logo. No watermark. No generated audio.",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "化妝包內縫先看清",
+        "conflict": "單一滑片在第一秒遮住米色內縫，位置看不完整。",
+        "single_action": "同一隻成人手只把滑片沿固定導軌水平滑向左側，袋身與底座全程不動。",
+        "payoff": "滑片離開後，原本的深米色內縫完整露出並停留一點五秒。",
+        "cta": "拍全貌、內裡與拉鍊邊，點個人檔案連結加 LINE 先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "精確 9:16 固定直式中近景；前景是單一著地化妝包、遮住深米色內縫的單一灰色滑片與具有一體式底板及兩端止擋的相連淺導軌，導軌在拉鍊路徑外；中景保留灰色檢查墊與一隻從左側進入的寬鬆成人前臂，背景柔焦無字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot. First frame: exactly one open faded olive-green rectangular canvas makeup pouch on one worn grey rubber mat, with exactly one zipper opening, one plain unmarked metal zipper pull, zero handles, zero straps, beige lining and one dark-beige inner seam; exactly one blank matte-grey rectangular slider card visibly captive inside exactly one shallow brushed-steel rail with one continuous flat base plate and two visible end stops. The full base plate is grounded outside the zipper path and never enters or touches the pouch. The card fully occludes the middle of the dark-beige seam. Exactly one broad adult forearm and one anatomically coherent hand enter from frame-left without close-up finger detail. All five fingers remain anatomically coherent. One dominant action only: the hand touches only the outer short edge of the single card and slides it laterally left inside the same fixed rail until the entire unchanged seam is visible, then holds for one and a half seconds. The pouch, zipper, base plate and rail remain fixed and grounded. Preserve exactly one pouch, one card, one connected rail, one base plate, two end stops, one zipper pull, one forearm and one hand. Preserve card-to-rail contact, pouch shape, lining, seam, scuff, canvas weave, realistic weight, inertia and contact shadows. Fixed restrained camera. Motivated mixed fluorescent and cool storefront light. No cleaning transformation. No effect claim. No powder marker. No extra hands. No duplicate object. No morphing. No geometry changes. No penetration. No floating. No readable text. No logo. No watermark. No generated audio.",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-08-16",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "shop-inspection",
+      "traffic_route": "conversion-proof",
+      "content_role": "evidence-conversion",
+      "views_target": 138,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，節日前後的送洗提醒會先幫你排好。",
+      "seo_sync_page": "/services/shoe-bag-care.html",
+      "search_intent": "trust-proof",
+      "target_queries": [
+        "台中洗鞋店",
+        "台中洗包包",
+        "台中洗鞋推薦",
+        "西屯乾洗店推薦"
+      ],
+      "evidence_type": "inspection-detail",
+      "ten_day_review_metric": "短影音週：每支 Reel 看 3 秒觀看、平均觀看時間、完整觀看、分享、非粉比例與 LINE 點擊；淘汰太像硬廣且沒有後續行動的開頭。",
+      "content_plan_source": "video-repair-queue-root-cause",
+      "local_image_path": "docs/assets/2026-08-16/slot-02.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-16/slot-02.png",
+      "local_video_path": "docs/assets/2026-08-16/slot-02.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-16/slot-02.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 3,
+      "time": "12:00",
+      "category": "情境文",
+      "topic": "白鞋泛黃，不是刷得不夠用力",
+      "format": "reel",
+      "media_type": "reel",
+      "instagram_caption": "白鞋泛黃，不是刷得不夠用力。\n\n黃在鞋邊是膠氧化，刷不掉；黃在布面是洗劑殘留，那洗得回來。先看是哪一種。運動鞋兩百五起，分不出來拍一張傳給我們。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "facebook_caption": "白鞋泛黃，不是刷得不夠用力。\n\n黃在鞋邊是膠氧化，刷不掉；黃在布面是洗劑殘留，那洗得回來。先看是哪一種。運動鞋兩百五起，分不出來拍一張傳給我們。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "image_prompt": "Reel cover still: one pair of unbranded white sneakers, midsole edge and rubber trim visibly greyed and yellowed",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "local_image_path": "docs/assets/2026-08-16/slot-03.png",
+      "public_image_url": "https://39211.github.io/assets/2026-08-16/slot-03.png",
+      "status": "pending",
+      "video_prompt": "Animate the supplied image while preserving its exact composition, object placement, materials, surface wear, lighting direction and colour temperature. One restrained continuous action only: an extremely gentle push-in with slight natural handheld shake, as if held by a person. Keep every object in its original position and its original condition. Do not clean, repair, alter or transform the object. Do not add or remove anything. No hands in close-up and no finger detail. Do not add people, readable text, captions, logos, dialogue or music. No morphing, warping, flicker, jump cuts, sudden motion or collapsing geometry. Audio near-silent with only faint room tone. Natural restrained motion, stable first and final frames. Duration: 5 seconds. Aspect ratio: 9:16. Resolution: 720p.",
+      "local_video_path": "docs/assets/2026-08-16/slot-03.mp4",
+      "public_video_url": "https://39211.github.io/assets/2026-08-16/slot-03.mp4"
+    }
+  ]
+}

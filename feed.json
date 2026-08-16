@@ -2551,6 +2551,77 @@
         ],
         "calendar_url": "https://39211.github.io/content-calendar/2026-08-15.json"
       }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-02",
+      "url": "https://39211.github.io/posts/2026-08-16-slot-02.html",
+      "title": "2026-08-16 19:30 化妝包拉鍊邊看得到，內袋縫線卻常被遮住",
+      "date_published": "2026-08-16T19:30:00+08:00",
+      "content_text": "化妝包拉鍊邊看得到，內袋縫線卻常被遮住。\n\n私享家洗衣店\n\n拍照時請把袋身全貌、內裡和拉鍊邊留在同一組照片裡，尤其是較深的內袋縫線。保留原本磨耗，不加濾鏡，LINE 詢問時才不會只剩表面角度。\n\n拍全貌、內裡與拉鍊邊，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post\n\n#私享家洗衣店 #化妝包 #台中包包清潔",
+      "summary": "化妝包拉鍊邊看得到，內袋縫線卻常被遮住",
+      "image": "https://39211.github.io/assets/2026-08-16/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "化妝包",
+        "台中包包清潔"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "conversion-proof",
+        "content_role": "evidence-conversion",
+        "search_intent": "trust-proof",
+        "target_queries": [
+          "台中洗鞋店",
+          "台中洗包包",
+          "台中洗鞋推薦",
+          "西屯乾洗店推薦"
+        ],
+        "evidence_type": "inspection-detail",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-08-16.json"
+      }
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-03",
+      "url": "https://39211.github.io/posts/2026-08-16-slot-03.html",
+      "title": "2026-08-16 12:00 白鞋泛黃，不是刷得不夠用力",
+      "date_published": "2026-08-16T12:00:00+08:00",
+      "content_text": "白鞋泛黃，不是刷得不夠用力。\n\n黃在鞋邊是膠氧化，刷不掉；黃在布面是洗劑殘留，那洗得回來。先看是哪一種。運動鞋兩百五起，分不出來拍一張傳給我們。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "summary": "白鞋泛黃，不是刷得不夠用力",
+      "image": "https://39211.github.io/assets/2026-08-16/slot-03.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "台中免費收送",
+        "洗護日常",
+        "台中洗鞋",
+        "洗鞋推薦",
+        "球鞋清洗",
+        "台中洗衣店",
+        "西屯",
+        "逢甲",
+        "台中"
+      ],
+      "_sixiangjia": {
+        "slot": 3,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://39211.github.io/content-calendar/2026-08-16.json"
+      }
     }
   ]
 }

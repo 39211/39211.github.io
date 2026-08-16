@@ -84,7 +84,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Topics: 衣物清潔, 鞋包清潔, 布品收納, 白鞋清潔, 雨季保養
 
 ## Data Contract
-- Cadence: two daily social slots, 11:30 and 19:30 Asia/Taipei.
+- Cadence: two daily social slots, 11:30 and 20:30 Asia/Taipei.
 - Each post includes: date, slot, time, title, topic, content_role, visual_route, traffic_route, search_intent, target_queries, evidence_type, hashtags, media_type, image_url, video_url when applicable, calendar_url, facebook_caption, instagram_caption.
 - Use the business profile and structured data as the source of record for phone, hours, map, and social links.
 - Do not treat Google Maps CID as Google Place ID. Use google_place_id only when it is non-null.
@@ -98,6 +98,23 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-16 12:00 白鞋泛黃，不是刷得不夠用力](https://39211.github.io/posts/2026-08-16-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://39211.github.io/assets/2026-08-16/slot-03.png
+  video: https://39211.github.io/assets/2026-08-16/slot-03.mp4
+  calendar: https://39211.github.io/content-calendar/2026-08-16.json
+- [2026-08-16 19:30 化妝包拉鍊邊看得到，內袋縫線卻常被遮住](https://39211.github.io/posts/2026-08-16-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=conversion-proof; search_intent=trust-proof
+  target_queries: 台中洗鞋店 | 台中洗包包 | 台中洗鞋推薦 | 西屯乾洗店推薦
+  evidence_type: inspection-detail
+  hashtags: #私享家洗衣店 #化妝包 #台中包包清潔
+  image: https://39211.github.io/assets/2026-08-16/slot-02.png
+  calendar: https://39211.github.io/content-calendar/2026-08-16.json
 - [2026-08-15 12:00 皮鞋淋雨，擦乾就沒事了嗎](https://39211.github.io/posts/2026-08-15-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)

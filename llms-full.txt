@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-08-15T03:55:12.447Z
+- Generated at: 2026-08-16T04:00:22.959Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -223,6 +223,8 @@
     "https://39211.github.io/assets/2026-08-15/slot-01.png",
     "https://39211.github.io/assets/2026-08-15/slot-02.png",
     "https://39211.github.io/assets/2026-08-15/slot-03.png",
+    "https://39211.github.io/assets/2026-08-16/slot-02.png",
+    "https://39211.github.io/assets/2026-08-16/slot-03.png",
     "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
     "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
@@ -4058,6 +4060,98 @@ Instagram caption:
 不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
 
 參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+私享家洗衣店｜台中市區免費到府收送
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-16 19:30 化妝包拉鍊邊看得到，內袋縫線卻常被遮住
+
+- id: https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-02
+- published local time: 2026-08-16T19:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: conversion-proof
+- search_intent: trust-proof
+- target_queries: 台中洗鞋店 | 台中洗包包 | 台中洗鞋推薦 | 西屯乾洗店推薦
+- evidence_type: inspection-detail
+- hashtags: #私享家洗衣店 #化妝包 #台中包包清潔
+- image: https://39211.github.io/assets/2026-08-16/slot-02.png
+- calendar: https://39211.github.io/content-calendar/2026-08-16.json
+
+Facebook caption:
+
+化妝包拉鍊邊看得到，內袋縫線卻常被遮住。
+
+私享家洗衣店
+
+拍照時請把袋身全貌、內裡和拉鍊邊留在同一組照片裡，尤其是較深的內袋縫線。保留原本磨耗，不加濾鏡，LINE 詢問時才不會只剩表面角度。
+
+拍全貌、內裡與拉鍊邊，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post
+
+#私享家洗衣店 #化妝包 #台中包包清潔
+
+Instagram caption:
+
+化妝包拉鍊邊看得到，內袋縫線卻常被遮住。
+
+私享家洗衣店
+
+拍照時請把袋身全貌、內裡和拉鍊邊留在同一組照片裡，尤其是較深的內袋縫線。保留原本磨耗，不加濾鏡，LINE 詢問時才不會只剩表面角度。
+
+拍全貌、內裡與拉鍊邊，點個人檔案連結加 LINE 先詢問。
+
+#私享家洗衣店 #化妝包 #台中包包清潔
+
+### 2026-08-16 12:00 白鞋泛黃，不是刷得不夠用力
+
+- id: https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-03
+- published local time: 2026-08-16T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://39211.github.io/assets/2026-08-16/slot-03.png
+- calendar: https://39211.github.io/content-calendar/2026-08-16.json
+
+Facebook caption:
+
+白鞋泛黃，不是刷得不夠用力。
+
+黃在鞋邊是膠氧化，刷不掉；黃在布面是洗劑殘留，那洗得回來。先看是哪一種。運動鞋兩百五起，分不出來拍一張傳給我們。
+
+不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。
+
+參考價：一般運動鞋 $250、皮類 $300（水洗價）
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+私享家洗衣店｜台中市區免費到府收送
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+白鞋泛黃，不是刷得不夠用力。
+
+黃在鞋邊是膠氧化，刷不掉；黃在布面是洗劑殘留，那洗得回來。先看是哪一種。運動鞋兩百五起，分不出來拍一張傳給我們。
+
+不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
+
+參考價：一般運動鞋 $250、皮類 $300（水洗價）
 
 直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
 
