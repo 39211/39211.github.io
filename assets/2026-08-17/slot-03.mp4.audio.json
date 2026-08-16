@@ -1,5 +1,7 @@
 ﻿{
+    "treatment":  "A",
     "narration":  true,
     "generated_clip_audio_used":  false,
-    "source":  "post-ambient-bed"
+    "source":  "post-ambient-bed",
+    "narr_delay_ms":  4000
 }
