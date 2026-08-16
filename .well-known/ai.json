@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-16T04:00:22.959Z",
+  "generated_at": "2026-08-16T05:33:52.696Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -424,6 +424,7 @@
       "https://39211.github.io/assets/2026-08-15/slot-01.png",
       "https://39211.github.io/assets/2026-08-15/slot-02.png",
       "https://39211.github.io/assets/2026-08-15/slot-03.png",
+      "https://39211.github.io/assets/2026-08-16/slot-01.png",
       "https://39211.github.io/assets/2026-08-16/slot-02.png",
       "https://39211.github.io/assets/2026-08-16/slot-03.png",
       "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
@@ -1223,18 +1224,69 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 82,
+    "post_count": 83,
     "latest_date": "2026-08-16",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 29,
-    "posts_with_target_queries": 31,
-    "posts_with_evidence_type": 31
+    "posts_with_search_intent": 30,
+    "posts_with_target_queries": 32,
+    "posts_with_evidence_type": 32
   },
   "latest_date": "2026-08-16",
   "latest_posts": [
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-01",
+      "date": "2026-08-16",
+      "date_published": "2026-08-16T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-08-16 11:30 可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置",
+      "topic": "可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中棉被清洗",
+        "台中床組清洗",
+        "鞋子淋雨後怎麼收",
+        "棉被收納前要洗嗎"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#棉被清洗",
+        "#布品收納",
+        "#棉被送洗",
+        "#寢具清潔",
+        "#換季收納",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-08-16/slot-01.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-16/slot-01.png",
+        "https://39211.github.io/assets/2026-08-16/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-16/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-16/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-16.json",
+      "article_url": "https://39211.github.io/posts/2026-08-16-slot-01.html",
+      "facebook_caption": "棉被收納前的濕氣與睡眠味，送洗前先看三個位置。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張傳 LINE，我們幫你判斷。\n\n你現在最想處理掉的是哪一件？\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "棉被收納前的濕氣與睡眠味，送洗前先看三個位置。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張私訊，我們幫你判斷。\n\n你現在最想處理掉的是哪一件？\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-02",
       "date": "2026-08-16",
@@ -1408,6 +1460,57 @@
       "article_url": "https://39211.github.io/posts/2026-08-16-slot-02.html",
       "facebook_caption": "化妝包拉鍊邊看得到，內袋縫線卻常被遮住。\n\n私享家洗衣店\n\n拍照時請把袋身全貌、內裡和拉鍊邊留在同一組照片裡，尤其是較深的內袋縫線。保留原本磨耗，不加濾鏡，LINE 詢問時才不會只剩表面角度。\n\n拍全貌、內裡與拉鍊邊，傳 LINE 先詢問：https://39211.github.io/go/line.html?source=post\n\n#私享家洗衣店 #化妝包 #台中包包清潔",
       "instagram_caption": "化妝包拉鍊邊看得到，內袋縫線卻常被遮住。\n\n私享家洗衣店\n\n拍照時請把袋身全貌、內裡和拉鍊邊留在同一組照片裡，尤其是較深的內袋縫線。保留原本磨耗，不加濾鏡，LINE 詢問時才不會只剩表面角度。\n\n拍全貌、內裡與拉鍊邊，點個人檔案連結加 LINE 先詢問。\n\n#私享家洗衣店 #化妝包 #台中包包清潔"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-01",
+      "date": "2026-08-16",
+      "date_published": "2026-08-16T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-08-16 11:30 可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置",
+      "topic": "可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中棉被清洗",
+        "台中床組清洗",
+        "鞋子淋雨後怎麼收",
+        "棉被收納前要洗嗎"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#棉被清洗",
+        "#布品收納",
+        "#棉被送洗",
+        "#寢具清潔",
+        "#換季收納",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-08-16/slot-01.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-16/slot-01.png",
+        "https://39211.github.io/assets/2026-08-16/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-16/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-16/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-16.json",
+      "article_url": "https://39211.github.io/posts/2026-08-16-slot-01.html",
+      "facebook_caption": "棉被收納前的濕氣與睡眠味，送洗前先看三個位置。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張傳 LINE，我們幫你判斷。\n\n你現在最想處理掉的是哪一件？\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "棉被收納前的濕氣與睡眠味，送洗前先看三個位置。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張私訊，我們幫你判斷。\n\n你現在最想處理掉的是哪一件？\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-15.json#post-2026-08-15-slot-03",
@@ -2497,50 +2600,6 @@
       "article_url": "https://39211.github.io/posts/2026-08-03-slot-02.html",
       "facebook_caption": "棉被收進櫃子前，先聞一下。\n\n私享家洗衣店\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季就是那個味道。\n\n有類似狀況，可以先拍正面、近照、邊角或洗標，再傳 LINE 讓我們初步判斷。\n\n你家的棉被大概多久整理一次？\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常",
       "instagram_caption": "棉被收進櫃子前，先聞一下。\n\n私享家洗衣店\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季就是那個味道。\n\n有類似狀況，先拍完整外觀和局部，直接私訊傳給我們，我們會先幫你看方向。\n\n你家的棉被大概多久整理一次？\n\n家裡那位總說「棉被還可以再放一下」的人，這篇可以轉給他。\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常"
-    },
-    {
-      "id": "https://39211.github.io/content-calendar/2026-08-03.json#post-2026-08-03-slot-01",
-      "date": "2026-08-03",
-      "date_published": "2026-08-03T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-08-03 11:30 化妝包的粉痕，拉鍊邊與內袋縫線要一起看",
-      "topic": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看",
-      "visual_route": "macro-detail",
-      "traffic_route": "dwell-detail",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中洗鞋店",
-        "台中洗包包",
-        "白鞋泛黃怎麼辦",
-        "鞋子淋雨怎麼處理"
-      ],
-      "evidence_type": "first-party-inspection",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#化妝包清潔",
-        "#包包內裡"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://39211.github.io/assets/2026-08-03/slot-01.png",
-      "image_urls": [
-        "https://39211.github.io/assets/2026-08-03/slot-01.png",
-        "https://39211.github.io/assets/2026-08-03/slot-01-slide-02.png",
-        "https://39211.github.io/assets/2026-08-03/slot-01-slide-03.png",
-        "https://39211.github.io/assets/2026-08-03/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://39211.github.io/content-calendar/2026-08-03.json",
-      "article_url": "https://39211.github.io/posts/2026-08-03-slot-01.html",
-      "facebook_caption": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看。鬆散粉末和已被摩擦進纖維的痕跡，處理方向不一樣。\n\n先把內容物全部取出，在自然光下看內裡底部、內袋縫線、拉鍊布邊與包角；確認粉痕是浮在表面，還是已集中在織紋與縫隙。\n\n不要直接把清潔液倒進包內，也不要為了拉鍊邊一小塊痕跡把整個內裡泡濕；先保留原狀拍照。\n\n拍全貌、內裡底部、拉鍊邊與材質標示傳 LINE，我們可以先看範圍。\n\n你最常背的那個包，哪裡先磨壞的？\n\n追蹤私享家，之後會持續整理化妝包內裡、粉痕與拉鍊邊的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡",
-      "instagram_caption": "化妝包的粉痕，拉鍊邊與內袋縫線要一起看。鬆散粉末和已被摩擦進纖維的痕跡，處理方向不一樣。\n\n先把內容物全部取出，在自然光下看內裡底部、內袋縫線、拉鍊布邊與包角；確認粉痕是浮在表面，還是已集中在織紋與縫隙。\n\n不要直接把清潔液倒進包內，也不要為了拉鍊邊一小塊痕跡把整個內裡泡濕；先保留原狀拍照。\n\n拍好全貌、內裡底部、拉鍊邊與材質標示後，直接私訊，讓我們先看範圍。\n\n你最常背的那個包，哪裡先磨壞的？\n\n追蹤私享家，之後會持續整理化妝包內裡、粉痕與拉鍊邊的送洗前判斷。\n\n#私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡"
     }
   ],
   "published_posts": [
@@ -5648,6 +5707,57 @@
       "article_url": "https://39211.github.io/posts/2026-08-15-slot-03.html",
       "facebook_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n淋雨那天擦乾了，水痕過幾天才浮出來。這時候上油等於把它鎖進皮裡面，之後就是補色。還沒上油的現在剛好。皮鞋四百起。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "皮鞋淋雨，擦乾就沒事了嗎。\n\n淋雨那天擦乾了，水痕過幾天才浮出來。這時候上油等於把它鎖進皮裡面，之後就是補色。還沒上油的現在剛好。皮鞋四百起。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-01",
+      "date": "2026-08-16",
+      "date_published": "2026-08-16T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-08-16 11:30 可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置",
+      "topic": "可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中棉被清洗",
+        "台中床組清洗",
+        "鞋子淋雨後怎麼收",
+        "棉被收納前要洗嗎"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#棉被清洗",
+        "#布品收納",
+        "#棉被送洗",
+        "#寢具清潔",
+        "#換季收納",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://39211.github.io/assets/2026-08-16/slot-01.png",
+      "image_urls": [
+        "https://39211.github.io/assets/2026-08-16/slot-01.png",
+        "https://39211.github.io/assets/2026-08-16/slot-01-slide-02.png",
+        "https://39211.github.io/assets/2026-08-16/slot-01-slide-03.png",
+        "https://39211.github.io/assets/2026-08-16/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://39211.github.io/content-calendar/2026-08-16.json",
+      "article_url": "https://39211.github.io/posts/2026-08-16-slot-01.html",
+      "facebook_caption": "棉被收納前的濕氣與睡眠味，送洗前先看三個位置。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張傳 LINE，我們幫你判斷。\n\n你現在最想處理掉的是哪一件？\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "棉被收納前的濕氣與睡眠味，送洗前先看三個位置。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張私訊，我們幫你判斷。\n\n你現在最想處理掉的是哪一件？\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
       "id": "https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-02",

@@ -115,6 +115,14 @@ This is the curated AI entry point. Read this file first, then choose the smalle
   hashtags: #私享家洗衣店 #化妝包 #台中包包清潔
   image: https://39211.github.io/assets/2026-08-16/slot-02.png
   calendar: https://39211.github.io/content-calendar/2026-08-16.json
+- [2026-08-16 11:30 可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置](https://39211.github.io/posts/2026-08-16-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=aftercare
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://39211.github.io/assets/2026-08-16/slot-01.png
+  calendar: https://39211.github.io/content-calendar/2026-08-16.json
 - [2026-08-15 12:00 皮鞋淋雨，擦乾就沒事了嗎](https://39211.github.io/posts/2026-08-15-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)

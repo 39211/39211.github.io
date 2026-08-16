@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-08-16T04:00:22.959Z
+- Generated at: 2026-08-16T05:33:52.696Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -223,6 +223,7 @@
     "https://39211.github.io/assets/2026-08-15/slot-01.png",
     "https://39211.github.io/assets/2026-08-15/slot-02.png",
     "https://39211.github.io/assets/2026-08-15/slot-03.png",
+    "https://39211.github.io/assets/2026-08-16/slot-01.png",
     "https://39211.github.io/assets/2026-08-16/slot-02.png",
     "https://39211.github.io/assets/2026-08-16/slot-03.png",
     "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
@@ -4070,6 +4071,61 @@ Instagram caption:
 私享家洗衣店｜台中市區免費到府收送
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-16 11:30 可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置
+
+- id: https://39211.github.io/content-calendar/2026-08-16.json#post-2026-08-16-slot-01
+- published local time: 2026-08-16T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: value-prop-lead
+- search_intent: aftercare
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://39211.github.io/assets/2026-08-16/slot-01.png
+- calendar: https://39211.github.io/content-calendar/2026-08-16.json
+
+Facebook caption:
+
+棉被收納前的濕氣與睡眠味，送洗前先看三個位置。
+
+領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。
+
+我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。
+
+想先問問看再決定？拍一張傳 LINE，我們幫你判斷。
+
+你現在最想處理掉的是哪一件？
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+棉被收納前的濕氣與睡眠味，送洗前先看三個位置。
+
+領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。
+
+我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。
+
+想先問問看再決定？拍一張私訊，我們幫你判斷。
+
+你現在最想處理掉的是哪一件？
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
 
 ### 2026-08-16 19:30 化妝包拉鍊邊看得到，內袋縫線卻常被遮住
 
