@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://39211.github.io/
-- Generated at: 2026-08-16T05:33:52.696Z
+- Generated at: 2026-08-16T11:39:45.797Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -228,7 +228,10 @@
     "https://39211.github.io/assets/2026-08-16/slot-03.png",
     "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
     "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
-    "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
+    "https://39211.github.io/assets/services/fabric-storage-hero-product.png",
+    "https://39211.github.io/assets/services/fabric-storage-inspection.png",
+    "https://39211.github.io/assets/backgrounds/premium-laundry-depth.png",
+    "https://39211.github.io/assets/backgrounds/local-store-depth.png"
   ],
   "areaServed": [
     {
@@ -342,7 +345,7 @@
           "@type": "Service",
           "name": "台中全市免費洗衣收送",
           "serviceType": "台中全市免費洗衣收送",
-          "description": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。",
+          "description": "私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中市"

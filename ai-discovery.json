@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-16T05:33:52.696Z",
+  "generated_at": "2026-08-16T11:39:45.797Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -429,7 +429,10 @@
       "https://39211.github.io/assets/2026-08-16/slot-03.png",
       "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
       "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
-      "https://39211.github.io/assets/services/fabric-storage-hero-product.png"
+      "https://39211.github.io/assets/services/fabric-storage-hero-product.png",
+      "https://39211.github.io/assets/services/fabric-storage-inspection.png",
+      "https://39211.github.io/assets/backgrounds/premium-laundry-depth.png",
+      "https://39211.github.io/assets/backgrounds/local-store-depth.png"
     ],
     "areaServed": [
       {
@@ -543,7 +546,7 @@
             "@type": "Service",
             "name": "台中全市免費洗衣收送",
             "serviceType": "台中全市免費洗衣收送",
-            "description": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。",
+            "description": "私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。",
             "areaServed": {
               "@type": "AdministrativeArea",
               "name": "台中市"
@@ -608,7 +611,7 @@
           "boundary": "不以香味覆蓋悶味，也不建議在未乾燥前重新密封。"
         }
       ],
-      "faq_count": 4
+      "faq_count": 6
     },
     {
       "slug": "white-shoe-cleaning",
@@ -729,9 +732,9 @@
         "私享家洗衣店"
       ],
       "answer_summary": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，可先用 LINE 傳照片詢問。",
-      "image_url": "",
-      "image_alt": "私享家洗衣店台中西屯青海路服務導覽",
-      "image_note": "台中西屯青海路洗衣、洗鞋、洗包與布品收納服務導覽頁。",
+      "image_url": "https://39211.github.io/assets/services/fabric-storage-inspection.png",
+      "image_alt": "私享家洗衣店門市人員檢查外套與布品的服務情境主圖",
+      "image_note": "AI 生成的門市檢查情境示意圖，呈現送洗前先看材質與狀態的服務方式；不是實際客戶物件照片。",
       "case_story": {
         "label": "第一次詢問私享家時怎麼開始",
         "situation": "很多客人不是一開始就確定要洗衣、洗鞋、洗包或整理布品，而是手上有一件外套、一雙白鞋、一個包包或一袋換季寢具，不知道該不該送洗。",
@@ -782,9 +785,9 @@
         "LINE 預約送洗"
       ],
       "answer_summary": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。",
-      "image_url": "",
+      "image_url": "https://39211.github.io/assets/backgrounds/premium-laundry-depth.png",
       "image_alt": "台中店家與公司大量衣物送洗前的分類與交接說明",
-      "image_note": "服務說明頁；只有在已核准公開內容中找到相符案例時才使用社群圖片。",
+      "image_note": "AI 生成的洗衣空間示意圖，呈現大量衣物與布品分批處理的情境；不是實際客戶物件照片。",
       "case_story": {
         "label": "一次有多件衣物或布品，需要先分類再安排收送",
         "situation": "店家或公司可能累積一批制服、工作衣、毛巾、床組或活動後布品，不方便逐件帶到門市，也擔心不同材質混在一起後無法說清楚。",
@@ -823,7 +826,7 @@
       "slug": "taichung-citywide-laundry-pickup",
       "name": "台中全市免費洗衣收送",
       "title": "台中免費收送洗衣｜全市到府、LINE 預約｜私享家洗衣店",
-      "description": "台中免費收送洗衣服務涵蓋全市，收送本身免費、洗護費另計。私享家門市在西屯青海路二段365號，先用 LINE 傳照片預約。",
+      "description": "台中免費收送洗衣服務涵蓋全市，收送沒有最低消費門檻，不需單次洗滌滿額。門市在西屯青海路二段365號，先用 LINE 傳照片預約。",
       "url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
       "keywords": [
         "台中洗衣收送",
@@ -833,10 +836,10 @@
         "私享家洗衣店",
         "LINE 預約洗衣"
       ],
-      "answer_summary": "私享家洗衣店提供台中全市免費洗衣收送；門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問。",
-      "image_url": "",
+      "answer_summary": "私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。",
+      "image_url": "https://39211.github.io/assets/backgrounds/local-store-depth.png",
       "image_alt": "台中全市免費洗衣收送服務說明｜私享家洗衣店",
-      "image_note": "台中全市免費洗衣收送說明頁；門市在西屯，收送範圍為台中市。",
+      "image_note": "AI 生成的門市與街景示意圖，呈現收送服務以西屯門市為起點；不是實際客戶物件照片。",
       "case_story": {
         "label": "住在台中其他行政區，也能先用 LINE 問收送",
         "situation": "客人可能住在台中市內、不在西屯門市旁邊，手上有衣物、鞋子、包包或布品需要整理，想先確認能不能收送、要怎麼開始。",
@@ -849,8 +852,8 @@
           "object": "台中市內住家衣物",
           "material": "依洗標與布料判斷",
           "concern": "不方便到店，想先確認收送",
-          "inspection": "先確認收送範圍為台中市、收送免費，再依照片看衣物狀態。",
-          "boundary": "收送免費不等於清潔免費；不報未經確認的處理天數或最低消費。"
+          "inspection": "先確認收送範圍為台中市、收送免費、且收送沒有最低消費門檻，再依照片看衣物狀態。",
+          "boundary": "收送免費不等於清潔免費：無門檻只指收送條件，清潔與洗護費用仍依物件另計，處理天數需看實際物件。"
         },
         {
           "label": "情境 02",
@@ -869,7 +872,7 @@
           "boundary": "不承諾固定取件時段或保證所有黃痕可消除。"
         }
       ],
-      "faq_count": 5
+      "faq_count": 7
     }
   ],
   "support_pages": [
