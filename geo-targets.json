@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-17T05:50:06.659Z",
+  "generated_at": "2026-08-17T12:36:11.625Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -335,10 +335,10 @@
     },
     {
       "query": "台中西屯 送洗前 LINE 詢問",
-      "service": "送洗前怎麼拍照片詢問？",
+      "service": "台中西屯洗衣店",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
-      "answer_summary": "先用照片把物件狀態說清楚，比只問價錢更有用。私享家會依材質、髒污來源、濕氣與磨耗狀態先做初步判斷。",
+      "answer_summary": "送洗前拍整體、局部、材質與最在意痕跡，照片比只問價錢更能判斷。",
       "keywords": [
         "送洗前拍照",
         "LINE 詢問洗衣店",
@@ -348,10 +348,10 @@
     },
     {
       "query": "青海路二段 送洗前 LINE 詢問",
-      "service": "送洗前怎麼拍照片詢問？",
+      "service": "台中西屯洗衣店",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
-      "answer_summary": "先用照片把物件狀態說清楚，比只問價錢更有用。私享家會依材質、髒污來源、濕氣與磨耗狀態先做初步判斷。",
+      "answer_summary": "送洗前拍整體、局部、材質與最在意痕跡，照片比只問價錢更能判斷。",
       "keywords": [
         "送洗前拍照",
         "LINE 詢問洗衣店",
@@ -361,10 +361,10 @@
     },
     {
       "query": "至善里 送洗前 LINE 詢問",
-      "service": "送洗前怎麼拍照片詢問？",
+      "service": "台中西屯洗衣店",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
-      "answer_summary": "先用照片把物件狀態說清楚，比只問價錢更有用。私享家會依材質、髒污來源、濕氣與磨耗狀態先做初步判斷。",
+      "answer_summary": "送洗前拍整體、局部、材質與最在意痕跡，照片比只問價錢更能判斷。",
       "keywords": [
         "送洗前拍照",
         "LINE 詢問洗衣店",
@@ -377,7 +377,7 @@
       "service": "白鞋清潔",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
-      "answer_summary": "白鞋清潔要先分清楚是表面髒污、膠邊氧化、內裡濕悶，還是材質本身變色，避免用錯方式讓鞋面變毛或膠痕更明顯。",
+      "answer_summary": "白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。",
       "keywords": [
         "白鞋泛黃",
         "白鞋清潔",
@@ -390,7 +390,7 @@
       "service": "白鞋清潔",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
-      "answer_summary": "白鞋清潔要先分清楚是表面髒污、膠邊氧化、內裡濕悶，還是材質本身變色，避免用錯方式讓鞋面變毛或膠痕更明顯。",
+      "answer_summary": "白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。",
       "keywords": [
         "白鞋泛黃",
         "白鞋清潔",
@@ -403,7 +403,7 @@
       "service": "白鞋清潔",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
-      "answer_summary": "白鞋清潔要先分清楚是表面髒污、膠邊氧化、內裡濕悶，還是材質本身變色，避免用錯方式讓鞋面變毛或膠痕更明顯。",
+      "answer_summary": "白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。",
       "keywords": [
         "白鞋泛黃",
         "白鞋清潔",
@@ -689,7 +689,7 @@
       "service": "鞋包清潔",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
-      "answer_summary": "鞋子淋雨後最怕直接收進鞋櫃。濕氣留在鞋內、鞋墊和縫線附近，會讓味道與水痕更難處理。",
+      "answer_summary": "雨天鞋子進水後先通風、取出鞋墊；不要高溫烘或悶進鞋櫃。",
       "keywords": [
         "雨天鞋子保養",
         "鞋子進水",
@@ -702,7 +702,7 @@
       "service": "鞋包清潔",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
-      "answer_summary": "鞋子淋雨後最怕直接收進鞋櫃。濕氣留在鞋內、鞋墊和縫線附近，會讓味道與水痕更難處理。",
+      "answer_summary": "雨天鞋子進水後先通風、取出鞋墊；不要高溫烘或悶進鞋櫃。",
       "keywords": [
         "雨天鞋子保養",
         "鞋子進水",
@@ -715,7 +715,7 @@
       "service": "鞋包清潔",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
-      "answer_summary": "鞋子淋雨後最怕直接收進鞋櫃。濕氣留在鞋內、鞋墊和縫線附近，會讓味道與水痕更難處理。",
+      "answer_summary": "雨天鞋子進水後先通風、取出鞋墊；不要高溫烘或悶進鞋櫃。",
       "keywords": [
         "雨天鞋子保養",
         "鞋子進水",
@@ -724,42 +724,48 @@
       ]
     },
     {
-      "query": "台中西屯 包包清潔",
+      "query": "台中西屯 包包清潔 行李箱輪子",
       "service": "鞋包清潔",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-      "answer_summary": "包包不是只有表面擦一擦。提把、包角、底部和五金附近，常見的是手汗、摩擦、水痕與材質吸附混在一起。",
+      "answer_summary": "行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
-        "台中西屯洗包"
+        "台中西屯洗包",
+        "行李箱清潔",
+        "行李箱輪子"
       ]
     },
     {
-      "query": "青海路二段 包包清潔",
+      "query": "青海路二段 包包清潔 行李箱輪子",
       "service": "鞋包清潔",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-      "answer_summary": "包包不是只有表面擦一擦。提把、包角、底部和五金附近，常見的是手汗、摩擦、水痕與材質吸附混在一起。",
+      "answer_summary": "行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
-        "台中西屯洗包"
+        "台中西屯洗包",
+        "行李箱清潔",
+        "行李箱輪子"
       ]
     },
     {
-      "query": "至善里 包包清潔",
+      "query": "至善里 包包清潔 行李箱輪子",
       "service": "鞋包清潔",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-      "answer_summary": "包包不是只有表面擦一擦。提把、包角、底部和五金附近，常見的是手汗、摩擦、水痕與材質吸附混在一起。",
+      "answer_summary": "行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
-        "台中西屯洗包"
+        "台中西屯洗包",
+        "行李箱清潔",
+        "行李箱輪子"
       ]
     },
     {
@@ -767,7 +773,7 @@
       "service": "布品收納",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/guides/bedding-storage-check.html",
-      "answer_summary": "換季收納前不是只要摺好。厚棉布品、外套和寢具如果帶著汗味、濕氣或局部髒污收進袋子，下一季拿出來會更明顯。",
+      "answer_summary": "寢具收納前先聞潮味；摸起來乾、中間層不一定乾，帶濕氣封存會悶出味道。",
       "keywords": [
         "布品收納",
         "寢具收納",
@@ -780,7 +786,7 @@
       "service": "布品收納",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/guides/bedding-storage-check.html",
-      "answer_summary": "換季收納前不是只要摺好。厚棉布品、外套和寢具如果帶著汗味、濕氣或局部髒污收進袋子，下一季拿出來會更明顯。",
+      "answer_summary": "寢具收納前先聞潮味；摸起來乾、中間層不一定乾，帶濕氣封存會悶出味道。",
       "keywords": [
         "布品收納",
         "寢具收納",
@@ -793,7 +799,7 @@
       "service": "布品收納",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/guides/bedding-storage-check.html",
-      "answer_summary": "換季收納前不是只要摺好。厚棉布品、外套和寢具如果帶著汗味、濕氣或局部髒污收進袋子，下一季拿出來會更明顯。",
+      "answer_summary": "寢具收納前先聞潮味；摸起來乾、中間層不一定乾，帶濕氣封存會悶出味道。",
       "keywords": [
         "布品收納",
         "寢具收納",
@@ -851,7 +857,7 @@
       "service": "布品收納",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
-      "answer_summary": "床組不是只看表面乾不乾淨；填充物、潮氣、異味與收納前狀態都會影響後續判斷。先傳照片與尺寸，讓門市確認送件方向。",
+      "answer_summary": "棉被送洗先看填充、潮氣與異味；沒乾透就收納，下一季打開就是味道。",
       "keywords": [
         "台中西屯床組清洗",
         "台中棉被清洗",
@@ -866,7 +872,7 @@
       "service": "布品收納",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
-      "answer_summary": "床組不是只看表面乾不乾淨；填充物、潮氣、異味與收納前狀態都會影響後續判斷。先傳照片與尺寸，讓門市確認送件方向。",
+      "answer_summary": "棉被送洗先看填充、潮氣與異味；沒乾透就收納，下一季打開就是味道。",
       "keywords": [
         "台中西屯床組清洗",
         "台中棉被清洗",
@@ -881,7 +887,7 @@
       "service": "布品收納",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
-      "answer_summary": "床組不是只看表面乾不乾淨；填充物、潮氣、異味與收納前狀態都會影響後續判斷。先傳照片與尺寸，讓門市確認送件方向。",
+      "answer_summary": "棉被送洗先看填充、潮氣與異味；沒乾透就收納，下一季打開就是味道。",
       "keywords": [
         "台中西屯床組清洗",
         "台中棉被清洗",
@@ -896,7 +902,7 @@
       "service": "台中西屯洗衣店",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
-      "answer_summary": "絨毛、填充物、刺繡、黏貼配件和五官材質都可能不同。先傳正反面、洗標與需要處理的位置，讓門市確認處理界線。",
+      "answer_summary": "娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。",
       "keywords": [
         "台中西屯娃娃清洗",
         "台中布偶清潔",
@@ -911,7 +917,7 @@
       "service": "台中西屯洗衣店",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
-      "answer_summary": "絨毛、填充物、刺繡、黏貼配件和五官材質都可能不同。先傳正反面、洗標與需要處理的位置，讓門市確認處理界線。",
+      "answer_summary": "娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。",
       "keywords": [
         "台中西屯娃娃清洗",
         "台中布偶清潔",
@@ -926,7 +932,7 @@
       "service": "台中西屯洗衣店",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
-      "answer_summary": "絨毛、填充物、刺繡、黏貼配件和五官材質都可能不同。先傳正反面、洗標與需要處理的位置，讓門市確認處理界線。",
+      "answer_summary": "娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。",
       "keywords": [
         "台中西屯娃娃清洗",
         "台中布偶清潔",
@@ -941,7 +947,7 @@
       "service": "台中西屯洗衣店",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-      "answer_summary": "精品或名牌物件不以品牌名稱直接判斷，而是先看材質、結構、飾件與既有使用痕跡。先傳局部細節，讓門市確認處理方向與界線。",
+      "answer_summary": "精品送洗先看材質與飾件，不因品牌保證全新；邊角磨損只能維持。",
       "keywords": [
         "台中西屯精品乾洗",
         "台中名牌乾洗",
@@ -956,7 +962,7 @@
       "service": "台中西屯洗衣店",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-      "answer_summary": "精品或名牌物件不以品牌名稱直接判斷，而是先看材質、結構、飾件與既有使用痕跡。先傳局部細節，讓門市確認處理方向與界線。",
+      "answer_summary": "精品送洗先看材質與飾件，不因品牌保證全新；邊角磨損只能維持。",
       "keywords": [
         "台中西屯精品乾洗",
         "台中名牌乾洗",
@@ -971,7 +977,7 @@
       "service": "台中西屯洗衣店",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-      "answer_summary": "精品或名牌物件不以品牌名稱直接判斷，而是先看材質、結構、飾件與既有使用痕跡。先傳局部細節，讓門市確認處理方向與界線。",
+      "answer_summary": "精品送洗先看材質與飾件，不因品牌保證全新；邊角磨損只能維持。",
       "keywords": [
         "台中西屯精品乾洗",
         "台中名牌乾洗",

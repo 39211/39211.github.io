@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-17T05:50:06.659Z",
+  "generated_at": "2026-08-17T12:36:11.625Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -133,9 +133,9 @@
         },
         {
           "slug": "bag-handle-cleaning",
-          "title": "包包提把與包角髒了怎麼判斷？｜私享家洗衣店",
+          "title": "包包提把、包角與行李箱輪子怎麼判斷？｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-          "local_intent": "台中西屯 包包清潔"
+          "local_intent": "台中西屯 包包清潔 行李箱輪子"
         },
         {
           "slug": "qinghai-road-shoe-cleaning",
@@ -503,6 +503,12 @@
         }
       ],
       "related_support_pages": [
+        {
+          "slug": "photo-before-laundry",
+          "title": "送洗前怎麼拍照片詢問？｜私享家洗衣店",
+          "url": "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
+          "local_intent": "台中西屯 送洗前 LINE 詢問"
+        },
         {
           "slug": "school-uniform-care",
           "title": "開學前制服怎麼整理?領口黃、袖口髒的處理順序｜台中送洗",

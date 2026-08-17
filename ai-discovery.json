@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-17T05:50:06.659Z",
+  "generated_at": "2026-08-17T12:36:11.625Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -892,7 +892,7 @@
         "青海路洗衣店"
       ],
       "local_intent": "台中西屯 送洗前 LINE 詢問",
-      "linked_service": "",
+      "linked_service": "台中西屯洗衣店",
       "faq_count": 2,
       "step_count": 4
     },
@@ -1048,19 +1048,21 @@
     {
       "slug": "bag-handle-cleaning",
       "category": "guide",
-      "title": "包包提把與包角髒了怎麼判斷？｜私享家洗衣店",
-      "description": "包包提把、包角和底部常先累積手汗、水痕、摩擦和灰塵。整理前要先看材質與痕跡是否已滲入。",
+      "title": "包包提把、包角與行李箱輪子怎麼判斷？｜私享家洗衣店",
+      "description": "包包提把、包角和行李箱輪子、底板常先累積手汗、水痕、摩擦和地面灰塵。整理前要先看材質與痕跡是否已滲入。",
       "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
-        "台中西屯洗包"
+        "台中西屯洗包",
+        "行李箱清潔",
+        "行李箱輪子"
       ],
-      "local_intent": "台中西屯 包包清潔",
+      "local_intent": "台中西屯 包包清潔 行李箱輪子",
       "linked_service": "鞋包清潔",
-      "faq_count": 2,
-      "step_count": 4
+      "faq_count": 3,
+      "step_count": 5
     },
     {
       "slug": "bedding-storage-check",

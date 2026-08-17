@@ -1033,7 +1033,7 @@
         "@id": "https://sixiangjialaundry.com/#website"
       },
       "about": {
-        "@id": "https://sixiangjialaundry.com/#business"
+        "@id": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#service"
       },
       "mainEntity": {
         "@id": "https://sixiangjialaundry.com/guides/photo-before-laundry.html#howto"
@@ -1041,7 +1041,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/photo-before-laundry.html#faq"
       },
-      "dateModified": "2026-07-08",
+      "dateModified": "2026-08-17",
       "keywords": [
         "送洗前拍照",
         "LINE 詢問洗衣店",
@@ -1057,7 +1057,7 @@
         "@id": "https://sixiangjialaundry.com/guides/photo-before-laundry.html#webpage"
       },
       "name": "送洗前怎麼拍照片詢問？",
-      "description": "先用照片把物件狀態說清楚，比只問價錢更有用。私享家會依材質、髒污來源、濕氣與磨耗狀態先做初步判斷。",
+      "description": "送洗前拍整體、局部、材質與最在意痕跡，照片比只問價錢更能判斷。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -1131,7 +1131,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html#faq"
       },
-      "dateModified": "2026-07-08",
+      "dateModified": "2026-08-17",
       "keywords": [
         "白鞋泛黃",
         "白鞋清潔",
@@ -1147,7 +1147,7 @@
         "@id": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html#webpage"
       },
       "name": "白鞋泛黃怎麼判斷？",
-      "description": "白鞋清潔要先分清楚是表面髒污、膠邊氧化、內裡濕悶，還是材質本身變色，避免用錯方式讓鞋面變毛或膠痕更明顯。",
+      "description": "白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -1906,7 +1906,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/rainy-shoe-care.html#faq"
       },
-      "dateModified": "2026-07-08",
+      "dateModified": "2026-08-17",
       "keywords": [
         "雨天鞋子保養",
         "鞋子進水",
@@ -1922,7 +1922,7 @@
         "@id": "https://sixiangjialaundry.com/guides/rainy-shoe-care.html#webpage"
       },
       "name": "雨天鞋子進水後怎麼辦？",
-      "description": "鞋子淋雨後最怕直接收進鞋櫃。濕氣留在鞋內、鞋墊和縫線附近，會讓味道與水痕更難處理。",
+      "description": "雨天鞋子進水後先通風、取出鞋墊；不要高溫烘或悶進鞋櫃。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -1980,9 +1980,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html#webpage",
-      "name": "包包提把與包角髒了怎麼判斷？｜私享家洗衣店",
+      "name": "包包提把、包角與行李箱輪子怎麼判斷？｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-      "description": "包包提把、包角和底部常先累積手汗、水痕、摩擦和灰塵。整理前要先看材質與痕跡是否已滲入。",
+      "description": "包包提把、包角和行李箱輪子、底板常先累積手汗、水痕、摩擦和地面灰塵。整理前要先看材質與痕跡是否已滲入。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1996,12 +1996,14 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html#faq"
       },
-      "dateModified": "2026-07-08",
+      "dateModified": "2026-08-17",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
-        "台中西屯洗包"
+        "台中西屯洗包",
+        "行李箱清潔",
+        "行李箱輪子"
       ]
     },
     {
@@ -2011,8 +2013,8 @@
       "mainEntityOfPage": {
         "@id": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html#webpage"
       },
-      "name": "包包提把與包角髒了怎麼判斷？",
-      "description": "包包不是只有表面擦一擦。提把、包角、底部和五金附近，常見的是手汗、摩擦、水痕與材質吸附混在一起。",
+      "name": "包包提把、包角與行李箱輪子怎麼判斷？",
+      "description": "行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -2038,6 +2040,12 @@
           "position": 4,
           "name": "看內裡",
           "text": "內裡味道、粉塵和水痕也會影響整理方式。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 5,
+          "name": "看行李箱輪子",
+          "text": "旅行回來先看輪子、底板與把手，不要帶著地面灰直接推進櫃子。"
         }
       ]
     },
@@ -2064,6 +2072,14 @@
             "@type": "Answer",
             "text": "磨損不是髒污，清潔只能處理表面髒和部分水痕，磨耗本身需另外評估。"
           }
+        },
+        {
+          "@type": "Question",
+          "name": "行李箱輪子髒了可以送洗嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以先傳輪子、底板與把手照片詢問。門市會看材質與灰塵深度，再說明適合局部清潔還是外觀整理；沒看過物件前不報固定價。"
+          }
         }
       ]
     },
@@ -2086,7 +2102,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/bedding-storage-check.html#faq"
       },
-      "dateModified": "2026-07-08",
+      "dateModified": "2026-08-17",
       "keywords": [
         "布品收納",
         "寢具收納",
@@ -2102,7 +2118,7 @@
         "@id": "https://sixiangjialaundry.com/guides/bedding-storage-check.html#webpage"
       },
       "name": "寢具外套收納前要檢查什麼？",
-      "description": "換季收納前不是只要摺好。厚棉布品、外套和寢具如果帶著汗味、濕氣或局部髒污收進袋子，下一季拿出來會更明顯。",
+      "description": "寢具收納前先聞潮味；摸起來乾、中間層不一定乾，帶濕氣封存會悶出味道。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -2268,7 +2284,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html#faq"
       },
-      "dateModified": "2026-07-14",
+      "dateModified": "2026-08-17",
       "keywords": [
         "台中西屯床組清洗",
         "台中棉被清洗",
@@ -2286,7 +2302,7 @@
         "@id": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html#webpage"
       },
       "name": "床組、棉被與寢具清洗",
-      "description": "床組不是只看表面乾不乾淨；填充物、潮氣、異味與收納前狀態都會影響後續判斷。先傳照片與尺寸，讓門市確認送件方向。",
+      "description": "棉被送洗先看填充、潮氣與異味；沒乾透就收納，下一季打開就是味道。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -2360,7 +2376,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#faq"
       },
-      "dateModified": "2026-07-14",
+      "dateModified": "2026-08-17",
       "keywords": [
         "台中西屯娃娃清洗",
         "台中布偶清潔",
@@ -2378,7 +2394,7 @@
         "@id": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#webpage"
       },
       "name": "娃娃與絨毛玩偶清潔",
-      "description": "絨毛、填充物、刺繡、黏貼配件和五官材質都可能不同。先傳正反面、洗標與需要處理的位置，讓門市確認處理界線。",
+      "description": "娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -2452,7 +2468,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html#faq"
       },
-      "dateModified": "2026-07-14",
+      "dateModified": "2026-08-17",
       "keywords": [
         "台中西屯精品乾洗",
         "台中名牌乾洗",
@@ -2470,7 +2486,7 @@
         "@id": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html#webpage"
       },
       "name": "精品名牌與精緻乾洗",
-      "description": "精品或名牌物件不以品牌名稱直接判斷，而是先看材質、結構、飾件與既有使用痕跡。先傳局部細節，讓門市確認處理方向與界線。",
+      "description": "精品送洗先看材質與飾件，不因品牌保證全新；邊角磨損只能維持。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
