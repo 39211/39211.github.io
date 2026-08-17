@@ -98,6 +98,30 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-17 12:00 上班包內袋的粉底與筆痕](https://sixiangjialaundry.com/posts/2026-08-17-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #包包清潔 #內袋清潔 #上班包保養
+  image: https://sixiangjialaundry.com/assets/2026-08-17/slot-03.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-17.json
+- [2026-08-17 20:30 今天情境：雨後通勤回家不要直接收鞋](https://sixiangjialaundry.com/posts/2026-08-17-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=aftercare
+  target_queries: 台中洗鞋店 | 台中洗包包 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-17/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-17.json
+- [2026-08-17 11:30 可收藏：深色衣服洗久變灰的判斷，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-17-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=problem-diagnosis
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #衣物保養 #深色衣物 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-17/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-17.json
 - [2026-08-16 12:00 白鞋泛黃，不是刷得不夠用力](https://sixiangjialaundry.com/posts/2026-08-16-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)

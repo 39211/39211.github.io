@@ -11,7 +11,7 @@
   <url><loc>https://sixiangjialaundry.com/geo-targets.json</loc><changefreq>daily</changefreq><!-- geo-target-records --></url>
   <url><loc>https://sixiangjialaundry.com/search-visibility.json</loc><changefreq>daily</changefreq><!-- search-intent-and-ai-visibility-review --></url>
   <url><loc>https://sixiangjialaundry.com/llms.jsonl</loc><changefreq>daily</changefreq><!-- line-delimited-ai-records --></url>
-  <url><loc>https://sixiangjialaundry.com/services/shoe-bag-care.html</loc><lastmod>2026-07-22</lastmod><changefreq>daily</changefreq><!-- service-page-shoe-bag-care --></url>
+  <url><loc>https://sixiangjialaundry.com/services/shoe-bag-care.html</loc><lastmod>2026-08-17</lastmod><changefreq>daily</changefreq><!-- service-page-shoe-bag-care --></url>
   <url><loc>https://sixiangjialaundry.com/services/white-shoe-cleaning.html</loc><lastmod>2026-07-14</lastmod><changefreq>daily</changefreq><!-- service-page-white-shoe-cleaning --></url>
   <url><loc>https://sixiangjialaundry.com/services/fabric-storage.html</loc><lastmod>2026-07-14</lastmod><changefreq>daily</changefreq><!-- service-page-fabric-storage --></url>
   <url><loc>https://sixiangjialaundry.com/services/taichung-xitun-laundry.html</loc><lastmod>2026-07-20</lastmod><changefreq>daily</changefreq><!-- service-page-taichung-xitun-laundry --></url>
@@ -33,7 +33,7 @@
   <url><loc>https://sixiangjialaundry.com/guides/plush-doll-cleaning.html</loc><lastmod>2026-07-14</lastmod><changefreq>daily</changefreq><!-- guide-page-plush-doll-cleaning --></url>
   <url><loc>https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html</loc><lastmod>2026-07-14</lastmod><changefreq>daily</changefreq><!-- guide-page-luxury-dry-cleaning --></url>
   <url><loc>https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html</loc><lastmod>2026-07-28</lastmod><changefreq>daily</changefreq><!-- guide-page-taichung-laundry-service-search --></url>
-  <url><loc>https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html</loc><lastmod>2026-08-08</lastmod><changefreq>daily</changefreq><!-- local-page-qinghai-road-shoe-cleaning --></url>
+  <url><loc>https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html</loc><lastmod>2026-08-17</lastmod><changefreq>daily</changefreq><!-- local-page-qinghai-road-shoe-cleaning --></url>
   <url><loc>https://sixiangjialaundry.com/feed.json</loc><changefreq>daily</changefreq><!-- updates-feed --></url>
   <url><loc>https://sixiangjialaundry.com/social-posts.json</loc><changefreq>daily</changefreq><!-- post-records --></url>
   <url><loc>https://sixiangjialaundry.com/latest.json</loc><changefreq>daily</changefreq><!-- latest-package --></url>
@@ -81,6 +81,7 @@
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-08-14.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-08-15.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-08-16.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
+  <url><loc>https://sixiangjialaundry.com/content-calendar/2026-08-17.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-02/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-02/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-03/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
@@ -164,4 +165,7 @@
   <url><loc>https://sixiangjialaundry.com/assets/2026-08-16/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-08-16/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-08-16/slot-03.png</loc><changefreq>daily</changefreq><!-- image-slot-3 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-08-17/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-08-17/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-08-17/slot-03.png</loc><changefreq>daily</changefreq><!-- image-slot-3 --></url>
 </urlset>

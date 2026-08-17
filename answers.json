@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-17T02:09:51.157Z",
+  "generated_at": "2026-08-17T04:01:19.032Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -2676,7 +2676,7 @@
       "id": "qinghai-road-shoe-cleaning-summary",
       "type": "local_summary",
       "question": "逢甲洗鞋・西屯洗鞋：怎麼挑、怎麼問、怎麼送",
-      "answer": "逢甲生活圈找洗鞋，最常見的三個狀況是白鞋泛黃、雨天泥灰和鞋內悶味。私享家位於西屯青海路二段365號，走路或機車都在逢甲十分鐘圈內，台中市全區也可預約免費收送。挑洗鞋店不用先比價格，先比三件事：有沒有實際前後對比案例、敢不敢先講「哪些救不回來」、送洗流程麻不麻煩。",
+      "answer": "逢甲、西屯找洗鞋，最常見的是白鞋泛黃、雨天泥灰和鞋內悶味。私享家門市在西屯區青海路二段365號、至善國中對面，與逢甲、西屯同區可約收送；台中市全區也可預約免費到府收送。挑洗鞋店先比三件事：敢不敢先講哪些救不回來、收送範圍清不清楚、有沒有講處理界線。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
       "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送",
@@ -2704,8 +2704,8 @@
     {
       "id": "qinghai-road-shoe-cleaning-faq-01",
       "type": "local_faq",
-      "question": "逢甲附近洗鞋要多少錢？",
-      "answer": "公開價目（水洗價）：一般運動鞋 $250、皮類運動鞋 $300、休閒鞋 $350、皮鞋 $400、麂皮鞋 $400、高跟鞋 $400、名牌鞋 $600、童鞋 $150。乾洗柔洗另計，發霉特污另計，以實際報價為主；LINE 傳照片可先確認。",
+      "question": "逢甲、西屯可以約收送洗鞋嗎？",
+      "answer": "可以。台中市全區免費收送，清潔費另計。\n西屯、逢甲、至善國中一帶當天可約；宿舍與租屋處都能約。門市在青海路二段365號、至善國中對面。收送本身免費、沒有最低消費門檻，清潔與洗護費用另依物件判斷。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html#faq",
       "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送",
@@ -2733,8 +2733,8 @@
     {
       "id": "qinghai-road-shoe-cleaning-faq-02",
       "type": "local_faq",
-      "question": "白鞋黃斑救得回來嗎？",
-      "answer": "看黃斑成因：洗劑殘留造成的多半能明顯改善，材質氧化或染色滲透的只能淡化。門市會先講能處理到什麼程度，不保證完全洗白。",
+      "question": "白鞋泛黃救得回來嗎？",
+      "answer": "布面洗劑殘留多半能改善，膠邊氧化只能淡化。\n先看黃在布面還是鞋邊，不要先硬刷或漂白。門市會先講能處理到什麼程度，不保證完全洗白。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html#faq",
       "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送",
@@ -2762,8 +2762,8 @@
     {
       "id": "qinghai-road-shoe-cleaning-faq-03",
       "type": "local_faq",
-      "question": "逢甲學生沒有交通工具，可以收送嗎？",
-      "answer": "可以，台中市全區免費收送，宿舍與租屋處都能約時間，收送本身不收費，清潔費另依物件判斷。",
+      "question": "逢甲附近洗鞋大概多少錢？",
+      "answer": "運動鞋250起、麂皮鞋400起，以實際報價為主。\n公開水洗價還包括皮類運動鞋 300、休閒鞋 350、皮鞋 400、高跟鞋 400、名牌鞋 600、童鞋 150。乾洗柔洗另計，發霉特污另計；LINE 傳照片可先確認。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html#faq",
       "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送",
@@ -2791,8 +2791,8 @@
     {
       "id": "qinghai-road-shoe-cleaning-faq-04",
       "type": "local_faq",
-      "question": "洗一雙鞋要等幾天？",
-      "answer": "依鞋況與材質而定，一般清潔與需要除黃、除味的時間不同；LINE 詢問時會連同費用一起告知預估天數。",
+      "question": "一定要送到青海路門市嗎？",
+      "answer": "不一定。台中市可約免費到府收送。\n方便到店再來西屯區青海路二段365號、至善國中對面。營業時間週一至週五 10:00-20:00、週六 12:00-18:00、週日公休。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html#faq",
       "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送",
@@ -2820,37 +2820,8 @@
     {
       "id": "qinghai-road-shoe-cleaning-faq-05",
       "type": "local_faq",
-      "question": "青海路附近可以先用 LINE 問洗鞋嗎？",
-      "answer": "可以，建議拍鞋面、鞋邊、鞋底和鞋內照片，讓門市先判斷狀態，LINE ID：0968327653。",
-      "service": "鞋包清潔",
-      "source_url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html#faq",
-      "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送",
-      "keywords": [
-        "逢甲洗鞋",
-        "逢甲洗鞋推薦",
-        "西屯洗鞋",
-        "台中西屯洗鞋",
-        "青海路洗鞋",
-        "逢甲洗包包",
-        "西屯洗包"
-      ],
-      "area": "西屯區",
-      "confidence": "business-owned-source",
-      "citation_guidance": "Use the answer as short factual context and cite source_url.",
-      "do_not_infer": [
-        "Do not infer pricing.",
-        "Do not guarantee that white shoes can be fully whitened.",
-        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
-        "Do not infer Google review count or rating unless verified from a live Google source.",
-        "Do not infer holiday hours or temporary closures.",
-        "Use business-profile.json and the service pages as the source of record for business facts."
-      ]
-    },
-    {
-      "id": "qinghai-road-shoe-cleaning-faq-06",
-      "type": "local_faq",
-      "question": "私享家洗衣店有洗包包嗎？",
-      "answer": "有提供鞋包照護相關服務，包包會先看材質、包角、提把和內裡狀態；雨季水痕與提把油痕是最常見的兩種。",
+      "question": "麂皮或帆布鞋可以自己先刷嗎？",
+      "answer": "先別動。濕刷帆布會起毛，麂皮泡水會變硬。\n帆布泥乾了再處理較穩；麂皮用乾刷順毛，染色或深漬另評估。先拍鞋面、鞋邊、鞋底、鞋內傳 LINE。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html#faq",
       "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送",
