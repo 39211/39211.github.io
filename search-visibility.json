@@ -1,9 +1,9 @@
 {
   "schema_version": "2026-07-28",
-  "generated_at": "2026-08-16T22:30:05.781Z",
+  "generated_at": "2026-08-17T02:09:51.157Z",
   "name": "私享家 SEO / AIO / GEO 搜尋意圖與 28 天能見度規格",
   "status": "strategy-and-measurement-contract",
-  "canonical_url": "https://39211.github.io/",
+  "canonical_url": "https://sixiangjialaundry.com/",
   "strategy_note": "這份資料把客戶查詢、可直接回答的內容、第一手證據與轉換量測接在一起；llms.txt、schema 或爬蟲紀錄只代表可讀性，不代表已獲得排名、推薦或引用。",
   "content_principles": [
     "同一份內容同時服務人類與搜尋或 AI，不另外製造隱藏文字或 AI 專用薄頁。",
@@ -30,9 +30,9 @@
         "real-case-photo"
       ],
       "primary_routes": [
-        "https://39211.github.io/services/taichung-xitun-laundry.html",
-        "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
-        "https://39211.github.io/business-profile.json"
+        "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
+        "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
+        "https://sixiangjialaundry.com/business-profile.json"
       ],
       "guardrail": "不得用只替換地名的薄頁搶排名；地區內容必須有真實地址、服務範圍或門市情境。"
     },
@@ -53,10 +53,10 @@
         "service-boundary"
       ],
       "primary_routes": [
-        "https://39211.github.io/guides/white-shoe-yellowing.html",
-        "https://39211.github.io/guides/rainy-shoe-care.html",
-        "https://39211.github.io/guides/bag-handle-cleaning.html",
-        "https://39211.github.io/guides/photo-before-laundry.html"
+        "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
+        "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
+        "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
+        "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
       ],
       "guardrail": "不得把材質老化、磨損或氧化寫成一定能清除的髒污。"
     },
@@ -77,9 +77,9 @@
         "first-party-inspection"
       ],
       "primary_routes": [
-        "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
-        "https://39211.github.io/guides/luxury-dry-cleaning.html",
-        "https://39211.github.io/guides/bedding-duvet-cleaning.html"
+        "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
+        "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
+        "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
       ],
       "guardrail": "不得用自稱第一、最好或保證恢復新品來代替可核對的服務差異。"
     },
@@ -101,9 +101,9 @@
         "service-boundary"
       ],
       "primary_routes": [
-        "https://39211.github.io/services/shoe-bag-care.html",
-        "https://39211.github.io/services/white-shoe-cleaning.html",
-        "https://39211.github.io/services/fabric-storage.html"
+        "https://sixiangjialaundry.com/services/shoe-bag-care.html",
+        "https://sixiangjialaundry.com/services/white-shoe-cleaning.html",
+        "https://sixiangjialaundry.com/services/fabric-storage.html"
       ],
       "guardrail": "不得捏造評論、案例結果、星等或客戶見證；AI 生成圖必須清楚標示，不冒充真實案例。"
     },
@@ -124,9 +124,9 @@
         "verified-business-fact"
       ],
       "primary_routes": [
-        "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
-        "https://39211.github.io/services/business-bulk-laundry.html",
-        "https://39211.github.io/go/line.html"
+        "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
+        "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
+        "https://sixiangjialaundry.com/go/line.html"
       ],
       "guardrail": "收送免費不得寫成清洗免費；未經店主確認不得自行新增最低件數、價格或時效。"
     },
@@ -147,9 +147,9 @@
         "customer-question"
       ],
       "primary_routes": [
-        "https://39211.github.io/guides/rainy-shoe-care.html",
-        "https://39211.github.io/guides/bedding-storage-check.html",
-        "https://39211.github.io/guides/photo-before-laundry.html"
+        "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
+        "https://sixiangjialaundry.com/guides/bedding-storage-check.html",
+        "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
       ],
       "guardrail": "不提供可能傷材質的強藥劑、漂白、高溫或硬刷指令。"
     }
@@ -168,9 +168,9 @@
         "search_intent": "local-discovery",
         "prompt": "台中洗衣店",
         "expected_source_pages": [
-          "https://39211.github.io/services/taichung-xitun-laundry.html",
-          "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
-          "https://39211.github.io/business-profile.json"
+          "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
+          "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
+          "https://sixiangjialaundry.com/business-profile.json"
         ]
       },
       {
@@ -179,9 +179,9 @@
         "search_intent": "local-discovery",
         "prompt": "西屯洗衣店",
         "expected_source_pages": [
-          "https://39211.github.io/services/taichung-xitun-laundry.html",
-          "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
-          "https://39211.github.io/business-profile.json"
+          "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
+          "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
+          "https://sixiangjialaundry.com/business-profile.json"
         ]
       },
       {
@@ -190,9 +190,9 @@
         "search_intent": "local-discovery",
         "prompt": "青海路洗衣店",
         "expected_source_pages": [
-          "https://39211.github.io/services/taichung-xitun-laundry.html",
-          "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
-          "https://39211.github.io/business-profile.json"
+          "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
+          "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
+          "https://sixiangjialaundry.com/business-profile.json"
         ]
       },
       {
@@ -201,10 +201,10 @@
         "search_intent": "problem-diagnosis",
         "prompt": "白鞋泛黃怎麼辦",
         "expected_source_pages": [
-          "https://39211.github.io/guides/white-shoe-yellowing.html",
-          "https://39211.github.io/guides/rainy-shoe-care.html",
-          "https://39211.github.io/guides/bag-handle-cleaning.html",
-          "https://39211.github.io/guides/photo-before-laundry.html"
+          "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
+          "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
+          "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
+          "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
         ]
       },
       {
@@ -213,10 +213,10 @@
         "search_intent": "problem-diagnosis",
         "prompt": "鞋子淋雨怎麼處理",
         "expected_source_pages": [
-          "https://39211.github.io/guides/white-shoe-yellowing.html",
-          "https://39211.github.io/guides/rainy-shoe-care.html",
-          "https://39211.github.io/guides/bag-handle-cleaning.html",
-          "https://39211.github.io/guides/photo-before-laundry.html"
+          "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
+          "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
+          "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
+          "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
         ]
       },
       {
@@ -225,10 +225,10 @@
         "search_intent": "problem-diagnosis",
         "prompt": "包包提把髒了怎麼辦",
         "expected_source_pages": [
-          "https://39211.github.io/guides/white-shoe-yellowing.html",
-          "https://39211.github.io/guides/rainy-shoe-care.html",
-          "https://39211.github.io/guides/bag-handle-cleaning.html",
-          "https://39211.github.io/guides/photo-before-laundry.html"
+          "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
+          "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
+          "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
+          "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
         ]
       },
       {
@@ -237,9 +237,9 @@
         "search_intent": "service-comparison",
         "prompt": "西裝要乾洗嗎",
         "expected_source_pages": [
-          "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
-          "https://39211.github.io/guides/luxury-dry-cleaning.html",
-          "https://39211.github.io/guides/bedding-duvet-cleaning.html"
+          "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
+          "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
+          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
         ]
       },
       {
@@ -248,9 +248,9 @@
         "search_intent": "service-comparison",
         "prompt": "白鞋可以自己刷嗎",
         "expected_source_pages": [
-          "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
-          "https://39211.github.io/guides/luxury-dry-cleaning.html",
-          "https://39211.github.io/guides/bedding-duvet-cleaning.html"
+          "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
+          "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
+          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
         ]
       },
       {
@@ -259,9 +259,9 @@
         "search_intent": "service-comparison",
         "prompt": "包包局部清潔還是整體清潔",
         "expected_source_pages": [
-          "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
-          "https://39211.github.io/guides/luxury-dry-cleaning.html",
-          "https://39211.github.io/guides/bedding-duvet-cleaning.html"
+          "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
+          "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
+          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
         ]
       },
       {
@@ -270,9 +270,9 @@
         "search_intent": "trust-proof",
         "prompt": "台中洗鞋推薦",
         "expected_source_pages": [
-          "https://39211.github.io/services/shoe-bag-care.html",
-          "https://39211.github.io/services/white-shoe-cleaning.html",
-          "https://39211.github.io/services/fabric-storage.html"
+          "https://sixiangjialaundry.com/services/shoe-bag-care.html",
+          "https://sixiangjialaundry.com/services/white-shoe-cleaning.html",
+          "https://sixiangjialaundry.com/services/fabric-storage.html"
         ]
       },
       {
@@ -281,9 +281,9 @@
         "search_intent": "trust-proof",
         "prompt": "西屯乾洗店推薦",
         "expected_source_pages": [
-          "https://39211.github.io/services/shoe-bag-care.html",
-          "https://39211.github.io/services/white-shoe-cleaning.html",
-          "https://39211.github.io/services/fabric-storage.html"
+          "https://sixiangjialaundry.com/services/shoe-bag-care.html",
+          "https://sixiangjialaundry.com/services/white-shoe-cleaning.html",
+          "https://sixiangjialaundry.com/services/fabric-storage.html"
         ]
       },
       {
@@ -292,9 +292,9 @@
         "search_intent": "trust-proof",
         "prompt": "精品乾洗怎麼挑",
         "expected_source_pages": [
-          "https://39211.github.io/services/shoe-bag-care.html",
-          "https://39211.github.io/services/white-shoe-cleaning.html",
-          "https://39211.github.io/services/fabric-storage.html"
+          "https://sixiangjialaundry.com/services/shoe-bag-care.html",
+          "https://sixiangjialaundry.com/services/white-shoe-cleaning.html",
+          "https://sixiangjialaundry.com/services/fabric-storage.html"
         ]
       },
       {
@@ -303,9 +303,9 @@
         "search_intent": "pickup-logistics",
         "prompt": "台中洗衣收送",
         "expected_source_pages": [
-          "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
-          "https://39211.github.io/services/business-bulk-laundry.html",
-          "https://39211.github.io/go/line.html"
+          "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
+          "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
+          "https://sixiangjialaundry.com/go/line.html"
         ]
       },
       {
@@ -314,9 +314,9 @@
         "search_intent": "pickup-logistics",
         "prompt": "台中免費收送洗衣",
         "expected_source_pages": [
-          "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
-          "https://39211.github.io/services/business-bulk-laundry.html",
-          "https://39211.github.io/go/line.html"
+          "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
+          "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
+          "https://sixiangjialaundry.com/go/line.html"
         ]
       },
       {
@@ -325,9 +325,9 @@
         "search_intent": "pickup-logistics",
         "prompt": "台中到府收送洗衣",
         "expected_source_pages": [
-          "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
-          "https://39211.github.io/services/business-bulk-laundry.html",
-          "https://39211.github.io/go/line.html"
+          "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
+          "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
+          "https://sixiangjialaundry.com/go/line.html"
         ]
       },
       {
@@ -336,9 +336,9 @@
         "search_intent": "aftercare",
         "prompt": "鞋子淋雨後怎麼收",
         "expected_source_pages": [
-          "https://39211.github.io/guides/rainy-shoe-care.html",
-          "https://39211.github.io/guides/bedding-storage-check.html",
-          "https://39211.github.io/guides/photo-before-laundry.html"
+          "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
+          "https://sixiangjialaundry.com/guides/bedding-storage-check.html",
+          "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
         ]
       },
       {
@@ -347,9 +347,9 @@
         "search_intent": "aftercare",
         "prompt": "棉被收納前要洗嗎",
         "expected_source_pages": [
-          "https://39211.github.io/guides/rainy-shoe-care.html",
-          "https://39211.github.io/guides/bedding-storage-check.html",
-          "https://39211.github.io/guides/photo-before-laundry.html"
+          "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
+          "https://sixiangjialaundry.com/guides/bedding-storage-check.html",
+          "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
         ]
       },
       {
@@ -358,9 +358,9 @@
         "search_intent": "aftercare",
         "prompt": "雨季鞋櫃濕氣",
         "expected_source_pages": [
-          "https://39211.github.io/guides/rainy-shoe-care.html",
-          "https://39211.github.io/guides/bedding-storage-check.html",
-          "https://39211.github.io/guides/photo-before-laundry.html"
+          "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
+          "https://sixiangjialaundry.com/guides/bedding-storage-check.html",
+          "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
         ]
       }
     ],
@@ -370,8 +370,8 @@
         "prompt_type": "brand-fact-check",
         "prompt": "私享家洗衣店位於哪裡、營業時間是什麼？",
         "expected_source_pages": [
-          "https://39211.github.io/business-profile.json",
-          "https://39211.github.io/"
+          "https://sixiangjialaundry.com/business-profile.json",
+          "https://sixiangjialaundry.com/"
         ]
       },
       {
@@ -379,8 +379,8 @@
         "prompt_type": "brand-fact-check",
         "prompt": "私享家洗衣店是否提供台中市全區免費收送？免費包含哪些範圍？",
         "expected_source_pages": [
-          "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
-          "https://39211.github.io/business-profile.json"
+          "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
+          "https://sixiangjialaundry.com/business-profile.json"
         ]
       },
       {
@@ -388,8 +388,8 @@
         "prompt_type": "brand-fact-check",
         "prompt": "私享家洗衣店可以處理哪些衣物、鞋包、寢具、娃娃與精品材質？",
         "expected_source_pages": [
-          "https://39211.github.io/services.json",
-          "https://39211.github.io/answers.json"
+          "https://sixiangjialaundry.com/services.json",
+          "https://sixiangjialaundry.com/answers.json"
         ]
       }
     ]

@@ -1,18 +1,18 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-16T22:30:05.781Z",
+  "generated_at": "2026-08-17T02:09:51.157Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
-  "canonical_url": "https://39211.github.io/",
-  "business_profile_url": "https://39211.github.io/business-profile.json",
+  "canonical_url": "https://sixiangjialaundry.com/",
+  "business_profile_url": "https://sixiangjialaundry.com/business-profile.json",
   "services": [
     {
       "slug": "shoe-bag-care",
       "name": "鞋包清潔",
       "title": "逢甲洗鞋・西屯洗鞋｜鞋包清潔先看材質｜私享家洗衣店",
       "description": "找逢甲洗鞋或西屯洗鞋？私享家洗衣店在青海路二段365號，先看鞋面、鞋底、內裡與材質再判斷清潔方式，台中市可免費收送。",
-      "url": "https://39211.github.io/services/shoe-bag-care.html",
-      "canonical_url": "https://39211.github.io/services/shoe-bag-care.html",
+      "url": "https://sixiangjialaundry.com/services/shoe-bag-care.html",
+      "canonical_url": "https://sixiangjialaundry.com/services/shoe-bag-care.html",
       "in_language": "zh-Hant-TW",
       "keywords": [
         "逢甲洗鞋",
@@ -24,7 +24,7 @@
         "青海路洗鞋"
       ],
       "answer_summary": "逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。",
-      "image_url": "https://39211.github.io/assets/services/shoe-bag-care-hero-product.png",
+      "image_url": "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "image_path": "assets/services/shoe-bag-care-hero-product.png",
       "image_alt": "鞋包清潔前的包角、鞋面與皮革檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現鞋包清潔前的包角、鞋面、皮革水痕與邊緣檢查情境；不是實際客戶物件照片。",
@@ -116,31 +116,31 @@
         {
           "slug": "luxury-bag-mold",
           "title": "精品包發霉了怎麼辦?先別擦!台中精品包清潔｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/luxury-bag-mold.html",
+          "url": "https://sixiangjialaundry.com/guides/luxury-bag-mold.html",
           "local_intent": "台中 精品包發霉 名牌包清潔 除霉"
         },
         {
           "slug": "leather-jacket-care",
           "title": "皮衣可以洗嗎？發霉、變硬怎麼救｜台中皮衣保養 私享家洗衣店",
-          "url": "https://39211.github.io/guides/leather-jacket-care.html",
+          "url": "https://sixiangjialaundry.com/guides/leather-jacket-care.html",
           "local_intent": "台中 皮衣保養 皮衣清潔 皮衣發霉"
         },
         {
           "slug": "rainy-shoe-care",
           "title": "雨天鞋子進水後怎麼辦？｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/rainy-shoe-care.html",
+          "url": "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
           "local_intent": "台中西屯 雨天鞋子清潔"
         },
         {
           "slug": "bag-handle-cleaning",
           "title": "包包提把與包角髒了怎麼判斷？｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/bag-handle-cleaning.html",
+          "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
           "local_intent": "台中西屯 包包清潔"
         },
         {
           "slug": "qinghai-road-shoe-cleaning",
           "title": "逢甲洗鞋・西屯洗鞋推薦怎麼挑｜青海路私享家洗衣店",
-          "url": "https://39211.github.io/local/qinghai-road-shoe-cleaning.html",
+          "url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
           "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送"
         }
       ],
@@ -153,10 +153,10 @@
         "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
       },
       "schema_ids": {
-        "webpage": "https://39211.github.io/services/shoe-bag-care.html#webpage",
-        "service": "https://39211.github.io/services/shoe-bag-care.html#service",
-        "faq": "https://39211.github.io/services/shoe-bag-care.html#faq",
-        "business": "https://39211.github.io/#business"
+        "webpage": "https://sixiangjialaundry.com/services/shoe-bag-care.html#webpage",
+        "service": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service",
+        "faq": "https://sixiangjialaundry.com/services/shoe-bag-care.html#faq",
+        "business": "https://sixiangjialaundry.com/#business"
       }
     },
     {
@@ -164,8 +164,8 @@
       "name": "白鞋清潔",
       "title": "白鞋清潔｜台中西屯白鞋泛黃、鞋邊與內裡整理｜私享家洗衣店",
       "description": "台中西屯白鞋清潔諮詢，針對白鞋泛黃、鞋邊泛灰、縫線卡灰、內裡濕悶與鞋墊狀態，私享家洗衣店先判斷材質再處理。",
-      "url": "https://39211.github.io/services/white-shoe-cleaning.html",
-      "canonical_url": "https://39211.github.io/services/white-shoe-cleaning.html",
+      "url": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html",
+      "canonical_url": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html",
       "in_language": "zh-Hant-TW",
       "keywords": [
         "白鞋清潔",
@@ -176,7 +176,7 @@
         "青海路洗鞋"
       ],
       "answer_summary": "台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。",
-      "image_url": "https://39211.github.io/assets/services/white-shoe-cleaning-hero-product.png",
+      "image_url": "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "image_path": "assets/services/white-shoe-cleaning-hero-product.png",
       "image_alt": "白鞋清潔前的鞋邊、縫線與內裡檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現白鞋清潔前的鞋邊、縫線、皮革鞋面與內裡檢查情境；不是實際客戶物件照片。",
@@ -256,13 +256,13 @@
         {
           "slug": "white-shoe-yellowing",
           "title": "白鞋泛黃怎麼判斷？｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/white-shoe-yellowing.html",
+          "url": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
           "local_intent": "台中西屯 白鞋泛黃 白鞋清潔"
         },
         {
           "slug": "birkenstock-care",
           "title": "勃肯鞋鞋床發黑、有味道怎麼處理?台中洗鞋｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/birkenstock-care.html",
+          "url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
           "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭"
         }
       ],
@@ -275,10 +275,10 @@
         "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
       },
       "schema_ids": {
-        "webpage": "https://39211.github.io/services/white-shoe-cleaning.html#webpage",
-        "service": "https://39211.github.io/services/white-shoe-cleaning.html#service",
-        "faq": "https://39211.github.io/services/white-shoe-cleaning.html#faq",
-        "business": "https://39211.github.io/#business"
+        "webpage": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html#webpage",
+        "service": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html#service",
+        "faq": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html#faq",
+        "business": "https://sixiangjialaundry.com/#business"
       }
     },
     {
@@ -286,8 +286,8 @@
       "name": "布品收納",
       "title": "布品收納｜台中西屯換季衣物、外套與寢具整理｜私享家洗衣店",
       "description": "台中西屯布品收納與換季整理建議，私享家洗衣店協助檢查衣物、外套、寢具、被套與厚棉布品在收納前的濕氣、味道與髒污。",
-      "url": "https://39211.github.io/services/fabric-storage.html",
-      "canonical_url": "https://39211.github.io/services/fabric-storage.html",
+      "url": "https://sixiangjialaundry.com/services/fabric-storage.html",
+      "canonical_url": "https://sixiangjialaundry.com/services/fabric-storage.html",
       "in_language": "zh-Hant-TW",
       "keywords": [
         "布品收納",
@@ -298,7 +298,7 @@
         "台中西屯布品整理"
       ],
       "answer_summary": "台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。",
-      "image_url": "https://39211.github.io/assets/services/fabric-storage-hero-product.png",
+      "image_url": "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
       "image_path": "assets/services/fabric-storage-hero-product.png",
       "image_alt": "外套、寢具與布品收納前檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現外套、寢具與布品收納前檢查情境；不是實際客戶物件照片。",
@@ -378,19 +378,19 @@
         {
           "slug": "down-jacket-cleaning",
           "title": "羽絨外套、羽絨被可以水洗嗎？台中送洗前先看這篇｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/down-jacket-cleaning.html",
+          "url": "https://sixiangjialaundry.com/guides/down-jacket-cleaning.html",
           "local_intent": "台中 羽絨外套清洗 羽絨被送洗 換季"
         },
         {
           "slug": "bedding-storage-check",
           "title": "寢具外套收納前要檢查什麼？｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/bedding-storage-check.html",
+          "url": "https://sixiangjialaundry.com/guides/bedding-storage-check.html",
           "local_intent": "台中西屯 布品收納 寢具清潔"
         },
         {
           "slug": "bedding-duvet-cleaning",
           "title": "台中西屯床組與棉被清洗｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/bedding-duvet-cleaning.html",
+          "url": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
           "local_intent": "台中西屯 床組清洗 棉被清洗 寢具送洗"
         }
       ],
@@ -403,10 +403,10 @@
         "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
       },
       "schema_ids": {
-        "webpage": "https://39211.github.io/services/fabric-storage.html#webpage",
-        "service": "https://39211.github.io/services/fabric-storage.html#service",
-        "faq": "https://39211.github.io/services/fabric-storage.html#faq",
-        "business": "https://39211.github.io/#business"
+        "webpage": "https://sixiangjialaundry.com/services/fabric-storage.html#webpage",
+        "service": "https://sixiangjialaundry.com/services/fabric-storage.html#service",
+        "faq": "https://sixiangjialaundry.com/services/fabric-storage.html#faq",
+        "business": "https://sixiangjialaundry.com/#business"
       }
     },
     {
@@ -414,8 +414,8 @@
       "name": "台中西屯洗衣店",
       "title": "台中西屯洗衣店｜青海路衣物、洗鞋洗包與布品收納｜私享家洗衣店",
       "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包、白鞋清潔與布品收納前檢查，可用 LINE 先傳照片詢問。",
-      "url": "https://39211.github.io/services/taichung-xitun-laundry.html",
-      "canonical_url": "https://39211.github.io/services/taichung-xitun-laundry.html",
+      "url": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
+      "canonical_url": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
       "in_language": "zh-Hant-TW",
       "keywords": [
         "台中西屯洗衣店",
@@ -426,7 +426,7 @@
         "私享家洗衣店"
       ],
       "answer_summary": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，可先用 LINE 傳照片詢問。",
-      "image_url": "https://39211.github.io/assets/services/fabric-storage-inspection.png",
+      "image_url": "https://sixiangjialaundry.com/assets/services/fabric-storage-inspection.png",
       "image_path": "assets/services/fabric-storage-inspection.png",
       "image_alt": "私享家洗衣店門市人員檢查外套與布品的服務情境主圖",
       "image_note": "AI 生成的門市檢查情境示意圖，呈現送洗前先看材質與狀態的服務方式；不是實際客戶物件照片。",
@@ -506,37 +506,37 @@
         {
           "slug": "school-uniform-care",
           "title": "開學前制服怎麼整理?領口黃、袖口髒的處理順序｜台中送洗",
-          "url": "https://39211.github.io/guides/school-uniform-care.html",
+          "url": "https://sixiangjialaundry.com/guides/school-uniform-care.html",
           "local_intent": "台中 制服送洗 開學 領口發黃"
         },
         {
           "slug": "dry-cleaning-guide",
           "title": "乾洗、水洗差在哪？哪些衣物一定要乾洗｜台中乾洗 私享家洗衣店",
-          "url": "https://39211.github.io/guides/dry-cleaning-guide.html",
+          "url": "https://sixiangjialaundry.com/guides/dry-cleaning-guide.html",
           "local_intent": "台中 乾洗 西裝乾洗 大衣乾洗 襯衫送洗"
         },
         {
           "slug": "shirt-suit-dry-cleaning",
           "title": "台中西屯襯衫清洗與西裝乾洗｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/shirt-suit-dry-cleaning.html",
+          "url": "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
           "local_intent": "台中西屯 襯衫清洗 西裝乾洗 精緻乾洗"
         },
         {
           "slug": "plush-doll-cleaning",
           "title": "台中西屯娃娃與絨毛玩偶清潔｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/plush-doll-cleaning.html",
+          "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
           "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔"
         },
         {
           "slug": "luxury-dry-cleaning",
           "title": "台中西屯精品名牌與精緻乾洗｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/luxury-dry-cleaning.html",
+          "url": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
           "local_intent": "台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗"
         },
         {
           "slug": "taichung-laundry-service-search",
           "title": "台中洗衣、洗鞋、洗包與免費收送怎麼找？｜私享家洗衣店",
-          "url": "https://39211.github.io/guides/taichung-laundry-service-search.html",
+          "url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html",
           "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送"
         }
       ],
@@ -549,10 +549,10 @@
         "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
       },
       "schema_ids": {
-        "webpage": "https://39211.github.io/services/taichung-xitun-laundry.html#webpage",
-        "service": "https://39211.github.io/services/taichung-xitun-laundry.html#service",
-        "faq": "https://39211.github.io/services/taichung-xitun-laundry.html#faq",
-        "business": "https://39211.github.io/#business"
+        "webpage": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#webpage",
+        "service": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#service",
+        "faq": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#faq",
+        "business": "https://sixiangjialaundry.com/#business"
       }
     },
     {
@@ -560,8 +560,8 @@
       "name": "店家與公司大量衣物送洗",
       "title": "台中店家・公司大量衣物送洗｜全市免費收送｜私享家洗衣店",
       "description": "台中店家、公司或工作室有大量衣物、制服與布品需要送洗，可先用 LINE 整理品項與照片；私享家提供台中市全區免費收送，洗護費另計。",
-      "url": "https://39211.github.io/services/business-bulk-laundry.html",
-      "canonical_url": "https://39211.github.io/services/business-bulk-laundry.html",
+      "url": "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
+      "canonical_url": "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
       "in_language": "zh-Hant-TW",
       "keywords": [
         "台中公司衣物送洗",
@@ -573,7 +573,7 @@
         "LINE 預約送洗"
       ],
       "answer_summary": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。",
-      "image_url": "https://39211.github.io/assets/backgrounds/premium-laundry-depth.png",
+      "image_url": "https://sixiangjialaundry.com/assets/backgrounds/premium-laundry-depth.png",
       "image_path": "assets/backgrounds/premium-laundry-depth.png",
       "image_alt": "台中店家與公司大量衣物送洗前的分類與交接說明",
       "image_note": "AI 生成的洗衣空間示意圖，呈現大量衣物與布品分批處理的情境；不是實際客戶物件照片。",
@@ -659,10 +659,10 @@
         "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
       },
       "schema_ids": {
-        "webpage": "https://39211.github.io/services/business-bulk-laundry.html#webpage",
-        "service": "https://39211.github.io/services/business-bulk-laundry.html#service",
-        "faq": "https://39211.github.io/services/business-bulk-laundry.html#faq",
-        "business": "https://39211.github.io/#business"
+        "webpage": "https://sixiangjialaundry.com/services/business-bulk-laundry.html#webpage",
+        "service": "https://sixiangjialaundry.com/services/business-bulk-laundry.html#service",
+        "faq": "https://sixiangjialaundry.com/services/business-bulk-laundry.html#faq",
+        "business": "https://sixiangjialaundry.com/#business"
       }
     },
     {
@@ -670,8 +670,8 @@
       "name": "台中全市免費洗衣收送",
       "title": "台中免費收送洗衣｜全市到府、LINE 預約｜私享家洗衣店",
       "description": "台中免費收送洗衣服務涵蓋全市，收送沒有最低消費門檻，不需單次洗滌滿額。門市在西屯青海路二段365號，先用 LINE 傳照片預約。",
-      "url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
-      "canonical_url": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html",
+      "url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
+      "canonical_url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
       "in_language": "zh-Hant-TW",
       "keywords": [
         "台中洗衣收送",
@@ -682,7 +682,7 @@
         "LINE 預約洗衣"
       ],
       "answer_summary": "私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。",
-      "image_url": "https://39211.github.io/assets/backgrounds/local-store-depth.png",
+      "image_url": "https://sixiangjialaundry.com/assets/backgrounds/local-store-depth.png",
       "image_path": "assets/backgrounds/local-store-depth.png",
       "image_alt": "台中全市免費洗衣收送服務說明｜私享家洗衣店",
       "image_note": "AI 生成的門市與街景示意圖，呈現收送服務以西屯門市為起點；不是實際客戶物件照片。",
@@ -784,10 +784,10 @@
         "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
       },
       "schema_ids": {
-        "webpage": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#webpage",
-        "service": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#service",
-        "faq": "https://39211.github.io/services/taichung-citywide-laundry-pickup.html#faq",
-        "business": "https://39211.github.io/#business"
+        "webpage": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html#webpage",
+        "service": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html#service",
+        "faq": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html#faq",
+        "business": "https://sixiangjialaundry.com/#business"
       }
     }
   ]

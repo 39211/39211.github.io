@@ -8,16 +8,16 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。
 
 ## Best source pages
-- Business profile: https://39211.github.io/business-profile.json
-- Local laundry service: https://39211.github.io/services/taichung-xitun-laundry.html
-- Shoe and bag care: https://39211.github.io/services/shoe-bag-care.html
-- White shoe cleaning: https://39211.github.io/services/white-shoe-cleaning.html
-- Fabric storage: https://39211.github.io/services/fabric-storage.html
-- Photo-before-laundry guide: https://39211.github.io/guides/photo-before-laundry.html
-- Taichung laundry service search guide: https://39211.github.io/guides/taichung-laundry-service-search.html
-- Answers: https://39211.github.io/answers.json
-- Search visibility: https://39211.github.io/search-visibility.json
-- AI discovery: https://39211.github.io/ai-discovery.json
+- Business profile: https://sixiangjialaundry.com/business-profile.json
+- Local laundry service: https://sixiangjialaundry.com/services/taichung-xitun-laundry.html
+- Shoe and bag care: https://sixiangjialaundry.com/services/shoe-bag-care.html
+- White shoe cleaning: https://sixiangjialaundry.com/services/white-shoe-cleaning.html
+- Fabric storage: https://sixiangjialaundry.com/services/fabric-storage.html
+- Photo-before-laundry guide: https://sixiangjialaundry.com/guides/photo-before-laundry.html
+- Taichung laundry service search guide: https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html
+- Answers: https://sixiangjialaundry.com/answers.json
+- Search visibility: https://sixiangjialaundry.com/search-visibility.json
+- AI discovery: https://sixiangjialaundry.com/ai-discovery.json
 
 ## Do not infer
 - Do not infer pricing.
@@ -28,41 +28,41 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Use business-profile.json and the service pages as the source of record for business facts.
 
 ## Primary Entry Points
-- [Latest daily package](https://39211.github.io/latest.json): two publishable social slots for the newest content date.
-- [Full structured post feed](https://39211.github.io/social-posts.json): all generated post records with captions, images, routes, and hashtags.
-- [Business profile](https://39211.github.io/business-profile.json): official NAP, social links, map identifiers, service topics, and verification status.
-- [Services JSON](https://39211.github.io/services.json): service-page records with answer summaries, case stories, images, FAQ, and LocalBusiness links.
-- [Answers JSON](https://39211.github.io/answers.json): concise AEO/GEO answers for service and local-intent queries.
-- [Geo targets JSON](https://39211.github.io/geo-targets.json): local service areas, address anchors, and query-intent map for 台中西屯 searches.
-- [Search visibility JSON](https://39211.github.io/search-visibility.json): query clusters, fixed cross-engine prompt panel, mention-versus-citation fields, and 28-day review rules.
-- [LLMS JSONL](https://39211.github.io/llms.jsonl): line-delimited business, service, answer, and post records for AI ingestion.
-- [鞋包清潔](https://39211.github.io/services/shoe-bag-care.html): service SEO page with NAP, image, FAQ, and structured data.
-- [白鞋清潔](https://39211.github.io/services/white-shoe-cleaning.html): service SEO page with NAP, image, FAQ, and structured data.
-- [布品收納](https://39211.github.io/services/fabric-storage.html): service SEO page with NAP, image, FAQ, and structured data.
-- [台中西屯洗衣店](https://39211.github.io/services/taichung-xitun-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
-- [店家與公司大量衣物送洗](https://39211.github.io/services/business-bulk-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
-- [台中全市免費洗衣收送](https://39211.github.io/services/taichung-citywide-laundry-pickup.html): service SEO page with NAP, image, FAQ, and structured data.
-- [送洗前怎麼拍照片詢問？](https://39211.github.io/guides/photo-before-laundry.html): guide page for answer-engine and local-intent searches.
-- [白鞋泛黃怎麼判斷？](https://39211.github.io/guides/white-shoe-yellowing.html): guide page for answer-engine and local-intent searches.
-- [開學前的制服整理:順序錯了會把黃痕定死](https://39211.github.io/guides/school-uniform-care.html): guide page for answer-engine and local-intent searches.
-- [勃肯鞋鞋床發黑、有味道,還救得回來嗎?](https://39211.github.io/guides/birkenstock-care.html): guide page for answer-engine and local-intent searches.
-- [精品包發霉:先別擦,先看這三件事](https://39211.github.io/guides/luxury-bag-mold.html): guide page for answer-engine and local-intent searches.
-- [羽絨外套、羽絨被怎麼洗才不會毀掉？](https://39211.github.io/guides/down-jacket-cleaning.html): guide page for answer-engine and local-intent searches.
-- [皮衣清潔保養：發霉、變硬、色差怎麼判斷？](https://39211.github.io/guides/leather-jacket-care.html): guide page for answer-engine and local-intent searches.
-- [乾洗還是水洗？送洗前搞懂這一篇](https://39211.github.io/guides/dry-cleaning-guide.html): guide page for answer-engine and local-intent searches.
-- [雨天鞋子進水後怎麼辦？](https://39211.github.io/guides/rainy-shoe-care.html): guide page for answer-engine and local-intent searches.
-- [包包提把與包角髒了怎麼判斷？](https://39211.github.io/guides/bag-handle-cleaning.html): guide page for answer-engine and local-intent searches.
-- [寢具外套收納前要檢查什麼？](https://39211.github.io/guides/bedding-storage-check.html): guide page for answer-engine and local-intent searches.
-- [襯衫清洗與西裝乾洗](https://39211.github.io/guides/shirt-suit-dry-cleaning.html): guide page for answer-engine and local-intent searches.
-- [床組、棉被與寢具清洗](https://39211.github.io/guides/bedding-duvet-cleaning.html): guide page for answer-engine and local-intent searches.
-- [娃娃與絨毛玩偶清潔](https://39211.github.io/guides/plush-doll-cleaning.html): guide page for answer-engine and local-intent searches.
-- [精品名牌與精緻乾洗](https://39211.github.io/guides/luxury-dry-cleaning.html): guide page for answer-engine and local-intent searches.
-- [台中洗衣、洗鞋、洗包與免費收送怎麼找？](https://39211.github.io/guides/taichung-laundry-service-search.html): guide page for answer-engine and local-intent searches.
-- [逢甲洗鞋・西屯洗鞋：怎麼挑、怎麼問、怎麼送](https://39211.github.io/local/qinghai-road-shoe-cleaning.html): local page for answer-engine and local-intent searches.
-- [JSON Feed](https://39211.github.io/feed.json): chronological update feed for readers and AI ingestion.
-- [Knowledge graph](https://39211.github.io/knowledge-graph.json): Schema.org JSON-LD business, dataset, post, and image entities.
-- [AI discovery index](https://39211.github.io/ai-discovery.json): machine-readable map of every AI/SEO endpoint.
-- [Full context](https://39211.github.io/llms-full.txt): expanded Markdown context with all current posts.
+- [Latest daily package](https://sixiangjialaundry.com/latest.json): two publishable social slots for the newest content date.
+- [Full structured post feed](https://sixiangjialaundry.com/social-posts.json): all generated post records with captions, images, routes, and hashtags.
+- [Business profile](https://sixiangjialaundry.com/business-profile.json): official NAP, social links, map identifiers, service topics, and verification status.
+- [Services JSON](https://sixiangjialaundry.com/services.json): service-page records with answer summaries, case stories, images, FAQ, and LocalBusiness links.
+- [Answers JSON](https://sixiangjialaundry.com/answers.json): concise AEO/GEO answers for service and local-intent queries.
+- [Geo targets JSON](https://sixiangjialaundry.com/geo-targets.json): local service areas, address anchors, and query-intent map for 台中西屯 searches.
+- [Search visibility JSON](https://sixiangjialaundry.com/search-visibility.json): query clusters, fixed cross-engine prompt panel, mention-versus-citation fields, and 28-day review rules.
+- [LLMS JSONL](https://sixiangjialaundry.com/llms.jsonl): line-delimited business, service, answer, and post records for AI ingestion.
+- [鞋包清潔](https://sixiangjialaundry.com/services/shoe-bag-care.html): service SEO page with NAP, image, FAQ, and structured data.
+- [白鞋清潔](https://sixiangjialaundry.com/services/white-shoe-cleaning.html): service SEO page with NAP, image, FAQ, and structured data.
+- [布品收納](https://sixiangjialaundry.com/services/fabric-storage.html): service SEO page with NAP, image, FAQ, and structured data.
+- [台中西屯洗衣店](https://sixiangjialaundry.com/services/taichung-xitun-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
+- [店家與公司大量衣物送洗](https://sixiangjialaundry.com/services/business-bulk-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
+- [台中全市免費洗衣收送](https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html): service SEO page with NAP, image, FAQ, and structured data.
+- [送洗前怎麼拍照片詢問？](https://sixiangjialaundry.com/guides/photo-before-laundry.html): guide page for answer-engine and local-intent searches.
+- [白鞋泛黃怎麼判斷？](https://sixiangjialaundry.com/guides/white-shoe-yellowing.html): guide page for answer-engine and local-intent searches.
+- [開學前的制服整理:順序錯了會把黃痕定死](https://sixiangjialaundry.com/guides/school-uniform-care.html): guide page for answer-engine and local-intent searches.
+- [勃肯鞋鞋床發黑、有味道,還救得回來嗎?](https://sixiangjialaundry.com/guides/birkenstock-care.html): guide page for answer-engine and local-intent searches.
+- [精品包發霉:先別擦,先看這三件事](https://sixiangjialaundry.com/guides/luxury-bag-mold.html): guide page for answer-engine and local-intent searches.
+- [羽絨外套、羽絨被怎麼洗才不會毀掉？](https://sixiangjialaundry.com/guides/down-jacket-cleaning.html): guide page for answer-engine and local-intent searches.
+- [皮衣清潔保養：發霉、變硬、色差怎麼判斷？](https://sixiangjialaundry.com/guides/leather-jacket-care.html): guide page for answer-engine and local-intent searches.
+- [乾洗還是水洗？送洗前搞懂這一篇](https://sixiangjialaundry.com/guides/dry-cleaning-guide.html): guide page for answer-engine and local-intent searches.
+- [雨天鞋子進水後怎麼辦？](https://sixiangjialaundry.com/guides/rainy-shoe-care.html): guide page for answer-engine and local-intent searches.
+- [包包提把與包角髒了怎麼判斷？](https://sixiangjialaundry.com/guides/bag-handle-cleaning.html): guide page for answer-engine and local-intent searches.
+- [寢具外套收納前要檢查什麼？](https://sixiangjialaundry.com/guides/bedding-storage-check.html): guide page for answer-engine and local-intent searches.
+- [襯衫清洗與西裝乾洗](https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html): guide page for answer-engine and local-intent searches.
+- [床組、棉被與寢具清洗](https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html): guide page for answer-engine and local-intent searches.
+- [娃娃與絨毛玩偶清潔](https://sixiangjialaundry.com/guides/plush-doll-cleaning.html): guide page for answer-engine and local-intent searches.
+- [精品名牌與精緻乾洗](https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html): guide page for answer-engine and local-intent searches.
+- [台中洗衣、洗鞋、洗包與免費收送怎麼找？](https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html): guide page for answer-engine and local-intent searches.
+- [逢甲洗鞋・西屯洗鞋：怎麼挑、怎麼問、怎麼送](https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html): local page for answer-engine and local-intent searches.
+- [JSON Feed](https://sixiangjialaundry.com/feed.json): chronological update feed for readers and AI ingestion.
+- [Knowledge graph](https://sixiangjialaundry.com/knowledge-graph.json): Schema.org JSON-LD business, dataset, post, and image entities.
+- [AI discovery index](https://sixiangjialaundry.com/ai-discovery.json): machine-readable map of every AI/SEO endpoint.
+- [Full context](https://sixiangjialaundry.com/llms-full.txt): expanded Markdown context with all current posts.
 
 ## Business Context
 - Business: 私享家洗衣店
@@ -80,7 +80,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - LINE / mobile estimates: 0968-327-653
 - Opening hours: 週一至週五 10:00-20:00；週六 12:00-18:00；週日公休
 - Holiday hours rule: 重大節日與連假營業時間以店家當期公告為準；未公告前，不在 schema 產生具體 specialOpeningHoursSpecification。
-- Canonical URL: https://39211.github.io/
+- Canonical URL: https://sixiangjialaundry.com/
 - Topics: 衣物清潔, 鞋包清潔, 布品收納, 白鞋清潔, 雨季保養
 
 ## Data Contract
@@ -98,692 +98,692 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
-- [2026-08-16 12:00 白鞋泛黃，不是刷得不夠用力](https://39211.github.io/posts/2026-08-16-slot-03.html)
+- [2026-08-16 12:00 白鞋泛黃，不是刷得不夠用力](https://sixiangjialaundry.com/posts/2026-08-16-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
-  image: https://39211.github.io/assets/2026-08-16/slot-03.png
-  video: https://39211.github.io/assets/2026-08-16/slot-03.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-16.json
-- [2026-08-16 19:30 化妝包拉鍊邊看得到，內袋縫線卻常被遮住](https://39211.github.io/posts/2026-08-16-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-16/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-16/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-16.json
+- [2026-08-16 19:30 化妝包拉鍊邊看得到，內袋縫線卻常被遮住](https://sixiangjialaundry.com/posts/2026-08-16-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=conversion-proof; search_intent=trust-proof
   target_queries: 台中洗鞋店 | 台中洗包包 | 台中洗鞋推薦 | 西屯乾洗店推薦
   evidence_type: inspection-detail
   hashtags: #私享家洗衣店 #化妝包 #台中包包清潔
-  image: https://39211.github.io/assets/2026-08-16/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-08-16.json
-- [2026-08-16 11:30 可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置](https://39211.github.io/posts/2026-08-16-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-16/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-16.json
+- [2026-08-16 11:30 可收藏：棉被收納前的濕氣與睡眠味，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-16-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=aftercare
   target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
   evidence_type: customer-question
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
-  image: https://39211.github.io/assets/2026-08-16/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-16.json
-- [2026-08-15 12:00 皮鞋淋雨，擦乾就沒事了嗎](https://39211.github.io/posts/2026-08-15-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-16/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-16.json
+- [2026-08-15 12:00 皮鞋淋雨，擦乾就沒事了嗎](https://sixiangjialaundry.com/posts/2026-08-15-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
-  image: https://39211.github.io/assets/2026-08-15/slot-03.png
-  video: https://39211.github.io/assets/2026-08-15/slot-03.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-15.json
-- [2026-08-15 19:30 化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看](https://39211.github.io/posts/2026-08-15-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-15/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-15/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-15.json
+- [2026-08-15 19:30 化妝包拉鍊邊看起來乾淨，內袋縫線還是要翻開看](https://sixiangjialaundry.com/posts/2026-08-15-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=trust-reset; search_intent=trust-proof
   target_queries: 台中洗包包 | 化妝包送洗 | 化妝包拉鍊邊
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #化妝包照護 #台中洗包包
-  image: https://39211.github.io/assets/2026-08-15/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-08-15.json
-- [2026-08-15 11:30 帆布鞋鞋口被擋住時，先別只拍鞋面](https://39211.github.io/posts/2026-08-15-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-15/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-15.json
+- [2026-08-15 11:30 帆布鞋鞋口被擋住時，先別只拍鞋面](https://sixiangjialaundry.com/posts/2026-08-15-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=problem-diagnosis
   target_queries: 台中洗鞋 | 帆布鞋送洗 | 鞋口怎麼拍
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #帆布鞋照護 #台中洗鞋
-  image: https://39211.github.io/assets/2026-08-15/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-15.json
-- [2026-08-14 12:00 精品包最怕的不是髒，是邊角](https://39211.github.io/posts/2026-08-14-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-15/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-15.json
+- [2026-08-14 12:00 精品包最怕的不是髒，是邊角](https://sixiangjialaundry.com/posts/2026-08-14-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-14/slot-03.png
-  video: https://39211.github.io/assets/2026-08-14/slot-03.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-14.json
-- [2026-08-14 20:30 行李箱收進櫃子前，先看輪子](https://39211.github.io/posts/2026-08-14-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-14/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-14/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-14.json
+- [2026-08-14 20:30 行李箱收進櫃子前，先看輪子](https://sixiangjialaundry.com/posts/2026-08-14-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=trust-proof
   target_queries: 化妝包清洗 台中 | 台中洗包 | 化妝包 拉鍊邊 清潔
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-14/slot-02.png
-  video: https://39211.github.io/assets/2026-08-14/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-14.json
-- [2026-08-14 11:30 可收藏：白鞋鞋邊泛灰前的檢查，送洗前先看三個位置](https://39211.github.io/posts/2026-08-14-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-14/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-14/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-14.json
+- [2026-08-14 11:30 可收藏：白鞋鞋邊泛灰前的檢查，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-14-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=object-proof; search_intent=problem-diagnosis
   target_queries: 台中白鞋清潔 | 台中洗鞋店 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
   evidence_type: first-party-inspection
   hashtags: #台中洗鞋 #西屯洗鞋 #洗鞋推薦 #白鞋泛黃 #白鞋清潔 #球鞋清洗 #台中洗衣店 #鞋子保養 #西屯 #逢甲
-  image: https://39211.github.io/assets/2026-08-14/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-14.json
-- [2026-08-11 12:00 白鞋泛黃，不是刷得不夠用力](https://39211.github.io/posts/2026-08-11-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-14/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-14.json
+- [2026-08-11 12:00 白鞋泛黃，不是刷得不夠用力](https://sixiangjialaundry.com/posts/2026-08-11-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-11/slot-03.png
-  video: https://39211.github.io/assets/2026-08-11/slot-03.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-11.json
-- [2026-08-11 20:30 皮鞋淋雨，擦乾就沒事了嗎](https://39211.github.io/posts/2026-08-10-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-11/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-11/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-11.json
+- [2026-08-11 20:30 皮鞋淋雨，擦乾就沒事了嗎](https://sixiangjialaundry.com/posts/2026-08-10-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-11/slot-02.png
-  video: https://39211.github.io/assets/2026-08-11/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-11.json
-- [2026-08-11 11:30 書包背帶發黑，開學前先看這兩個位置](https://39211.github.io/posts/2026-08-11-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-11/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-11/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-11.json
+- [2026-08-11 11:30 書包背帶發黑，開學前先看這兩個位置](https://sixiangjialaundry.com/posts/2026-08-11-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=question-led; search_intent=(legacy-unassigned)
   target_queries: 書包清洗 台中 | 書包背帶 汗味 | 開學 書包 送洗 | 台中洗衣店
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #開學準備 #書包清洗
-  image: https://39211.github.io/assets/2026-08-11/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-11.json
-- [2026-08-10 12:00 皮鞋淋雨，擦乾就沒事了嗎](https://39211.github.io/posts/2026-08-10-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-11/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-11.json
+- [2026-08-10 12:00 皮鞋淋雨，擦乾就沒事了嗎](https://sixiangjialaundry.com/posts/2026-08-10-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-10/slot-03.png
-  video: https://39211.github.io/assets/2026-08-10/slot-03.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-10.json
-- [2026-08-10 20:30 娃娃不是不能洗，是不能亂洗](https://39211.github.io/posts/2026-08-09-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-10/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-10/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-10.json
+- [2026-08-10 20:30 娃娃不是不能洗，是不能亂洗](https://sixiangjialaundry.com/posts/2026-08-09-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: owner-authorized-synthetic-inspection-concept
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-10/slot-02.png
-  video: https://39211.github.io/assets/2026-08-10/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-10.json
-- [2026-08-10 11:30 制服燙整前，先看領口和袖口的舊痕](https://39211.github.io/posts/2026-08-10-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-10/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-10/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-10.json
+- [2026-08-10 11:30 制服燙整前，先看領口和袖口的舊痕](https://sixiangjialaundry.com/posts/2026-08-10-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=save-worthy-inspection; search_intent=(legacy-unassigned)
   target_queries: 制服送洗 台中 | 制服領口黃 | 開學 制服 燙整 | 台中洗衣店
   evidence_type: owner-authorized-synthetic-inspection-concept
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #開學準備 #制服送洗
-  image: https://39211.github.io/assets/2026-08-10/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-10.json
-- [2026-08-09 12:00 娃娃不是不能洗，是不能亂洗](https://39211.github.io/posts/2026-08-09-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-10/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-10.json
+- [2026-08-09 12:00 娃娃不是不能洗，是不能亂洗](https://sixiangjialaundry.com/posts/2026-08-09-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-09/slot-03.png
-  video: https://39211.github.io/assets/2026-08-09/slot-03.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-09.json
-- [2026-08-09 20:30 窗簾最髒的地方，你可能沒看過](https://39211.github.io/posts/2026-08-08-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-09/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-09/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-09.json
+- [2026-08-09 20:30 窗簾最髒的地方，你可能沒看過](https://sixiangjialaundry.com/posts/2026-08-08-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=aftercare
   target_queries: 台中白鞋清潔 | 台中洗鞋店 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
   evidence_type: customer-question
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-09/slot-02.png
-  video: https://39211.github.io/assets/2026-08-09/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-09.json
-- [2026-08-08 12:00 窗簾最髒的地方，你可能沒看過](https://39211.github.io/posts/2026-08-08-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-09/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-09/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-09.json
+- [2026-08-08 12:00 窗簾最髒的地方，你可能沒看過](https://sixiangjialaundry.com/posts/2026-08-08-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-08/slot-03.png
-  video: https://39211.github.io/assets/2026-08-08/slot-03.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-08.json
-- [2026-08-08 21:30 後背包底部，是全包最髒的一面](https://39211.github.io/posts/2026-08-07-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-08/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-08/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-08.json
+- [2026-08-08 21:30 後背包底部，是全包最髒的一面](https://sixiangjialaundry.com/posts/2026-08-07-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-08/slot-02.png
-  video: https://39211.github.io/assets/2026-08-08/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-08.json
-- [2026-08-08 11:30 父親節當天：爸爸常穿襯衫與皮鞋的門市檢查](https://39211.github.io/posts/2026-08-08-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-08/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-08/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-08.json
+- [2026-08-08 11:30 父親節當天：爸爸常穿襯衫與皮鞋的門市檢查](https://sixiangjialaundry.com/posts/2026-08-08-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=trust-reset; search_intent=problem-diagnosis
   target_queries: 台中西裝乾洗 | 台中襯衫清洗 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #父親節 #皮鞋保養
-  image: https://39211.github.io/assets/2026-08-08/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-08.json
-- [2026-08-07 12:00 後背包底部，是全包最髒的一面](https://39211.github.io/posts/2026-08-07-slot-03.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-08/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-08.json
+- [2026-08-07 12:00 後背包底部，是全包最髒的一面](https://sixiangjialaundry.com/posts/2026-08-07-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-07/slot-03.png
-  video: https://39211.github.io/assets/2026-08-07/slot-03.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-07.json
-- [2026-08-07 20:30 西裝變形，通常從肩線開始](https://39211.github.io/posts/2026-08-07-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-07/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-07/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-07.json
+- [2026-08-07 20:30 西裝變形，通常從肩線開始](https://sixiangjialaundry.com/posts/2026-08-07-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
   target_queries: 台中洗鞋 | 台中帆布鞋清洗 | 台中免費收送洗衣
   evidence_type: pickup-logistics
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-07/slot-02.png
-  video: https://39211.github.io/assets/2026-08-07/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-07.json
-- [2026-08-07 11:30 化妝包拉鍊邊卡粉，先看內袋縫線](https://39211.github.io/posts/2026-08-07-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-07/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-07/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-07.json
+- [2026-08-07 11:30 化妝包拉鍊邊卡粉，先看內袋縫線](https://sixiangjialaundry.com/posts/2026-08-07-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=problem-diagnosis
   target_queries: 化妝包清洗 | 化妝包拉鍊清潔 | 台中包包清洗
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #化妝包 #拉鍊邊 #台中洗衣
-  image: https://39211.github.io/assets/2026-08-07/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-07.json
-- [2026-08-06 19:30 帆布鞋沾泥，越用力刷越糟](https://39211.github.io/posts/2026-08-06-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-07/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-07.json
+- [2026-08-06 19:30 帆布鞋沾泥，越用力刷越糟](https://sixiangjialaundry.com/posts/2026-08-06-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
   target_queries: 台中洗鞋 | 台中帆布鞋清洗 | 台中免費收送洗衣
   evidence_type: pickup-logistics
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-06/slot-02.png
-  video: https://39211.github.io/assets/2026-08-06/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-06.json
-- [2026-08-06 11:30 旅行外套收進衣櫃前，先翻開領口內側](https://39211.github.io/posts/2026-08-06-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-06/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-06/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-06.json
+- [2026-08-06 11:30 旅行外套收進衣櫃前，先翻開領口內側](https://sixiangjialaundry.com/posts/2026-08-06-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=problem-diagnosis
   target_queries: 旅行外套送洗 | 換季外套收納 | 台中外套清洗
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #旅行外套 #換季收納 #台中洗衣
-  image: https://39211.github.io/assets/2026-08-06/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-06.json
-- [2026-08-05 19:30 化妝包最會藏粉痕的，不是正面，是拉鍊邊](https://39211.github.io/posts/2026-08-05-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-06/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-06.json
+- [2026-08-05 19:30 化妝包最會藏粉痕的，不是正面，是拉鍊邊](https://sixiangjialaundry.com/posts/2026-08-05-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=aftercare
   target_queries: 台中西裝乾洗 | 台中襯衫清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
   evidence_type: customer-question
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #化妝包送洗
-  image: https://39211.github.io/assets/2026-08-05/slot-02.png
-  video: https://39211.github.io/assets/2026-08-05/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-05.json
-- [2026-08-05 11:30 先看懂：運動衣汗味與彈性纖維](https://39211.github.io/posts/2026-08-05-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-05/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-05/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-05.json
+- [2026-08-05 11:30 先看懂：運動衣汗味與彈性纖維](https://sixiangjialaundry.com/posts/2026-08-05-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=aftercare
   target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
   evidence_type: customer-question
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #運動衣送洗 #台中免費收送
-  image: https://39211.github.io/assets/2026-08-05/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-05.json
-- [2026-08-04 19:30 襯衫領口發黃，洗衣精加倍沒有用](https://39211.github.io/posts/2026-08-04-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-05/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-05.json
+- [2026-08-04 19:30 襯衫領口發黃，洗衣精加倍沒有用](https://sixiangjialaundry.com/posts/2026-08-04-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
   target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中被套送洗
   evidence_type: pickup-logistics
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-04/slot-02.png
-  video: https://39211.github.io/assets/2026-08-04/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-04.json
-- [2026-08-04 11:30 化妝包粉痕先看內袋縫線](https://39211.github.io/posts/2026-08-04-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-04/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-04/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-04.json
+- [2026-08-04 11:30 化妝包粉痕先看內袋縫線](https://sixiangjialaundry.com/posts/2026-08-04-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=problem-diagnosis
   target_queries: 台中化妝包清潔 | 化妝包粉痕 | 台中洗包包
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #化妝包 #包包內裡 #台中洗衣
-  image: https://39211.github.io/assets/2026-08-04/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-04.json
-- [2026-08-03 19:30 棉被收進櫃子前，先聞一下](https://39211.github.io/posts/2026-08-03-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-04/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-04.json
+- [2026-08-03 19:30 棉被收進櫃子前，先聞一下](https://sixiangjialaundry.com/posts/2026-08-03-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
   target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中到府收送洗衣 | 台中公司大量衣物送洗
   evidence_type: pickup-logistics
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-03/slot-02.png
-  video: https://39211.github.io/assets/2026-08-03/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-03.json
-- [2026-08-03 11:30 化妝包的粉痕，拉鍊邊與內袋縫線要一起看](https://39211.github.io/posts/2026-08-03-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-03/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-03/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-03.json
+- [2026-08-03 11:30 化妝包的粉痕，拉鍊邊與內袋縫線要一起看](https://sixiangjialaundry.com/posts/2026-08-03-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=problem-diagnosis
   target_queries: 台中洗鞋店 | 台中洗包包 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #化妝包清潔 #包包內裡
-  image: https://39211.github.io/assets/2026-08-03/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-03.json
-- [2026-08-02 19:30 包包最先變舊的地方，是提把](https://39211.github.io/posts/2026-08-02-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-03/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-03.json
+- [2026-08-02 19:30 包包最先變舊的地方，是提把](https://sixiangjialaundry.com/posts/2026-08-02-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
   target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中寢具送洗
   evidence_type: pickup-logistics
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-08-02/slot-02.png
-  video: https://39211.github.io/assets/2026-08-02/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-08-02.json
-- [2026-08-02 11:30 枕頭套有油痕時，枕套與枕芯要分開看](https://39211.github.io/posts/2026-08-02-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-02/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-08-02/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-02.json
+- [2026-08-02 11:30 枕頭套有油痕時，枕套與枕芯要分開看](https://sixiangjialaundry.com/posts/2026-08-02-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=problem-diagnosis
   target_queries: 台中枕頭套清洗 | 枕套與枕芯怎麼分開拍 | 台中寢具送洗
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #枕頭套 #寢具整理 #台中洗衣
-  image: https://39211.github.io/assets/2026-08-02/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-02.json
-- [2026-08-01 19:30 床包被套收送前，先確認是空的單層布套](https://39211.github.io/posts/2026-08-01-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-02/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-02.json
+- [2026-08-01 19:30 床包被套收送前，先確認是空的單層布套](https://sixiangjialaundry.com/posts/2026-08-01-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=local-service-conversion
   target_queries: 台中棉被清洗 | 被套送洗 | 台中免費收送 | 床組 LINE 預約
   evidence_type: first-party-item-intake-framing
   hashtags: #私享家洗衣店 #台中棉被清洗 #台中免費收送 #床組送洗
-  image: https://39211.github.io/assets/2026-08-01/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-08-01.json
-- [2026-08-01 11:30 一雙鞋送洗前，先把鞋口與鞋頭對齊看](https://39211.github.io/posts/2026-08-01-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-01/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-01.json
+- [2026-08-01 11:30 一雙鞋送洗前，先把鞋口與鞋頭對齊看](https://sixiangjialaundry.com/posts/2026-08-01-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=problem-diagnosis
   target_queries: 台中鞋子清洗 | 鞋子送洗前拍照 | 鞋頭磨痕 | 鞋口內裡
   evidence_type: first-party-inspection-framing
   hashtags: #私享家洗衣店 #台中鞋子清洗 #鞋子送洗 #送洗前檢查
-  image: https://39211.github.io/assets/2026-08-01/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-08-01.json
-- [2026-07-31 19:30 床單被套不用自己扛下樓，先分件拍好再約收送](https://39211.github.io/posts/2026-07-31-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-08-01/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-01.json
+- [2026-07-31 19:30 床單被套不用自己扛下樓，先分件拍好再約收送](https://sixiangjialaundry.com/posts/2026-07-31-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=pickup-logistics
   target_queries: 台中棉被清洗 | 台中床單被套送洗 | 台中免費收送洗衣
   evidence_type: pickup-logistics
   hashtags: #私享家洗衣店 #床單被套 #台中免費收送 #寢具送洗
-  image: https://39211.github.io/assets/2026-07-31/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-31.json
-- [2026-07-31 11:30 球鞋鞋舌翻進去，只拍鞋面會漏掉鞋口內裡](https://39211.github.io/posts/2026-07-31-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-31/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-31.json
+- [2026-07-31 11:30 球鞋鞋舌翻進去，只拍鞋面會漏掉鞋口內裡](https://sixiangjialaundry.com/posts/2026-07-31-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=problem-diagnosis
   target_queries: 球鞋送洗前怎麼拍 | 鞋口內裡怎麼看 | 台中鞋子清洗
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #球鞋送洗 #鞋子檢查 #台中洗衣
-  image: https://39211.github.io/assets/2026-07-31/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-31.json
-- [2026-07-30 19:30 孩子的鞋一次整理，家長不用再多跑一趟](https://39211.github.io/posts/2026-07-30-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-31/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-31.json
+- [2026-07-30 19:30 孩子的鞋一次整理，家長不用再多跑一趟](https://sixiangjialaundry.com/posts/2026-07-30-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=pickup-logistics
   target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中到府收送洗衣 | 台中公司大量衣物送洗
   evidence_type: pickup-logistics
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #童鞋清潔
-  image: https://39211.github.io/assets/2026-07-30/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-30.json
-- [2026-07-30 11:30 童鞋送洗前，鞋口內裡與鞋底邊要一起拍](https://39211.github.io/posts/2026-07-30-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-30/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-30.json
+- [2026-07-30 11:30 童鞋送洗前，鞋口內裡與鞋底邊要一起拍](https://sixiangjialaundry.com/posts/2026-07-30-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=problem-diagnosis
   target_queries: 台中白鞋清潔 | 台中洗鞋店 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #童鞋清潔 #鞋子保養
-  image: https://39211.github.io/assets/2026-07-30/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-30.json
-- [2026-07-29 19:30 精品包最怕的不是髒，是邊角](https://39211.github.io/posts/2026-07-29-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-30/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-30.json
+- [2026-07-29 19:30 精品包最怕的不是髒，是邊角](https://sixiangjialaundry.com/posts/2026-07-29-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=pickup-logistics
   target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中到府收送洗衣 | 台中公司大量衣物送洗
   evidence_type: pickup-logistics
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常
-  image: https://39211.github.io/assets/2026-07-29/slot-02.png
-  video: https://39211.github.io/assets/2026-07-29/slot-02.mp4
-  calendar: https://39211.github.io/content-calendar/2026-07-29.json
-- [2026-07-29 11:30 鞋子放回鞋櫃前，先看鞋口內裡與鞋墊邊](https://39211.github.io/posts/2026-07-29-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-29/slot-02.png
+  video: https://sixiangjialaundry.com/assets/2026-07-29/slot-02.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-29.json
+- [2026-07-29 11:30 鞋子放回鞋櫃前，先看鞋口內裡與鞋墊邊](https://sixiangjialaundry.com/posts/2026-07-29-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=problem-diagnosis
   target_queries: 台中白鞋清潔 | 台中洗鞋店 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
   evidence_type: first-party-inspection
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #鞋子清潔 #鞋櫃收納
-  image: https://39211.github.io/assets/2026-07-29/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-29.json
-- [2026-07-28 19:30 下班前用 LINE 約好，運動衣不用再繞路送](https://39211.github.io/posts/2026-07-28-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-29/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-29.json
+- [2026-07-28 19:30 下班前用 LINE 約好，運動衣不用再繞路送](https://sixiangjialaundry.com/posts/2026-07-28-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=pickup-logistics
   target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中到府收送洗衣 | 台中公司大量衣物送洗
   evidence_type: pickup-logistics
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗
-  image: https://39211.github.io/assets/2026-07-28/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-28.json
-- [2026-07-28 11:30 夏季棉麻衣物的汗味，先看腋下與側縫](https://39211.github.io/posts/2026-07-28-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-28/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-28.json
+- [2026-07-28 11:30 夏季棉麻衣物的汗味，先看腋下與側縫](https://sixiangjialaundry.com/posts/2026-07-28-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=aftercare
   target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
   evidence_type: customer-question
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉麻衣物 #汗味處理
-  image: https://39211.github.io/assets/2026-07-28/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-28.json
-- [2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗](https://39211.github.io/posts/2026-07-27-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-28/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-28.json
+- [2026-07-27 19:30 健身結束先把濕衣物拿出來，再決定怎麼送洗](https://sixiangjialaundry.com/posts/2026-07-27-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #運動衣清洗
-  image: https://39211.github.io/assets/2026-07-27/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-27.json
-- [2026-07-27 11:30 工作包外面乾淨，內裡的粉痕與筆痕怎麼看？](https://39211.github.io/posts/2026-07-27-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-27/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-27.json
+- [2026-07-27 11:30 工作包外面乾淨，內裡的粉痕與筆痕怎麼看？](https://sixiangjialaundry.com/posts/2026-07-27-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包保養 #內裡清潔
-  image: https://39211.github.io/assets/2026-07-27/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-27.json
-- [2026-07-25 19:30 下班不用再繞去洗衣店，台中免費收送從門口開始](https://39211.github.io/posts/2026-07-25-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-27/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-27.json
+- [2026-07-25 19:30 下班不用再繞去洗衣店，台中免費收送從門口開始](https://sixiangjialaundry.com/posts/2026-07-25-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-  image: https://39211.github.io/assets/2026-07-25/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-25.json
-- [2026-07-25 11:30 冷氣房外套聞起來沒事，也要翻開領口內側看](https://39211.github.io/posts/2026-07-25-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-25/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-25.json
+- [2026-07-25 11:30 冷氣房外套聞起來沒事，也要翻開領口內側看](https://sixiangjialaundry.com/posts/2026-07-25-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口清潔
-  image: https://39211.github.io/assets/2026-07-25/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-25.json
-- [2026-07-22 19:30 店家與公司的大量衣物也能一次收](https://39211.github.io/posts/2026-07-22-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-25/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-25.json
+- [2026-07-22 19:30 店家與公司的大量衣物也能一次收](https://sixiangjialaundry.com/posts/2026-07-22-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-  image: https://39211.github.io/assets/2026-07-22/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-22.json
-- [2026-07-22 11:30 先看懂：行李箱布面與輪子灰塵](https://39211.github.io/posts/2026-07-22-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-22/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-22.json
+- [2026-07-22 11:30 先看懂：行李箱布面與輪子灰塵](https://sixiangjialaundry.com/posts/2026-07-22-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #旅行整理 #行李箱清潔
-  image: https://39211.github.io/assets/2026-07-22/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-22.json
-- [2026-07-20 19:30 鞋包不用再塞進機車踏板出門](https://39211.github.io/posts/2026-07-20-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-22/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-22.json
+- [2026-07-20 19:30 鞋包不用再塞進機車踏板出門](https://sixiangjialaundry.com/posts/2026-07-20-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=macro-detail; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-  image: https://39211.github.io/assets/2026-07-20/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-20.json
-- [2026-07-20 11:30 先看懂：白襯衫領口與腋下泛黃](https://39211.github.io/posts/2026-07-20-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-20/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-20.json
+- [2026-07-20 11:30 先看懂：白襯衫領口與腋下泛黃](https://sixiangjialaundry.com/posts/2026-07-20-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=trust-reset; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #白襯衫 #衣物清潔
-  image: https://39211.github.io/assets/2026-07-20/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-20.json
-- [2026-07-19 19:30 精品衣物最怕的不是送洗，是路上顛簸](https://39211.github.io/posts/2026-07-19-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-20/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-20.json
+- [2026-07-19 19:30 精品衣物最怕的不是送洗，是路上顛簸](https://sixiangjialaundry.com/posts/2026-07-19-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-  image: https://39211.github.io/assets/2026-07-19/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-19.json
-- [2026-07-19 11:30 先看懂：抱枕飲料痕與布面味道](https://39211.github.io/posts/2026-07-19-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-19/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-19.json
+- [2026-07-19 11:30 先看懂：抱枕飲料痕與布面味道](https://sixiangjialaundry.com/posts/2026-07-19-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=dwell-detail; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #抱枕清洗 #居家布品
-  image: https://39211.github.io/assets/2026-07-19/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-19.json
-- [2026-07-18 19:30 整套床組不必再自己扛下樓](https://39211.github.io/posts/2026-07-18-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-19/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-19.json
+- [2026-07-18 19:30 整套床組不必再自己扛下樓](https://sixiangjialaundry.com/posts/2026-07-18-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-  image: https://39211.github.io/assets/2026-07-18/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-18.json
-- [2026-07-18 11:30 先看懂：羽絨外套壓扁前的檢查](https://39211.github.io/posts/2026-07-18-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-18/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-18.json
+- [2026-07-18 11:30 先看懂：羽絨外套壓扁前的檢查](https://sixiangjialaundry.com/posts/2026-07-18-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #羽絨外套 #換季收納
-  image: https://39211.github.io/assets/2026-07-18/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-18.json
-- [2026-07-16 19:30 忙到沒手再搬洗衣籃的家庭日常](https://39211.github.io/posts/2026-07-16-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-18/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-18.json
+- [2026-07-16 19:30 忙到沒手再搬洗衣籃的家庭日常](https://sixiangjialaundry.com/posts/2026-07-16-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中洗衣收送 #免費到府收送
-  image: https://39211.github.io/assets/2026-07-16/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-16.json
-- [2026-07-16 11:30 先看懂：皮鞋雨痕與皺摺邊緣](https://39211.github.io/posts/2026-07-16-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-16/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-16.json
+- [2026-07-16 11:30 先看懂：皮鞋雨痕與皺摺邊緣](https://sixiangjialaundry.com/posts/2026-07-16-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=customer-consultation; traffic_route=trust-reset; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #皮鞋保養 #雨天鞋子
-  image: https://39211.github.io/assets/2026-07-16/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-16.json
-- [2026-07-15 19:30 今天情境：換季時西裝和襯衫不要一起悶收](https://39211.github.io/posts/2026-07-15-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-16/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-16.json
+- [2026-07-15 19:30 今天情境：換季時西裝和襯衫不要一起悶收](https://sixiangjialaundry.com/posts/2026-07-15-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗
-  image: https://39211.github.io/assets/2026-07-15/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-15.json
-- [2026-07-15 11:30 先看懂：外套領口袖口的日常油痕](https://39211.github.io/posts/2026-07-15-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-15/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-15.json
+- [2026-07-15 11:30 先看懂：外套領口袖口的日常油痕](https://sixiangjialaundry.com/posts/2026-07-15-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口袖口
-  image: https://39211.github.io/assets/2026-07-15/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-15.json
-- [2026-07-14 19:30 今天情境：暑假旅行回來先處理外套](https://39211.github.io/posts/2026-07-14-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-15/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-15.json
+- [2026-07-14 19:30 今天情境：暑假旅行回來先處理外套](https://sixiangjialaundry.com/posts/2026-07-14-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #旅行整理 #外套清洗
-  image: https://39211.github.io/assets/2026-07-14/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-14.json
-- [2026-07-14 11:30 先看懂：深色衣服洗久變灰的判斷](https://39211.github.io/posts/2026-07-14-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-14/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-14.json
+- [2026-07-14 11:30 先看懂：深色衣服洗久變灰的判斷](https://sixiangjialaundry.com/posts/2026-07-14-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #衣物保養 #深色衣物
-  image: https://39211.github.io/assets/2026-07-14/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-14.json
-- [2026-07-13 19:30 今天情境：週末換季整理先分類布品](https://39211.github.io/posts/2026-07-13-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-14/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-14.json
+- [2026-07-13 19:30 今天情境：週末換季整理先分類布品](https://sixiangjialaundry.com/posts/2026-07-13-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #換季收納 #布品清潔
-  image: https://39211.github.io/assets/2026-07-13/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-13.json
-- [2026-07-13 11:30 先看懂：棉被收納前的濕氣與睡眠味](https://39211.github.io/posts/2026-07-13-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-13/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-13.json
+- [2026-07-13 11:30 先看懂：棉被收納前的濕氣與睡眠味](https://sixiangjialaundry.com/posts/2026-07-13-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #布品收納
-  image: https://39211.github.io/assets/2026-07-13/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-13.json
-- [2026-07-12 19:30 今天情境：下班最常背的包先看提把](https://39211.github.io/posts/2026-07-12-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-13/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-13.json
+- [2026-07-12 19:30 今天情境：下班最常背的包先看提把](https://sixiangjialaundry.com/posts/2026-07-12-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=macro-detail; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常
-  image: https://39211.github.io/assets/2026-07-12/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-12.json
-- [2026-07-12 11:30 先看懂：包包提把手汗與邊油痕](https://39211.github.io/posts/2026-07-12-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-12/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-12.json
+- [2026-07-12 11:30 先看懂：包包提把手汗與邊油痕](https://sixiangjialaundry.com/posts/2026-07-12-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包清潔 #提把保養
-  image: https://39211.github.io/assets/2026-07-12/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-12.json
-- [2026-07-11 19:30 今天情境：雨後通勤回家不要直接收鞋](https://39211.github.io/posts/2026-07-11-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-12/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-12.json
+- [2026-07-11 19:30 今天情境：雨後通勤回家不要直接收鞋](https://sixiangjialaundry.com/posts/2026-07-11-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #雨天鞋子 #通勤日常
-  image: https://39211.github.io/assets/2026-07-11/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-11.json
-- [2026-07-11 11:30 先看懂：白鞋鞋邊泛灰前的檢查](https://39211.github.io/posts/2026-07-11-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-11/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-11.json
+- [2026-07-11 11:30 先看懂：白鞋鞋邊泛灰前的檢查](https://sixiangjialaundry.com/posts/2026-07-11-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #鞋子保養
-  image: https://39211.github.io/assets/2026-07-11/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-11.json
-- [2026-07-10 19:30 週末大掃除後的布品分袋](https://39211.github.io/posts/2026-07-10-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-11/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-11.json
+- [2026-07-10 19:30 週末大掃除後的布品分袋](https://sixiangjialaundry.com/posts/2026-07-10-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店
-  image: https://39211.github.io/assets/2026-07-10/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-10.json
-- [2026-07-10 11:30 皮鞋雨痕與鞋面乾裂前的檢查](https://39211.github.io/posts/2026-07-10-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-10/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-10.json
+- [2026-07-10 11:30 皮鞋雨痕與鞋面乾裂前的檢查](https://sixiangjialaundry.com/posts/2026-07-10-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=customer-consultation; traffic_route=trust-reset; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養
-  image: https://39211.github.io/assets/2026-07-10/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-10.json
-- [2026-07-09 19:30 孩子上學鞋襪的泥灰與汗味](https://39211.github.io/posts/2026-07-09-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-10/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-10.json
+- [2026-07-09 19:30 孩子上學鞋襪的泥灰與汗味](https://sixiangjialaundry.com/posts/2026-07-09-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=macro-detail; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #童鞋清潔 #鞋子除味 #台中洗鞋
-  image: https://39211.github.io/assets/2026-07-09/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-09.json
-- [2026-07-09 11:30 包包提把的手汗與邊油痕](https://39211.github.io/posts/2026-07-09-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-09/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-09.json
+- [2026-07-09 11:30 包包提把的手汗與邊油痕](https://sixiangjialaundry.com/posts/2026-07-09-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=macro-detail; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #包包清潔 #提把清潔 #精品洗護
-  image: https://39211.github.io/assets/2026-07-09/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-09.json
-- [2026-07-08 19:30 旅行回來先處理外套與行李灰塵](https://39211.github.io/posts/2026-07-08-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-09/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-09.json
+- [2026-07-08 19:30 旅行回來先處理外套與行李灰塵](https://sixiangjialaundry.com/posts/2026-07-08-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
-  image: https://39211.github.io/assets/2026-07-08/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-08.json
-- [2026-07-08 11:30 棉被收納前的濕氣與睡眠味](https://39211.github.io/posts/2026-07-08-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-08/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-08.json
+- [2026-07-08 11:30 棉被收納前的濕氣與睡眠味](https://sixiangjialaundry.com/posts/2026-07-08-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #棉被清潔 #布品收納 #台中洗衣店
-  image: https://39211.github.io/assets/2026-07-08/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-08.json
-- [2026-07-07 19:30 雨季通勤後的包角與鞋底檢查](https://39211.github.io/posts/2026-07-02-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-08/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-08.json
+- [2026-07-07 19:30 雨季通勤後的包角與鞋底檢查](https://sixiangjialaundry.com/posts/2026-07-02-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-  image: https://39211.github.io/assets/2026-07-07/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-07.json
-- [2026-07-07 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://39211.github.io/posts/2026-07-02-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-07/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-07.json
+- [2026-07-07 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://sixiangjialaundry.com/posts/2026-07-02-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-  image: https://39211.github.io/assets/2026-07-07/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-07.json
-- [2026-07-05 19:30 雨季通勤後的包角與鞋底檢查](https://39211.github.io/posts/2026-07-02-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-07/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-07.json
+- [2026-07-05 19:30 雨季通勤後的包角與鞋底檢查](https://sixiangjialaundry.com/posts/2026-07-02-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-  image: https://39211.github.io/assets/2026-07-05/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-05.json
-- [2026-07-05 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://39211.github.io/posts/2026-07-02-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-05/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-05.json
+- [2026-07-05 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://sixiangjialaundry.com/posts/2026-07-02-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-  image: https://39211.github.io/assets/2026-07-05/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-05.json
-- [2026-07-04 19:30 雨後鞋底包角與提把細節](https://39211.github.io/posts/2026-07-04-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-05/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-05.json
+- [2026-07-04 19:30 雨後鞋底包角與提把細節](https://sixiangjialaundry.com/posts/2026-07-04-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=macro-detail; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔 #台中洗衣店
-  image: https://39211.github.io/assets/2026-07-04/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-04.json
-- [2026-07-04 11:30 週末布品收納前的櫃台分類](https://39211.github.io/posts/2026-07-04-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-04/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-04.json
+- [2026-07-04 11:30 週末布品收納前的櫃台分類](https://sixiangjialaundry.com/posts/2026-07-04-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #台中洗衣店 #布品清潔 #收納前整理
-  image: https://39211.github.io/assets/2026-07-04/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-04.json
-- [2026-07-03 19:30 雨季通勤後的包角與鞋底檢查](https://39211.github.io/posts/2026-07-02-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-04/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-04.json
+- [2026-07-03 19:30 雨季通勤後的包角與鞋底檢查](https://sixiangjialaundry.com/posts/2026-07-02-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-  image: https://39211.github.io/assets/2026-07-03/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-03.json
-- [2026-07-03 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://39211.github.io/posts/2026-07-02-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-03/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-03.json
+- [2026-07-03 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://sixiangjialaundry.com/posts/2026-07-02-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-  image: https://39211.github.io/assets/2026-07-03/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-03.json
-- [2026-07-02 19:30 雨季通勤後的包角與鞋底檢查](https://39211.github.io/posts/2026-07-02-slot-02.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-03/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-03.json
+- [2026-07-02 19:30 雨季通勤後的包角與鞋底檢查](https://sixiangjialaundry.com/posts/2026-07-02-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #雨季保養 #鞋包清潔
-  image: https://39211.github.io/assets/2026-07-02/slot-02.png
-  calendar: https://39211.github.io/content-calendar/2026-07-02.json
-- [2026-07-02 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://39211.github.io/posts/2026-07-02-slot-01.html)
+  image: https://sixiangjialaundry.com/assets/2026-07-02/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-02.json
+- [2026-07-02 11:30 白鞋鞋邊與內裡的濕悶痕跡](https://sixiangjialaundry.com/posts/2026-07-02-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
   hashtags: #私享家洗衣店 #白鞋清潔 #鞋子保養
-  image: https://39211.github.io/assets/2026-07-02/slot-01.png
-  calendar: https://39211.github.io/content-calendar/2026-07-02.json
+  image: https://sixiangjialaundry.com/assets/2026-07-02/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-07-02.json
 
 ## Optional
-- [Lite context](https://39211.github.io/llms-lite.txt): smallest context file for quick checks.
-- [AI sitemap](https://39211.github.io/ai-sitemap.xml): AI-oriented XML endpoint map.
-- [Robots](https://39211.github.io/robots.txt): crawler access directives.
+- [Lite context](https://sixiangjialaundry.com/llms-lite.txt): smallest context file for quick checks.
+- [AI sitemap](https://sixiangjialaundry.com/ai-sitemap.xml): AI-oriented XML endpoint map.
+- [Robots](https://sixiangjialaundry.com/robots.txt): crawler access directives.

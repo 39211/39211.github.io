@@ -2,40 +2,40 @@
 
 > AI-readable source of record for 私享家洗衣店 daily social captions, care topics, image assets, hashtags, business profile, and content routes.
 
-Canonical: https://39211.github.io/
+Canonical: https://sixiangjialaundry.com/
 Latest date: 2026-08-16
-Read first: https://39211.github.io/latest.json
+Read first: https://sixiangjialaundry.com/latest.json
 Citation summary: 私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。
 Do not infer: pricing, guaranteed whitening, guaranteed stain or odor removal, review count, rating, or holiday hours.
-Full feed: https://39211.github.io/social-posts.json
-Business profile: https://39211.github.io/business-profile.json
-Services: https://39211.github.io/services.json
-Answers: https://39211.github.io/answers.json
-Geo targets: https://39211.github.io/geo-targets.json
-Search visibility: https://39211.github.io/search-visibility.json
-LLMS JSONL: https://39211.github.io/llms.jsonl
-鞋包清潔: https://39211.github.io/services/shoe-bag-care.html
-白鞋清潔: https://39211.github.io/services/white-shoe-cleaning.html
-布品收納: https://39211.github.io/services/fabric-storage.html
-台中西屯洗衣店: https://39211.github.io/services/taichung-xitun-laundry.html
-店家與公司大量衣物送洗: https://39211.github.io/services/business-bulk-laundry.html
-台中全市免費洗衣收送: https://39211.github.io/services/taichung-citywide-laundry-pickup.html
-送洗前怎麼拍照片詢問？: https://39211.github.io/guides/photo-before-laundry.html
-白鞋泛黃怎麼判斷？: https://39211.github.io/guides/white-shoe-yellowing.html
-開學前的制服整理:順序錯了會把黃痕定死: https://39211.github.io/guides/school-uniform-care.html
-勃肯鞋鞋床發黑、有味道,還救得回來嗎?: https://39211.github.io/guides/birkenstock-care.html
-精品包發霉:先別擦,先看這三件事: https://39211.github.io/guides/luxury-bag-mold.html
-羽絨外套、羽絨被怎麼洗才不會毀掉？: https://39211.github.io/guides/down-jacket-cleaning.html
-皮衣清潔保養：發霉、變硬、色差怎麼判斷？: https://39211.github.io/guides/leather-jacket-care.html
-乾洗還是水洗？送洗前搞懂這一篇: https://39211.github.io/guides/dry-cleaning-guide.html
-雨天鞋子進水後怎麼辦？: https://39211.github.io/guides/rainy-shoe-care.html
-包包提把與包角髒了怎麼判斷？: https://39211.github.io/guides/bag-handle-cleaning.html
-寢具外套收納前要檢查什麼？: https://39211.github.io/guides/bedding-storage-check.html
-襯衫清洗與西裝乾洗: https://39211.github.io/guides/shirt-suit-dry-cleaning.html
-床組、棉被與寢具清洗: https://39211.github.io/guides/bedding-duvet-cleaning.html
-娃娃與絨毛玩偶清潔: https://39211.github.io/guides/plush-doll-cleaning.html
-精品名牌與精緻乾洗: https://39211.github.io/guides/luxury-dry-cleaning.html
-台中洗衣、洗鞋、洗包與免費收送怎麼找？: https://39211.github.io/guides/taichung-laundry-service-search.html
-逢甲洗鞋・西屯洗鞋：怎麼挑、怎麼問、怎麼送: https://39211.github.io/local/qinghai-road-shoe-cleaning.html
-Knowledge graph: https://39211.github.io/knowledge-graph.json
-Full context: https://39211.github.io/llms-full.txt
+Full feed: https://sixiangjialaundry.com/social-posts.json
+Business profile: https://sixiangjialaundry.com/business-profile.json
+Services: https://sixiangjialaundry.com/services.json
+Answers: https://sixiangjialaundry.com/answers.json
+Geo targets: https://sixiangjialaundry.com/geo-targets.json
+Search visibility: https://sixiangjialaundry.com/search-visibility.json
+LLMS JSONL: https://sixiangjialaundry.com/llms.jsonl
+鞋包清潔: https://sixiangjialaundry.com/services/shoe-bag-care.html
+白鞋清潔: https://sixiangjialaundry.com/services/white-shoe-cleaning.html
+布品收納: https://sixiangjialaundry.com/services/fabric-storage.html
+台中西屯洗衣店: https://sixiangjialaundry.com/services/taichung-xitun-laundry.html
+店家與公司大量衣物送洗: https://sixiangjialaundry.com/services/business-bulk-laundry.html
+台中全市免費洗衣收送: https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html
+送洗前怎麼拍照片詢問？: https://sixiangjialaundry.com/guides/photo-before-laundry.html
+白鞋泛黃怎麼判斷？: https://sixiangjialaundry.com/guides/white-shoe-yellowing.html
+開學前的制服整理:順序錯了會把黃痕定死: https://sixiangjialaundry.com/guides/school-uniform-care.html
+勃肯鞋鞋床發黑、有味道,還救得回來嗎?: https://sixiangjialaundry.com/guides/birkenstock-care.html
+精品包發霉:先別擦,先看這三件事: https://sixiangjialaundry.com/guides/luxury-bag-mold.html
+羽絨外套、羽絨被怎麼洗才不會毀掉？: https://sixiangjialaundry.com/guides/down-jacket-cleaning.html
+皮衣清潔保養：發霉、變硬、色差怎麼判斷？: https://sixiangjialaundry.com/guides/leather-jacket-care.html
+乾洗還是水洗？送洗前搞懂這一篇: https://sixiangjialaundry.com/guides/dry-cleaning-guide.html
+雨天鞋子進水後怎麼辦？: https://sixiangjialaundry.com/guides/rainy-shoe-care.html
+包包提把與包角髒了怎麼判斷？: https://sixiangjialaundry.com/guides/bag-handle-cleaning.html
+寢具外套收納前要檢查什麼？: https://sixiangjialaundry.com/guides/bedding-storage-check.html
+襯衫清洗與西裝乾洗: https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html
+床組、棉被與寢具清洗: https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html
+娃娃與絨毛玩偶清潔: https://sixiangjialaundry.com/guides/plush-doll-cleaning.html
+精品名牌與精緻乾洗: https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html
+台中洗衣、洗鞋、洗包與免費收送怎麼找？: https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html
+逢甲洗鞋・西屯洗鞋：怎麼挑、怎麼問、怎麼送: https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html
+Knowledge graph: https://sixiangjialaundry.com/knowledge-graph.json
+Full context: https://sixiangjialaundry.com/llms-full.txt

@@ -2,9 +2,9 @@ User-agent: *
 Allow: /
 
 # AI-readable entry points
-# llms.txt: https://39211.github.io/llms.txt
-# llms-full.txt: https://39211.github.io/llms-full.txt
-# ai-discovery.json: https://39211.github.io/ai-discovery.json
+# llms.txt: https://sixiangjialaundry.com/llms.txt
+# llms-full.txt: https://sixiangjialaundry.com/llms-full.txt
+# ai-discovery.json: https://sixiangjialaundry.com/ai-discovery.json
 
 User-agent: OAI-SearchBot
 User-agent: GPTBot
@@ -18,4 +18,4 @@ User-agent: Applebot-Extended
 User-agent: Amazonbot
 Allow: /
 
-Sitemap: https://39211.github.io/sitemap.xml
+Sitemap: https://sixiangjialaundry.com/sitemap.xml
