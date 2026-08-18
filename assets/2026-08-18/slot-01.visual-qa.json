@@ -1,0 +1,75 @@
+{
+  "topic": "可收藏：外套領口袖口的日常油痕，送洗前先看三個位置",
+  "date": "2026-08-18",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張圖片皆顯示同一件米 beige 色、拉鍊式外套，細節與材質一致。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-18\\slot-01.png",
+      "canary": "MHJS",
+      "sha256": "61429c712be8642a0a188587d51ea625f2c47fe2490a267a6dbba3f7ef7772d2"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-18\\slot-01-slide-02.png",
+      "canary": "RLW8",
+      "sha256": "01bf5ed7d410af03fa22d571d40aed7703659eac72bd3aa696b88ee72b582958"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-18\\slot-01-slide-03.png",
+      "canary": "YPCG",
+      "sha256": "d1ac70af4ce0da748a3f26111711d8d5cf3de1a3174cae74268aa79317ed432c"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-18\\slot-01-slide-04.png",
+      "canary": "Q5PV",
+      "sha256": "ab79c72af5d4b0f1dcdd01471b08dfe7b31dcb2454280f3204f39b2b26769667"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-18\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-18\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-18\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-18\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "MHJS",
+    "IMAGE_2": "RLW8",
+    "IMAGE_3": "YPCG",
+    "IMAGE_4": "Q5PV"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "MHJS",
+    "IMAGE_2": "RLW8",
+    "IMAGE_3": "YPCG",
+    "IMAGE_4": "Q5PV"
+  },
+  "prompt_hash": "96ae88248a46c9dc9100142fa0cc202b7cbef682b0d22fc6c627bf7a0e41dc4e",
+  "run_id": "carousel-qa-1787007518354",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-17T22:58:38.365Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
