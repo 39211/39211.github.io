@@ -174,6 +174,8 @@
         "https://sixiangjialaundry.com/assets/2026-08-17/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-08-17/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-08-17/slot-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-18/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -334,7 +336,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-08-17"
+      "dateModified": "2026-08-18"
     },
     {
       "@type": "FAQPage",
@@ -395,7 +397,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-08-17",
+      "dateModified": "2026-08-18",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -5567,6 +5569,81 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-17/slot-03.png",
       "url": "https://sixiangjialaundry.com/assets/2026-08-17/slot-03.png",
       "caption": "上班包內袋的粉底與筆痕",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-01",
+      "headline": "2026-08-18 11:30 可收藏：外套領口袖口的日常油痕，送洗前先看三個位置",
+      "text": "外套領口袖口的日常油痕，送洗前先看三個位置。\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。\n\n你換季整理最卡關的是哪一步？\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口袖口 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-18T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#外套清洗",
+        "#領口袖口",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-18/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-18/slot-01.png",
+      "caption": "可收藏：外套領口袖口的日常油痕，送洗前先看三個位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-02",
+      "headline": "2026-08-18 20:30 羽絨外套袖口發黑",
+      "text": "換季時西裝和襯衫不要一起悶收，先看容易忽略的位置。\n\n西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。\n\n西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。\n\n不確定還洗不洗得回來？拍一張傳 LINE給我們看看。\n\n你有幾件襯衫是黃了以後就沒再穿的？\n\n家裡那個襯衫領口都黃了還在穿的人，傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-18T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#西裝乾洗",
+        "#襯衫清洗",
+        "#衣物送洗",
+        "#乾洗",
+        "#台中乾洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png",
+      "caption": "羽絨外套袖口發黑",
       "inLanguage": "zh-Hant"
     }
   ]

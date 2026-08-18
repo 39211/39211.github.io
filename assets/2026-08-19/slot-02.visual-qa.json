@@ -1,0 +1,77 @@
+{
+  "topic": "細節拆解：拜訪客戶前西裝先看袖口，先看容易忽略的位置",
+  "date": "2026-08-19",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆為深藍色梭織西裝外套，可見相同的兩顆前扣、口袋配置與袖口鈕扣細節。",
+    "SCENE": "PASS：四張皆在粉紅切割墊與條紋牆面／鞋架的同一櫃台場景拍攝。",
+    "TOPIC_MATCH": "PASS：畫面主體皆為西裝外套，符合主題所述的西裝袖口細節。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-02.png",
+      "canary": "CAAS",
+      "sha256": "a9e981c0cbf114373a703a5dffd4523932e54c2f1a579dfab3a67c981b5f6fb8"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-02-slide-02.png",
+      "canary": "5UNN",
+      "sha256": "f2fa9c03710e2efde069b3b8747809a45d992a422e0cc6ca02235d2d230a08c5"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-02-slide-03.png",
+      "canary": "AE6E",
+      "sha256": "d9d4b54f50767ac89f99420496135baf9b3609c86e0dd54b69527b6aa54ab3bc"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-02-slide-04.png",
+      "canary": "VUSK",
+      "sha256": "9e2d0df64ecdb960aed52e052668f1e596cb866efc6712e0efbbdb1d74ad74a0"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "CAAS",
+    "IMAGE_2": "5UNN",
+    "IMAGE_3": "AE6E",
+    "IMAGE_4": "VUSK"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "CAAS",
+    "IMAGE_2": "5UNN",
+    "IMAGE_3": "AE6E",
+    "IMAGE_4": "VUSK"
+  },
+  "prompt_hash": "822b308988b73db973e48fe708d6235f717952fab7f8b565910af55323456c2e",
+  "run_id": "carousel-qa-1787092602144",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-18T22:36:42.157Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

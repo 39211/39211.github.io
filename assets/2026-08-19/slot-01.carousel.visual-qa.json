@@ -1,0 +1,77 @@
+{
+  "topic": "診所制服每週收送",
+  "date": "2026-08-19",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張都是同一件淺藍短袖V領護理服，白滾邊與雙下袋一致。",
+    "SCENE": "四張都在同一張粉紅切割墊與白牆櫃台。",
+    "TOPIC_MATCH": "物件是診所制服上衣，對上主題診所制服。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01.png",
+      "canary": "2DN7",
+      "sha256": "cab98bbd0a8466db8b093bfa9c66736e9f63d09d839916d38281644906a52f49"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-02.png",
+      "canary": "HZRG",
+      "sha256": "277c994daa477d873923c7d598e21481a5945412c09d4d8d51e7e71f34443b41"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-03.png",
+      "canary": "2K9K",
+      "sha256": "58aef68f9cd304eab486d18618b255ffa8189eb68211ce42aab352ada65f0904"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-04.png",
+      "canary": "EZ66",
+      "sha256": "26e7a1673f879bea9f626a9e6834bd7c51b5b90ab907703237b639ebf82de699"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "2DN7",
+    "IMAGE_2": "HZRG",
+    "IMAGE_3": "2K9K",
+    "IMAGE_4": "EZ66"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "2DN7",
+    "IMAGE_2": "HZRG",
+    "IMAGE_3": "2K9K",
+    "IMAGE_4": "EZ66"
+  },
+  "prompt_hash": "4bc29db68fbe925dff3e4af3266b49f4968170ec83206584bb51bc47d9bd5f66",
+  "run_id": "carousel-qa-2026-08-19-slot1",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-18T17:50:43.678Z",
+  "mode": "warn",
+  "verdict": "PASS",
+  "fail_class": null
+}

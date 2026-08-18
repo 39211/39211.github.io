@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-08-18T14:15:07.737Z
+- Generated at: 2026-08-18T22:37:17.410Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -229,6 +229,8 @@
     "https://sixiangjialaundry.com/assets/2026-08-17/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-08-17/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-08-17/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-08-18/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -4377,4 +4379,110 @@ Instagram caption:
 直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
 
 #私享家洗衣店 #包包清潔 #內袋清潔 #上班包保養
+
+### 2026-08-18 11:30 可收藏：外套領口袖口的日常油痕，送洗前先看三個位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-01
+- published local time: 2026-08-18T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口袖口 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-18/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-18.json
+
+Facebook caption:
+
+外套領口袖口的日常油痕，送洗前先看三個位置。
+
+衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。
+
+我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。
+
+不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。
+
+你換季整理最卡關的是哪一步？
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口袖口 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+外套領口袖口的日常油痕，送洗前先看三個位置。
+
+衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。
+
+我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。
+
+不知道該不該送洗？拍一張私訊，我們老實跟你說。
+
+你換季整理最卡關的是哪一步？
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #外套清洗 #領口袖口 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-18 20:30 羽絨外套袖口發黑
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-18.json#post-2026-08-18-slot-02
+- published local time: 2026-08-18T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: aftercare
+- target_queries: 台中西裝乾洗 | 台中襯衫清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-18.json
+
+Facebook caption:
+
+換季時西裝和襯衫不要一起悶收，先看容易忽略的位置。
+
+西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。
+
+西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。
+
+不確定還洗不洗得回來？拍一張傳 LINE給我們看看。
+
+你有幾件襯衫是黃了以後就沒再穿的？
+
+家裡那個襯衫領口都黃了還在穿的人，傳給他。
+
+想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+換季時西裝和襯衫不要一起悶收，先看容易忽略的位置。
+
+西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。
+
+西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。
+
+不確定還洗不洗得回來？拍一張私訊給我們看看。
+
+你有幾件襯衫是黃了以後就沒再穿的？
+
+家裡那個襯衫領口都黃了還在穿的人，傳給他。
+
+想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
 

@@ -1,0 +1,77 @@
+{
+  "topic": "診所制服每週收送",
+  "date": "2026-08-19",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆為淺藍色織物制服上衣，具相同白色滾邊、胸前口袋與雙下方口袋。",
+    "SCENE": "四張皆在粉紅墊與直條板牆的同一工作檯面拍攝。",
+    "TOPIC_MATCH": "畫面物件皆為診所制服衣物。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01.png",
+      "canary": "VZHQ",
+      "sha256": "27c886f759a91b1199c8807b251e40d3ddd8c6dba8fcac9594642ba029d4e523"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-02.png",
+      "canary": "NNDR",
+      "sha256": "2c66df7261dbe70c12bbfc5b76a3d6393f15a9d21aa8cbe2ee6358b2f22d1017"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-03.png",
+      "canary": "MXLC",
+      "sha256": "117637aa1eb6ba9f42d811c3067cd81c63a0bbf811012c4147720d9c01ea0ea1"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-04.png",
+      "canary": "JW3N",
+      "sha256": "33449d28fa5c4d76531197ac7256d7499dcb17127386c216e0054b202907eba4"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-19\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "VZHQ",
+    "IMAGE_2": "NNDR",
+    "IMAGE_3": "MXLC",
+    "IMAGE_4": "JW3N"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "VZHQ",
+    "IMAGE_2": "NNDR",
+    "IMAGE_3": "MXLC",
+    "IMAGE_4": "JW3N"
+  },
+  "prompt_hash": "4bc29db68fbe925dff3e4af3266b49f4968170ec83206584bb51bc47d9bd5f66",
+  "run_id": "carousel-qa-1787092633018",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-18T22:37:13.033Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
