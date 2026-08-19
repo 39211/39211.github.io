@@ -1,0 +1,60 @@
+{
+  "topic": "麂皮鞋雨天急救",
+  "date": "2026-08-20",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張都是同一雙茶色素頭麂皮德比：同楦、同色鞋帶、同條摺痕，slide 4 只把雨痕刷淡，沒換第二雙。",
+    "SCENE": "四張都在同一張粉紅切割墊與白條牆櫃台，背景同一排保養瓶與窗光方向。",
+    "TOPIC_MATCH": "物件是麂皮鞋，slide 1-3 鞋頭絨毛倒伏與雨後水線清楚，對上主題雨天急救。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-01.png",
+      "sha256": "be7e8cddb6caa92140b945fe7a695f7f365451394635de5966111590349b2118"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-01-slide-02.png",
+      "sha256": "4fb1cb18f90ce21d8b401a5a4cca25ca1175b216a7e605149abeb7d5c75962f1"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-01-slide-03.png",
+      "sha256": "98ce0452b5beece2d7a2ec8e2283164259c76143a987cfb937301ca3aba89ede"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-01-slide-04.png",
+      "sha256": "2148d51e5ff835e83225b2d6ae592ec1152f4b5361b0e0d6a49ae3466bc8f216"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-01-slide-04.png"
+  ],
+  "run_id": "carousel-qa-2026-08-20-slot1",
+  "model": "grok-visual-review",
+  "reviewed_by": "human-frames-review",
+  "reviewed_at": "2026-08-19T13:40:00.000Z",
+  "mode": "warn",
+  "verdict": "PASS",
+  "fail_class": null
+}
