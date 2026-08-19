@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-08-18T22:37:17.410Z
+- Generated at: 2026-08-19T12:31:23.012Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -231,6 +231,9 @@
     "https://sixiangjialaundry.com/assets/2026-08-17/slot-03.png",
     "https://sixiangjialaundry.com/assets/2026-08-18/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-08-19/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-08-19/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-08-19/slot-03.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -4485,4 +4488,167 @@ Instagram caption:
 直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-19 11:30 診所制服每週收送
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-01
+- published local time: 2026-08-19T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: value-prop-lead
+- search_intent: problem-diagnosis
+- target_queries: 台中制服清洗 | 診所制服送洗 | 台中到府收送洗衣
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #診所制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-19/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-19.json
+
+Facebook caption:
+
+診所制服每週收送，先看領口和袖口。
+
+醫師服一週穿下來，領口那圈和袖口內側最先出狀況。看起來還能穿，其實已經開始了。
+
+我會先看領口那圈油汗和袖口內側。那兩個地方天天貼皮膚，比整體髒不髒更說明這週要不要送。
+
+台中市區固定每週到府收送，拍一張傳 LINE說一聲就好。
+
+你們診所現在是同仁自己帶回家洗，還是有固定收送？
+
+追蹤私享家，之後會持續整理診所制服和團體送洗的判斷。
+
+參考價：襯衫 $70、整燙 $50（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #診所制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+診所制服每週收送，先看領口和袖口。
+
+醫師服一週穿下來，領口那圈和袖口內側最先出狀況。看起來還能穿，其實已經開始了。
+
+我會先看領口那圈油汗和袖口內側。那兩個地方天天貼皮膚，比整體髒不髒更說明這週要不要送。
+
+台中市區固定每週到府收送，拍一張私訊說一聲就好。
+
+你們診所現在是同仁自己帶回家洗，還是有固定收送？
+
+追蹤私享家，之後會持續整理診所制服和團體送洗的判斷。
+
+參考價：襯衫 $70、整燙 $50（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #診所制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-19 20:30 細節拆解：拜訪客戶前西裝先看袖口，先看容易忽略的位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-02
+- published local time: 2026-08-19T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: trust-reset
+- search_intent: trust-proof
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 台中洗鞋推薦 | 西屯乾洗店推薦
+- evidence_type: real-case-photo
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #西裝清洗 #上班穿搭 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-19/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-19.json
+
+Facebook caption:
+
+拜訪客戶前西裝先看袖口，先看容易忽略的位置。
+
+衣服收起來之前那一下沒檢查，下次拿出來通常就是味道的來源。
+
+我會先看髒污停在哪一層。浮在表面的和吃進纖維的，處理方式差很多。
+
+不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。
+
+你家最常送洗的是哪一件？
+
+家裡衣服堆到不想開始整理的那個人，這篇傳給他。
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+參考價：西裝背心 $80、長大衣 $300（水洗價，乾洗另計）
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #西裝清洗 #上班穿搭 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+拜訪客戶前西裝先看袖口，先看容易忽略的位置。
+
+衣服收起來之前那一下沒檢查，下次拿出來通常就是味道的來源。
+
+我會先看髒污停在哪一層。浮在表面的和吃進纖維的，處理方式差很多。
+
+不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
+
+你家最常送洗的是哪一件？
+
+家裡衣服堆到不想開始整理的那個人，這篇傳給他。
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+參考價：西裝背心 $80、長大衣 $300（水洗價，乾洗另計）
+
+直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #西裝清洗 #上班穿搭 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-19 12:00 皮帶摺痕發白裂
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-03
+- published local time: 2026-08-19T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-19/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-19.json
+
+Facebook caption:
+
+皮帶摺痕發白裂。
+
+老是扣同一格,那一摺的塗層會最先斷開來。清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。
+
+不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+私享家洗衣店｜台中市區免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+皮帶摺痕發白裂。
+
+老是扣同一格,那一摺的塗層會最先斷開來。清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。
+
+不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+私享家洗衣店｜台中市區免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
 

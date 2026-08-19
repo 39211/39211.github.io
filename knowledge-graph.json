@@ -176,6 +176,9 @@
         "https://sixiangjialaundry.com/assets/2026-08-17/slot-03.png",
         "https://sixiangjialaundry.com/assets/2026-08-18/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-19/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-08-19/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-19/slot-03.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -336,7 +339,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-08-18"
+      "dateModified": "2026-08-19"
     },
     {
       "@type": "FAQPage",
@@ -397,7 +400,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-08-18",
+      "dateModified": "2026-08-19",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -5644,6 +5647,120 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png",
       "caption": "羽絨外套袖口發黑",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-01",
+      "headline": "2026-08-19 11:30 診所制服每週收送",
+      "text": "診所制服每週收送，先看領口和袖口。\n\n醫師服一週穿下來，領口那圈和袖口內側最先出狀況。看起來還能穿，其實已經開始了。\n\n我會先看領口那圈油汗和袖口內側。那兩個地方天天貼皮膚，比整體髒不髒更說明這週要不要送。\n\n台中市區固定每週到府收送，拍一張傳 LINE說一聲就好。\n\n你們診所現在是同仁自己帶回家洗，還是有固定收送？\n\n追蹤私享家，之後會持續整理診所制服和團體送洗的判斷。\n\n參考價：襯衫 $70、整燙 $50（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #診所制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-19T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#診所制服",
+        "#制服清洗",
+        "#衣物送洗",
+        "#乾洗",
+        "#台中乾洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-19/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-19/slot-01.png",
+      "caption": "診所制服每週收送",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-02",
+      "headline": "2026-08-19 20:30 細節拆解：拜訪客戶前西裝先看袖口，先看容易忽略的位置",
+      "text": "拜訪客戶前西裝先看袖口，先看容易忽略的位置。\n\n衣服收起來之前那一下沒檢查，下次拿出來通常就是味道的來源。\n\n我會先看髒污停在哪一層。浮在表面的和吃進纖維的，處理方式差很多。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n你家最常送洗的是哪一件？\n\n家裡衣服堆到不想開始整理的那個人，這篇傳給他。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n參考價：西裝背心 $80、長大衣 $300（水洗價，乾洗另計）\n\n直接點這裡問:https://39211.github.io/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #西裝清洗 #上班穿搭 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-19T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#西裝清洗",
+        "#上班穿搭",
+        "#衣物送洗",
+        "#乾洗",
+        "#台中乾洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-19/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-19/slot-02.png",
+      "caption": "細節拆解：拜訪客戶前西裝先看袖口，先看容易忽略的位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-03",
+      "headline": "2026-08-19 12:00 皮帶摺痕發白裂",
+      "text": "皮帶摺痕發白裂。\n\n老是扣同一格,那一摺的塗層會最先斷開來。清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-19T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-19.json#post-2026-08-19-slot-03:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-19/slot-03.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-19/slot-03.png",
+      "caption": "皮帶摺痕發白裂",
       "inLanguage": "zh-Hant"
     }
   ]
