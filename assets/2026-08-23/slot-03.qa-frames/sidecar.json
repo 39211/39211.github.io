@@ -1,0 +1,50 @@
+{
+  "reel": "docs\\assets\\2026-08-23\\slot-03.mp4",
+  "reel_sha256": "8067d6df41c4d9766dbae353fc68b434a3cb0c4abc4dfe7f605aba37dee62924",
+  "treatment": "untreated-15s",
+  "duration": 14,
+  "frames": [
+    {
+      "name": "before-p20.png",
+      "act": "before",
+      "t": 0.92,
+      "canary": "RF89",
+      "sha256": "bdcbc65c4fe178184c300aa3f8a789df06710bb12c50570f1c91564677211ab7"
+    },
+    {
+      "name": "before-p70.png",
+      "act": "before",
+      "t": 3.22,
+      "canary": "T29E",
+      "sha256": "0c7bf095562a3ec176fc19178b4efda0bea4389f013e8ec8cb19a95908d2373e"
+    },
+    {
+      "name": "middle-p20.png",
+      "act": "middle",
+      "t": 5.52,
+      "canary": "VYC3",
+      "sha256": "fcd309521929927b4cc09fd23c1cf6e00ce722b7b8f234d122b6b696d962b240"
+    },
+    {
+      "name": "middle-p70.png",
+      "act": "middle",
+      "t": 7.819999999999999,
+      "canary": "K445",
+      "sha256": "4c84678e8e311ce43cc24e4584ff343099d1e0f0b6dc11ded8fedbe7a1e84ee6"
+    },
+    {
+      "name": "after-p20.png",
+      "act": "after",
+      "t": 10.2,
+      "canary": "MYGN",
+      "sha256": "42cef272635e0dfcd89107b709035dcabf17b0ded526f02a7defd4d9228e3b6c"
+    },
+    {
+      "name": "after-p70.png",
+      "act": "after",
+      "t": 12.7,
+      "canary": "3Y3C",
+      "sha256": "1be9014f7cf09009c4a83195c284644fd6ff7d0fd8659a7ce43e1ed69696753e"
+    }
+  ]
+}

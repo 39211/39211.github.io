@@ -8,9 +8,9 @@
     "TOPIC_MATCH": "PASS"
   },
   "evidence": {
-    "OBJECT_IDENTITY": "四張都是同一雙米色帆布室內便鞋：同黃邊膠條、同鞋口彈性帶、同鞋面皺褶與髒痕。slide 2/3 是同一雙的鞋口內裡近拍，slide 4 只把左鞋翻開露出同一雙發黃鞋墊，沒換成第二雙。",
-    "SCENE": "四張都在同一張粉紅切割墊與奶油色櫃台；slide 1/4 背景同一面白條牆、同一排保養瓶與右側窗光，slide 2/3 是同墊同櫃的更近裁切。",
-    "TOPIC_MATCH": "物件是室內鞋，slide 2/3 鞋口內裡與後跟汗漬清楚，slide 4 鞋墊發黃對上主題室內鞋汗味。"
+    "OBJECT_IDENTITY": "四張都是同一雙米色針織網布室內鞋：同EVA膠底、同網孔鞋面、同鞋口彈性帶。slide 3露出同一雙發黃鞋墊，slide 4把同一雙翻開呈現處理後的潔白鞋墊與內裡，沒換成第二雙。",
+    "SCENE": "四張都在同一張粉紅切割墊與淺色櫃台；slide 1/4背景同一面白條牆與保養瓶，slide 2/3是同墊同櫃的更近裁切。",
+    "TOPIC_MATCH": "物件是室內鞋；slide 3鞋墊與鞋口內裡汗漬對上主題室內鞋汗味，slide 4同一雙呈現處理後清潔內裡。"
   },
   "frames_used": [
     "slide-01.png",
@@ -23,25 +23,29 @@
       "name": "slide-01.png",
       "slide": 1,
       "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01.png",
-      "sha256": "642e353c08cbe23d61cacd70d8513c1d0d8a0641d69514c58913d08d5170cf3a"
+      "canary": "3DZ2",
+      "sha256": "f48a88fa835e11d43dfed4a3a4b552219d71fad564bd9838df0ac4c10bdd4ae2"
     },
     {
       "name": "slide-02.png",
       "slide": 2,
       "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-02.png",
-      "sha256": "743e319bdaecafe182f4e971464e3bc633bbf541117afd26e8213092ace6fde6"
+      "canary": "KFAS",
+      "sha256": "771b24a3b5a2675fde4e747c039d05b1ffd14b7aa4fed41c31c6ed3b79da0479"
     },
     {
       "name": "slide-03.png",
       "slide": 3,
       "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-03.png",
-      "sha256": "1ee38144880c42f7910ae3101199b173098ae4f8420f5191c68a32f77252b08f"
+      "canary": "KVP9",
+      "sha256": "f57898b9061bf1c504336d40e4036736ad4b662356a9a560a49abcee6ee10024"
     },
     {
       "name": "slide-04.png",
       "slide": 4,
       "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-04.png",
-      "sha256": "0397bd9ad5016c0b8789cf5a336f1df7f19a4581700639e0386d8abee3e23ad7"
+      "canary": "BWKT",
+      "sha256": "f7237ed7ce5ab0177ffce976b6ba7514c004050253e361a46b3f6ffaa2d2430e"
     }
   ],
   "sources": [
@@ -50,10 +54,23 @@
     "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-03.png",
     "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-04.png"
   ],
-  "run_id": "carousel-qa-2026-08-23-slot1",
+  "canaries_expected": {
+    "IMAGE_1": "3DZ2",
+    "IMAGE_2": "KFAS",
+    "IMAGE_3": "KVP9",
+    "IMAGE_4": "BWKT"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "3DZ2",
+    "IMAGE_2": "KFAS",
+    "IMAGE_3": "KVP9",
+    "IMAGE_4": "BWKT"
+  },
+  "prompt_hash": "a684a4e429c5853f43ce3c5f1d3f7ae1ae044bef1553baf4f99961ba354f6d7b",
+  "run_id": "carousel-qa-2026-08-23-slot1-slipperfix",
   "model": "grok-visual-review",
   "reviewed_by": "human-frames-review",
-  "reviewed_at": "2026-08-20T01:30:06.113Z",
+  "reviewed_at": "2026-08-20T07:56:06.126Z",
   "mode": "warn",
   "verdict": "PASS",
   "fail_class": null
