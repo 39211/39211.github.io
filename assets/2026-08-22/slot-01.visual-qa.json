@@ -1,0 +1,60 @@
+{
+  "topic": "童鞋開學檢查",
+  "date": "2026-08-22",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張都是同一雙米白網布＋深藍雙魔鬼氈兒童開學鞋：同楦、同兩條深藍帶、同米白鞋頭膠皮。slide 3 是同一雙的鞋口內裡與鞋底邊近拍，slide 4 只把鞋頭灰痕與底邊塵刷淡，內裡仍是米色沒換成第二雙。",
+    "SCENE": "四張都在同一張粉紅切割墊與奶油色櫃台；slide 1/2/4 背景同一面白條牆、同一排保養瓶與右側窗光，slide 3 是同墊同櫃的特寫裁切。",
+    "TOPIC_MATCH": "物件是兒童開學鞋，slide 1-3 鞋口內裡悶黃與鞋底邊泥灰清楚，對上主題童鞋開學檢查。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-01.png",
+      "sha256": "4cc55629e432d1a50eb4f7d5b17790a1339548ddc1d3e8f35e41e408872f04ec"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-01-slide-02.png",
+      "sha256": "2b24d3e5ed23ce44c014829470e82e73153d0feeb5c973f3ea2698088aaeabe8"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-01-slide-03.png",
+      "sha256": "63fef9abab74042bf5094aaacfad5aac74097a48ef338b097d22ea2130ded967"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-01-slide-04.png",
+      "sha256": "77d858f02bf15be79ddb46e85199ca4fe214b7f56018b14a9e90036d798a0fbb"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-01-slide-04.png"
+  ],
+  "run_id": "carousel-qa-2026-08-22-slot1",
+  "model": "grok-visual-review",
+  "reviewed_by": "human-frames-review",
+  "reviewed_at": "2026-08-20T00:30:00.000Z",
+  "mode": "warn",
+  "verdict": "PASS",
+  "fail_class": null
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "細節拆解：絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置",
+  "date": "2026-08-21",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第1張是奶油色、穿粉色花裙的兔玩偶；第2至4張是外型與配色不同的趴臥玩偶。",
+    "SCENE": "四張皆在粉紅切割墊、白色橫條板與後方吊掛衣物的同一櫃台環境拍攝。",
+    "TOPIC_MATCH": "畫面皆為絨毛玩偶，且主題未含衣物、鞋類或包袋的指定物件詞。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-21\\slot-02.png",
+      "canary": "9P7V",
+      "sha256": "5fb127de547ded9c75f6c6fcb867e06b62ae013247b76db576e18b30aca54ae9"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-21\\slot-02-slide-02.png",
+      "canary": "YK7H",
+      "sha256": "5d2d47f25c3b2e6fe67e5426dbdc5235a2939f17fc36c60361d46ca272183181"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-21\\slot-02-slide-03.png",
+      "canary": "4HXV",
+      "sha256": "2f79b8a48de1645bec134d0a39935e3a7e80d2d35fe87c62f9490f7ef604b319"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-21\\slot-02-slide-04.png",
+      "canary": "E8ZE",
+      "sha256": "1f061df87867ad9a03b11124784fd6efa42f2fb9c0b43c74829fa0fc27acb3dc"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-21\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-21\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-21\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-21\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "9P7V",
+    "IMAGE_2": "YK7H",
+    "IMAGE_3": "4HXV",
+    "IMAGE_4": "E8ZE"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "9P7V",
+    "IMAGE_2": "YK7H",
+    "IMAGE_3": "4HXV",
+    "IMAGE_4": "E8ZE"
+  },
+  "prompt_hash": "b25b2b1f56caa9aad35d1033fd64e5a14cffd43909bd17b56f70e5277a005ab8",
+  "run_id": "carousel-qa-1787184743263",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-20T00:12:23.275Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

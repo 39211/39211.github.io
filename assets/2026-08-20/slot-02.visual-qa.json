@@ -1,0 +1,77 @@
+{
+  "topic": "今天情境：下班最常背的包先看提把",
+  "date": "2026-08-20",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆為棕色皮革手提包，包身、雙提把與縫線配置一致。",
+    "SCENE": "四張皆可見粉紅切割墊與白色橫條板牆的同一櫃檯場景。",
+    "TOPIC_MATCH": "四張的物件皆為包，符合主題中的包類物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-02.png",
+      "canary": "T6TW",
+      "sha256": "705748933f6189f293d7ad8238877a51c294b5995ff595d312338b06b35a02b5"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-02-slide-02.png",
+      "canary": "BGJJ",
+      "sha256": "141a91de165e46170dbb3814c7eb79709c8574a3709bc079a93c7e5c0b384658"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-02-slide-03.png",
+      "canary": "HQTK",
+      "sha256": "d548a506700bd618dbbdc2ff8ec0a93171cb109d4078877549bc2e50d95e9c22"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-02-slide-04.png",
+      "canary": "KJJH",
+      "sha256": "6cdd625530ba2a8076a258f25bf1eccf9664b391bd3c3f44ffc64ee1cb3a3261"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-20\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "T6TW",
+    "IMAGE_2": "BGJJ",
+    "IMAGE_3": "HQTK",
+    "IMAGE_4": "KJJH"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "T6TW",
+    "IMAGE_2": "BGJJ",
+    "IMAGE_3": "HQTK",
+    "IMAGE_4": "KJJH"
+  },
+  "prompt_hash": "08cbffc08cf86001f8853ca328a78eac756e4b40ffb5f581e91f67631d602e62",
+  "run_id": "carousel-qa-1787183532775",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-19T23:52:12.790Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

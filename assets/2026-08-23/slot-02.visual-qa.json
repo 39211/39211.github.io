@@ -1,0 +1,60 @@
+{
+  "topic": "細節拆解：行李箱布面與輪子灰塵，先看容易忽略的位置",
+  "date": "2026-08-23",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張都是同一只深藍灰軟殼布面行李箱：同輪子、同伸縮桿、同布面磨痕。slide 2 打開同一只的內裡與拉鍊，slide 3 是同一只的握把與輪邊近拍，slide 4 只換角度，沒換成第二只。",
+    "SCENE": "四張都在同一張粉紅切割墊與奶油色櫃台；slide 1/4 背景同一面白條牆與保養瓶，slide 2/3 是同墊的更近裁切。",
+    "TOPIC_MATCH": "物件是布面行李箱，slide 1/4 輪子與布面灰塵清楚，slide 2 內裡、slide 3 握把與輪邊對上主題行李箱布面與輪子灰塵。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-02.png",
+      "sha256": "3830b80861a78ec4ae9417d03e3ecc951ee776994eadcfc310b35afaa50cb2d9"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-02-slide-02.png",
+      "sha256": "afa1bcc0ab973bc0592bc590ad86ca9146ba3b19ecd11bac105cd886f7c908dd"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-02-slide-03.png",
+      "sha256": "42ce469d9750c84552f1bfc1d8ae85537137682da8ccb0055dc8a01e13d42532"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-02-slide-04.png",
+      "sha256": "4bee86fbe040b066b8d39380c1bc9b123f4a64b8b7cbea3fb366a1483056ef9b"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-02-slide-04.png"
+  ],
+  "run_id": "carousel-qa-2026-08-23-slot2",
+  "model": "grok-visual-review",
+  "reviewed_by": "human-frames-review",
+  "reviewed_at": "2026-08-20T01:30:06.124Z",
+  "mode": "warn",
+  "verdict": "PASS",
+  "fail_class": null
+}

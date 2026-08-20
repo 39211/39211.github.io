@@ -1,0 +1,60 @@
+{
+  "topic": "細節拆解：牛仔褲膝蓋與口袋味道，先看容易忽略的位置",
+  "date": "2026-08-22",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張都是同一條靛藍丹寧牛仔褲：同摺法、同兩側大腿褪色、同膝破洞位置、同銅色鉚釘與口袋縫線。slide 3 是同一條的口袋口與大腿褪色近拍，slide 4 只把表面塵擦淡、破洞與褪色帶仍在，沒換成第二條。",
+    "SCENE": "四張都在同一張粉紅切割墊與奶油色櫃台；slide 1/4 背景同一面白條牆、同一排保養瓶與右側窗光，slide 2/3 是同墊同櫃的更近裁切。",
+    "TOPIC_MATCH": "物件是牛仔褲，slide 1-3 膝蓋/大腿褪色與口袋口清楚，對上主題牛仔褲膝蓋與口袋味道。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-02.png",
+      "sha256": "50835742f4ce7eeab76249e87909f0c263c51ada617ca46b211cd6af14776edc"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-02-slide-02.png",
+      "sha256": "ec2192fe0c6a3dd651fba9359376f59de0c8d48248aa7c7c57a6af6a7f587720"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-02-slide-03.png",
+      "sha256": "8a27b742e39ac9136606be12f552808d517a1b992cb45a390e51874740c35bc1"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-02-slide-04.png",
+      "sha256": "1ea2ce9a46b347e4822fe557e2cc936df14f2ffd0742204f94553261ce3b859c"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-22\\slot-02-slide-04.png"
+  ],
+  "run_id": "carousel-qa-2026-08-22-slot2",
+  "model": "grok-visual-review",
+  "reviewed_by": "human-frames-review",
+  "reviewed_at": "2026-08-20T00:58:32.422Z",
+  "mode": "warn",
+  "verdict": "PASS",
+  "fail_class": null
+}

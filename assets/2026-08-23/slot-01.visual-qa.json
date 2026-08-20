@@ -1,0 +1,60 @@
+{
+  "topic": "室內鞋汗味",
+  "date": "2026-08-23",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張都是同一雙米色帆布室內便鞋：同黃邊膠條、同鞋口彈性帶、同鞋面皺褶與髒痕。slide 2/3 是同一雙的鞋口內裡近拍，slide 4 只把左鞋翻開露出同一雙發黃鞋墊，沒換成第二雙。",
+    "SCENE": "四張都在同一張粉紅切割墊與奶油色櫃台；slide 1/4 背景同一面白條牆、同一排保養瓶與右側窗光，slide 2/3 是同墊同櫃的更近裁切。",
+    "TOPIC_MATCH": "物件是室內鞋，slide 2/3 鞋口內裡與後跟汗漬清楚，slide 4 鞋墊發黃對上主題室內鞋汗味。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01.png",
+      "sha256": "642e353c08cbe23d61cacd70d8513c1d0d8a0641d69514c58913d08d5170cf3a"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-02.png",
+      "sha256": "743e319bdaecafe182f4e971464e3bc633bbf541117afd26e8213092ace6fde6"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-03.png",
+      "sha256": "1ee38144880c42f7910ae3101199b173098ae4f8420f5191c68a32f77252b08f"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-04.png",
+      "sha256": "0397bd9ad5016c0b8789cf5a336f1df7f19a4581700639e0386d8abee3e23ad7"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-23\\slot-01-slide-04.png"
+  ],
+  "run_id": "carousel-qa-2026-08-23-slot1",
+  "model": "grok-visual-review",
+  "reviewed_by": "human-frames-review",
+  "reviewed_at": "2026-08-20T01:30:06.113Z",
+  "mode": "warn",
+  "verdict": "PASS",
+  "fail_class": null
+}
