@@ -22,6 +22,7 @@
         "addressCountry": "TW"
       },
       "telephone": "+886-4-2452-7411",
+      "priceRange": "NT$70 起",
       "identifier": [
         {
           "@type": "PropertyValue",

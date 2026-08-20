@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-08-20T14:15:09.190Z
+- Generated at: 2026-08-20T22:33:46.069Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -77,6 +77,7 @@
     "addressCountry": "TW"
   },
   "telephone": "+886-4-2452-7411",
+  "priceRange": "NT$70 起",
   "identifier": [
     {
       "@type": "PropertyValue",

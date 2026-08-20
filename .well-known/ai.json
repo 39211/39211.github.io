@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-20T14:15:09.190Z",
+  "generated_at": "2026-08-20T22:33:46.069Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -278,6 +278,7 @@
       "addressCountry": "TW"
     },
     "telephone": "+886-4-2452-7411",
+    "priceRange": "NT$70 起",
     "identifier": [
       {
         "@type": "PropertyValue",
