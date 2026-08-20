@@ -1,0 +1,38 @@
+﻿[
+    {
+        "name":  "before-p20",
+        "act":  "before",
+        "t":  0.92,
+        "canary":  "AWRY"
+    },
+    {
+        "name":  "before-p70",
+        "act":  "before",
+        "t":  3.22,
+        "canary":  "JXP6"
+    },
+    {
+        "name":  "middle-p20",
+        "act":  "middle",
+        "t":  5.52,
+        "canary":  "K57K"
+    },
+    {
+        "name":  "middle-p70",
+        "act":  "middle",
+        "t":  7.8199999999999994,
+        "canary":  "95GG"
+    },
+    {
+        "name":  "after-p20",
+        "act":  "after",
+        "t":  10.2,
+        "canary":  "3CCE"
+    },
+    {
+        "name":  "after-p70",
+        "act":  "after",
+        "t":  12.7,
+        "canary":  "WM57"
+    }
+]
