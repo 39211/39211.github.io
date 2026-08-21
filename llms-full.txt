@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-08-21T02:13:26.733Z
+- Generated at: 2026-08-21T03:50:19.940Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -243,6 +243,9 @@
     "https://sixiangjialaundry.com/assets/2026-08-20/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-08-20/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-08-20/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-08-21/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -4819,4 +4822,171 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-21 11:30 開學前學生制服檢查
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-01
+- published local time: 2026-08-21T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 學生制服 送洗 | 台中制服清洗 | 開學前制服怎麼整理 | 制服領口發黃
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #學生制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-21.json
+
+Facebook caption:
+
+開學前學生制服檢查，先看領口內側和袖口。
+
+暑假穿過的制服，領口那圈黃和袖口油汗最先出來。看起來還能穿，先燙會把黃痕定死。
+
+我會先翻領口內側看黃是新皮脂還是已經氧化的舊痕，再看袖口和腋下。順序是先處理再整燙。
+
+開學前想先整理？拍一張傳 LINE，我們先幫你看領口那種黃。
+
+你家那套制服，領口有沒有開始黃？
+
+追蹤私享家，之後會持續整理學生制服和開學檢查的判斷。
+
+參考價：襯衫 $70、整燙 $50（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #學生制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+開學前學生制服檢查，先看領口內側和袖口。
+
+暑假穿過的制服，領口那圈黃和袖口油汗最先出來。看起來還能穿，先燙會把黃痕定死。
+
+我會先翻領口內側看黃是新皮脂還是已經氧化的舊痕，再看袖口和腋下。順序是先處理再整燙。
+
+開學前想先整理？拍一張私訊，我們先幫你看領口那種黃。
+
+你家那套制服，領口有沒有開始黃？
+
+追蹤私享家，之後會持續整理學生制服和開學檢查的判斷。
+
+參考價：襯衫 $70、整燙 $50（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #學生制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-21 20:30 細節拆解：絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-02
+- published local time: 2026-08-21T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: object-proof
+- search_intent: aftercare
+- target_queries: 台中娃娃清洗 | 台中布偶清潔 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #娃娃清洗 #絨毛玩偶清潔 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-21/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-21.json
+
+Facebook caption:
+
+絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置。
+
+娃娃可以洗，但不能當一般衣服洗。填充和五官最怕脫水那一段。
+
+娃娃我會先看五官是繡的還是黏的。黏的那種怕水也怕脫水，得換一種洗法。
+
+家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。
+
+家裡有沒有那種一直想洗、又不太敢洗的娃娃？
+
+衣櫃塞到關不起來的朋友，這篇傳給他。
+
+追蹤私享家，之後會持續整理娃娃、布偶與絨毛玩偶的清潔判斷。
+
+參考價：絨毛娃娃依大小報價，LINE 傳照片先估
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #娃娃清洗 #絨毛玩偶清潔 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置。
+
+娃娃可以洗，但不能當一般衣服洗。填充和五官最怕脫水那一段。
+
+娃娃我會先看五官是繡的還是黏的。黏的那種怕水也怕脫水，得換一種洗法。
+
+家裡有不敢洗的娃娃？拍一張私訊，我們先幫你看能不能洗。
+
+家裡有沒有那種一直想洗、又不太敢洗的娃娃？
+
+衣櫃塞到關不起來的朋友，這篇傳給他。
+
+追蹤私享家，之後會持續整理娃娃、布偶與絨毛玩偶的清潔判斷。
+
+參考價：絨毛娃娃依大小報價，LINE 傳照片先估
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #娃娃清洗 #絨毛玩偶清潔 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-21 12:00 皮帶摺痕發白裂
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-03
+- published local time: 2026-08-21T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-21.json
+
+Facebook caption:
+
+老是扣同一格,那一摺的塗層會最先斷開來。
+
+清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。
+
+皮帶摺痕發白裂。
+
+不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+私享家洗衣店｜台中市區免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+老是扣同一格,那一摺的塗層會最先斷開來。
+
+清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。
+
+皮帶摺痕發白裂。
+
+不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+私享家洗衣店｜台中市區免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
 

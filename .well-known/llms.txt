@@ -101,6 +101,31 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-21 12:00 皮帶摺痕發白裂](https://sixiangjialaundry.com/posts/2026-08-21-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-21/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-21.json
+- [2026-08-21 20:30 細節拆解：絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置](https://sixiangjialaundry.com/posts/2026-08-21-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=object-proof; search_intent=aftercare
+  target_queries: 台中娃娃清洗 | 台中布偶清潔 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #娃娃清洗 #絨毛玩偶清潔 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-21/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-21.json
+- [2026-08-21 11:30 開學前學生制服檢查](https://sixiangjialaundry.com/posts/2026-08-21-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=problem-diagnosis
+  target_queries: 學生制服 送洗 | 台中制服清洗 | 開學前制服怎麼整理 | 制服領口發黃
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #學生制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-21.json
 - [2026-08-20 12:00 保潔墊出現黃圈](https://sixiangjialaundry.com/posts/2026-08-20-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
