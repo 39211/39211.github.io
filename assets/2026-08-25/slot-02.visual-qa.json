@@ -1,0 +1,77 @@
+{
+  "topic": "細節拆解：婚宴禮服回家先不要塞衣櫃，先看容易忽略的位置",
+  "date": "2026-08-25",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張圖可見棕色洋裝、灰色T恤、藍色襯衫與白色襯衫，類型與顏色族群不一致。",
+    "SCENE": "四張圖皆位於粉紅裁切墊與條紋牆的同一場景家族。",
+    "TOPIC_MATCH": "四張圖中的物件都屬於衣物，符合主題的衣物對象。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-02.png",
+      "canary": "A5RB",
+      "sha256": "3f43a702a3a065aa0b82641279f2f55a795c12004bf2a9b8b3d0f3c7d59fc0d3"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-02-slide-02.png",
+      "canary": "X4FQ",
+      "sha256": "080d3f2cdebbbcb5af5514d952ed9ff1b32025921b4b7f8833da4a2cf5f672ae"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-02-slide-03.png",
+      "canary": "VZXR",
+      "sha256": "314cab01872c949f55f651efebae1fd0506a279543c48b5959702be4dfb36994"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-02-slide-04.png",
+      "canary": "UAAM",
+      "sha256": "2dc00b30b0732d82d9d1995f176bc62e261c27c69312f9662398136599dca38c"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "A5RB",
+    "IMAGE_2": "X4FQ",
+    "IMAGE_3": "VZXR",
+    "IMAGE_4": "UAAM"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "A5RB",
+    "IMAGE_2": "X4FQ",
+    "IMAGE_3": "VZXR",
+    "IMAGE_4": "UAAM"
+  },
+  "prompt_hash": "9dc330ae5eb649176c71e1ba5de502b4a676dd0dd78d9b34428deffbf8cc4860",
+  "run_id": "carousel-qa-1787352415837",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-21T22:46:55.860Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

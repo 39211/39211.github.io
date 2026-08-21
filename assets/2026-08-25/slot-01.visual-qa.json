@@ -1,0 +1,77 @@
+{
+  "topic": "可收藏：球鞋中底黃斑，送洗前先看三個位置",
+  "date": "2026-08-25",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆為同一配色家族、同類鞋面結構與中底配置的雙色球鞋對，僅可見角度與磨耗程度差異。",
+    "SCENE": "四張皆在粉紅裁切墊與條紋展示牆的同一場景家族。",
+    "TOPIC_MATCH": "四張主體皆為球鞋，符合主題的鞋類對象。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-01.png",
+      "canary": "GFXU",
+      "sha256": "e8d02e64b68357d4245365dbf74141a91a5ea7bb7f2cc9243339ef54e22f65c1"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-01-slide-02.png",
+      "canary": "82WW",
+      "sha256": "0f5e0c88b7d09687ea924661ba95d89b294be19ddd82b492396f986f0d3bbd97"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-01-slide-03.png",
+      "canary": "NA95",
+      "sha256": "399a655ea0d759eb62864e4e11856a700c29173956fbe67e8c4457cffb7c5ea8"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-01-slide-04.png",
+      "canary": "6AXA",
+      "sha256": "876b5f67deb642006260393380b5dd736768430c8eb793d2b78ddead398db4e5"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-25\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "GFXU",
+    "IMAGE_2": "82WW",
+    "IMAGE_3": "NA95",
+    "IMAGE_4": "6AXA"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "GFXU",
+    "IMAGE_2": "82WW",
+    "IMAGE_3": "NA95",
+    "IMAGE_4": "6AXA"
+  },
+  "prompt_hash": "c598efc37f89e8e5c066fe0e23bd1c448cbf7da2038af2b2bc473cb290aaef2b",
+  "run_id": "carousel-qa-1787351940538",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-21T22:39:00.564Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
