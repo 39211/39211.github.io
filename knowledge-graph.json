@@ -81,6 +81,11 @@
           "closes": "18:00"
         }
       ],
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": 24.1780524,
+        "longitude": 120.6420289
+      },
       "hasMap": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
       "sameAs": [
         "https://www.facebook.com/100083194756904/",

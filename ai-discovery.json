@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-20T22:33:46.069Z",
+  "generated_at": "2026-08-21T02:13:26.733Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -337,6 +337,11 @@
         "closes": "18:00"
       }
     ],
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": 24.1780524,
+      "longitude": 120.6420289
+    },
     "hasMap": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
     "sameAs": [
       "https://www.facebook.com/100083194756904/",

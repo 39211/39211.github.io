@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-08-20T22:33:46.069Z
+- Generated at: 2026-08-21T02:13:26.733Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -136,6 +136,11 @@
       "closes": "18:00"
     }
   ],
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 24.1780524,
+    "longitude": 120.6420289
+  },
   "hasMap": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
   "sameAs": [
     "https://www.facebook.com/100083194756904/",
