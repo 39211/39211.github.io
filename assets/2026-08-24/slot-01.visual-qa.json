@@ -1,0 +1,77 @@
+{
+  "topic": "可收藏：皮鞋刮痕補色，送洗前先看三個位置",
+  "date": "2026-08-24",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆顯示同一雙棕色皮革繫帶鞋，鞋型與磨損特徵一致。",
+    "SCENE": "四張皆位於粉紅格紋墊與白色槽板牆的同一櫃檯環境。",
+    "TOPIC_MATCH": "畫面中的物件皆為棕色皮鞋，符合主題對象。"
+  },
+  "frames_used": [
+    "IMAGE_1",
+    "IMAGE_2",
+    "IMAGE_3",
+    "IMAGE_4"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-01.png",
+      "canary": "49WX",
+      "sha256": "7fa7c010a1a9dc3c6e313ca5237f409e4f6bd30842ccf1012b39f10f36abab3d"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-01-slide-02.png",
+      "canary": "P8LX",
+      "sha256": "121e5373cdd1d65db5c846cf4cf86b6ccd2141aa1fbc4f397eea50bbd0d89ebd"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-01-slide-03.png",
+      "canary": "GK8J",
+      "sha256": "fb5ce6b432e662ec0ce6b5c95f6a1125bdc13370d7f0cffb99c403b2e03d3f11"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-01-slide-04.png",
+      "canary": "J2C4",
+      "sha256": "b90c7c948a0ed2a10dba4e5eda568f4366a0562a628dc6084adc2c7270eb87b7"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "49WX",
+    "IMAGE_2": "P8LX",
+    "IMAGE_3": "GK8J",
+    "IMAGE_4": "J2C4"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "49WX",
+    "IMAGE_2": "P8LX",
+    "IMAGE_3": "GK8J",
+    "IMAGE_4": "J2C4"
+  },
+  "prompt_hash": "e857e9b9c76c7ee3b63757288c67ddbe72137060ed3bef2f4e4a4b1d59a0b37c",
+  "run_id": "carousel-qa-1787288557613",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-21T05:02:37.628Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

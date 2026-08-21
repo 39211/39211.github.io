@@ -1,0 +1,77 @@
+{
+  "topic": "細節拆解：LINE傳照片時先補三個資訊，先看容易忽略的位置",
+  "date": "2026-08-24",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "不同投影片呈現不同顏色的襯衫，並非同一件未變的實體物件。",
+    "SCENE": "四張照片都在同一類粉紅裁切墊與格柵牆工作檯環境拍攝。",
+    "TOPIC_MATCH": "主題沒有明確物件詞，因此不判定物件不匹配。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-02.png",
+      "canary": "PREE",
+      "sha256": "92f163724fd82114942bd9debc9b2ba1bb999a300a645e9c5dfc5aef2c816be3"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-02-slide-02.png",
+      "canary": "GKLL",
+      "sha256": "8c9e7385da92b970795fd456c8696a6aed409ea9cbc33aefe0756445f6b37c48"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-02-slide-03.png",
+      "canary": "HPHD",
+      "sha256": "b8d1c61dfe80bd39470eaac4c95a84b8c0234abd900e4e56085e2f9f84f7d403"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-02-slide-04.png",
+      "canary": "HFYP",
+      "sha256": "78fc052944f8c701c1298710afe1ff1f113b196b104015039c31a05ef8eeacb3"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-08-24\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "PREE",
+    "IMAGE_2": "GKLL",
+    "IMAGE_3": "HPHD",
+    "IMAGE_4": "HFYP"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "PREE",
+    "IMAGE_2": "GKLL",
+    "IMAGE_3": "HPHD",
+    "IMAGE_4": "HFYP"
+  },
+  "prompt_hash": "de12d5fc38c1c7627e4eb6e831716606c8e74be2323bb5407a34aac3bec47494",
+  "run_id": "carousel-qa-1787289451150",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-21T05:17:31.164Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
