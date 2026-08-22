@@ -3213,6 +3213,127 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json#post-2026-08-22-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-08-22-slot-01.html",
+      "title": "2026-08-22 11:30 童鞋開學檢查",
+      "date_published": "2026-08-22T11:30:00+08:00",
+      "content_text": "童鞋開學檢查，先看鞋口內裡和鞋底邊。\n\n暑假穿過的上學鞋，鞋口那圈汗漬和鞋底邊泥灰最先出來。看起來還能穿，硬刷只會把鞋口刷毛。\n\n我會先翻開鞋口看內裡是新汗還是已經悶黃的舊痕，再看鞋底邊和鞋頭黏合。開學前先處理，比開學當天再急好多了。\n\n開學前想先整理？拍一張傳 LINE，我們先幫你看鞋口那種悶。\n\n你家那雙上學鞋，鞋口有沒有開始黃？\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理童鞋和開學檢查的判斷。\n\n參考價：童鞋 $150（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #童鞋清潔 #開學準備 #鞋子除味 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "summary": "童鞋開學檢查",
+      "image": "https://sixiangjialaundry.com/assets/2026-08-22/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "童鞋清潔",
+        "開學準備",
+        "鞋子除味",
+        "台中洗鞋",
+        "洗鞋推薦",
+        "球鞋清洗",
+        "台中洗衣店",
+        "西屯",
+        "逢甲",
+        "台中"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "object-proof",
+        "content_role": "reach-answer",
+        "search_intent": "problem-diagnosis",
+        "target_queries": [
+          "童鞋送洗",
+          "台中洗童鞋",
+          "開學前鞋子怎麼整理",
+          "童鞋內裡發黃"
+        ],
+        "evidence_type": "first-party-inspection",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json#post-2026-08-22-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-08-22-slot-02.html",
+      "title": "2026-08-22 20:30 細節拆解：牛仔褲膝蓋與口袋味道，先看容易忽略的位置",
+      "date_published": "2026-08-22T20:30:00+08:00",
+      "content_text": "牛仔褲膝蓋與口袋味道，先看容易忽略的位置。\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。\n\n你換季整理最卡關的是哪一步？\n\n家裡負責收衣服的那位，這篇傳給他。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #牛仔褲保養 #衣物清洗 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
+      "summary": "細節拆解：牛仔褲膝蓋與口袋味道，先看容易忽略的位置",
+      "image": "https://sixiangjialaundry.com/assets/2026-08-22/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "牛仔褲保養",
+        "衣物清洗",
+        "洗包包",
+        "精品包保養",
+        "名牌包清潔",
+        "台中洗衣店",
+        "西屯",
+        "逢甲",
+        "台中"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "dwell-detail",
+        "content_role": "evidence-conversion",
+        "search_intent": "aftercare",
+        "target_queries": [
+          "台中棉被清洗",
+          "台中床組清洗",
+          "鞋子淋雨後怎麼收",
+          "棉被收納前要洗嗎"
+        ],
+        "evidence_type": "customer-question",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json#post-2026-08-22-slot-03",
+      "url": "https://sixiangjialaundry.com/posts/2026-08-22-slot-03.html",
+      "title": "2026-08-22 12:00 牛仔褲膝蓋鬆掉",
+      "date_published": "2026-08-22T12:00:00+08:00",
+      "content_text": "牛仔褲膝蓋鬆掉。\n\n布被撐開之後就回不去了,洗過也只會縮回一部分而已。想留住版型,別等到整片都發白了才送過來。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "summary": "牛仔褲膝蓋鬆掉",
+      "image": "https://sixiangjialaundry.com/assets/2026-08-22/slot-03.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "台中免費收送",
+        "洗護日常",
+        "棉被送洗",
+        "寢具清潔",
+        "換季收納",
+        "台中洗衣店",
+        "西屯",
+        "逢甲",
+        "台中"
+      ],
+      "_sixiangjia": {
+        "slot": 3,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json"
+      }
     }
   ]
 }

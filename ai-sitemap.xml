@@ -86,6 +86,7 @@
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-08-19.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-08-20.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-08-21.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
+  <url><loc>https://sixiangjialaundry.com/content-calendar/2026-08-22.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-02/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-02/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-03/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
@@ -183,4 +184,7 @@
   <url><loc>https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-08-21/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png</loc><changefreq>daily</changefreq><!-- image-slot-3 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-08-22/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-08-22/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-08-22/slot-03.png</loc><changefreq>daily</changefreq><!-- image-slot-3 --></url>
 </urlset>

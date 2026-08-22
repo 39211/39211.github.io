@@ -101,6 +101,31 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-22 12:00 牛仔褲膝蓋鬆掉](https://sixiangjialaundry.com/posts/2026-08-22-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-22/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-22/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-22.json
+- [2026-08-22 20:30 細節拆解：牛仔褲膝蓋與口袋味道，先看容易忽略的位置](https://sixiangjialaundry.com/posts/2026-08-22-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=aftercare
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #牛仔褲保養 #衣物清洗 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-22/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-22.json
+- [2026-08-22 11:30 童鞋開學檢查](https://sixiangjialaundry.com/posts/2026-08-22-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=problem-diagnosis
+  target_queries: 童鞋送洗 | 台中洗童鞋 | 開學前鞋子怎麼整理 | 童鞋內裡發黃
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #童鞋清潔 #開學準備 #鞋子除味 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-22/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-22.json
 - [2026-08-21 12:00 皮帶摺痕發白裂](https://sixiangjialaundry.com/posts/2026-08-21-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)

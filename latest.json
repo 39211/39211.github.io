@@ -1,41 +1,41 @@
 {
-  "generated_at": "2026-08-21T22:47:00.058Z",
+  "generated_at": "2026-08-22T03:30:37.176Z",
   "site_name": "私享家洗衣店",
   "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
   "base_url": "https://sixiangjialaundry.com",
   "base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-01",
-      "date": "2026-08-21",
-      "date_published": "2026-08-21T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json#post-2026-08-22-slot-01",
+      "date": "2026-08-22",
+      "date_published": "2026-08-22T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
       "category": "知識文",
-      "title": "2026-08-21 11:30 開學前學生制服檢查",
-      "topic": "開學前學生制服檢查",
+      "title": "2026-08-22 11:30 童鞋開學檢查",
+      "topic": "童鞋開學檢查",
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "學生制服 送洗",
-        "台中制服清洗",
-        "開學前制服怎麼整理",
-        "制服領口發黃"
+        "童鞋送洗",
+        "台中洗童鞋",
+        "開學前鞋子怎麼整理",
+        "童鞋內裡發黃"
       ],
       "evidence_type": "first-party-inspection",
       "hashtags": [
         "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#學生制服",
-        "#制服清洗",
-        "#衣物送洗",
-        "#乾洗",
-        "#台中乾洗",
+        "#童鞋清潔",
+        "#開學準備",
+        "#鞋子除味",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
         "#台中洗衣店",
         "#西屯",
         "#逢甲",
@@ -46,73 +46,73 @@
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-08-21/slot-01.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png",
+      "image_path": "assets/2026-08-22/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-22/slot-01.png",
       "image_paths": [
-        "assets/2026-08-21/slot-01.png",
-        "assets/2026-08-21/slot-01-slide-02.png",
-        "assets/2026-08-21/slot-01-slide-03.png",
-        "assets/2026-08-21/slot-01-slide-04.png"
+        "assets/2026-08-22/slot-01.png",
+        "assets/2026-08-22/slot-01-slide-02.png",
+        "assets/2026-08-22/slot-01-slide-03.png",
+        "assets/2026-08-22/slot-01-slide-04.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-08-22/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-08-22/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-22/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-22/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
-          "image_prompt": "OBJECT PASSPORT: exactly one Taiwan school uniform set: one white short-sleeve sailor-collar blouse with a red neckerchief and one khaki pleated skirt (object locked as one school uniform set, not a clinic uniform, not a lab coat, not a dress shirt, not a nurse uniform); color/material: white poly-cotton sailor blouse and khaki pleated skirt; wear marks: collar-inner yellowing and cuff oil darkening from summer wear. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of 開學前學生制服檢查 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
-          "local_image_path": "docs/assets/2026-08-21/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png"
+          "image_prompt": "OBJECT PASSPORT: exactly one paired set of two kids sneakers (object locked as kids sneakers); color/material: kids sneakers; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, glass display shelves with rows of cleaned sneakers softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of 童鞋開學檢查 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
+          "local_image_path": "docs/assets/2026-08-22/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-22/slot-01.png"
         },
         {
           "slide": 2,
-          "image_prompt": "OBJECT PASSPORT: exactly one Taiwan school uniform set: one white short-sleeve sailor-collar blouse with a red neckerchief and one khaki pleated skirt (object locked as one school uniform set, not a clinic uniform, not a lab coat, not a dress shirt, not a nurse uniform); color/material: white poly-cotton sailor blouse and khaki pleated skirt; wear marks: collar-inner yellowing and cuff oil darkening from summer wear. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 2 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Overall closer look at the complete passport item so fabric grain, seams and full silhouette stay readable.",
-          "local_image_path": "docs/assets/2026-08-21/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-02.png"
+          "image_prompt": "OBJECT PASSPORT: exactly one paired set of two kids sneakers (object locked as kids sneakers); color/material: kids sneakers; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, glass display shelves with rows of cleaned sneakers softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 2 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Overall closer look at the complete passport item so fabric grain, seams and full silhouette stay readable.",
+          "local_image_path": "docs/assets/2026-08-22/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-22/slot-01-slide-02.png"
         },
         {
           "slide": 3,
-          "image_prompt": "OBJECT PASSPORT: exactly one Taiwan school uniform set: one white short-sleeve sailor-collar blouse with a red neckerchief and one khaki pleated skirt (object locked as one school uniform set, not a clinic uniform, not a lab coat, not a dress shirt, not a nurse uniform); color/material: white poly-cotton sailor blouse and khaki pleated skirt; wear marks: collar-inner yellowing and cuff oil darkening from summer wear. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 3 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Tight close-up of the problem area named by the topic; the wear marks fill the frame.",
-          "local_image_path": "docs/assets/2026-08-21/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-03.png"
+          "image_prompt": "OBJECT PASSPORT: exactly one paired set of two kids sneakers (object locked as kids sneakers); color/material: kids sneakers; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, glass display shelves with rows of cleaned sneakers softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 3 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Tight close-up of the problem area named by the topic; the wear marks fill the frame.",
+          "local_image_path": "docs/assets/2026-08-22/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-22/slot-01-slide-03.png"
         },
         {
           "slide": 4,
-          "image_prompt": "OBJECT PASSPORT: exactly one Taiwan school uniform set: one white short-sleeve sailor-collar blouse with a red neckerchief and one khaki pleated skirt (object locked as one school uniform set, not a clinic uniform, not a lab coat, not a dress shirt, not a nurse uniform); color/material: white poly-cotton sailor blouse and khaki pleated skirt; wear marks: collar-inner yellowing and cuff oil darkening from summer wear. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 4 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Same-counter after-treatment or before/after comparison of the identical physical item; do not introduce a second garment.",
-          "local_image_path": "docs/assets/2026-08-21/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-04.png"
+          "image_prompt": "OBJECT PASSPORT: exactly one paired set of two kids sneakers (object locked as kids sneakers); color/material: kids sneakers; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, glass display shelves with rows of cleaned sneakers softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 4 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Same-counter after-treatment or before/after comparison of the identical physical item; do not introduce a second garment.",
+          "local_image_path": "docs/assets/2026-08-22/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-22/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
       "video_path": "",
       "video_url": "",
-      "calendar_path": "content-calendar/2026-08-21.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json",
-      "article_path": "posts/2026-08-21-slot-01.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-21-slot-01.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-01",
-      "facebook_caption": "開學前學生制服檢查，先看領口內側和袖口。\n\n暑假穿過的制服，領口那圈黃和袖口油汗最先出來。看起來還能穿，先燙會把黃痕定死。\n\n我會先翻領口內側看黃是新皮脂還是已經氧化的舊痕，再看袖口和腋下。順序是先處理再整燙。\n\n開學前想先整理？拍一張傳 LINE，我們先幫你看領口那種黃。\n\n你家那套制服，領口有沒有開始黃？\n\n追蹤私享家，之後會持續整理學生制服和開學檢查的判斷。\n\n參考價：襯衫 $70、整燙 $50（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #學生制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "開學前學生制服檢查，先看領口內側和袖口。\n\n暑假穿過的制服，領口那圈黃和袖口油汗最先出來。看起來還能穿，先燙會把黃痕定死。\n\n我會先翻領口內側看黃是新皮脂還是已經氧化的舊痕，再看袖口和腋下。順序是先處理再整燙。\n\n開學前想先整理？拍一張私訊，我們先幫你看領口那種黃。\n\n你家那套制服，領口有沒有開始黃？\n\n追蹤私享家，之後會持續整理學生制服和開學檢查的判斷。\n\n參考價：襯衫 $70、整燙 $50（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #學生制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中"
+      "calendar_path": "content-calendar/2026-08-22.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json",
+      "article_path": "posts/2026-08-22-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-22-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json#post-2026-08-22-slot-01",
+      "facebook_caption": "童鞋開學檢查，先看鞋口內裡和鞋底邊。\n\n暑假穿過的上學鞋，鞋口那圈汗漬和鞋底邊泥灰最先出來。看起來還能穿，硬刷只會把鞋口刷毛。\n\n我會先翻開鞋口看內裡是新汗還是已經悶黃的舊痕，再看鞋底邊和鞋頭黏合。開學前先處理，比開學當天再急好多了。\n\n開學前想先整理？拍一張傳 LINE，我們先幫你看鞋口那種悶。\n\n你家那雙上學鞋，鞋口有沒有開始黃？\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理童鞋和開學檢查的判斷。\n\n參考價：童鞋 $150（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #童鞋清潔 #開學準備 #鞋子除味 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "童鞋開學檢查，先看鞋口內裡和鞋底邊。\n\n暑假穿過的上學鞋，鞋口那圈汗漬和鞋底邊泥灰最先出來。看起來還能穿，硬刷只會把鞋口刷毛。\n\n我會先翻開鞋口看內裡是新汗還是已經悶黃的舊痕，再看鞋底邊和鞋頭黏合。開學前先處理，比開學當天再急好多了。\n\n開學前想先整理？拍一張私訊，我們先幫你看鞋口那種悶。\n\n你家那雙上學鞋，鞋口有沒有開始黃？\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理童鞋和開學檢查的判斷。\n\n參考價：童鞋 $150（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #童鞋清潔 #開學準備 #鞋子除味 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-02",
-      "date": "2026-08-21",
-      "date_published": "2026-08-21T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json#post-2026-08-22-slot-02",
+      "date": "2026-08-22",
+      "date_published": "2026-08-22T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
       "category": "情境文",
-      "title": "2026-08-21 20:30 細節拆解：絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置",
-      "topic": "細節拆解：絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置",
-      "visual_route": "customer-consultation",
-      "traffic_route": "object-proof",
+      "title": "2026-08-22 20:30 細節拆解：牛仔褲膝蓋與口袋味道，先看容易忽略的位置",
+      "topic": "細節拆解：牛仔褲膝蓋與口袋味道，先看容易忽略的位置",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
       "content_role": "evidence-conversion",
       "search_intent": "aftercare",
       "target_queries": [
-        "台中娃娃清洗",
-        "台中布偶清潔",
+        "台中棉被清洗",
+        "台中床組清洗",
         "鞋子淋雨後怎麼收",
         "棉被收納前要洗嗎"
       ],
@@ -120,9 +120,11 @@
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#娃娃清洗",
-        "#絨毛玩偶清潔",
-        "#絨毛娃娃",
+        "#牛仔褲保養",
+        "#衣物清洗",
+        "#洗包包",
+        "#精品包保養",
+        "#名牌包清潔",
         "#台中洗衣店",
         "#西屯",
         "#逢甲",
@@ -133,41 +135,41 @@
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-08-21/slot-02.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-02.png",
+      "image_path": "assets/2026-08-22/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-22/slot-02.png",
       "image_paths": [
-        "assets/2026-08-21/slot-02.png",
-        "assets/2026-08-21/slot-02-slide-02.png",
-        "assets/2026-08-21/slot-02-slide-03.png",
-        "assets/2026-08-21/slot-02-slide-04.png"
+        "assets/2026-08-22/slot-02.png",
+        "assets/2026-08-22/slot-02-slide-02.png",
+        "assets/2026-08-22/slot-02-slide-03.png",
+        "assets/2026-08-22/slot-02-slide-04.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-02-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-02-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-02-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-08-22/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-22/slot-02-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-22/slot-02-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-22/slot-02-slide-04.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
-      "calendar_path": "content-calendar/2026-08-21.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json",
-      "article_path": "posts/2026-08-21-slot-02.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-21-slot-02.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-02",
-      "facebook_caption": "絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置。\n\n娃娃可以洗，但不能當一般衣服洗。填充和五官最怕脫水那一段。\n\n娃娃我會先看五官是繡的還是黏的。黏的那種怕水也怕脫水，得換一種洗法。\n\n家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n衣櫃塞到關不起來的朋友，這篇傳給他。\n\n追蹤私享家，之後會持續整理娃娃、布偶與絨毛玩偶的清潔判斷。\n\n參考價：絨毛娃娃依大小報價，LINE 傳照片先估\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #娃娃清洗 #絨毛玩偶清潔 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置。\n\n娃娃可以洗，但不能當一般衣服洗。填充和五官最怕脫水那一段。\n\n娃娃我會先看五官是繡的還是黏的。黏的那種怕水也怕脫水，得換一種洗法。\n\n家裡有不敢洗的娃娃？拍一張私訊，我們先幫你看能不能洗。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n衣櫃塞到關不起來的朋友，這篇傳給他。\n\n追蹤私享家，之後會持續整理娃娃、布偶與絨毛玩偶的清潔判斷。\n\n參考價：絨毛娃娃依大小報價，LINE 傳照片先估\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #娃娃清洗 #絨毛玩偶清潔 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中"
+      "calendar_path": "content-calendar/2026-08-22.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json",
+      "article_path": "posts/2026-08-22-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-22-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json#post-2026-08-22-slot-02",
+      "facebook_caption": "牛仔褲膝蓋與口袋味道，先看容易忽略的位置。\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。\n\n你換季整理最卡關的是哪一步？\n\n家裡負責收衣服的那位，這篇傳給他。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #牛仔褲保養 #衣物清洗 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "牛仔褲膝蓋與口袋味道，先看容易忽略的位置。\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張私訊，我們老實跟你說。\n\n你換季整理最卡關的是哪一步？\n\n家裡負責收衣服的那位，這篇傳給他。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #牛仔褲保養 #衣物清洗 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-03",
-      "date": "2026-08-21",
-      "date_published": "2026-08-21T12:00:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json#post-2026-08-22-slot-03",
+      "date": "2026-08-22",
+      "date_published": "2026-08-22T12:00:00+08:00",
       "slot": 3,
       "time": "12:00",
       "category": "情境文",
-      "title": "2026-08-21 12:00 皮帶摺痕發白裂",
-      "topic": "皮帶摺痕發白裂",
+      "title": "2026-08-22 12:00 牛仔褲膝蓋鬆掉",
+      "topic": "牛仔褲膝蓋鬆掉",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
@@ -179,6 +181,9 @@
         "#台中西屯洗衣店",
         "#台中免費收送",
         "#洗護日常",
+        "#棉被送洗",
+        "#寢具清潔",
+        "#換季收納",
         "#台中洗衣店",
         "#西屯",
         "#逢甲",
@@ -189,25 +194,25 @@
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-08-21/slot-03.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png",
+      "image_path": "assets/2026-08-22/slot-03.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-22/slot-03.png",
       "image_paths": [
-        "assets/2026-08-21/slot-03.png"
+        "assets/2026-08-22/slot-03.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png"
+        "https://sixiangjialaundry.com/assets/2026-08-22/slot-03.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_path": "assets/2026-08-21/slot-03.mp4",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.mp4",
-      "calendar_path": "content-calendar/2026-08-21.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json",
-      "article_path": "posts/2026-08-21-slot-03.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-21-slot-03.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-03",
-      "facebook_caption": "老是扣同一格,那一摺的塗層會最先斷開來。\n\n清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。\n\n皮帶摺痕發白裂。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "老是扣同一格,那一摺的塗層會最先斷開來。\n\n清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。\n\n皮帶摺痕發白裂。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中"
+      "video_path": "assets/2026-08-22/slot-03.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-08-22/slot-03.mp4",
+      "calendar_path": "content-calendar/2026-08-22.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json",
+      "article_path": "posts/2026-08-22-slot-03.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-22-slot-03.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-22.json#post-2026-08-22-slot-03",
+      "facebook_caption": "牛仔褲膝蓋鬆掉。\n\n布被撐開之後就回不去了,洗過也只會縮回一部分而已。想留住版型,別等到整片都發白了才送過來。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "牛仔褲膝蓋鬆掉。\n\n布被撐開之後就回不去了,洗過也只會縮回一部分而已。想留住版型,別等到整片都發白了才送過來。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
     }
   ]
 }
