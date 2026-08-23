@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-22T12:30:21.201Z",
+  "generated_at": "2026-08-23T03:50:20.240Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -544,6 +544,12 @@
           "title": "台中洗衣、洗鞋、洗包與免費收送怎麼找？｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html",
           "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送"
+        },
+        {
+          "slug": "clothing-alteration-with-laundry",
+          "title": "送洗順便改衣服，可以一起處理嗎？｜私享家洗衣店",
+          "url": "https://sixiangjialaundry.com/guides/clothing-alteration-with-laundry.html",
+          "local_intent": "台中西屯 送洗 改衣服 修改"
         }
       ],
       "local_business": {

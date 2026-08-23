@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-22T12:30:21.201Z",
+  "generated_at": "2026-08-23T03:50:20.240Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -1039,6 +1039,48 @@
         "台中娃娃清洗",
         "台中精品乾洗",
         "台中洗衣免費收送"
+      ]
+    },
+    {
+      "query": "台中西屯 送洗 改衣服 修改",
+      "service": "台中西屯洗衣店",
+      "area": "台中西屯",
+      "url": "https://sixiangjialaundry.com/guides/clothing-alteration-with-laundry.html",
+      "answer_summary": "送洗時若同時需要修改，可以一起收送，但先分清楚是小修還是版型調整。",
+      "keywords": [
+        "洗衣改衣服",
+        "台中改衣服",
+        "西屯改衣服",
+        "送洗修改一起處理",
+        "改褲管"
+      ]
+    },
+    {
+      "query": "青海路二段 送洗 改衣服 修改",
+      "service": "台中西屯洗衣店",
+      "area": "青海路二段",
+      "url": "https://sixiangjialaundry.com/guides/clothing-alteration-with-laundry.html",
+      "answer_summary": "送洗時若同時需要修改，可以一起收送，但先分清楚是小修還是版型調整。",
+      "keywords": [
+        "洗衣改衣服",
+        "台中改衣服",
+        "西屯改衣服",
+        "送洗修改一起處理",
+        "改褲管"
+      ]
+    },
+    {
+      "query": "至善里 送洗 改衣服 修改",
+      "service": "台中西屯洗衣店",
+      "area": "至善里",
+      "url": "https://sixiangjialaundry.com/guides/clothing-alteration-with-laundry.html",
+      "answer_summary": "送洗時若同時需要修改，可以一起收送，但先分清楚是小修還是版型調整。",
+      "keywords": [
+        "洗衣改衣服",
+        "台中改衣服",
+        "西屯改衣服",
+        "送洗修改一起處理",
+        "改褲管"
       ]
     },
     {
