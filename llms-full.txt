@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-08-23T12:50:11.803Z
+- Generated at: 2026-08-24T03:50:22.236Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -253,6 +253,9 @@
     "https://sixiangjialaundry.com/assets/2026-08-23/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-08-23/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-08-23/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-08-24/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-08-24/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-08-24/slot-03.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -5314,4 +5317,161 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-24 11:30 可收藏：皮鞋刮痕補色，送洗前先看三個位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-01
+- published local time: 2026-08-24T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: value-prop-lead
+- search_intent: problem-diagnosis
+- target_queries: 台中洗鞋店 | 台中洗包包 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-24/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-24.json
+
+Facebook caption:
+
+皮鞋刮痕補色，送洗前先看三個位置。
+
+鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。
+
+鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。
+
+想問問看能處理到什麼程度？拍一張傳 LINE就可以。
+
+你多久整理一次鞋子？
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+皮鞋刮痕補色，送洗前先看三個位置。
+
+鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。
+
+鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。
+
+想問問看能處理到什麼程度？拍一張私訊就可以。
+
+你多久整理一次鞋子？
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-24 20:30 細節拆解：LINE傳照片時先補三個資訊，先看容易忽略的位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-02
+- published local time: 2026-08-24T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: value-prop-lead
+- search_intent: trust-proof
+- target_queries: 送洗前怎麼拍照 | 洗衣店 LINE 詢問 | 台中洗鞋推薦 | 西屯乾洗店推薦
+- evidence_type: real-case-photo
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #LINE詢問 #送洗前拍照 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-24/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-24.json
+
+Facebook caption:
+
+LINE傳照片時先補三個資訊，先看容易忽略的位置。
+
+沾到當天和放了兩週，能不能救差很多。時間是最關鍵的一個條件。
+
+我會先問這件多久沒整理了。有些痕跡還浮在上面，有些已經跟纖維結在一起。
+
+想先問問看再決定？拍一張傳 LINE，我們幫你判斷。
+
+你上次遇到不確定能不能洗的，最後怎麼處理？
+
+那個每次換季都說「下週再整理」的人，傳給他。
+
+追蹤私享家，之後會持續整理台中西屯在地送洗前的實用判斷。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #LINE詢問 #送洗前拍照 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+LINE傳照片時先補三個資訊，先看容易忽略的位置。
+
+沾到當天和放了兩週，能不能救差很多。時間是最關鍵的一個條件。
+
+我會先問這件多久沒整理了。有些痕跡還浮在上面，有些已經跟纖維結在一起。
+
+想先問問看再決定？拍一張私訊，我們幫你判斷。
+
+你上次遇到不確定能不能洗的，最後怎麼處理？
+
+那個每次換季都說「下週再整理」的人，傳給他。
+
+追蹤私享家，之後會持續整理台中西屯在地送洗前的實用判斷。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #LINE詢問 #送洗前拍照 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-24 12:00 手工洗護,一雙一雙來
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-03
+- published local time: 2026-08-24T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #手工洗鞋 #台中洗鞋 #洗鞋推薦 #白鞋清洗 #開學準備 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-24/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-24.json
+
+Facebook caption:
+
+手工洗護,一雙一雙來。
+
+機器洗不出來的,是判斷。每一雙進來的鞋,師傅先看材質、看髒在哪,再決定怎麼下手——刷毛的方向、水溫、晾的方式,都不一樣。
+
+開學前這幾天,鞋房都是小孩的白鞋。要一起洗的現在正好。
+
+參考價:童鞋 $150、運動鞋 $250 起,台中免費到府收送。
+
+你家的鞋多久洗一次?
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post-poster(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #手工洗鞋 #台中洗鞋 #洗鞋推薦 #白鞋清洗 #開學準備 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+手工洗護,一雙一雙來。
+
+機器洗不出來的,是判斷。每一雙進來的鞋,師傅先看材質、看髒在哪,再決定怎麼下手——刷毛的方向、水溫、晾的方式,都不一樣。
+
+開學前這幾天,鞋房都是小孩的白鞋。要一起洗的現在正好。
+
+參考價:童鞋 $150、運動鞋 $250 起,台中免費到府收送。
+
+你家的鞋多久洗一次?
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post-poster(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #手工洗鞋 #台中洗鞋 #洗鞋推薦 #白鞋清洗 #開學準備 #西屯 #逢甲 #台中
 

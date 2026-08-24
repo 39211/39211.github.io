@@ -197,6 +197,9 @@
         "https://sixiangjialaundry.com/assets/2026-08-23/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-08-23/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-08-23/slot-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-24/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-08-24/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-24/slot-03.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -357,7 +360,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-08-23"
+      "dateModified": "2026-08-24"
     },
     {
       "@type": "FAQPage",
@@ -418,7 +421,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-08-23",
+      "dateModified": "2026-08-24",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -6327,6 +6330,119 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-23/slot-03.png",
       "url": "https://sixiangjialaundry.com/assets/2026-08-23/slot-03.png",
       "caption": "長夾邊角開始起毛",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-01",
+      "headline": "2026-08-24 11:30 可收藏：皮鞋刮痕補色，送洗前先看三個位置",
+      "text": "皮鞋刮痕補色，送洗前先看三個位置。\n\n鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。\n\n鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。\n\n想問問看能處理到什麼程度？拍一張傳 LINE就可以。\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-24T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-24/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-01.png",
+      "caption": "可收藏：皮鞋刮痕補色，送洗前先看三個位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-02",
+      "headline": "2026-08-24 20:30 細節拆解：LINE傳照片時先補三個資訊，先看容易忽略的位置",
+      "text": "LINE傳照片時先補三個資訊，先看容易忽略的位置。\n\n沾到當天和放了兩週，能不能救差很多。時間是最關鍵的一個條件。\n\n我會先問這件多久沒整理了。有些痕跡還浮在上面，有些已經跟纖維結在一起。\n\n想先問問看再決定？拍一張傳 LINE，我們幫你判斷。\n\n你上次遇到不確定能不能洗的，最後怎麼處理？\n\n那個每次換季都說「下週再整理」的人，傳給他。\n\n追蹤私享家，之後會持續整理台中西屯在地送洗前的實用判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #LINE詢問 #送洗前拍照 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-24T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#LINE詢問",
+        "#送洗前拍照",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-24/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-02.png",
+      "caption": "細節拆解：LINE傳照片時先補三個資訊，先看容易忽略的位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-03",
+      "headline": "2026-08-24 12:00 手工洗護,一雙一雙來",
+      "text": "手工洗護,一雙一雙來。\n\n機器洗不出來的,是判斷。每一雙進來的鞋,師傅先看材質、看髒在哪,再決定怎麼下手——刷毛的方向、水溫、晾的方式,都不一樣。\n\n開學前這幾天,鞋房都是小孩的白鞋。要一起洗的現在正好。\n\n參考價:童鞋 $150、運動鞋 $250 起,台中免費到府收送。\n\n你家的鞋多久洗一次?\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post-poster(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #手工洗鞋 #台中洗鞋 #洗鞋推薦 #白鞋清洗 #開學準備 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-24T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#手工洗鞋",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#白鞋清洗",
+        "#開學準備",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-24.json#post-2026-08-24-slot-03:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-24/slot-03.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-03.png",
+      "caption": "手工洗護,一雙一雙來",
       "inLanguage": "zh-Hant"
     }
   ]

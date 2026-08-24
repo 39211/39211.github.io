@@ -1,0 +1,206 @@
+{
+  "date": "2026-08-24",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-08-21T04:53:38.678Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "可收藏：皮鞋刮痕補色，送洗前先看三個位置",
+      "format": "image-post",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "皮鞋刮痕補色，送洗前先看三個位置。\n\n鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。\n\n鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。\n\n想問問看能處理到什麼程度？拍一張私訊就可以。\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "facebook_caption": "皮鞋刮痕補色，送洗前先看三個位置。\n\n鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。\n\n鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。\n\n想問問看能處理到什麼程度？拍一張傳 LINE就可以。\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "image_prompt": "OBJECT PASSPORT: exactly one paired set of two dark brown leather dress shoes (object locked as dark brown leather dress shoes); color/material: dark brown leather dress shoes; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of 皮鞋刮痕補色，送洗前先看三個位置 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "OBJECT PASSPORT: exactly one paired set of two dark brown leather dress shoes (object locked as dark brown leather dress shoes); color/material: dark brown leather dress shoes; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of 皮鞋刮痕補色，送洗前先看三個位置 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
+          "local_image_path": "docs/assets/2026-08-24/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "OBJECT PASSPORT: exactly one paired set of two dark brown leather dress shoes (object locked as dark brown leather dress shoes); color/material: dark brown leather dress shoes; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 2 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Close-up of checkpoint 1: inner lining. Keep the rest of the same item recognizable at the frame edge.",
+          "local_image_path": "docs/assets/2026-08-24/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "OBJECT PASSPORT: exactly one paired set of two dark brown leather dress shoes (object locked as dark brown leather dress shoes); color/material: dark brown leather dress shoes; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 3 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Tight close-up of the problem area named by the topic; the wear marks fill the frame.",
+          "local_image_path": "docs/assets/2026-08-24/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "OBJECT PASSPORT: exactly one paired set of two dark brown leather dress shoes (object locked as dark brown leather dress shoes); color/material: dark brown leather dress shoes; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 4 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Same-counter after-treatment or before/after comparison of the identical physical item; do not introduce a second garment.",
+          "local_image_path": "docs/assets/2026-08-24/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-01-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot about 鞋子. Fixed close camera with layered depth: exactly one paired set of unbranded sneakers in the foreground, the right shoe opening angled away from camera, a clean inspection tray in the midground, and one softly glowing practical lamp in the background. One adult hand performs one dominant action only: rotate only the right shoe about thirty degrees until its opening and heel lining face the camera; the left shoe remains stationary. Preserve exactly two shoes with complete laces, tongues, soles and heel geometry, five fingers, realistic weight and contact shadows. No cleaning transformation, no extra hands, no duplicate object, no morphing, no penetration, no readable text, no logo, no watermark. End on the revealed detail and hold for one second.\n\nItem profile 2026-08-05-v1: 鞋子類：以鞋口內裡、鞋舌、鞋墊邊或鞋底邊為唯一焦點；只旋轉一隻鞋或抬起一個鞋舌，另一隻鞋、鞋帶、鞋底與膠合縫保持不動，不呈現清潔結果。",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "鞋子也可以送洗",
+        "conflict": "右腳鞋口仍朝側面，內裡與後跟位置第一眼看不完整。",
+        "single_action": "同一隻成人手只把右腳鞋旋轉約三十度，讓鞋口與後跟內裡朝向鏡頭；左腳鞋全程不動。",
+        "payoff": "先看材質、位置與原始狀態，再決定怎麼處理。",
+        "cta": "拍全貌、局部與洗標，點個人檔案連結加 LINE 先詢問。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式微距中近景；完整鞋子位於乾淨檢查台前景，檢查燈與收納托盤形成中後景層次；只有一隻手停在既有可動位置，物件數量、材質、縫線與接觸陰影清楚，無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese laundry inspection-counter shot about 鞋子. Fixed close camera with layered depth: exactly one paired set of unbranded sneakers in the foreground, the right shoe opening angled away from camera, a clean inspection tray in the midground, and one softly glowing practical lamp in the background. One adult hand performs one dominant action only: rotate only the right shoe about thirty degrees until its opening and heel lining face the camera; the left shoe remains stationary. Preserve exactly two shoes with complete laces, tongues, soles and heel geometry, five fingers, realistic weight and contact shadows. No cleaning transformation, no extra hands, no duplicate object, no morphing, no penetration, no readable text, no logo, no watermark. End on the revealed detail and hold for one second.\n\nItem profile 2026-08-05-v1: 鞋子類：以鞋口內裡、鞋舌、鞋墊邊或鞋底邊為唯一焦點；只旋轉一隻鞋或抬起一個鞋舌，另一隻鞋、鞋帶、鞋底與膠合縫保持不動，不呈現清潔結果。",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-07-29",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "views_target": 135,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。",
+      "seo_sync_page": "/services/shoe-bag-care.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋店",
+        "台中洗包包",
+        "白鞋泛黃怎麼辦",
+        "鞋子淋雨怎麼處理"
+      ],
+      "evidence_type": "first-party-inspection",
+      "ten_day_review_metric": "答案資產週：把高收藏、高分享與真實詢問題目寫成可索引答案頁；分開記錄搜尋 CTR、AI 品牌提及、引用率與被引用頁面。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-08-24/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-01.png",
+      "local_video_path": "docs/assets/2026-08-24/slot-01.mp4",
+      "public_video_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-01.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "細節拆解：LINE傳照片時先補三個資訊，先看容易忽略的位置",
+      "format": "image-post",
+      "media_type": "mixed-carousel",
+      "instagram_caption": "LINE傳照片時先補三個資訊，先看容易忽略的位置。\n\n沾到當天和放了兩週，能不能救差很多。時間是最關鍵的一個條件。\n\n我會先問這件多久沒整理了。有些痕跡還浮在上面，有些已經跟纖維結在一起。\n\n想先問問看再決定？拍一張私訊，我們幫你判斷。\n\n你上次遇到不確定能不能洗的，最後怎麼處理？\n\n那個每次換季都說「下週再整理」的人，傳給他。\n\n追蹤私享家，之後會持續整理台中西屯在地送洗前的實用判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #LINE詢問 #送洗前拍照 #台中洗衣店 #西屯 #逢甲 #台中",
+      "facebook_caption": "LINE傳照片時先補三個資訊，先看容易忽略的位置。\n\n沾到當天和放了兩週，能不能救差很多。時間是最關鍵的一個條件。\n\n我會先問這件多久沒整理了。有些痕跡還浮在上面，有些已經跟纖維結在一起。\n\n想先問問看再決定？拍一張傳 LINE，我們幫你判斷。\n\n你上次遇到不確定能不能洗的，最後怎麼處理？\n\n那個每次換季都說「下週再整理」的人，傳給他。\n\n追蹤私享家，之後會持續整理台中西屯在地送洗前的實用判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #LINE詢問 #送洗前拍照 #台中洗衣店 #西屯 #逢甲 #台中",
+      "image_prompt": "OBJECT PASSPORT: exactly one complete worn laundry item matching the topic (object locked to the single item the topic names); color/material: honest used fabric; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of LINE傳照片時先補三個資訊，先看容易忽略的位置 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "OBJECT PASSPORT: exactly one complete worn laundry item matching the topic (object locked to the single item the topic names); color/material: honest used fabric; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of LINE傳照片時先補三個資訊，先看容易忽略的位置 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
+          "local_image_path": "docs/assets/2026-08-24/slot-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-02.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "OBJECT PASSPORT: exactly one complete worn laundry item matching the topic (object locked to the single item the topic names); color/material: honest used fabric; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 2 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Overall closer look at the complete passport item so fabric grain, seams and full silhouette stay readable.",
+          "local_image_path": "docs/assets/2026-08-24/slot-02-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-02-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "OBJECT PASSPORT: exactly one complete worn laundry item matching the topic (object locked to the single item the topic names); color/material: honest used fabric; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 3 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Tight close-up of the problem area named by the topic; the wear marks fill the frame.",
+          "local_image_path": "docs/assets/2026-08-24/slot-02-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-02-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "OBJECT PASSPORT: exactly one complete worn laundry item matching the topic (object locked to the single item the topic names); color/material: honest used fabric; wear marks: honest everyday wear at the positions the topic names. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 4 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Same-counter after-treatment or before/after comparison of the identical physical item; do not introduce a second garment.",
+          "local_image_path": "docs/assets/2026-08-24/slot-02-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-02-slide-04.png"
+        }
+      ],
+      "video_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese apartment-entryway shot about 衣物. Fixed medium-close camera with layered depth: one complete folded garment in the foreground and one small low-profile blue woven polypropylene laundry bag on the bench in the midground, and a softly lit doorway in the background. One adult hand performs one dominant action only: lift the single complete folded garment and place it fully into the open blue bag. The blue bag remains on the bench and deforms naturally. Preserve exactly one garment, two complete bag handles with four attachment points, five fingers, realistic contact shadows and material weight. No person head, no umbrella, no extra limbs, no duplicate object, no morphing, no floating, no wall or bag penetration, no text, no logo, no watermark. End on the completed action and hold for one second.\n\nItem profile 2026-08-05-v1: 多物件情境：不得把多種物件混成一個清潔主體；只展示分件、分袋或補拍其中一件的單一動作，明確保留件數與材質差異，不宣稱全部可處理。",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "衣物也可以送洗",
+        "conflict": "衣物已折好放在長凳上，旁邊的藍色編織袋仍是空的。",
+        "single_action": "同一隻成人手只把一件完整折好的衣物放入藍色編織袋，袋子全程留在長凳上。",
+        "payoff": "不用自己扛去門市，先拍照、分袋，再用 LINE 預約收送。",
+        "cta": "台中市全區免費收送；點個人檔案連結加 LINE 預約。",
+        "duration_seconds": 12,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式中近景；前景是完整衣物，中景是較矮小型藍色編織袋，背景保留暖色門燈與乾淨牆面形成景深；物件數量、袋體、提把與固定點完整，無人物頭部、無雨傘、無文字。",
+        "grok_motion_prompt": "Create one continuous 6-second 9:16 photorealistic Taiwanese apartment-entryway shot about 衣物. Fixed medium-close camera with layered depth: one complete folded garment in the foreground and one small low-profile blue woven polypropylene laundry bag on the bench in the midground, and a softly lit doorway in the background. One adult hand performs one dominant action only: lift the single complete folded garment and place it fully into the open blue bag. The blue bag remains on the bench and deforms naturally. Preserve exactly one garment, two complete bag handles with four attachment points, five fingers, realistic contact shadows and material weight. No person head, no umbrella, no extra limbs, no duplicate object, no morphing, no floating, no wall or bag penetration, no text, no logo, no watermark. End on the completed action and hold for one second.\n\nItem profile 2026-08-05-v1: 多物件情境：不得把多種物件混成一個清潔主體；只展示分件、分袋或補拍其中一件的單一動作，明確保留件數與材質差異，不宣稱全部可處理。",
+        "fallback_media_type": "image"
+      },
+      "media_package": {
+        "status": "planned_unpublished",
+        "effective_date": "2026-07-29",
+        "image_count": 4,
+        "image_aspect_ratio": "4:5",
+        "companion_video_required": true,
+        "video_master_aspect_ratio": "9:16",
+        "instagram_delivery": "mixed-carousel-candidate",
+        "facebook_delivery": "paired-video-candidate",
+        "platform_preflight_required": true,
+        "publish_authorized": false,
+        "included_in_kpi": false
+      },
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
+      "views_target": 165,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理台中西屯在地送洗前的實用判斷。",
+      "seo_sync_page": "/guides/photo-before-laundry.html",
+      "search_intent": "trust-proof",
+      "target_queries": [
+        "送洗前怎麼拍照",
+        "洗衣店 LINE 詢問",
+        "台中洗鞋推薦",
+        "西屯乾洗店推薦"
+      ],
+      "evidence_type": "real-case-photo",
+      "ten_day_review_metric": "答案資產週：把高收藏、高分享與真實詢問題目寫成可索引答案頁；分開記錄搜尋 CTR、AI 品牌提及、引用率與被引用頁面。",
+      "content_plan_source": "growth-playbook",
+      "local_image_path": "docs/assets/2026-08-24/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-02.png",
+      "local_video_path": "docs/assets/2026-08-24/slot-02.mp4",
+      "public_video_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-02.mp4",
+      "status": "pending"
+    },
+    {
+      "slot": 3,
+      "time": "12:00",
+      "category": "情境文",
+      "topic": "手工洗護,一雙一雙來",
+      "media_type": "image",
+      "instagram_caption": "手工洗護,一雙一雙來。\n\n機器洗不出來的,是判斷。每一雙進來的鞋,師傅先看材質、看髒在哪,再決定怎麼下手——刷毛的方向、水溫、晾的方式,都不一樣。\n\n開學前這幾天,鞋房都是小孩的白鞋。要一起洗的現在正好。\n\n參考價:童鞋 $150、運動鞋 $250 起,台中免費到府收送。\n\n你家的鞋多久洗一次?\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post-poster(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #手工洗鞋 #台中洗鞋 #洗鞋推薦 #白鞋清洗 #開學準備 #西屯 #逢甲 #台中",
+      "facebook_caption": "手工洗護,一雙一雙來。\n\n機器洗不出來的,是判斷。每一雙進來的鞋,師傅先看材質、看髒在哪,再決定怎麼下手——刷毛的方向、水溫、晾的方式,都不一樣。\n\n開學前這幾天,鞋房都是小孩的白鞋。要一起洗的現在正好。\n\n參考價:童鞋 $150、運動鞋 $250 起,台中免費到府收送。\n\n你家的鞋多久洗一次?\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post-poster(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #手工洗鞋 #台中洗鞋 #洗鞋推薦 #白鞋清洗 #開學準備 #西屯 #逢甲 #台中",
+      "image_prompt": "Brand promo poster (owner-approved 2026-08-21, variant C craftsman-documentary): dark chiaroscuro close-up of the craftsman hands brushing a white sneaker with a wooden soft-bristle brush, water droplets in the key light, calligraphic headline 手工洗護,一雙一雙來 and shop line 私享家洗衣店・西屯, QR to LINE with source=post-poster. Generated via image model plus programmatic QR; source file output/social-promo/promo-0824-C-premium.png.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-08-24/slot-03.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-24/slot-03.png",
+      "status": "pending",
+      "format": "image",
+      "video_prompt": null,
+      "local_video_path": null,
+      "public_video_url": null,
+      "video_candidate": null,
+      "ab_variant": null,
+      "carousel_items": null,
+      "media_package": null
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "ffc2f8e84b0286aa"
+}
