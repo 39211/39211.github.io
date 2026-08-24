@@ -102,6 +102,106 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-28 12:00 先摸提把握的位置](https://sixiangjialaundry.com/posts/2026-08-28-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-28/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-28/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-28.json
+- [2026-08-28 20:30 今天情境：暑假旅行回來先處理外套](https://sixiangjialaundry.com/posts/2026-08-28-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=share-worthy-care; search_intent=aftercare
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #旅行整理 #外套清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-28/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-28.json
+- [2026-08-28 11:30 可收藏：老爹鞋網布，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-28-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=object-proof; search_intent=problem-diagnosis
+  target_queries: 台中洗鞋店 | 台中洗包包 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-28/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-28.json
+- [2026-08-27 12:00 先看四個角的邊油](https://sixiangjialaundry.com/posts/2026-08-27-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-27/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-27/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-27.json
+- [2026-08-27 20:30 細節拆解：逢甲西屯人流多的鞋底灰，先看容易忽略的位置](https://sixiangjialaundry.com/posts/2026-08-27-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=local-discovery
+  target_queries: 台中洗衣店 | 西屯洗衣店 | 青海路洗衣店 | 逢甲洗鞋
+  evidence_type: verified-business-fact
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #西屯生活 #鞋子保養 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-27/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-27.json
+- [2026-08-27 11:30 可收藏：西裝外套肩線與袖口狀態，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-27-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=customer-consultation; traffic_route=trust-reset; search_intent=problem-diagnosis
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #西裝清洗 #外套保養 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-27/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-27.json
+- [2026-08-26 12:00 毛衣腋下出現黃斑](https://sixiangjialaundry.com/posts/2026-08-26-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-26/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-26/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-26.json
+- [2026-08-26 20:30 今天情境：週末換季整理先分類布品](https://sixiangjialaundry.com/posts/2026-08-26-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=aftercare
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #換季收納 #布品清潔 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-26/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-26.json
+- [2026-08-26 11:30 可收藏：健身房毛巾批量洗，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-26-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=customer-consultation; traffic_route=object-proof; search_intent=pickup-logistics
+  target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中到府收送洗衣 | 台中公司大量衣物送洗
+  evidence_type: pickup-logistics
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-26/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-26.json
+- [2026-08-25 12:00 登山鞋乾泥卡溝](https://sixiangjialaundry.com/posts/2026-08-25-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-25/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-25/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-25.json
+- [2026-08-25 20:30 細節拆解：婚宴禮服回家先不要塞衣櫃，先看容易忽略的位置](https://sixiangjialaundry.com/posts/2026-08-25-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=aftercare
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #禮服清潔 #衣物保養 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-25/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-25.json
+- [2026-08-25 11:30 可收藏：球鞋中底黃斑，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-25-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=problem-diagnosis
+  target_queries: 台中洗鞋店 | 台中洗包包 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-25/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-25.json
 - [2026-08-24 12:00 手工洗護,一雙一雙來](https://sixiangjialaundry.com/posts/2026-08-24-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
