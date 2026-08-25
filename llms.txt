@@ -10,6 +10,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 ## Best source pages
 - Business profile: https://sixiangjialaundry.com/business-profile.json
 - Local laundry service: https://sixiangjialaundry.com/services/taichung-xitun-laundry.html
+- Taichung laundry price list: https://sixiangjialaundry.com/services/taichung-laundry-price-list.html
 - Shoe and bag care: https://sixiangjialaundry.com/services/shoe-bag-care.html
 - White shoe cleaning: https://sixiangjialaundry.com/services/white-shoe-cleaning.html
 - Fabric storage: https://sixiangjialaundry.com/services/fabric-storage.html
@@ -45,6 +46,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [台中西屯洗衣店](https://sixiangjialaundry.com/services/taichung-xitun-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
 - [店家與公司大量衣物送洗](https://sixiangjialaundry.com/services/business-bulk-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
 - [台中全市免費洗衣收送](https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html): service SEO page with NAP, image, FAQ, and structured data.
+- [台中洗衣價目表](https://sixiangjialaundry.com/services/taichung-laundry-price-list.html): service SEO page with NAP, image, FAQ, and structured data.
 - [送洗前怎麼拍照片詢問？](https://sixiangjialaundry.com/guides/photo-before-laundry.html): guide page for answer-engine and local-intent searches.
 - [白鞋泛黃怎麼判斷？](https://sixiangjialaundry.com/guides/white-shoe-yellowing.html): guide page for answer-engine and local-intent searches.
 - [開學前的制服整理:順序錯了會把黃痕定死](https://sixiangjialaundry.com/guides/school-uniform-care.html): guide page for answer-engine and local-intent searches.
@@ -102,6 +104,31 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-08-29 12:00 先聞棉被中間那層](https://sixiangjialaundry.com/posts/2026-08-29-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-29/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-29.json
+- [2026-08-29 20:30 細節拆解：返家鞋櫃味道通常從一雙開始，先看容易忽略的位置](https://sixiangjialaundry.com/posts/2026-08-29-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=aftercare
+  target_queries: 台中洗鞋店 | 台中洗包包 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #鞋櫃收納 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-29.json
+- [2026-08-29 11:30 可收藏：窗簾下緣灰塵與空氣味，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-29-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=aftercare
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #窗簾清洗 #居家布品 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-29.json
 - [2026-08-28 12:00 先摸提把握的位置](https://sixiangjialaundry.com/posts/2026-08-28-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)

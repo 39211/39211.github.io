@@ -3,7 +3,7 @@
 > AI-readable source of record for 私享家洗衣店 daily social captions, care topics, image assets, hashtags, business profile, and content routes.
 
 Canonical: https://sixiangjialaundry.com/
-Latest date: 2026-08-28
+Latest date: 2026-08-29
 Read first: https://sixiangjialaundry.com/latest.json
 Citation summary: 私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。
 Do not infer: pricing, guaranteed whitening, guaranteed stain or odor removal, review count, rating, or holiday hours.
@@ -20,6 +20,7 @@ LLMS JSONL: https://sixiangjialaundry.com/llms.jsonl
 台中西屯洗衣店: https://sixiangjialaundry.com/services/taichung-xitun-laundry.html
 店家與公司大量衣物送洗: https://sixiangjialaundry.com/services/business-bulk-laundry.html
 台中全市免費洗衣收送: https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html
+台中洗衣價目表: https://sixiangjialaundry.com/services/taichung-laundry-price-list.html
 送洗前怎麼拍照片詢問？: https://sixiangjialaundry.com/guides/photo-before-laundry.html
 白鞋泛黃怎麼判斷？: https://sixiangjialaundry.com/guides/white-shoe-yellowing.html
 開學前的制服整理:順序錯了會把黃痕定死: https://sixiangjialaundry.com/guides/school-uniform-care.html

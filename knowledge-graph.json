@@ -212,6 +212,9 @@
         "https://sixiangjialaundry.com/assets/2026-08-28/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-08-28/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-08-28/slot-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -340,6 +343,20 @@
             },
             "name": "台中全市免費洗衣收送",
             "description": "台中市全市免費收送；清潔與洗護費用另計。預約以 LINE 為主。"
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "台中洗衣價目表",
+              "serviceType": "台中洗衣價目表",
+              "description": "台中洗衣洗鞋洗包參考價約 $70 到 $2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；皆為水洗參考價，不是固定價。",
+              "areaServed": {
+                "@type": "AdministrativeArea",
+                "name": "台中市"
+              },
+              "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html"
+            }
           }
         ]
       }
@@ -372,7 +389,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-08-28"
+      "dateModified": "2026-08-29"
     },
     {
       "@type": "FAQPage",
@@ -433,7 +450,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-08-28",
+      "dateModified": "2026-08-29",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1076,6 +1093,96 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "不一定。台中市內可約免費收送；若方便到店，門市在西屯區青海路二段365號（至善國中對面），營業時間 10:00–20:00、週日公休。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#webpage",
+      "name": "台中洗衣價目表｜台中洗鞋價格・洗包包多少錢｜西屯洗衣店價格｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
+      "description": "台中洗衣價目表：洗鞋、洗包、洗衣與寢具水洗參考價一次列清。門市在西屯青海路二段365號，台中市全區免費到府收送，LINE 0968327653。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#service"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#faq"
+      },
+      "dateModified": "2026-08-26"
+    },
+    {
+      "@type": "Service",
+      "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#service",
+      "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
+      "mainEntityOfPage": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
+      "name": "台中洗衣價目表",
+      "description": "台中洗衣洗鞋洗包參考價約 $70 到 $2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；皆為水洗參考價，不是固定價。",
+      "serviceType": "台中洗衣價目表",
+      "provider": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "台中市"
+      },
+      "keywords": [
+        "台中洗衣價目表",
+        "台中洗鞋價格",
+        "洗包包多少錢",
+        "西屯洗衣店價格",
+        "台中洗衣多少錢",
+        "台中洗鞋多少錢"
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#faq",
+      "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#webpage"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#service"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "台中洗鞋大概多少錢?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "台中洗鞋參考價：一般運動鞋 $250、皮類運動鞋 $300、休閒鞋 $350、麂皮鞋與皮鞋 $400、低靴 $350、高靴 $550（水洗價）。水洗價，乾洗柔洗另計；發霉、特殊污漬與特殊材質另行報價，以實際檢視為準。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "名牌包清洗多少錢?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "名牌包清洗參考價 $1500 起、特殊類名牌包 $2500（水洗價）；一般包 $600、皮包 $1000、背包清洗 $500。水洗價，乾洗柔洗另計；發霉、特殊污漬與特殊材質另行報價，以實際檢視為準。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "洗衣有到府收送嗎?要多少錢?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "台中市全區免費到府收送。收送本身不另外收費；清潔仍依參考價與實際檢視計算。請用 LINE 0968327653 傳照片預約。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "乾洗跟水洗價格差在哪?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "本頁列出的是水洗參考價；乾洗、柔洗另計，不會用同一組數字。材質、污損程度與是否發霉都會影響報價，以實際檢視為準。"
           }
         }
       ]
@@ -6934,6 +7041,121 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-28/slot-03.png",
       "url": "https://sixiangjialaundry.com/assets/2026-08-28/slot-03.png",
       "caption": "先摸提把握的位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-01",
+      "headline": "2026-08-29 11:30 可收藏：窗簾下緣灰塵與空氣味，送洗前先看三個位置",
+      "text": "窗簾下緣灰塵與空氣味，送洗前先看三個位置，這篇可以先收藏，送洗前照著看。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n收之前想先整理一次？傳 LINE跟我們說，台中市區到府收。\n\n你衣櫃裡放最久沒動的是什麼？\n\n這類送洗前檢查清單會持續整理，先追蹤起來比較不會臨時找不到。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #窗簾清洗 #居家布品 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-29T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#窗簾清洗",
+        "#居家布品",
+        "#居家清潔",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
+      "caption": "可收藏：窗簾下緣灰塵與空氣味，送洗前先看三個位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-02",
+      "headline": "2026-08-29 20:30 細節拆解：返家鞋櫃味道通常從一雙開始，先看容易忽略的位置",
+      "text": "返家鞋櫃味道通常從一雙開始，先看容易忽略的位置。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你有幾雙鞋是因為不知道怎麼洗就一直放著？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋櫃收納 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-29T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#鞋櫃收納",
+        "#鞋子清潔",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
+      "caption": "細節拆解：返家鞋櫃味道通常從一雙開始，先看容易忽略的位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03",
+      "headline": "2026-08-29 12:00 先聞棉被中間那層",
+      "text": "摸起來乾，先別急著收。\n\n中間那層不一定乾。帶著濕氣收進櫃子，下一季打開就是那個味道。雙人棉被五百，免費到府收送。\n\n先聞棉被中間那層。\n\n換季要整理寢具的話，傳 LINE說一下數量就可以，我們去收。\n\n你家的棉被大概多久整理一次？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-08-29T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#棉被送洗",
+        "#寢具清潔",
+        "#換季收納",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
+      "caption": "先聞棉被中間那層",
       "inLanguage": "zh-Hant"
     }
   ]

@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-25T12:30:06.986Z",
+  "generated_at": "2026-08-25T19:58:05.938Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -819,6 +819,228 @@
         "webpage": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html#webpage",
         "service": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html#service",
         "faq": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html#faq",
+        "business": "https://sixiangjialaundry.com/#business"
+      }
+    },
+    {
+      "slug": "taichung-laundry-price-list",
+      "name": "台中洗衣價目表",
+      "title": "台中洗衣價目表｜台中洗鞋價格・洗包包多少錢｜西屯洗衣店價格｜私享家洗衣店",
+      "description": "台中洗衣價目表：洗鞋、洗包、洗衣與寢具水洗參考價一次列清。門市在西屯青海路二段365號，台中市全區免費到府收送，LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
+      "canonical_url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
+      "in_language": "zh-Hant-TW",
+      "keywords": [
+        "台中洗衣價目表",
+        "台中洗鞋價格",
+        "洗包包多少錢",
+        "西屯洗衣店價格",
+        "台中洗衣多少錢",
+        "台中洗鞋多少錢"
+      ],
+      "answer_summary": "台中洗衣洗鞋洗包參考價約 $70 到 $2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；皆為水洗參考價，不是固定價。",
+      "image_url": "",
+      "image_path": "",
+      "image_alt": "台中洗衣洗鞋洗包參考價目說明",
+      "image_note": "本頁以文字價目表為主，不使用與價格無關的客戶物件照片。",
+      "image_source_type": "",
+      "image_source_note": "",
+      "source_post_id": "",
+      "source_post_topic": "",
+      "case_story": {
+        "label": "先對照參考價，再依實際檢視",
+        "situation": "客人常先問台中洗衣、洗鞋、洗包多少錢，需要一頁把參考價一次列清楚，再決定要不要傳照片詢問。",
+        "inspection": "門市會先對照品項參考價，再看材質、污損程度，以及是否需要乾洗或柔洗。",
+        "recommendation": "先看本頁參考價，再用 LINE 傳照片確認；數字是參考價，以實際檢視為準。"
+      },
+      "case_studies": [
+        {
+          "label": "情境 01",
+          "object": "一般運動鞋",
+          "material": "網布或皮革感鞋面",
+          "concern": "想先知道台中洗鞋大概多少錢",
+          "inspection": "先對照鞋類參考價：一般運動鞋 $250、皮類運動鞋 $300（水洗價）。",
+          "boundary": "水洗價，乾洗柔洗另計；發霉、特殊污漬與特殊材質另行報價，以實際檢視為準"
+        },
+        {
+          "label": "情境 02",
+          "object": "名牌包",
+          "material": "依包身與配件判斷",
+          "concern": "名牌包清洗多少錢",
+          "inspection": "先對照包類參考價：名牌包 $1500 起、特殊類名牌包 $2500（水洗價）。",
+          "boundary": "水洗價，乾洗柔洗另計；發霉、特殊污漬與特殊材質另行報價，以實際檢視為準"
+        },
+        {
+          "label": "情境 03",
+          "object": "襯衫與寢具",
+          "material": "依洗標判斷",
+          "concern": "洗衣與棉被參考價",
+          "inspection": "先對照衣物寢具參考價：襯衫 $70、棉被單人 $350 / 雙人 $500（水洗價）。",
+          "boundary": "水洗價，乾洗柔洗另計；發霉、特殊污漬與特殊材質另行報價，以實際檢視為準"
+        }
+      ],
+      "sections": [
+        {
+          "heading": "價格怎麼決定",
+          "body": "本頁列出的是水洗參考價，不是固定價。乾洗、柔洗會另計，同一品項若材質不同、污損較深，或已經發霉，處理工序就不一樣。鞋面、包身、衣物填充與髒污深度都會影響報價，所以要看過物件後才能定案。水洗價，乾洗柔洗另計；發霉、特殊污漬與特殊材質另行報價，以實際檢視為準。"
+        },
+        {
+          "heading": "儲值優惠",
+          "body": "儲值優惠：滿 1000 送 100、儲 3000 送 400、儲 6000 送 1000。"
+        },
+        {
+          "heading": "免費收送範圍與怎麼預約",
+          "body": "台中市全區免費到府收送。先用 LINE 0968327653 傳整體與局部照片、說明所在區域與品項，門市回覆參考價與可收時段後再約定收件。收送本身不另外收費；清潔仍依參考價與實際檢視計算。"
+        },
+        {
+          "heading": "門市地址與 LINE",
+          "body": "門市在台中市西屯區青海路二段365號（至善國中對面）。LINE 0968327653。也可到店詢問，或先傳照片再約台中市全區免費到府收送。"
+        }
+      ],
+      "price_tables": [
+        {
+          "heading": "鞋類",
+          "rows": [
+            {
+              "item": "一般運動鞋",
+              "price": "$250(水洗價)"
+            },
+            {
+              "item": "皮類運動鞋",
+              "price": "$300(水洗價)"
+            },
+            {
+              "item": "休閒鞋",
+              "price": "$350(水洗價)"
+            },
+            {
+              "item": "麂皮鞋",
+              "price": "$400(水洗價)"
+            },
+            {
+              "item": "皮鞋",
+              "price": "$400(水洗價)"
+            },
+            {
+              "item": "低靴",
+              "price": "$350(水洗價)"
+            },
+            {
+              "item": "高靴",
+              "price": "$550(水洗價)"
+            }
+          ]
+        },
+        {
+          "heading": "包類",
+          "rows": [
+            {
+              "item": "背包清洗",
+              "price": "$500(水洗價)"
+            },
+            {
+              "item": "一般包",
+              "price": "$600(水洗價)"
+            },
+            {
+              "item": "皮包",
+              "price": "$1000(水洗價)"
+            },
+            {
+              "item": "名牌包",
+              "price": "$1500 起(水洗價)"
+            },
+            {
+              "item": "特殊類名牌包",
+              "price": "$2500(水洗價)"
+            }
+          ]
+        },
+        {
+          "heading": "衣物寢具",
+          "rows": [
+            {
+              "item": "襯衫",
+              "price": "$70(水洗價)"
+            },
+            {
+              "item": "整燙",
+              "price": "$50"
+            },
+            {
+              "item": "長褲",
+              "price": "$70 / 短褲 $60(水洗價)"
+            },
+            {
+              "item": "西裝背心",
+              "price": "$80(水洗價)"
+            },
+            {
+              "item": "長大衣",
+              "price": "$300(水洗價，乾洗另計)"
+            },
+            {
+              "item": "羽絨外套",
+              "price": "$280(水洗價)"
+            },
+            {
+              "item": "皮衣",
+              "price": "$1200 / 特殊皮衣 $2000(發霉另計)"
+            },
+            {
+              "item": "棉被單人",
+              "price": "$350 / 雙人 $500(水洗價)"
+            },
+            {
+              "item": "床組四件套",
+              "price": "$300(水洗價)"
+            },
+            {
+              "item": "羽絨羊毛被",
+              "price": "$800(水洗價)"
+            },
+            {
+              "item": "窗簾、地毯",
+              "price": "依尺寸報價，LINE 傳照片先估"
+            },
+            {
+              "item": "絨毛娃娃",
+              "price": "依大小報價，LINE 傳照片先估"
+            }
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "question": "台中洗鞋大概多少錢?",
+          "answer": "台中洗鞋參考價：一般運動鞋 $250、皮類運動鞋 $300、休閒鞋 $350、麂皮鞋與皮鞋 $400、低靴 $350、高靴 $550（水洗價）。水洗價，乾洗柔洗另計；發霉、特殊污漬與特殊材質另行報價，以實際檢視為準。"
+        },
+        {
+          "question": "名牌包清洗多少錢?",
+          "answer": "名牌包清洗參考價 $1500 起、特殊類名牌包 $2500（水洗價）；一般包 $600、皮包 $1000、背包清洗 $500。水洗價，乾洗柔洗另計；發霉、特殊污漬與特殊材質另行報價，以實際檢視為準。"
+        },
+        {
+          "question": "洗衣有到府收送嗎?要多少錢?",
+          "answer": "台中市全區免費到府收送。收送本身不另外收費；清潔仍依參考價與實際檢視計算。請用 LINE 0968327653 傳照片預約。"
+        },
+        {
+          "question": "乾洗跟水洗價格差在哪?",
+          "answer": "本頁列出的是水洗參考價；乾洗、柔洗另計，不會用同一組數字。材質、污損程度與是否發霉都會影響報價，以實際檢視為準。"
+        }
+      ],
+      "related_support_pages": [],
+      "local_business": {
+        "name": "私享家洗衣店",
+        "address_text": "407 臺中市西屯區至善里青海路二段365號",
+        "telephone": "04-2452-7411",
+        "line_url": "https://line.me/ti/p/4m-rA6hxf6",
+        "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
+        "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
+      },
+      "schema_ids": {
+        "webpage": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#webpage",
+        "service": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#service",
+        "faq": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#faq",
         "business": "https://sixiangjialaundry.com/#business"
       }
     }

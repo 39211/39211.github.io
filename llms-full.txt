@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-08-25T12:30:06.986Z
+- Generated at: 2026-08-25T19:58:05.938Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -32,6 +32,7 @@
 - service_pages.taichung-xitun-laundry: https://sixiangjialaundry.com/services/taichung-xitun-laundry.html
 - service_pages.business-bulk-laundry: https://sixiangjialaundry.com/services/business-bulk-laundry.html
 - service_pages.taichung-citywide-laundry-pickup: https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html
+- service_pages.taichung-laundry-price-list: https://sixiangjialaundry.com/services/taichung-laundry-price-list.html
 - support_pages.photo-before-laundry: https://sixiangjialaundry.com/guides/photo-before-laundry.html
 - support_pages.white-shoe-yellowing: https://sixiangjialaundry.com/guides/white-shoe-yellowing.html
 - support_pages.school-uniform-care: https://sixiangjialaundry.com/guides/school-uniform-care.html
@@ -268,6 +269,9 @@
     "https://sixiangjialaundry.com/assets/2026-08-28/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-08-28/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-08-28/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -396,6 +400,20 @@
         },
         "name": "台中全市免費洗衣收送",
         "description": "台中市全市免費收送；清潔與洗護費用另計。預約以 LINE 為主。"
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "台中洗衣價目表",
+          "serviceType": "台中洗衣價目表",
+          "description": "台中洗衣洗鞋洗包參考價約 $70 到 $2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；皆為水洗參考價，不是固定價。",
+          "areaServed": {
+            "@type": "AdministrativeArea",
+            "name": "台中市"
+          },
+          "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html"
+        }
       }
     ]
   }
@@ -6126,4 +6144,171 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-29 11:30 可收藏：窗簾下緣灰塵與空氣味，送洗前先看三個位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-01
+- published local time: 2026-08-29T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: aftercare
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #窗簾清洗 #居家布品 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-29.json
+
+Facebook caption:
+
+窗簾下緣灰塵與空氣味，送洗前先看三個位置，這篇可以先收藏，送洗前照著看。
+
+厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。
+
+我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。
+
+收之前想先整理一次？傳 LINE跟我們說，台中市區到府收。
+
+你衣櫃裡放最久沒動的是什麼？
+
+這類送洗前檢查清單會持續整理，先追蹤起來比較不會臨時找不到。
+
+參考價：窗簾地毯依尺寸報價，LINE 傳照片先估
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #窗簾清洗 #居家布品 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+窗簾下緣灰塵與空氣味，送洗前先看三個位置，這篇可以先收藏，送洗前照著看。
+
+厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。
+
+我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。
+
+收之前想先整理一次？私訊跟我們說，台中市區到府收。
+
+你衣櫃裡放最久沒動的是什麼？
+
+這類送洗前檢查清單會持續整理，先追蹤起來比較不會臨時找不到。
+
+參考價：窗簾地毯依尺寸報價，LINE 傳照片先估
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #窗簾清洗 #居家布品 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-29 20:30 細節拆解：返家鞋櫃味道通常從一雙開始，先看容易忽略的位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-02
+- published local time: 2026-08-29T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: dwell-detail
+- search_intent: aftercare
+- target_queries: 台中洗鞋店 | 台中洗包包 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #鞋櫃收納 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-29.json
+
+Facebook caption:
+
+返家鞋櫃味道通常從一雙開始，先看容易忽略的位置。
+
+鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。
+
+鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。
+
+不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。
+
+你有幾雙鞋是因為不知道怎麼洗就一直放著？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #鞋櫃收納 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+返家鞋櫃味道通常從一雙開始，先看容易忽略的位置。
+
+鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。
+
+鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。
+
+不確定還救不救得回來？拍一張私訊給我們，先幫你看。
+
+你有幾雙鞋是因為不知道怎麼洗就一直放著？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #鞋櫃收納 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-29 12:00 先聞棉被中間那層
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03
+- published local time: 2026-08-29T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-29.json
+
+Facebook caption:
+
+摸起來乾，先別急著收。
+
+中間那層不一定乾。帶著濕氣收進櫃子，下一季打開就是那個味道。雙人棉被五百，免費到府收送。
+
+先聞棉被中間那層。
+
+換季要整理寢具的話，傳 LINE說一下數量就可以，我們去收。
+
+你家的棉被大概多久整理一次？
+
+私享家洗衣店｜台中市區免費到府收送
+
+參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+摸起來乾，先別急著收。
+
+中間那層不一定乾。帶著濕氣收進櫃子，下一季打開就是那個味道。雙人棉被五百，免費到府收送。
+
+先聞棉被中間那層。
+
+換季要整理寢具的話，私訊說一下數量就可以，我們去收。
+
+你家的棉被大概多久整理一次？
+
+家裡那位總說「棉被還可以再放一下」的人，這篇可以轉給他。
+
+私享家洗衣店｜台中市區免費到府收送
+
+參考價：棉被單人 $350、雙人 $500、床組四件套 $300（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
 
