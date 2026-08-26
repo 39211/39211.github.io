@@ -104,12 +104,12 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
-- [2026-08-29 12:00 先聞棉被中間那層](https://sixiangjialaundry.com/posts/2026-08-29-slot-03.html)
+- [2026-08-29 12:00 先看鞋面那道水痕](https://sixiangjialaundry.com/posts/2026-08-29-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
-  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
   image: https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png
   video: https://sixiangjialaundry.com/assets/2026-08-29/slot-03.mp4
   calendar: https://sixiangjialaundry.com/content-calendar/2026-08-29.json
@@ -129,12 +129,12 @@ This is the curated AI entry point. Read this file first, then choose the smalle
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #窗簾清洗 #居家布品 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中
   image: https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png
   calendar: https://sixiangjialaundry.com/content-calendar/2026-08-29.json
-- [2026-08-28 12:00 先摸提把握的位置](https://sixiangjialaundry.com/posts/2026-08-28-slot-03.html)
+- [2026-08-28 12:00 先看帆布鞋泥乾了沒](https://sixiangjialaundry.com/posts/2026-08-28-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
-  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
   image: https://sixiangjialaundry.com/assets/2026-08-28/slot-03.png
   video: https://sixiangjialaundry.com/assets/2026-08-28/slot-03.mp4
   calendar: https://sixiangjialaundry.com/content-calendar/2026-08-28.json
@@ -154,12 +154,12 @@ This is the curated AI entry point. Read this file first, then choose the smalle
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
   image: https://sixiangjialaundry.com/assets/2026-08-28/slot-01.png
   calendar: https://sixiangjialaundry.com/content-calendar/2026-08-28.json
-- [2026-08-27 12:00 先看四個角的邊油](https://sixiangjialaundry.com/posts/2026-08-27-slot-03.html)
+- [2026-08-27 12:00 先看鞋邊那圈膠](https://sixiangjialaundry.com/posts/2026-08-27-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
-  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
   image: https://sixiangjialaundry.com/assets/2026-08-27/slot-03.png
   video: https://sixiangjialaundry.com/assets/2026-08-27/slot-03.mp4
   calendar: https://sixiangjialaundry.com/content-calendar/2026-08-27.json

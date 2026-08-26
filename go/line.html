@@ -18,7 +18,25 @@
       (() => {
         const destination = "https://line.me/ti/p/4m-rA6hxf6";
         const params = new URLSearchParams(location.search);
-        const source = params.get('source') || 'unknown';
+        // A click whose source cannot be named is a click we cannot learn from.
+        // On 2026-08-26 GA4 held three line_clicks with an empty source, which
+        // this page cannot produce -- almost certainly older cached copies of
+        // it -- so the value is now derived from the referrer when the query
+        // string does not carry one, and it is never allowed to be empty.
+        const referrerHost = (function () {
+          try { return document.referrer ? new URL(document.referrer).hostname : ''; }
+          catch (err) { return ''; }
+        })();
+        const fromReferrer = function (host) {
+          if (!host) return '';
+          if (host.indexOf('instagram') !== -1) return 'referrer-instagram';
+          if (host.indexOf('facebook') !== -1 || host.indexOf('fb.') === 0) return 'referrer-facebook';
+          if (host.indexOf('youtube') !== -1 || host.indexOf('youtu.be') !== -1) return 'referrer-youtube';
+          if (host.indexOf('google') !== -1) return 'referrer-google';
+          if (host.indexOf('sixiangjialaundry') !== -1 || host.indexOf('39211.github.io') !== -1) return 'referrer-site';
+          return 'referrer-' + host;
+        };
+        const source = params.get('source') || fromReferrer(referrerHost) || 'unknown';
         let redirected = false;
         const redirect = function () {
           if (!redirected) { redirected = true; location.replace(destination); }
@@ -26,6 +44,10 @@
         try {
           if (typeof window.gtag === 'function') {
             window.gtag('event', 'line_click', {
+              // Both names on purpose: the property's custom dimension is
+              // registered against one of them, and a rename on the GA4 side
+              // must not silently empty the breakdown again.
+              source: source,
               link_source: source,
               page_referrer: document.referrer || '',
               transport_type: 'beacon',
