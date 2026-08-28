@@ -6,13 +6,17 @@ Allow: /
 # llms-full.txt: https://sixiangjialaundry.com/llms-full.txt
 # ai-discovery.json: https://sixiangjialaundry.com/ai-discovery.json
 
+User-agent: Bingbot
 User-agent: OAI-SearchBot
 User-agent: GPTBot
 User-agent: ChatGPT-User
 User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
 User-agent: Claude-Web
 User-agent: anthropic-ai
 User-agent: PerplexityBot
+User-agent: Perplexity-User
 User-agent: Google-Extended
 User-agent: Applebot-Extended
 User-agent: Amazonbot
