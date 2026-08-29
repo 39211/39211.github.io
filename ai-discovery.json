@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-28T19:16:41.456Z",
+  "generated_at": "2026-08-29T03:44:55.395Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -486,6 +486,7 @@
       "https://sixiangjialaundry.com/assets/2026-08-28/slot-03.png",
       "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
+      "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
       "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png",
@@ -1067,10 +1068,11 @@
     {
       "slug": "birkenstock-care",
       "category": "guide",
-      "title": "勃肯鞋鞋床發黑、有味道怎麼處理?台中洗鞋｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理勃肯鞋：軟木鞋床吸汗會發黑發臭，麂皮面又不能泡水，先傳照片判斷軟木與麂皮各自的處理方式。",
+      "title": "勃肯鞋會臭嗎？鞋床發黑怎麼處理｜台中洗鞋 私享家",
+      "description": "勃肯鞋會臭，多半是軟木鞋床吸汗，不是鞋面。私享家洗衣店（台中市西屯區青海路二段365號）先看鞋床與麂皮，再決定能不能處理；整雙泡水會更糟。",
       "url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
       "keywords": [
+        "勃肯鞋會臭嗎",
         "勃肯鞋清潔",
         "勃肯鞋發黑",
         "軟木鞋床 清洗",
@@ -1080,7 +1082,7 @@
       ],
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "linked_service": "白鞋清潔",
-      "faq_count": 4,
+      "faq_count": 5,
       "step_count": 5
     },
     {
@@ -1253,10 +1255,11 @@
     {
       "slug": "plush-doll-cleaning",
       "category": "guide",
-      "title": "台中西屯娃娃與絨毛玩偶清潔｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）提供娃娃、絨毛玩偶與布偶送洗前判斷：先確認填充物、黏貼配件、五官與局部污漬，台中市西屯布偶清潔。",
+      "title": "台中絨毛娃娃清洗店？先看填充與五官｜私享家洗衣店",
+      "description": "台中找絨毛娃娃清洗店，先看填充、五官與配件能不能洗。私享家洗衣店（台中市西屯區青海路二段365號）手洗低溫烘，不保證完全恢復。",
       "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
       "keywords": [
+        "絨毛娃娃清洗店",
         "台中西屯娃娃清洗",
         "台中布偶清潔",
         "絨毛玩偶清洗",
@@ -1266,7 +1269,7 @@
       ],
       "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
       "linked_service": "台中西屯洗衣店",
-      "faq_count": 2,
+      "faq_count": 3,
       "step_count": 4
     },
     {
@@ -1489,7 +1492,7 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 126,
+    "post_count": 127,
     "latest_date": "2026-08-31",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
@@ -1941,6 +1944,49 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-08-30-slot-01.html",
       "facebook_caption": "白鞋鞋帶發灰，送洗前先看三個位置。\n\n白鞋放久了會黃，不是因為髒。那是材質本身在氧化。\n\n白鞋我會先確認是表面髒還是材質本身變色。這兩種能做到的程度差很多。\n\n想問問看能處理到什麼程度？拍一張傳 LINE就可以。\n\n你都怎麼洗白鞋？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "白鞋鞋帶發灰，送洗前先看三個位置。\n\n白鞋放久了會黃，不是因為髒。那是材質本身在氧化。\n\n白鞋我會先確認是表面髒還是材質本身變色。這兩種能做到的程度差很多。\n\n想問問看能處理到什麼程度？拍一張私訊就可以。\n\n你都怎麼洗白鞋？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03",
+      "date": "2026-08-29",
+      "date_published": "2026-08-29T12:00:00+08:00",
+      "slot": 3,
+      "time": "12:00",
+      "title": "2026-08-29 12:00 馬丁靴整雙發霉了",
+      "topic": "馬丁靴整雙發霉了",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-29-slot-03.html",
+      "facebook_caption": "馬丁靴整雙發霉了。\n\n梅雨櫃子放一季,皮面就長出這層白灰。霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "馬丁靴整雙發霉了。\n\n梅雨櫃子放一季,皮面就長出這層白灰。霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-02",
@@ -3112,46 +3158,6 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-08-22-slot-01.html",
       "facebook_caption": "童鞋開學檢查，先看鞋口內裡和鞋底邊。\n\n暑假穿過的上學鞋，鞋口那圈汗漬和鞋底邊泥灰最先出來。看起來還能穿，硬刷只會把鞋口刷毛。\n\n我會先翻開鞋口看內裡是新汗還是已經悶黃的舊痕，再看鞋底邊和鞋頭黏合。開學前先處理，比開學當天再急好多了。\n\n開學前想先整理？拍一張傳 LINE，我們先幫你看鞋口那種悶。\n\n你家那雙上學鞋，鞋口有沒有開始黃？\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理童鞋和開學檢查的判斷。\n\n參考價：童鞋 $150（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #童鞋清潔 #開學準備 #鞋子除味 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "童鞋開學檢查，先看鞋口內裡和鞋底邊。\n\n暑假穿過的上學鞋，鞋口那圈汗漬和鞋底邊泥灰最先出來。看起來還能穿，硬刷只會把鞋口刷毛。\n\n我會先翻開鞋口看內裡是新汗還是已經悶黃的舊痕，再看鞋底邊和鞋頭黏合。開學前先處理，比開學當天再急好多了。\n\n開學前想先整理？拍一張私訊，我們先幫你看鞋口那種悶。\n\n你家那雙上學鞋，鞋口有沒有開始黃？\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理童鞋和開學檢查的判斷。\n\n參考價：童鞋 $150（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #童鞋清潔 #開學準備 #鞋子除味 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-03",
-      "date": "2026-08-21",
-      "date_published": "2026-08-21T12:00:00+08:00",
-      "slot": 3,
-      "time": "12:00",
-      "title": "2026-08-21 12:00 皮帶摺痕發白裂",
-      "topic": "皮帶摺痕發白裂",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-21-slot-03.html",
-      "facebook_caption": "老是扣同一格,那一摺的塗層會最先斷開來。\n\n清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。\n\n皮帶摺痕發白裂。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "老是扣同一格,那一摺的塗層會最先斷開來。\n\n清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。\n\n皮帶摺痕發白裂。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中"
     }
   ],
   "published_posts": [
@@ -8302,6 +8308,49 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-08-29-slot-02.html",
       "facebook_caption": "返家鞋櫃味道通常從一雙開始，先看容易忽略的位置。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你有幾雙鞋是因為不知道怎麼洗就一直放著？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋櫃收納 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "返家鞋櫃味道通常從一雙開始，先看容易忽略的位置。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張私訊給我們，先幫你看。\n\n你有幾雙鞋是因為不知道怎麼洗就一直放著？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋櫃收納 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03",
+      "date": "2026-08-29",
+      "date_published": "2026-08-29T12:00:00+08:00",
+      "slot": 3,
+      "time": "12:00",
+      "title": "2026-08-29 12:00 馬丁靴整雙發霉了",
+      "topic": "馬丁靴整雙發霉了",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-29-slot-03.html",
+      "facebook_caption": "馬丁靴整雙發霉了。\n\n梅雨櫃子放一季,皮面就長出這層白灰。霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "馬丁靴整雙發霉了。\n\n梅雨櫃子放一季,皮面就長出這層白灰。霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-01",

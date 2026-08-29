@@ -52,7 +52,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [送洗前怎麼拍照片詢問？](https://sixiangjialaundry.com/guides/photo-before-laundry.html): guide page for answer-engine and local-intent searches.
 - [白鞋泛黃怎麼判斷？](https://sixiangjialaundry.com/guides/white-shoe-yellowing.html): guide page for answer-engine and local-intent searches.
 - [開學前的制服整理:順序錯了會把黃痕定死](https://sixiangjialaundry.com/guides/school-uniform-care.html): guide page for answer-engine and local-intent searches.
-- [勃肯鞋鞋床發黑、有味道,還救得回來嗎?](https://sixiangjialaundry.com/guides/birkenstock-care.html): guide page for answer-engine and local-intent searches.
+- [勃肯鞋會臭嗎？先看軟木鞋床，不要整雙泡水](https://sixiangjialaundry.com/guides/birkenstock-care.html): guide page for answer-engine and local-intent searches.
 - [精品包發霉:先別擦,先看這三件事](https://sixiangjialaundry.com/guides/luxury-bag-mold.html): guide page for answer-engine and local-intent searches.
 - [羽絨外套、羽絨被怎麼洗才不會毀掉？](https://sixiangjialaundry.com/guides/down-jacket-cleaning.html): guide page for answer-engine and local-intent searches.
 - [皮衣清潔保養：發霉、變硬、色差怎麼判斷？](https://sixiangjialaundry.com/guides/leather-jacket-care.html): guide page for answer-engine and local-intent searches.
@@ -62,7 +62,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [寢具外套收納前要檢查什麼？](https://sixiangjialaundry.com/guides/bedding-storage-check.html): guide page for answer-engine and local-intent searches.
 - [襯衫清洗與西裝乾洗](https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html): guide page for answer-engine and local-intent searches.
 - [床組、棉被與寢具清洗](https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html): guide page for answer-engine and local-intent searches.
-- [娃娃與絨毛玩偶清潔](https://sixiangjialaundry.com/guides/plush-doll-cleaning.html): guide page for answer-engine and local-intent searches.
+- [台中哪裡洗絨毛娃娃？先看能不能洗](https://sixiangjialaundry.com/guides/plush-doll-cleaning.html): guide page for answer-engine and local-intent searches.
 - [精品名牌與精緻乾洗](https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html): guide page for answer-engine and local-intent searches.
 - [台中洗衣、洗鞋、洗包與免費收送怎麼找？](https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html): guide page for answer-engine and local-intent searches.
 - [送洗順便改衣服，可以一起處理嗎？](https://sixiangjialaundry.com/guides/clothing-alteration-with-laundry.html): guide page for answer-engine and local-intent searches.
@@ -160,6 +160,15 @@ This is the curated AI entry point. Read this file first, then choose the smalle
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
   image: https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png
   calendar: https://sixiangjialaundry.com/content-calendar/2026-08-30.json
+- [2026-08-29 12:00 馬丁靴整雙發霉了](https://sixiangjialaundry.com/posts/2026-08-29-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-29/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-29.json
 - [2026-08-29 20:30 細節拆解：返家鞋櫃味道通常從一雙開始，先看容易忽略的位置](https://sixiangjialaundry.com/posts/2026-08-29-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=dwell-detail; search_intent=aftercare
