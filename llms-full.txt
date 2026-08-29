@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-08-26T14:44:25.704Z
+- Generated at: 2026-08-29T01:09:47.947Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -50,6 +50,12 @@
 - support_pages.luxury-dry-cleaning: https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html
 - support_pages.taichung-laundry-service-search: https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html
 - support_pages.clothing-alteration-with-laundry: https://sixiangjialaundry.com/guides/clothing-alteration-with-laundry.html
+- support_pages.luggage-wheel-cleaning: https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html
+- support_pages.curtain-cleaning: https://sixiangjialaundry.com/guides/curtain-cleaning.html
+- support_pages.carpet-cleaning: https://sixiangjialaundry.com/guides/carpet-cleaning.html
+- support_pages.fengjia-laundry-pickup: https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html
+- support_pages.zhongke-office-laundry: https://sixiangjialaundry.com/local/zhongke-office-laundry.html
+- support_pages.donghai-laundry-pickup: https://sixiangjialaundry.com/local/donghai-laundry-pickup.html
 - support_pages.qinghai-road-shoe-cleaning: https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html
 - feed: https://sixiangjialaundry.com/feed.json
 - knowledge_graph: https://sixiangjialaundry.com/knowledge-graph.json
@@ -272,6 +278,12 @@
     "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -3925,7 +3937,7 @@ Facebook caption:
 
 行李箱收進櫃子前，先看輪子。
 
-輪子和底板整趟旅程都在地上磨，那些灰收進櫃子，下次打開就是那個味道。不用整咖搬來，台中市區免費到府收。
+台中市全區免費到府收送；清潔另計
 
 不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。
 
@@ -3941,7 +3953,7 @@ Instagram caption:
 
 行李箱收進櫃子前，先看輪子。
 
-輪子和底板整趟旅程都在地上磨，那些灰收進櫃子，下次打開就是那個味道。不用整咖搬來，台中市區免費到府收。
+台中市全區免費到府收送；清潔另計
 
 不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
 
@@ -6311,4 +6323,314 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-30 11:30 可收藏：白鞋鞋帶發灰，送洗前先看三個位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-01
+- published local time: 2026-08-30T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: dwell-detail
+- search_intent: problem-diagnosis
+- target_queries: 台中白鞋清潔 | 台中洗鞋店 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-30.json
+
+Facebook caption:
+
+白鞋鞋帶發灰，送洗前先看三個位置。
+
+白鞋放久了會黃，不是因為髒。那是材質本身在氧化。
+
+白鞋我會先確認是表面髒還是材質本身變色。這兩種能做到的程度差很多。
+
+想問問看能處理到什麼程度？拍一張傳 LINE就可以。
+
+你都怎麼洗白鞋？
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+參考價：一般運動鞋 $250、皮類 $300（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+白鞋鞋帶發灰，送洗前先看三個位置。
+
+白鞋放久了會黃，不是因為髒。那是材質本身在氧化。
+
+白鞋我會先確認是表面髒還是材質本身變色。這兩種能做到的程度差很多。
+
+想問問看能處理到什麼程度？拍一張私訊就可以。
+
+你都怎麼洗白鞋？
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+參考價：一般運動鞋 $250、皮類 $300（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-30 20:30 今天情境：換季時西裝和襯衫不要一起悶收
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-02
+- published local time: 2026-08-30T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: share-worthy-care
+- search_intent: aftercare
+- target_queries: 台中西裝乾洗 | 台中襯衫清洗 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-30.json
+
+Facebook caption:
+
+換季時西裝和襯衫不要一起悶收。
+
+西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。
+
+西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。
+
+不確定還洗不洗得回來？拍一張傳 LINE給我們看看。
+
+你有幾件襯衫是黃了以後就沒再穿的？
+
+家裡那個襯衫領口都黃了還在穿的人，傳給他。
+
+追蹤私享家，之後會持續整理襯衫、西裝與精緻衣物的送洗前判斷。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+換季時西裝和襯衫不要一起悶收。
+
+西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。
+
+西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。
+
+不確定還洗不洗得回來？拍一張私訊給我們看看。
+
+你有幾件襯衫是黃了以後就沒再穿的？
+
+家裡那個襯衫領口都黃了還在穿的人，傳給他。
+
+追蹤私享家，之後會持續整理襯衫、西裝與精緻衣物的送洗前判斷。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-30 12:00 雨天機車族外套袖口與鞋面
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-03
+- published local time: 2026-08-30T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔
+- image: https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-30.json
+
+Facebook caption:
+
+雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。
+
+如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。
+
+我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。
+
+騎車淋雨後，可以拍袖口、鞋面和鞋邊，我們先幫你看狀況。
+
+私享家洗衣店｜台中市區免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔
+
+Instagram caption:
+
+雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。
+
+如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。
+
+我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。
+
+騎車淋雨後，可以拍袖口、鞋面和鞋邊，我們先幫你看狀況。
+
+私享家洗衣店｜台中市區免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔
+
+### 2026-08-31 11:30 可收藏：精品名牌鞋護理，送洗前先看三個位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-01
+- published local time: 2026-08-31T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: value-prop-lead
+- search_intent: problem-diagnosis
+- target_queries: 台中精品乾洗 | 台中名牌衣物清潔 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-31.json
+
+Facebook caption:
+
+精品名牌鞋護理，送洗前先看三個位置。
+
+精品最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。
+
+精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。
+
+不確定這件能不能處理？拍一張傳 LINE，我們先看材質再說。
+
+哪一件是你最不敢自己動手處理的？
+
+追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+精品名牌鞋護理，送洗前先看三個位置。
+
+精品最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。
+
+精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。
+
+不確定這件能不能處理？拍一張私訊，我們先看材質再說。
+
+哪一件是你最不敢自己動手處理的？
+
+追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-31 20:30 細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-02
+- published local time: 2026-08-31T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: trust-reset
+- search_intent: aftercare
+- target_queries: 台中洗鞋店 | 台中洗包包 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-31.json
+
+Facebook caption:
+
+久放包包有霉味先不要硬擦，先看容易忽略的位置。
+
+包包最先變舊的是提把。那不是灰塵，是手汗堆的。
+
+包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。
+
+台中市區我們到府收，傳 LINE說一聲就好。
+
+你最常背的那個包，哪裡先磨壞的？
+
+朋友那個包背到提把都變色了，這篇傳給他。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+久放包包有霉味先不要硬擦，先看容易忽略的位置。
+
+包包最先變舊的是提把。那不是灰塵，是手汗堆的。
+
+包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。
+
+台中市區我們到府收，私訊說一聲就好。
+
+你最常背的那個包，哪裡先磨壞的？
+
+朋友那個包背到提把都變色了，這篇傳給他。
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-08-31 12:00 餐聚後外套與包包的味道
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-03
+- published local time: 2026-08-31T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #衣物除味 #包包保養 #生活洗護
+- image: https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-08-31.json
+
+Facebook caption:
+
+餐聚回來後，外套和包包有時候不是髒，而是油煙味、香水味和室內味道混在一起。
+
+味道如果停在布料或皮革表面還好，若悶進內裡和提把，隔天拿出來會更明顯。
+
+我們會分開看外套材質、內裡味道、包包提把和內袋狀態，再判斷需要除味、清潔或保守整理。
+
+如果餐聚後味道很重，拍外套內裡和包包提把，我們幫你判斷。
+
+私享家洗衣店｜台中市區免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #衣物除味 #包包保養 #生活洗護
+
+Instagram caption:
+
+餐聚回來後，外套和包包有時候不是髒，而是油煙味、香水味和室內味道混在一起。
+
+味道如果停在布料或皮革表面還好，若悶進內裡和提把，隔天拿出來會更明顯。
+
+我們會分開看外套材質、內裡味道、包包提把和內袋狀態，再判斷需要除味、清潔或保守整理。
+
+如果餐聚後味道很重，拍外套內裡和包包提把，我們幫你判斷。
+
+私享家洗衣店｜台中市區免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #衣物除味 #包包保養 #生活洗護
 
