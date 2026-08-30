@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-28",
-  "generated_at": "2026-08-29T03:44:55.395Z",
+  "generated_at": "2026-08-30T17:11:35.767Z",
   "name": "私享家 SEO / AIO / GEO 搜尋意圖與 28 天能見度規格",
   "status": "strategy-and-measurement-contract",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -93,7 +93,8 @@
       "primary_routes": [
         "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
         "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-        "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
+        "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
+        "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html"
       ],
       "guardrail": "不得用自稱第一、最好或保證恢復新品來代替可核對的服務差異。"
     },
@@ -271,7 +272,8 @@
         "expected_source_pages": [
           "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
           "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
+          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
+          "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html"
         ]
       },
       {
@@ -282,7 +284,8 @@
         "expected_source_pages": [
           "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
           "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
+          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
+          "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html"
         ]
       },
       {
@@ -293,7 +296,8 @@
         "expected_source_pages": [
           "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
           "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
+          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
+          "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html"
         ]
       },
       {
