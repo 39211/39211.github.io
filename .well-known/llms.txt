@@ -112,37 +112,14 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
-- [2026-08-31 12:00 餐聚後外套與包包的味道](https://sixiangjialaundry.com/posts/2026-08-31-slot-03.html)
+- [2026-08-30 12:00 毛毯起球摸起來粗](https://sixiangjialaundry.com/posts/2026-08-30-slot-03.html)
   platform targets: facebook, instagram
-  routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=(legacy-unassigned)
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
   target_queries: (legacy-unassigned)
   evidence_type: (legacy-unassigned)
-  hashtags: #私享家洗衣店 #衣物除味 #包包保養 #生活洗護
-  image: https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png
-  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-31.json
-- [2026-08-31 20:30 細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置](https://sixiangjialaundry.com/posts/2026-08-31-slot-02.html)
-  platform targets: facebook, instagram
-  routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=trust-reset; search_intent=aftercare
-  target_queries: 台中洗鞋店 | 台中洗包包 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
-  evidence_type: customer-question
-  hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
-  image: https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png
-  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-31.json
-- [2026-08-31 11:30 可收藏：精品名牌鞋護理，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-31-slot-01.html)
-  platform targets: facebook, instagram
-  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=problem-diagnosis
-  target_queries: 台中精品乾洗 | 台中名牌衣物清潔 | 白鞋泛黃怎麼辦 | 鞋子淋雨怎麼處理
-  evidence_type: first-party-inspection
-  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
-  image: https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png
-  calendar: https://sixiangjialaundry.com/content-calendar/2026-08-31.json
-- [2026-08-30 12:00 雨天機車族外套袖口與鞋面](https://sixiangjialaundry.com/posts/2026-08-30-slot-03.html)
-  platform targets: facebook, instagram
-  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=object-proof; search_intent=(legacy-unassigned)
-  target_queries: (legacy-unassigned)
-  evidence_type: (legacy-unassigned)
-  hashtags: #私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
   image: https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-08-30/slot-03.mp4
   calendar: https://sixiangjialaundry.com/content-calendar/2026-08-30.json
 - [2026-08-30 20:30 今天情境：換季時西裝和襯衫不要一起悶收](https://sixiangjialaundry.com/posts/2026-08-30-slot-02.html)
   platform targets: facebook, instagram
@@ -441,7 +418,6 @@ This is the curated AI entry point. Read this file first, then choose the smalle
   evidence_type: customer-question
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
   image: https://sixiangjialaundry.com/assets/2026-08-18/slot-02.png
-  video: https://sixiangjialaundry.com/assets/2026-08-18/slot-02.mp4
   calendar: https://sixiangjialaundry.com/content-calendar/2026-08-18.json
 - [2026-08-18 11:30 可收藏：外套領口袖口的日常油痕，送洗前先看三個位置](https://sixiangjialaundry.com/posts/2026-08-18-slot-01.html)
   platform targets: facebook, instagram
