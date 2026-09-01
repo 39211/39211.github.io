@@ -1,0 +1,77 @@
+{
+  "topic": "可收藏：學校團體制服開學批洗，送洗前先看三個位置",
+  "date": "2026-09-02",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張分別呈現雙色長袖制服、灰色短袖制服、另一套雙色長袖制服與綠色短袖制服，顏色家族及款式細節不同，並非同一件實體衣物。",
+    "SCENE": "四張都在粉紅切割墊與槽板牆同類型的洗衣店櫃檯拍攝。",
+    "TOPIC_MATCH": "四張均以學校或團體制服上衣與褲裝為主要物件，符合制服批洗主題。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-01.png",
+      "canary": "KPCR",
+      "sha256": "3b3c980012ad919e6df2aaa8dd3e82164b1782a424ca95d2492ef44602688872"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-01-slide-02.png",
+      "canary": "XM5Q",
+      "sha256": "06e420bc9d5ffcc36877a776eae104368040c137db0b1cd02b9b9dd89c8c0965"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-01-slide-03.png",
+      "canary": "MWMJ",
+      "sha256": "1673906ebaf4c482993e2e6fe3f62fb3155bf1041cc67cd62dfad483793080e7"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-01-slide-04.png",
+      "canary": "LLWA",
+      "sha256": "d8f44a20f9eaa548134fe4bf8c1ea5496e1a36a575fb9d53c39806e5c09a49b7"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "KPCR",
+    "IMAGE_2": "XM5Q",
+    "IMAGE_3": "MWMJ",
+    "IMAGE_4": "LLWA"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "KPCR",
+    "IMAGE_2": "XM5Q",
+    "IMAGE_3": "MWMJ",
+    "IMAGE_4": "LLWA"
+  },
+  "prompt_hash": "e5a77677c0a5590714073f320d8bfd2f6d9a870d1041db2fd1ec5b70bcd2817a",
+  "run_id": "carousel-qa-1788073810549",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-30T07:11:50.650Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

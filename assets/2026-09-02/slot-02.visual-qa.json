@@ -1,0 +1,77 @@
+{
+  "topic": "今天情境：雨後通勤回家不要直接收鞋",
+  "date": "2026-09-02",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張可見不同鞋面結構，且粗材質在皮革、織物與混合材質間改變，並非同一雙鞋。",
+    "SCENE": "四張皆在粉紅墊與板條牆的同一櫃台場景家族。",
+    "TOPIC_MATCH": "四張主體皆為球鞋，符合主題中的鞋類物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-02.png",
+      "canary": "YCTN",
+      "sha256": "8aa786b51c0afb720f9cdcc97f60adba7936bb5d00eeb76bea394ab965d6e153"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-02-slide-02.png",
+      "canary": "BD5J",
+      "sha256": "b09d58de5dd6318ad931adc5617d9d7460a13115c6646fa8852ca60ebb3b5a19"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-02-slide-03.png",
+      "canary": "H3CM",
+      "sha256": "be3869d978d923700a9865fd15737099ebddcc067e2b634b72e508b0cdf1f068"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-02-slide-04.png",
+      "canary": "FHMP",
+      "sha256": "23acb1135db00ea1e7be5feb303a4666083b76676a86245b5747f39fa098a0f6"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-02\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "YCTN",
+    "IMAGE_2": "BD5J",
+    "IMAGE_3": "H3CM",
+    "IMAGE_4": "FHMP"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "YCTN",
+    "IMAGE_2": "BD5J",
+    "IMAGE_3": "H3CM",
+    "IMAGE_4": "FHMP"
+  },
+  "prompt_hash": "d16b729f2b2ae886835c15d68f2c35f61fb3f2e5328f96c3301d656fce111760",
+  "run_id": "carousel-qa-1788074214057",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-08-30T07:18:02.469Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
