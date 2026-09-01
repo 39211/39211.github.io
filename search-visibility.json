@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-28",
-  "generated_at": "2026-08-30T17:11:35.767Z",
+  "generated_at": "2026-09-01T20:11:29.672Z",
   "name": "私享家 SEO / AIO / GEO 搜尋意圖與 28 天能見度規格",
   "status": "strategy-and-measurement-contract",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -22,10 +22,7 @@
         "西屯洗衣店",
         "青海路洗衣店",
         "逢甲洗鞋",
-        "台中洗包包",
-        "逢甲洗衣店",
-        "東海洗衣",
-        "中科洗衣"
+        "台中洗包包"
       ],
       "answer_pattern": "先回答店名、地址、服務物件與收送範圍，再連到可驗證的店家資料與服務頁。",
       "evidence_required": [
@@ -35,9 +32,6 @@
       "primary_routes": [
         "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
         "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
-        "https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html",
-        "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
-        "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
         "https://sixiangjialaundry.com/business-profile.json"
       ],
       "guardrail": "不得用只替換地名的薄頁搶排名；地區內容必須有真實地址、服務範圍或門市情境。"
@@ -50,13 +44,8 @@
         "白鞋泛黃怎麼辦",
         "鞋子淋雨怎麼處理",
         "包包提把髒了怎麼辦",
-        "勃肯鞋會臭嗎",
-        "絨毛娃娃清洗店",
         "棉被有潮味怎麼辦",
-        "娃娃可以洗嗎",
-        "台中洗窗簾",
-        "台中洗地毯",
-        "台中洗行李箱"
+        "娃娃可以洗嗎"
       ],
       "answer_pattern": "第一段直接回答；接著說明物件、材質、問題位置與門市會看的細節，最後寫清楚處理界線。",
       "evidence_required": [
@@ -67,10 +56,7 @@
         "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
         "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
         "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-        "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
-        "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
-        "https://sixiangjialaundry.com/guides/curtain-cleaning.html",
-        "https://sixiangjialaundry.com/guides/carpet-cleaning.html"
+        "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
       ],
       "guardrail": "不得把材質老化、磨損或氧化寫成一定能清除的髒污。"
     },
@@ -93,8 +79,7 @@
       "primary_routes": [
         "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
         "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-        "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
-        "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html"
+        "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
       ],
       "guardrail": "不得用自稱第一、最好或保證恢復新品來代替可核對的服務差異。"
     },
@@ -185,9 +170,6 @@
         "expected_source_pages": [
           "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
           "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
-          "https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html",
-          "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
-          "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
           "https://sixiangjialaundry.com/business-profile.json"
         ]
       },
@@ -199,9 +181,6 @@
         "expected_source_pages": [
           "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
           "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
-          "https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html",
-          "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
-          "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
           "https://sixiangjialaundry.com/business-profile.json"
         ]
       },
@@ -213,9 +192,6 @@
         "expected_source_pages": [
           "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
           "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
-          "https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html",
-          "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
-          "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
           "https://sixiangjialaundry.com/business-profile.json"
         ]
       },
@@ -228,10 +204,7 @@
           "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
           "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
           "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-          "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
-          "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
-          "https://sixiangjialaundry.com/guides/curtain-cleaning.html",
-          "https://sixiangjialaundry.com/guides/carpet-cleaning.html"
+          "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
         ]
       },
       {
@@ -243,10 +216,7 @@
           "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
           "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
           "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-          "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
-          "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
-          "https://sixiangjialaundry.com/guides/curtain-cleaning.html",
-          "https://sixiangjialaundry.com/guides/carpet-cleaning.html"
+          "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
         ]
       },
       {
@@ -258,10 +228,7 @@
           "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
           "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
           "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-          "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
-          "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
-          "https://sixiangjialaundry.com/guides/curtain-cleaning.html",
-          "https://sixiangjialaundry.com/guides/carpet-cleaning.html"
+          "https://sixiangjialaundry.com/guides/photo-before-laundry.html"
         ]
       },
       {
@@ -272,8 +239,7 @@
         "expected_source_pages": [
           "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
           "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
-          "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html"
+          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
         ]
       },
       {
@@ -284,8 +250,7 @@
         "expected_source_pages": [
           "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
           "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
-          "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html"
+          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
         ]
       },
       {
@@ -296,8 +261,7 @@
         "expected_source_pages": [
           "https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html",
           "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
-          "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html"
+          "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html"
         ]
       },
       {
