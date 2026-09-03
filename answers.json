@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-08-30T17:11:35.767Z",
+  "generated_at": "2026-09-03T03:02:13.618Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -51,7 +51,7 @@
         "url": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html"
       },
       {
-        "label": "Bag handle and corner",
+        "label": "Luggage wheel and bag handle",
         "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html"
       },
       {
@@ -1410,13 +1410,12 @@
     {
       "id": "birkenstock-care-summary",
       "type": "guide_summary",
-      "question": "勃肯鞋會臭嗎？先看軟木鞋床，不要整雙泡水",
-      "answer": "勃肯鞋會臭，多半是軟木鞋床吸汗，不是鞋面；整雙泡水會更糟。",
+      "question": "勃肯鞋鞋床發黑、有味道,還救得回來嗎?",
+      "answer": "勃肯這類軟木鞋床的鞋,問題幾乎都在同一個地方:腳掌接觸的那層軟木被汗浸久了,顏色變深、味道跑出來。麂皮鞋面怕水、軟木怕泡,所以整雙丟水裡刷是最傷的做法。分開處理才對。",
       "service": "白鞋清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
-        "勃肯鞋會臭嗎",
         "勃肯鞋清潔",
         "勃肯鞋發黑",
         "軟木鞋床 清洗",
@@ -1439,13 +1438,12 @@
     {
       "id": "birkenstock-care-faq-01",
       "type": "guide_faq",
-      "question": "勃肯鞋會臭嗎?",
-      "answer": "會，而且味道多半來自軟木鞋床吸汗，不是鞋面。噴除臭劑蓋不住；要處理鞋床，不要整雙泡水。",
+      "question": "勃肯鞋可以整雙丟洗衣機嗎?",
+      "answer": "不建議。軟木鞋床泡水後會鬆散變形、麂皮會硬掉,洗完可能比洗前更糟。分材質處理才是正確做法。",
       "service": "白鞋清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
-        "勃肯鞋會臭嗎",
         "勃肯鞋清潔",
         "勃肯鞋發黑",
         "軟木鞋床 清洗",
@@ -1468,13 +1466,12 @@
     {
       "id": "birkenstock-care-faq-02",
       "type": "guide_faq",
-      "question": "勃肯鞋可以整雙丟洗衣機嗎?",
-      "answer": "不建議。軟木鞋床泡水後會鬆散變形、麂皮會硬掉,洗完可能比洗前更糟。分材質處理才是正確做法。",
+      "question": "鞋床黑掉能洗回原色嗎?",
+      "answer": "表層角質與塵土多半能明顯改善;汗垢已滲入軟木深層的,以去味與淡化為目標,不保證回到原色。處理前會先講清楚界線。",
       "service": "白鞋清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
-        "勃肯鞋會臭嗎",
         "勃肯鞋清潔",
         "勃肯鞋發黑",
         "軟木鞋床 清洗",
@@ -1497,13 +1494,12 @@
     {
       "id": "birkenstock-care-faq-03",
       "type": "guide_faq",
-      "question": "鞋床黑掉能洗回原色嗎?",
-      "answer": "表層角質與塵土多半能明顯改善;汗垢已滲入軟木深層的,以去味與淡化為目標,不保證回到原色。處理前會先講清楚界線。",
+      "question": "台中洗勃肯鞋多少錢?",
+      "answer": "參考價:休閒鞋 $350、麂皮鞋 $400(水洗價,乾洗柔洗另計,以實際報價為主)。LINE 傳鞋床與鞋面照片(0968327653)可先確認。",
       "service": "白鞋清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
-        "勃肯鞋會臭嗎",
         "勃肯鞋清潔",
         "勃肯鞋發黑",
         "軟木鞋床 清洗",
@@ -1526,42 +1522,12 @@
     {
       "id": "birkenstock-care-faq-04",
       "type": "guide_faq",
-      "question": "台中洗勃肯鞋多少錢?",
-      "answer": "參考價:休閒鞋 $350、麂皮鞋 $400(水洗價,乾洗柔洗另計,以實際報價為主)。LINE 傳鞋床與鞋面照片(0968327653)可先確認。",
-      "service": "白鞋清潔",
-      "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
-      "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
-      "keywords": [
-        "勃肯鞋會臭嗎",
-        "勃肯鞋清潔",
-        "勃肯鞋發黑",
-        "軟木鞋床 清洗",
-        "台中洗勃肯",
-        "麂皮鞋清潔",
-        "勃肯鞋除臭"
-      ],
-      "area": "西屯區",
-      "confidence": "business-owned-source",
-      "citation_guidance": "Use the answer as short factual context and cite source_url.",
-      "do_not_infer": [
-        "Do not infer pricing.",
-        "Do not guarantee that white shoes can be fully whitened.",
-        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
-        "Do not infer Google review count or rating unless verified from a live Google source.",
-        "Do not infer holiday hours or temporary closures.",
-        "Use business-profile.json and the service pages as the source of record for business facts."
-      ]
-    },
-    {
-      "id": "birkenstock-care-faq-05",
-      "type": "guide_faq",
       "question": "多久洗一次比較好?",
       "answer": "天天穿的建議每季一次,不要等到味道明顯才處理——汗垢滲得越深越難救。台中市全區免費收送。",
       "service": "白鞋清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
-        "勃肯鞋會臭嗎",
         "勃肯鞋清潔",
         "勃肯鞋發黑",
         "軟木鞋床 清洗",
@@ -2227,17 +2193,18 @@
     {
       "id": "bag-handle-cleaning-summary",
       "type": "guide_summary",
-      "question": "包包提把與包角怎麼判斷？",
-      "answer": "提把發黏是手汗堆的；滲進皮層只能淡化，還沒變色現在處理較省。",
+      "question": "包包提把、包角與行李箱輪子怎麼判斷？",
+      "answer": "行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-      "local_intent": "台中西屯 包包清潔 提把 包角",
+      "local_intent": "台中西屯 包包清潔 行李箱輪子",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
         "台中西屯洗包",
-        "洗包包"
+        "行李箱清潔",
+        "行李箱輪子"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -2258,13 +2225,14 @@
       "answer": "要看材質與髒污範圍。有些狀況可以局部處理，有些則需要搭配整體清潔，避免色差太明顯。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html#faq",
-      "local_intent": "台中西屯 包包清潔 提把 包角",
+      "local_intent": "台中西屯 包包清潔 行李箱輪子",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
         "台中西屯洗包",
-        "洗包包"
+        "行李箱清潔",
+        "行李箱輪子"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -2285,13 +2253,14 @@
       "answer": "磨損不是髒污，清潔只能處理表面髒和部分水痕，磨耗本身需另外評估。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html#faq",
-      "local_intent": "台中西屯 包包清潔 提把 包角",
+      "local_intent": "台中西屯 包包清潔 行李箱輪子",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
         "台中西屯洗包",
-        "洗包包"
+        "行李箱清潔",
+        "行李箱輪子"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -2309,16 +2278,17 @@
       "id": "bag-handle-cleaning-faq-03",
       "type": "guide_faq",
       "question": "行李箱輪子髒了可以送洗嗎？",
-      "answer": "可以。輪子、底板與旅行箱布面請看行李箱輪子清潔指南；本頁只判斷提把與包角。沒看過物件前不報固定價。",
+      "answer": "可以先傳輪子、底板與把手照片詢問。門市會看材質與灰塵深度，再說明適合局部清潔還是外觀整理；沒看過物件前不報固定價。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html#faq",
-      "local_intent": "台中西屯 包包清潔 提把 包角",
+      "local_intent": "台中西屯 包包清潔 行李箱輪子",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
         "台中西屯洗包",
-        "洗包包"
+        "行李箱清潔",
+        "行李箱輪子"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -2581,13 +2551,12 @@
     {
       "id": "plush-doll-cleaning-summary",
       "type": "guide_summary",
-      "question": "台中哪裡洗絨毛娃娃？先看能不能洗",
+      "question": "娃娃與絨毛玩偶清潔",
       "answer": "娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
       "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
       "keywords": [
-        "絨毛娃娃清洗店",
         "台中西屯娃娃清洗",
         "台中布偶清潔",
         "絨毛玩偶清洗",
@@ -2610,13 +2579,12 @@
     {
       "id": "plush-doll-cleaning-faq-01",
       "type": "guide_faq",
-      "question": "台中哪裡有絨毛娃娃清洗店？",
-      "answer": "西屯青海路二段365號的私享家洗衣店可判斷娃娃能不能洗；先拍正反面與五官，台中市可約免費收送。",
+      "question": "娃娃可以直接丟洗衣機嗎？",
+      "answer": "不建議在未確認填充物、五官與黏貼配件前直接機洗，先拍照詢問較安全。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#faq",
       "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
       "keywords": [
-        "絨毛娃娃清洗店",
         "台中西屯娃娃清洗",
         "台中布偶清潔",
         "絨毛玩偶清洗",
@@ -2639,42 +2607,12 @@
     {
       "id": "plush-doll-cleaning-faq-02",
       "type": "guide_faq",
-      "question": "娃娃可以直接丟洗衣機嗎？",
-      "answer": "不建議在未確認填充物、五官與黏貼配件前直接機洗，先拍照詢問較安全。",
-      "service": "台中西屯洗衣店",
-      "source_url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#faq",
-      "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
-      "keywords": [
-        "絨毛娃娃清洗店",
-        "台中西屯娃娃清洗",
-        "台中布偶清潔",
-        "絨毛玩偶清洗",
-        "娃娃送洗",
-        "玩偶清潔",
-        "西屯洗衣店"
-      ],
-      "area": "西屯區",
-      "confidence": "business-owned-source",
-      "citation_guidance": "Use the answer as short factual context and cite source_url.",
-      "do_not_infer": [
-        "Do not infer pricing.",
-        "Do not guarantee that white shoes can be fully whitened.",
-        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
-        "Do not infer Google review count or rating unless verified from a live Google source.",
-        "Do not infer holiday hours or temporary closures.",
-        "Use business-profile.json and the service pages as the source of record for business facts."
-      ]
-    },
-    {
-      "id": "plush-doll-cleaning-faq-03",
-      "type": "guide_faq",
       "question": "絨毛玩偶有異味可以送洗嗎？",
       "answer": "可以先傳照片並說明異味、受潮與存放情況，門市會先確認材質與處理方向。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#faq",
       "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
       "keywords": [
-        "絨毛娃娃清洗店",
         "台中西屯娃娃清洗",
         "台中布偶清潔",
         "絨毛玩偶清洗",
@@ -2785,10 +2723,11 @@
       "answer": "先用手上的物件和問題找服務，不必只搜尋店名。私享家把台中洗衣、洗鞋、洗包、床組棉被、襯衫西裝、娃娃、精品乾洗與免費收送分成可核對的服務與指南；每個答案都回到材質、位置、狀態與處理界線。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html",
-      "local_intent": "台中 洗衣 洗鞋 洗包 床組 西裝 怎麼找 免費收送",
+      "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送",
       "keywords": [
-        "台中洗衣店怎麼找",
-        "台中洗鞋店怎麼選",
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
         "台中洗包包",
         "台中棉被清洗",
         "台中西裝乾洗",
@@ -2815,10 +2754,11 @@
       "answer": "先看網站是否把物件、材質、問題位置與處理界線說清楚，再傳整體、局部和洗標照片詢問，不要只看一個泛用價目或保證字句。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html#faq",
-      "local_intent": "台中 洗衣 洗鞋 洗包 床組 西裝 怎麼找 免費收送",
+      "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送",
       "keywords": [
-        "台中洗衣店怎麼找",
-        "台中洗鞋店怎麼選",
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
         "台中洗包包",
         "台中棉被清洗",
         "台中西裝乾洗",
@@ -2845,10 +2785,11 @@
       "answer": "可以先在 LINE 一次列出品項並附照片，但每件物件仍會依材質、結構、髒污與既有磨損分別判斷。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html#faq",
-      "local_intent": "台中 洗衣 洗鞋 洗包 床組 西裝 怎麼找 免費收送",
+      "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送",
       "keywords": [
-        "台中洗衣店怎麼找",
-        "台中洗鞋店怎麼選",
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
         "台中洗包包",
         "台中棉被清洗",
         "台中西裝乾洗",
@@ -2875,10 +2816,11 @@
       "answer": "收送本身免費，清潔、洗護或其他整理費用另計；預約時請提供大致地區、品項與照片。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html#faq",
-      "local_intent": "台中 洗衣 洗鞋 洗包 床組 西裝 怎麼找 免費收送",
+      "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送",
       "keywords": [
-        "台中洗衣店怎麼找",
-        "台中洗鞋店怎麼選",
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
         "台中洗包包",
         "台中棉被清洗",
         "台中西裝乾洗",
@@ -2905,10 +2847,11 @@
       "answer": "不建議。請回到私享家店家資料、服務頁或 LINE 核對；網站不提供未驗證價格，也不保證完全洗白、去除全部痕跡或恢復新品。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html#faq",
-      "local_intent": "台中 洗衣 洗鞋 洗包 床組 西裝 怎麼找 免費收送",
+      "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送",
       "keywords": [
-        "台中洗衣店怎麼找",
-        "台中洗鞋店怎麼選",
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
         "台中洗包包",
         "台中棉被清洗",
         "台中西裝乾洗",
@@ -3980,6 +3923,2502 @@
         "青海路洗鞋",
         "逢甲洗包包",
         "西屯洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "suede-shoe-cleaning-summary",
+      "type": "guide_summary",
+      "question": "麂皮鞋變硬、發亮，還能自己擦嗎？",
+      "answer": "麂皮變硬多半是絨毛倒伏，不要濕擦；先乾刷看方向。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
+      "local_intent": "台中西屯 麂皮鞋 變硬 發亮 乾刷",
+      "keywords": [
+        "麂皮鞋清潔",
+        "麂皮鞋變硬",
+        "麂皮鞋發亮",
+        "台中洗麂皮"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "suede-shoe-cleaning-faq-01",
+      "type": "guide_faq",
+      "question": "麂皮鞋可以拿濕布擦亮嗎？",
+      "answer": "不建議。濕擦常把絨毛壓平，看起來更亮更硬。先停手，拍自然光近照再問。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#faq",
+      "local_intent": "台中西屯 麂皮鞋 變硬 發亮 乾刷",
+      "keywords": [
+        "麂皮鞋清潔",
+        "麂皮鞋變硬",
+        "麂皮鞋發亮",
+        "台中洗麂皮"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "suede-shoe-cleaning-faq-02",
+      "type": "guide_faq",
+      "question": "麂皮被雨淋過還能恢復嗎？",
+      "answer": "要看倒伏與水圈範圍。輕微浮灰較有機會；泡水變硬或染色只能淡化，不保證原絨向。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#faq",
+      "local_intent": "台中西屯 麂皮鞋 變硬 發亮 乾刷",
+      "keywords": [
+        "麂皮鞋清潔",
+        "麂皮鞋變硬",
+        "麂皮鞋發亮",
+        "台中洗麂皮"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "suede-shoe-cleaning-faq-03",
+      "type": "guide_faq",
+      "question": "這頁和勃肯鞋清潔是同一件事嗎？",
+      "answer": "不是。勃肯要另外看軟木鞋床；本頁只處理一般麂皮鞋面的倒伏與水痕風險。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#faq",
+      "local_intent": "台中西屯 麂皮鞋 變硬 發亮 乾刷",
+      "keywords": [
+        "麂皮鞋清潔",
+        "麂皮鞋變硬",
+        "麂皮鞋發亮",
+        "台中洗麂皮"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "canvas-shoe-mud-summary",
+      "type": "guide_summary",
+      "question": "帆布鞋沾泥，現在刷還是等乾？",
+      "answer": "帆布沾泥先等乾再處理；濕刷會把泥推進織紋。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
+      "local_intent": "台中西屯 帆布鞋 沾泥 等乾 起毛",
+      "keywords": [
+        "帆布鞋沾泥",
+        "帆布鞋清潔",
+        "帆布鞋起毛",
+        "台中洗帆布鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "canvas-shoe-mud-faq-01",
+      "type": "guide_faq",
+      "question": "帆布鞋踩到泥，回家第一件事是什麼？",
+      "answer": "先通風等乾，不要立刻刷。濕刷會把泥推進織紋，之後看起來更像洗不掉。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#faq",
+      "local_intent": "台中西屯 帆布鞋 沾泥 等乾 起毛",
+      "keywords": [
+        "帆布鞋沾泥",
+        "帆布鞋清潔",
+        "帆布鞋起毛",
+        "台中洗帆布鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "canvas-shoe-mud-faq-02",
+      "type": "guide_faq",
+      "question": "等乾了自己用硬刷可以嗎？",
+      "answer": "不建議硬刷。織紋一起毛，色差會留下。先拍近照問，不要先破壞表面。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#faq",
+      "local_intent": "台中西屯 帆布鞋 沾泥 等乾 起毛",
+      "keywords": [
+        "帆布鞋沾泥",
+        "帆布鞋清潔",
+        "帆布鞋起毛",
+        "台中洗帆布鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "canvas-shoe-mud-faq-03",
+      "type": "guide_faq",
+      "question": "帆布發黃和沾泥是同一題嗎？",
+      "answer": "不是。泥是顆粒進織紋；泛黃可能是氧化或洗劑殘留。先分位置再決定頁面。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#faq",
+      "local_intent": "台中西屯 帆布鞋 沾泥 等乾 起毛",
+      "keywords": [
+        "帆布鞋沾泥",
+        "帆布鞋清潔",
+        "帆布鞋起毛",
+        "台中洗帆布鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "leather-shoe-water-marks-summary",
+      "type": "guide_summary",
+      "question": "皮鞋雨痕浮出來前，不要急著上油",
+      "answer": "皮鞋雨痕先不要上油；水痕浮出後上油會鎖進皮裡。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
+      "local_intent": "台中西屯 皮鞋 水痕 上油 淋雨",
+      "keywords": [
+        "皮鞋水痕",
+        "皮鞋淋雨",
+        "皮鞋上油",
+        "台中洗皮鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "leather-shoe-water-marks-faq-01",
+      "type": "guide_faq",
+      "question": "皮鞋淋雨當天擦乾上油，比較不容易壞嗎？",
+      "answer": "不一定。水痕常晚點才浮出，這時上油可能把圈印鎖進皮面。先通風，不要急著上油。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#faq",
+      "local_intent": "台中西屯 皮鞋 水痕 上油 淋雨",
+      "keywords": [
+        "皮鞋水痕",
+        "皮鞋淋雨",
+        "皮鞋上油",
+        "台中洗皮鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "leather-shoe-water-marks-faq-02",
+      "type": "guide_faq",
+      "question": "可以用吹風機把皮鞋吹乾嗎？",
+      "answer": "不建議高溫直吹。膠與皮革都可能變形。先吸水、取出鞋墊、陰乾。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#faq",
+      "local_intent": "台中西屯 皮鞋 水痕 上油 淋雨",
+      "keywords": [
+        "皮鞋水痕",
+        "皮鞋淋雨",
+        "皮鞋上油",
+        "台中洗皮鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "leather-shoe-water-marks-faq-03",
+      "type": "guide_faq",
+      "question": "水痕洗得掉嗎？",
+      "answer": "要看有沒有被油鎖住。未上油的雨痕較能評估；已鎖住的只能淡化，不保證消失。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#faq",
+      "local_intent": "台中西屯 皮鞋 水痕 上油 淋雨",
+      "keywords": [
+        "皮鞋水痕",
+        "皮鞋淋雨",
+        "皮鞋上油",
+        "台中洗皮鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-odor-source-summary",
+      "type": "guide_summary",
+      "question": "鞋臭先分來源，不要先噴香水",
+      "answer": "鞋臭先分潮氣、汗垢與悶放；不要用香味蓋住。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-odor-source.html",
+      "local_intent": "台中西屯 鞋臭 悶味 汗 收納",
+      "keywords": [
+        "鞋子臭",
+        "鞋內悶味",
+        "鞋子除臭",
+        "台中洗鞋除臭"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-odor-source-faq-01",
+      "type": "guide_faq",
+      "question": "鞋子臭噴除臭劑就好了嗎？",
+      "answer": "不夠。香味蓋不住潮氣或汗垢來源。先分是濕、是汗還是悶放，再決定通風或送整理。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#faq",
+      "local_intent": "台中西屯 鞋臭 悶味 汗 收納",
+      "keywords": [
+        "鞋子臭",
+        "鞋內悶味",
+        "鞋子除臭",
+        "台中洗鞋除臭"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-odor-source-faq-02",
+      "type": "guide_faq",
+      "question": "只有鞋墊臭，可以只換墊嗎？",
+      "answer": "可以先拆開判斷，但內裡泡棉也可能吸附。只換墊卻把濕鞋塞回櫃子，味道常回來。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#faq",
+      "local_intent": "台中西屯 鞋臭 悶味 汗 收納",
+      "keywords": [
+        "鞋子臭",
+        "鞋內悶味",
+        "鞋子除臭",
+        "台中洗鞋除臭"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-odor-source-faq-03",
+      "type": "guide_faq",
+      "question": "放冷凍庫可以除臭嗎？",
+      "answer": "本頁不建議自行用極端溫度處理。皮革、膠與泡棉反應不同，先拍照說明來源較安全。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#faq",
+      "local_intent": "台中西屯 鞋臭 悶味 汗 收納",
+      "keywords": [
+        "鞋子臭",
+        "鞋內悶味",
+        "鞋子除臭",
+        "台中洗鞋除臭"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "washing-machine-shoe-risk-summary",
+      "type": "guide_summary",
+      "question": "鞋子能不能丟洗衣機？先看這三個風險",
+      "answer": "鞋子不建議丟洗衣機；泡水與脫水會傷膠邊與內裡。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html",
+      "local_intent": "台中西屯 鞋子 洗衣機 風險 膠邊",
+      "keywords": [
+        "鞋子洗衣機",
+        "鞋子可以水洗嗎",
+        "運動鞋機洗",
+        "台中洗鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "washing-machine-shoe-risk-faq-01",
+      "type": "guide_faq",
+      "question": "運動鞋輕柔洗加洗衣袋可以嗎？",
+      "answer": "仍有風險。脫水與浸泡會作用在膠邊和內裡，不因洗衣袋就變成無風險。先問材質。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#faq",
+      "local_intent": "台中西屯 鞋子 洗衣機 風險 膠邊",
+      "keywords": [
+        "鞋子洗衣機",
+        "鞋子可以水洗嗎",
+        "運動鞋機洗",
+        "台中洗鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "washing-machine-shoe-risk-faq-02",
+      "type": "guide_faq",
+      "question": "洗完用烘衣機烘鞋可以嗎？",
+      "answer": "不建議。高溫讓膠與合成材質變形。先通風陰乾，不要用高溫追乾。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#faq",
+      "local_intent": "台中西屯 鞋子 洗衣機 風險 膠邊",
+      "keywords": [
+        "鞋子洗衣機",
+        "鞋子可以水洗嗎",
+        "運動鞋機洗",
+        "台中洗鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "washing-machine-shoe-risk-faq-03",
+      "type": "guide_faq",
+      "question": "已經丟進去洗壞了還能問嗎？",
+      "answer": "可以。拍開膠、變形與掉色位置，門市會先說清潔限度，不會把結構損壞當成一般髒污。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#faq",
+      "local_intent": "台中西屯 鞋子 洗衣機 風險 膠邊",
+      "keywords": [
+        "鞋子洗衣機",
+        "鞋子可以水洗嗎",
+        "運動鞋機洗",
+        "台中洗鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "athletic-shoe-mixed-materials-summary",
+      "type": "guide_summary",
+      "question": "運動鞋要分部位看，不能整雙當同一種布",
+      "answer": "運動鞋要分網布、膠邊與內裡；不能同一種刷法。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html",
+      "local_intent": "台中西屯 運動鞋 網布 膠邊 內裡",
+      "keywords": [
+        "運動鞋清潔",
+        "網布鞋清洗",
+        "膠邊泛黃",
+        "台中洗運動鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "athletic-shoe-mixed-materials-faq-01",
+      "type": "guide_faq",
+      "question": "運動鞋鞋面和膠邊可以一起用力刷白嗎？",
+      "answer": "不行。網布怕起毛，膠邊黃可能是氧化。同一種力道常讓兩處都更差。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#faq",
+      "local_intent": "台中西屯 運動鞋 網布 膠邊 內裡",
+      "keywords": [
+        "運動鞋清潔",
+        "網布鞋清洗",
+        "膠邊泛黃",
+        "台中洗運動鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "athletic-shoe-mixed-materials-faq-02",
+      "type": "guide_faq",
+      "question": "皮類運動鞋和一般運動鞋差在哪？",
+      "answer": "差在鞋面耐水與耐刷程度。名稱只是起點，仍要看實際部位，不能只看品名。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#faq",
+      "local_intent": "台中西屯 運動鞋 網布 膠邊 內裡",
+      "keywords": [
+        "運動鞋清潔",
+        "網布鞋清洗",
+        "膠邊泛黃",
+        "台中洗運動鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "athletic-shoe-mixed-materials-faq-03",
+      "type": "guide_faq",
+      "question": "只想洗鞋面、內裡不管可以嗎？",
+      "answer": "可以先說你的優先順序，但潮氣在內裡時，只處理外面味道常還在。門市會分開講。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#faq",
+      "local_intent": "台中西屯 運動鞋 網布 膠邊 內裡",
+      "keywords": [
+        "運動鞋清潔",
+        "網布鞋清洗",
+        "膠邊泛黃",
+        "台中洗運動鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-mold-surface-check-summary",
+      "type": "guide_summary",
+      "question": "鞋子發霉：先通風，不要先刷",
+      "answer": "鞋子發霉先通風、不要刷；先看是表面還是已滲入。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html",
+      "local_intent": "台中西屯 鞋子發霉 表面霉 滲入",
+      "keywords": [
+        "鞋子發霉",
+        "鞋內發霉",
+        "鞋子長霉",
+        "台中洗鞋發霉"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-mold-surface-check-faq-01",
+      "type": "guide_faq",
+      "question": "鞋子長白毛，用酒精擦掉就好了嗎？",
+      "answer": "不建議。酒精可能讓皮面脫脂或色差，也可能把霉推開。先通風拍照。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#faq",
+      "local_intent": "台中西屯 鞋子發霉 表面霉 滲入",
+      "keywords": [
+        "鞋子發霉",
+        "鞋內發霉",
+        "鞋子長霉",
+        "台中洗鞋發霉"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-mold-surface-check-faq-02",
+      "type": "guide_faq",
+      "question": "發霉的鞋洗完會不會再長？",
+      "answer": "若收納環境仍潮濕，可能再發。清潔不是永久免疫，乾燥與透氣收納才是後段。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#faq",
+      "local_intent": "台中西屯 鞋子發霉 表面霉 滲入",
+      "keywords": [
+        "鞋子發霉",
+        "鞋內發霉",
+        "鞋子長霉",
+        "台中洗鞋發霉"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-mold-surface-check-faq-03",
+      "type": "guide_faq",
+      "question": "鞋面沒霉、鞋內有斑點怎麼辦？",
+      "answer": "以鞋內為準。外觀乾淨仍要拍鞋墊背面。不要只清外面。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#faq",
+      "local_intent": "台中西屯 鞋子發霉 表面霉 滲入",
+      "keywords": [
+        "鞋子發霉",
+        "鞋內發霉",
+        "鞋子長霉",
+        "台中洗鞋發霉"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-sole-separation-limit-summary",
+      "type": "guide_summary",
+      "question": "鞋底開膠：先停手，這不是刷得掉的髒",
+      "answer": "鞋底開膠不是清潔能處理的；先停手拍照問界線。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html",
+      "local_intent": "台中西屯 鞋底開膠 脫膠 清潔限度",
+      "keywords": [
+        "鞋底開膠",
+        "鞋子脫膠",
+        "鞋底分離",
+        "台中洗鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-sole-separation-limit-faq-01",
+      "type": "guide_faq",
+      "question": "開一點縫，洗完會不會自己黏回去？",
+      "answer": "不會把清潔當成重新黏合。張開是結構問題，洗掉泥不會讓膠線恢復。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#faq",
+      "local_intent": "台中西屯 鞋底開膠 脫膠 清潔限度",
+      "keywords": [
+        "鞋底開膠",
+        "鞋子脫膠",
+        "鞋底分離",
+        "台中洗鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-sole-separation-limit-faq-02",
+      "type": "guide_faq",
+      "question": "你們有修鞋底嗎？",
+      "answer": "公開服務以清潔與洗護判斷為主。開膠是否另有整理方式，要看過物件後才說明，本頁不預先承諾。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#faq",
+      "local_intent": "台中西屯 鞋底開膠 脫膠 清潔限度",
+      "keywords": [
+        "鞋底開膠",
+        "鞋子脫膠",
+        "鞋底分離",
+        "台中洗鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "shoe-sole-separation-limit-faq-03",
+      "type": "guide_faq",
+      "question": "開膠的鞋還能拍照詢問嗎？",
+      "answer": "可以。正是要先問界線。把縫的近照傳 LINE，比先灌膠或再機洗安全。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#faq",
+      "local_intent": "台中西屯 鞋底開膠 脫膠 清潔限度",
+      "keywords": [
+        "鞋底開膠",
+        "鞋子脫膠",
+        "鞋底分離",
+        "台中洗鞋"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-color-transfer-summary",
+      "type": "guide_summary",
+      "question": "包包色移：先分染色和自己掉色",
+      "answer": "包包色移先分外來染料與自身掉色；掉色不能當補色洗。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html",
+      "local_intent": "台中西屯 包包 色移 掉色 染色",
+      "keywords": [
+        "包包掉色",
+        "包包染色",
+        "色移怎麼辦",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-color-transfer-faq-01",
+      "type": "guide_faq",
+      "question": "深色牛仔褲把淺色包染黑了，洗得掉嗎？",
+      "answer": "要看染料有沒有吃進材質。浮色較能評估；已滲入只能淡化，不保證回到原色。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#faq",
+      "local_intent": "台中西屯 包包 色移 掉色 染色",
+      "keywords": [
+        "包包掉色",
+        "包包染色",
+        "色移怎麼辦",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-color-transfer-faq-02",
+      "type": "guide_faq",
+      "question": "包自己越背越淺，是不是沒洗乾淨？",
+      "answer": "摩擦變淺多半是掉色或塗層磨耗，不是殘留髒。清潔不能當成補色。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#faq",
+      "local_intent": "台中西屯 包包 色移 掉色 染色",
+      "keywords": [
+        "包包掉色",
+        "包包染色",
+        "色移怎麼辦",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-color-transfer-faq-03",
+      "type": "guide_faq",
+      "question": "可以先用濕紙巾擦掉色塊嗎？",
+      "answer": "不建議。濕擦可能把染料推開或傷塗層。先拍照問，不要先試藥劑。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#faq",
+      "local_intent": "台中西屯 包包 色移 掉色 染色",
+      "keywords": [
+        "包包掉色",
+        "包包染色",
+        "色移怎麼辦",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-ink-marks-summary",
+      "type": "guide_summary",
+      "question": "包內裡筆痕：先看滲了多深",
+      "answer": "包內筆痕先不要用酒精擦；先拍材質與滲入範圍。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-ink-marks.html",
+      "local_intent": "台中西屯 包包 內裡 筆痕 酒精",
+      "keywords": [
+        "包包筆痕",
+        "內裡原子筆",
+        "包內沾到筆",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-ink-marks-faq-01",
+      "type": "guide_faq",
+      "question": "原子筆剛點到內袋，用酒精擦可以嗎？",
+      "answer": "不建議。酒精可能暈開油墨或傷材質。先拍照，保留原狀。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#faq",
+      "local_intent": "台中西屯 包包 內裡 筆痕 酒精",
+      "keywords": [
+        "包包筆痕",
+        "內裡原子筆",
+        "包內沾到筆",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-ink-marks-faq-02",
+      "type": "guide_faq",
+      "question": "筆痕一定能清到看不見嗎？",
+      "answer": "不一定。未滲入的較有機會；已暈開或穿過夾層的，以淡化為目標，不保證無痕。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#faq",
+      "local_intent": "台中西屯 包包 內裡 筆痕 酒精",
+      "keywords": [
+        "包包筆痕",
+        "內裡原子筆",
+        "包內沾到筆",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-ink-marks-faq-03",
+      "type": "guide_faq",
+      "question": "只有內袋髒、外面很新，要整包處理嗎？",
+      "answer": "不一定。先讓門市看內裡能不能局部處理，避免為了內袋把外層一起冒險。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#faq",
+      "local_intent": "台中西屯 包包 內裡 筆痕 酒精",
+      "keywords": [
+        "包包筆痕",
+        "內裡原子筆",
+        "包內沾到筆",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-lining-care-summary",
+      "type": "guide_summary",
+      "question": "包內裡：外觀乾淨不代表裡面能收",
+      "answer": "包內裡粉塵與味道要分開看；外觀乾淨不代表內袋乾淨。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-lining-care.html",
+      "local_intent": "台中西屯 包包 內裡 粉塵 悶味",
+      "keywords": [
+        "包內裡清潔",
+        "包包悶味",
+        "內袋灰塵",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-lining-care-faq-01",
+      "type": "guide_faq",
+      "question": "外面很新，只吸一下內袋就好了嗎？",
+      "answer": "可以先吸浮塵，但有潮味或水印就不要密封。味道在布裡時，表面吸塵不夠。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-lining-care.html#faq",
+      "local_intent": "台中西屯 包包 內裡 粉塵 悶味",
+      "keywords": [
+        "包內裡清潔",
+        "包包悶味",
+        "內袋灰塵",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-lining-care-faq-02",
+      "type": "guide_faq",
+      "question": "內裡可以單獨拆出來洗嗎？",
+      "answer": "多數日常包不能當衣服那樣拆內襯。能不能局部處理要看結構，先拍照。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-lining-care.html#faq",
+      "local_intent": "台中西屯 包包 內裡 粉塵 悶味",
+      "keywords": [
+        "包內裡清潔",
+        "包包悶味",
+        "內袋灰塵",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-lining-care-faq-03",
+      "type": "guide_faq",
+      "question": "有味道的包可以先放防塵袋嗎？",
+      "answer": "不要。未處理的潮味會被悶住。先通風，確認乾燥再收。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-lining-care.html#faq",
+      "local_intent": "台中西屯 包包 內裡 粉塵 悶味",
+      "keywords": [
+        "包內裡清潔",
+        "包包悶味",
+        "內袋灰塵",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "nylon-bag-care-summary",
+      "type": "guide_summary",
+      "question": "尼龍包：油膜和水痕不是同一種髒",
+      "answer": "尼龍包先看油垢與水痕；不要用皮革去油方式硬處理。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html",
+      "local_intent": "台中西屯 尼龍包 油垢 水痕",
+      "keywords": [
+        "尼龍包清潔",
+        "尼龍包油垢",
+        "尼龍包水痕",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "nylon-bag-care-faq-01",
+      "type": "guide_faq",
+      "question": "尼龍包可以用皮革清潔乳嗎？",
+      "answer": "不建議。那是另一套油脂系統，可能留下膜或霧面。先確認材質再處理。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#faq",
+      "local_intent": "台中西屯 尼龍包 油垢 水痕",
+      "keywords": [
+        "尼龍包清潔",
+        "尼龍包油垢",
+        "尼龍包水痕",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "nylon-bag-care-faq-02",
+      "type": "guide_faq",
+      "question": "尼龍包可以丟洗衣機嗎？",
+      "answer": "有風險。五金、塗層與內裡結構不一定耐脫水。先拍照問，不要整包浸泡。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#faq",
+      "local_intent": "台中西屯 尼龍包 油垢 水痕",
+      "keywords": [
+        "尼龍包清潔",
+        "尼龍包油垢",
+        "尼龍包水痕",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "nylon-bag-care-faq-03",
+      "type": "guide_faq",
+      "question": "油垢會不會越擦越亮？",
+      "answer": "用力搓可能把纖維磨亮或磨霧。亮不一定是乾淨。出現霧面就停手。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#faq",
+      "local_intent": "台中西屯 尼龍包 油垢 水痕",
+      "keywords": [
+        "尼龍包清潔",
+        "尼龍包油垢",
+        "尼龍包水痕",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "canvas-bag-care-summary",
+      "type": "guide_summary",
+      "question": "帆布包：泥要等乾，包角磨耗不能當髒洗",
+      "answer": "帆布包泥灰等乾再處理；包角磨耗不是髒污。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/canvas-bag-care.html",
+      "local_intent": "台中西屯 帆布包 泥灰 包角",
+      "keywords": [
+        "帆布包清潔",
+        "帆布包沾泥",
+        "包角磨損",
+        "台中洗帆布包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "canvas-bag-care-faq-01",
+      "type": "guide_faq",
+      "question": "帆布包下雨淋髒，回家可以先刷嗎？",
+      "answer": "先等乾。濕刷會把泥推進織紋，包身起毛後更像舊痕。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#faq",
+      "local_intent": "台中西屯 帆布包 泥灰 包角",
+      "keywords": [
+        "帆布包清潔",
+        "帆布包沾泥",
+        "包角磨損",
+        "台中洗帆布包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "canvas-bag-care-faq-02",
+      "type": "guide_faq",
+      "question": "包角黑黑的洗得白嗎？",
+      "answer": "要先分是泥還是磨耗。泥可評估；磨出底色不能當髒洗掉。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#faq",
+      "local_intent": "台中西屯 帆布包 泥灰 包角",
+      "keywords": [
+        "帆布包清潔",
+        "帆布包沾泥",
+        "包角磨損",
+        "台中洗帆布包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "canvas-bag-care-faq-03",
+      "type": "guide_faq",
+      "question": "帆布包和帆布鞋可以同一天一起問嗎？",
+      "answer": "可以，但請分開拍照。包角承重磨耗和鞋面踩泥，判斷點不一樣。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#faq",
+      "local_intent": "台中西屯 帆布包 泥灰 包角",
+      "keywords": [
+        "帆布包清潔",
+        "帆布包沾泥",
+        "包角磨損",
+        "台中洗帆布包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "backpack-cleaning-check-summary",
+      "type": "guide_summary",
+      "question": "書包背包：先看底部、背帶和內袋",
+      "answer": "書包背包先看底部、背帶與內袋；不要整顆泡水。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html",
+      "local_intent": "台中西屯 書包 背包 底部 背帶",
+      "keywords": [
+        "書包清洗",
+        "背包清洗",
+        "書包怎麼洗",
+        "台中洗書包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "backpack-cleaning-check-faq-01",
+      "type": "guide_faq",
+      "question": "國中書包很重很髒，可以直接丟洗衣機嗎？",
+      "answer": "不建議。底部、泡棉與配件不一定耐脫水。先拍結構再問。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#faq",
+      "local_intent": "台中西屯 書包 背包 底部 背帶",
+      "keywords": [
+        "書包清洗",
+        "背包清洗",
+        "書包怎麼洗",
+        "台中洗書包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "backpack-cleaning-check-faq-02",
+      "type": "guide_faq",
+      "question": "只洗外面、內袋自己吸塵可以嗎？",
+      "answer": "可以先說明你的範圍。若內袋有筆痕或潮味，只洗外面常不夠，門市會分開講。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#faq",
+      "local_intent": "台中西屯 書包 背包 底部 背帶",
+      "keywords": [
+        "書包清洗",
+        "背包清洗",
+        "書包怎麼洗",
+        "台中洗書包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "backpack-cleaning-check-faq-03",
+      "type": "guide_faq",
+      "question": "背包和鞋子可以同一批收送嗎？",
+      "answer": "可以一起詢問，但要分開拍照。背包結構和鞋面材質不是同一種風險。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#faq",
+      "local_intent": "台中西屯 書包 背包 底部 背帶",
+      "keywords": [
+        "書包清洗",
+        "背包清洗",
+        "書包怎麼洗",
+        "台中洗書包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-clean-vs-repair-summary",
+      "type": "guide_summary",
+      "question": "清潔不是補色，也不是維修",
+      "answer": "清潔只處理髒與部分水痕；補色修復是另一件事。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html",
+      "local_intent": "台中西屯 包包 清潔 補色 維修分界",
+      "keywords": [
+        "包包清潔還是補色",
+        "包包維修",
+        "邊油磨損",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-clean-vs-repair-faq-01",
+      "type": "guide_faq",
+      "question": "洗包會順便把邊角補色嗎？",
+      "answer": "不會自動發生。清潔與補色是不同工序。先說你的目標，再看物件。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#faq",
+      "local_intent": "台中西屯 包包 清潔 補色 維修分界",
+      "keywords": [
+        "包包清潔還是補色",
+        "包包維修",
+        "邊油磨損",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-clean-vs-repair-faq-02",
+      "type": "guide_faq",
+      "question": "掉色的包還值得送清潔嗎？",
+      "answer": "若目標是去髒與去味，仍可評估。若目標是補回原色，要另談，不能用清潔結果衡量。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#faq",
+      "local_intent": "台中西屯 包包 清潔 補色 維修分界",
+      "keywords": [
+        "包包清潔還是補色",
+        "包包維修",
+        "邊油磨損",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "bag-clean-vs-repair-faq-03",
+      "type": "guide_faq",
+      "question": "發霉是走清潔還是修復？",
+      "answer": "先走發霉判斷，不要直接當補色。霉斑造成的色差，常只能淡化。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#faq",
+      "local_intent": "台中西屯 包包 清潔 補色 維修分界",
+      "keywords": [
+        "包包清潔還是補色",
+        "包包維修",
+        "邊油磨損",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "wool-coat-dry-clean-summary",
+      "type": "guide_summary",
+      "question": "羊毛大衣：先看結構，不要直接丟水洗",
+      "answer": "羊毛大衣通常走乾洗；水洗容易縮皺，先看洗標。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html",
+      "local_intent": "台中西屯 羊毛大衣 乾洗 縮水",
+      "keywords": [
+        "羊毛大衣清洗",
+        "大衣乾洗",
+        "羊毛大衣水洗",
+        "台中乾洗大衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "wool-coat-dry-clean-faq-01",
+      "type": "guide_faq",
+      "question": "洗標寫可水洗的羊毛大衣，自己洗可以嗎？",
+      "answer": "仍要看襯裡與厚度。洗標是起點不是保證不縮。不確定就先拍照，不要先機洗。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#faq",
+      "local_intent": "台中西屯 羊毛大衣 乾洗 縮水",
+      "keywords": [
+        "羊毛大衣清洗",
+        "大衣乾洗",
+        "羊毛大衣水洗",
+        "台中乾洗大衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "wool-coat-dry-clean-faq-02",
+      "type": "guide_faq",
+      "question": "大衣發霉要先乾洗嗎？",
+      "answer": "先走衣物發霉判斷，不要還沒通風就整件密封送。霉斑色差可能只能淡化。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#faq",
+      "local_intent": "台中西屯 羊毛大衣 乾洗 縮水",
+      "keywords": [
+        "羊毛大衣清洗",
+        "大衣乾洗",
+        "羊毛大衣水洗",
+        "台中乾洗大衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "wool-coat-dry-clean-faq-03",
+      "type": "guide_faq",
+      "question": "大衣和西裝外套是同一種乾洗嗎？",
+      "answer": "都常走乾洗，但厚度與結構不同。請分開拍照，不要當成同一件報。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#faq",
+      "local_intent": "台中西屯 羊毛大衣 乾洗 縮水",
+      "keywords": [
+        "羊毛大衣清洗",
+        "大衣乾洗",
+        "羊毛大衣水洗",
+        "台中乾洗大衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "wool-knit-shrink-risk-summary",
+      "type": "guide_summary",
+      "question": "針織毛衣：怕縮的是絨，不是表面那層灰",
+      "answer": "針織毛衣怕縮水變形；不確定就先拍洗標再問。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html",
+      "local_intent": "台中西屯 毛衣 針織 縮水 洗標",
+      "keywords": [
+        "毛衣縮水",
+        "羊毛衫清洗",
+        "針織衫怎麼洗",
+        "台中洗毛衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "wool-knit-shrink-risk-faq-01",
+      "type": "guide_faq",
+      "question": "羊毛衫縮了一點，再洗會不會拉開？",
+      "answer": "縮絨後通常拉不回原尺寸。再洗可能更咬緊。先拍照說明現況，不要再試熱水。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#faq",
+      "local_intent": "台中西屯 毛衣 針織 縮水 洗標",
+      "keywords": [
+        "毛衣縮水",
+        "羊毛衫清洗",
+        "針織衫怎麼洗",
+        "台中洗毛衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "wool-knit-shrink-risk-faq-02",
+      "type": "guide_faq",
+      "question": "毛衣起毬要先剃再送洗嗎？",
+      "answer": "不建議先猛刮。破了就不是髒污問題。先保留原狀，讓門市看纖維。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#faq",
+      "local_intent": "台中西屯 毛衣 針織 縮水 洗標",
+      "keywords": [
+        "毛衣縮水",
+        "羊毛衫清洗",
+        "針織衫怎麼洗",
+        "台中洗毛衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "wool-knit-shrink-risk-faq-03",
+      "type": "guide_faq",
+      "question": "手洗比較安全嗎？",
+      "answer": "仍看水溫與搓揉。手洗不是保證。洗標看不懂就先問。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#faq",
+      "local_intent": "台中西屯 毛衣 針織 縮水 洗標",
+      "keywords": [
+        "毛衣縮水",
+        "羊毛衫清洗",
+        "針織衫怎麼洗",
+        "台中洗毛衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "clothing-mold-airing-summary",
+      "type": "guide_summary",
+      "question": "衣物發霉：先通風，不要先套袋去洗",
+      "answer": "衣物發霉先通風、不要濕擦；先看是表面還是色斑。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html",
+      "local_intent": "台中西屯 衣物發霉 通風 色斑",
+      "keywords": [
+        "衣服發霉",
+        "衣櫃霉味",
+        "衣物長霉",
+        "台中洗衣發霉"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "clothing-mold-airing-faq-01",
+      "type": "guide_faq",
+      "question": "衣服有霉味但看不到斑，可以直接洗嗎？",
+      "answer": "先通風確認是潮還是霉。未看斑就漂白或密封，都可能讓狀況更難判斷。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#faq",
+      "local_intent": "台中西屯 衣物發霉 通風 色斑",
+      "keywords": [
+        "衣服發霉",
+        "衣櫃霉味",
+        "衣物長霉",
+        "台中洗衣發霉"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "clothing-mold-airing-faq-02",
+      "type": "guide_faq",
+      "question": "發霉衣物洗完斑還在，是沒洗乾淨嗎？",
+      "answer": "色斑常已改變纖維顏色，不是表面髒。清潔目標是抑制與淡化，不保證無斑。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#faq",
+      "local_intent": "台中西屯 衣物發霉 通風 色斑",
+      "keywords": [
+        "衣服發霉",
+        "衣櫃霉味",
+        "衣物長霉",
+        "台中洗衣發霉"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "clothing-mold-airing-faq-03",
+      "type": "guide_faq",
+      "question": "和鞋子發霉可以同一批送嗎？",
+      "answer": "可以一起問，但要分開拍照。鞋內與衣物纖維的風險不同。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#faq",
+      "local_intent": "台中西屯 衣物發霉 通風 色斑",
+      "keywords": [
+        "衣服發霉",
+        "衣櫃霉味",
+        "衣物長霉",
+        "台中洗衣發霉"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "vacuum-bag-storage-risk-summary",
+      "type": "guide_summary",
+      "question": "真空袋不是收納捷徑：沒乾就壓等於悶味",
+      "answer": "還沒乾就真空壓縮，味道會被悶住；先確認全乾。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html",
+      "local_intent": "台中西屯 真空袋 壓縮 未乾 悶味",
+      "keywords": [
+        "真空袋收納",
+        "壓縮袋霉味",
+        "換季收納真空",
+        "台中布品收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "vacuum-bag-storage-risk-faq-01",
+      "type": "guide_faq",
+      "question": "外套洗完當天抽真空可以嗎？",
+      "answer": "若中間層還沒乾，不要壓。表面摸起來乾不夠，尤其是厚件。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#faq",
+      "local_intent": "台中西屯 真空袋 壓縮 未乾 悶味",
+      "keywords": [
+        "真空袋收納",
+        "壓縮袋霉味",
+        "換季收納真空",
+        "台中布品收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "vacuum-bag-storage-risk-faq-02",
+      "type": "guide_faq",
+      "question": "已經真空三個月打開有味，再壓一次會好嗎？",
+      "answer": "不會。先通風、確認來源，未處理再壓會更重。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#faq",
+      "local_intent": "台中西屯 真空袋 壓縮 未乾 悶味",
+      "keywords": [
+        "真空袋收納",
+        "壓縮袋霉味",
+        "換季收納真空",
+        "台中布品收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "vacuum-bag-storage-risk-faq-03",
+      "type": "guide_faq",
+      "question": "沒有真空袋、用塑膠袋綁緊一樣嗎？",
+      "answer": "一樣會把未乾的潮氣關住。重點是乾燥，不是袋子形狀。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#faq",
+      "local_intent": "台中西屯 真空袋 壓縮 未乾 悶味",
+      "keywords": [
+        "真空袋收納",
+        "壓縮袋霉味",
+        "換季收納真空",
+        "台中布品收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "oil-vs-water-stain-choice-summary",
+      "type": "guide_summary",
+      "question": "先分油漬和汗漬，再決定乾洗或水洗",
+      "answer": "汗漬偏水洗、油光偏乾洗；先分髒污類型再選方式。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html",
+      "local_intent": "台中西屯 油漬 汗漬 乾洗 水洗",
+      "keywords": [
+        "油漬怎麼洗",
+        "汗漬發黃",
+        "乾洗還是水洗",
+        "台中洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "oil-vs-water-stain-choice-faq-01",
+      "type": "guide_faq",
+      "question": "領口黃一定是汗，所以一定水洗嗎？",
+      "answer": "領口常是皮脂加汗。還要看面料。西裝或羊毛不能只因為「黃」就水洗。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#faq",
+      "local_intent": "台中西屯 油漬 汗漬 乾洗 水洗",
+      "keywords": [
+        "油漬怎麼洗",
+        "汗漬發黃",
+        "乾洗還是水洗",
+        "台中洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "oil-vs-water-stain-choice-faq-02",
+      "type": "guide_faq",
+      "question": "油漬用洗碗精可以嗎？",
+      "answer": "不建議。濃度與染料反應未知，可能把斑推開或留下圈。先拍照。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#faq",
+      "local_intent": "台中西屯 油漬 汗漬 乾洗 水洗",
+      "keywords": [
+        "油漬怎麼洗",
+        "汗漬發黃",
+        "乾洗還是水洗",
+        "台中洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "oil-vs-water-stain-choice-faq-03",
+      "type": "guide_faq",
+      "question": "不知道是油還是水，怎麼問？",
+      "answer": "直接說不知道，並拍位置與時間。門市會先分，不會逼你先選一種方式。",
+      "service": "台中西屯洗衣店",
+      "source_url": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#faq",
+      "local_intent": "台中西屯 油漬 汗漬 乾洗 水洗",
+      "keywords": [
+        "油漬怎麼洗",
+        "汗漬發黃",
+        "乾洗還是水洗",
+        "台中洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "blanket-damp-check-summary",
+      "type": "guide_summary",
+      "question": "毯子摸起來乾，中間層仍可能是潮的",
+      "answer": "毯子收納前先聞潮味；厚層表面乾、中間不一定乾。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/blanket-damp-check.html",
+      "local_intent": "台中西屯 毯子 毛毯 潮氣 收納",
+      "keywords": [
+        "毯子清洗",
+        "毛毯收納",
+        "毯子發霉",
+        "台中洗毯子"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "blanket-damp-check-faq-01",
+      "type": "guide_faq",
+      "question": "沙發上的毯子沒有洗標，可以自己洗嗎？",
+      "answer": "先不要機洗。拍絨面與邊角，讓門市看材質。沒標籤就更不能猜水溫。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#faq",
+      "local_intent": "台中西屯 毯子 毛毯 潮氣 收納",
+      "keywords": [
+        "毯子清洗",
+        "毛毯收納",
+        "毯子發霉",
+        "台中洗毯子"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "blanket-damp-check-faq-02",
+      "type": "guide_faq",
+      "question": "毯子和被子可以同一袋收嗎？",
+      "answer": "可以一起問，但填充件與絨毯的乾燥時間不同。未全乾不要共壓一袋。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#faq",
+      "local_intent": "台中西屯 毯子 毛毯 潮氣 收納",
+      "keywords": [
+        "毯子清洗",
+        "毛毯收納",
+        "毯子發霉",
+        "台中洗毯子"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "blanket-damp-check-faq-03",
+      "type": "guide_faq",
+      "question": "毛毯有靜電和灰塵，是不是該洗了？",
+      "answer": "浮塵可先評估；若其實是潮味或霉，重點改成乾燥與發霉判斷，不是靜電本身。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#faq",
+      "local_intent": "台中西屯 毯子 毛毯 潮氣 收納",
+      "keywords": [
+        "毯子清洗",
+        "毛毯收納",
+        "毯子發霉",
+        "台中洗毯子"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "post-wash-drying-before-storage-summary",
+      "type": "guide_summary",
+      "question": "洗完沒乾透就收，等於把潮氣封回去",
+      "answer": "洗完沒乾透就收納，等於把潮氣封回去。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html",
+      "local_intent": "台中西屯 洗後乾燥 收納 潮氣",
+      "keywords": [
+        "洗完如何收納",
+        "衣服沒乾就收",
+        "寢具乾燥",
+        "台中洗衣收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "post-wash-drying-before-storage-faq-01",
+      "type": "guide_faq",
+      "question": "取件套著塑膠袋，可以連袋放進櫃子嗎？",
+      "answer": "不建議當長期收納。先打開通風，確認夾層乾了再收。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#faq",
+      "local_intent": "台中西屯 洗後乾燥 收納 潮氣",
+      "keywords": [
+        "洗完如何收納",
+        "衣服沒乾就收",
+        "寢具乾燥",
+        "台中洗衣收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "post-wash-drying-before-storage-faq-02",
+      "type": "guide_faq",
+      "question": "洗完當週就要真空收進閣樓可以嗎？",
+      "answer": "先確認中間層乾透。沒把握就先透氣過渡，不要一次壓死。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#faq",
+      "local_intent": "台中西屯 洗後乾燥 收納 潮氣",
+      "keywords": [
+        "洗完如何收納",
+        "衣服沒乾就收",
+        "寢具乾燥",
+        "台中洗衣收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "post-wash-drying-before-storage-faq-03",
+      "type": "guide_faq",
+      "question": "這和收納前檢查有何不同？",
+      "answer": "收納檢查是「髒的要不要先處理」；本頁是「已經洗了，乾了沒」。時間點不同。",
+      "service": "布品收納",
+      "source_url": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#faq",
+      "local_intent": "台中西屯 洗後乾燥 收納 潮氣",
+      "keywords": [
+        "洗完如何收納",
+        "衣服沒乾就收",
+        "寢具乾燥",
+        "台中洗衣收納"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "synthetic-vs-leather-handle-summary",
+      "type": "guide_summary",
+      "question": "提把先分真皮或合成皮，再決定能不能擦",
+      "answer": "合成皮與真皮提把清潔方式不同；先分材質再處理。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html",
+      "local_intent": "台中西屯 提把 真皮 合成皮 脫皮",
+      "keywords": [
+        "合成皮提把",
+        "真皮提把清潔",
+        "包包脫皮",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "synthetic-vs-leather-handle-faq-01",
+      "type": "guide_faq",
+      "question": "提把一搓就脫皮，再擦油會好嗎？",
+      "answer": "多半不會。那常是合成膜在剝。再上油可能更黏。先停手拍照。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#faq",
+      "local_intent": "台中西屯 提把 真皮 合成皮 脫皮",
+      "keywords": [
+        "合成皮提把",
+        "真皮提把清潔",
+        "包包脫皮",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "synthetic-vs-leather-handle-faq-02",
+      "type": "guide_faq",
+      "question": "摸起來像皮就是真皮嗎？",
+      "answer": "不一定。要看起皮方式與切面。不確定就拍近照，不要先保養。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#faq",
+      "local_intent": "台中西屯 提把 真皮 合成皮 脫皮",
+      "keywords": [
+        "合成皮提把",
+        "真皮提把清潔",
+        "包包脫皮",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "synthetic-vs-leather-handle-faq-03",
+      "type": "guide_faq",
+      "question": "真皮提把發黑洗得掉嗎？",
+      "answer": "手汗未深滲時較能評估；已進皮層只能淡化，不能當補色。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#faq",
+      "local_intent": "台中西屯 提把 真皮 合成皮 脫皮",
+      "keywords": [
+        "合成皮提把",
+        "真皮提把清潔",
+        "包包脫皮",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "rainy-bag-care-summary",
+      "type": "guide_summary",
+      "question": "雨後包包：先通風看包角與內裡",
+      "answer": "雨後包包先通風看包角與內裡；不要立刻收進防塵袋。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html",
+      "local_intent": "台中西屯 包包淋雨 包角 內裡 防塵袋",
+      "keywords": [
+        "包包淋雨",
+        "包角水痕",
+        "雨天洗包",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "rainy-bag-care-faq-01",
+      "type": "guide_faq",
+      "question": "皮包淋雨，擦乾上油保護比較好？",
+      "answer": "先通風。水痕常晚點出現，這時上油可能鎖印。不要急著保養。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#faq",
+      "local_intent": "台中西屯 包包淋雨 包角 內裡 防塵袋",
+      "keywords": [
+        "包包淋雨",
+        "包角水痕",
+        "雨天洗包",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "rainy-bag-care-faq-02",
+      "type": "guide_faq",
+      "question": "尼龍包淋濕，可以吹熱風快乾嗎？",
+      "answer": "不建議高溫。內裡與塗層反應不同。打開通風比較安全。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#faq",
+      "local_intent": "台中西屯 包包淋雨 包角 內裡 防塵袋",
+      "keywords": [
+        "包包淋雨",
+        "包角水痕",
+        "雨天洗包",
+        "台中洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "rainy-bag-care-faq-03",
+      "type": "guide_faq",
+      "question": "雨後包包和雨後鞋子可以一起送嗎？",
+      "answer": "可以一起收送，但風險不同，請分開拍照，不要只傳一張全家福。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#faq",
+      "local_intent": "台中西屯 包包淋雨 包角 內裡 防塵袋",
+      "keywords": [
+        "包包淋雨",
+        "包角水痕",
+        "雨天洗包",
+        "台中洗包"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",

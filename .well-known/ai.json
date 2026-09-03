@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-08-30T17:11:35.767Z",
+  "generated_at": "2026-09-03T03:02:13.618Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -199,7 +199,31 @@
       "fengjia-laundry-pickup": "https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html",
       "zhongke-office-laundry": "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
       "donghai-laundry-pickup": "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
-      "qinghai-road-shoe-cleaning": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html"
+      "qinghai-road-shoe-cleaning": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
+      "suede-shoe-cleaning": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
+      "canvas-shoe-mud": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
+      "leather-shoe-water-marks": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
+      "shoe-odor-source": "https://sixiangjialaundry.com/guides/shoe-odor-source.html",
+      "washing-machine-shoe-risk": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html",
+      "athletic-shoe-mixed-materials": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html",
+      "shoe-mold-surface-check": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html",
+      "shoe-sole-separation-limit": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html",
+      "bag-color-transfer": "https://sixiangjialaundry.com/guides/bag-color-transfer.html",
+      "bag-ink-marks": "https://sixiangjialaundry.com/guides/bag-ink-marks.html",
+      "bag-lining-care": "https://sixiangjialaundry.com/guides/bag-lining-care.html",
+      "nylon-bag-care": "https://sixiangjialaundry.com/guides/nylon-bag-care.html",
+      "canvas-bag-care": "https://sixiangjialaundry.com/guides/canvas-bag-care.html",
+      "backpack-cleaning-check": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html",
+      "bag-clean-vs-repair": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html",
+      "wool-coat-dry-clean": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html",
+      "wool-knit-shrink-risk": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html",
+      "clothing-mold-airing": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html",
+      "vacuum-bag-storage-risk": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html",
+      "oil-vs-water-stain-choice": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html",
+      "blanket-damp-check": "https://sixiangjialaundry.com/guides/blanket-damp-check.html",
+      "post-wash-drying-before-storage": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html",
+      "synthetic-vs-leather-handle": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html",
+      "rainy-bag-care": "https://sixiangjialaundry.com/guides/rainy-bag-care.html"
     },
     "feed": "https://sixiangjialaundry.com/feed.json",
     "knowledge_graph": "https://sixiangjialaundry.com/knowledge-graph.json",
@@ -207,6 +231,7 @@
   },
   "recommended_read_order": [
     "https://sixiangjialaundry.com/llms.txt",
+    "https://sixiangjialaundry.com/knowledge/",
     "https://sixiangjialaundry.com/services.json",
     "https://sixiangjialaundry.com/answers.json",
     "https://sixiangjialaundry.com/geo-targets.json",
@@ -242,6 +267,30 @@
     "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
     "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
     "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
+    "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
+    "https://sixiangjialaundry.com/guides/shoe-odor-source.html",
+    "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html",
+    "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html",
+    "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html",
+    "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html",
+    "https://sixiangjialaundry.com/guides/bag-color-transfer.html",
+    "https://sixiangjialaundry.com/guides/bag-ink-marks.html",
+    "https://sixiangjialaundry.com/guides/bag-lining-care.html",
+    "https://sixiangjialaundry.com/guides/nylon-bag-care.html",
+    "https://sixiangjialaundry.com/guides/canvas-bag-care.html",
+    "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html",
+    "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html",
+    "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html",
+    "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html",
+    "https://sixiangjialaundry.com/guides/clothing-mold-airing.html",
+    "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html",
+    "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html",
+    "https://sixiangjialaundry.com/guides/blanket-damp-check.html",
+    "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html",
+    "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html",
+    "https://sixiangjialaundry.com/guides/rainy-bag-care.html",
     "https://sixiangjialaundry.com/latest.json",
     "https://sixiangjialaundry.com/knowledge-graph.json",
     "https://sixiangjialaundry.com/feed.json",
@@ -487,12 +536,6 @@
       "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
-      "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
-      "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
-      "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png",
-      "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-      "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
-      "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -780,27 +823,19 @@
         },
         {
           "label": "情境 02",
-          "object": "雙人棉被中間層",
-          "material": "棉質表布與填充寢具",
-          "concern": "摸起來乾、收進袋子後下一季有味道",
-          "inspection": "拉開絎縫，用手壓中間層確認是不是只有表布乾；同時聞收納袋內側。",
-          "boundary": "中間層還沒乾就不密封；不以香味噴劑蓋住潮氣。"
+          "object": "寢具與被套",
+          "material": "棉質布品與填充寢具",
+          "concern": "表面乾淨但收納袋有悶味",
+          "inspection": "確認被套內側、枕套接觸皮膚處與收納袋本身是否有潮味。",
+          "boundary": "環境異味會重新附著，未乾燥的布品不適合密封。"
         },
         {
           "label": "情境 03",
-          "object": "毛毯起毛球",
-          "material": "搖粒或混紡毯",
-          "concern": "表面起 pill、想先收進櫃子",
-          "inspection": "在工作台鋪開，看 pill 是浮在表層還是纖維已經起毛；再確認有沒有潮味。",
-          "boundary": "起毛球不是髒污保證能還原；先說能修到什麼程度，再決定清或收。"
-        },
-        {
-          "label": "情境 04",
-          "object": "羽絨外套壓扁",
-          "material": "羽絨填充與塗層表布",
-          "concern": "換季想直接壓進真空袋",
-          "inspection": "先看洗標、走線破口與領口油光，再確認內部是不是全乾。",
-          "boundary": "沒乾透就壓縮會悶味也會扁掉；塗層件不保證洗完還一樣蓬。"
+          "object": "厚棉布品",
+          "material": "厚棉或有填充結構布品",
+          "concern": "摺痕邊角灰塵與局部黃痕",
+          "inspection": "看折痕、邊角、填充狀態與黃痕形成時間，避免只處理表面。",
+          "boundary": "不將久放黃痕承諾為可完全消除，先說明可能的改善範圍。"
         }
       ],
       "faq_count": 4
@@ -1076,11 +1111,10 @@
     {
       "slug": "birkenstock-care",
       "category": "guide",
-      "title": "勃肯鞋會臭嗎？鞋床發黑怎麼處理｜台中洗鞋 私享家",
-      "description": "勃肯鞋會臭，多半是軟木鞋床吸汗，不是鞋面。私享家洗衣店（台中市西屯區青海路二段365號）先看鞋床與麂皮，再決定能不能處理；整雙泡水會更糟。",
+      "title": "勃肯鞋鞋床發黑、有味道怎麼處理?台中洗鞋｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理勃肯鞋：軟木鞋床吸汗會發黑發臭，麂皮面又不能泡水，先傳照片判斷軟木與麂皮各自的處理方式。",
       "url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
       "keywords": [
-        "勃肯鞋會臭嗎",
         "勃肯鞋清潔",
         "勃肯鞋發黑",
         "軟木鞋床 清洗",
@@ -1090,7 +1124,7 @@
       ],
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "linked_service": "白鞋清潔",
-      "faq_count": 5,
+      "faq_count": 4,
       "step_count": 5
     },
     {
@@ -1190,17 +1224,18 @@
     {
       "slug": "bag-handle-cleaning",
       "category": "guide",
-      "title": "包包提把與包角怎麼判斷？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理包包提把與包角：這些位置常累積手汗、水痕與摩擦，整理前要先看材質與痕跡是否已滲入。行李箱輪子改看專頁。",
+      "title": "包包提把、包角與行李箱輪子怎麼判斷？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理包包提把、包角和行李箱輪子：這些位置常累積手汗、水痕、摩擦和地面灰塵，整理前要先看材質與痕跡是否已滲入。",
       "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
         "台中西屯洗包",
-        "洗包包"
+        "行李箱清潔",
+        "行李箱輪子"
       ],
-      "local_intent": "台中西屯 包包清潔 提把 包角",
+      "local_intent": "台中西屯 包包清潔 行李箱輪子",
       "linked_service": "鞋包清潔",
       "faq_count": 3,
       "step_count": 5
@@ -1263,11 +1298,10 @@
     {
       "slug": "plush-doll-cleaning",
       "category": "guide",
-      "title": "台中絨毛娃娃清洗店？先看填充與五官｜私享家洗衣店",
-      "description": "台中找絨毛娃娃清洗店，先看填充、五官與配件能不能洗。私享家洗衣店（台中市西屯區青海路二段365號）手洗低溫烘，不保證完全恢復。",
+      "title": "台中西屯娃娃與絨毛玩偶清潔｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）提供娃娃、絨毛玩偶與布偶送洗前判斷：先確認填充物、黏貼配件、五官與局部污漬，台中市西屯布偶清潔。",
       "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
       "keywords": [
-        "絨毛娃娃清洗店",
         "台中西屯娃娃清洗",
         "台中布偶清潔",
         "絨毛玩偶清洗",
@@ -1277,7 +1311,7 @@
       ],
       "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔",
       "linked_service": "台中西屯洗衣店",
-      "faq_count": 3,
+      "faq_count": 2,
       "step_count": 4
     },
     {
@@ -1306,8 +1340,9 @@
       "description": "私享家洗衣店（台中市西屯區青海路二段365號）整理台中洗衣店查詢入口：依物件、問題、材質與收送需求找洗鞋、洗包、白鞋、床組、棉被、襯衫、西裝、娃娃、精品乾洗與台中市免費收送。",
       "url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html",
       "keywords": [
-        "台中洗衣店怎麼找",
-        "台中洗鞋店怎麼選",
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
         "台中洗包包",
         "台中棉被清洗",
         "台中西裝乾洗",
@@ -1315,7 +1350,7 @@
         "台中精品乾洗",
         "台中洗衣免費收送"
       ],
-      "local_intent": "台中 洗衣 洗鞋 洗包 床組 西裝 怎麼找 免費收送",
+      "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送",
       "linked_service": "台中西屯洗衣店",
       "faq_count": 4,
       "step_count": 6
@@ -1465,6 +1500,414 @@
       "linked_service": "鞋包清潔",
       "faq_count": 5,
       "step_count": 5
+    },
+    {
+      "slug": "suede-shoe-cleaning",
+      "category": "guide",
+      "title": "麂皮鞋變硬、發亮怎麼判斷？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明麂皮鞋摸起來變硬或發亮時，多半是絨毛倒伏而不是普通髒污，先分乾刷與濕擦風險再決定是否送整理。",
+      "url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
+      "keywords": [
+        "麂皮鞋清潔",
+        "麂皮鞋變硬",
+        "麂皮鞋發亮",
+        "台中洗麂皮"
+      ],
+      "local_intent": "台中西屯 麂皮鞋 變硬 發亮 乾刷",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "canvas-shoe-mud",
+      "category": "guide",
+      "title": "帆布鞋沾泥，該等乾還是立刻刷？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明帆布鞋沾泥時，濕刷容易把泥推進織紋並起毛，應先等乾再判斷能不能整理。",
+      "url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
+      "keywords": [
+        "帆布鞋沾泥",
+        "帆布鞋清潔",
+        "帆布鞋起毛",
+        "台中洗帆布鞋"
+      ],
+      "local_intent": "台中西屯 帆布鞋 沾泥 等乾 起毛",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "leather-shoe-water-marks",
+      "category": "guide",
+      "title": "皮鞋淋雨後的水痕，能不能先上油？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明皮鞋淋雨後水痕常過幾天才浮出，這時上油可能把水痕鎖進皮面，應先通風再判斷。",
+      "url": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
+      "keywords": [
+        "皮鞋水痕",
+        "皮鞋淋雨",
+        "皮鞋上油",
+        "台中洗皮鞋"
+      ],
+      "local_intent": "台中西屯 皮鞋 水痕 上油 淋雨",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "shoe-odor-source",
+      "category": "guide",
+      "title": "鞋臭是濕氣、汗還是悶放？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明鞋內味道要先分雨水潮氣、穿著汗垢與收納悶放，不能只用香味覆蓋。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-odor-source.html",
+      "keywords": [
+        "鞋子臭",
+        "鞋內悶味",
+        "鞋子除臭",
+        "台中洗鞋除臭"
+      ],
+      "local_intent": "台中西屯 鞋臭 悶味 汗 收納",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "washing-machine-shoe-risk",
+      "category": "guide",
+      "title": "鞋子可以丟洗衣機嗎？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明整雙鞋進家用洗衣機的風險：脫水傷結構、泡水傷膠邊與內裡，應先看材質再決定。",
+      "url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html",
+      "keywords": [
+        "鞋子洗衣機",
+        "鞋子可以水洗嗎",
+        "運動鞋機洗",
+        "台中洗鞋"
+      ],
+      "local_intent": "台中西屯 鞋子 洗衣機 風險 膠邊",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "athletic-shoe-mixed-materials",
+      "category": "guide",
+      "title": "運動鞋網布、膠邊、內裡為什麼不能同一種刷法？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明運動鞋常是網布、合成皮、膠邊與內裡拼起來的，清潔前要分部位，不能整雙當同一種材質。",
+      "url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html",
+      "keywords": [
+        "運動鞋清潔",
+        "網布鞋清洗",
+        "膠邊泛黃",
+        "台中洗運動鞋"
+      ],
+      "local_intent": "台中西屯 運動鞋 網布 膠邊 內裡",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "shoe-mold-surface-check",
+      "category": "guide",
+      "title": "鞋子發霉先別刷：怎麼看出表面還是滲入？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明鞋子發霉時不要立刻刷或噴酒精，先判斷是表面白粉還是已經留下色斑。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html",
+      "keywords": [
+        "鞋子發霉",
+        "鞋內發霉",
+        "鞋子長霉",
+        "台中洗鞋發霉"
+      ],
+      "local_intent": "台中西屯 鞋子發霉 表面霉 滲入",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "shoe-sole-separation-limit",
+      "category": "guide",
+      "title": "鞋底開膠是清潔問題嗎？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明鞋底開膠、大底分離不是表面髒污，清潔不能把黏著層重新接回去，應先停手拍照問界線。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html",
+      "keywords": [
+        "鞋底開膠",
+        "鞋子脫膠",
+        "鞋底分離",
+        "台中洗鞋"
+      ],
+      "local_intent": "台中西屯 鞋底開膠 脫膠 清潔限度",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "bag-color-transfer",
+      "category": "guide",
+      "title": "包包染色、色移，怎麼分髒污和掉色？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包身或衣服染料移到包包上時，要先分是浮色髒污還是材質掉色，兩者限度不同。",
+      "url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html",
+      "keywords": [
+        "包包掉色",
+        "包包染色",
+        "色移怎麼辦",
+        "台中洗包"
+      ],
+      "local_intent": "台中西屯 包包 色移 掉色 染色",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "bag-ink-marks",
+      "category": "guide",
+      "title": "包內裡筆痕能清嗎？先不要用酒精｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包內裡原子筆或油性筆痕要先看纖維與滲入範圍，自行用酒精擦可能讓印變大。",
+      "url": "https://sixiangjialaundry.com/guides/bag-ink-marks.html",
+      "keywords": [
+        "包包筆痕",
+        "內裡原子筆",
+        "包內沾到筆",
+        "台中洗包"
+      ],
+      "local_intent": "台中西屯 包包 內裡 筆痕 酒精",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "bag-lining-care",
+      "category": "guide",
+      "title": "包內裡粉塵與味道，外觀乾淨就不用管嗎？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包包外觀乾淨時，內裡仍可能有粉塵、屑與悶味，收進防塵袋前要分開檢查。",
+      "url": "https://sixiangjialaundry.com/guides/bag-lining-care.html",
+      "keywords": [
+        "包內裡清潔",
+        "包包悶味",
+        "內袋灰塵",
+        "台中洗包"
+      ],
+      "local_intent": "台中西屯 包包 內裡 粉塵 悶味",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "nylon-bag-care",
+      "category": "guide",
+      "title": "尼龍包的油垢與水痕怎麼判斷？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明尼龍或合成纖維包身常見油膜與雨痕，不能用皮革那套去油或上油方式處理。",
+      "url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html",
+      "keywords": [
+        "尼龍包清潔",
+        "尼龍包油垢",
+        "尼龍包水痕",
+        "台中洗包"
+      ],
+      "local_intent": "台中西屯 尼龍包 油垢 水痕",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "canvas-bag-care",
+      "category": "guide",
+      "title": "帆布包泥灰與包角，要等乾還是現洗？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明帆布包身沾泥時，濕刷會推進織紋，包角磨耗則不是髒污，應分開判斷。",
+      "url": "https://sixiangjialaundry.com/guides/canvas-bag-care.html",
+      "keywords": [
+        "帆布包清潔",
+        "帆布包沾泥",
+        "包角磨損",
+        "台中洗帆布包"
+      ],
+      "local_intent": "台中西屯 帆布包 泥灰 包角",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "backpack-cleaning-check",
+      "category": "guide",
+      "title": "書包、背包送洗前要看哪裡？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明背包與書包要先看底部、背帶、內袋與是否有電子或硬板，不能整顆當衣服泡水。",
+      "url": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html",
+      "keywords": [
+        "書包清洗",
+        "背包清洗",
+        "書包怎麼洗",
+        "台中洗書包"
+      ],
+      "local_intent": "台中西屯 書包 背包 底部 背帶",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "bag-clean-vs-repair",
+      "category": "guide",
+      "title": "包包該清潔、補色還是先不處理？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明清潔、補色與結構維修是不同工序，送洗前要先分髒污、掉色和破損，避免用清潔期待修復。",
+      "url": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html",
+      "keywords": [
+        "包包清潔還是補色",
+        "包包維修",
+        "邊油磨損",
+        "台中洗包"
+      ],
+      "local_intent": "台中西屯 包包 清潔 補色 維修分界",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "wool-coat-dry-clean",
+      "category": "guide",
+      "title": "羊毛大衣能水洗嗎？先看結構再決定｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明羊毛大衣常有襯裡與墊肩，水洗容易縮皺變形，應先看洗標與結構再決定乾洗或停手。",
+      "url": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html",
+      "keywords": [
+        "羊毛大衣清洗",
+        "大衣乾洗",
+        "羊毛大衣水洗",
+        "台中乾洗大衣"
+      ],
+      "local_intent": "台中西屯 羊毛大衣 乾洗 縮水",
+      "linked_service": "台中西屯洗衣店",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "wool-knit-shrink-risk",
+      "category": "guide",
+      "title": "羊毛針織、毛衣縮水前要先看什麼？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明針織毛衣怕的是縮絨與變形，不確定洗標時不要機洗或掛著滴乾。",
+      "url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html",
+      "keywords": [
+        "毛衣縮水",
+        "羊毛衫清洗",
+        "針織衫怎麼洗",
+        "台中洗毛衣"
+      ],
+      "local_intent": "台中西屯 毛衣 針織 縮水 洗標",
+      "linked_service": "台中西屯洗衣店",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "clothing-mold-airing",
+      "category": "guide",
+      "title": "衣物發霉先通風還是直接洗？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明衣櫃取出的霉味衣物應先通風分辨表面霉與色斑，不要立刻套袋或濕擦。",
+      "url": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html",
+      "keywords": [
+        "衣服發霉",
+        "衣櫃霉味",
+        "衣物長霉",
+        "台中洗衣發霉"
+      ],
+      "local_intent": "台中西屯 衣物發霉 通風 色斑",
+      "linked_service": "布品收納",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "vacuum-bag-storage-risk",
+      "category": "guide",
+      "title": "衣物還沒乾，可以真空壓縮嗎？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明真空袋與密封收納在布品未全乾時會把潮氣與味道悶住，應先確認乾燥再壓縮。",
+      "url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html",
+      "keywords": [
+        "真空袋收納",
+        "壓縮袋霉味",
+        "換季收納真空",
+        "台中布品收納"
+      ],
+      "local_intent": "台中西屯 真空袋 壓縮 未乾 悶味",
+      "linked_service": "布品收納",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "oil-vs-water-stain-choice",
+      "category": "guide",
+      "title": "油漬還是汗漬？這決定乾洗還是水洗｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明油性髒污與水性汗漬的處理方向不同，送洗前先分類型，避免用錯方式把痕跡定住。",
+      "url": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html",
+      "keywords": [
+        "油漬怎麼洗",
+        "汗漬發黃",
+        "乾洗還是水洗",
+        "台中洗衣"
+      ],
+      "local_intent": "台中西屯 油漬 汗漬 乾洗 水洗",
+      "linked_service": "台中西屯洗衣店",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "blanket-damp-check",
+      "category": "guide",
+      "title": "毯子、毛毯收納前怎麼確認乾了？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明毯子與厚毛毯中間層可能仍潮，收納前要分材質與潮氣，不能只摸表面。",
+      "url": "https://sixiangjialaundry.com/guides/blanket-damp-check.html",
+      "keywords": [
+        "毯子清洗",
+        "毛毯收納",
+        "毯子發霉",
+        "台中洗毯子"
+      ],
+      "local_intent": "台中西屯 毯子 毛毯 潮氣 收納",
+      "linked_service": "布品收納",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "post-wash-drying-before-storage",
+      "category": "guide",
+      "title": "送洗後沒乾透就收，會怎樣？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明清洗後的衣物與寢具若夾層未乾就收納，潮氣會再轉成味道，應把乾燥當成獨立步驟。",
+      "url": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html",
+      "keywords": [
+        "洗完如何收納",
+        "衣服沒乾就收",
+        "寢具乾燥",
+        "台中洗衣收納"
+      ],
+      "local_intent": "台中西屯 洗後乾燥 收納 潮氣",
+      "linked_service": "布品收納",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "synthetic-vs-leather-handle",
+      "category": "guide",
+      "title": "包包提把是真皮還是合成皮？分錯會傷｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明真皮與合成皮提把的清潔與乾燥反應不同，先分材質再處理手汗與脫皮。",
+      "url": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html",
+      "keywords": [
+        "合成皮提把",
+        "真皮提把清潔",
+        "包包脫皮",
+        "台中洗包"
+      ],
+      "local_intent": "台中西屯 提把 真皮 合成皮 脫皮",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
+    },
+    {
+      "slug": "rainy-bag-care",
+      "category": "guide",
+      "title": "雨後包包怎麼處理？包角和內裡先看哪？｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包包淋雨後應先通風檢查包角與內裡，不要立刻收進防塵袋或上油。",
+      "url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html",
+      "keywords": [
+        "包包淋雨",
+        "包角水痕",
+        "雨天洗包",
+        "台中洗包"
+      ],
+      "local_intent": "台中西屯 包包淋雨 包角 內裡 防塵袋",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
+      "step_count": 4
     }
   ],
   "content_contract": {
@@ -1499,84 +1942,33 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 127,
-    "latest_date": "2026-08-31",
+    "post_count": 121,
+    "latest_date": "2026-08-29",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 60,
-    "posts_with_target_queries": 62,
-    "posts_with_evidence_type": 62
+    "posts_with_search_intent": 56,
+    "posts_with_target_queries": 58,
+    "posts_with_evidence_type": 58
   },
-  "latest_date": "2026-08-31",
+  "latest_date": "2026-08-29",
   "latest_posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-01",
-      "date": "2026-08-31",
-      "date_published": "2026-08-31T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-01",
+      "date": "2026-08-29",
+      "date_published": "2026-08-29T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-08-31 11:30 可收藏：精品名牌鞋護理，送洗前先看三個位置",
-      "topic": "可收藏：精品名牌鞋護理，送洗前先看三個位置",
+      "title": "2026-08-29 11:30 可收藏：窗簾下緣灰塵與空氣味，送洗前先看三個位置",
+      "topic": "可收藏：窗簾下緣灰塵與空氣味，送洗前先看三個位置",
       "visual_route": "shop-inspection",
-      "traffic_route": "value-prop-lead",
+      "traffic_route": "share-worthy-care",
       "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中精品乾洗",
-        "台中名牌衣物清潔",
-        "白鞋泛黃怎麼辦",
-        "鞋子淋雨怎麼處理"
-      ],
-      "evidence_type": "first-party-inspection",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-31-slot-01.html",
-      "facebook_caption": "精品名牌鞋護理，送洗前先看三個位置。\n\n精品最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。\n\n精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。\n\n不確定這件能不能處理？拍一張傳 LINE，我們先看材質再說。\n\n哪一件是你最不敢自己動手處理的？\n\n追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "精品名牌鞋護理，送洗前先看三個位置。\n\n精品最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。\n\n精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。\n\n不確定這件能不能處理？拍一張私訊，我們先看材質再說。\n\n哪一件是你最不敢自己動手處理的？\n\n追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-02",
-      "date": "2026-08-31",
-      "date_published": "2026-08-31T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-08-31 20:30 細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置",
-      "topic": "細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置",
-      "visual_route": "customer-consultation",
-      "traffic_route": "trust-reset",
-      "content_role": "evidence-conversion",
       "search_intent": "aftercare",
       "target_queries": [
-        "台中洗鞋店",
-        "台中洗包包",
+        "台中棉被清洗",
+        "台中床組清洗",
         "鞋子淋雨後怎麼收",
         "棉被收納前要洗嗎"
       ],
@@ -1584,11 +1976,9 @@
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#包包保養",
-        "#霉味處理",
-        "#洗包包",
-        "#精品包保養",
-        "#名牌包清潔",
+        "#窗簾清洗",
+        "#居家布品",
+        "#居家清潔",
         "#台中洗衣店",
         "#西屯",
         "#逢甲",
@@ -1598,354 +1988,45 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-01-slide-04.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-31-slot-02.html",
-      "facebook_caption": "久放包包有霉味先不要硬擦，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n台中市區我們到府收，傳 LINE說一聲就好。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "久放包包有霉味先不要硬擦，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n台中市區我們到府收，私訊說一聲就好。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-29-slot-01.html",
+      "facebook_caption": "窗簾下緣灰塵與空氣味，送洗前先看三個位置，這篇可以先收藏，送洗前照著看。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n收之前想先整理一次？傳 LINE跟我們說，台中市區到府收。\n\n你衣櫃裡放最久沒動的是什麼？\n\n這類送洗前檢查清單會持續整理，先追蹤起來比較不會臨時找不到。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #窗簾清洗 #居家布品 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "窗簾下緣灰塵與空氣味，送洗前先看三個位置，這篇可以先收藏，送洗前照著看。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n收之前想先整理一次？私訊跟我們說，台中市區到府收。\n\n你衣櫃裡放最久沒動的是什麼？\n\n這類送洗前檢查清單會持續整理，先追蹤起來比較不會臨時找不到。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #窗簾清洗 #居家布品 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-03",
-      "date": "2026-08-31",
-      "date_published": "2026-08-31T12:00:00+08:00",
-      "slot": 3,
-      "time": "12:00",
-      "title": "2026-08-31 12:00 童鞋鞋頭磨到發花",
-      "topic": "童鞋鞋頭磨到發花",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-31-slot-03.html",
-      "facebook_caption": "小孩踢地板磨出來的,只要面料還在就一定洗得回來。\n\n與其急著買新的一雙,先看那層膠有沒有裂開。\n\n童鞋鞋頭磨到發花。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "小孩踢地板磨出來的,只要面料還在就一定洗得回來。\n\n與其急著買新的一雙,先看那層膠有沒有裂開。\n\n童鞋鞋頭磨到發花。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    }
-  ],
-  "recent_posts": [
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-03",
-      "date": "2026-08-31",
-      "date_published": "2026-08-31T12:00:00+08:00",
-      "slot": 3,
-      "time": "12:00",
-      "title": "2026-08-31 12:00 童鞋鞋頭磨到發花",
-      "topic": "童鞋鞋頭磨到發花",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-31-slot-03.html",
-      "facebook_caption": "小孩踢地板磨出來的,只要面料還在就一定洗得回來。\n\n與其急著買新的一雙,先看那層膠有沒有裂開。\n\n童鞋鞋頭磨到發花。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "小孩踢地板磨出來的,只要面料還在就一定洗得回來。\n\n與其急著買新的一雙,先看那層膠有沒有裂開。\n\n童鞋鞋頭磨到發花。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-02",
-      "date": "2026-08-31",
-      "date_published": "2026-08-31T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-02",
+      "date": "2026-08-29",
+      "date_published": "2026-08-29T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
-      "title": "2026-08-31 20:30 細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置",
-      "topic": "細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置",
-      "visual_route": "customer-consultation",
-      "traffic_route": "trust-reset",
-      "content_role": "evidence-conversion",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中洗鞋店",
-        "台中洗包包",
-        "鞋子淋雨後怎麼收",
-        "棉被收納前要洗嗎"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#包包保養",
-        "#霉味處理",
-        "#洗包包",
-        "#精品包保養",
-        "#名牌包清潔",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-31-slot-02.html",
-      "facebook_caption": "久放包包有霉味先不要硬擦，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n台中市區我們到府收，傳 LINE說一聲就好。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "久放包包有霉味先不要硬擦，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n台中市區我們到府收，私訊說一聲就好。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-01",
-      "date": "2026-08-31",
-      "date_published": "2026-08-31T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-08-31 11:30 可收藏：精品名牌鞋護理，送洗前先看三個位置",
-      "topic": "可收藏：精品名牌鞋護理，送洗前先看三個位置",
-      "visual_route": "shop-inspection",
-      "traffic_route": "value-prop-lead",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中精品乾洗",
-        "台中名牌衣物清潔",
-        "白鞋泛黃怎麼辦",
-        "鞋子淋雨怎麼處理"
-      ],
-      "evidence_type": "first-party-inspection",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-31-slot-01.html",
-      "facebook_caption": "精品名牌鞋護理，送洗前先看三個位置。\n\n精品最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。\n\n精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。\n\n不確定這件能不能處理？拍一張傳 LINE，我們先看材質再說。\n\n哪一件是你最不敢自己動手處理的？\n\n追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "精品名牌鞋護理，送洗前先看三個位置。\n\n精品最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。\n\n精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。\n\n不確定這件能不能處理？拍一張私訊，我們先看材質再說。\n\n哪一件是你最不敢自己動手處理的？\n\n追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-03",
-      "date": "2026-08-30",
-      "date_published": "2026-08-30T12:00:00+08:00",
-      "slot": 3,
-      "time": "12:00",
-      "title": "2026-08-30 12:00 毛毯起球摸起來粗",
-      "topic": "毛毯起球摸起來粗",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#棉被送洗",
-        "#寢具清潔",
-        "#換季收納",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-30-slot-03.html",
-      "facebook_caption": "球是摩擦磨出來的,不是被你洗壞了。\n\n修掉之後手感就會回來,但下次要單獨洗,才不會再被拉鍊磨到。\n\n毛毯起球摸起來粗。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "球是摩擦磨出來的,不是被你洗壞了。\n\n修掉之後手感就會回來,但下次要單獨洗,才不會再被拉鍊磨到。\n\n毛毯起球摸起來粗。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-02",
-      "date": "2026-08-30",
-      "date_published": "2026-08-30T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-08-30 20:30 今天情境：換季時西裝和襯衫不要一起悶收",
-      "topic": "今天情境：換季時西裝和襯衫不要一起悶收",
-      "visual_route": "customer-consultation",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中西裝乾洗",
-        "台中襯衫清洗",
-        "鞋子淋雨後怎麼收",
-        "棉被收納前要洗嗎"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#西裝乾洗",
-        "#襯衫清洗",
-        "#衣物送洗",
-        "#乾洗",
-        "#台中乾洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-04.png"
-      ],
-      "carousel_items": [
-        {
-          "slide": 1,
-          "image_prompt": "OBJECT PASSPORT: exactly one white cotton dress shirt laid with a navy wool suit jacket (object locked as one shirt-and-suit inspection pair); color/material: white cotton shirting and navy wool; wear marks: collar ring and shoulder-line collapse. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of 換季時西裝和襯衫不要一起悶收 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
-          "local_image_path": "docs/assets/2026-08-30/slot-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png"
-        },
-        {
-          "slide": 2,
-          "image_prompt": "OBJECT PASSPORT: exactly one white cotton dress shirt laid with a navy wool suit jacket (object locked as one shirt-and-suit inspection pair); color/material: white cotton shirting and navy wool; wear marks: collar ring and shoulder-line collapse. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 2 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Overall closer look at the complete passport item so fabric grain, seams and full silhouette stay readable.",
-          "local_image_path": "docs/assets/2026-08-30/slot-02-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-02.png"
-        },
-        {
-          "slide": 3,
-          "image_prompt": "OBJECT PASSPORT: exactly one white cotton dress shirt laid with a navy wool suit jacket (object locked as one shirt-and-suit inspection pair); color/material: white cotton shirting and navy wool; wear marks: collar ring and shoulder-line collapse. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 3 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Tight close-up of the problem area named by the topic; the wear marks fill the frame.",
-          "local_image_path": "docs/assets/2026-08-30/slot-02-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-03.png"
-        },
-        {
-          "slide": 4,
-          "image_prompt": "OBJECT PASSPORT: exactly one white cotton dress shirt laid with a navy wool suit jacket (object locked as one shirt-and-suit inspection pair); color/material: white cotton shirting and navy wool; wear marks: collar ring and shoulder-line collapse. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 4 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Same-counter after-treatment or before/after comparison of the identical physical item; do not introduce a second garment.",
-          "local_image_path": "docs/assets/2026-08-30/slot-02-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-04.png"
-        }
-      ],
-      "media_type": "carousel",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-30-slot-02.html",
-      "facebook_caption": "換季時西裝和襯衫不要一起悶收。\n\n西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。\n\n西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。\n\n不確定還洗不洗得回來？拍一張傳 LINE給我們看看。\n\n你有幾件襯衫是黃了以後就沒再穿的？\n\n家裡那個襯衫領口都黃了還在穿的人，傳給他。\n\n追蹤私享家，之後會持續整理襯衫、西裝與精緻衣物的送洗前判斷。\n\n台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "換季時西裝和襯衫不要一起悶收。\n\n西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。\n\n西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。\n\n不確定還洗不洗得回來？拍一張私訊給我們看看。\n\n你有幾件襯衫是黃了以後就沒再穿的？\n\n家裡那個襯衫領口都黃了還在穿的人，傳給他。\n\n追蹤私享家，之後會持續整理襯衫、西裝與精緻衣物的送洗前判斷。\n\n點個人檔案連結加 LINE\n\n#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-01",
-      "date": "2026-08-30",
-      "date_published": "2026-08-30T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-08-30 11:30 可收藏：白鞋鞋帶發灰，送洗前先看三個位置",
-      "topic": "可收藏：白鞋鞋帶發灰，送洗前先看三個位置",
+      "title": "2026-08-29 20:30 細節拆解：返家鞋櫃味道通常從一雙開始，先看容易忽略的位置",
+      "topic": "細節拆解：返家鞋櫃味道通常從一雙開始，先看容易忽略的位置",
       "visual_route": "shop-inspection",
       "traffic_route": "dwell-detail",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
+      "content_role": "evidence-conversion",
+      "search_intent": "aftercare",
       "target_queries": [
-        "台中白鞋清潔",
         "台中洗鞋店",
-        "白鞋泛黃怎麼辦",
-        "鞋子淋雨怎麼處理"
+        "台中洗包包",
+        "鞋子淋雨後怎麼收",
+        "棉被收納前要洗嗎"
       ],
-      "evidence_type": "first-party-inspection",
+      "evidence_type": "customer-question",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
+        "#鞋櫃收納",
+        "#鞋子清潔",
         "#台中洗鞋",
         "#洗鞋推薦",
         "#球鞋清洗",
@@ -1958,20 +2039,20 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-02-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-02-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-02-slide-04.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-30-slot-01.html",
-      "facebook_caption": "白鞋鞋帶發灰，送洗前先看三個位置。\n\n白鞋放久了會黃，不是因為髒。那是材質本身在氧化。\n\n白鞋我會先確認是表面髒還是材質本身變色。這兩種能做到的程度差很多。\n\n想問問看能處理到什麼程度？拍一張傳 LINE就可以。\n\n你都怎麼洗白鞋？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "白鞋鞋帶發灰，送洗前先看三個位置。\n\n白鞋放久了會黃，不是因為髒。那是材質本身在氧化。\n\n白鞋我會先確認是表面髒還是材質本身變色。這兩種能做到的程度差很多。\n\n想問問看能處理到什麼程度？拍一張私訊就可以。\n\n你都怎麼洗白鞋？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-29-slot-02.html",
+      "facebook_caption": "返家鞋櫃味道通常從一雙開始，先看容易忽略的位置。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你有幾雙鞋是因為不知道怎麼洗就一直放著？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋櫃收納 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "返家鞋櫃味道通常從一雙開始，先看容易忽略的位置。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張私訊給我們，先幫你看。\n\n你有幾雙鞋是因為不知道怎麼洗就一直放著？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋櫃收納 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03",
@@ -1979,8 +2060,8 @@
       "date_published": "2026-08-29T12:00:00+08:00",
       "slot": 3,
       "time": "12:00",
-      "title": "2026-08-29 12:00 馬丁靴整雙發霉了",
-      "topic": "馬丁靴整雙發霉了",
+      "title": "2026-08-29 12:00 先看鞋面那道水痕",
+      "topic": "先看鞋面那道水痕",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
@@ -2013,8 +2094,53 @@
       "video_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.mp4",
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json",
       "article_url": "https://sixiangjialaundry.com/posts/2026-08-29-slot-03.html",
-      "facebook_caption": "馬丁靴整雙發霉了。\n\n梅雨櫃子放一季,皮面就長出這層白灰。霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "馬丁靴整雙發霉了。\n\n梅雨櫃子放一季,皮面就長出這層白灰。霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+      "facebook_caption": "淋雨那天擦乾了，看起來沒事。\n\n水痕過幾天才浮出來。這時候上油等於鎖進皮裡，之後補色。還沒上油的現在剛好。皮鞋四百起。\n\n先看鞋面那道水痕。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "淋雨那天擦乾了，看起來沒事。\n\n水痕過幾天才浮出來。這時候上油等於鎖進皮裡，之後補色。還沒上油的現在剛好。皮鞋四百起。\n\n先看鞋面那道水痕。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+    }
+  ],
+  "recent_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03",
+      "date": "2026-08-29",
+      "date_published": "2026-08-29T12:00:00+08:00",
+      "slot": 3,
+      "time": "12:00",
+      "title": "2026-08-29 12:00 先看鞋面那道水痕",
+      "topic": "先看鞋面那道水痕",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-29-slot-03.html",
+      "facebook_caption": "淋雨那天擦乾了，看起來沒事。\n\n水痕過幾天才浮出來。這時候上油等於鎖進皮裡，之後補色。還沒上油的現在剛好。皮鞋四百起。\n\n先看鞋面那道水痕。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "淋雨那天擦乾了，看起來沒事。\n\n水痕過幾天才浮出來。這時候上油等於鎖進皮裡，之後補色。還沒上油的現在剛好。皮鞋四百起。\n\n先看鞋面那道水痕。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-02",
@@ -3186,6 +3312,341 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-08-22-slot-01.html",
       "facebook_caption": "童鞋開學檢查，先看鞋口內裡和鞋底邊。\n\n暑假穿過的上學鞋，鞋口那圈汗漬和鞋底邊泥灰最先出來。看起來還能穿，硬刷只會把鞋口刷毛。\n\n我會先翻開鞋口看內裡是新汗還是已經悶黃的舊痕，再看鞋底邊和鞋頭黏合。開學前先處理，比開學當天再急好多了。\n\n開學前想先整理？拍一張傳 LINE，我們先幫你看鞋口那種悶。\n\n你家那雙上學鞋，鞋口有沒有開始黃？\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理童鞋和開學檢查的判斷。\n\n參考價：童鞋 $150（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #童鞋清潔 #開學準備 #鞋子除味 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "童鞋開學檢查，先看鞋口內裡和鞋底邊。\n\n暑假穿過的上學鞋，鞋口那圈汗漬和鞋底邊泥灰最先出來。看起來還能穿，硬刷只會把鞋口刷毛。\n\n我會先翻開鞋口看內裡是新汗還是已經悶黃的舊痕，再看鞋底邊和鞋頭黏合。開學前先處理，比開學當天再急好多了。\n\n開學前想先整理？拍一張私訊，我們先幫你看鞋口那種悶。\n\n你家那雙上學鞋，鞋口有沒有開始黃？\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理童鞋和開學檢查的判斷。\n\n參考價：童鞋 $150（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #童鞋清潔 #開學準備 #鞋子除味 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-03",
+      "date": "2026-08-21",
+      "date_published": "2026-08-21T12:00:00+08:00",
+      "slot": 3,
+      "time": "12:00",
+      "title": "2026-08-21 12:00 皮帶摺痕發白裂",
+      "topic": "皮帶摺痕發白裂",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-03.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-21-slot-03.html",
+      "facebook_caption": "老是扣同一格,那一摺的塗層會最先斷開來。\n\n清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。\n\n皮帶摺痕發白裂。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "老是扣同一格,那一摺的塗層會最先斷開來。\n\n清完顏色會淡一點,但斷掉的那條線還是要補色才會平回去。\n\n皮帶摺痕發白裂。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-02",
+      "date": "2026-08-21",
+      "date_published": "2026-08-21T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-08-21 20:30 細節拆解：絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置",
+      "topic": "細節拆解：絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置",
+      "visual_route": "customer-consultation",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中娃娃清洗",
+        "台中布偶清潔",
+        "鞋子淋雨後怎麼收",
+        "棉被收納前要洗嗎"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#娃娃清洗",
+        "#絨毛玩偶清潔",
+        "#絨毛娃娃",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-08-21/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-21/slot-02-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-21/slot-02-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-21/slot-02-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-21-slot-02.html",
+      "facebook_caption": "絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置。\n\n娃娃可以洗，但不能當一般衣服洗。填充和五官最怕脫水那一段。\n\n娃娃我會先看五官是繡的還是黏的。黏的那種怕水也怕脫水，得換一種洗法。\n\n家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n衣櫃塞到關不起來的朋友，這篇傳給他。\n\n追蹤私享家，之後會持續整理娃娃、布偶與絨毛玩偶的清潔判斷。\n\n參考價：絨毛娃娃依大小報價，LINE 傳照片先估\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #娃娃清洗 #絨毛玩偶清潔 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "絨毛玩偶有汗味時先看五官和配件，先看容易忽略的位置。\n\n娃娃可以洗，但不能當一般衣服洗。填充和五官最怕脫水那一段。\n\n娃娃我會先看五官是繡的還是黏的。黏的那種怕水也怕脫水，得換一種洗法。\n\n家裡有不敢洗的娃娃？拍一張私訊，我們先幫你看能不能洗。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n衣櫃塞到關不起來的朋友，這篇傳給他。\n\n追蹤私享家，之後會持續整理娃娃、布偶與絨毛玩偶的清潔判斷。\n\n參考價：絨毛娃娃依大小報價，LINE 傳照片先估\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #娃娃清洗 #絨毛玩偶清潔 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json#post-2026-08-21-slot-01",
+      "date": "2026-08-21",
+      "date_published": "2026-08-21T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-08-21 11:30 開學前學生制服檢查",
+      "topic": "開學前學生制服檢查",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "學生制服 送洗",
+        "台中制服清洗",
+        "開學前制服怎麼整理",
+        "制服領口發黃"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#學生制服",
+        "#制服清洗",
+        "#衣物送洗",
+        "#乾洗",
+        "#台中乾洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "OBJECT PASSPORT: exactly one Taiwan school uniform set: one white short-sleeve sailor-collar blouse with a red neckerchief and one khaki pleated skirt (object locked as one school uniform set, not a clinic uniform, not a lab coat, not a dress shirt, not a nurse uniform); color/material: white poly-cotton sailor blouse and khaki pleated skirt; wear marks: collar-inner yellowing and cuff oil darkening from summer wear. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of 開學前學生制服檢查 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
+          "local_image_path": "docs/assets/2026-08-21/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "OBJECT PASSPORT: exactly one Taiwan school uniform set: one white short-sleeve sailor-collar blouse with a red neckerchief and one khaki pleated skirt (object locked as one school uniform set, not a clinic uniform, not a lab coat, not a dress shirt, not a nurse uniform); color/material: white poly-cotton sailor blouse and khaki pleated skirt; wear marks: collar-inner yellowing and cuff oil darkening from summer wear. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 2 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Overall closer look at the complete passport item so fabric grain, seams and full silhouette stay readable.",
+          "local_image_path": "docs/assets/2026-08-21/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "OBJECT PASSPORT: exactly one Taiwan school uniform set: one white short-sleeve sailor-collar blouse with a red neckerchief and one khaki pleated skirt (object locked as one school uniform set, not a clinic uniform, not a lab coat, not a dress shirt, not a nurse uniform); color/material: white poly-cotton sailor blouse and khaki pleated skirt; wear marks: collar-inner yellowing and cuff oil darkening from summer wear. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 3 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Tight close-up of the problem area named by the topic; the wear marks fill the frame.",
+          "local_image_path": "docs/assets/2026-08-21/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "OBJECT PASSPORT: exactly one Taiwan school uniform set: one white short-sleeve sailor-collar blouse with a red neckerchief and one khaki pleated skirt (object locked as one school uniform set, not a clinic uniform, not a lab coat, not a dress shirt, not a nurse uniform); color/material: white poly-cotton sailor blouse and khaki pleated skirt; wear marks: collar-inner yellowing and cuff oil darkening from summer wear. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 4 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Same-counter after-treatment or before/after comparison of the identical physical item; do not introduce a second garment.",
+          "local_image_path": "docs/assets/2026-08-21/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-21/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-21.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-21-slot-01.html",
+      "facebook_caption": "開學前學生制服檢查，先看領口內側和袖口。\n\n暑假穿過的制服，領口那圈黃和袖口油汗最先出來。看起來還能穿，先燙會把黃痕定死。\n\n我會先翻領口內側看黃是新皮脂還是已經氧化的舊痕，再看袖口和腋下。順序是先處理再整燙。\n\n開學前想先整理？拍一張傳 LINE，我們先幫你看領口那種黃。\n\n你家那套制服，領口有沒有開始黃？\n\n追蹤私享家，之後會持續整理學生制服和開學檢查的判斷。\n\n參考價：襯衫 $70、整燙 $50（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #學生制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "開學前學生制服檢查，先看領口內側和袖口。\n\n暑假穿過的制服，領口那圈黃和袖口油汗最先出來。看起來還能穿，先燙會把黃痕定死。\n\n我會先翻領口內側看黃是新皮脂還是已經氧化的舊痕，再看袖口和腋下。順序是先處理再整燙。\n\n開學前想先整理？拍一張私訊，我們先幫你看領口那種黃。\n\n你家那套制服，領口有沒有開始黃？\n\n追蹤私享家，之後會持續整理學生制服和開學檢查的判斷。\n\n參考價：襯衫 $70、整燙 $50（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #學生制服 #制服清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-20.json#post-2026-08-20-slot-03",
+      "date": "2026-08-20",
+      "date_published": "2026-08-20T12:00:00+08:00",
+      "slot": 3,
+      "time": "12:00",
+      "title": "2026-08-20 12:00 保潔墊出現黃圈",
+      "topic": "保潔墊出現黃圈",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#棉被送洗",
+        "#寢具清潔",
+        "#換季收納",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-20/slot-03.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-08-20/slot-03.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-08-20/slot-03.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-20.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-20-slot-03.html",
+      "facebook_caption": "保潔墊出現黃圈。\n\n汗滲過去再乾掉,就會留下一圈邊。它幫你擋的是整張床墊,所以換季的時候該跟被子一起洗過一次。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "保潔墊出現黃圈。\n\n汗滲過去再乾掉,就會留下一圈邊。它幫你擋的是整張床墊,所以換季的時候該跟被子一起洗過一次。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-20.json#post-2026-08-20-slot-02",
+      "date": "2026-08-20",
+      "date_published": "2026-08-20T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-08-20 20:30 今天情境：下班最常背的包先看提把",
+      "topic": "今天情境：下班最常背的包先看提把",
+      "visual_route": "customer-consultation",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "trust-proof",
+      "target_queries": [
+        "台中洗鞋店",
+        "台中洗包包",
+        "台中洗鞋推薦",
+        "西屯乾洗店推薦"
+      ],
+      "evidence_type": "real-case-photo",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#包包清潔",
+        "#下班日常",
+        "#洗包包",
+        "#精品包保養",
+        "#名牌包清潔",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-20/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-08-20/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-20/slot-02-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-20/slot-02-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-20/slot-02-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "OBJECT PASSPORT: exactly one structured everyday handbag (object locked as one structured handbag); color/material: pebbled leather-look body with stitched handles; wear marks: honest everyday wear at the handle. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, retail shelves with fabric-care products softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of 下班最常背的包先看提把 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
+          "local_image_path": "docs/assets/2026-08-20/slot-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-20/slot-02.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "OBJECT PASSPORT: exactly one structured everyday handbag (object locked as one structured handbag); color/material: pebbled leather-look body with stitched handles; wear marks: honest everyday wear at the handle. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, retail shelves with fabric-care products softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 2 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Overall closer look at the complete passport item so fabric grain, seams and full silhouette stay readable.",
+          "local_image_path": "docs/assets/2026-08-20/slot-02-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-20/slot-02-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "OBJECT PASSPORT: exactly one structured everyday handbag (object locked as one structured handbag); color/material: pebbled leather-look body with stitched handles; wear marks: honest everyday wear at the handle. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, retail shelves with fabric-care products softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 3 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Tight close-up of the problem area named by the topic; the wear marks fill the frame.",
+          "local_image_path": "docs/assets/2026-08-20/slot-02-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-20/slot-02-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "OBJECT PASSPORT: exactly one structured everyday handbag (object locked as one structured handbag); color/material: pebbled leather-look body with stitched handles; wear marks: honest everyday wear at the handle. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, retail shelves with fabric-care products softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 4 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Same-counter after-treatment or before/after comparison of the identical physical item; do not introduce a second garment.",
+          "local_image_path": "docs/assets/2026-08-20/slot-02-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-20/slot-02-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-20.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-20-slot-02.html",
+      "facebook_caption": "下班最常背的包先看提把。\n\n包角和邊油是先磨掉的地方。等到看得出來，通常已經磨進去了。\n\n我會先確認邊油還剩多少。磨到底層之後，能做的就只有維持。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你那個包用多久了？\n\n那個包用了好幾年沒整理過的朋友，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "下班最常背的包先看提把。\n\n包角和邊油是先磨掉的地方。等到看得出來，通常已經磨進去了。\n\n我會先確認邊油還剩多少。磨到底層之後，能做的就只有維持。\n\n不確定還救不救得回來？拍一張私訊給我們，先幫你看。\n\n你那個包用多久了？\n\n那個包用了好幾年沒整理過的朋友，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #包包清潔 #下班日常 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-20.json#post-2026-08-20-slot-01",
+      "date": "2026-08-20",
+      "date_published": "2026-08-20T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-08-20 11:30 麂皮鞋雨天急救",
+      "topic": "麂皮鞋雨天急救",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋店",
+        "麂皮鞋淋雨怎麼辦",
+        "台中洗鞋推薦",
+        "西屯乾洗店推薦"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#麂皮鞋清潔",
+        "#鞋子清潔",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-08-20/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-08-20/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-08-20/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-08-20/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-08-20/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-20.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-08-20-slot-01.html",
+      "facebook_caption": "麂皮鞋雨天急救，先看鞋面絨毛有沒有倒伏。\n\n雨淋過的麂皮，乾了以後絨毛會貼平發亮。看起來只是濕過，其實那層絨已經被壓住了。\n\n我會先摸鞋頭那片絨。倒下去發硬的，不是髒，是絨向亂了；用濕布擦只會把它壓得更平。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。台中市區免費到府收送。\n\n你家那雙麂皮鞋最近有沒有淋過雨？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮鞋清潔 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "麂皮鞋雨天急救，先看鞋面絨毛有沒有倒伏。\n\n雨淋過的麂皮，乾了以後絨毛會貼平發亮。看起來只是濕過，其實那層絨已經被壓住了。\n\n我會先摸鞋頭那片絨。倒下去發硬的，不是髒，是絨向亂了；用濕布擦只會把它壓得更平。\n\n不確定還救不救得回來？拍一張私訊給我們，先幫你看。台中市區免費到府收送。\n\n你家那雙麂皮鞋最近有沒有淋過雨？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮鞋清潔 #鞋子清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
     }
   ],
   "published_posts": [
@@ -8343,8 +8804,8 @@
       "date_published": "2026-08-29T12:00:00+08:00",
       "slot": 3,
       "time": "12:00",
-      "title": "2026-08-29 12:00 馬丁靴整雙發霉了",
-      "topic": "馬丁靴整雙發霉了",
+      "title": "2026-08-29 12:00 先看鞋面那道水痕",
+      "topic": "先看鞋面那道水痕",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
@@ -8377,323 +8838,8 @@
       "video_url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.mp4",
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json",
       "article_url": "https://sixiangjialaundry.com/posts/2026-08-29-slot-03.html",
-      "facebook_caption": "馬丁靴整雙發霉了。\n\n梅雨櫃子放一季,皮面就長出這層白灰。霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "馬丁靴整雙發霉了。\n\n梅雨櫃子放一季,皮面就長出這層白灰。霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-01",
-      "date": "2026-08-30",
-      "date_published": "2026-08-30T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-08-30 11:30 可收藏：白鞋鞋帶發灰，送洗前先看三個位置",
-      "topic": "可收藏：白鞋鞋帶發灰，送洗前先看三個位置",
-      "visual_route": "shop-inspection",
-      "traffic_route": "dwell-detail",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中白鞋清潔",
-        "台中洗鞋店",
-        "白鞋泛黃怎麼辦",
-        "鞋子淋雨怎麼處理"
-      ],
-      "evidence_type": "first-party-inspection",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-30-slot-01.html",
-      "facebook_caption": "白鞋鞋帶發灰，送洗前先看三個位置。\n\n白鞋放久了會黃，不是因為髒。那是材質本身在氧化。\n\n白鞋我會先確認是表面髒還是材質本身變色。這兩種能做到的程度差很多。\n\n想問問看能處理到什麼程度？拍一張傳 LINE就可以。\n\n你都怎麼洗白鞋？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "白鞋鞋帶發灰，送洗前先看三個位置。\n\n白鞋放久了會黃，不是因為髒。那是材質本身在氧化。\n\n白鞋我會先確認是表面髒還是材質本身變色。這兩種能做到的程度差很多。\n\n想問問看能處理到什麼程度？拍一張私訊就可以。\n\n你都怎麼洗白鞋？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-02",
-      "date": "2026-08-30",
-      "date_published": "2026-08-30T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-08-30 20:30 今天情境：換季時西裝和襯衫不要一起悶收",
-      "topic": "今天情境：換季時西裝和襯衫不要一起悶收",
-      "visual_route": "customer-consultation",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中西裝乾洗",
-        "台中襯衫清洗",
-        "鞋子淋雨後怎麼收",
-        "棉被收納前要洗嗎"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#西裝乾洗",
-        "#襯衫清洗",
-        "#衣物送洗",
-        "#乾洗",
-        "#台中乾洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-04.png"
-      ],
-      "carousel_items": [
-        {
-          "slide": 1,
-          "image_prompt": "OBJECT PASSPORT: exactly one white cotton dress shirt laid with a navy wool suit jacket (object locked as one shirt-and-suit inspection pair); color/material: white cotton shirting and navy wool; wear marks: collar ring and shoulder-line collapse. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 1 of 4. Hero still of 換季時西裝和襯衫不要一起悶收 through the passport item as the main close-up on the locked inspection counter. Keep the entire object readable and do not imply a cleaning result.",
-          "local_image_path": "docs/assets/2026-08-30/slot-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png"
-        },
-        {
-          "slide": 2,
-          "image_prompt": "OBJECT PASSPORT: exactly one white cotton dress shirt laid with a navy wool suit jacket (object locked as one shirt-and-suit inspection pair); color/material: white cotton shirting and navy wool; wear marks: collar ring and shoulder-line collapse. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 2 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Overall closer look at the complete passport item so fabric grain, seams and full silhouette stay readable.",
-          "local_image_path": "docs/assets/2026-08-30/slot-02-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-02.png"
-        },
-        {
-          "slide": 3,
-          "image_prompt": "OBJECT PASSPORT: exactly one white cotton dress shirt laid with a navy wool suit jacket (object locked as one shirt-and-suit inspection pair); color/material: white cotton shirting and navy wool; wear marks: collar ring and shoulder-line collapse. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 3 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Tight close-up of the problem area named by the topic; the wear marks fill the frame.",
-          "local_image_path": "docs/assets/2026-08-30/slot-02-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-03.png"
-        },
-        {
-          "slide": 4,
-          "image_prompt": "OBJECT PASSPORT: exactly one white cotton dress shirt laid with a navy wool suit jacket (object locked as one shirt-and-suit inspection pair); color/material: white cotton shirting and navy wool; wear marks: collar ring and shoulder-line collapse. SCENE LOCK: the same light counter with the same pink cutting mat and the same wall family on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. Shot on a phone, slightly high handheld angle looking down about 15 degrees, the featured object filling roughly 35-50% of the frame height with natural phone-camera depth: object sharp, background softened but still recognizable. Scene: a light counter with a pink cutting mat, white slat-wall panels behind, a garment conveyor with plastic-covered clothes softly out of focus in the background, everyday Taiwanese laundry shop clutter at the frame edges. Key light from the storefront window on one side, fluorescent ceiling fill, gentle shadow falloff, neutral warm indoor tone, slight handheld framing imperfection. The featured item's condition matches the topic exactly, at the positions the topic names, with visible material grain, a real contact shadow under the object, and believable weight; it must not look brand new unless the topic is the after state. Any shop paperwork or labels in the background must be out of focus and unreadable. The featured object must not look waxy or plastic-coated. Not editorial, not cinematic, not studio lighting, no oversaturated colors, no boutique or showroom interior, no stock-photo feel, no laundry basket as a featured object, no readable text on the featured object, no brand logos or logo-like marks, no watermark. No poster layout, no graphic panel, no address, no phone number. Photo 4 of 4. the SAME physical garment as slide 1, same color, same fabric, same wear marks, same counter and lighting. Same-counter after-treatment or before/after comparison of the identical physical item; do not introduce a second garment.",
-          "local_image_path": "docs/assets/2026-08-30/slot-02-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02-slide-04.png"
-        }
-      ],
-      "media_type": "carousel",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-30-slot-02.html",
-      "facebook_caption": "換季時西裝和襯衫不要一起悶收。\n\n西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。\n\n西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。\n\n不確定還洗不洗得回來？拍一張傳 LINE給我們看看。\n\n你有幾件襯衫是黃了以後就沒再穿的？\n\n家裡那個襯衫領口都黃了還在穿的人，傳給他。\n\n追蹤私享家，之後會持續整理襯衫、西裝與精緻衣物的送洗前判斷。\n\n台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "換季時西裝和襯衫不要一起悶收。\n\n西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。\n\n西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。\n\n不確定還洗不洗得回來？拍一張私訊給我們看看。\n\n你有幾件襯衫是黃了以後就沒再穿的？\n\n家裡那個襯衫領口都黃了還在穿的人，傳給他。\n\n追蹤私享家，之後會持續整理襯衫、西裝與精緻衣物的送洗前判斷。\n\n點個人檔案連結加 LINE\n\n#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-03",
-      "date": "2026-08-30",
-      "date_published": "2026-08-30T12:00:00+08:00",
-      "slot": 3,
-      "time": "12:00",
-      "title": "2026-08-30 12:00 毛毯起球摸起來粗",
-      "topic": "毛毯起球摸起來粗",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#棉被送洗",
-        "#寢具清潔",
-        "#換季收納",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-30-slot-03.html",
-      "facebook_caption": "球是摩擦磨出來的,不是被你洗壞了。\n\n修掉之後手感就會回來,但下次要單獨洗,才不會再被拉鍊磨到。\n\n毛毯起球摸起來粗。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "球是摩擦磨出來的,不是被你洗壞了。\n\n修掉之後手感就會回來,但下次要單獨洗,才不會再被拉鍊磨到。\n\n毛毯起球摸起來粗。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-01",
-      "date": "2026-08-31",
-      "date_published": "2026-08-31T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-08-31 11:30 可收藏：精品名牌鞋護理，送洗前先看三個位置",
-      "topic": "可收藏：精品名牌鞋護理，送洗前先看三個位置",
-      "visual_route": "shop-inspection",
-      "traffic_route": "value-prop-lead",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中精品乾洗",
-        "台中名牌衣物清潔",
-        "白鞋泛黃怎麼辦",
-        "鞋子淋雨怎麼處理"
-      ],
-      "evidence_type": "first-party-inspection",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-31-slot-01.html",
-      "facebook_caption": "精品名牌鞋護理，送洗前先看三個位置。\n\n精品最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。\n\n精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。\n\n不確定這件能不能處理？拍一張傳 LINE，我們先看材質再說。\n\n哪一件是你最不敢自己動手處理的？\n\n追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "精品名牌鞋護理，送洗前先看三個位置。\n\n精品最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。\n\n精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。\n\n不確定這件能不能處理？拍一張私訊，我們先看材質再說。\n\n哪一件是你最不敢自己動手處理的？\n\n追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-02",
-      "date": "2026-08-31",
-      "date_published": "2026-08-31T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-08-31 20:30 細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置",
-      "topic": "細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置",
-      "visual_route": "customer-consultation",
-      "traffic_route": "trust-reset",
-      "content_role": "evidence-conversion",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中洗鞋店",
-        "台中洗包包",
-        "鞋子淋雨後怎麼收",
-        "棉被收納前要洗嗎"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#包包保養",
-        "#霉味處理",
-        "#洗包包",
-        "#精品包保養",
-        "#名牌包清潔",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-31-slot-02.html",
-      "facebook_caption": "久放包包有霉味先不要硬擦，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n台中市區我們到府收，傳 LINE說一聲就好。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "久放包包有霉味先不要硬擦，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n台中市區我們到府收，私訊說一聲就好。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-03",
-      "date": "2026-08-31",
-      "date_published": "2026-08-31T12:00:00+08:00",
-      "slot": 3,
-      "time": "12:00",
-      "title": "2026-08-31 12:00 童鞋鞋頭磨到發花",
-      "topic": "童鞋鞋頭磨到發花",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-08-31-slot-03.html",
-      "facebook_caption": "小孩踢地板磨出來的,只要面料還在就一定洗得回來。\n\n與其急著買新的一雙,先看那層膠有沒有裂開。\n\n童鞋鞋頭磨到發花。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "小孩踢地板磨出來的,只要面料還在就一定洗得回來。\n\n與其急著買新的一雙,先看那層膠有沒有裂開。\n\n童鞋鞋頭磨到發花。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+      "facebook_caption": "淋雨那天擦乾了，看起來沒事。\n\n水痕過幾天才浮出來。這時候上油等於鎖進皮裡，之後補色。還沒上油的現在剛好。皮鞋四百起。\n\n先看鞋面那道水痕。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "淋雨那天擦乾了，看起來沒事。\n\n水痕過幾天才浮出來。這時候上油等於鎖進皮裡，之後補色。還沒上油的現在剛好。皮鞋四百起。\n\n先看鞋面那道水痕。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
     }
   ]
 }

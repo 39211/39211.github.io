@@ -215,12 +215,6 @@
         "https://sixiangjialaundry.com/assets/2026-08-29/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-08-29/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -395,7 +389,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-08-31"
+      "dateModified": "2026-09-03"
     },
     {
       "@type": "FAQPage",
@@ -456,7 +450,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-08-31",
+      "dateModified": "2026-08-29",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -693,7 +687,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/services/fabric-storage.html#faq"
       },
-      "dateModified": "2026-08-30",
+      "dateModified": "2026-08-23",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -789,7 +783,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#faq"
       },
-      "dateModified": "2026-08-30",
+      "dateModified": "2026-08-25",
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://sixiangjialaundry.com/assets/services/fabric-storage-inspection.png",
@@ -1490,9 +1484,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/guides/birkenstock-care.html#webpage",
-      "name": "勃肯鞋會臭嗎？鞋床發黑怎麼處理｜台中洗鞋 私享家",
+      "name": "勃肯鞋鞋床發黑、有味道怎麼處理?台中洗鞋｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
-      "description": "勃肯鞋會臭，多半是軟木鞋床吸汗，不是鞋面。私享家洗衣店（台中市西屯區青海路二段365號）先看鞋床與麂皮，再決定能不能處理；整雙泡水會更糟。",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理勃肯鞋：軟木鞋床吸汗會發黑發臭，麂皮面又不能泡水，先傳照片判斷軟木與麂皮各自的處理方式。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1506,9 +1500,8 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq"
       },
-      "dateModified": "2026-08-29",
+      "dateModified": "2026-08-23",
       "keywords": [
-        "勃肯鞋會臭嗎",
         "勃肯鞋清潔",
         "勃肯鞋發黑",
         "軟木鞋床 清洗",
@@ -1524,8 +1517,8 @@
       "mainEntityOfPage": {
         "@id": "https://sixiangjialaundry.com/guides/birkenstock-care.html#webpage"
       },
-      "name": "勃肯鞋會臭嗎？先看軟木鞋床，不要整雙泡水",
-      "description": "勃肯鞋會臭，多半是軟木鞋床吸汗，不是鞋面；整雙泡水會更糟。",
+      "name": "勃肯鞋鞋床發黑、有味道,還救得回來嗎?",
+      "description": "勃肯這類軟木鞋床的鞋,問題幾乎都在同一個地方:腳掌接觸的那層軟木被汗浸久了,顏色變深、味道跑出來。麂皮鞋面怕水、軟木怕泡,所以整雙丟水裡刷是最傷的做法。分開處理才對。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -1568,14 +1561,6 @@
         "@id": "https://sixiangjialaundry.com/guides/birkenstock-care.html#webpage"
       },
       "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "勃肯鞋會臭嗎?",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "會，而且味道多半來自軟木鞋床吸汗，不是鞋面。噴除臭劑蓋不住；要處理鞋床，不要整雙泡水。"
-          }
-        },
         {
           "@type": "Question",
           "name": "勃肯鞋可以整雙丟洗衣機嗎?",
@@ -2160,9 +2145,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html#webpage",
-      "name": "包包提把與包角怎麼判斷？｜私享家洗衣店",
+      "name": "包包提把、包角與行李箱輪子怎麼判斷？｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理包包提把與包角：這些位置常累積手汗、水痕與摩擦，整理前要先看材質與痕跡是否已滲入。行李箱輪子改看專頁。",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理包包提把、包角和行李箱輪子：這些位置常累積手汗、水痕、摩擦和地面灰塵，整理前要先看材質與痕跡是否已滲入。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -2176,13 +2161,14 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html#faq"
       },
-      "dateModified": "2026-08-29",
+      "dateModified": "2026-08-23",
       "keywords": [
         "包包清潔",
         "包包提把清潔",
         "包角清潔",
         "台中西屯洗包",
-        "洗包包"
+        "行李箱清潔",
+        "行李箱輪子"
       ]
     },
     {
@@ -2192,8 +2178,8 @@
       "mainEntityOfPage": {
         "@id": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html#webpage"
       },
-      "name": "包包提把與包角怎麼判斷？",
-      "description": "提把發黏是手汗堆的；滲進皮層只能淡化，還沒變色現在處理較省。",
+      "name": "包包提把、包角與行李箱輪子怎麼判斷？",
+      "description": "行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -2223,8 +2209,8 @@
         {
           "@type": "HowToStep",
           "position": 5,
-          "name": "行李箱另看專頁",
-          "text": "輪子、底板與旅行箱布面的判斷寫在行李箱輪子指南，不要和提把油痕混成同一種問題。"
+          "name": "看行李箱輪子",
+          "text": "旅行回來先看輪子、底板與把手，不要帶著地面灰直接推進櫃子。"
         }
       ]
     },
@@ -2257,7 +2243,7 @@
           "name": "行李箱輪子髒了可以送洗嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以。輪子、底板與旅行箱布面請看行李箱輪子清潔指南；本頁只判斷提把與包角。沒看過物件前不報固定價。"
+            "text": "可以先傳輪子、底板與把手照片詢問。門市會看材質與灰塵深度，再說明適合局部清潔還是外觀整理；沒看過物件前不報固定價。"
           }
         }
       ]
@@ -2539,9 +2525,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#webpage",
-      "name": "台中絨毛娃娃清洗店？先看填充與五官｜私享家洗衣店",
+      "name": "台中西屯娃娃與絨毛玩偶清潔｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
-      "description": "台中找絨毛娃娃清洗店，先看填充、五官與配件能不能洗。私享家洗衣店（台中市西屯區青海路二段365號）手洗低溫烘，不保證完全恢復。",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）提供娃娃、絨毛玩偶與布偶送洗前判斷：先確認填充物、黏貼配件、五官與局部污漬，台中市西屯布偶清潔。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -2555,9 +2541,8 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#faq"
       },
-      "dateModified": "2026-08-29",
+      "dateModified": "2026-08-23",
       "keywords": [
-        "絨毛娃娃清洗店",
         "台中西屯娃娃清洗",
         "台中布偶清潔",
         "絨毛玩偶清洗",
@@ -2573,7 +2558,7 @@
       "mainEntityOfPage": {
         "@id": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#webpage"
       },
-      "name": "台中哪裡洗絨毛娃娃？先看能不能洗",
+      "name": "娃娃與絨毛玩偶清潔",
       "description": "娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。",
       "inLanguage": "zh-Hant-TW",
       "step": [
@@ -2611,14 +2596,6 @@
         "@id": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#webpage"
       },
       "mainEntity": [
-        {
-          "@type": "Question",
-          "name": "台中哪裡有絨毛娃娃清洗店？",
-          "acceptedAnswer": {
-            "@type": "Answer",
-            "text": "西屯青海路二段365號的私享家洗衣店可判斷娃娃能不能洗；先拍正反面與五官，台中市可約免費收送。"
-          }
-        },
         {
           "@type": "Question",
           "name": "娃娃可以直接丟洗衣機嗎？",
@@ -2748,10 +2725,11 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html#faq"
       },
-      "dateModified": "2026-08-30",
+      "dateModified": "2026-08-23",
       "keywords": [
-        "台中洗衣店怎麼找",
-        "台中洗鞋店怎麼選",
+        "台中洗衣店",
+        "西屯洗衣店",
+        "台中洗鞋店",
         "台中洗包包",
         "台中棉被清洗",
         "台中西裝乾洗",
@@ -3703,6 +3681,2358 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "運動鞋250起、麂皮鞋400起，以實際報價為主。\n公開水洗價還包括皮類運動鞋 300、休閒鞋 350、皮鞋 400、高跟鞋 400、名牌鞋 600、童鞋 150。乾洗柔洗另計，發霉特污另計；LINE 傳照片可先確認。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#webpage",
+      "name": "麂皮鞋變硬、發亮怎麼判斷？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明麂皮鞋摸起來變硬或發亮時，多半是絨毛倒伏而不是普通髒污，先分乾刷與濕擦風險再決定是否送整理。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "麂皮鞋清潔",
+        "麂皮鞋變硬",
+        "麂皮鞋發亮",
+        "台中洗麂皮"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#webpage"
+      },
+      "name": "麂皮鞋變硬、發亮，還能自己擦嗎？",
+      "description": "麂皮變硬多半是絨毛倒伏，不要濕擦；先乾刷看方向。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "先認絨面",
+          "text": "看鞋面是直立短絨還是光滑塗層。絨面被壓平會發亮，那不是泥灰。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "分乾污與水痕",
+          "text": "表面浮灰可以輕拍；水痕、染色或油點要另看，不能當成同一種髒。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "停手濕擦",
+          "text": "濕布會把絨毛壓得更平，整片泡水更容易變硬。先不要噴未知清潔劑。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "拍照問方向",
+          "text": "拍鞋面自然光、發亮位置與鞋內，說明有沒有淋雨或自己擦過。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "麂皮鞋可以拿濕布擦亮嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議。濕擦常把絨毛壓平，看起來更亮更硬。先停手，拍自然光近照再問。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "麂皮被雨淋過還能恢復嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "要看倒伏與水圈範圍。輕微浮灰較有機會；泡水變硬或染色只能淡化，不保證原絨向。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "這頁和勃肯鞋清潔是同一件事嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不是。勃肯要另外看軟木鞋床；本頁只處理一般麂皮鞋面的倒伏與水痕風險。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#webpage",
+      "name": "帆布鞋沾泥，該等乾還是立刻刷？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明帆布鞋沾泥時，濕刷容易把泥推進織紋並起毛，應先等乾再判斷能不能整理。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "帆布鞋沾泥",
+        "帆布鞋清潔",
+        "帆布鞋起毛",
+        "台中洗帆布鞋"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#webpage"
+      },
+      "name": "帆布鞋沾泥，現在刷還是等乾？",
+      "description": "帆布沾泥先等乾再處理；濕刷會把泥推進織紋。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "先別動濕泥",
+          "text": "泥還是濕的，越刷越往織紋裡走。先讓鞋子通風，不要塞進鞋櫃。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "等乾看塊狀",
+          "text": "乾了以後泥常成塊，輕拍或輕刮表面比濕刷安全。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "看纖維有沒有起毛",
+          "text": "已經刷過、織紋發白起毛，再刷只會讓色差更明顯。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "拍織紋近照",
+          "text": "拍鞋頭、側邊織紋與鞋內，說明是剛沾到還是已經自己刷過。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "帆布鞋踩到泥，回家第一件事是什麼？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先通風等乾，不要立刻刷。濕刷會把泥推進織紋，之後看起來更像洗不掉。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "等乾了自己用硬刷可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議硬刷。織紋一起毛，色差會留下。先拍近照問，不要先破壞表面。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "帆布發黃和沾泥是同一題嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不是。泥是顆粒進織紋；泛黃可能是氧化或洗劑殘留。先分位置再決定頁面。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#webpage",
+      "name": "皮鞋淋雨後的水痕，能不能先上油？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明皮鞋淋雨後水痕常過幾天才浮出，這時上油可能把水痕鎖進皮面，應先通風再判斷。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "皮鞋水痕",
+        "皮鞋淋雨",
+        "皮鞋上油",
+        "台中洗皮鞋"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#webpage"
+      },
+      "name": "皮鞋雨痕浮出來前，不要急著上油",
+      "description": "皮鞋雨痕先不要上油；水痕浮出後上油會鎖進皮裡。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "先吸水不要揉",
+          "text": "用乾布輕壓吸走表面水，不要來回擦，避免把水推向更深的皮層。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "取出鞋墊通風",
+          "text": "能拆的鞋墊先取出，鞋內用報紙或乾燥物吸濕，遠離高溫。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "觀察延遲水痕",
+          "text": "當天看起來乾了也不代表結束，水痕常隔幾天圈出來。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "上油前先問",
+          "text": "水痕還在移動時上油，等於把圈印鎖住，之後常要另談補色。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "皮鞋淋雨當天擦乾上油，比較不容易壞嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不一定。水痕常晚點才浮出，這時上油可能把圈印鎖進皮面。先通風，不要急著上油。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以用吹風機把皮鞋吹乾嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議高溫直吹。膠與皮革都可能變形。先吸水、取出鞋墊、陰乾。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "水痕洗得掉嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "要看有沒有被油鎖住。未上油的雨痕較能評估；已鎖住的只能淡化，不保證消失。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#webpage",
+      "name": "鞋臭是濕氣、汗還是悶放？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/shoe-odor-source.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明鞋內味道要先分雨水潮氣、穿著汗垢與收納悶放，不能只用香味覆蓋。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "鞋子臭",
+        "鞋內悶味",
+        "鞋子除臭",
+        "台中洗鞋除臭"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/shoe-odor-source.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#webpage"
+      },
+      "name": "鞋臭先分來源，不要先噴香水",
+      "description": "鞋臭先分潮氣、汗垢與悶放；不要用香味蓋住。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "先問什麼時候開始臭",
+          "text": "淋雨後、連續穿幾天，還是從櫃子拿出來才臭，三種來源不同。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "拆得開的先拆",
+          "text": "鞋墊能拆就取出聞，味道在墊上、內裡還是鞋底夾層，處理範圍不一樣。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "看潮不潮",
+          "text": "摸起來還濕，先通風；已經乾但仍臭，比較像汗垢或悶放吸附。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "不要先噴香",
+          "text": "香味只蓋表面。未乾就密封，味道會更重。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "鞋子臭噴除臭劑就好了嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不夠。香味蓋不住潮氣或汗垢來源。先分是濕、是汗還是悶放，再決定通風或送整理。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "只有鞋墊臭，可以只換墊嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以先拆開判斷，但內裡泡棉也可能吸附。只換墊卻把濕鞋塞回櫃子，味道常回來。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "放冷凍庫可以除臭嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "本頁不建議自行用極端溫度處理。皮革、膠與泡棉反應不同，先拍照說明來源較安全。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#webpage",
+      "name": "鞋子可以丟洗衣機嗎？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明整雙鞋進家用洗衣機的風險：脫水傷結構、泡水傷膠邊與內裡，應先看材質再決定。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "鞋子洗衣機",
+        "鞋子可以水洗嗎",
+        "運動鞋機洗",
+        "台中洗鞋"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#webpage"
+      },
+      "name": "鞋子能不能丟洗衣機？先看這三個風險",
+      "description": "鞋子不建議丟洗衣機；泡水與脫水會傷膠邊與內裡。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "先分材質",
+          "text": "網布、皮革、麂皮、帆布對水的反應不同，不能用衣服那套程序套到整雙鞋。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "想一想脫水",
+          "text": "家用脫水會扭結構、讓膠線鬆、讓泡棉移位。這比「有沒有洗乾淨」更先發生。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "看膠邊與貼合",
+          "text": "已經開裂的膠邊，進水後更容易張開。貼合鞋面也怕高溫。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "先拍照再決定",
+          "text": "不確定就不要丟進去。拍鞋面、鞋底接合與鞋內，問適不適合整理。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "運動鞋輕柔洗加洗衣袋可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "仍有風險。脫水與浸泡會作用在膠邊和內裡，不因洗衣袋就變成無風險。先問材質。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "洗完用烘衣機烘鞋可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議。高溫讓膠與合成材質變形。先通風陰乾，不要用高溫追乾。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "已經丟進去洗壞了還能問嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。拍開膠、變形與掉色位置，門市會先說清潔限度，不會把結構損壞當成一般髒污。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#webpage",
+      "name": "運動鞋網布、膠邊、內裡為什麼不能同一種刷法？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明運動鞋常是網布、合成皮、膠邊與內裡拼起來的，清潔前要分部位，不能整雙當同一種材質。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "運動鞋清潔",
+        "網布鞋清洗",
+        "膠邊泛黃",
+        "台中洗運動鞋"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#webpage"
+      },
+      "name": "運動鞋要分部位看，不能整雙當同一種布",
+      "description": "運動鞋要分網布、膠邊與內裡；不能同一種刷法。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "標出四個部位",
+          "text": "鞋面網布或合成皮、膠邊、縫線、鞋內，分開看髒的是灰、是氧化還是汗。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "膠邊先分灰和黃",
+          "text": "灰多半是附著；黃在膠裡常是氧化。氧化不能當髒污猛刷。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "網布避免起毛",
+          "text": "硬刷網布會讓纖維翹起，色差比髒更明顯。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "內裡另案",
+          "text": "味道與潮氣在內裡，不在鞋面。只刷外面等於沒處理穿著層。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "運動鞋鞋面和膠邊可以一起用力刷白嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不行。網布怕起毛，膠邊黃可能是氧化。同一種力道常讓兩處都更差。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "皮類運動鞋和一般運動鞋差在哪？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "差在鞋面耐水與耐刷程度。名稱只是起點，仍要看實際部位，不能只看品名。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "只想洗鞋面、內裡不管可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以先說你的優先順序，但潮氣在內裡時，只處理外面味道常還在。門市會分開講。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#webpage",
+      "name": "鞋子發霉先別刷：怎麼看出表面還是滲入？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明鞋子發霉時不要立刻刷或噴酒精，先判斷是表面白粉還是已經留下色斑。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "鞋子發霉",
+        "鞋內發霉",
+        "鞋子長霉",
+        "台中洗鞋發霉"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#webpage"
+      },
+      "name": "鞋子發霉：先通風，不要先刷",
+      "description": "鞋子發霉先通風、不要刷；先看是表面還是已滲入。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "先移出密閉空間",
+          "text": "從鞋櫃或塑膠袋拿出來通風，不要繼續悶。不要用濕布用力擦。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "看霉的形態",
+          "text": "像粉、浮在表面，和已經留下色斑或黑點，處理限度不同。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "檢查鞋內與鞋墊",
+          "text": "外觀乾淨不代表鞋內沒有。鞋墊背面常被忽略。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "不要自行用酒精",
+          "text": "皮革與染色材質碰到酒精可能脫脂、色差。先拍照。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "鞋子長白毛，用酒精擦掉就好了嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議。酒精可能讓皮面脫脂或色差，也可能把霉推開。先通風拍照。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "發霉的鞋洗完會不會再長？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "若收納環境仍潮濕，可能再發。清潔不是永久免疫，乾燥與透氣收納才是後段。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "鞋面沒霉、鞋內有斑點怎麼辦？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "以鞋內為準。外觀乾淨仍要拍鞋墊背面。不要只清外面。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#webpage",
+      "name": "鞋底開膠是清潔問題嗎？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明鞋底開膠、大底分離不是表面髒污，清潔不能把黏著層重新接回去，應先停手拍照問界線。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "鞋底開膠",
+        "鞋子脫膠",
+        "鞋底分離",
+        "台中洗鞋"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#webpage"
+      },
+      "name": "鞋底開膠：先停手，這不是刷得掉的髒",
+      "description": "鞋底開膠不是清潔能處理的；先停手拍照問界線。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "分髒污和結構",
+          "text": "膠邊灰是髒；大底張開、鞋頭翹起是黏著失效。兩件事不要一起猛刷。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "不要自行灌膠",
+          "text": "市售強黏劑可能汙染鞋面，也讓後續更難評估。先拍現況。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "回想進水或機洗",
+          "text": "浸泡、烘乾、高溫都可能讓膠線提早張開。時間線要一起說。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "問的是限度不是保證修",
+          "text": "本店公開服務是清潔與洗護判斷，不是承諾結構維修。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "開一點縫，洗完會不會自己黏回去？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不會把清潔當成重新黏合。張開是結構問題，洗掉泥不會讓膠線恢復。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你們有修鞋底嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "公開服務以清潔與洗護判斷為主。開膠是否另有整理方式，要看過物件後才說明，本頁不預先承諾。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "開膠的鞋還能拍照詢問嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。正是要先問界線。把縫的近照傳 LINE，比先灌膠或再機洗安全。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#webpage",
+      "name": "包包染色、色移，怎麼分髒污和掉色？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包身或衣服染料移到包包上時，要先分是浮色髒污還是材質掉色，兩者限度不同。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "包包掉色",
+        "包包染色",
+        "色移怎麼辦",
+        "台中洗包"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#webpage"
+      },
+      "name": "包包色移：先分染色和自己掉色",
+      "description": "包包色移先分外來染料與自身掉色；掉色不能當補色洗。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "看顏色從哪來",
+          "text": "深衣沾淺包、新包染到衣服，或包自己磨出淺斑，三種完全不同。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "看邊界",
+          "text": "外來色常有明確印子；自身掉色多在摩擦處慢慢變淺。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "不要用去漬劑試",
+          "text": "溶劑可能把染料推開或讓塗層霧掉。先保留原狀。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "同時拍來源衣物",
+          "text": "若是衣服染到包，把那件衣也拍一張，有助判斷是浮色還是已吃進材質。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-color-transfer.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "深色牛仔褲把淺色包染黑了，洗得掉嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "要看染料有沒有吃進材質。浮色較能評估；已滲入只能淡化，不保證回到原色。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "包自己越背越淺，是不是沒洗乾淨？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "摩擦變淺多半是掉色或塗層磨耗，不是殘留髒。清潔不能當成補色。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "可以先用濕紙巾擦掉色塊嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議。濕擦可能把染料推開或傷塗層。先拍照問，不要先試藥劑。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#webpage",
+      "name": "包內裡筆痕能清嗎？先不要用酒精｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/bag-ink-marks.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包內裡原子筆或油性筆痕要先看纖維與滲入範圍，自行用酒精擦可能讓印變大。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "包包筆痕",
+        "內裡原子筆",
+        "包內沾到筆",
+        "台中洗包"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/bag-ink-marks.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#webpage"
+      },
+      "name": "包內裡筆痕：先看滲了多深",
+      "description": "包內筆痕先不要用酒精擦；先拍材質與滲入範圍。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "分筆的種類",
+          "text": "水性和油性、鉛筆與麥克筆，吃進纖維的方式不同。能說來源就說。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "看有沒有暈開",
+          "text": "已經暈成一片，比剛點到的小點更難。不要再加水或酒精。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "看內裡材質",
+          "text": "光滑塗層、織布、絨布內裡，可處理範圍差很多。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "外袋也要拍",
+          "text": "筆有時穿過內袋印到外層。只拍一格內袋會漏判。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-ink-marks.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "原子筆剛點到內袋，用酒精擦可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議。酒精可能暈開油墨或傷材質。先拍照，保留原狀。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "筆痕一定能清到看不見嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不一定。未滲入的較有機會；已暈開或穿過夾層的，以淡化為目標，不保證無痕。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "只有內袋髒、外面很新，要整包處理嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不一定。先讓門市看內裡能不能局部處理，避免為了內袋把外層一起冒險。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/bag-lining-care.html#webpage",
+      "name": "包內裡粉塵與味道，外觀乾淨就不用管嗎？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/bag-lining-care.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包包外觀乾淨時，內裡仍可能有粉塵、屑與悶味，收進防塵袋前要分開檢查。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-lining-care.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-lining-care.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "包內裡清潔",
+        "包包悶味",
+        "內袋灰塵",
+        "台中洗包"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/bag-lining-care.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/bag-lining-care.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-lining-care.html#webpage"
+      },
+      "name": "包內裡：外觀乾淨不代表裡面能收",
+      "description": "包內裡粉塵與味道要分開看；外觀乾淨不代表內袋乾淨。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "打開所有夾層",
+          "text": "主袋、拉鍊內袋與底襯都要看，不要只拍外觀正面。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "分屑、粉、味",
+          "text": "紙屑灰塵是一層；味道可能在布裡。有味不要立刻密封。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "看受潮痕跡",
+          "text": "內底深色水印代表進過水。先通風，不要用熱風。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "防塵袋不是答案",
+          "text": "未乾或有味就套防塵袋，等於把味道關進去。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/bag-lining-care.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/bag-lining-care.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-lining-care.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "外面很新，只吸一下內袋就好了嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以先吸浮塵，但有潮味或水印就不要密封。味道在布裡時，表面吸塵不夠。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "內裡可以單獨拆出來洗嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "多數日常包不能當衣服那樣拆內襯。能不能局部處理要看結構，先拍照。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "有味道的包可以先放防塵袋嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不要。未處理的潮味會被悶住。先通風，確認乾燥再收。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#webpage",
+      "name": "尼龍包的油垢與水痕怎麼判斷？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明尼龍或合成纖維包身常見油膜與雨痕，不能用皮革那套去油或上油方式處理。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "尼龍包清潔",
+        "尼龍包油垢",
+        "尼龍包水痕",
+        "台中洗包"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#webpage"
+      },
+      "name": "尼龍包：油膜和水痕不是同一種髒",
+      "description": "尼龍包先看油垢與水痕；不要用皮革去油方式硬處理。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "確認是尼龍不是皮",
+          "text": "觸感偏滑、線感明顯，通常不是要上油的真皮。認錯材質最傷。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "分油膜和土痕",
+          "text": "手油在提把與翻蓋邊緣發亮；泥土在底部。兩者清潔路徑不同。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "看塗層有沒有霧",
+          "text": "強力去油劑可能讓表面變霧、發白。出現霧面就停手。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "五金另看",
+          "text": "金屬扣若已氧化，不要把清潔劑流進縫裡。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/nylon-bag-care.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "尼龍包可以用皮革清潔乳嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議。那是另一套油脂系統，可能留下膜或霧面。先確認材質再處理。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "尼龍包可以丟洗衣機嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "有風險。五金、塗層與內裡結構不一定耐脫水。先拍照問，不要整包浸泡。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "油垢會不會越擦越亮？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "用力搓可能把纖維磨亮或磨霧。亮不一定是乾淨。出現霧面就停手。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#webpage",
+      "name": "帆布包泥灰與包角，要等乾還是現洗？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/canvas-bag-care.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明帆布包身沾泥時，濕刷會推進織紋，包角磨耗則不是髒污，應分開判斷。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "帆布包清潔",
+        "帆布包沾泥",
+        "包角磨損",
+        "台中洗帆布包"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/canvas-bag-care.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#webpage"
+      },
+      "name": "帆布包：泥要等乾，包角磨耗不能當髒洗",
+      "description": "帆布包泥灰等乾再處理；包角磨耗不是髒污。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "包身先等乾",
+          "text": "帆布包和帆布鞋同一邏輯：濕泥越刷越進織紋。先通風。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "四個角分開拍",
+          "text": "包角深色可能是泥，也可能是磨出底色。近照才能分。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "提把材質可能不同",
+          "text": "包身帆布、提把卻是皮或合成皮，不能同一種方式。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "內底一併看",
+          "text": "帆布包常把泥帶進內底。只清外面不夠。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/canvas-bag-care.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "帆布包下雨淋髒，回家可以先刷嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先等乾。濕刷會把泥推進織紋，包身起毛後更像舊痕。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "包角黑黑的洗得白嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "要先分是泥還是磨耗。泥可評估；磨出底色不能當髒洗掉。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "帆布包和帆布鞋可以同一天一起問嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以，但請分開拍照。包角承重磨耗和鞋面踩泥，判斷點不一樣。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#webpage",
+      "name": "書包、背包送洗前要看哪裡？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明背包與書包要先看底部、背帶、內袋與是否有電子或硬板，不能整顆當衣服泡水。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "書包清洗",
+        "背包清洗",
+        "書包怎麼洗",
+        "台中洗書包"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#webpage"
+      },
+      "name": "書包背包：先看底部、背帶和內袋",
+      "description": "書包背包先看底部、背帶與內袋；不要整顆泡水。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "清空並拍內袋",
+          "text": "筆袋格、筆痕、碎屑都先拍。有筆電層或硬板要標出來。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "看底部和背帶",
+          "text": "底部拖地磨耗、肩帶油汗，是背包最常見的兩個舊點。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "找不該進水的東西",
+          "text": "反光條、發泡墊、磁扣、名牌掛件，浸泡可能變形。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "不要整顆丟洗衣機",
+          "text": "結構包和鞋子一樣怕脫水。先問再決定。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "國中書包很重很髒，可以直接丟洗衣機嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議。底部、泡棉與配件不一定耐脫水。先拍結構再問。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "只洗外面、內袋自己吸塵可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以先說明你的範圍。若內袋有筆痕或潮味，只洗外面常不夠，門市會分開講。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "背包和鞋子可以同一批收送嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以一起詢問，但要分開拍照。背包結構和鞋面材質不是同一種風險。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#webpage",
+      "name": "包包該清潔、補色還是先不處理？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明清潔、補色與結構維修是不同工序，送洗前要先分髒污、掉色和破損，避免用清潔期待修復。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "包包清潔還是補色",
+        "包包維修",
+        "邊油磨損",
+        "台中洗包"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#webpage"
+      },
+      "name": "清潔不是補色，也不是維修",
+      "description": "清潔只處理髒與部分水痕；補色修復是另一件事。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "列出你最在意的結果",
+          "text": "去髒、去味、補回顏色，還是修好裂縫。目標不同，工序不同。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "對位置",
+          "text": "表面灰、色移、邊油磨穿、五金鬆脫，逐項標，不要包成一句「救回來」。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "先接受限度",
+          "text": "沒看過物件前，沒有「洗完一定像新的」這條路。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "再決定送不送",
+          "text": "只想清潔也可以；不要為了補色期待去走清潔，結果落差最大。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "洗包會順便把邊角補色嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不會自動發生。清潔與補色是不同工序。先說你的目標，再看物件。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "掉色的包還值得送清潔嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "若目標是去髒與去味，仍可評估。若目標是補回原色，要另談，不能用清潔結果衡量。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "發霉是走清潔還是修復？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先走發霉判斷，不要直接當補色。霉斑造成的色差，常只能淡化。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#webpage",
+      "name": "羊毛大衣能水洗嗎？先看結構再決定｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明羊毛大衣常有襯裡與墊肩，水洗容易縮皺變形，應先看洗標與結構再決定乾洗或停手。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "羊毛大衣清洗",
+        "大衣乾洗",
+        "羊毛大衣水洗",
+        "台中乾洗大衣"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#webpage"
+      },
+      "name": "羊毛大衣：先看結構，不要直接丟水洗",
+      "description": "羊毛大衣通常走乾洗；水洗容易縮皺，先看洗標。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "先拍洗標",
+          "text": "圓圈乾洗、水盆水洗或打叉禁止，看不懂就拍照。不要憑手感猜。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "看有沒有襯裡墊肩",
+          "text": "有結構的大衣水洗後，內外縮率不同，版型會垮。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "分油光和塵",
+          "text": "領口油光偏乾洗路徑；表面浮塵不一定需要整件強洗。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "不要家用機洗",
+          "text": "滾筒加上脫水，是縮絨最常見的原因。先停手問。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "洗標寫可水洗的羊毛大衣，自己洗可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "仍要看襯裡與厚度。洗標是起點不是保證不縮。不確定就先拍照，不要先機洗。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "大衣發霉要先乾洗嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先走衣物發霉判斷，不要還沒通風就整件密封送。霉斑色差可能只能淡化。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "大衣和西裝外套是同一種乾洗嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "都常走乾洗，但厚度與結構不同。請分開拍照，不要當成同一件報。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#webpage",
+      "name": "羊毛針織、毛衣縮水前要先看什麼？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明針織毛衣怕的是縮絨與變形，不確定洗標時不要機洗或掛著滴乾。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "毛衣縮水",
+        "羊毛衫清洗",
+        "針織衫怎麼洗",
+        "台中洗毛衣"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#webpage"
+      },
+      "name": "針織毛衣：怕縮的是絨，不是表面那層灰",
+      "description": "針織毛衣怕縮水變形；不確定就先拍洗標再問。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "認針織不是大衣",
+          "text": "沒有墊肩的毛衣，風險是纖維咬合縮絨，不是版型垮那麼單純。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "拍洗標與起毬位置",
+          "text": "起毬在摩擦處，和油污、霉斑不是同一種痕跡。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "不要掛著滴乾",
+          "text": "濕的針織被重力拉長，乾了變成異形。平鋪才是方向。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "機洗先當高風險",
+          "text": "攪動加溫水是縮絨捷徑。先問再決定。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "羊毛衫縮了一點，再洗會不會拉開？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "縮絨後通常拉不回原尺寸。再洗可能更咬緊。先拍照說明現況，不要再試熱水。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "毛衣起毬要先剃再送洗嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議先猛刮。破了就不是髒污問題。先保留原狀，讓門市看纖維。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "手洗比較安全嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "仍看水溫與搓揉。手洗不是保證。洗標看不懂就先問。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#webpage",
+      "name": "衣物發霉先通風還是直接洗？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明衣櫃取出的霉味衣物應先通風分辨表面霉與色斑，不要立刻套袋或濕擦。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/fabric-storage.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "衣服發霉",
+        "衣櫃霉味",
+        "衣物長霉",
+        "台中洗衣發霉"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#webpage"
+      },
+      "name": "衣物發霉：先通風，不要先套袋去洗",
+      "description": "衣物發霉先通風、不要濕擦；先看是表面還是色斑。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "從密閉空間拿出來",
+          "text": "衣櫃、真空袋、旅行箱取出後先掛通風，不要再套塑膠。避免擾動：不要戶外抖、不要刷霉屑；近看時戴口罩與手套，這是基本防護，不是除霉方法。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "看斑點顏色",
+          "text": "表面白粉和已經留下綠黑斑，可改善程度不同。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "分材質",
+          "text": "棉、羊毛、皮衣內裡，耐受不同。皮衣走皮衣頁，不要當棉T洗。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "不要先噴香水",
+          "text": "香味蓋不住霉。未處理就噴香，判斷會更難。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "衣服有霉味但看不到斑，可以直接洗嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先通風確認是潮還是霉。未看斑就漂白或密封，都可能讓狀況更難判斷。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "發霉衣物洗完斑還在，是沒洗乾淨嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "色斑常已改變纖維顏色，不是表面髒。清潔目標是抑制與淡化，不保證無斑。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "和鞋子發霉可以同一批送嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以一起問，但要分開拍照。鞋內與衣物纖維的風險不同。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#webpage",
+      "name": "衣物還沒乾，可以真空壓縮嗎？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明真空袋與密封收納在布品未全乾時會把潮氣與味道悶住，應先確認乾燥再壓縮。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/fabric-storage.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "真空袋收納",
+        "壓縮袋霉味",
+        "換季收納真空",
+        "台中布品收納"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#webpage"
+      },
+      "name": "真空袋不是收納捷徑：沒乾就壓等於悶味",
+      "description": "還沒乾就真空壓縮，味道會被悶住；先確認全乾。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "先聞再壓",
+          "text": "有潮味或汗味，先不要抽真空。壓縮會把味道關在纖維裡。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "厚件摸中間",
+          "text": "外套與寢具表面乾、夾層不一定乾。中間涼涼的就先等。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "選透氣過渡",
+          "text": "不確定時用透氣袋過渡，比一次抽到最扁安全。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "有斑先問",
+          "text": "黃斑或霉點未處理就壓縮，下次打開常更深。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "外套洗完當天抽真空可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "若中間層還沒乾，不要壓。表面摸起來乾不夠，尤其是厚件。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "已經真空三個月打開有味，再壓一次會好嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不會。先通風、確認來源，未處理再壓會更重。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "沒有真空袋、用塑膠袋綁緊一樣嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "一樣會把未乾的潮氣關住。重點是乾燥，不是袋子形狀。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#webpage",
+      "name": "油漬還是汗漬？這決定乾洗還是水洗｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明油性髒污與水性汗漬的處理方向不同，送洗前先分類型，避免用錯方式把痕跡定住。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "油漬怎麼洗",
+        "汗漬發黃",
+        "乾洗還是水洗",
+        "台中洗衣"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#webpage"
+      },
+      "name": "先分油漬和汗漬，再決定乾洗或水洗",
+      "description": "汗漬偏水洗、油光偏乾洗；先分髒污類型再選方式。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "看位置猜類型",
+          "text": "領口袖口常見皮脂；菜湯、機油是油性；飲料、汗鹽偏水性。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "看洗標",
+          "text": "再對的污漬類型，也要過洗標。絲質羊毛不能只因為是汗就丟水。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "不要先用廚房清潔劑",
+          "text": "去油噴劑對衣物染料與纖維是未知反應。先停手。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "混合污先說",
+          "text": "又油又汗很常見。門市會分區判斷，不是選一個極端。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "領口黃一定是汗，所以一定水洗嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "領口常是皮脂加汗。還要看面料。西裝或羊毛不能只因為「黃」就水洗。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "油漬用洗碗精可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議。濃度與染料反應未知，可能把斑推開或留下圈。先拍照。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "不知道是油還是水，怎麼問？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "直接說不知道，並拍位置與時間。門市會先分，不會逼你先選一種方式。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#webpage",
+      "name": "毯子、毛毯收納前怎麼確認乾了？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/blanket-damp-check.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明毯子與厚毛毯中間層可能仍潮，收納前要分材質與潮氣，不能只摸表面。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/fabric-storage.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "毯子清洗",
+        "毛毯收納",
+        "毯子發霉",
+        "台中洗毯子"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/blanket-damp-check.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#webpage"
+      },
+      "name": "毯子摸起來乾，中間層仍可能是潮的",
+      "description": "毯子收納前先聞潮味；厚層表面乾、中間不一定乾。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "分毯子不是被子",
+          "text": "毯子通常較薄或另一種絨面，但仍有夾層潮氣。不要用棉被頁的填充假設硬套。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "摺線與邊角",
+          "text": "摺進去的邊最容易留潮與灰塵。打開來聞。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "看絨面倒伏",
+          "text": "絨被壓平發亮，不一定是髒；濕刷會更倒。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "未乾不進櫃",
+          "text": "有潮味就先不要摺進塑膠。先問清不清理。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/blanket-damp-check.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "沙發上的毯子沒有洗標，可以自己洗嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先不要機洗。拍絨面與邊角，讓門市看材質。沒標籤就更不能猜水溫。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "毯子和被子可以同一袋收嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以一起問，但填充件與絨毯的乾燥時間不同。未全乾不要共壓一袋。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "毛毯有靜電和灰塵，是不是該洗了？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "浮塵可先評估；若其實是潮味或霉，重點改成乾燥與發霉判斷，不是靜電本身。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#webpage",
+      "name": "送洗後沒乾透就收，會怎樣？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明清洗後的衣物與寢具若夾層未乾就收納，潮氣會再轉成味道，應把乾燥當成獨立步驟。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/fabric-storage.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "洗完如何收納",
+        "衣服沒乾就收",
+        "寢具乾燥",
+        "台中洗衣收納"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#webpage"
+      },
+      "name": "洗完沒乾透就收，等於把潮氣封回去",
+      "description": "洗完沒乾透就收納，等於把潮氣封回去。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "取件先掛再收",
+          "text": "剛取回不要立刻進櫃或真空。給夾層一個通風時間。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "厚件摸內層",
+          "text": "羽絨、棉被、大衣看中間，不看表面。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "塑膠套先打開",
+          "text": "若有暫時套著，回家先打開。塑膠會把殘餘濕氣關住。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "有味先停",
+          "text": "取回後若有潮味，先聯絡說明，不要自行高溫烘後再投訴。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "取件套著塑膠袋，可以連袋放進櫃子嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議當長期收納。先打開通風，確認夾層乾了再收。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "洗完當週就要真空收進閣樓可以嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先確認中間層乾透。沒把握就先透氣過渡，不要一次壓死。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "這和收納前檢查有何不同？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "收納檢查是「髒的要不要先處理」；本頁是「已經洗了，乾了沒」。時間點不同。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#webpage",
+      "name": "包包提把是真皮還是合成皮？分錯會傷｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明真皮與合成皮提把的清潔與乾燥反應不同，先分材質再處理手汗與脫皮。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "合成皮提把",
+        "真皮提把清潔",
+        "包包脫皮",
+        "台中洗包"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#webpage"
+      },
+      "name": "提把先分真皮或合成皮，再決定能不能擦",
+      "description": "合成皮與真皮提把清潔方式不同；先分材質再處理。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "看塗層有沒有起皮",
+          "text": "合成皮常見表面膜揭起；真皮較多是乾燥、掉色或邊油磨。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "不要上錯油",
+          "text": "皮革油上在合成膜上可能發黏、更髒。先認材質。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "手汗位置近照",
+          "text": "握感發黑是油汗還是膜在剝，決定能不能清。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "包身可能不同材",
+          "text": "尼龍包配皮提把很常見。只拍包身會判錯。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "提把一搓就脫皮，再擦油會好嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "多半不會。那常是合成膜在剝。再上油可能更黏。先停手拍照。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "摸起來像皮就是真皮嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不一定。要看起皮方式與切面。不確定就拍近照，不要先保養。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "真皮提把發黑洗得掉嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "手汗未深滲時較能評估；已進皮層只能淡化，不能當補色。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#webpage",
+      "name": "雨後包包怎麼處理？包角和內裡先看哪？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包包淋雨後應先通風檢查包角與內裡，不要立刻收進防塵袋或上油。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#faq"
+      },
+      "dateModified": "2026-08-30",
+      "keywords": [
+        "包包淋雨",
+        "包角水痕",
+        "雨天洗包",
+        "台中洗包"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#webpage"
+      },
+      "name": "雨後包包：先通風看包角與內裡",
+      "description": "雨後包包先通風看包角與內裡；不要立刻收進防塵袋。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "打開包通風",
+          "text": "拉開拉鍊，取出濕物，讓內裡散氣。不要連著內容物一起悶。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "看四個角",
+          "text": "包角最容易吸水變深。深色是水痕還是本來磨耗，要等表面不滴再拍。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "皮革件先不上油",
+          "text": "和皮鞋同一邏輯：水還在移動時上油，可能鎖痕。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "防塵袋等全乾",
+          "text": "外面摸乾、內底仍潮就套袋，味道會在袋子裡發生。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/rainy-bag-care.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "皮包淋雨，擦乾上油保護比較好？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先通風。水痕常晚點出現，這時上油可能鎖印。不要急著保養。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "尼龍包淋濕，可以吹熱風快乾嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不建議高溫。內裡與塗層反應不同。打開通風比較安全。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "雨後包包和雨後鞋子可以一起送嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以一起收送，但風險不同，請分開拍照，不要只傳一張全家福。"
           }
         }
       ]
@@ -7786,8 +10116,8 @@
     {
       "@type": "SocialMediaPosting",
       "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03",
-      "headline": "2026-08-29 12:00 馬丁靴整雙發霉了",
-      "text": "馬丁靴整雙發霉了。\n\n梅雨櫃子放一季,皮面就長出這層白灰。霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "headline": "2026-08-29 12:00 先看鞋面那道水痕",
+      "text": "淋雨那天擦乾了，看起來沒事。\n\n水痕過幾天才浮出來。這時候上油等於鎖進皮裡，之後補色。還沒上油的現在剛好。皮鞋四百起。\n\n先看鞋面那道水痕。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post(或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
       "datePublished": "2026-08-29T12:00:00+08:00",
       "inLanguage": "zh-Hant",
       "keywords": [
@@ -7819,241 +10149,7 @@
       "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-29.json#post-2026-08-29-slot-03:image",
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
       "url": "https://sixiangjialaundry.com/assets/2026-08-29/slot-03.png",
-      "caption": "馬丁靴整雙發霉了",
-      "inLanguage": "zh-Hant"
-    },
-    {
-      "@type": "SocialMediaPosting",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-01",
-      "headline": "2026-08-30 11:30 可收藏：白鞋鞋帶發灰，送洗前先看三個位置",
-      "text": "白鞋鞋帶發灰，送洗前先看三個位置。\n\n白鞋放久了會黃，不是因為髒。那是材質本身在氧化。\n\n白鞋我會先確認是表面髒還是材質本身變色。這兩種能做到的程度差很多。\n\n想問問看能處理到什麼程度？拍一張傳 LINE就可以。\n\n你都怎麼洗白鞋？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "datePublished": "2026-08-30T11:30:00+08:00",
-      "inLanguage": "zh-Hant",
-      "keywords": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "image": {
-        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-01:image"
-      },
-      "isPartOf": {
-        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
-      },
-      "about": {
-        "@id": "https://sixiangjialaundry.com/#business"
-      },
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-01"
-    },
-    {
-      "@type": "ImageObject",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-01:image",
-      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
-      "url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-01.png",
-      "caption": "可收藏：白鞋鞋帶發灰，送洗前先看三個位置",
-      "inLanguage": "zh-Hant"
-    },
-    {
-      "@type": "SocialMediaPosting",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-02",
-      "headline": "2026-08-30 20:30 今天情境：換季時西裝和襯衫不要一起悶收",
-      "text": "換季時西裝和襯衫不要一起悶收。\n\n西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。\n\n西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。\n\n不確定還洗不洗得回來？拍一張傳 LINE給我們看看。\n\n你有幾件襯衫是黃了以後就沒再穿的？\n\n家裡那個襯衫領口都黃了還在穿的人，傳給他。\n\n追蹤私享家，之後會持續整理襯衫、西裝與精緻衣物的送洗前判斷。\n\n台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #西裝乾洗 #襯衫清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "datePublished": "2026-08-30T20:30:00+08:00",
-      "inLanguage": "zh-Hant",
-      "keywords": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#西裝乾洗",
-        "#襯衫清洗",
-        "#衣物送洗",
-        "#乾洗",
-        "#台中乾洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "image": {
-        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-02:image"
-      },
-      "isPartOf": {
-        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
-      },
-      "about": {
-        "@id": "https://sixiangjialaundry.com/#business"
-      },
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-02"
-    },
-    {
-      "@type": "ImageObject",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-02:image",
-      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
-      "url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-02.png",
-      "caption": "今天情境：換季時西裝和襯衫不要一起悶收",
-      "inLanguage": "zh-Hant"
-    },
-    {
-      "@type": "SocialMediaPosting",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-03",
-      "headline": "2026-08-30 12:00 毛毯起球摸起來粗",
-      "text": "球是摩擦磨出來的,不是被你洗壞了。\n\n修掉之後手感就會回來,但下次要單獨洗,才不會再被拉鍊磨到。\n\n毛毯起球摸起來粗。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
-      "datePublished": "2026-08-30T12:00:00+08:00",
-      "inLanguage": "zh-Hant",
-      "keywords": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#棉被送洗",
-        "#寢具清潔",
-        "#換季收納",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "image": {
-        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-03:image"
-      },
-      "isPartOf": {
-        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
-      },
-      "about": {
-        "@id": "https://sixiangjialaundry.com/#business"
-      },
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-03"
-    },
-    {
-      "@type": "ImageObject",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-30.json#post-2026-08-30-slot-03:image",
-      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png",
-      "url": "https://sixiangjialaundry.com/assets/2026-08-30/slot-03.png",
-      "caption": "毛毯起球摸起來粗",
-      "inLanguage": "zh-Hant"
-    },
-    {
-      "@type": "SocialMediaPosting",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-01",
-      "headline": "2026-08-31 11:30 可收藏：精品名牌鞋護理，送洗前先看三個位置",
-      "text": "精品名牌鞋護理，送洗前先看三個位置。\n\n精品最先出問題的是邊角。邊油磨掉補不回來，要在磨穿前處理。\n\n精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。\n\n不確定這件能不能處理？拍一張傳 LINE，我們先看材質再說。\n\n哪一件是你最不敢自己動手處理的？\n\n追蹤私享家，之後會持續整理精品衣物與精緻材質的送洗前判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "datePublished": "2026-08-31T11:30:00+08:00",
-      "inLanguage": "zh-Hant",
-      "keywords": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "image": {
-        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-01:image"
-      },
-      "isPartOf": {
-        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
-      },
-      "about": {
-        "@id": "https://sixiangjialaundry.com/#business"
-      },
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-01"
-    },
-    {
-      "@type": "ImageObject",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-01:image",
-      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-      "url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-01.png",
-      "caption": "可收藏：精品名牌鞋護理，送洗前先看三個位置",
-      "inLanguage": "zh-Hant"
-    },
-    {
-      "@type": "SocialMediaPosting",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-02",
-      "headline": "2026-08-31 20:30 細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置",
-      "text": "久放包包有霉味先不要硬擦，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n台中市區我們到府收，傳 LINE說一聲就好。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #包包保養 #霉味處理 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
-      "datePublished": "2026-08-31T20:30:00+08:00",
-      "inLanguage": "zh-Hant",
-      "keywords": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#包包保養",
-        "#霉味處理",
-        "#洗包包",
-        "#精品包保養",
-        "#名牌包清潔",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "image": {
-        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-02:image"
-      },
-      "isPartOf": {
-        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
-      },
-      "about": {
-        "@id": "https://sixiangjialaundry.com/#business"
-      },
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-02"
-    },
-    {
-      "@type": "ImageObject",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-02:image",
-      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
-      "url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-02.png",
-      "caption": "細節拆解：久放包包有霉味先不要硬擦，先看容易忽略的位置",
-      "inLanguage": "zh-Hant"
-    },
-    {
-      "@type": "SocialMediaPosting",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-03",
-      "headline": "2026-08-31 12:00 童鞋鞋頭磨到發花",
-      "text": "小孩踢地板磨出來的,只要面料還在就一定洗得回來。\n\n與其急著買新的一雙,先看那層膠有沒有裂開。\n\n童鞋鞋頭磨到發花。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "datePublished": "2026-08-31T12:00:00+08:00",
-      "inLanguage": "zh-Hant",
-      "keywords": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "image": {
-        "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-03:image"
-      },
-      "isPartOf": {
-        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
-      },
-      "about": {
-        "@id": "https://sixiangjialaundry.com/#business"
-      },
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-03"
-    },
-    {
-      "@type": "ImageObject",
-      "@id": "https://sixiangjialaundry.com/content-calendar/2026-08-31.json#post-2026-08-31-slot-03:image",
-      "contentUrl": "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png",
-      "url": "https://sixiangjialaundry.com/assets/2026-08-31/slot-03.png",
-      "caption": "童鞋鞋頭磨到發花",
+      "caption": "先看鞋面那道水痕",
       "inLanguage": "zh-Hant"
     }
   ]
