@@ -1,0 +1,77 @@
+{
+  "topic": "鞋底開膠還能黏嗎？先看開口在哪 3 個位置再決定",
+  "date": "2026-09-06",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "畫面依序可見深藍布面、黑色皮面、藍米雙色布面與藍白雙色皮面等不同球鞋。",
+    "SCENE": "四張皆在粉紅格紋墊與橫條展示牆的櫃檯環境拍攝。",
+    "TOPIC_MATCH": "四張畫面的主體皆為球鞋，符合主題中的鞋類物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-01.png",
+      "canary": "4J35",
+      "sha256": "2925e9b632c946c6395f72b82f5b243710f5eccfa6f72d4b52ccd9c4d32b3d78"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-01-slide-02.png",
+      "canary": "S6UE",
+      "sha256": "a56c97a2597236c1a7c5938f920ae7512788d84f0dbc31037c2ea904cb862892"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-01-slide-03.png",
+      "canary": "6G37",
+      "sha256": "47c320424f74b313e22822c4e08252415e8e09f9d6ef4d4ae0ab1c436252d368"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-01-slide-04.png",
+      "canary": "CLZJ",
+      "sha256": "00884633fbc4289c2fa5d75a59fa64717bd44114daadc69bc1790234a6710735"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "4J35",
+    "IMAGE_2": "S6UE",
+    "IMAGE_3": "6G37",
+    "IMAGE_4": "CLZJ"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "4J35",
+    "IMAGE_2": "S6UE",
+    "IMAGE_3": "6G37",
+    "IMAGE_4": "CLZJ"
+  },
+  "prompt_hash": "2f240a99cbb6106a086de6dc223afdb8b02cfd34dddc264afd8b003b2049337a",
+  "run_id": "carousel-qa-1788470266661",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-03T21:19:11.096Z",
+  "mode": "warn",
+  "verdict": "FAIL",
+  "fail_class": "content"
+}

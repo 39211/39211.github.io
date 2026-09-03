@@ -1,0 +1,77 @@
+{
+  "topic": "細節拆解：騎車族雨衣外套分開看，先看容易忽略的位置",
+  "date": "2026-09-06",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "Slide 1 has two upper patch pockets, while slides 2 and 4 have one chest pocket plus two lower patch pockets, showing mixed outerwear.",
+    "SCENE": "All slides show the garment on the pink cutting mat against the slat-wall counter family.",
+    "TOPIC_MATCH": "Every featured object is a woven outerwear garment, matching the topic's 外套."
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-02.png",
+      "canary": "B2RP",
+      "sha256": "121dd69fb67b0ff3c3612490166a21a96a8fac57ac8b1e67e530e5f0453a160c"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-02-slide-02.png",
+      "canary": "N2XX",
+      "sha256": "bf2bf10167a4be7c221a634e71ed8aa57ed2b24abfe9fbae9f29bc1171df10d1"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-02-slide-03.png",
+      "canary": "FEC4",
+      "sha256": "036c13ebdbbdb32b78a4be87b9c7e1911b51b9d7acc88347d0e96b16e0a87fdf"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-02-slide-04.png",
+      "canary": "LERJ",
+      "sha256": "47ccf8d511fcf8489c50dc3257b711d4914f43f588b1f3299abca42785004e59"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-06\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "B2RP",
+    "IMAGE_2": "N2XX",
+    "IMAGE_3": "FEC4",
+    "IMAGE_4": "LERJ"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "B2RP",
+    "IMAGE_2": "N2XX",
+    "IMAGE_3": "FEC4",
+    "IMAGE_4": "LERJ"
+  },
+  "prompt_hash": "4b03f0b344dc6587fd44334080a38b2eee9a5f55fbe69ba9bb9dc58ca22635f3",
+  "run_id": "carousel-qa-1788470718662",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-03T21:27:47.240Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
