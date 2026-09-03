@@ -1,0 +1,77 @@
+{
+  "topic": "細節拆解：國慶連假行李鞋包整理，先看容易忽略的位置",
+  "date": "2026-09-04",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "Slides 1–2 feature bags, while slides 3–4 feature sneakers; the declared type families differ.",
+    "SCENE": "All four slides use the pink gridded mat and white slat-wall counter setting.",
+    "TOPIC_MATCH": "The slides visibly include both footwear and bags, matching the topic's 鞋包 objects."
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-02.png",
+      "canary": "YK8Q",
+      "sha256": "45a04ab518e1493e09063dfa7a5d99da393d79b3700b4fc3f257263bbf5cf03a"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-02-slide-02.png",
+      "canary": "LUA4",
+      "sha256": "aca2155642f95a3d533e48c5fba504f1e96862d87d4109639e3a1493168bd795"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-02-slide-03.png",
+      "canary": "CRAJ",
+      "sha256": "318c764792970c0eabf498832ae501d08b9053f45e87aadab833958083d078d0"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-02-slide-04.png",
+      "canary": "Q55X",
+      "sha256": "f9bfc6135d36313ad223a8402becde48b9398af2d2fb709ffacacf9960a8a184"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "YK8Q",
+    "IMAGE_2": "LUA4",
+    "IMAGE_3": "CRAJ",
+    "IMAGE_4": "Q55X"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "YK8Q",
+    "IMAGE_2": "LUA4",
+    "IMAGE_3": "CRAJ",
+    "IMAGE_4": "Q55X"
+  },
+  "prompt_hash": "b1d7f752a73117085011b8a6371441257dd5fd470865362bc2fbed06c046c7b4",
+  "run_id": "carousel-qa-1788468406254",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-03T20:50:16.040Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

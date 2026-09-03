@@ -1,0 +1,77 @@
+{
+  "topic": "可收藏：高跟鞋跟磨損，送洗前先看三個位置",
+  "date": "2026-09-04",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第3張為深藍帆布鞋面搭配橡膠鞋頭，其餘為絨面鞋面，粗材質不同。",
+    "SCENE": "四張皆可見粉紅切割墊與白色橫條板牆的櫃檯場景。",
+    "TOPIC_MATCH": "四張主體皆為鞋類，符合題目中的鞋類物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-01.png",
+      "canary": "2CN8",
+      "sha256": "ad2e7611f4783b71046591a126eac08095dc5d66c414063caf697e00c6b31ba1"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-01-slide-02.png",
+      "canary": "FEET",
+      "sha256": "ed69a90ea3272c0a4f40afe833adf5fe6940981b15c5eda3459d4b37c5e33e16"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-01-slide-03.png",
+      "canary": "6DKG",
+      "sha256": "4fbfab2d0f50d24be013e7dd079dcf686968b1a04d3c25bb26ef4a376c7bce15"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-01-slide-04.png",
+      "canary": "TG9W",
+      "sha256": "d2d185e2fc0dec3f31230775638796fe897cd62be2336a17d133fb505d862a25"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-04\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "2CN8",
+    "IMAGE_2": "FEET",
+    "IMAGE_3": "6DKG",
+    "IMAGE_4": "TG9W"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "2CN8",
+    "IMAGE_2": "FEET",
+    "IMAGE_3": "6DKG",
+    "IMAGE_4": "TG9W"
+  },
+  "prompt_hash": "cc2addd567e98dac81d166a8f9703bb34b395a1cac86214372e1eca534002aea",
+  "run_id": "carousel-qa-1788467911468",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-03T20:41:29.175Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
