@@ -51,6 +51,10 @@ jobs:
       - name: Install locked dependencies
         run: npm ci
 
+      - name: Audit production dependencies
+        if: runner.os == 'Linux'
+        run: npm audit --omit=dev --audit-level=high
+
       - name: Install Chromium runtime and Linux dependencies
         if: runner.os == 'Linux'
         run: npx playwright install --with-deps chromium
@@ -84,3 +88,6 @@ jobs:
 
       - name: Build
         run: npm run build
+
+      - name: Smoke-test compiled CLI
+        run: node dist/src/cli.js
