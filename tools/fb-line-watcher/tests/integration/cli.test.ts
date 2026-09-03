@@ -1,14 +1,23 @@
 import { afterAll, beforeAll, describe, expect, it } from 'vitest';
 import { execFile } from 'node:child_process';
+import { createRequire } from 'node:module';
 import { mkdirSync, mkdtempSync, rmSync, writeFileSync, existsSync, readdirSync } from 'node:fs';
 import path from 'node:path';
 import { startFixtureServer, type FixtureServer } from '../../fixtures/server.js';
 import { TMP_ROOT } from './harness.js';
 
+const require = createRequire(import.meta.url);
+const TSX_CLI = require.resolve('tsx/cli');
+const APP_CLI = path.resolve('src/cli.ts');
+
 function run(args: string[], cwd: string, env: Record<string, string> = {}): Promise<{ code: number; out: string }> {
   return new Promise((resolve) => {
-    execFile('npx', ['tsx', path.resolve('src/cli.ts'), ...args], { cwd, env: { ...process.env, ...env }, timeout: 170_000 }, (err, stdout, stderr) => {
-      resolve({ code: err && 'code' in err ? Number(err.code) : 0, out: `${stdout}\n${stderr}` });
+    // Do not spawn the platform-specific `npx` shim: on Windows it is npx.cmd,
+    // which execFile cannot execute directly. Running the exported tsx CLI via
+    // the current Node binary gives the same behavior on Linux and Windows.
+    execFile(process.execPath, [TSX_CLI, APP_CLI, ...args], { cwd, env: { ...process.env, ...env }, timeout: 170_000 }, (err, stdout, stderr) => {
+      const code = err ? (typeof err.code === 'number' ? err.code : 1) : 0;
+      resolve({ code, out: `${stdout}\n${stderr}${err && typeof err.code !== 'number' ? `\n${err.message}` : ''}` });
     });
   });
 }
