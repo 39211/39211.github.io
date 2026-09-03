@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-03T03:02:13.618Z",
+  "generated_at": "2026-08-30T17:11:35.767Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -133,9 +133,9 @@
         },
         {
           "slug": "bag-handle-cleaning",
-          "title": "包包提把、包角與行李箱輪子怎麼判斷？｜私享家洗衣店",
+          "title": "包包提把與包角怎麼判斷？｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
-          "local_intent": "台中西屯 包包清潔 行李箱輪子"
+          "local_intent": "台中西屯 包包清潔 提把 包角"
         },
         {
           "slug": "luggage-wheel-cleaning",
@@ -148,108 +148,6 @@
           "title": "逢甲洗鞋・西屯洗鞋推薦怎麼挑｜青海路私享家洗衣店",
           "url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
           "local_intent": "逢甲洗鞋 逢甲洗鞋推薦 西屯洗鞋 青海路洗鞋 逢甲大學 洗鞋收送"
-        },
-        {
-          "slug": "suede-shoe-cleaning",
-          "title": "麂皮鞋變硬、發亮怎麼判斷？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
-          "local_intent": "台中西屯 麂皮鞋 變硬 發亮 乾刷"
-        },
-        {
-          "slug": "canvas-shoe-mud",
-          "title": "帆布鞋沾泥，該等乾還是立刻刷？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
-          "local_intent": "台中西屯 帆布鞋 沾泥 等乾 起毛"
-        },
-        {
-          "slug": "leather-shoe-water-marks",
-          "title": "皮鞋淋雨後的水痕，能不能先上油？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
-          "local_intent": "台中西屯 皮鞋 水痕 上油 淋雨"
-        },
-        {
-          "slug": "shoe-odor-source",
-          "title": "鞋臭是濕氣、汗還是悶放？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/shoe-odor-source.html",
-          "local_intent": "台中西屯 鞋臭 悶味 汗 收納"
-        },
-        {
-          "slug": "washing-machine-shoe-risk",
-          "title": "鞋子可以丟洗衣機嗎？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html",
-          "local_intent": "台中西屯 鞋子 洗衣機 風險 膠邊"
-        },
-        {
-          "slug": "athletic-shoe-mixed-materials",
-          "title": "運動鞋網布、膠邊、內裡為什麼不能同一種刷法？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html",
-          "local_intent": "台中西屯 運動鞋 網布 膠邊 內裡"
-        },
-        {
-          "slug": "shoe-mold-surface-check",
-          "title": "鞋子發霉先別刷：怎麼看出表面還是滲入？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html",
-          "local_intent": "台中西屯 鞋子發霉 表面霉 滲入"
-        },
-        {
-          "slug": "shoe-sole-separation-limit",
-          "title": "鞋底開膠是清潔問題嗎？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html",
-          "local_intent": "台中西屯 鞋底開膠 脫膠 清潔限度"
-        },
-        {
-          "slug": "bag-color-transfer",
-          "title": "包包染色、色移，怎麼分髒污和掉色？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html",
-          "local_intent": "台中西屯 包包 色移 掉色 染色"
-        },
-        {
-          "slug": "bag-ink-marks",
-          "title": "包內裡筆痕能清嗎？先不要用酒精｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/bag-ink-marks.html",
-          "local_intent": "台中西屯 包包 內裡 筆痕 酒精"
-        },
-        {
-          "slug": "bag-lining-care",
-          "title": "包內裡粉塵與味道，外觀乾淨就不用管嗎？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/bag-lining-care.html",
-          "local_intent": "台中西屯 包包 內裡 粉塵 悶味"
-        },
-        {
-          "slug": "nylon-bag-care",
-          "title": "尼龍包的油垢與水痕怎麼判斷？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html",
-          "local_intent": "台中西屯 尼龍包 油垢 水痕"
-        },
-        {
-          "slug": "canvas-bag-care",
-          "title": "帆布包泥灰與包角，要等乾還是現洗？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/canvas-bag-care.html",
-          "local_intent": "台中西屯 帆布包 泥灰 包角"
-        },
-        {
-          "slug": "backpack-cleaning-check",
-          "title": "書包、背包送洗前要看哪裡？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/backpack-cleaning-check.html",
-          "local_intent": "台中西屯 書包 背包 底部 背帶"
-        },
-        {
-          "slug": "bag-clean-vs-repair",
-          "title": "包包該清潔、補色還是先不處理？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/bag-clean-vs-repair.html",
-          "local_intent": "台中西屯 包包 清潔 補色 維修分界"
-        },
-        {
-          "slug": "synthetic-vs-leather-handle",
-          "title": "包包提把是真皮還是合成皮？分錯會傷｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html",
-          "local_intent": "台中西屯 提把 真皮 合成皮 脫皮"
-        },
-        {
-          "slug": "rainy-bag-care",
-          "title": "雨後包包怎麼處理？包角和內裡先看哪？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html",
-          "local_intent": "台中西屯 包包淋雨 包角 內裡 防塵袋"
         }
       ],
       "local_business": {
@@ -369,7 +267,7 @@
         },
         {
           "slug": "birkenstock-care",
-          "title": "勃肯鞋鞋床發黑、有味道怎麼處理?台中洗鞋｜私享家洗衣店",
+          "title": "勃肯鞋會臭嗎？鞋床發黑怎麼處理｜台中洗鞋 私享家",
           "url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
           "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭"
         }
@@ -431,19 +329,27 @@
         },
         {
           "label": "情境 02",
-          "object": "寢具與被套",
-          "material": "棉質布品與填充寢具",
-          "concern": "表面乾淨但收納袋有悶味",
-          "inspection": "確認被套內側、枕套接觸皮膚處與收納袋本身是否有潮味。",
-          "boundary": "環境異味會重新附著，未乾燥的布品不適合密封。"
+          "object": "雙人棉被中間層",
+          "material": "棉質表布與填充寢具",
+          "concern": "摸起來乾、收進袋子後下一季有味道",
+          "inspection": "拉開絎縫，用手壓中間層確認是不是只有表布乾；同時聞收納袋內側。",
+          "boundary": "中間層還沒乾就不密封；不以香味噴劑蓋住潮氣。"
         },
         {
           "label": "情境 03",
-          "object": "厚棉布品",
-          "material": "厚棉或有填充結構布品",
-          "concern": "摺痕邊角灰塵與局部黃痕",
-          "inspection": "看折痕、邊角、填充狀態與黃痕形成時間，避免只處理表面。",
-          "boundary": "不將久放黃痕承諾為可完全消除，先說明可能的改善範圍。"
+          "object": "毛毯起毛球",
+          "material": "搖粒或混紡毯",
+          "concern": "表面起 pill、想先收進櫃子",
+          "inspection": "在工作台鋪開，看 pill 是浮在表層還是纖維已經起毛；再確認有沒有潮味。",
+          "boundary": "起毛球不是髒污保證能還原；先說能修到什麼程度，再決定清或收。"
+        },
+        {
+          "label": "情境 04",
+          "object": "羽絨外套壓扁",
+          "material": "羽絨填充與塗層表布",
+          "concern": "換季想直接壓進真空袋",
+          "inspection": "先看洗標、走線破口與領口油光，再確認內部是不是全乾。",
+          "boundary": "沒乾透就壓縮會悶味也會扁掉；塗層件不保證洗完還一樣蓬。"
         }
       ],
       "sections": [
@@ -462,6 +368,10 @@
         {
           "heading": "節日前後也適合整理",
           "body": "過年、中秋、端午、母親節或父親節前後，家裡常會整理衣櫃、寢具和外套。節日前可以先安排收納前檢查，連假後則適合把穿過、用過或悶放的布品重新整理。"
+        },
+        {
+          "heading": "體積大的布品怎麼問收送",
+          "body": "棉被、窗簾與厚毯自己搬不一定放得進後車箱。台中市全區免費到府收送，清潔費另計、沒有最低消費門檻。先拍整件、邊角與袋子內側，再約收件。"
         }
       ],
       "faqs": [
@@ -512,30 +422,6 @@
           "title": "台中洗地毯怎麼判斷？｜地毯潮味與材質 私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/carpet-cleaning.html",
           "local_intent": "台中西屯 地毯清洗 潮味 地墊"
-        },
-        {
-          "slug": "clothing-mold-airing",
-          "title": "衣物發霉先通風還是直接洗？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/clothing-mold-airing.html",
-          "local_intent": "台中西屯 衣物發霉 通風 色斑"
-        },
-        {
-          "slug": "vacuum-bag-storage-risk",
-          "title": "衣物還沒乾，可以真空壓縮嗎？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html",
-          "local_intent": "台中西屯 真空袋 壓縮 未乾 悶味"
-        },
-        {
-          "slug": "blanket-damp-check",
-          "title": "毯子、毛毯收納前怎麼確認乾了？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/blanket-damp-check.html",
-          "local_intent": "台中西屯 毯子 毛毯 潮氣 收納"
-        },
-        {
-          "slug": "post-wash-drying-before-storage",
-          "title": "送洗後沒乾透就收，會怎樣？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html",
-          "local_intent": "台中西屯 洗後乾燥 收納 潮氣"
         }
       ],
       "local_business": {
@@ -638,6 +524,10 @@
         {
           "heading": "社群內容也會同步成搜尋資料",
           "body": "審核通過的 Facebook 與 Instagram 貼文會同步進公開 SEO / AEO / GEO feed，讓日常門市案例、雨季提醒、節日海報和服務頁互相連回官方內容來源。"
+        },
+        {
+          "heading": "跟「怎麼找洗衣店」那頁差在哪",
+          "body": "本頁回答門市在哪、第一次怎麼問、西屯與逢甲怎麼到店。要比物件分流、先對價目或確認全市收送，走洗衣搜尋指南，不要把兩頁當成同一篇。"
         }
       ],
       "faqs": [
@@ -693,7 +583,7 @@
         },
         {
           "slug": "plush-doll-cleaning",
-          "title": "台中西屯娃娃與絨毛玩偶清潔｜私享家洗衣店",
+          "title": "台中絨毛娃娃清洗店？先看填充與五官｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
           "local_intent": "台中西屯 娃娃清洗 絨毛玩偶清潔"
         },
@@ -707,7 +597,7 @@
           "slug": "taichung-laundry-service-search",
           "title": "台中洗衣、洗鞋、洗包與免費收送怎麼找？｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html",
-          "local_intent": "台中西屯 洗衣 洗鞋 洗包 床組 西裝 娃娃 精品乾洗 免費收送"
+          "local_intent": "台中 洗衣 洗鞋 洗包 床組 西裝 怎麼找 免費收送"
         },
         {
           "slug": "clothing-alteration-with-laundry",
@@ -726,24 +616,6 @@
           "title": "東海洗衣收送｜別墅區厚被與日常衣物｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
           "local_intent": "東海 洗衣收送 厚被 窗簾"
-        },
-        {
-          "slug": "wool-coat-dry-clean",
-          "title": "羊毛大衣能水洗嗎？先看結構再決定｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/wool-coat-dry-clean.html",
-          "local_intent": "台中西屯 羊毛大衣 乾洗 縮水"
-        },
-        {
-          "slug": "wool-knit-shrink-risk",
-          "title": "羊毛針織、毛衣縮水前要先看什麼？｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html",
-          "local_intent": "台中西屯 毛衣 針織 縮水 洗標"
-        },
-        {
-          "slug": "oil-vs-water-stain-choice",
-          "title": "油漬還是汗漬？這決定乾洗還是水洗｜私享家洗衣店",
-          "url": "https://sixiangjialaundry.com/guides/oil-vs-water-stain-choice.html",
-          "local_intent": "台中西屯 油漬 汗漬 乾洗 水洗"
         }
       ],
       "local_business": {
