@@ -12,7 +12,7 @@
 
 新增**手機通知觸發模式**（`poll_mode: triggered`）。原因：使用者要監看的是**別人的公開粉專**與**需審核才能加入的私密社團**，兩者都拿不到 Meta 官方 API（粉專 API 需粉專管理權限；社團 API 已於 2024 年對一般開發者關閉），因此只能走畫面巡邏，而固定週期輪詢正是帳號風險的主要來源。
 
-作法：一支閒置 Android 手機跑官方 Facebook App，MacroDroid 監看自己手機的通知並打一個家用區網內的網址，watcher 收到後才巡邏一次。Facebook 完全看不到手機端這段流程。效果：一天載入 Facebook 從約 480 次降到幾十次，時間點跟著真人發文而非固定節奏，新貼文通知反而更快（數秒 vs. 最多 3 分鐘）。
+作法：一支閒置 Android 手機跑官方 Facebook App，MacroDroid 監看自己手機的通知並打一個家用區網內的網址，watcher 收到後才巡邏一次。Facebook 完全看不到手機端這段流程。效果：搭配 15 分鐘安全網間隔，一天載入 Facebook 從約 480 次降到約 110～130 次（降約 75%；安全網改 30 分鐘則約 60～80 次，降約 85%），時間點也不再是固定節奏，而新貼文通知更快（數秒 vs. 最多 3 分鐘）。
 
 誠實限制：Facebook **不會**為「別人貼文底下的新留言」推播通知，因此 `poll_interval_seconds` 保留為安全網（建議 900 秒）用來補抓留言。實際效果是新貼文數秒到、留言最慢 15 分鐘到。詳見 `PHONE_TRIGGER.md`。
 
@@ -111,5 +111,5 @@
 1. Windows 上執行 `scripts\setup.ps1` → 填 `targets.yaml` 與 `.env` → `scripts\login.ps1`（私密社團須用已是成員的帳號登入）。
 2. `npm run test-line` 確認 LINE；`npm run once` 兩次確認 baseline 與零通知。
 3. 發一篇測試貼文與一則留言，確認兩個巡邏週期內收到通知；若信心低或抓不到，執行 `npm run probe -- --target <key>`，把 `captures\diagnostics\probe_*.json` 提供給維護者調整 catalog。
-4. 依 `PHONE_TRIGGER.md` 設定手機觸發（強烈建議，可把 Facebook 載入次數降約 90%）。
+4. 依 `PHONE_TRIGGER.md` 設定手機觸發（強烈建議，可把 Facebook 載入次數降約 75～85%）。
 5. `scripts\install-task.ps1` 常駐，跑 24～48 小時 canary，依 README 第 9 節逐項勾選。
