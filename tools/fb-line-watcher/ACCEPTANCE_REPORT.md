@@ -48,8 +48,10 @@
 
 ## 【測試證據】
 
+開發過程中修正的兩個真實問題（皆已加入回歸測試）：留言合併的等待時間原本從「巡邏開始時間」起算，導致巡邏耗時超過等待時間時同一輪就送出（改為從寫入當下起算）；以 `tsx` 執行時 esbuild 會在注入頁面的函式中插入 `__name` 輔助函式而在瀏覽器內報錯（已在每個分頁注入 no-op shim，並由 CLI 端對端測試覆蓋 `npm run probe` 路徑）。
+
 - unit：`npx vitest run tests/unit` → 9 個檔案、48 項全部通過（正規化、指紋、比對引擎、視覺 dHash 與雙重取樣、設定驗證、LINE 重試／額度／警報、日誌遮罩、單實例鎖、簽章、留言合併）。
-- integration（真實 Chromium + 假 Facebook + 假 LINE）：`npx vitest run tests/integration` — 結果見下表；共 5 個檔案。
+- integration（真實 Chromium + 假 Facebook + 假 LINE）：`npx vitest run tests/integration` → 5 個檔案、27 項全部通過（posts 8、comments 5、resilience 7、publisher 2、cli 5）。全套 `npx vitest run` 最終結果：14 個檔案、75 項通過，耗時 285 秒。
 - fixture：`fixtures/server.ts` 模擬粉專與社團（巢狀 role=article、aria-labelledby、時間 aria-label、permalink、data-ad-preview、查看更多／更多留言／回覆 template、留言排序選單、隨機 class name），並可切換登入頁／安全檢查／權限不足／骨架載入／無 role 五種異常模式。
 - real Facebook canary：**未執行**（環境限制）。
 - LINE delivery：對假 LINE API 驗證 push 內容、retry key 冪等、500→成功、401 dead-letter、409、額度抑制；真實 LINE 未驗證。
