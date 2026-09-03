@@ -46,6 +46,7 @@ export function parseConfigObject(raw: unknown): AppConfig {
 
 export function resolveSecrets(config: AppConfig): Secrets {
   const s: Secrets = {
+    triggerToken: readEnv(config.trigger.token_env),
     lineAccessToken: readEnv(config.line.access_token_env),
     lineChannelSecret: readEnv(config.line.channel_secret_env),
     lineDestinationId: readEnv(config.line.destination_id_env),
@@ -72,6 +73,8 @@ export interface LoadOptions {
   requireLine?: boolean;
   /** 需要圖片主機設定完整（publisher != none 時） */
   requireImages?: boolean;
+  /** 需要觸發伺服器的 token（watch/trigger-url，且 trigger.enabled 為 true 時） */
+  requireTrigger?: boolean;
 }
 
 export function loadConfig(opts: LoadOptions = {}): LoadedConfig {
@@ -103,6 +106,13 @@ export function validateSecrets(config: AppConfig, secrets: Secrets, opts: LoadO
       if (config.line.destination_type === 'user' && !/^U[0-9a-f]{32}$/.test(id)) {
         problems.push(`destination_type 為 user，但 ${config.line.destination_id_env} 不是 U 開頭的 33 字元使用者 ID`);
       }
+    }
+  }
+  if (opts.requireTrigger && config.trigger.enabled) {
+    if (!secrets.triggerToken) {
+      problems.push(`trigger.enabled 為 true，但缺少環境變數 ${config.trigger.token_env}（觸發用的密鑰，請用 npm run trigger-url 產生的隨機字串）`);
+    } else if (secrets.triggerToken.length < 16) {
+      problems.push(`${config.trigger.token_env} 太短（至少 16 個字元），請改用夠長的隨機字串`);
     }
   }
   if (opts.requireImages) {

@@ -22,10 +22,11 @@
 | 失效告警 | Facebook 要求重新登入、安全檢查、看不到內容、版面改版 → 發一則系統警報到 LINE（有冷卻，不洗版） |
 | 降級模式 | Facebook 改版導致辨識不到結構時，自動切成「畫面視覺比對」繼續告警，並明確標示 `DEGRADED_VISUAL_MODE` |
 | Windows 常駐 | 工作排程器登入後自動啟動、失敗自動重啟；單實例鎖避免重複 |
+| 手機通知觸發 | 用一支閒置 Android 手機當觸發器，只在真的有新內容時才去看 Facebook，一天載入次數從約 480 次降到幾十次（見 `PHONE_TRIGGER.md`） |
 
 | 做不到／風險（請務必知道） | 說明 |
 | --- | --- |
-| **這不是 Facebook 官方整合** | 它是「模擬一個人開著瀏覽器看畫面」。Facebook 使用條款不歡迎自動化存取，帳號有被要求驗證、暫時限制的可能。**強烈建議用一個專用的 Facebook 帳號**（加入社團、追蹤粉專即可），不要拿爸爸的主帳號跑。 |
+| **這不是 Facebook 官方整合** | 它是「模擬一個人開著瀏覽器看畫面」。Facebook 使用條款不歡迎自動化存取，帳號有被要求驗證、暫時限制的可能。降低風險的第一優先是改用**手機通知觸發模式**（`PHONE_TRIGGER.md`），其次是拉長巡邏間隔。若監看的社團是公開社團，也可以考慮用專用小帳；私密社團則必須用已經是成員的帳號。 |
 | 不繞過任何安全機制 | 遇到登入、雙重驗證、CAPTCHA、安全檢查一律停下來通知人工處理，程式不會也不該自動突破。 |
 | 不保證零遺漏 | 只能看到「當次巡邏中已載入、已展開、此帳號可見」的內容。被 Facebook 排序藏起來、載入前就刪除、需要額外權限的內容抓不到。 |
 | Facebook 改版需要維護 | 辨識規則集中在一個檔案（`src/adapters/catalog.ts`），可用 YAML 覆寫；改版後用 `npm run probe` 診斷。見 `ADAPTER_MAINTENANCE.md`。 |
@@ -217,6 +218,32 @@ npm run once
 
 ---
 
+## 7.5 建議：改用手機通知觸發（降低帳號風險）
+
+固定每 3 分鐘巡邏，一天要載入 Facebook 約 480 次，時間點又極規律，這是最容易被判定為機器人的行為。
+
+如果家裡有一支閒置的 Android 手機，可以把它當成觸發器：手機上的官方 Facebook App 收到通知 → MacroDroid 打一個家用區網內的網址 → 電腦這時才去看一次 Facebook。載入次數降到一天幾十次，時間點跟著真人發文，通知反而更快（數秒而不是最多 3 分鐘）。
+
+要注意的是：Facebook **不會**為「別人貼文底下的新留言」推播通知，所以仍要保留一個較長的安全網間隔來補抓留言。實際效果是**新貼文幾秒內到、留言最慢 15 分鐘到**。
+
+完整設定步驟（含 MacroDroid 畫面設定、防火牆、疑難排解）見 **`PHONE_TRIGGER.md`**。摘要：
+
+```yaml
+# config/targets.yaml
+poll_mode: triggered
+poll_interval_seconds: 900
+trigger:
+  enabled: true
+```
+
+```powershell
+npm run trigger-url      # 產生密鑰並印出手機要打的網址
+```
+
+不想用手機也沒關係，維持預設的 `poll_mode: interval` 即可，只是建議把 `poll_interval_seconds` 拉長到 300。
+
+---
+
 ## 8. 常駐（Windows 工作排程器）
 
 ```powershell
@@ -254,6 +281,7 @@ npm run once
 | `npm run login` | 手動登入 Facebook（headed） |
 | `npm run once [-- --target key] [-- --headless]` | 單次巡邏 |
 | `npm run watch [-- --headless]` | 常駐巡邏 |
+| `npm run trigger-url` | 產生／印出手機通知觸發用的網址與密鑰 |
 | `npm run baseline` | 重建 baseline，不通知 |
 | `npm run resync` | 改版／更新 adapter 後重新同步，不把舊內容當新事件 |
 | `npm run probe [-- --target key]` | 診斷：印出辨識結果、存截圖與 JSON |
@@ -283,6 +311,7 @@ npm run once
 | LINE 400「to is invalid」 | 群組 ID 錯，或官方帳號被移出群組。重跑第 4.2 節。 |
 | LINE 429 | 訊息額度或速率限制。 |
 | 圖片沒顯示只有文字 | `images.publisher` 為 none，或 R2 公開網址錯（用瀏覽器直接開 `S3_PUBLIC_BASE_URL/任一檔名` 測）。 |
+| 手機觸發網址顯示 `unauthorized` 或連不上 | 見 `PHONE_TRIGGER.md` 的疑難排解表。 |
 | 「另一個 watcher 正在執行」 | 已有實例在跑（排程任務）。要手動跑先 `scripts\uninstall-task.ps1` 或結束 node.exe；確定沒在跑可刪 `data\watcher.lock`。 |
 | profile 正被使用 | `npm run login` 的視窗還開著，關掉再跑。 |
 
@@ -317,12 +346,13 @@ tools/fb-line-watcher/
 │  ├─ publish/                  圖片發布器：none / local_http / S3(R2)
 │  ├─ line/                     Messaging API client（X-Line-Retry-Key 冪等）、通知文案與投遞重試、群組 ID 接收器
 │  ├─ storage/                  node:sqlite migration 與 repository
-│  └─ worker/                   單實例鎖、每個 target 的巡邏週期、排程迴圈、健康報告
+│  └─ worker/                   單實例鎖、每個 target 的巡邏週期、排程迴圈、手機觸發伺服器、健康報告
 ├─ fixtures/                    假 Facebook 頁面伺服器與假 LINE API（測試用）
 ├─ tests/unit, tests/integration 單元與 Chromium 端對端測試
 ├─ scripts/                     Windows PowerShell：setup / login / install-task / uninstall-task / status
 ├─ config/targets.example.yaml  設定範本
 ├─ docs/samples/                四種事件的範例截圖
+├─ PHONE_TRIGGER.md             用手機通知觸發（降低帳號風險）
 ├─ SECURITY.md                  安全與隱私
 ├─ ADAPTER_MAINTENANCE.md       Facebook 改版後怎麼修
 └─ ACCEPTANCE_REPORT.md         驗收報告（測試證據、GO/NO-GO）

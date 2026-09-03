@@ -96,13 +96,43 @@ function applyBackoff(app: App, target: TargetConfig, result: CycleResult): void
   }
 }
 
+export interface PendingTrigger {
+  reason: string;
+  targetKey?: string;
+  requestedAt: number;
+}
+
 export class Watcher {
   private readonly holders = new Map<string, PageHolder>();
   private stopped = false;
   private readonly abort = new AbortController();
   private cycles = 0;
+  private pending: PendingTrigger | null = null;
+  private wakeSignal: AbortController | null = null;
 
   constructor(private readonly app: App) {}
+
+  /**
+   * 要求立刻巡邏一次（手機通知觸發時呼叫）。
+   * 只是設一個旗標並喚醒等待中的迴圈；實際巡邏仍在迴圈內依序執行，
+   * 因此連續多次觸發不會造成同時開多個瀏覽器分頁。
+   */
+  requestImmediateCycle(reason: string, targetKey?: string): void {
+    this.pending = { reason, targetKey, requestedAt: Date.now() };
+    this.wakeSignal?.abort();
+  }
+
+  /** 可被 requestImmediateCycle 或 stop 提早中斷的等待 */
+  private async waitInterruptible(ms: number): Promise<void> {
+    if (ms <= 0) return;
+    const ac = new AbortController();
+    this.wakeSignal = ac;
+    try {
+      await sleep(ms, AbortSignal.any([ac.signal, this.abort.signal]));
+    } finally {
+      this.wakeSignal = null;
+    }
+  }
 
   private holder(key: string): PageHolder {
     let h = this.holders.get(key);
@@ -158,21 +188,37 @@ export class Watcher {
     return { startedAt, results, flushedGroups, deliveries, skipped };
   }
 
-  /** 常駐迴圈：固定週期巡邏，期間每 15 秒處理到期的合併群組與重試 */
+  /**
+   * 常駐迴圈。
+   *
+   * poll_mode = interval  ：固定週期巡邏。
+   * poll_mode = triggered ：平常靠手機通知觸發；poll_interval_seconds 變成安全網間隔，
+   *                         用來補抓不會產生手機通知的留言。
+   *
+   * 兩種模式在等待期間都每 15 秒處理一次到期的留言合併與 LINE 重試。
+   */
   async runLoop(): Promise<void> {
     const app = this.app;
     await app.publisher.start?.();
+    const triggered = app.config.poll_mode === 'triggered';
     while (!this.stopped) {
       const started = Date.now();
+      const trigger = this.pending;
+      this.pending = null;
+      if (trigger) {
+        const delayMs = app.config.trigger.delay_seconds * 1000;
+        if (delayMs > 0) await sleep(delayMs, this.abort.signal);
+        if (this.stopped) break;
+      }
       try {
-        await this.runCycle();
+        await this.runCycle({ onlyTarget: trigger?.targetKey });
       } catch (e) {
         app.logger.error({ err: e }, '本輪巡邏失敗');
       }
       const intervalMs = app.config.poll_interval_seconds * 1000;
-      while (!this.stopped && Date.now() - started < intervalMs) {
-        await sleep(Math.min(15000, Math.max(0, intervalMs - (Date.now() - started))), this.abort.signal);
-        if (this.stopped) break;
+      while (!this.stopped && !this.pending && Date.now() - started < intervalMs) {
+        await this.waitInterruptible(Math.min(15000, Math.max(0, intervalMs - (Date.now() - started))));
+        if (this.stopped || this.pending) break;
         try {
           const flushed = flushDueGroups(app);
           const stats = await processDeliveries({ ...app.notifier, client: app.client, publisher: app.publisher });
@@ -181,11 +227,15 @@ export class Watcher {
           app.logger.warn({ err: e }, '週期間處理失敗');
         }
       }
+      if (triggered && !this.pending && !this.stopped) {
+        app.logger.debug({ nextSafetyNetSeconds: app.config.poll_interval_seconds }, '安全網間隔到期，執行補抓巡邏');
+      }
     }
   }
 
   stop(): void {
     this.stopped = true;
     this.abort.abort();
+    this.wakeSignal?.abort();
   }
 }

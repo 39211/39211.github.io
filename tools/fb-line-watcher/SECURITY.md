@@ -34,10 +34,11 @@
 - 對外連線只有：Facebook（瀏覽器）、`api.line.me`（LINE Messaging API）、你設定的圖片主機。
 - `local_http` 圖片伺服器預設只綁 `127.0.0.1`，僅回應符合 `^[a-f0-9]{32}(_p)?\.jpg$` 的檔名，不列目錄、不跟隨路徑。
 - `get-line-ids` webhook 接收器只在你手動執行時存在，會驗證 LINE 簽章（`LINE_CHANNEL_SECRET`）。
+- 手機觸發伺服器（`trigger.enabled`）綁在家用區網，以固定長度比較的隨機 token 驗證，且有最小間隔節流。它唯一能做的事情是「要求 watcher 立即巡邏一次」——無法讀取資料、無法改設定、無法取得截圖。token 不足 16 字元時啟動即失敗，日誌中一律遮罩。**不要把這個 port 轉發到網際網路**；跨網路請改用 Tailscale 之類的私有網路。
 
 ## 帳號風險與建議
 
-- Facebook 使用條款限制自動化存取，帳號可能被要求驗證或暫時限制。建議使用**專用帳號**，並把 `poll_interval_seconds` 維持在 120～300 秒。
+- Facebook 使用條款限制自動化存取，帳號可能被要求驗證或暫時限制。降低風險依序為：改用手機通知觸發模式（`PHONE_TRIGGER.md`，載入次數可降約 90%）、拉長 `poll_interval_seconds`、減少 `scan_latest_posts`、在可行時使用專用帳號（私密社團必須用已是成員的帳號）。
 - 程式不會替你通過任何驗證。收到「要求重新登入／安全檢查」警報時，請人工在 `npm run login` 的視窗處理。
 
 ## 回報安全問題

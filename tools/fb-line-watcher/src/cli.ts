@@ -10,12 +10,13 @@ import { acquireSingleInstanceLock, LockHeldError } from './worker/lock.js';
 import { Watcher, runMaintenance } from './worker/scheduler.js';
 import { buildHealthReport, formatHealthReport } from './worker/health.js';
 import { startLineIdsServer } from './line/ids-server.js';
+import { lanAddresses, startTriggerServer, type TriggerServerHandle } from './worker/trigger-server.js';
 import { enqueueEvent, processDeliveries } from './line/notifier.js';
 import { FacebookSurfaceAdapter } from './adapters/facebook.js';
 import { normalizePost } from './extract/fingerprint.js';
 import { ensureDir } from './util/fs.js';
 import { toFileStamp, toIsoWithOffset } from './util/time.js';
-import { sha256Hex } from './util/hash.js';
+import { randomToken, sha256Hex } from './util/hash.js';
 import { errorMessage } from './util/retry.js';
 import { preparePage } from './browser/page-prep.js';
 
@@ -29,6 +30,7 @@ const HELP = `fb-line-watcher — Facebook 粉專／社團畫面監看 → 截�
        [--baseline-only]     只同步現況、不通知
        [--headless]          不顯示瀏覽器視窗
   watch [--headless]         常駐巡邏（Windows 排程器請用此命令）
+  trigger-url                印出手機要打的觸發網址（搭配 poll_mode: triggered）
   baseline [--target key]    重建現況 baseline（等同 once --baseline-only）
   resync [--target key]      Facebook 改版／adapter 更新後重新同步，不把舊內容當新事件
   probe [--target key]       診斷：印出畫面辨識結果與信心，並存截圖到 captures/diagnostics
@@ -79,9 +81,10 @@ async function cmdOnce(configPath: string | undefined, flags: { target?: string;
 }
 
 async function cmdWatch(configPath: string | undefined, flags: { headless?: boolean; notifyExisting?: boolean }): Promise<void> {
-  const app = await createApp({ configPath, requireLine: true, requireImages: true });
+  const app = await createApp({ configPath, requireLine: true, requireImages: true, requireTrigger: true });
   const lock = acquireSingleInstanceLock(path.join(app.dataDir, 'watcher.lock'));
   const watcher = new Watcher(app);
+  let triggerServer: TriggerServerHandle | undefined;
   let closing = false;
   const shutdown = async (sig: string): Promise<void> => {
     if (closing) return;
@@ -94,15 +97,69 @@ async function cmdWatch(configPath: string | undefined, flags: { headless?: bool
   process.on('SIGTERM', () => void shutdown('SIGTERM'));
   try {
     await app.openBrowser({ headless: flags.headless });
-    app.logger.info({ targets: app.config.targets.map((t) => t.key), pollSeconds: app.config.poll_interval_seconds, publisher: app.publisher.name }, 'watcher 啟動');
+    if (app.config.trigger.enabled) {
+      triggerServer = await startTriggerServer({
+        port: app.config.trigger.port,
+        bind: app.config.trigger.bind,
+        token: app.secrets.triggerToken ?? '',
+        minIntervalMs: app.config.trigger.min_interval_seconds * 1000,
+        logger: app.logger,
+        onTrigger: (req) => watcher.requestImmediateCycle(`phone:${req.source}`, req.targetKey),
+      });
+      const hosts = lanAddresses();
+      print(`觸發伺服器已啟動，手機請打：http://${hosts[0] ?? '<這台電腦的區網 IP>'}:${triggerServer.port}/trigger?token=...`);
+      print('（完整網址含 token 請執行 npm run trigger-url）');
+    }
+    app.logger.info(
+      { targets: app.config.targets.map((t) => t.key), pollMode: app.config.poll_mode, pollSeconds: app.config.poll_interval_seconds, publisher: app.publisher.name, trigger: app.config.trigger.enabled },
+      'watcher 啟動',
+    );
     if (flags.notifyExisting) {
       await watcher.runCycle({ notifyExisting: true });
     }
     await watcher.runLoop();
   } finally {
+    await triggerServer?.close().catch(() => undefined);
     await app.close();
     lock.release();
   }
+}
+
+async function cmdTriggerUrl(configPath: string | undefined): Promise<void> {
+  await withApp({ configPath, logToFile: false }, async (app) => {
+    const cfg = app.config.trigger;
+    if (!cfg.enabled) {
+      print('目前 targets.yaml 的 trigger.enabled 為 false。');
+      print('要用手機通知觸發，請先在 targets.yaml 設定：');
+      print('');
+      print('  poll_mode: triggered');
+      print('  poll_interval_seconds: 900      # 安全網：補抓不會產生手機通知的留言');
+      print('  trigger:');
+      print('    enabled: true');
+      print('');
+    }
+    const token = app.secrets.triggerToken;
+    if (!token) {
+      print(`還沒有設定 ${cfg.token_env}。請把下面這行加到 .env（這是剛剛產生的隨機密鑰）：`);
+      print('');
+      print(`  ${cfg.token_env}=${randomToken(24)}`);
+      print('');
+      print('存檔後再執行一次 npm run trigger-url 就會印出完整網址。');
+      return;
+    }
+    const hosts = lanAddresses();
+    print('把下面的網址填進手機的 MacroDroid（動作：HTTP 請求 → GET）：');
+    print('');
+    for (const h of hosts) print(`  http://${h}:${cfg.port}/trigger?token=${token}&source=macrodroid`);
+    if (!hosts.length) print(`  http://<這台電腦的區網 IP>:${cfg.port}/trigger?token=${token}&source=macrodroid`);
+    print('');
+    print('注意事項：');
+    print('  1. 手機與這台電腦要在同一個家用 Wi-Fi。');
+    print('  2. 電腦的區網 IP 可能會變，建議在路由器設定固定 IP（DHCP 保留）。');
+    print(`  3. Windows 防火牆第一次會詢問是否允許 node.exe 連入，請選「允許」，或手動開放 TCP ${cfg.port}（僅限私人網路）。`);
+    print('  4. 這是家用網路內的 HTTP，token 就是唯一的保護，不要外流、也不要把這個 port 轉發到網際網路。');
+    print('  5. 詳細的 MacroDroid 設定步驟見 PHONE_TRIGGER.md。');
+  });
 }
 
 async function cmdProbe(configPath: string | undefined, flags: { target?: string; headless?: boolean }): Promise<void> {
@@ -255,6 +312,9 @@ async function main(argv: string[]): Promise<number> {
       return 0;
     case 'watch':
       await cmdWatch(configPath, { headless: values.headless, notifyExisting: values['notify-existing'] });
+      return 0;
+    case 'trigger-url':
+      await cmdTriggerUrl(configPath);
       return 0;
     case 'probe':
       await cmdProbe(configPath, { target: values.target, headless: values.headless });

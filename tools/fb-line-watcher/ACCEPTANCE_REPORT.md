@@ -1,12 +1,22 @@
 # 驗收報告（ACCEPTANCE_REPORT.md）
 
-日期：2026-09-03　版本：fb-line-watcher 0.1.0　adapter：`fb-web-2026.09-v1`
+日期：2026-09-03　版本：fb-line-watcher 0.2.0　adapter：`fb-web-2026.09-v1`
 
 ## 【實作結論】CONDITIONAL GO
 
 - 程式碼、測試、文件、Windows 常駐腳本已完整交付，端對端流程（畫面 → 結構化偵測 → 精準截圖 → LINE）在**本機模擬的 Facebook 頁面與模擬 LINE API** 上全部通過。
 - **尚未完成、也無法在開發環境完成**的是「真實 Facebook 24～48 小時 canary」與「真實 LINE 發送」：開發環境的網路政策封鎖 `facebook.com` 與 `line.me`（CONNECT 403）。這兩項必須在使用者的 Windows 電腦上以真實帳號執行（README 第 9 節有逐步清單）。
 - 因此判定為 **CONDITIONAL GO**：可以直接安裝試跑；正式長期使用前需完成真機 canary，並可能需要依真實 Facebook 畫面微調 selector catalog（已提供 `npm run probe` 與 `ADAPTER_MAINTENANCE.md`）。
+
+## 更新（2026-09-03，第二版）
+
+新增**手機通知觸發模式**（`poll_mode: triggered`）。原因：使用者要監看的是**別人的公開粉專**與**需審核才能加入的私密社團**，兩者都拿不到 Meta 官方 API（粉專 API 需粉專管理權限；社團 API 已於 2024 年對一般開發者關閉），因此只能走畫面巡邏，而固定週期輪詢正是帳號風險的主要來源。
+
+作法：一支閒置 Android 手機跑官方 Facebook App，MacroDroid 監看自己手機的通知並打一個家用區網內的網址，watcher 收到後才巡邏一次。Facebook 完全看不到手機端這段流程。效果：一天載入 Facebook 從約 480 次降到幾十次，時間點跟著真人發文而非固定節奏，新貼文通知反而更快（數秒 vs. 最多 3 分鐘）。
+
+誠實限制：Facebook **不會**為「別人貼文底下的新留言」推播通知，因此 `poll_interval_seconds` 保留為安全網（建議 900 秒）用來補抓留言。實際效果是新貼文數秒到、留言最慢 15 分鐘到。詳見 `PHONE_TRIGGER.md`。
+
+---
 
 ## 採用方案
 
@@ -50,8 +60,8 @@
 
 開發過程中修正的兩個真實問題（皆已加入回歸測試）：留言合併的等待時間原本從「巡邏開始時間」起算，導致巡邏耗時超過等待時間時同一輪就送出（改為從寫入當下起算）；以 `tsx` 執行時 esbuild 會在注入頁面的函式中插入 `__name` 輔助函式而在瀏覽器內報錯（已在每個分頁注入 no-op shim，並由 CLI 端對端測試覆蓋 `npm run probe` 路徑）。
 
-- unit：`npx vitest run tests/unit` → 9 個檔案、48 項全部通過（正規化、指紋、比對引擎、視覺 dHash 與雙重取樣、設定驗證、LINE 重試／額度／警報、日誌遮罩、單實例鎖、簽章、留言合併）。
-- integration（真實 Chromium + 假 Facebook + 假 LINE）：`npx vitest run tests/integration` → 5 個檔案、27 項全部通過（posts 8、comments 5、resilience 7、publisher 2、cli 5）。全套 `npx vitest run` 最終結果：14 個檔案、75 項通過，耗時 285 秒。
+- unit：`npx vitest run tests/unit` → 10 個檔案、54 項全部通過（正規化、指紋、比對引擎、視覺 dHash 與雙重取樣、設定驗證、LINE 重試／額度／警報、日誌遮罩、單實例鎖、簽章、留言合併、觸發伺服器驗證與節流）。
+- integration（真實 Chromium + 假 Facebook + 假 LINE）：`npx vitest run tests/integration` → 6 個檔案、31 項全部通過（posts 8、comments 5、resilience 7、trigger 4、publisher 2、cli 5）。全套 `npx vitest run` 最終結果：**16 個檔案、85 項通過**，耗時 311 秒。
 - fixture：`fixtures/server.ts` 模擬粉專與社團（巢狀 role=article、aria-labelledby、時間 aria-label、permalink、data-ad-preview、查看更多／更多留言／回覆 template、留言排序選單、隨機 class name），並可切換登入頁／安全檢查／權限不足／骨架載入／無 role 五種異常模式。
 - real Facebook canary：**未執行**（環境限制）。
 - LINE delivery：對假 LINE API 驗證 push 內容、retry key 冪等、500→成功、401 dead-letter、409、額度抑制；真實 LINE 未驗證。
@@ -79,6 +89,10 @@
 | A7 | 登入失效與版面破壞可被監測並告警 | ✅ | `resilience.test.ts` login／checkpoint／permission／noroles |
 | A9 | Windows 重開機後 watcher 自動恢復 | ✅（腳本） | 同 B12 |
 | A10 | README 可讓另一台 Windows 依步驟安裝 | ✅ | README 第 1～8 節 |
+| T1 | 觸發模式下沒有觸發就不會巡邏 | ✅ | `tests/integration/trigger.test.ts` |
+| T2 | 手機觸發後數秒內完成巡邏並發出 LINE | ✅ | 同上，實測 4.8 秒 |
+| T3 | 觸發 token 錯誤不會讓 watcher 動作，且 token 不進日誌 | ✅ | `tests/unit/trigger.test.ts`、`tests/integration/trigger.test.ts` |
+| T4 | 連續觸發有節流，不會重複巡邏 | ✅ | `tests/unit/trigger.test.ts` |
 
 ## 【已知限制】
 
@@ -86,14 +100,16 @@
 
 ## 【安全檢查】
 
-- secrets：只在 `.env` 與記憶體；日誌 hook 全面遮罩；`.env`/`data`/`captures`/`targets.yaml` 不進 Git。
+- secrets：只在 `.env` 與記憶體；日誌 hook 全面遮罩；`.env`/`data`/`captures`/`targets.yaml` 不進 Git。觸發 token 亦納入遮罩，長度不足 16 字元時啟動即失敗。
+- 觸發伺服器：僅綁家用區網、固定長度比較驗證 token、有最小間隔節流；唯一能做的事是「要求立即巡邏一次」，不提供任何資料讀取。
 - browser profile：獨立於日常瀏覽器；不讀取 cookie 值；不做任何反偵測。
 - logs：pino 結構化，14 天自動清理；已驗證 token／Bearer／LINE ID／cookie 不出現。
 - screenshot retention：本機 30 天、公開圖片 72 小時自動刪除，檔名 128-bit 亂數。
 
 ## 【下一個最小動作】（給使用者）
 
-1. Windows 上執行 `scripts\setup.ps1` → 填 `targets.yaml` 與 `.env` → `scripts\login.ps1`（建議用專用 Facebook 帳號）。
+1. Windows 上執行 `scripts\setup.ps1` → 填 `targets.yaml` 與 `.env` → `scripts\login.ps1`（私密社團須用已是成員的帳號登入）。
 2. `npm run test-line` 確認 LINE；`npm run once` 兩次確認 baseline 與零通知。
 3. 發一篇測試貼文與一則留言，確認兩個巡邏週期內收到通知；若信心低或抓不到，執行 `npm run probe -- --target <key>`，把 `captures\diagnostics\probe_*.json` 提供給維護者調整 catalog。
-4. `scripts\install-task.ps1` 常駐，跑 24～48 小時 canary，依 README 第 9 節逐項勾選。
+4. 依 `PHONE_TRIGGER.md` 設定手機觸發（強烈建議，可把 Facebook 載入次數降約 90%）。
+5. `scripts\install-task.ps1` 常駐，跑 24～48 小時 canary，依 README 第 9 節逐項勾選。

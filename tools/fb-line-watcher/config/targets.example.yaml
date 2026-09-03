@@ -3,7 +3,15 @@
 
 timezone: Asia/Taipei
 
-# 每隔多久巡邏一次（秒）。太短會增加 Facebook 安全檢查的機率，建議 120～300。
+# interval  = 固定週期巡邏
+# triggered = 平常不巡邏，等手機通知觸發（見 PHONE_TRIGGER.md）。
+#             這個模式一天只會載入 Facebook 幾十次而不是幾百次，帳號風險低很多，
+#             建議搭配 poll_interval_seconds: 900 當安全網補抓留言。
+poll_mode: interval
+
+# 每隔多久巡邏一次（秒）。
+# poll_mode 為 interval 時：這就是巡邏間隔，建議 120～300。
+# poll_mode 為 triggered 時：這是安全網間隔，用來補抓不會產生手機通知的留言，建議 600～1800。
 poll_interval_seconds: 180
 
 # 同一篇貼文底下短時間內的多則新留言，等這麼多秒後合併成一則 LINE 通知
@@ -56,6 +64,15 @@ images:
     public_base_url_env: S3_PUBLIC_BASE_URL
     key_prefix: fb-line-watcher/
     acl: none                         # none | public-read（AWS S3 需 public-read；R2 用 none）
+
+# 手機通知觸發伺服器（poll_mode: triggered 時必須開啟）
+trigger:
+  enabled: false
+  port: 8799
+  bind: 0.0.0.0                 # 手機要連得到；僅限家用網路，不要轉發到網際網路
+  token_env: TRIGGER_TOKEN
+  min_interval_seconds: 20      # 一串通知同時進來時，這段時間內只巡邏一次
+  delay_seconds: 8              # 收到通知後等幾秒再巡邏，讓網頁端內容跟上手機通知
 
 privacy:
   redact_phone: true                  # LINE 文字摘要中遮蔽台灣手機／市話

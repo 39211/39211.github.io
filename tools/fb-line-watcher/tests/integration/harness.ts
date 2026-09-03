@@ -44,6 +44,16 @@ export function saveSample(name: string, file: string | null | undefined): void 
 
 export const sleep = (ms: number): Promise<void> => new Promise((r) => setTimeout(r, ms));
 
+/** 等待條件成立，逾時則丟出錯誤（附上最後狀態方便除錯） */
+export async function waitFor(label: string, predicate: () => boolean, timeoutMs = 60_000, stepMs = 250): Promise<void> {
+  const deadline = Date.now() + timeoutMs;
+  while (Date.now() < deadline) {
+    if (predicate()) return;
+    await sleep(stepMs);
+  }
+  throw new Error(`等待逾時（${timeoutMs} ms）：${label}`);
+}
+
 export async function setupHarness(opts: HarnessOptions = {}): Promise<Harness> {
   mkdirSync(TMP_ROOT, { recursive: true });
   const rootDir = mkdtempSync(path.join(TMP_ROOT, 'run-'));
@@ -65,7 +75,7 @@ export async function setupHarness(opts: HarnessOptions = {}): Promise<Harness> 
     ...opts.configOverrides,
     targets,
   });
-  const secrets: Secrets = { lineAccessToken: 'test-token-abcdef', lineDestinationId: `C${'a'.repeat(32)}`, publicBaseUrl: 'https://img.example.test' };
+  const secrets: Secrets = { lineAccessToken: 'test-token-abcdef', lineDestinationId: `C${'a'.repeat(32)}`, publicBaseUrl: 'https://img.example.test', triggerToken: 't'.repeat(32) };
   const clock = { offsetMs: 0, now: () => new Date(Date.now() + clock.offsetMs) };
   const logStream = createWriteStream(path.join(rootDir, 'test.log'), { flags: 'a' });
   const logger = createLogger({ stream: logStream, level: 'debug' });

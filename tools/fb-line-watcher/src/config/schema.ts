@@ -76,6 +76,19 @@ export const RetentionSchema = z.object({
   log_days: z.number().int().min(1).default(14),
 });
 
+export const TriggerSchema = z.object({
+  /** 開啟後，手機收到 Facebook 通知即可打這個網址讓 watcher 立即巡邏 */
+  enabled: z.boolean().default(false),
+  port: z.number().int().min(1).max(65535).default(8799),
+  /** 手機要連得到，所以預設綁全部介面；只在家用網路內開放 */
+  bind: z.string().default('0.0.0.0'),
+  token_env: z.string().default('TRIGGER_TOKEN'),
+  /** 兩次觸發之間至少間隔幾秒，避免一串通知造成連續巡邏 */
+  min_interval_seconds: z.number().int().min(0).default(20),
+  /** 收到觸發後等幾秒再巡邏，讓 Facebook 網頁端內容跟上手機通知 */
+  delay_seconds: z.number().int().min(0).max(300).default(8),
+});
+
 export const PathsSchema = z.object({
   data_dir: z.string().default('data'),
   captures_dir: z.string().default('captures'),
@@ -108,6 +121,12 @@ export const TargetSchema = z.object({
 export const ConfigSchema = z
   .object({
     timezone: z.string().default('Asia/Taipei'),
+    /**
+     * interval  = 固定週期巡邏（預設）
+     * triggered = 平常不巡邏，等手機通知觸發；poll_interval_seconds 變成安全網間隔，
+     *             用來補抓「不會產生手機通知」的留言，建議設 600～1800
+     */
+    poll_mode: z.enum(['interval', 'triggered']).default('interval'),
     poll_interval_seconds: z.number().int().min(20).default(180),
     comment_debounce_seconds: z.number().int().min(0).default(60),
     extractor_failure_threshold: z.number().int().min(1).default(3),
@@ -118,6 +137,7 @@ export const ConfigSchema = z
     max_notifications_per_day: z.number().int().min(1).default(150),
     target_cycle_timeout_ms: z.number().int().min(30000).default(180000),
     paths: PathsSchema.prefault({}),
+    trigger: TriggerSchema.prefault({}),
     browser: BrowserSchema.prefault({}),
     line: LineSchema.prefault({}),
     images: ImagesSchema.prefault({}),
@@ -126,6 +146,9 @@ export const ConfigSchema = z
     targets: z.array(TargetSchema).min(1, '至少要設定一個 target'),
   })
   .superRefine((cfg, ctx) => {
+    if (cfg.poll_mode === 'triggered' && !cfg.trigger.enabled) {
+      ctx.addIssue({ code: 'custom', path: ['poll_mode'], message: 'poll_mode 為 triggered 時必須設定 trigger.enabled: true，否則沒有任何東西會觸發巡邏' });
+    }
     const seen = new Set<string>();
     cfg.targets.forEach((t, i) => {
       if (seen.has(t.key)) {
@@ -150,6 +173,7 @@ export type LineConfig = z.infer<typeof LineSchema>;
 
 /** 從環境變數解析出的秘密；只會在記憶體中存在 */
 export interface Secrets {
+  triggerToken?: string;
   lineAccessToken?: string;
   lineChannelSecret?: string;
   lineDestinationId?: string;

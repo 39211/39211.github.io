@@ -55,6 +55,7 @@ export async function createApp(opts: CreateAppOptions = {}): Promise<App> {
     secrets = loaded.secrets;
     rootDir = loaded.rootDir;
   }
+  registerSecret(secrets.triggerToken);
   registerSecret(secrets.lineAccessToken);
   registerSecret(secrets.lineChannelSecret);
   registerSecret(secrets.lineDestinationId);
