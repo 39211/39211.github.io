@@ -12,7 +12,7 @@
 
 新增**手機通知觸發模式**（`poll_mode: triggered`）。原因：使用者要監看的是**別人的公開粉專**與**需審核才能加入的私密社團**，兩者都拿不到 Meta 官方 API（粉專 API 需粉專管理權限；社團 API 已於 2024 年對一般開發者關閉），因此只能走畫面巡邏，而固定週期輪詢正是帳號風險的主要來源。
 
-作法：一支閒置 Android 手機跑官方 Facebook App，MacroDroid 監看自己手機的通知並打一個家用區網內的網址，watcher 收到後才巡邏一次。Facebook 完全看不到手機端這段流程。效果：搭配 15 分鐘安全網間隔，一天載入 Facebook 從約 480 次降到約 110～130 次（降約 75%；安全網改 30 分鐘則約 60～80 次，降約 85%），時間點也不再是固定節奏，而新貼文通知更快（數秒 vs. 最多 3 分鐘）。
+作法：一支閒置 Android 手機跑官方 Facebook App，MacroDroid 監看自己手機的通知並打一個家用區網內的網址，watcher 收到後才巡邏一次。Facebook 完全看不到手機端這段流程。效果：時間點不再是固定節奏，新貼文通知更快（數秒 vs. 最多 3 分鐘）。載入次數的降幅**不是固定保證值**：安全網巡邏次數固定（15 分鐘間隔＝96 次／天），觸發次數等於通過節流的手機通知數。典型情境（兩個來源合計一天 10～30 則動態）約 110～130 次／天，比 480 次少約 75%；但熱門社團若不調高 `trigger.min_interval_seconds`（上限為 86400÷該值），可能反而更多。算式與實測方式見 `PHONE_TRIGGER.md`。
 
 誠實限制：Facebook **不會**為「別人貼文底下的新留言」推播通知，因此 `poll_interval_seconds` 保留為安全網（建議 900 秒）用來補抓留言。實際效果是新貼文數秒到、留言最慢 15 分鐘到。詳見 `PHONE_TRIGGER.md`。
 
@@ -56,12 +56,23 @@
 | 「刪除」事件 | 不通知 | 只在資料庫標記 `active=0`，避免因排序或載入造成誤報。 |
 | 截圖內圖片中的個資 | 無法遮罩 | 只能模糊文字節點。 |
 
+## 靜態複審回應（2026-09-04）
+
+| # | 複審意見 | 處理 |
+| --- | --- | --- |
+| 1 | `setup.ps1` 未檢查 Playwright 與 `icacls` 的結束代碼，安裝失敗仍印出完成；應優先用 `npm ci` | 已修。新增 `Invoke-Native` helper（PowerShell 的 try/catch 不會攔截原生程序的非零結束代碼，必須自己檢查 `$LASTEXITCODE`）；npm 改用 `npm ci`；Playwright 與 icacls 失敗改為累積警告，結尾據實顯示「有 N 項警告」而非無條件印出完成 |
+| 2 | trigger server 的 request limit 按 chunk 數而非累計 bytes | 已修。改為 `MAX_BODY_BYTES = 8 KiB` 的真實位元組上限，先看 `Content-Length` 擋，串流超量時回 413 並 `destroy()` 連線、丟棄已收資料。新增 3 項測試 |
+| 3 | `package.json` 0.2.0 但 lockfile 根 metadata 仍 0.1.0 | 已修（commit `ba1321d`，以 `npm install --package-lock-only` 重新產生，未變動任何依賴） |
+| 4 | 載入量下降 75%～85% 取決於通知量，不是固定保證值 | 已修文件。四份文件改為「安全網次數固定、觸發次數隨動態量變動」，附上 `86400 ÷ min_interval_seconds` 的上限公式與各設定值對照表，並明說**熱門社團若不調高 `min_interval_seconds`，觸發模式可能比固定週期載入更多次**；另加上用 `extractor_health` 表實測當日載入次數的方法 |
+
+---
+
 ## 【測試證據】
 
 開發過程中修正的兩個真實問題（皆已加入回歸測試）：留言合併的等待時間原本從「巡邏開始時間」起算，導致巡邏耗時超過等待時間時同一輪就送出（改為從寫入當下起算）；以 `tsx` 執行時 esbuild 會在注入頁面的函式中插入 `__name` 輔助函式而在瀏覽器內報錯（已在每個分頁注入 no-op shim，並由 CLI 端對端測試覆蓋 `npm run probe` 路徑）。
 
-- unit：`npx vitest run tests/unit` → 10 個檔案、54 項全部通過（正規化、指紋、比對引擎、視覺 dHash 與雙重取樣、設定驗證、LINE 重試／額度／警報、日誌遮罩、單實例鎖、簽章、留言合併、觸發伺服器驗證與節流）。
-- integration（真實 Chromium + 假 Facebook + 假 LINE）：`npx vitest run tests/integration` → 6 個檔案、31 項全部通過（posts 8、comments 5、resilience 7、trigger 4、publisher 2、cli 5）。全套 `npx vitest run` 最終結果：**16 個檔案、85 項通過**，耗時 311 秒。
+- unit：`npx vitest run tests/unit` → 10 個檔案、57 項全部通過（正規化、指紋、比對引擎、視覺 dHash 與雙重取樣、設定驗證、LINE 重試／額度／警報、日誌遮罩、單實例鎖、簽章、留言合併、觸發伺服器驗證與節流）。
+- integration（真實 Chromium + 假 Facebook + 假 LINE）：`npx vitest run tests/integration` → 6 個檔案、31 項全部通過（posts 8、comments 5、resilience 7、trigger 4、publisher 2、cli 5）。全套 `npx vitest run` 最終結果：**16 個檔案、88 項通過**，耗時 319 秒。
 - fixture：`fixtures/server.ts` 模擬粉專與社團（巢狀 role=article、aria-labelledby、時間 aria-label、permalink、data-ad-preview、查看更多／更多留言／回覆 template、留言排序選單、隨機 class name），並可切換登入頁／安全檢查／權限不足／骨架載入／無 role 五種異常模式。
 - real Facebook canary：**未執行**（環境限制）。
 - LINE delivery：對假 LINE API 驗證 push 內容、retry key 冪等、500→成功、401 dead-letter、409、額度抑制；真實 LINE 未驗證。
@@ -93,6 +104,8 @@
 | T2 | 手機觸發後數秒內完成巡邏並發出 LINE | ✅ | 同上，實測 4.8 秒 |
 | T3 | 觸發 token 錯誤不會讓 watcher 動作，且 token 不進日誌 | ✅ | `tests/unit/trigger.test.ts`、`tests/integration/trigger.test.ts` |
 | T4 | 連續觸發有節流，不會重複巡邏 | ✅ | `tests/unit/trigger.test.ts` |
+| T5 | 觸發 body 有真正的位元組上限，超過回 413 且不觸發 | ✅ | `tests/unit/trigger.test.ts`（含未宣告 Content-Length 的串流情況） |
+| T6 | `setup.ps1` 對 npm／Playwright／icacls 檢查結束代碼，失敗不會被當成成功 | ✅（靜態） | `scripts/common.ps1` 的 `Invoke-Native`；CI 有 PowerShell 語法 gate，實際執行仍待真機 |
 
 ## 【已知限制】
 
@@ -111,5 +124,5 @@
 1. Windows 上執行 `scripts\setup.ps1` → 填 `targets.yaml` 與 `.env` → `scripts\login.ps1`（私密社團須用已是成員的帳號登入）。
 2. `npm run test-line` 確認 LINE；`npm run once` 兩次確認 baseline 與零通知。
 3. 發一篇測試貼文與一則留言，確認兩個巡邏週期內收到通知；若信心低或抓不到，執行 `npm run probe -- --target <key>`，把 `captures\diagnostics\probe_*.json` 提供給維護者調整 catalog。
-4. 依 `PHONE_TRIGGER.md` 設定手機觸發（強烈建議，可把 Facebook 載入次數降約 75～85%）。
+4. 依 `PHONE_TRIGGER.md` 設定手機觸發（強烈建議；先用 interval 模式跑一兩天量出實際動態量，再據以設定 `min_interval_seconds`）。
 5. `scripts\install-task.ps1` 常駐，跑 24～48 小時 canary，依 README 第 9 節逐項勾選。

@@ -1,7 +1,7 @@
 import { afterEach, describe, expect, it } from 'vitest';
 import { Writable } from 'node:stream';
 import { clearSecretsForTest, createLogger, registerSecret } from '../../src/logger.js';
-import { startTriggerServer, type TriggerRequest, type TriggerServerHandle } from '../../src/worker/trigger-server.js';
+import { MAX_BODY_BYTES, startTriggerServer, type TriggerRequest, type TriggerServerHandle } from '../../src/worker/trigger-server.js';
 import { parseConfigObject } from '../../src/config/load.js';
 
 const TOKEN = 'a'.repeat(32);
@@ -78,6 +78,50 @@ describe('觸發伺服器', () => {
 
     expect((await fetch(`${base}?token=wrong`)).status).toBe(401);
     expect((await fetch(base, { method: 'DELETE' })).status).toBe(405);
+  });
+
+  it('body 超過位元組上限回 413 且不觸發（依 Content-Length 先擋）', async () => {
+    const s = await start(0);
+    const base = `http://127.0.0.1:${s.port}/trigger`;
+    const huge = JSON.stringify({ source: 'x', text: 'a'.repeat(MAX_BODY_BYTES + 1000) });
+    expect(Buffer.byteLength(huge)).toBeGreaterThan(MAX_BODY_BYTES);
+    const res = await fetch(base, { method: 'POST', headers: { 'X-Trigger-Token': TOKEN, 'Content-Type': 'application/json' }, body: huge });
+    expect(res.status).toBe(413);
+    expect(received).toHaveLength(0);
+  });
+
+  it('未宣告 Content-Length 的串流 body 超過上限時同樣回 413', async () => {
+    const s = await start(0);
+    const stream = new ReadableStream<Uint8Array>({
+      start(controller) {
+        const block = new Uint8Array(2048).fill(0x61);
+        for (let sent = 0; sent < MAX_BODY_BYTES + 4096; sent += block.length) controller.enqueue(block);
+        controller.close();
+      },
+    });
+    const res = await fetch(`http://127.0.0.1:${s.port}/trigger`, {
+      method: 'POST',
+      headers: { 'X-Trigger-Token': TOKEN, 'Content-Type': 'application/json' },
+      body: stream,
+      // @ts-expect-error undici 需要 duplex 才能送 stream body
+      duplex: 'half',
+    }).catch((e: unknown) => e as Error);
+    // 伺服器中斷連線後，fetch 可能回 413 或直接拋出；兩者都代表沒有把 body 收進來
+    if (res instanceof Error) expect(res).toBeInstanceOf(Error);
+    else expect(res.status).toBe(413);
+    expect(received).toHaveLength(0);
+  });
+
+  it('剛好在上限內的 body 仍正常接受', async () => {
+    const s = await start(0);
+    const text = 'b'.repeat(1000);
+    const res = await fetch(`http://127.0.0.1:${s.port}/trigger`, {
+      method: 'POST',
+      headers: { 'X-Trigger-Token': TOKEN, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ source: 'macrodroid', text }),
+    });
+    expect(res.status).toBe(200);
+    expect(received[0]?.text).toBe(text);
   });
 
   it('token 不會出現在日誌中', async () => {

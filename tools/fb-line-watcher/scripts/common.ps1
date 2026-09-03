@@ -17,6 +17,21 @@ function Assert-Node {
   }
 }
 
+# 執行原生命令（npm、npx、icacls 等）並檢查結束代碼。
+# PowerShell 的 try/catch 與 $ErrorActionPreference 不會攔截原生程序的非零結束代碼，
+# 必須自己檢查 $LASTEXITCODE，否則安裝失敗也會被當成成功。
+function Invoke-Native {
+  param(
+    [Parameter(Mandatory)][string]$Description,
+    [Parameter(Mandatory)][scriptblock]$Command
+  )
+  & $Command
+  if ($LASTEXITCODE -ne 0) {
+    Write-Host "  X $Description 失敗（結束代碼 $LASTEXITCODE）" -ForegroundColor Red
+    exit $LASTEXITCODE
+  }
+}
+
 function Assert-Config {
   if (-not (Test-Path 'config\targets.yaml')) {
     Write-Host '找不到 config\targets.yaml，請先複製 config\targets.example.yaml 並填入粉專／社團網址。' -ForegroundColor Yellow

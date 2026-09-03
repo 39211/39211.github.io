@@ -16,6 +16,12 @@ export interface TriggerRequest {
 
 export type TriggerVerdict = 'accepted' | 'throttled';
 
+/**
+ * 請求 body 的位元組上限。body 只用來傳幾個短參數（source/target/text），
+ * 8 KiB 綽綽有餘；超過就直接回 413 並中斷連線，不把資料留在記憶體。
+ */
+export const MAX_BODY_BYTES = 8 * 1024;
+
 export interface TriggerServerOptions {
   port: number;
   bind: string;
@@ -81,13 +87,31 @@ export function startTriggerServer(opts: TriggerServerOptions): Promise<TriggerS
       httpRes.writeHead(405, { 'Content-Type': 'text/plain; charset=utf-8' }).end('method not allowed');
       return;
     }
+    const declared = Number(httpReq.headers['content-length']);
+    if (Number.isFinite(declared) && declared > MAX_BODY_BYTES) {
+      httpRes.writeHead(413, { 'Content-Type': 'text/plain; charset=utf-8' }).end('payload too large');
+      httpReq.destroy();
+      return;
+    }
     const chunks: Buffer[] = [];
+    let receivedBytes = 0;
+    let tooLarge = false;
     httpReq.on('data', (c: Buffer) => {
-      if (chunks.length < 32) chunks.push(c);
+      if (tooLarge) return;
+      receivedBytes += c.length;
+      if (receivedBytes > MAX_BODY_BYTES) {
+        tooLarge = true;
+        chunks.length = 0;
+        httpRes.writeHead(413, { 'Content-Type': 'text/plain; charset=utf-8' }).end('payload too large');
+        httpReq.destroy();
+        return;
+      }
+      chunks.push(c);
     });
     httpReq.on('end', () => {
+      if (tooLarge) return;
       let body: Record<string, unknown> = {};
-      const raw = Buffer.concat(chunks).toString('utf8').slice(0, 4000);
+      const raw = Buffer.concat(chunks).toString('utf8');
       if (raw) {
         try {
           body = JSON.parse(raw) as Record<string, unknown>;
