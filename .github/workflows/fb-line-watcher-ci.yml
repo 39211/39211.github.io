@@ -1,0 +1,63 @@
+name: fb-line-watcher CI
+
+on:
+  pull_request:
+    paths:
+      - "tools/fb-line-watcher/**"
+      - ".github/workflows/fb-line-watcher-ci.yml"
+  push:
+    branches:
+      - "claude/facebook-screenshot-line-notify-tjq1s8"
+    paths:
+      - "tools/fb-line-watcher/**"
+      - ".github/workflows/fb-line-watcher-ci.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: fb-line-watcher-${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    defaults:
+      run:
+        working-directory: tools/fb-line-watcher
+    env:
+      CI: "1"
+      TZ: Asia/Taipei
+
+    steps:
+      - name: Checkout PR head
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js 22.13
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22.13.0
+          cache: npm
+          cache-dependency-path: tools/fb-line-watcher/package-lock.json
+
+      - name: Show toolchain versions
+        run: |
+          node --version
+          npm --version
+
+      - name: Install locked dependencies
+        run: npm ci
+
+      - name: Install Chromium runtime
+        run: npx playwright install --with-deps chromium
+
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Run all tests
+        run: npm test
+
+      - name: Build
+        run: npm run build
