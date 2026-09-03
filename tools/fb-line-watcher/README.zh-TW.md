@@ -4,7 +4,9 @@
 > 一有**新貼文、貼文編輯、新留言、新回覆**，就對該區塊精準截圖，連同摘要透過 **LINE Messaging API** 送到指定 LINE 群組。
 > **Facebook 端完全不用 Graph API、Meta App、Webhook**；LINE 端用官方 Messaging API。
 
-適用情境（本專案的原始需求）：爸爸有一個 Facebook 粉絲專頁，也在一個社團裡；只要粉專有新貼文（文字／圖片）、社團裡有人（特別是群主）發言或留言，就把畫面截圖傳到我們家的 LINE 群組。
+適用情境（本專案的原始需求）：要盯著**別人經營的公開粉絲專頁**，以及**自己已經加入的私密社團**；只要粉專有新貼文（文字／圖片）、社團裡有人（特別是群主）發言或留言，就把畫面截圖傳到家人的 LINE 群組。
+
+因為粉專不是自己的、社團又是私密的，Meta 官方 API 這條路是關的（粉專 API 需要該粉專的管理權限；社團 API 已於 2024 年對一般開發者停止提供），所以只能用「授權帳號看畫面」的方式。這也是為什麼降低帳號風險特別重要，請務必看第 7.5 節的手機通知觸發模式。
 
 ---
 
@@ -79,8 +81,8 @@ Set-ExecutionPolicy -Scope CurrentUser RemoteSigned   # 第一次需要，允許
 
 ```yaml
 targets:
-  - key: dad_fanpage
-    name: 爸爸的粉絲專頁
+  - key: watched_page
+    name: 要監看的粉絲專頁
     type: facebook_page
     url: https://www.facebook.com/你的粉專
   - key: group_main
@@ -210,7 +212,7 @@ npm run once
 第一次只會**建立 baseline**（記住現在畫面上有哪些貼文與留言），**不會通知**。結果類似：
 
 ```
-✅ dad_fanpage：READY／STRUCTURED（baseline／resync，不通知） 貼文 8、留言 37、信心 0.98
+✅ watched_page：READY／STRUCTURED（baseline／resync，不通知） 貼文 8、留言 37、信心 0.98
 ✅ group_main：READY／STRUCTURED（baseline／resync，不通知） 貼文 10、留言 52、信心 0.96
 ```
 

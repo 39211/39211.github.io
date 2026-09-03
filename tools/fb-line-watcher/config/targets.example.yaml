@@ -84,8 +84,9 @@ retention:
   log_days: 14
 
 targets:
-  - key: dad_fanpage
-    name: 爸爸的粉絲專頁
+  # 別人經營的公開粉專也可以監看，不需要對方同意，也不用追蹤；直接填網址即可
+  - key: watched_page
+    name: 要監看的粉絲專頁
     type: facebook_page
     url: https://www.facebook.com/REPLACE_WITH_PAGE_USERNAME_OR_ID
     scan_latest_posts: 8              # 每次巡邏檢查最新幾篇貼文
