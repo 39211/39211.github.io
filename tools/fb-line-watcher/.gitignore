@@ -1,0 +1,21 @@
+# 依賴與建置產物
+node_modules/
+dist/
+coverage/
+
+# 秘密與本機狀態（絕對不可提交）
+.env
+.env.*
+!.env.example
+data/
+captures/
+config/targets.yaml
+*.sqlite
+*.sqlite-journal
+*.sqlite-wal
+*.sqlite-shm
+*.log
+
+# 測試暫存
+tests/.tmp/
+.vitest/

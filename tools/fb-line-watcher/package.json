@@ -1,0 +1,45 @@
+{
+  "name": "fb-line-watcher",
+  "version": "0.1.0",
+  "private": true,
+  "description": "監看已授權登入帳號可見的 Facebook 粉絲專頁與社團畫面，偵測新貼文、貼文編輯、新留言與回覆後精準截圖，並透過 LINE Messaging API 通知（Facebook 端不使用任何 API）",
+  "type": "module",
+  "engines": {
+    "node": ">=22.13.0"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run",
+    "test:unit": "vitest run tests/unit",
+    "test:integration": "vitest run tests/integration",
+    "login": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts login",
+    "watch": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts watch",
+    "once": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts once",
+    "probe": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts probe",
+    "baseline": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts baseline",
+    "resync": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts resync",
+    "health": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts health",
+    "get-line-ids": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts get-line-ids",
+    "test-line": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts test-line",
+    "cleanup": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts cleanup",
+    "fixture": "node --no-warnings=ExperimentalWarning --import tsx fixtures/server.ts",
+    "start": "node --no-warnings=ExperimentalWarning dist/src/cli.js watch"
+  },
+  "dependencies": {
+    "@aws-sdk/client-s3": "3.1125.0",
+    "pino": "10.3.1",
+    "pino-pretty": "13.1.3",
+    "playwright": "1.56.1",
+    "pngjs": "7.0.0",
+    "yaml": "2.9.0",
+    "zod": "4.5.4"
+  },
+  "devDependencies": {
+    "@types/node": "22.20.1",
+    "@types/pngjs": "6.0.5",
+    "tsx": "4.23.13",
+    "typescript": "5.9.3",
+    "vitest": "4.1.11"
+  }
+}
