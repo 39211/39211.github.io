@@ -22,6 +22,7 @@
   if (pageType === "knowledge_hub") send("view_knowledge_hub");
   if (pageType === "answer") send("view_search_answer");
   if (pageType === "service") send("view_service");
+  if (pageType === "article") send("view_article");
 
   document.addEventListener("click", (event) => {
     const target = event.target;
@@ -66,6 +67,14 @@
 
     if (pageType === "answer" && /\/services\/[^/]+\.html$/.test(targetUrl.pathname)) {
       send("click_service_from_answer", {
+        service_id: targetUrl.pathname.split("/").pop()?.replace(/\.html$/, "") || "unknown",
+        cta_name: ctaName
+      });
+      return;
+    }
+
+    if (pageType === "article" && /\/services\/[^/]+\.html$/.test(targetUrl.pathname)) {
+      send("click_service_from_article", {
         service_id: targetUrl.pathname.split("/").pop()?.replace(/\.html$/, "") || "unknown",
         cta_name: ctaName
       });
