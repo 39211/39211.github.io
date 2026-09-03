@@ -1,0 +1,68 @@
+{
+  "topic": "球鞋中底那圈黃是髒還是氧化？一張近照就分得出來",
+  "date": "2026-09-07",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "MISSING",
+    "SCENE": "MISSING",
+    "TOPIC_MATCH": "MISSING"
+  },
+  "evidence": {},
+  "frames_used": [],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-01.png",
+      "canary": "QQY2",
+      "sha256": "3048d8c4e14db35b202461a4b78f4716f19450a9eb0937d0716ddf7139735f75"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-01-slide-02.png",
+      "canary": "5FVS",
+      "sha256": "188fce86c5b42f2b7ee801e72a1ce8f89d9679d56cee4ff40e27d5c530ef59cf"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-01-slide-03.png",
+      "canary": "9K69",
+      "sha256": "dae637682b8e4eeb863f1737205c4b26500ecb786af48b0812c3d37de82d7f94"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-01-slide-04.png",
+      "canary": "CU78",
+      "sha256": "4fabc9b4c06cd3ebb9b0373f97a3b35b6216d41dced2b44d06208cf7e4c8bac0"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "QQY2",
+    "IMAGE_2": "5FVS",
+    "IMAGE_3": "9K69",
+    "IMAGE_4": "CU78"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "QOY2",
+    "IMAGE_2": "5FVS",
+    "IMAGE_3": "9K69",
+    "IMAGE_4": "CU78"
+  },
+  "prompt_hash": "11266a0d5370b7e7c4a581dd08066dcc9f227b384a8863a49c841bdc180261c8",
+  "run_id": "carousel-qa-1788471373732",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-03T21:37:59.296Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "judge_blind"
+}

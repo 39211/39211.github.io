@@ -1,0 +1,77 @@
+{
+  "topic": "細節拆解：開學前制服外套和白鞋，先看容易忽略的位置",
+  "date": "2026-09-07",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "FAIL"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆為白上衣、卡其百褶裙的梭織制服組合；可見差異主要是髒污程度與拍攝角度。",
+    "SCENE": "四張均在粉紅切割墊與條紋牆面的同一櫃台場景拍攝。",
+    "TOPIC_MATCH": "畫面只有制服衣物，未見白鞋或其他鞋類。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-02.png",
+      "canary": "NH8H",
+      "sha256": "16803895dce62f1ba34fba9ae947431f3fb5eefa9d1ca7d40a648d25b42c82a2"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-02-slide-02.png",
+      "canary": "DHX8",
+      "sha256": "89aa10345df82ed245ab76b1907d3f7305f07e6ac5dae814d1704ce5fc43bdb0"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-02-slide-03.png",
+      "canary": "5K4N",
+      "sha256": "bd6e50de3c5b38d06d3542241fc09fe45eeec849e0488f887fdd922dba4e32a8"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-02-slide-04.png",
+      "canary": "8JSG",
+      "sha256": "a27007b6ee07bda3be7ec70e80d1e06722fe9ad36a3aff1cd55cbaed50818762"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-07\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "NH8H",
+    "IMAGE_2": "DHX8",
+    "IMAGE_3": "5K4N",
+    "IMAGE_4": "8JSG"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "NH8H",
+    "IMAGE_2": "DHX8",
+    "IMAGE_3": "5K4N",
+    "IMAGE_4": "8JSG"
+  },
+  "prompt_hash": "ad18926d35365e1d06ec97e01532ba0b17db30933bf54116b660e95a2f39aea3",
+  "run_id": "carousel-qa-1788471836407",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-03T21:46:37.110Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
