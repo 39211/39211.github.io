@@ -6,7 +6,7 @@ export default defineConfig({
     testTimeout: 180_000,
     hookTimeout: 180_000,
     pool: 'forks',
-    poolOptions: { forks: { execArgv: ['--no-warnings=ExperimentalWarning'] } },
+    execArgv: ['--no-warnings=ExperimentalWarning'],
     fileParallelism: false,
     reporters: ['default'],
   },
