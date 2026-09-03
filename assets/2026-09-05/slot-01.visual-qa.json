@@ -1,0 +1,77 @@
+{
+  "topic": "麂皮鞋淋雨後絨毛倒了發亮，還救得回來嗎？先做這 3 步",
+  "date": "2026-09-05",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆為棕色麂皮繫帶鞋，類型與粗略材質一致。",
+    "SCENE": "四張皆在同一類白色檯面、粉紅切割墊與水平條紋牆面的櫃檯場景拍攝。",
+    "TOPIC_MATCH": "四張的主體皆為麂皮鞋，符合主題中的鞋類物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-01.png",
+      "canary": "4NUR",
+      "sha256": "26ae17c5b70a80cd90eba2526046453bb04a632a953fa4c502e6f18260736a5f"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-01-slide-02.png",
+      "canary": "SVNR",
+      "sha256": "0698952e8cd22adc85c8c8c47ca961db3409a4bf6a042afe7c5f936be9e6cb37"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-01-slide-03.png",
+      "canary": "SZF9",
+      "sha256": "776b75dd231e96b85ff78864e8b4876161c59bfdd2dd737b2e74655cb3d657ee"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-01-slide-04.png",
+      "canary": "7GMT",
+      "sha256": "ae66cd8dad514b9a2ca77bcb95415838d5248dcad66ebab169c2fb8059a1ec35"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "4NUR",
+    "IMAGE_2": "SVNR",
+    "IMAGE_3": "SZF9",
+    "IMAGE_4": "7GMT"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "4NUR",
+    "IMAGE_2": "SVNR",
+    "IMAGE_3": "SZF9",
+    "IMAGE_4": "7GMT"
+  },
+  "prompt_hash": "b86bfe985963e40175d9aae7175ef30c55dd6af86020741636bc78d5b6335302",
+  "run_id": "carousel-qa-1788469130350",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-03T21:01:28.905Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

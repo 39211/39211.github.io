@@ -4604,6 +4604,94 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-02.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-09-04-slot-01.html",
+      "title": "2026-09-04 11:30 可收藏：高跟鞋跟磨損，送洗前先看三個位置",
+      "date_published": "2026-09-04T11:30:00+08:00",
+      "content_text": "高跟鞋跟磨損，送洗前先看三個位置。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你有幾雙鞋是因為不知道怎麼洗就一直放著？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n下一集：麂皮鞋淋雨後絨毛倒了發亮，還救得回來嗎？先做這 3 步\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "summary": "可收藏：高跟鞋跟磨損，送洗前先看三個位置",
+      "image": "https://sixiangjialaundry.com/assets/2026-09-04/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "洗護日常",
+        "送洗前檢查",
+        "台中洗鞋",
+        "洗鞋推薦",
+        "球鞋清洗",
+        "台中洗衣店",
+        "西屯",
+        "逢甲",
+        "台中"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "macro-detail",
+        "traffic_route": "object-proof",
+        "content_role": "reach-answer",
+        "search_intent": "problem-diagnosis",
+        "target_queries": [
+          "台中洗鞋",
+          "西屯洗鞋",
+          "逢甲洗鞋",
+          "台中洗鞋店",
+          "台中白鞋清潔",
+          "球鞋清洗台中"
+        ],
+        "evidence_type": "first-party-inspection",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-09-04-slot-02.html",
+      "title": "2026-09-04 20:30 細節拆解：國慶連假行李鞋包整理，先看容易忽略的位置",
+      "date_published": "2026-09-04T20:30:00+08:00",
+      "content_text": "國慶連假行李鞋包整理，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #國慶連假 #旅行整理 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "summary": "細節拆解：國慶連假行李鞋包整理，先看容易忽略的位置",
+      "image": "https://sixiangjialaundry.com/assets/2026-09-04/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "國慶連假",
+        "旅行整理",
+        "台中洗鞋",
+        "洗鞋推薦",
+        "球鞋清洗",
+        "台中洗衣店",
+        "西屯",
+        "逢甲",
+        "台中"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "value-prop-lead",
+        "content_role": "evidence-conversion",
+        "search_intent": "aftercare",
+        "target_queries": [
+          "台中洗鞋",
+          "西屯洗鞋",
+          "逢甲洗鞋",
+          "台中洗包包",
+          "西屯洗包包",
+          "台中洗包"
+        ],
+        "evidence_type": "customer-question",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json"
+      }
     }
   ]
 }

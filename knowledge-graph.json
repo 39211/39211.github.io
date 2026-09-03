@@ -226,6 +226,8 @@
         "https://sixiangjialaundry.com/assets/2026-09-01/slot-03.png",
         "https://sixiangjialaundry.com/assets/2026-09-02/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-02/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-04/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-04/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -461,7 +463,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-02",
+      "dateModified": "2026-09-04",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -10603,6 +10605,84 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-02/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-02/slot-02.png",
       "caption": "今天情境：雨後通勤回家不要直接收鞋",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-01",
+      "headline": "2026-09-04 11:30 可收藏：高跟鞋跟磨損，送洗前先看三個位置",
+      "text": "高跟鞋跟磨損，送洗前先看三個位置。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你有幾雙鞋是因為不知道怎麼洗就一直放著？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n下一集：麂皮鞋淋雨後絨毛倒了發亮，還救得回來嗎？先做這 3 步\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-09-04T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-04/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-04/slot-01.png",
+      "caption": "可收藏：高跟鞋跟磨損，送洗前先看三個位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-02",
+      "headline": "2026-09-04 20:30 細節拆解：國慶連假行李鞋包整理，先看容易忽略的位置",
+      "text": "國慶連假行李鞋包整理，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #國慶連假 #旅行整理 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-09-04T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#國慶連假",
+        "#旅行整理",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-04/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-04/slot-02.png",
+      "caption": "細節拆解：國慶連假行李鞋包整理，先看容易忽略的位置",
       "inLanguage": "zh-Hant"
     }
   ]

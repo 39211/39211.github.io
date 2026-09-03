@@ -1,0 +1,77 @@
+{
+  "topic": "細節拆解：夜市走一圈鞋底邊緣最誠實，先看容易忽略的位置",
+  "date": "2026-09-05",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第3張為深藍針織鞋面球鞋，與第1、4張雙色皮革球鞋及第2張混合材質球鞋不是同一實體鞋款。",
+    "SCENE": "四張皆在粉紅切割墊與白色橫條牆面的櫃檯場景拍攝。",
+    "TOPIC_MATCH": "四張的主體皆為球鞋，符合主題中的鞋類物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-02.png",
+      "canary": "QAR3",
+      "sha256": "fd3a23d32bef25ed22b3264746b55f962fabd37137e6d09dded5ce92820aa087"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-02-slide-02.png",
+      "canary": "NAC5",
+      "sha256": "6c99a49bed002a8daa204d648f871ab072943349b78538432c6c4e8a5278ad16"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-02-slide-03.png",
+      "canary": "2CS8",
+      "sha256": "075596a36badd2a864b7112b66807e2a046a6fa2607f3d8ce383d9bb397b7127"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-02-slide-04.png",
+      "canary": "84KC",
+      "sha256": "b07449c75798b7ec18ca4b0f0290b41512c7a4edfe235480a1d62d1768cae7ac"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-05\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "QAR3",
+    "IMAGE_2": "NAC5",
+    "IMAGE_3": "2CS8",
+    "IMAGE_4": "84KC"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "QAR3",
+    "IMAGE_2": "NAC5",
+    "IMAGE_3": "2CS8",
+    "IMAGE_4": "84KC"
+  },
+  "prompt_hash": "47572dfcc3135253f7e71504cf8634c0ce5fed10c11ff9e9a1766a701e62504c",
+  "run_id": "carousel-qa-1788469636475",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-03T21:09:03.109Z",
+  "mode": "warn",
+  "verdict": "FAIL",
+  "fail_class": "content"
+}
