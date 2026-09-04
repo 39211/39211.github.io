@@ -98,7 +98,11 @@ FF D8  FF C0  00 02  DE  00 64  00 64  AD BE EF BA AD      ← 16 bytes
 src/util/image.ts
 fixtures/images.ts
 tests/unit/image.test.ts
-tests/unit/phone-ingest.test.ts
 ```
 
-禁止：`src/worker/**`、`src/publish/**`、`src/detect/**`、`.github/**`。
+禁止：`src/worker/**`、`src/publish/**`、`src/detect/**`、`.github/**`、
+**`tests/unit/phone-ingest.test.ts`（WO-005 獨佔）**。
+
+> 第 2 條要求的「走 `ingestNotification` 驗證假圖不落地」請寫在 `tests/unit/image.test.ts` 裡，
+> 直接 `import { ingestNotification } from '../../src/worker/phone-ingest.js'`。
+> 不要去改 `tests/unit/phone-ingest.test.ts` —— 那個檔案在 WO-005 手上。

@@ -97,7 +97,8 @@ src/worker/scheduler.ts
 src/events.ts
 src/detect/groups.ts
 tests/integration/comments.test.ts
-tests/unit/*.test.ts
+tests/unit/comment-group-key.test.ts   # 新檔
 ```
 
-以上之外一律唯讀。特別禁止：`src/detect/diff.ts`、`src/worker/target-worker.ts`（那是 WO-007 的範圍，兩張同時改會衝突）、`src/line/**`、`.github/**`。
+以上之外一律唯讀。特別禁止：`src/detect/diff.ts`、`src/worker/target-worker.ts`（WO-007 的範圍，兩張同時改會衝突）、
+`src/line/**`、`src/util/**`、`tests/unit/phone-ingest.test.ts`、`tests/unit/image.test.ts`、`.github/**`。

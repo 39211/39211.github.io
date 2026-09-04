@@ -90,10 +90,16 @@
 
 ## 派工順序與衝突
 
-- **P0 共三張：WO-005、WO-006、WO-012。先派這三張。** 三張路徑不重疊，可並行。
-  - WO-005 動 `src/worker/trigger-server.ts` + `src/worker/phone-ingest.ts` 的 HTTP 層
-  - WO-006 動 `src/worker/scheduler.ts` 的 `flushDueGroups`
-  - WO-012 動 `src/util/image.ts`
+- **P0 共三張：WO-005、WO-006、WO-012。先派這三張。** 白名單已收窄成互斥，可並行：
+  | | 產品碼 | 測試檔（獨佔） |
+  |---|---|---|
+  | WO-005 | `worker/trigger-server.ts`、`worker/phone-ingest.ts`、`util/http-target.ts`(新)、`cli.ts` | `tests/unit/trigger.test.ts`、`tests/unit/phone-ingest.test.ts` |
+  | WO-006 | `worker/scheduler.ts`、`events.ts`、`detect/groups.ts` | `tests/integration/comments.test.ts`、`tests/unit/comment-group-key.test.ts`(新) |
+  | WO-012 | `util/image.ts`、`fixtures/images.ts` | `tests/unit/image.test.ts` |
+
+  > 原本 WO-005 的白名單寫 `src/util/*.ts`（會吃掉 WO-012 的 `image.ts`），
+  > 且 WO-005 與 WO-012 都宣告 `tests/unit/phone-ingest.test.ts`。已修正為互斥。
+  > **同一棵工作樹只能有一個 writer** —— 若三張要真的並行，必須用三個 worktree 或依序做。
 - WO-014 也動 `src/worker/phone-ingest.ts`，**與 WO-005 不可並行**（WO-005 先）。
 - WO-013 也動 `src/worker/scheduler.ts`，**與 WO-006 不可並行**（WO-006 先）。
 - WO-007 動 `diff.ts` / `target-worker.ts`，WO-006 動 `scheduler.ts`；語意上相關，**建議 WO-006 先合併再做 WO-007**。

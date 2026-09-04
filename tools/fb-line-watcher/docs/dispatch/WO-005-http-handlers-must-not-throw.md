@@ -118,10 +118,14 @@ npm test
 ```
 src/worker/trigger-server.ts
 src/worker/phone-ingest.ts
-src/util/*.ts               # 允許新增共用的安全解析函式
+src/util/http-target.ts     # 新檔，共用的安全 request target 解析
 src/cli.ts                  # 僅限新增 uncaughtException / unhandledRejection 兜底
 tests/unit/trigger.test.ts
 tests/unit/phone-ingest.test.ts
 ```
 
-以上之外一律唯讀。特別禁止：`src/detect/**`、`src/publish/**`、`src/config/schema.ts`、`.github/**`。
+以上之外一律唯讀。特別禁止：`src/detect/**`、`src/publish/**`、`src/config/schema.ts`、`.github/**`、
+**`src/util/image.ts`（WO-012 的範圍）**、**`tests/unit/image.test.ts`（WO-012 的範圍）**。
+
+> 這三張 P0 併行時的唯一接觸點是 `tests/unit/phone-ingest.test.ts` —— **由本張獨佔**。
+> WO-012 需要的 ingest 層圖片斷言請寫在 `tests/unit/image.test.ts`（可直接 import `ingestNotification`）。
