@@ -1,8 +1,32 @@
 import { afterEach, describe, expect, it } from 'vitest';
 import { Writable } from 'node:stream';
+import net from 'node:net';
 import { clearSecretsForTest, createLogger, registerSecret } from '../../src/logger.js';
 import { MAX_BODY_BYTES, startTriggerServer, type TriggerRequest, type TriggerServerHandle } from '../../src/worker/trigger-server.js';
 import { parseConfigObject } from '../../src/config/load.js';
+
+function rawHttp(port: number, requestLine: string): Promise<{ status: number; body: string }> {
+  return new Promise((resolve, reject) => {
+    const sock = net.connect({ host: '127.0.0.1', port }, () => {
+      sock.write(`${requestLine}\r\nHost: 127.0.0.1\r\nConnection: close\r\n\r\n`);
+    });
+    let buf = '';
+    sock.setEncoding('utf8');
+    const done = (status: number, body: string): void => {
+      sock.destroy();
+      resolve({ status, body });
+    };
+    sock.on('data', (c) => {
+      buf += c;
+    });
+    sock.on('end', () => {
+      const m = /^HTTP\/1\.\d (\d+)/.exec(buf);
+      done(m ? Number(m[1]) : 0, buf);
+    });
+    sock.on('error', reject);
+    setTimeout(() => done(0, 'timeout'), 2000);
+  });
+}
 
 const TOKEN = 'a'.repeat(32);
 const lines: string[] = [];
@@ -148,5 +172,28 @@ describe('poll_mode 設定驗證', () => {
     const c = parseConfigObject({ targets });
     expect(c.poll_mode).toBe('interval');
     expect(c.trigger.enabled).toBe(false);
+  });
+});
+
+describe('觸發伺服器：畸形 request target 不得結束程序', () => {
+  it('origin-form 與 absolute-form 畸形路徑一律 400，不帶 token，之後仍能正常觸發', async () => {
+    const uncaught: unknown[] = [];
+    const onUncaught = (e: unknown): void => {
+      uncaught.push(e);
+    };
+    process.on('uncaughtException', onUncaught);
+    try {
+      const s = await start(0);
+      for (const raw of ['//[', '//]', '//[::1', '//a%ZZ', '/\\', 'http://[']) {
+        const line = raw.startsWith('http') ? `GET ${raw} HTTP/1.1` : `GET ${raw} HTTP/1.1`;
+        expect((await rawHttp(s.port, line)).status, raw).toBe(400);
+      }
+      const ok = await fetch(`http://127.0.0.1:${s.port}/trigger?token=${TOKEN}&source=after`);
+      expect(ok.status).toBe(200);
+      expect(received).toHaveLength(1);
+    } finally {
+      process.off('uncaughtException', onUncaught);
+    }
+    expect(uncaught).toEqual([]);
   });
 });
