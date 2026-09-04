@@ -101,6 +101,20 @@ describe('對抗：假 FB／假 LINE 功能矩陣與邊界', () => {
     expect(ev.screenshot_path).toBeTruthy();
   });
 
+  it('時鐘快轉／回撥數小時：既有畫面 0 誤報', async () => {
+    const before = h.line.accepted.length;
+    h.clock.offsetMs = 3 * 3600 * 1000;
+    let s = await h.cycle();
+    expect(s.results.every((r) => r.eventsCreated === 0 && r.groupsUpdated === 0)).toBe(true);
+    h.clock.offsetMs = -2 * 3600 * 1000;
+    s = await h.cycle();
+    expect(s.results.every((r) => r.eventsCreated === 0 && r.groupsUpdated === 0)).toBe(true);
+    h.clock.offsetMs = 0;
+    s = await h.cycle();
+    expect(s.results.every((r) => r.eventsCreated === 0 && r.groupsUpdated === 0)).toBe(true);
+    expect(h.line.accepted.length).toBe(before);
+  });
+
   it('大量留言：能抓到的都去重；超出展開上限的視為已知限制而非誤報', async () => {
     const state = await h.fixture.control<{ posts: { id: number }[] }>('page', 'state');
     const postId = state.posts[0]!.id;
@@ -148,6 +162,36 @@ describe('對抗：空 feed 不得當成抽取失敗', () => {
   });
 });
 
+describe('對抗：空 DOM 不得當新貼文', () => {
+  let h: Harness;
+  beforeAll(async () => {
+    h = await setupHarness({ targets: ['page'] });
+    await h.cycle();
+  });
+  afterAll(async () => {
+    await h.close();
+  });
+
+  it('空白 HTML：不產生內容事件；恢復後不把舊貼文當新的', async () => {
+    const before = h.line.accepted.length;
+    await h.fixture.control('page', 'mode', { mode: 'blank' });
+    const first = await h.cycle();
+    expect(first.results[0]?.eventsCreated).toBe(0);
+    expect(['DEGRADED', 'EMPTY', 'NETWORK_ERROR', 'READY']).toContain(first.results[0]?.status);
+    const second = await h.cycle();
+    expect(second.results[0]?.eventsCreated).toBe(0);
+    const content = h.line.accepted.slice(before).filter((a) => {
+      const t = a.body.messages?.[0]?.text ?? '';
+      return t.includes('新貼文') || t.includes('已編輯') || t.includes('新留言');
+    });
+    expect(content).toHaveLength(0);
+    await h.fixture.control('page', 'mode', { mode: 'normal' });
+    const back = await h.cycle();
+    expect(back.results[0]?.eventsCreated).toBe(0);
+    expect(h.line.accepted.slice(before).filter((a) => (a.body.messages?.[0]?.text ?? '').includes('新貼文'))).toHaveLength(0);
+  });
+});
+
 describe('對抗：設定 fail-closed', () => {
   const targets = [{ key: 'a', name: 'A', type: 'facebook_page' as const, url: 'https://www.facebook.com/a' }];
 
@@ -162,6 +206,12 @@ describe('對抗：設定 fail-closed', () => {
     const c = parseConfigObject({ targets, images: { publisher: 'local_http' } });
     expect(() => validateSecrets(c, { publicBaseUrl: 'http://127.0.0.1:8787' }, { requireImages: true })).toThrow(/https/);
     expect(() => validateSecrets(c, { publicBaseUrl: 'https://img.example.test' }, { requireImages: true })).not.toThrow();
+  });
+
+  it('https 公開網址語法通過、http 與空值拒絕（運行期壞掉的 HTTPS 主機無法在假模式證明）', () => {
+    const c = parseConfigObject({ targets, images: { publisher: 'local_http' } });
+    expect(() => validateSecrets(c, { publicBaseUrl: 'https://127.0.0.1:1/not-a-real-image-host' }, { requireImages: true })).not.toThrow();
+    expect(() => validateSecrets(c, { publicBaseUrl: '' }, { requireImages: true })).toThrow(/https|PUBLIC_BASE_URL|環境/);
   });
 
   it('壞掉的 target URL 必須是 ConfigError，不得逸出 TypeError', () => {
