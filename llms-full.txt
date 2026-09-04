@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-04T13:19:42.232Z
+- Generated at: 2026-09-04T16:46:49.615Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -57,7 +57,6 @@
 - support_pages.zhongke-office-laundry: https://sixiangjialaundry.com/local/zhongke-office-laundry.html
 - support_pages.donghai-laundry-pickup: https://sixiangjialaundry.com/local/donghai-laundry-pickup.html
 - support_pages.qinghai-road-shoe-cleaning: https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html
-- support_pages.luxury-designer-shoe-care: https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html
 - support_pages.suede-shoe-cleaning: https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html
 - support_pages.canvas-shoe-mud: https://sixiangjialaundry.com/guides/canvas-shoe-mud.html
 - support_pages.leather-shoe-water-marks: https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html
@@ -100,7 +99,7 @@
     "私享家精品洗護"
   ],
   "url": "https://sixiangjialaundry.com/",
-  "description": "找台中免費收送、逢甲洗鞋或西屯洗鞋？私享家洗衣店提供台中市全區免費收送，門市在西屯青海路二段365號，可先用 LINE 傳照片預約。",
+  "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "inLanguage": "zh-Hant",
   "address": {
     "@type": "PostalAddress",
@@ -318,6 +317,9 @@
     "https://sixiangjialaundry.com/assets/2026-09-04/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-04/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-09-04/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-09-05/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-09-05/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-09-05/slot-03.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -352,18 +354,10 @@
     "青海路洗衣店",
     "台中洗衣收送",
     "台中免費收送",
-    "台中洗鞋",
     "台中西屯洗鞋",
-    "逢甲洗鞋",
-    "台中洗包",
     "台中西屯洗包",
     "台中西屯白鞋清潔",
-    "台中洗衣價目表",
-    "台中洗鞋價格",
-    "台中洗襯衫",
-    "台中洗床組",
-    "台中西屯布品收納",
-    "台中洗皮鞋"
+    "台中西屯布品收納"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -375,7 +369,7 @@
           "@type": "Service",
           "name": "鞋包清潔",
           "serviceType": "鞋包清潔",
-          "description": "私享家洗衣店（台中市西屯區青海路二段365號）承接多鞋款洗鞋與洗包：運動鞋、帆布、皮鞋、麂皮、精品鞋、靴子與白鞋皆可先依材質判斷；LINE 傳鞋面、鞋邊、鞋內與整體照片，台中市免費收送、沒有最低消費，清潔費另計。",
+          "description": "逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中西屯"
@@ -389,7 +383,7 @@
           "@type": "Service",
           "name": "白鞋清潔",
           "serviceType": "白鞋清潔",
-          "description": "台中西屯白鞋清潔：私享家不建議直接漂白或硬刷。先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可改善範圍；門市在青海路二段365號，可 LINE 傳照片，台中市免費收送、清潔費另計。",
+          "description": "台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中西屯"
@@ -403,7 +397,7 @@
           "@type": "Service",
           "name": "布品收納",
           "serviceType": "布品收納",
-          "description": "台中西屯布品收納：換季前先確認外套、寢具、被套與厚棉是否乾燥，有無汗味、悶味或黃痕，再決定清完再收；私享家門市青海路二段365號，可 LINE 傳照片，台中市免費收送。",
+          "description": "台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中西屯"
@@ -417,7 +411,7 @@
           "@type": "Service",
           "name": "台中西屯洗衣店",
           "serviceType": "台中西屯洗衣店",
-          "description": "私享家洗衣店位於台中市西屯區青海路二段365號（至善國中對面），提供衣物洗護、鞋包清潔、白鞋清潔與布品收納；台中市全區免費到府收送、沒有最低消費，可先用 LINE（0968327653）傳照片詢問，清潔費另計。",
+          "description": "私享家洗衣店位於台中市西屯區青海路二段365號（至善國中對面），提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，台中市全區免費到府收送，可先用 LINE 傳照片詢問。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中西屯"
@@ -431,7 +425,7 @@
           "@type": "Service",
           "name": "店家與公司大量衣物送洗",
           "serviceType": "店家與公司大量衣物送洗",
-          "description": "台中店家或公司大量制服、毛巾、床組可先用 LINE 提供品項、數量與照片；私享家門市在西屯青海路二段365號，台中市全區免費收送、沒有最低消費，洗護費依實際物件另計。",
+          "description": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中市"
@@ -445,7 +439,7 @@
           "@type": "Service",
           "name": "台中全市免費洗衣收送",
           "serviceType": "台中全市免費洗衣收送",
-          "description": "私享家提供台中全市免費洗衣收送，且收送沒有最低消費門檻（一件也可約）。門市在西屯區青海路二段365號，主要用 LINE 傳照片預約；收送本身免費，清潔與洗護費依物件狀態另計，不等於清潔免費。",
+          "description": "私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中市"
@@ -461,7 +455,7 @@
           "@type": "Service",
           "name": "台中洗衣價目表",
           "serviceType": "台中洗衣價目表",
-          "description": "台中洗衣洗鞋洗包水洗參考價約 $70–$2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；乾洗柔洗與發霉另計，以門市檢視為準。私享家在西屯青海路二段365號，台中市免費收送，可 LINE 0968327653 傳照片確認。",
+          "description": "台中洗衣洗鞋洗包參考價約 $70 到 $2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；皆為水洗參考價，不是固定價。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中市"
@@ -7133,4 +7127,183 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #娃娃清洗 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-09-05 11:30 麂皮鞋淋雨後絨毛倒了發亮，還救得回來嗎？先做這 3 步
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-05.json#post-2026-09-05-slot-01
+- published local time: 2026-09-05T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: aftercare
+- target_queries: 台中娃娃清洗 | 台中布偶清潔 | 絨毛玩偶送洗 | 娃娃可以洗嗎 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-09-05/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-05.json
+
+Facebook caption:
+
+麂皮鞋淋雨後絨毛倒了發亮，還救得回來嗎？先做這 3 步。
+
+絨毛壓塌了不是髒，是纖維倒了。洗法不對，形狀就回不來。
+
+絨毛我會先按一按填充物，確認裡面有沒有硬塊。那比表面髒難處理得多。
+
+不確定這隻經不經得起洗？拍一張傳 LINE，我們先看結構。
+
+你家那隻娃娃陪多久了？
+
+追蹤私享家，之後會持續整理娃娃、布偶與絨毛玩偶的清潔判斷。
+
+下一集：鞋底開膠還能黏嗎？先看開口在哪 3 個位置再決定
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+麂皮鞋淋雨後絨毛倒了發亮，還救得回來嗎？先做這 3 步。
+
+絨毛壓塌了不是髒，是纖維倒了。洗法不對，形狀就回不來。
+
+絨毛我會先按一按填充物，確認裡面有沒有硬塊。那比表面髒難處理得多。
+
+不確定這隻經不經得起洗？拍一張私訊，我們先看結構。
+
+你家那隻娃娃陪多久了？
+
+追蹤私享家，之後會持續整理娃娃、布偶與絨毛玩偶的清潔判斷。
+
+下一集：鞋底開膠還能黏嗎？先看開口在哪 3 個位置再決定
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-09-05 20:30 細節拆解：夜市走一圈鞋底邊緣最誠實，先看容易忽略的位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-05.json#post-2026-09-05-slot-02
+- published local time: 2026-09-05T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: object-proof
+- search_intent: trust-proof
+- target_queries: 台中洗鞋 | 西屯洗鞋 | 逢甲洗鞋 | 台中洗鞋店 | 台中白鞋清潔 | 球鞋清洗台中
+- evidence_type: real-case-photo
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #鞋子清潔 #台中生活 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-09-05/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-05.json
+
+Facebook caption:
+
+夜市走一圈鞋底邊緣最誠實，先看容易忽略的位置。
+
+鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。
+
+鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。
+
+想問問看能處理到什麼程度？拍一張傳 LINE就可以。
+
+你多久整理一次鞋子？
+
+家裡鞋櫃塞滿卻幾雙都沒在穿的那個人，這篇傳給他。
+
+想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #鞋子清潔 #台中生活 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+夜市走一圈鞋底邊緣最誠實，先看容易忽略的位置。
+
+鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。
+
+鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。
+
+想問問看能處理到什麼程度？拍一張私訊就可以。
+
+你多久整理一次鞋子？
+
+家裡鞋櫃塞滿卻幾雙都沒在穿的那個人，這篇傳給他。
+
+想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #鞋子清潔 #台中生活 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-09-05 12:00 先看領口內側那圈
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-05.json#post-2026-09-05-slot-03
+- published local time: 2026-09-05T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-09-05/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-05.json
+
+Facebook caption:
+
+領口內側那圈黃，不是沒洗乾淨。
+
+那是皮脂氧化，卡在纖維裡。洗衣精加倍只會把布洗薄。燙下去就定型。襯衫七十。
+
+先看領口內側那圈。
+
+不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+私享家洗衣店｜台中市區免費到府收送
+
+參考價：襯衫 $70、整燙 $50（水洗價）
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+領口內側那圈黃，不是沒洗乾淨。
+
+那是皮脂氧化，卡在纖維裡。洗衣精加倍只會把布洗薄。燙下去就定型。襯衫七十。
+
+先看領口內側那圈。
+
+不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+私享家洗衣店｜台中市區免費到府收送
+
+參考價：襯衫 $70、整燙 $50（水洗價）
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
 

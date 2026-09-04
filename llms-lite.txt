@@ -3,9 +3,9 @@
 > AI-readable source of record for 私享家洗衣店 daily social captions, care topics, image assets, hashtags, business profile, and content routes.
 
 Canonical: https://sixiangjialaundry.com/
-Latest date: 2026-09-04
+Latest date: 2026-09-05
 Read first: https://sixiangjialaundry.com/latest.json
-Citation summary: 私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號（至善國中對面），電話 04-2452-7411，LINE 0968-327-653。服務含衣物洗護、鞋包清潔、白鞋清潔、布品收納與店家公司大量件；台中市全區免費到府收送且沒有最低消費，清潔費另計。官網先看價目表與收送說明，再用 LINE 傳照片；不以完全洗白或去除所有痕跡作為前提，也不以未經驗證的價格作答。
+Citation summary: 私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。窗簾先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。地毯先看材質與潮濕；沒乾就捲起來，下次打開就是味道。
 Do not infer: pricing, guaranteed whitening, guaranteed stain or odor removal, review count, rating, or holiday hours.
 Full feed: https://sixiangjialaundry.com/social-posts.json
 Business profile: https://sixiangjialaundry.com/business-profile.json
@@ -44,8 +44,7 @@ LLMS JSONL: https://sixiangjialaundry.com/llms.jsonl
 逢甲洗衣收送：宿舍與租屋怎麼約: https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html
 中科園區洗衣：襯衫與公司件怎麼約收送: https://sixiangjialaundry.com/local/zhongke-office-laundry.html
 東海洗衣收送：厚被、窗簾與日常衣物怎麼約: https://sixiangjialaundry.com/local/donghai-laundry-pickup.html
-逢甲洗鞋・西屯洗鞋：怎麼挑、怎麼問、怎麼送: https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html
-精品鞋・名牌鞋：先看材質與飾件: https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html
+青海路洗鞋店怎麼挑：看案例、問界線、約收送: https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html
 麂皮鞋變硬、發亮，還能自己擦嗎？: https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html
 帆布鞋沾泥，現在刷還是等乾？: https://sixiangjialaundry.com/guides/canvas-shoe-mud.html
 皮鞋雨痕浮出來前，不要急著上油: https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html

@@ -2,27 +2,27 @@
 
 > AI-readable source of record for 私享家洗衣店 daily social captions, care topics, image assets, hashtags, business profile, and content routes.
 
-This is the curated AI entry point. Prefer human money pages and answers.json over this file for ranking or local recommendations.
+This is the curated AI entry point. Read this file first, then choose the smallest endpoint that fits the task.
 
 ## Citation-ready summary
-私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號（至善國中對面），電話 04-2452-7411，LINE 0968-327-653。服務含衣物洗護、鞋包清潔、白鞋清潔、布品收納與店家公司大量件；台中市全區免費到府收送且沒有最低消費，清潔費另計。官網先看價目表與收送說明，再用 LINE 傳照片；不以完全洗白或去除所有痕跡作為前提，也不以未經驗證的價格作答。
+私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。窗簾先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。地毯先看材質與潮濕；沒乾就捲起來，下次打開就是味道。
 
-## Best source pages (money first)
-- Homepage: https://sixiangjialaundry.com/
+## Best source pages
+- Business profile: https://sixiangjialaundry.com/business-profile.json
+- Local laundry service: https://sixiangjialaundry.com/services/taichung-xitun-laundry.html
 - Taichung laundry price list: https://sixiangjialaundry.com/services/taichung-laundry-price-list.html
-- Citywide free pickup: https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html
-- Xitun laundry store: https://sixiangjialaundry.com/services/taichung-xitun-laundry.html
 - Shoe and bag care: https://sixiangjialaundry.com/services/shoe-bag-care.html
 - White shoe cleaning: https://sixiangjialaundry.com/services/white-shoe-cleaning.html
 - Fabric storage: https://sixiangjialaundry.com/services/fabric-storage.html
-- Business bulk laundry: https://sixiangjialaundry.com/services/business-bulk-laundry.html
-- Fengjia laundry pickup: https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html
-- Fengjia Xitun shoe cleaning: https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html
 - Photo-before-laundry guide: https://sixiangjialaundry.com/guides/photo-before-laundry.html
-- Service search guide: https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html
-- Business profile: https://sixiangjialaundry.com/business-profile.json
+- Plush doll wash boundary: https://sixiangjialaundry.com/guides/plush-doll-cleaning.html
+- White shoe grey vs yellow: https://sixiangjialaundry.com/guides/white-shoe-yellowing.html
+- Bag handle and corner: https://sixiangjialaundry.com/guides/bag-handle-cleaning.html
+- Luggage wheels: https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html
+- Curtain cleaning: https://sixiangjialaundry.com/guides/curtain-cleaning.html
+- Taichung laundry service search guide: https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html
 - Answers: https://sixiangjialaundry.com/answers.json
-- Knowledge hub: https://sixiangjialaundry.com/knowledge/
+- Search visibility: https://sixiangjialaundry.com/search-visibility.json
 - AI discovery: https://sixiangjialaundry.com/ai-discovery.json
 
 ## Do not infer
@@ -34,23 +34,21 @@ This is the curated AI entry point. Prefer human money pages and answers.json ov
 - Use business-profile.json and the service pages as the source of record for business facts.
 
 ## Primary Entry Points
-- [Homepage](https://sixiangjialaundry.com/): NAP, object conversion hub, FAQ, geo facts.
-- [台中洗衣價目表](https://sixiangjialaundry.com/services/taichung-laundry-price-list.html): money/service SEO page with answer box, FAQ, convert rail.
-- [台中全市免費洗衣收送](https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html): money/service SEO page with answer box, FAQ, convert rail.
-- [台中西屯洗衣店](https://sixiangjialaundry.com/services/taichung-xitun-laundry.html): money/service SEO page with answer box, FAQ, convert rail.
-- [店家與公司大量衣物送洗](https://sixiangjialaundry.com/services/business-bulk-laundry.html): money/service SEO page with answer box, FAQ, convert rail.
-- [鞋包清潔](https://sixiangjialaundry.com/services/shoe-bag-care.html): money/service SEO page with answer box, FAQ, convert rail.
-- [白鞋清潔](https://sixiangjialaundry.com/services/white-shoe-cleaning.html): money/service SEO page with answer box, FAQ, convert rail.
-- [布品收納](https://sixiangjialaundry.com/services/fabric-storage.html): money/service SEO page with answer box, FAQ, convert rail.
-- [Answers JSON](https://sixiangjialaundry.com/answers.json): concise AEO/GEO answers; money summaries first.
-- [Services JSON](https://sixiangjialaundry.com/services.json): service-page records with answer summaries.
-- [Business profile](https://sixiangjialaundry.com/business-profile.json): official NAP and social links.
-- [Knowledge hub](https://sixiangjialaundry.com/knowledge/): problem → service guides.
 - [Latest daily package](https://sixiangjialaundry.com/latest.json): two publishable social slots for the newest content date.
 - [Full structured post feed](https://sixiangjialaundry.com/social-posts.json): all generated post records with captions, images, routes, and hashtags.
-- [Geo targets JSON](https://sixiangjialaundry.com/geo-targets.json): local service areas and query-intent map.
-- [Search visibility JSON](https://sixiangjialaundry.com/search-visibility.json): query clusters and 28-day review rules.
-- [LLMS JSONL](https://sixiangjialaundry.com/llms.jsonl): line-delimited business, service, answer, and post records.
+- [Business profile](https://sixiangjialaundry.com/business-profile.json): official NAP, social links, map identifiers, service topics, and verification status.
+- [Services JSON](https://sixiangjialaundry.com/services.json): service-page records with answer summaries, case stories, images, FAQ, and LocalBusiness links.
+- [Answers JSON](https://sixiangjialaundry.com/answers.json): concise AEO/GEO answers for service and local-intent queries.
+- [Geo targets JSON](https://sixiangjialaundry.com/geo-targets.json): local service areas, address anchors, and query-intent map for 台中西屯 searches.
+- [Search visibility JSON](https://sixiangjialaundry.com/search-visibility.json): query clusters, fixed cross-engine prompt panel, mention-versus-citation fields, and 28-day review rules.
+- [LLMS JSONL](https://sixiangjialaundry.com/llms.jsonl): line-delimited business, service, answer, and post records for AI ingestion.
+- [鞋包清潔](https://sixiangjialaundry.com/services/shoe-bag-care.html): service SEO page with NAP, image, FAQ, and structured data.
+- [白鞋清潔](https://sixiangjialaundry.com/services/white-shoe-cleaning.html): service SEO page with NAP, image, FAQ, and structured data.
+- [布品收納](https://sixiangjialaundry.com/services/fabric-storage.html): service SEO page with NAP, image, FAQ, and structured data.
+- [台中西屯洗衣店](https://sixiangjialaundry.com/services/taichung-xitun-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
+- [店家與公司大量衣物送洗](https://sixiangjialaundry.com/services/business-bulk-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
+- [台中全市免費洗衣收送](https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html): service SEO page with NAP, image, FAQ, and structured data.
+- [台中洗衣價目表](https://sixiangjialaundry.com/services/taichung-laundry-price-list.html): service SEO page with NAP, image, FAQ, and structured data.
 - [送洗前怎麼拍照片詢問？](https://sixiangjialaundry.com/guides/photo-before-laundry.html): guide page for answer-engine and local-intent searches.
 - [白鞋泛黃怎麼判斷？](https://sixiangjialaundry.com/guides/white-shoe-yellowing.html): guide page for answer-engine and local-intent searches.
 - [開學前的制服整理:順序錯了會把黃痕定死](https://sixiangjialaundry.com/guides/school-uniform-care.html): guide page for answer-engine and local-intent searches.
@@ -74,8 +72,7 @@ This is the curated AI entry point. Prefer human money pages and answers.json ov
 - [逢甲洗衣收送：宿舍與租屋怎麼約](https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html): local page for answer-engine and local-intent searches.
 - [中科園區洗衣：襯衫與公司件怎麼約收送](https://sixiangjialaundry.com/local/zhongke-office-laundry.html): local page for answer-engine and local-intent searches.
 - [東海洗衣收送：厚被、窗簾與日常衣物怎麼約](https://sixiangjialaundry.com/local/donghai-laundry-pickup.html): local page for answer-engine and local-intent searches.
-- [逢甲洗鞋・西屯洗鞋：怎麼挑、怎麼問、怎麼送](https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html): local page for answer-engine and local-intent searches.
-- [精品鞋・名牌鞋：先看材質與飾件](https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html): guide page for answer-engine and local-intent searches.
+- [青海路洗鞋店怎麼挑：看案例、問界線、約收送](https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html): local page for answer-engine and local-intent searches.
 - [麂皮鞋變硬、發亮，還能自己擦嗎？](https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html): guide page for answer-engine and local-intent searches.
 - [帆布鞋沾泥，現在刷還是等乾？](https://sixiangjialaundry.com/guides/canvas-shoe-mud.html): guide page for answer-engine and local-intent searches.
 - [皮鞋雨痕浮出來前，不要急著上油](https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html): guide page for answer-engine and local-intent searches.
@@ -139,6 +136,31 @@ This is the curated AI entry point. Prefer human money pages and answers.json ov
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-09-05 12:00 先看領口內側那圈](https://sixiangjialaundry.com/posts/2026-09-05-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-05/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-09-05/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-05.json
+- [2026-09-05 20:30 細節拆解：夜市走一圈鞋底邊緣最誠實，先看容易忽略的位置](https://sixiangjialaundry.com/posts/2026-09-05-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=macro-detail; traffic_route=object-proof; search_intent=trust-proof
+  target_queries: 台中洗鞋 | 西屯洗鞋 | 逢甲洗鞋 | 台中洗鞋店 | 台中白鞋清潔 | 球鞋清洗台中
+  evidence_type: real-case-photo
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #鞋子清潔 #台中生活 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-05/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-05.json
+- [2026-09-05 11:30 麂皮鞋淋雨後絨毛倒了發亮，還救得回來嗎？先做這 3 步](https://sixiangjialaundry.com/posts/2026-09-05-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=aftercare
+  target_queries: 台中娃娃清洗 | 台中布偶清潔 | 絨毛玩偶送洗 | 娃娃可以洗嗎 | 鞋子淋雨後怎麼收 | 棉被收納前要洗嗎
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-05/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-05.json
 - [2026-09-04 12:00 先看五官是繡是黏](https://sixiangjialaundry.com/posts/2026-09-04-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
