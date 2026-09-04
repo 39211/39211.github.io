@@ -8,7 +8,7 @@
   <url><loc>https://sixiangjialaundry.com/business-profile.json</loc><changefreq>daily</changefreq><!-- business-profile --></url>
   <url><loc>https://sixiangjialaundry.com/services.json</loc><changefreq>daily</changefreq><!-- service-records --></url>
   <url><loc>https://sixiangjialaundry.com/answers.json</loc><changefreq>daily</changefreq><!-- answer-engine-records --></url>
-  <url><loc>https://sixiangjialaundry.com/knowledge/</loc><lastmod>2026-09-03</lastmod><changefreq>daily</changefreq><!-- knowledge-hub --></url>
+  <url><loc>https://sixiangjialaundry.com/knowledge/</loc><lastmod>2026-09-04</lastmod><changefreq>daily</changefreq><!-- knowledge-hub --></url>
   <url><loc>https://sixiangjialaundry.com/geo-targets.json</loc><changefreq>daily</changefreq><!-- geo-target-records --></url>
   <url><loc>https://sixiangjialaundry.com/search-visibility.json</loc><changefreq>daily</changefreq><!-- search-intent-and-ai-visibility-review --></url>
   <url><loc>https://sixiangjialaundry.com/llms.jsonl</loc><changefreq>daily</changefreq><!-- line-delimited-ai-records --></url>
