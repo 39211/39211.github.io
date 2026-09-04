@@ -32,7 +32,7 @@ Flakiness：**4 次全綠，0 失敗，時長差 < 1 s**。既有 148 項在這�
 | 1（空牆過寬，resilience 連坐） | **174 pass / 4 fail / 178** | — | 骨架／noroles 被當成 READY；已收回。此輪不算綠 |
 | 2 | **178/178 PASS** | 561.29 s | 2026-09-04 19:46:09Z |
 
-第 3、4 輪在 30 分鐘 soak 之後重跑（見第 5 節後的附錄）。新增項含對抗矩陣、編輯留言、畸形 HTTP、假 JPEG／PNG 炸彈。
+之後又加了空 DOM／時鐘快轉／壞 HTTPS 語法 3 項（**181**）。soak 後全套見第 5.2 節。
 
 ---
 
@@ -71,6 +71,11 @@ Flakiness：**4 次全綠，0 失敗，時長差 < 1 s**。既有 148 項在這�
 | 登入牆／安全檢查／權限不足 | PASS（既有 resilience） | 冷卻內不重複警報 | — |
 | **編輯留言（預設路徑 P0）** | **修正後 PASS** | 0 | **修正前會永久漏；修正後連編三版都送到** |
 | **空 feed（0 貼文、feed 還在、從未有過貼文實體）** | **修正後 PASS**：空 baseline、不降級、之後第一則會通知 | 0 | 修正前會走 DEGRADED。若已有貼文實體再變成 0 則，仍當抽取失敗（骨架畫面測試依賴這條） |
+| 空白 HTML（無 feed、無 article） | PASS：0 內容事件；恢復後不把舊貼文當新的 | 0 | 0（會走抽取失敗／可能警報，不當新貼文） |
+| 時鐘快轉 +3h／回撥 −2h | PASS | 0 | — |
+| LINE 登入牆／checkpoint／permission | PASS（resilience） | 冷卻內不重複 | — |
+| `trigger.enabled=true` 無 token | PASS：`validateSecrets(..., {requireTrigger:true})` 拒絕 | — | — |
+| `publisher=none` vs 非 https 公開網址 | PASS：http／空值拒絕；`https://127.0.0.1:1/...` 語法通過 | — | 運行期壞掉的 HTTPS 主機無法在假模式證明 |
 
 已知且**這次故意不改**的產品行為：
 
@@ -94,13 +99,52 @@ Flakiness：**4 次全綠，0 失敗，時長差 < 1 s**。既有 148 項在這�
 
 ---
 
-## 5. 30 分鐘 soak
+## 5. 30 分鐘 soak（已跑完，不是口號）
 
 指令：`npm run soak -- --minutes 30 --json reports/soak-linux-20260905.json`  
-狀態：**見同目錄 JSON**（本段在 soak 跑完後更新）。
+牆鐘：2026-09-04 **19:56Z–20:30Z**（約 34 分鐘含收尾）。exit **0**。  
+原始數字：同目錄 `soak-linux-20260905.json`。
 
-預期（有預算覆寫之後）：gate 應量到產品行為，而不是 150 則日額度把後半段標死信。  
-soak 腳本本身仍會**打開** `trigger.enabled` 與 `phone_ingest.enabled`（與產品預設相反），用來壓這兩條路徑。預設關閉時這兩條不活。
+**這不是產品預設。** soak 會打開 `trigger.enabled` 與 `phone_ingest.enabled`（bind `127.0.0.1`），並把 `max_notifications_per_day` 設成 100000。產品預設是兩伺服器關、日額度 150、`poll_mode=interval`。
+
+| 項目 | 數字 |
+| --- | --- |
+| 輪次／target cycles | 30 輪／**552** cycles |
+| 重啟 | **6**（每 5 輪一次） |
+| mock LINE 接受 | **270**（events=deliveries=sent=270） |
+| trigger HTTP | 600（20 併發 × 30；只驗狀態碼，`onTrigger` 是 noop，**沒有**真的踢巡邏） |
+| phone ingest | accepted 30／duplicate 270（每輪同一則 ×10，必須 1 接受） |
+| 誤報 | **0** |
+| 錯誤 | **0** |
+| pending／dead letter／uncommitted | **0／0／0** |
+| 瀏覽器頁數最大 | 4（門檻 ≤6） |
+| RSS | 145.3 → 182.2 MiB（最大 182.2；門檻 +300） |
+| cycle 延遲 | p50 3.868 s／p95 6.063 s／p99 8.637 s／max 8.723 s |
+
+9／9 gate **PASS**。腳本的「至少跑滿指定時間」只檢查 `iterations > 0`，真正的牆鐘是上面那 34 分鐘，不是這個 gate。
+
+### 5.1 soak 之後殘留
+
+| 檢查 | 結果 |
+| --- | --- |
+| `headless_shell`／playwright／soak node | **0**（不是 zombie） |
+| `watcher.lock` | **0** |
+| soak 暫存目錄 `/tmp/fblw-soak-*` | 已刪（腳本預設清掉） |
+| `/tmp/fblw-lock-*` | soak 結束時 **7** 個空目錄；兩輪全套後 **9** 個。裡面 **0 個 lock 檔**。來自 `lock-ids.test.ts` 的 `mkdtempSync` 沒 `rmSync`，測試衛生問題，不是產品鎖洩漏 |
+
+soak **沒有**覆蓋編輯留言（那條在 `edited-comment.test.ts`，不在 soak 迴圈裡）。
+
+### 5.2 soak 後全套（含空 DOM／時鐘／壞 URL 語法）
+
+對抗子集先跑過：`adversarial` 14 + `edited-comment` 5 = **19/19 PASS**（215.56 s），含空白 HTML、時鐘快轉／回撥。全套數字：
+
+| 輪次 | 結果 | 時長 | 備註 |
+| --- | --- | --- | --- |
+| 對抗子集 | **19/19 PASS** | 215.56 s | 2026-09-04 20:30:44Z |
+| 全套 3 | **181/181 PASS** | 598.46 s | 2026-09-04 20:34:27Z |
+| 全套 4 | **181/181 PASS** | 597.12 s | 2026-09-04 20:46:27Z |
+
+Flakiness（修正後、含新對抗項）：**2 次全套全綠，時長差 < 2 s，0 失敗**。兩輪結束後 `headless_shell` = 0、`watcher.lock` = 0。
 
 ---
 
@@ -116,4 +160,4 @@ soak 腳本本身仍會**打開** `trigger.enabled` 與 `phone_ingest.enabled`�
 6. 40000×40000 PNG 在未修程式上的 OOM killer（這台沒有引爆）。
 7. soak 與產品預設同時開著 trigger／phone_ingest 的差異之外，**預設路徑的 30 分鐘巡邏**（只 interval、兩伺服器關閉）沒有單獨再跑一條。既有 soak 比較接近「功能全開的假模式」，不是使用者第一次試跑的設定。
 
-**結論：假模式比送進來時硬。真實 Facebook／LINE／Windows 仍然是沒做過。不要 GO。**
+**結論：假模式比送進來時硬（含 30 分鐘功能全開 soak、9／9 gate）。真實 Facebook／LINE／Windows 仍然是沒做過。不要 GO。**
