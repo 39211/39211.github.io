@@ -47,6 +47,7 @@ export function parseConfigObject(raw: unknown): AppConfig {
 export function resolveSecrets(config: AppConfig): Secrets {
   const s: Secrets = {
     triggerToken: readEnv(config.trigger.token_env),
+    phoneIngestToken: readEnv(config.phone_ingest.token_env),
     lineAccessToken: readEnv(config.line.access_token_env),
     lineChannelSecret: readEnv(config.line.channel_secret_env),
     lineDestinationId: readEnv(config.line.destination_id_env),
@@ -75,6 +76,8 @@ export interface LoadOptions {
   requireImages?: boolean;
   /** 需要觸發伺服器的 token（watch/trigger-url，且 trigger.enabled 為 true 時） */
   requireTrigger?: boolean;
+  /** 需要手機接收伺服器的 token（watch/phone-url，且 phone_ingest.enabled 為 true 時） */
+  requirePhoneIngest?: boolean;
 }
 
 export function loadConfig(opts: LoadOptions = {}): LoadedConfig {
@@ -113,6 +116,13 @@ export function validateSecrets(config: AppConfig, secrets: Secrets, opts: LoadO
       problems.push(`trigger.enabled 為 true，但缺少環境變數 ${config.trigger.token_env}（觸發用的密鑰，請用 npm run trigger-url 產生的隨機字串）`);
     } else if (secrets.triggerToken.length < 16) {
       problems.push(`${config.trigger.token_env} 太短（至少 16 個字元），請改用夠長的隨機字串`);
+    }
+  }
+  if (opts.requirePhoneIngest && config.phone_ingest.enabled) {
+    if (!secrets.phoneIngestToken) {
+      problems.push(`phone_ingest.enabled 為 true，但缺少環境變數 ${config.phone_ingest.token_env}（手機上傳用的密鑰，請用 npm run phone-url 產生）`);
+    } else if (secrets.phoneIngestToken.length < 16) {
+      problems.push(`${config.phone_ingest.token_env} 太短（至少 16 個字元），請改用夠長的隨機字串`);
     }
   }
   if (opts.requireImages) {

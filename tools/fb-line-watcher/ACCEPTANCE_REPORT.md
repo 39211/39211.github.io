@@ -1,6 +1,6 @@
 # 驗收報告（ACCEPTANCE_REPORT.md）
 
-日期：2026-09-03　版本：fb-line-watcher 0.2.0　adapter：`fb-web-2026.09-v1`
+日期：2026-09-04　版本：fb-line-watcher 0.3.0　adapter：`fb-web-2026.09-v1`
 
 ## 【實作結論】CONDITIONAL GO
 
@@ -15,6 +15,24 @@
 作法：一支閒置 Android 手機跑官方 Facebook App，MacroDroid 監看自己手機的通知並打一個家用區網內的網址，watcher 收到後才巡邏一次。Facebook 完全看不到手機端這段流程。效果：時間點不再是固定節奏，新貼文通知更快（數秒 vs. 最多 3 分鐘）。載入次數的降幅**不是固定保證值**：安全網巡邏次數固定（15 分鐘間隔＝96 次／天），觸發次數等於通過節流的手機通知數。典型情境（兩個來源合計一天 10～30 則動態）約 110～130 次／天，比 480 次少約 75%；但熱門社團若不調高 `trigger.min_interval_seconds`（上限為 86400÷該值），可能反而更多。算式與實測方式見 `PHONE_TRIGGER.md`。
 
 誠實限制：Facebook **不會**為「別人貼文底下的新留言」推播通知，因此 `poll_interval_seconds` 保留為安全網（建議 900 秒）用來補抓留言。實際效果是新貼文數秒到、留言最慢 15 分鐘到。詳見 `PHONE_TRIGGER.md`。
+
+---
+
+## 更新（2026-09-04，第三版）：新增純手機模式
+
+使用者提出「為什麼不乾脆全部在手機上做」。重新查證後，我原本的兩個反對理由有一個站不住：
+
+- **我原本說手機端只有像素、沒有結構——這是錯的。** Android 的通知本身就帶 `title`、`text` 與未截斷的 `bigText`，MacroDroid 的通知觸發器能直接讀取並用正規表達式過濾。也就是說「只有群主說話才通知」這件事在手機端就能篩掉，而且拿到的是文字而非像素。
+- **Facebook Android App 的 Litho 問題只在「導覽 App 內部」時成立。** 使用者提出的是截通知欄，不需要在 App 裡找元素，這個反對理由不適用。
+- 我原本擔心的 Android 14 截圖權限與螢幕常亮，使用者用「改用 Android 13 的閒置備用機、放家裡」解決，兩者都不再是問題。
+
+因此新增第三種模式 `phone_ingest`：手機把通知（與可選截圖）POST 到電腦，電腦負責去重、過濾、合併、發 LINE。`targets` 可留空，**電腦完全不連 Facebook**，唯一的 Facebook session 是手機上的官方 App。
+
+設計取捨：**文字是主路徑，截圖是可選加值。** 純文字 POST 不需要任何特殊權限一定會動；截圖需要 MediaProjection 或 ADB 授權，拿不到也不影響其他功能。MacroDroid 不支援 multipart，所以圖片以原始位元組當 body 傳送，接收端依 magic bytes 判斷。
+
+誠實限制：只抓得到 Facebook 有推播通知的內容。**別人貼文底下的新留言通常不會產生通知**，要完整覆蓋仍須併用瀏覽器巡邏。兩種模式可以並用，各自去重。
+
+未在真機驗證的項目已列在 `PHONE_INGEST.md` 末節（MacroDroid 魔術文字在真實 FB 通知上的實際內容、以檔案內容當 body 的實際行為、Android 13 截圖權限能否記住、FB 各類通知的樣式）。
 
 ---
 
@@ -71,8 +89,8 @@
 
 開發過程中修正的兩個真實問題（皆已加入回歸測試）：留言合併的等待時間原本從「巡邏開始時間」起算，導致巡邏耗時超過等待時間時同一輪就送出（改為從寫入當下起算）；以 `tsx` 執行時 esbuild 會在注入頁面的函式中插入 `__name` 輔助函式而在瀏覽器內報錯（已在每個分頁注入 no-op shim，並由 CLI 端對端測試覆蓋 `npm run probe` 路徑）。
 
-- unit：`npx vitest run tests/unit` → 10 個檔案、57 項全部通過（正規化、指紋、比對引擎、視覺 dHash 與雙重取樣、設定驗證、LINE 重試／額度／警報、日誌遮罩、單實例鎖、簽章、留言合併、觸發伺服器驗證與節流）。
-- integration（真實 Chromium + 假 Facebook + 假 LINE）：`npx vitest run tests/integration` → 6 個檔案、31 項全部通過（posts 8、comments 5、resilience 7、trigger 4、publisher 2、cli 5）。全套 `npx vitest run` 最終結果：**16 個檔案、88 項通過**，耗時 319 秒。
+- unit：`npx vitest run tests/unit` → 11 個檔案、74 項全部通過（正規化、指紋、比對引擎、視覺 dHash 與雙重取樣、設定驗證、LINE 重試／額度／警報、日誌遮罩、單實例鎖、簽章、留言合併、觸發伺服器驗證與節流）。
+- integration（真實 Chromium + 假 Facebook + 假 LINE + 模擬手機）：`npx vitest run tests/integration` → 7 個檔案、38 項全部通過（posts 8、comments 5、resilience 7、phone-ingest 7、trigger 4、publisher 2、cli 5）。全套 `npx vitest run` 最終結果：**18 個檔案、112 項通過**，耗時 323 秒。
 - fixture：`fixtures/server.ts` 模擬粉專與社團（巢狀 role=article、aria-labelledby、時間 aria-label、permalink、data-ad-preview、查看更多／更多留言／回覆 template、留言排序選單、隨機 class name），並可切換登入頁／安全檢查／權限不足／骨架載入／無 role 五種異常模式。
 - real Facebook canary：**未執行**（環境限制）。
 - LINE delivery：對假 LINE API 驗證 push 內容、retry key 冪等、500→成功、401 dead-letter、409、額度抑制；真實 LINE 未驗證。
@@ -104,6 +122,14 @@
 | T2 | 手機觸發後數秒內完成巡邏並發出 LINE | ✅ | 同上，實測 4.8 秒 |
 | T3 | 觸發 token 錯誤不會讓 watcher 動作，且 token 不進日誌 | ✅ | `tests/unit/trigger.test.ts`、`tests/integration/trigger.test.ts` |
 | T4 | 連續觸發有節流，不會重複巡邏 | ✅ | `tests/unit/trigger.test.ts` |
+| P1 | 零 target 時不啟動瀏覽器，純手機模式可運作 | ✅ | `tests/integration/phone-ingest.test.ts` |
+| P2 | 手機通知 → LINE，原文與全形標點未被竄改 | ✅ | 同上 |
+| P3 | 同一則通知重複送達不重複通知（去重視窗內） | ✅ | `tests/unit/phone-ingest.test.ts`、整合測試 |
+| P4 | 只通知指定發話者，其他人被擋且不入庫 | ✅ | 同上 |
+| P5 | 多則通知合併成一則 LINE 訊息 | ✅ | `tests/integration/phone-ingest.test.ts` |
+| P6 | 截圖以原始 body 上傳、存檔並附到 LINE 圖片訊息 | ✅ | 同上 |
+| P7 | 重啟後未送出的通知仍會送出，已送出的不重送 | ✅ | 同上 |
+| P8 | token 錯誤回 401、超量 body 回 413，token 不進日誌 | ✅ | `tests/unit/phone-ingest.test.ts` |
 | T5 | 觸發 body 有真正的位元組上限，超過回 413 且不觸發 | ✅ | `tests/unit/trigger.test.ts`（含未宣告 Content-Length 的串流情況） |
 | T6 | `setup.ps1` 對 npm／Playwright／icacls 檢查結束代碼，失敗不會被當成成功 | ✅（靜態） | `scripts/common.ps1` 的 `Invoke-Native`；CI 有 PowerShell 語法 gate，實際執行仍待真機 |
 

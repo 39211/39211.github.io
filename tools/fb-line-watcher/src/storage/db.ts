@@ -172,6 +172,22 @@ CREATE TABLE IF NOT EXISTS kv (
 );
 `,
   },
+  {
+    version: 2,
+    sql: `
+CREATE TABLE IF NOT EXISTS phone_notifications (
+  item_key TEXT PRIMARY KEY,
+  title TEXT,
+  body_text TEXT NOT NULL,
+  package_name TEXT,
+  posted_label TEXT,
+  image_path TEXT,
+  received_at TEXT NOT NULL,
+  batched INTEGER NOT NULL DEFAULT 0
+);
+CREATE INDEX IF NOT EXISTS idx_phone_received ON phone_notifications(received_at);
+`,
+  },
 ];
 
 export class Db {

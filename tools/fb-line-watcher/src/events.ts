@@ -57,6 +57,32 @@ export interface VisualEventPayload {
   detectedAt: string;
 }
 
+export interface PhoneNotificationItem {
+  /** 去重用的穩定識別碼 */
+  itemKey: string;
+  /** 通知標題，Facebook 通常放發文／留言者或社團名稱 */
+  title?: string;
+  /** 通知內文（優先使用未截斷的 bigText） */
+  text: string;
+  /** 手機上的通知時間（由手機端帶上，格式不保證） */
+  postedAtLabel?: string;
+  /** 來源 Android 套件 */
+  packageName?: string;
+  /** 這則通知是否附了截圖 */
+  hasImage: boolean;
+}
+
+export interface PhoneNotificationPayload {
+  kind: 'PHONE_NOTIFICATION';
+  items: PhoneNotificationItem[];
+  /** 因為超過每則上限而未列出的數量 */
+  omittedCount: number;
+  firstDetectedAt: string;
+  detectedAt: string;
+  /** 手機端來源標示，只用於文案 */
+  source: string;
+}
+
 export interface SystemAlertPayload {
   kind: 'SYSTEM_ALERT';
   severity: 'INFO' | 'WARN' | 'ERROR';
@@ -78,7 +104,14 @@ export interface TestPayload {
   text: string;
 }
 
-export type EventPayload = PostEventPayload | CommentsEventPayload | VisualEventPayload | SystemAlertPayload | HealthSummaryPayload | TestPayload;
+export type EventPayload =
+  | PostEventPayload
+  | CommentsEventPayload
+  | VisualEventPayload
+  | PhoneNotificationPayload
+  | SystemAlertPayload
+  | HealthSummaryPayload
+  | TestPayload;
 
 export interface EventDraft {
   eventKey: string;

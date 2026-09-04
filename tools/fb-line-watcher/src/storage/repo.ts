@@ -11,12 +11,12 @@ export type HealthStatus =
   | 'NETWORK_ERROR'
   | 'DISABLED';
 
-export type DetectionMode = 'STRUCTURED' | 'DEGRADED_VISUAL_MODE' | 'SYSTEM';
+export type DetectionMode = 'STRUCTURED' | 'DEGRADED_VISUAL_MODE' | 'PHONE_NOTIFICATION' | 'SYSTEM';
 export type EntityType = 'post' | 'comment' | 'reply';
 export type Completeness = 'COMPLETE_VISIBLE_SET' | 'PARTIAL_EXPANSION' | 'UNKNOWN';
 export type EventStatus = 'PENDING' | 'SENT' | 'DEAD_LETTER' | 'SUPPRESSED';
 export type DeliveryStatus = 'PENDING' | 'SENT' | 'FAILED_RETRYABLE' | 'DEAD_LETTER';
-export type EventType = 'NEW_POST' | 'EDITED_POST' | 'NEW_COMMENTS' | 'VISUAL_CHANGE' | 'SYSTEM_ALERT' | 'HEALTH_SUMMARY' | 'TEST';
+export type EventType = 'NEW_POST' | 'EDITED_POST' | 'NEW_COMMENTS' | 'VISUAL_CHANGE' | 'PHONE_NOTIFICATION' | 'SYSTEM_ALERT' | 'HEALTH_SUMMARY' | 'TEST';
 
 export interface TargetRow {
   target_key: string;
@@ -341,7 +341,7 @@ export function setEventStatus(db: Db, key: string, status: EventStatus): void {
 }
 
 export function listEventsByStatus(db: Db, status: EventStatus, limit = 200): EventRow[] {
-  return db.all<EventRow>('SELECT * FROM events WHERE status = ? ORDER BY created_at ASC LIMIT ?', status, limit);
+  return db.all<EventRow>('SELECT * FROM events WHERE status = ? ORDER BY created_at ASC, rowid ASC LIMIT ?', status, limit);
 }
 
 export function countEvents(db: Db, where: { status?: EventStatus; since?: string } = {}): number {
@@ -360,7 +360,8 @@ export function countEvents(db: Db, where: { status?: EventStatus; since?: strin
 }
 
 export function listRecentEvents(db: Db, limit = 20): EventRow[] {
-  return db.all<EventRow>('SELECT * FROM events ORDER BY created_at DESC LIMIT ?', limit);
+  // created_at 只到秒，同一秒內建立的事件需要 rowid 當決勝條件才有穩定順序
+  return db.all<EventRow>('SELECT * FROM events ORDER BY created_at DESC, rowid DESC LIMIT ?', limit);
 }
 
 // ---------- deliveries ----------

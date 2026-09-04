@@ -11,6 +11,7 @@ import { Watcher, runMaintenance } from './worker/scheduler.js';
 import { buildHealthReport, formatHealthReport } from './worker/health.js';
 import { startLineIdsServer } from './line/ids-server.js';
 import { lanAddresses, startTriggerServer, type TriggerServerHandle } from './worker/trigger-server.js';
+import { startPhoneIngestServer, type PhoneIngestHandle } from './worker/phone-ingest.js';
 import { enqueueEvent, processDeliveries } from './line/notifier.js';
 import { FacebookSurfaceAdapter } from './adapters/facebook.js';
 import { normalizePost } from './extract/fingerprint.js';
@@ -31,6 +32,7 @@ const HELP = `fb-line-watcher — Facebook 粉專／社團畫面監看 → 截�
        [--headless]          不顯示瀏覽器視窗
   watch [--headless]         常駐巡邏（Windows 排程器請用此命令）
   trigger-url                印出手機要打的觸發網址（搭配 poll_mode: triggered）
+  phone-url                  印出手機上傳通知／截圖的網址（搭配 phone_ingest）
   baseline [--target key]    重建現況 baseline（等同 once --baseline-only）
   resync [--target key]      Facebook 改版／adapter 更新後重新同步，不把舊內容當新事件
   probe [--target key]       診斷：印出畫面辨識結果與信心，並存截圖到 captures/diagnostics
@@ -81,10 +83,11 @@ async function cmdOnce(configPath: string | undefined, flags: { target?: string;
 }
 
 async function cmdWatch(configPath: string | undefined, flags: { headless?: boolean; notifyExisting?: boolean }): Promise<void> {
-  const app = await createApp({ configPath, requireLine: true, requireImages: true, requireTrigger: true });
+  const app = await createApp({ configPath, requireLine: true, requireImages: true, requireTrigger: true, requirePhoneIngest: true });
   const lock = acquireSingleInstanceLock(path.join(app.dataDir, 'watcher.lock'));
   const watcher = new Watcher(app);
   let triggerServer: TriggerServerHandle | undefined;
+  let phoneServer: PhoneIngestHandle | undefined;
   let closing = false;
   const shutdown = async (sig: string): Promise<void> => {
     if (closing) return;
@@ -96,7 +99,23 @@ async function cmdWatch(configPath: string | undefined, flags: { headless?: bool
   process.on('SIGINT', () => void shutdown('SIGINT'));
   process.on('SIGTERM', () => void shutdown('SIGTERM'));
   try {
-    await app.openBrowser({ headless: flags.headless });
+    if (app.config.targets.some((t) => t.enabled)) await app.openBrowser({ headless: flags.headless });
+    else print('目前沒有啟用任何瀏覽器 target，只以手機通知運作（電腦完全不連 Facebook）。');
+    if (app.config.phone_ingest.enabled) {
+      phoneServer = await startPhoneIngestServer({
+        db: app.db,
+        config: app.config.phone_ingest,
+        token: app.secrets.phoneIngestToken ?? '',
+        capturesDir: app.capturesDir,
+        timezone: app.config.timezone,
+        logger: app.logger,
+        now: () => app.clock.now(),
+        onAccepted: () => watcher.pokeProcessing(),
+      });
+      const hosts = lanAddresses();
+      print(`手機通知接收器已啟動：http://${hosts[0] ?? '<這台電腦的區網 IP>'}:${phoneServer.port}/phone/notify`);
+      print('（完整網址含 token 請執行 npm run phone-url）');
+    }
     if (app.config.trigger.enabled) {
       triggerServer = await startTriggerServer({
         port: app.config.trigger.port,
@@ -120,9 +139,49 @@ async function cmdWatch(configPath: string | undefined, flags: { headless?: bool
     await watcher.runLoop();
   } finally {
     await triggerServer?.close().catch(() => undefined);
+    await phoneServer?.close().catch(() => undefined);
     await app.close();
     lock.release();
   }
+}
+
+async function cmdPhoneUrl(configPath: string | undefined): Promise<void> {
+  await withApp({ configPath, logToFile: false }, async (app) => {
+    const cfg = app.config.phone_ingest;
+    if (!cfg.enabled) {
+      print('目前 targets.yaml 的 phone_ingest.enabled 為 false。要讓手機把 Facebook 通知送過來，請設定：');
+      print('');
+      print('  phone_ingest:');
+      print('    enabled: true');
+      print('    notify_authors: []        # 例：只收群主 → [\'林大明\']');
+      print('');
+    }
+    const token = app.secrets.phoneIngestToken;
+    if (!token) {
+      print(`還沒有設定 ${cfg.token_env}。請把下面這行加到 .env（這是剛剛產生的隨機密鑰）：`);
+      print('');
+      print(`  ${cfg.token_env}=${randomToken(24)}`);
+      print('');
+      print('存檔後再執行一次 npm run phone-url 就會印出完整網址。');
+      return;
+    }
+    const hosts = lanAddresses();
+    const host = hosts[0] ?? '<這台電腦的區網 IP>';
+    const base = `http://${host}:${cfg.port}/phone/notify`;
+    print('MacroDroid 的 HTTP 請求動作填這個網址（方法選 POST）：');
+    print('');
+    print(`  ${base}?token=${token}&title=[not_title]&text=[notification]&pkg=[not_app_package]`);
+    print('');
+    print('說明：');
+    print('  1. [not_title] 與 [notification] 是 MacroDroid 的魔術文字，長按 URL 欄位可插入。');
+    print('  2. 只傳文字就把 body 留空；要附截圖就把 body 設成「檔案內容」指向剛截好的圖片。');
+    print('     （MacroDroid 不支援 multipart，所以圖片是以原始位元組當 body 傳送，接收端已配合。）');
+    print(`  3. 目前設定：去重視窗 ${cfg.dedup_window_seconds} 秒、合併等待 ${cfg.debounce_seconds} 秒、單則最多列 ${cfg.max_items_per_message} 條。`);
+    if (cfg.notify_authors.length) print(`  4. 只通知這些發話者：${cfg.notify_authors.join('、')}`);
+    else print('  4. 目前不限發話者。要只收特定人，設定 phone_ingest.notify_authors。');
+    print(`  5. 健康檢查：用手機瀏覽器開 http://${host}:${cfg.port}/health 應該看到一行文字。`);
+    print('  6. 詳細步驟見 PHONE_INGEST.md。');
+  });
 }
 
 async function cmdTriggerUrl(configPath: string | undefined): Promise<void> {
@@ -315,6 +374,9 @@ async function main(argv: string[]): Promise<number> {
       return 0;
     case 'trigger-url':
       await cmdTriggerUrl(configPath);
+      return 0;
+    case 'phone-url':
+      await cmdPhoneUrl(configPath);
       return 0;
     case 'probe':
       await cmdProbe(configPath, { target: values.target, headless: values.headless });

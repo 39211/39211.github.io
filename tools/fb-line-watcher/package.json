@@ -1,6 +1,6 @@
 {
   "name": "fb-line-watcher",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "private": true,
   "description": "監看已授權登入帳號可見的 Facebook 粉絲專頁與社團畫面，偵測新貼文、貼文編輯、新留言與回覆後精準截圖，並透過 LINE Messaging API 通知（Facebook 端不使用任何 API）",
   "type": "module",
@@ -25,7 +25,8 @@
     "cleanup": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts cleanup",
     "fixture": "node --no-warnings=ExperimentalWarning --import tsx fixtures/server.ts",
     "start": "node --no-warnings=ExperimentalWarning dist/src/cli.js watch",
-    "trigger-url": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts trigger-url"
+    "trigger-url": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts trigger-url",
+    "phone-url": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts phone-url"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "3.1125.0",

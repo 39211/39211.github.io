@@ -75,7 +75,7 @@ export async function setupHarness(opts: HarnessOptions = {}): Promise<Harness> 
     ...opts.configOverrides,
     targets,
   });
-  const secrets: Secrets = { lineAccessToken: 'test-token-abcdef', lineDestinationId: `C${'a'.repeat(32)}`, publicBaseUrl: 'https://img.example.test', triggerToken: 't'.repeat(32) };
+  const secrets: Secrets = { lineAccessToken: 'test-token-abcdef', lineDestinationId: `C${'a'.repeat(32)}`, publicBaseUrl: 'https://img.example.test', triggerToken: 't'.repeat(32), phoneIngestToken: 'p'.repeat(32) };
   const clock = { offsetMs: 0, now: () => new Date(Date.now() + clock.offsetMs) };
   const logStream = createWriteStream(path.join(rootDir, 'test.log'), { flags: 'a' });
   const logger = createLogger({ stream: logStream, level: 'debug' });

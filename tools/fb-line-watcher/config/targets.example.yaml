@@ -65,6 +65,22 @@ images:
     key_prefix: fb-line-watcher/
     acl: none                         # none | public-read（AWS S3 需 public-read；R2 用 none）
 
+# 純手機模式：手機把 Facebook 通知（與可選截圖）POST 過來，電腦完全不連 Facebook。
+# 帳號風險最低，但只抓得到 Facebook 有推播通知的東西（別人貼文底下的留言通常不會通知）。
+# 開啟後 targets 可以留空。完整說明見 PHONE_INGEST.md。
+phone_ingest:
+  enabled: false
+  port: 8800
+  bind: 0.0.0.0
+  token_env: PHONE_INGEST_TOKEN
+  dedup_window_seconds: 600     # 這段時間內同一則通知只處理一次
+  debounce_seconds: 45          # 收到後等一下，把連續通知合併成一則 LINE 訊息
+  max_items_per_message: 10
+  notify_authors: []            # 例：['林大明'] 或 ['/^林/'] 只收群主說的話
+  ignore_authors: []
+  require_text_match: []        # 例：['聚會'] 內文要含關鍵字才通知
+  allowed_packages: [com.facebook.katana, com.facebook.lite]
+
 # 手機通知觸發伺服器（poll_mode: triggered 時必須開啟）
 trigger:
   enabled: false

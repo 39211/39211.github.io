@@ -25,6 +25,7 @@
 | 降級模式 | Facebook 改版導致辨識不到結構時，自動切成「畫面視覺比對」繼續告警，並明確標示 `DEGRADED_VISUAL_MODE` |
 | Windows 常駐 | 工作排程器登入後自動啟動、失敗自動重啟；單實例鎖避免重複 |
 | 手機通知觸發 | 用一支閒置 Android 手機當觸發器，只在真的有新內容時才去看 Facebook；降幅視動態量而定，典型情境約少 75%（見 `PHONE_TRIGGER.md`） |
+| 純手機模式 | 手機把 Facebook 通知直接送到電腦轉發 LINE，**電腦完全不連 Facebook**，帳號風險最低；代價是只抓得到有推播通知的內容（見 `PHONE_INGEST.md`） |
 
 | 做不到／風險（請務必知道） | 說明 |
 | --- | --- |
@@ -248,6 +249,32 @@ npm run trigger-url      # 產生密鑰並印出手機要打的網址
 
 ---
 
+## 7.6 另一條路：純手機模式（電腦完全不碰 Facebook）
+
+前面兩種模式都是電腦開瀏覽器去看 Facebook。還有第三種：**電腦完全不連 Facebook**，改由手機上的官方 App 收到通知後，把通知內容（和可選的截圖）POST 給電腦，電腦只負責去重、合併、發 LINE。
+
+這是帳號風險最低的做法——唯一的 Facebook session 是手機上的官方 App，行為完全正常，沒有任何自動化在跟 Facebook 互動。
+
+```yaml
+# config/targets.yaml
+targets: []                 # 不設 target，電腦就不會開瀏覽器
+phone_ingest:
+  enabled: true
+  notify_authors: ['林大明']  # 只收群主說的話
+```
+
+```powershell
+npm run phone-url           # 產生密鑰並印出手機要填的網址
+```
+
+**代價要看清楚**：只抓得到 Facebook 有推播通知的東西。粉專新貼文、社團新貼文會通知；但**別人貼文底下的新留言通常不會通知**，除非你有參與那則貼文。要完整的留言覆蓋，還是得靠瀏覽器巡邏。
+
+兩種可以並用：`targets` 照填、`phone_ingest.enabled` 也開，兩個來源各自去重、互不干擾。手機通知給你即時性，瀏覽器巡邏補齊留言。
+
+完整設定步驟見 **`PHONE_INGEST.md`**。
+
+---
+
 ## 8. 常駐（Windows 工作排程器）
 
 ```powershell
@@ -286,6 +313,7 @@ npm run trigger-url      # 產生密鑰並印出手機要打的網址
 | `npm run once [-- --target key] [-- --headless]` | 單次巡邏 |
 | `npm run watch [-- --headless]` | 常駐巡邏 |
 | `npm run trigger-url` | 產生／印出手機通知觸發用的網址與密鑰 |
+| `npm run phone-url` | 產生／印出純手機模式的上傳網址與密鑰 |
 | `npm run baseline` | 重建 baseline，不通知 |
 | `npm run resync` | 改版／更新 adapter 後重新同步，不把舊內容當新事件 |
 | `npm run probe [-- --target key]` | 診斷：印出辨識結果、存截圖與 JSON |
@@ -357,6 +385,7 @@ tools/fb-line-watcher/
 ├─ config/targets.example.yaml  設定範本
 ├─ docs/samples/                四種事件的範例截圖
 ├─ PHONE_TRIGGER.md             用手機通知觸發（降低帳號風險）
+├─ PHONE_INGEST.md              純手機模式（電腦完全不連 Facebook）
 ├─ SECURITY.md                  安全與隱私
 ├─ ADAPTER_MAINTENANCE.md       Facebook 改版後怎麼修
 └─ ACCEPTANCE_REPORT.md         驗收報告（測試證據、GO/NO-GO）

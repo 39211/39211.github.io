@@ -142,6 +142,18 @@ export function formatEventText(payload: EventPayload, config: AppConfig, opts: 
       lines.push(payload.sourceUrl);
       break;
     }
+    case 'PHONE_NOTIFICATION': {
+      const n = payload.items.length + payload.omittedCount;
+      lines.push(n === 1 ? '【Facebook 手機通知】' : `【Facebook 手機通知 ${n} 則】`);
+      for (const it of payload.items) {
+        const who = it.title ? `${it.title}：` : '';
+        lines.push(`・${who}${textPrefix(red(it.text), 100) || '（無文字）'}${it.hasImage ? '（附截圖）' : ''}`);
+      }
+      if (payload.omittedCount > 0) lines.push(`…另有 ${payload.omittedCount} 則未列出`);
+      lines.push(`偵測時間：${humanTime(payload.detectedAt, tz)}`);
+      lines.push('來源：手機 Facebook App 通知（非網頁巡邏）');
+      break;
+    }
     case 'VISUAL_CHANGE': {
       lines.push('【Facebook 畫面有變化】');
       lines.push(`來源：${payload.targetName}`);

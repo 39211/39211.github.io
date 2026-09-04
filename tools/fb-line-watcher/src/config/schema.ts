@@ -89,6 +89,32 @@ export const TriggerSchema = z.object({
   delay_seconds: z.number().int().min(0).max(300).default(8),
 });
 
+export const PhoneIngestSchema = z.object({
+  /**
+   * 手機把 Facebook 通知（與可選的截圖）POST 到這台電腦。
+   * 開啟後電腦完全不需要碰 Facebook，唯一的 FB session 是手機上的官方 App。
+   */
+  enabled: z.boolean().default(false),
+  port: z.number().int().min(1).max(65535).default(8800),
+  bind: z.string().default('0.0.0.0'),
+  token_env: z.string().default('PHONE_INGEST_TOKEN'),
+  /** 同一則通知在這段時間內重複送達視為重複，只處理一次 */
+  dedup_window_seconds: z.number().int().min(0).default(600),
+  /** 收到通知後等這麼久，把期間內的通知合併成一則 LINE 訊息；0 = 立即送出 */
+  debounce_seconds: z.number().int().min(0).default(45),
+  /** 一則合併通知最多列出幾條，超過的只記數量 */
+  max_items_per_message: z.number().int().min(1).max(50).default(10),
+  /** 截圖大小上限（位元組）。MacroDroid 不支援 multipart，圖片以原始 body 傳送 */
+  max_image_bytes: z.number().int().min(1024).default(8 * 1024 * 1024),
+  /** 只通知這些發話者（比對通知標題），空陣列 = 全部；支援 /正規表達式/ */
+  notify_authors: z.array(z.string()).default([]),
+  ignore_authors: z.array(z.string()).default([]),
+  /** 通知內文需符合才處理（空 = 不限）；支援 /正規表達式/ */
+  require_text_match: z.array(z.string()).default([]),
+  /** 只接受這些 Android 套件的通知，空 = 不限 */
+  allowed_packages: z.array(z.string()).default(['com.facebook.katana', 'com.facebook.lite']),
+});
+
 export const PathsSchema = z.object({
   data_dir: z.string().default('data'),
   captures_dir: z.string().default('captures'),
@@ -138,14 +164,22 @@ export const ConfigSchema = z
     target_cycle_timeout_ms: z.number().int().min(30000).default(180000),
     paths: PathsSchema.prefault({}),
     trigger: TriggerSchema.prefault({}),
+    phone_ingest: PhoneIngestSchema.prefault({}),
     browser: BrowserSchema.prefault({}),
     line: LineSchema.prefault({}),
     images: ImagesSchema.prefault({}),
     privacy: PrivacySchema.prefault({}),
     retention: RetentionSchema.prefault({}),
-    targets: z.array(TargetSchema).min(1, '至少要設定一個 target'),
+    targets: z.array(TargetSchema).default([]),
   })
   .superRefine((cfg, ctx) => {
+    if (cfg.targets.length === 0 && !cfg.phone_ingest.enabled) {
+      ctx.addIssue({
+        code: 'custom',
+        path: ['targets'],
+        message: '至少要設定一個 target；若要完全不用瀏覽器、只靠手機通知，請改設 phone_ingest.enabled: true',
+      });
+    }
     if (cfg.poll_mode === 'triggered' && !cfg.trigger.enabled) {
       ctx.addIssue({ code: 'custom', path: ['poll_mode'], message: 'poll_mode 為 triggered 時必須設定 trigger.enabled: true，否則沒有任何東西會觸發巡邏' });
     }
@@ -170,10 +204,12 @@ export type TargetConfig = z.infer<typeof TargetSchema>;
 export type BrowserConfig = z.infer<typeof BrowserSchema>;
 export type ImagesConfig = z.infer<typeof ImagesSchema>;
 export type LineConfig = z.infer<typeof LineSchema>;
+export type PhoneIngestConfig = z.infer<typeof PhoneIngestSchema>;
 
 /** 從環境變數解析出的秘密；只會在記憶體中存在 */
 export interface Secrets {
   triggerToken?: string;
+  phoneIngestToken?: string;
   lineAccessToken?: string;
   lineChannelSecret?: string;
   lineDestinationId?: string;

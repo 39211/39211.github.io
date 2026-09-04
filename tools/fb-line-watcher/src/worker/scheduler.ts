@@ -5,7 +5,7 @@ import { PageHolder, runTargetCycle, type CycleOptions, type CycleResult } from 
 import { enqueueEvent, processDeliveries, type DeliveryStats } from '../line/notifier.js';
 import { cleanupExpiredImages } from '../publish/publisher.js';
 import { deletePendingGroup, getTarget, kvGet, kvSet, listDuePendingGroups, updateTarget } from '../storage/repo.js';
-import type { CommentsEventPayload } from '../events.js';
+import type { CommentsEventPayload, PhoneNotificationItem, PhoneNotificationPayload } from '../events.js';
 import { addSeconds, localHour, sleep, toIsoWithOffset, toLocalDate } from '../util/time.js';
 import { sha256Hex } from '../util/hash.js';
 import { removeFilesOlderThan } from '../util/fs.js';
@@ -38,6 +38,69 @@ export function flushDueGroups(app: App): number {
     deletePendingGroup(app.db, g.group_key);
   }
   return n;
+}
+
+interface PhoneRow {
+  item_key: string;
+  title: string | null;
+  body_text: string;
+  package_name: string | null;
+  posted_label: string | null;
+  image_path: string | null;
+  received_at: string;
+}
+
+/**
+ * 把尚未送出的手機通知合併成一則事件。
+ *
+ * debounce_seconds 內若還有新通知進來就繼續等，讓一串通知合成一則 LINE 訊息；
+ * 設為 0 則每次都立即送出。
+ */
+export function flushPhoneNotifications(app: App, opts: { force?: boolean } = {}): number {
+  const cfg = app.config.phone_ingest;
+  if (!cfg.enabled) return 0;
+  const rows = app.db.all<PhoneRow>('SELECT item_key, title, body_text, package_name, posted_label, image_path, received_at FROM phone_notifications WHERE batched = 0 ORDER BY received_at ASC');
+  if (rows.length === 0) return 0;
+  const now = app.clock.now();
+  const newest = Math.max(...rows.map((r) => Date.parse(r.received_at)));
+  if (!opts.force && cfg.debounce_seconds > 0 && now.getTime() - newest < cfg.debounce_seconds * 1000) return 0;
+
+  const nowIso = toIsoWithOffset(now, app.config.timezone);
+  const shown = rows.slice(0, cfg.max_items_per_message);
+  const items: PhoneNotificationItem[] = shown.map((r) => ({
+    itemKey: r.item_key,
+    title: r.title ?? undefined,
+    text: r.body_text,
+    postedAtLabel: r.posted_label ?? undefined,
+    packageName: r.package_name ?? undefined,
+    hasImage: !!r.image_path,
+  }));
+  const payload: PhoneNotificationPayload = {
+    kind: 'PHONE_NOTIFICATION',
+    items,
+    omittedCount: Math.max(0, rows.length - shown.length),
+    firstDetectedAt: toIsoWithOffset(new Date(Date.parse(rows[0]!.received_at)), app.config.timezone),
+    detectedAt: nowIso,
+    source: 'phone',
+  };
+  // 一則 LINE 訊息只能帶一張圖，挑最後一則有截圖的
+  const withImage = [...rows].reverse().find((r) => r.image_path);
+  const eventKey = sha256Hex(`phone|${rows.map((r) => r.item_key).sort().join(',')}`);
+  app.db.transaction(() => {
+    enqueueEvent(app.notifier, {
+      eventKey,
+      targetKey: '_phone',
+      entityKey: null,
+      detectionMode: 'PHONE_NOTIFICATION',
+      payload,
+      screenshotPath: withImage?.image_path ?? null,
+      previewPath: withImage?.image_path ?? null,
+    });
+    const placeholders = rows.map(() => '?').join(',');
+    app.db.run(`UPDATE phone_notifications SET batched = 1 WHERE item_key IN (${placeholders})`, ...rows.map((r) => r.item_key));
+  });
+  app.logger.info({ items: rows.length, withImage: !!withImage }, '手機通知已合併並排入 LINE');
+  return rows.length;
 }
 
 export async function runMaintenance(app: App): Promise<void> {
@@ -122,6 +185,14 @@ export class Watcher {
     this.wakeSignal?.abort();
   }
 
+  /**
+   * 喚醒週期間的處理（合併、發送），但不觸發巡邏。
+   * 手機通知進來時呼叫，讓 LINE 不必等到下一個 15 秒 tick。
+   */
+  pokeProcessing(): void {
+    this.wakeSignal?.abort();
+  }
+
   /** 可被 requestImmediateCycle 或 stop 提早中斷的等待 */
   private async waitInterruptible(ms: number): Promise<void> {
     if (ms <= 0) return;
@@ -152,7 +223,8 @@ export class Watcher {
     const startedAt = toIsoWithOffset(app.clock.now(), app.config.timezone);
     const results: CycleResult[] = [];
     const skipped: string[] = [];
-    await app.openBrowser();
+    const needsBrowser = app.config.targets.some((t) => t.enabled && (!opts.onlyTarget || t.key === opts.onlyTarget));
+    if (needsBrowser) await app.openBrowser();
     for (const target of app.config.targets) {
       if (this.stopped) break;
       if (opts.onlyTarget && target.key !== opts.onlyTarget) continue;
@@ -181,6 +253,7 @@ export class Watcher {
       }
     }
     const flushedGroups = flushDueGroups(app);
+    flushPhoneNotifications(app);
     maybeEnqueueHealthSummary(app);
     const deliveries = opts.skipDeliveries ? { processed: 0, sent: 0, retried: 0, dead: 0, suppressed: 0 } : await processDeliveries({ ...app.notifier, client: app.client, publisher: app.publisher });
     this.cycles++;
@@ -220,7 +293,7 @@ export class Watcher {
         await this.waitInterruptible(Math.min(15000, Math.max(0, intervalMs - (Date.now() - started))));
         if (this.stopped || this.pending) break;
         try {
-          const flushed = flushDueGroups(app);
+          const flushed = flushDueGroups(app) + flushPhoneNotifications(app);
           const stats = await processDeliveries({ ...app.notifier, client: app.client, publisher: app.publisher });
           if (flushed || stats.processed) app.logger.debug({ flushed, stats }, '週期間處理');
         } catch (e) {
