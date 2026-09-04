@@ -3,6 +3,7 @@ import { networkInterfaces } from 'node:os';
 import { timingSafeEqual } from 'node:crypto';
 import type { Logger } from '../logger.js';
 import { truncate } from '../util/text.js';
+import { parseRequestTarget } from '../util/http-target.js';
 
 export interface TriggerRequest {
   /** 誰觸發的（MacroDroid 會帶 app 名稱或自訂字串） */
@@ -52,6 +53,11 @@ function tokenMatches(provided: string | undefined, expected: string): boolean {
   return timingSafeEqual(a, b);
 }
 
+function failClosed(res: http.ServerResponse, status: number, message: string): void {
+  if (!res.headersSent) res.writeHead(status, { 'Content-Type': 'text/plain; charset=utf-8' }).end(message);
+  else res.destroy();
+}
+
 /**
  * 觸發伺服器：手機收到 Facebook 通知時打這個網址，watcher 立刻巡邏一次。
  *
@@ -82,58 +88,76 @@ export function startTriggerServer(opts: TriggerServerOptions): Promise<TriggerS
   };
 
   const server = http.createServer((httpReq, httpRes) => {
-    const url = new URL(httpReq.url ?? '/', 'http://trigger.local');
-    if (httpReq.method !== 'GET' && httpReq.method !== 'POST') {
-      httpRes.writeHead(405, { 'Content-Type': 'text/plain; charset=utf-8' }).end('method not allowed');
-      return;
-    }
-    const declared = Number(httpReq.headers['content-length']);
-    if (Number.isFinite(declared) && declared > MAX_BODY_BYTES) {
-      httpRes.writeHead(413, { 'Content-Type': 'text/plain; charset=utf-8' }).end('payload too large');
-      httpReq.destroy();
-      return;
-    }
-    const chunks: Buffer[] = [];
-    let receivedBytes = 0;
-    let tooLarge = false;
-    httpReq.on('data', (c: Buffer) => {
-      if (tooLarge) return;
-      receivedBytes += c.length;
-      if (receivedBytes > MAX_BODY_BYTES) {
-        tooLarge = true;
-        chunks.length = 0;
+    try {
+      const parsed = parseRequestTarget(httpReq.url);
+      if (!parsed) {
+        failClosed(httpRes, 400, 'bad request');
+        return;
+      }
+      if (httpReq.method !== 'GET' && httpReq.method !== 'POST') {
+        httpRes.writeHead(405, { 'Content-Type': 'text/plain; charset=utf-8' }).end('method not allowed');
+        return;
+      }
+      const declared = Number(httpReq.headers['content-length']);
+      if (Number.isFinite(declared) && declared > MAX_BODY_BYTES) {
         httpRes.writeHead(413, { 'Content-Type': 'text/plain; charset=utf-8' }).end('payload too large');
         httpReq.destroy();
         return;
       }
-      chunks.push(c);
-    });
-    httpReq.on('end', () => {
-      if (tooLarge) return;
-      let body: Record<string, unknown> = {};
-      const raw = Buffer.concat(chunks).toString('utf8');
-      if (raw) {
-        try {
-          body = JSON.parse(raw) as Record<string, unknown>;
-        } catch {
-          body = {};
+      const chunks: Buffer[] = [];
+      let receivedBytes = 0;
+      let tooLarge = false;
+      httpReq.on('data', (c: Buffer) => {
+        if (tooLarge) return;
+        receivedBytes += c.length;
+        if (receivedBytes > MAX_BODY_BYTES) {
+          tooLarge = true;
+          chunks.length = 0;
+          failClosed(httpRes, 413, 'payload too large');
+          httpReq.destroy();
+        } else {
+          chunks.push(c);
         }
-      }
-      const pick = (k: string): string | undefined => {
-        const q = url.searchParams.get(k);
-        if (q) return q;
-        const v = body[k];
-        return typeof v === 'string' ? v : undefined;
-      };
-      const token = (httpReq.headers['x-trigger-token'] as string | undefined) ?? pick('token');
-      const result = handle(token, {
-        source: pick('source') ?? 'unknown',
-        targetKey: pick('target'),
-        text: pick('text'),
-        remoteAddress: httpReq.socket.remoteAddress ?? undefined,
       });
-      httpRes.writeHead(result.status, { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' }).end(result.message);
-    });
+      httpReq.on('end', () => {
+        if (tooLarge) return;
+        try {
+          let body: Record<string, unknown> = {};
+          const raw = Buffer.concat(chunks).toString('utf8');
+          if (raw) {
+            try {
+              body = JSON.parse(raw) as Record<string, unknown>;
+            } catch {
+              body = {};
+            }
+          }
+          const pick = (k: string): string | undefined => {
+            const q = parsed.searchParams.get(k);
+            if (q) return q;
+            const v = body[k];
+            return typeof v === 'string' ? v : undefined;
+          };
+          const token = (httpReq.headers['x-trigger-token'] as string | undefined) ?? pick('token');
+          const result = handle(token, {
+            source: pick('source') ?? 'unknown',
+            targetKey: pick('target'),
+            text: pick('text'),
+            remoteAddress: httpReq.socket.remoteAddress ?? undefined,
+          });
+          httpRes.writeHead(result.status, { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' }).end(result.message);
+        } catch (e) {
+          opts.logger.warn({ err: e }, '觸發伺服器處理請求時發生例外');
+          failClosed(httpRes, 500, 'error');
+        }
+      });
+    } catch (e) {
+      opts.logger.warn({ err: e }, '觸發伺服器處理請求時發生例外');
+      failClosed(httpRes, 500, 'error');
+    }
+  });
+  server.on('clientError', (_err, socket) => {
+    if (socket.writable) socket.end('HTTP/1.1 400 Bad Request\r\n\r\n');
+    else socket.destroy();
   });
 
   return new Promise((resolve, reject) => {
@@ -142,7 +166,15 @@ export function startTriggerServer(opts: TriggerServerOptions): Promise<TriggerS
       const addr = server.address();
       const port = typeof addr === 'object' && addr ? addr.port : opts.port;
       opts.logger.info({ port, bind: opts.bind, minIntervalMs: opts.minIntervalMs }, '觸發伺服器已啟動（等待手機通知）');
-      resolve({ port, handle, close: () => new Promise<void>((r) => server.close(() => r())) });
+      resolve({
+        port,
+        handle,
+        close: () =>
+          new Promise<void>((r) => {
+            server.closeAllConnections();
+            server.close(() => r());
+          }),
+      });
     });
   });
 }

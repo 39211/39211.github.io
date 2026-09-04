@@ -29,3 +29,24 @@ export const FAKE_PNG = Buffer.concat([Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d
 
 /** 合法開頭但中途截斷的 JPEG */
 export const TRUNCATED_JPEG = TINY_JPEG.subarray(0, 120);
+
+/** 68 bytes：合法 PNG 簽名 + IHDR 宣告 20000×20000。解碼前必須拒絕，否則 pngjs 會配出巨大緩衝。 */
+export const PNG_BOMB_HEADER = (() => {
+  const sig = Buffer.from([0x89, 0x50, 0x4e, 0x47, 0x0d, 0x0a, 0x1a, 0x0a]);
+  const ihdr = Buffer.alloc(25);
+  ihdr.writeUInt32BE(13, 0);
+  ihdr.write('IHDR', 4);
+  ihdr.writeUInt32BE(20_000, 8);
+  ihdr.writeUInt32BE(20_000, 12);
+  ihdr[16] = 8;
+  ihdr[17] = 2;
+  return Buffer.concat([sig, ihdr, Buffer.alloc(68 - 33, 0)]);
+})();
+
+/** 16 bytes：SOF0 宣告 length=2，寬高從段落外讀出。舊 parser 會當成 100×100 JPEG。 */
+export const JPEG_EMPTY_SOF = Buffer.from([0xff, 0xd8, 0xff, 0xc0, 0x00, 0x02, 0xde, 0x00, 0x64, 0x00, 0x64, 0xad, 0xbe, 0xef, 0xba, 0xad]);
+
+/** 21 bytes：合法 SOF0 宣告 1024×1024，之後直接結束、沒有 SOS。 */
+export const JPEG_HEADER_ONLY = Buffer.from([
+  0xff, 0xd8, 0xff, 0xc0, 0x00, 0x0b, 0x08, 0x04, 0x00, 0x04, 0x00, 0x01, 0x01, 0x11, 0x00, 0xff, 0xd9, 0x00, 0x00, 0x00, 0x00,
+]);

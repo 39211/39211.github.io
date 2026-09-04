@@ -161,7 +161,21 @@ export async function runTargetCycle(app: App, target: TargetConfig, holder: Pag
   }
 
   // ---- 登入／驗證／權限 ----
-  if (scan.health.status !== 'READY' && scan.health.status !== 'EMPTY') {
+  if (scan.health.status === 'EMPTY') {
+    // 空白畫面 ≠ 抽取器壞掉。完成／維持 baseline，等真的有貼文再通知。
+    const firstRun = targetRow.baseline_completed_at === null;
+    updateTarget(db, target.key, {
+      health_status: 'READY',
+      last_success_at: nowIso,
+      last_cycle_at: nowIso,
+      consecutive_failures: 0,
+      extractor_failures: 0,
+      last_error: null,
+      baseline_completed_at: targetRow.baseline_completed_at ?? nowIso,
+    });
+    return finish({ status: 'READY', mode: targetRow.detection_mode, baselineMode: firstRun, eventsCreated: 0, groupsUpdated: 0 });
+  }
+  if (scan.health.status !== 'READY') {
     const status: HealthStatus = scan.health.status === 'NETWORK_ERROR' ? 'NETWORK_ERROR' : scan.health.status;
     await saveDiagnostic(app, target, page, status).catch(() => undefined);
     updateTarget(db, target.key, { health_status: status, last_error: scan.health.markers.join(',').slice(0, 500), consecutive_failures: targetRow.consecutive_failures + 1 });
@@ -173,7 +187,8 @@ export async function runTargetCycle(app: App, target: TargetConfig, holder: Pag
   const posts: NormalizedPost[] = extract.posts.map((p) => normalizePost(p, adapter.catalog));
   const avgConfidence = avg(posts.map((p) => p.confidence));
   const commentCount = posts.reduce((n, p) => n + p.comments.length, 0);
-  const extractorFailed = posts.length === 0 || avgConfidence < 0.6;
+  // feed 在但 0 則貼文是空牆，不是 selector 壞掉
+  const extractorFailed = (posts.length === 0 && !extract.diagnostics.feedFound) || (posts.length > 0 && avgConfidence < 0.6);
   insertExtractorHealth(db, {
     targetKey: target.key,
     adapterVersion: ADAPTER_VERSION,

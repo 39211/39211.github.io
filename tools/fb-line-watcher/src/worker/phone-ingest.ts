@@ -8,6 +8,7 @@ import type { Logger } from '../logger.js';
 import { randomToken, sha256Hex } from '../util/hash.js';
 import { ensureDir } from '../util/fs.js';
 import { InvalidImageError, validateImage } from '../util/image.js';
+import { parseRequestTarget } from '../util/http-target.js';
 import { matchesAuthorRule } from '../util/text.js';
 import { toFileStamp, toLocalDate } from '../util/time.js';
 
@@ -216,64 +217,87 @@ export function startPhoneIngestServer(deps: PhoneIngestDeps): Promise<PhoneInge
     return { status: OK_STATUS[outcome.status], outcome };
   };
 
+  const failClosed = (res: http.ServerResponse, status: number, message: string): void => {
+    if (!res.headersSent) res.writeHead(status, { 'Content-Type': 'text/plain; charset=utf-8' }).end(message);
+    else res.destroy();
+  };
+
   const server = http.createServer((req, res) => {
-    const url = new URL(req.url ?? '/', 'http://phone.local');
-    if (req.method === 'GET' && url.pathname === '/health') {
-      res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' }).end('fb-line-watcher phone ingest OK');
-      return;
-    }
-    if (req.method !== 'GET' && req.method !== 'POST') {
-      res.writeHead(405, { 'Content-Type': 'text/plain; charset=utf-8' }).end('method not allowed');
-      return;
-    }
-    const declared = Number(req.headers['content-length']);
-    if (Number.isFinite(declared) && declared > deps.config.max_image_bytes) {
-      res.writeHead(413, { 'Content-Type': 'text/plain; charset=utf-8' }).end('payload too large');
-      req.destroy();
-      return;
-    }
-    const chunks: Buffer[] = [];
-    let received = 0;
-    let tooLarge = false;
-    req.on('data', (c: Buffer) => {
-      if (tooLarge) return;
-      received += c.length;
-      if (received > deps.config.max_image_bytes) {
-        tooLarge = true;
-        chunks.length = 0;
+    try {
+      const parsed = parseRequestTarget(req.url);
+      if (!parsed) {
+        failClosed(res, 400, 'bad request');
+        return;
+      }
+      if (req.method === 'GET' && parsed.pathname === '/health') {
+        res.writeHead(200, { 'Content-Type': 'text/plain; charset=utf-8' }).end('fb-line-watcher phone ingest OK');
+        return;
+      }
+      if (req.method !== 'GET' && req.method !== 'POST') {
+        res.writeHead(405, { 'Content-Type': 'text/plain; charset=utf-8' }).end('method not allowed');
+        return;
+      }
+      const declared = Number(req.headers['content-length']);
+      if (Number.isFinite(declared) && declared > deps.config.max_image_bytes) {
         res.writeHead(413, { 'Content-Type': 'text/plain; charset=utf-8' }).end('payload too large');
         req.destroy();
         return;
       }
-      chunks.push(c);
-    });
-    req.on('end', () => {
-      if (tooLarge) return;
-      const body = Buffer.concat(chunks);
-      const q = (k: string): string | undefined => url.searchParams.get(k) ?? undefined;
-      const token = (req.headers['x-phone-token'] as string | undefined) ?? q('token');
-      // body 是原始圖片位元組（MacroDroid 不支援 multipart）。
-      // 這裡不做 magic bytes 預判，交給 ingestNotification 的完整結構驗證處理。
-      const maybeImage = body.length > 0 ? body : null;
-      const result = handle(
-        token,
-        {
-          title: q('title'),
-          text: q('text') ?? q('body') ?? '',
-          packageName: q('pkg') ?? q('package'),
-          postedLabel: q('posted'),
-          clientKey: q('key'),
-        },
-        maybeImage,
-      );
-      res
-        .writeHead(result.status, { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' })
-        .end(
-          result.outcome.status === 'accepted' || result.outcome.status === 'duplicate'
-            ? result.outcome.status
-            : `${result.outcome.status}:${'reason' in result.outcome ? result.outcome.reason : ''}`,
-        );
-    });
+      const chunks: Buffer[] = [];
+      let received = 0;
+      let tooLarge = false;
+      req.on('data', (c: Buffer) => {
+        if (tooLarge) return;
+        received += c.length;
+        if (received > deps.config.max_image_bytes) {
+          tooLarge = true;
+          chunks.length = 0;
+          failClosed(res, 413, 'payload too large');
+          req.destroy();
+          return;
+        }
+        chunks.push(c);
+      });
+      req.on('end', () => {
+        if (tooLarge) return;
+        try {
+          const body = Buffer.concat(chunks);
+          const q = (k: string): string | undefined => parsed.searchParams.get(k) ?? undefined;
+          const token = (req.headers['x-phone-token'] as string | undefined) ?? q('token');
+          // body 是原始圖片位元組（MacroDroid 不支援 multipart）。
+          // 這裡不做 magic bytes 預判，交給 ingestNotification 的完整結構驗證處理。
+          const maybeImage = body.length > 0 ? body : null;
+          const result = handle(
+            token,
+            {
+              title: q('title'),
+              text: q('text') ?? q('body') ?? '',
+              packageName: q('pkg') ?? q('package'),
+              postedLabel: q('posted'),
+              clientKey: q('key'),
+            },
+            maybeImage,
+          );
+          res
+            .writeHead(result.status, { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' })
+            .end(
+              result.outcome.status === 'accepted' || result.outcome.status === 'duplicate'
+                ? result.outcome.status
+                : `${result.outcome.status}:${'reason' in result.outcome ? result.outcome.reason : ''}`,
+            );
+        } catch (e) {
+          deps.logger.warn({ err: e }, '手機接收伺服器處理請求時發生例外');
+          failClosed(res, 500, 'error');
+        }
+      });
+    } catch (e) {
+      deps.logger.warn({ err: e }, '手機接收伺服器處理請求時發生例外');
+      failClosed(res, 500, 'error');
+    }
+  });
+  server.on('clientError', (_err, socket) => {
+    if (socket.writable) socket.end('HTTP/1.1 400 Bad Request\r\n\r\n');
+    else socket.destroy();
   });
 
   return new Promise((resolve, reject) => {

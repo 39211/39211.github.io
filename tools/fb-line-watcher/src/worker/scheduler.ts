@@ -5,6 +5,7 @@ import { PageHolder, runTargetCycle, type CycleOptions, type CycleResult } from 
 import { enqueueEvent, processDeliveries, type DeliveryStats } from '../line/notifier.js';
 import { cleanupExpiredImages } from '../publish/publisher.js';
 import { deletePendingGroup, getTarget, kvGet, kvSet, listDuePendingGroups, updateTarget } from '../storage/repo.js';
+import { commentGroupEventKey } from '../detect/groups.js';
 import type { CommentsEventPayload, PhoneNotificationItem, PhoneNotificationPayload } from '../events.js';
 import { addSeconds, localHour, sleep, toIsoWithOffset, toLocalDate } from '../util/time.js';
 import { sha256Hex } from '../util/hash.js';
@@ -36,10 +37,10 @@ export function flushDueGroups(app: App): number {
     }
     try {
       payload.detectedAt = nowIso;
-      const itemKeys = payload.items.map((i) => i.entityKey).sort().join(',');
-      const eventKey = sha256Hex(`${g.target_key}|COMMENTS|${g.root_post_key}|${itemKeys}`);
-      enqueueEvent(app.notifier, { eventKey, targetKey: g.target_key, entityKey: g.root_post_key, detectionMode: 'STRUCTURED', payload, screenshotPath: g.screenshot_path, previewPath: g.preview_path });
-      n++;
+      const eventKey = commentGroupEventKey(g.target_key, g.root_post_key, payload.items);
+      const inserted = enqueueEvent(app.notifier, { eventKey, targetKey: g.target_key, entityKey: g.root_post_key, detectionMode: 'STRUCTURED', payload, screenshotPath: g.screenshot_path, previewPath: g.preview_path });
+      if (inserted) n++;
+      else app.logger.debug({ groupKey: g.group_key, eventKey }, 'pending group 事件已存在，略過（冪等）');
     } catch (e) {
       // 事件沒建立就不能刪除 pending group，否則這批留言永遠不會送出
       app.logger.error({ err: e, groupKey: g.group_key }, 'pending group 轉事件失敗，保留待下一輪重試');

@@ -28,6 +28,8 @@ export interface CommentItem {
   isReply: boolean;
   depth: number;
   permalink?: string;
+  /** 寫入 event_key 用；同一 entity 內容變更必須換成不同雜湊 */
+  contentHash?: string;
 }
 
 export interface CommentsEventPayload {
