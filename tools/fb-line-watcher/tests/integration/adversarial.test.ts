@@ -126,7 +126,7 @@ describe('對抗：空 feed 不得當成抽取失敗', () => {
     await h.close();
   });
 
-  it('feed 在、貼文 0：首次建立 baseline，不降級、不警報、不通知', async () => {
+  it('首次巡邏：feed 在、貼文 0 → 建立空 baseline，不降級、不警報、不通知', async () => {
     const s = await h.cycle();
     const r = s.results[0]!;
     expect(r.status).toBe('READY');
