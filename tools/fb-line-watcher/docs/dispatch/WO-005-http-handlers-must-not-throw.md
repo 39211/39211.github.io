@@ -45,6 +45,19 @@ TypeError: Invalid URL
 
 **注意**：舊的 payload `/%E0%A4%A` 在這裡不會觸發，這是另一類畸形。照抄 WO 之前那批測試抓不到。
 
+**補充向量（深審席二回報，規劃席已驗證）**：Node 的 HTTP parser 接受 **absolute-form** request target
+並原樣放進 `req.url`，所以下面這條同樣會炸，而且更像真實世界的 proxy 流量：
+
+```
+GET http://[ HTTP/1.1        -> new URL('http://[', base) THROWS -> exit 1
+```
+
+回歸測試**兩種都要測**：origin-form（`//[`）與 absolute-form（`http://[`）。
+
+> 深審席二認為本工單原先引用的向量是 `/%E0%A4%A`，這是誤讀 —— 本文件第 38 與 46 行一開始就
+> 明寫該 payload **不會**觸發。原始向量 `//[` 經規劃席以真實伺服器重現無誤。此註記僅為存證，
+> 不影響規格；`http://[` 是有價值的新增。
+
 一句話：`GET //[ HTTP/1.1` 送到區網上的觸發埠，watcher（瀏覽器 context、排程、LINE 補送佇列）全部結束。
 
 ## 附帶：同一結構的第二個洞（P1）
@@ -77,7 +90,7 @@ TypeError: Invalid URL
 
 **新增回歸測試**（`tests/unit/trigger.test.ts`、`tests/unit/phone-ingest.test.ts`），每個伺服器至少：
 
-1. 對 `//[`、`//]`、`//[::1`、`//a%ZZ`、`/\` 五種 raw target 各送一次 → **全部回 400**，且伺服器仍存活。
+1. 對 `//[`、`//]`、`//[::1`、`//a%ZZ`、`/\`、**`http://[`** 六種 raw target 各送一次 → **全部回 400**，且伺服器仍存活。
    必須用 `net.connect` 送 raw TCP，**不能用 `fetch`**（fetch 會先幫你正規化掉畸形路徑，測不到）。
 2. 上述請求**不帶 token** → 仍回 400（證明在 token 檢查之前擋下）。
 3. 送完之後 `/health`（phone-ingest）或一個正常帶 token 的請求（trigger）仍正常回應。

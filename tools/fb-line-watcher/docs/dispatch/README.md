@@ -53,12 +53,20 @@
 | WO-009 | 手機截圖直接當 LINE 預覽圖，超過 1MB 上限 | P1 | 待派 |
 | WO-010 | 發布中途失敗留下永久孤兒物件 | P2 | 待派 |
 | WO-011 | `safeParse` 對壞 URL 丟例外 | P2 | 待派 |
+| WO-012 | 圖片驗證本身的洞：68 bytes PNG 可 OOM 殺掉 watcher；16 bytes 垃圾存成 .jpg | **P0** + P1 | **最優先**，已實機重現 |
+| WO-013 | 手機 debounce 無最長等待上限；累積 >32766 列後永久卡死 | P1 + P2 | 待派 |
+| WO-014 | 時鐘回撥造成永久去重；指紋欄位邊界可位移 | P1 + P2 | 待派 |
 
 另見 `BACKLOG.md`：四項尚未成為工單的發現（B-1 建議併入 WO-007）。
 
 ## 派工順序與衝突
 
-- **WO-005 與 WO-006 是 P0，先派這兩張。** 兩張路徑不重疊，可並行。
+- **P0 共三張：WO-005、WO-006、WO-012。先派這三張。** 三張路徑不重疊，可並行。
+  - WO-005 動 `src/worker/trigger-server.ts` + `src/worker/phone-ingest.ts` 的 HTTP 層
+  - WO-006 動 `src/worker/scheduler.ts` 的 `flushDueGroups`
+  - WO-012 動 `src/util/image.ts`
+- WO-014 也動 `src/worker/phone-ingest.ts`，**與 WO-005 不可並行**（WO-005 先）。
+- WO-013 也動 `src/worker/scheduler.ts`，**與 WO-006 不可並行**（WO-006 先）。
 - WO-007 動 `diff.ts` / `target-worker.ts`，WO-006 動 `scheduler.ts`；語意上相關，**建議 WO-006 先合併再做 WO-007**。
 - WO-008 也動 `target-worker.ts`，**與 WO-007 不可並行**。
 - WO-001 與 WO-002 都動 `scripts/soak.ts`，依編號順序。
@@ -67,6 +75,20 @@
 
 ## 已知的過度宣稱（引以為戒）
 
-上一輪的 commit message 寫「`flushDueGroups()` 不再刪除事件建立失敗的 pending group」——
-實際上只擋了 `throw`，沒擋 `insertEvent` 回傳 `false`。WO-006 就是這個洞。
-寫交付說明時，**宣稱的範圍要等於實際驗證的範圍**。
+1. 上一輪的 commit message 寫「`flushDueGroups()` 不再刪除事件建立失敗的 pending group」——
+   實際上只擋了 `throw`，沒擋 `insertEvent` 回傳 `false`。WO-006 就是這個洞。
+2. 上一輪修 P0-1 只加固了三個 HTTP 伺服器裡的**一個**，而且剛好是唯一預設綁 loopback 的那個。
+   另外兩個預設對區網開放的完全沒碰。WO-005 就是這個洞。
+3. 上一輪新增 `src/util/image.ts` 是為了修「只看 magic bytes」，但它自己的 PNG 路徑
+   在解碼**之後**才檢查像素上限，JPEG 路徑在第一個 SOF 就回傳。WO-012 就是這個洞。
+
+共同教訓：**修一個缺陷時，要先問「同一類的還有幾個地方」**，以及
+**宣稱的範圍要等於實際驗證的範圍**。三次都是同一個錯誤模式。
+
+## 給複審席的提醒
+
+深審席二回報 WO-005 的重現向量寫錯（說是 `/%E0%A4%A`）—— 這是**誤讀**，
+WO-005 一開始就明寫該 payload 不會觸發。規劃席已實測確認原向量 `//[` 正確。
+但同一份回報帶來的 `http://[`（absolute-form）是有價值的新增，已補進 WO-005。
+
+**回報要驗證後再採信，包含來自其他深審席的回報。**
