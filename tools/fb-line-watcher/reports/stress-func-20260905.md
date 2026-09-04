@@ -9,9 +9,11 @@
 
 ---
 
-## 1. 基準 suite（未改碼）
+## 1. 基準 suite
 
 指令：`npm test`（vitest run，`fileParallelism: false`）
+
+### 1.1 未改碼（148 項）
 
 | 輪次 | 結果 | 時長 | 備註 |
 | --- | --- | --- | --- |
@@ -22,6 +24,15 @@
 
 Flakiness：**4 次全綠，0 失敗，時長差 < 1 s**。既有 148 項在這台 Linux VM 上穩定。  
 這不代表覆蓋足夠——下面獨立重現的洞，全部是在 148 全綠的情況下存在的。
+
+### 1.2 修正後（178 項，空牆邏輯收窄之後）
+
+| 輪次 | 結果 | 時長 | 備註 |
+| --- | --- | --- | --- |
+| 1（空牆過寬，resilience 連坐） | **174 pass / 4 fail / 178** | — | 骨架／noroles 被當成 READY；已收回。此輪不算綠 |
+| 2 | **178/178 PASS** | 561.29 s | 2026-09-04 19:46:09Z |
+
+第 3、4 輪在 30 分鐘 soak 之後重跑（見第 5 節後的附錄）。新增項含對抗矩陣、編輯留言、畸形 HTTP、假 JPEG／PNG 炸彈。
 
 ---
 
@@ -34,7 +45,7 @@ Flakiness：**4 次全綠，0 失敗，時長差 < 1 s**。既有 148 項在這�
 | `new URL('//[')` 等 6 種畸形 target | **P0（trigger／phone_ingest 開時）** | 6／6 丟 `Invalid URL`。`/%E0%A4%A` **不**丟（上一輪 payload 測不到這條） | 預設兩伺服器都關 |
 | 畸形 request 讓 callback 丟例外 | **P0（同上）** | raw TCP 腳本掛在「沒有回應」；`uncaughtException` 收集器一掛上，程序不退出但連線卡住。未掛收集器時 Node 對未捕捉例外是 exit 1 | 預設關閉 |
 | 編輯留言被同一把 event_key 吞掉 | **P0（預設活著）** | `flushDueGroups` 的 key 只含 entityKey 集合；`insertEvent` 是 `INSERT OR IGNORE`。回歸測試在修正前的語意下會漏第二則 | **活著**（debounce 0 或過了 debounce 都中） |
-| 空 feed 當成抽取失敗 | **P1** | `extractorFailed = posts.length === 0`；fixture 0 貼文仍有 `role=feed` → 連續失敗後 `DEGRADED_VISUAL_MODE` | 活著 |
+| 空 feed 當成抽取失敗 | **P1** | `extractorFailed = posts.length === 0`；fixture 0 貼文仍有 `role=feed` → 連續失敗後 `DEGRADED_VISUAL_MODE`。修正必須避開骨架／noroles（同樣是 0 則） | 活著 |
 | soak 預算 | **P2（腳本）** | `scripts/soak.ts` 未覆寫 `max_notifications_per_day`（預設 150）。30 分鐘會超過 → dead letter。這是壓測設定，不是產品日額度邏輯本身 | 只影響 `npm run soak` |
 
 **沒有在這台機器上引爆 20000×20000 PNG 解碼**（WO-012 規劃席測過 RSS 4.7 GB／event loop 卡 25 s）。原因：與正在跑的 148 項 suite 並行會把 VM 打掉。改成「IHDR 先檢查 + 100ms 計時斷言」，修正後該測試 20ms 內結束。
@@ -59,7 +70,7 @@ Flakiness：**4 次全綠，0 失敗，時長差 < 1 s**。既有 148 項在這�
 | 大量留言（20 則）去重 | PASS（抓到的不重複） | 0 | 超出展開上限視為已知限制 |
 | 登入牆／安全檢查／權限不足 | PASS（既有 resilience） | 冷卻內不重複警報 | — |
 | **編輯留言（預設路徑 P0）** | **修正後 PASS** | 0 | **修正前會永久漏；修正後連編三版都送到** |
-| **空 feed（0 貼文、feed 還在）** | **修正後 PASS**：baseline、不降級、第一則之後會通知 | 0 | 修正前會走 DEGRADED |
+| **空 feed（0 貼文、feed 還在、從未有過貼文實體）** | **修正後 PASS**：空 baseline、不降級、之後第一則會通知 | 0 | 修正前會走 DEGRADED。若已有貼文實體再變成 0 則，仍當抽取失敗（骨架畫面測試依賴這條） |
 
 已知且**這次故意不改**的產品行為：
 
@@ -75,7 +86,7 @@ Flakiness：**4 次全綠，0 失敗，時長差 < 1 s**。既有 148 項在這�
 | PNG 先讀 IHDR 再 `checkSize`，通過才解碼；JPEG SOF `length<8` 拒絕；必須走到 SOS＋entropy | 68-byte 殺程序級／假 JPEG 落地 | `tests/unit/image.test.ts`（含 100ms 炸彈斷言、`ingestNotification` 不落檔） |
 | `parseRequestTarget`；trigger／phone-ingest 整個 callback + `end` + `clientError` 包起來；`watch` 加 uncaughtException／unhandledRejection 後 exit 1 | 畸形 `GET //[`／`http://[` 結束 watcher | `http-target.test.ts`、trigger／phone-ingest raw TCP |
 | `commentGroupEventKey` 含 kind＋contentHash；同 entity 再出現覆寫而不是略過；`enqueueEvent` 回 false 不遞增 `flushedGroups` | 編輯留言永久漏報 | `comment-group-key.test.ts`、`edited-comment.test.ts` |
-| 空 feed／`health=EMPTY` 不當抽取失敗，會完成 baseline | 空牆誤降級 | `adversarial.test.ts` |
+| 從未見過貼文的空牆（feed 在、0 則、0 個 post entity）不當抽取失敗；已有實體的 0 則維持降級 | 空牆誤降級 vs 骨架誤 READY | `adversarial.test.ts`；既有 `resilience.test.ts` 骨架／noroles 必須仍綠 |
 | `superRefine` 的 `new URL` 包 try/catch | 打錯網址拿到堆疊 | `adversarial.test.ts` 設定段 |
 | soak `max_notifications_per_day: 100000` | 壓測被預算截斷 | 見第 5 節 |
 
