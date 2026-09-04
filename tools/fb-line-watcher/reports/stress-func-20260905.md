@@ -7,6 +7,13 @@
 分支：`cursor/stress-func-fake-8b7d`（從 PR #1 head `claude/facebook-screenshot-line-notify-tjq1s8` 分出）。  
 產品版本：fb-line-watcher 0.3.0。
 
+## 0. 直白結論（先看這個）
+
+- 假模式：**比送進來時硬**。基準 148×4 全綠；修正後 181×2 全綠；30 分鐘 soak 9／9 gate、0 誤報、0 錯、0 zombie browser、0 lock 檔。
+- 修正前預設路徑上**活著的 P0**：編輯留言被同一把 `event_key` 永久吞掉。已修，回歸綠。
+- 修正前預設關閉才活著的 P0：畸形 HTTP target 可弄死 trigger／phone-ingest；假 JPEG／未先查 IHDR 的 PNG 炸彈。預設關，一開就活。已修。
+- **不要 GO 真實 Facebook／LINE／Windows。** 那三條這次沒做。
+
 ---
 
 ## 1. 基準 suite
