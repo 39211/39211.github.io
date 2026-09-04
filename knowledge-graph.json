@@ -228,6 +228,7 @@
         "https://sixiangjialaundry.com/assets/2026-09-02/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-09-04/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-04/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-04/slot-03.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -10683,6 +10684,44 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-04/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-04/slot-02.png",
       "caption": "細節拆解：國慶連假行李鞋包整理，先看容易忽略的位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-03",
+      "headline": "2026-09-04 12:00 先看五官是繡是黏",
+      "text": "娃娃能洗，但洗法差很多。\n\n怕的不是水，是脫水。填充會結塊，五官會掉。手洗低溫烘，五官先固定，拍來報價。\n\n先看五官是繡是黏。\n\n家裡有不敢洗的娃娃？拍一張傳 LINE，我們先幫你看能不能洗。\n\n家裡有沒有那種一直想洗、又不太敢洗的娃娃？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：絨毛娃娃依大小報價，LINE 傳照片先估\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #娃娃清洗 #絨毛娃娃 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-09-04T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#娃娃清洗",
+        "#絨毛娃娃",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-04.json#post-2026-09-04-slot-03:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-04/slot-03.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-04/slot-03.png",
+      "caption": "先看五官是繡是黏",
       "inLanguage": "zh-Hant"
     }
   ]
