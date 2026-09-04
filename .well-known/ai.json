@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-09-04T01:53:05.323Z",
+  "generated_at": "2026-09-04T04:24:23.565Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -1956,8 +1956,10 @@
     "daily_article_policy": {
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
-      "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots and enter sitemap.xml, rss.xml and the posts hub; the rest stay noindex, follow.",
+      "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots, enter rss.xml and the posts hub; the human sitemap.xml lists money/service/guide URLs first and only the newest sitemap_max_indexable_posts thick articles so conversion pages are not buried.",
       "indexable_article_count": 125,
+      "sitemap_max_indexable_posts": 30,
+      "sitemap_indexable_post_count": 30,
       "article_count": 125
     },
     "homepage_archive_policy": {
