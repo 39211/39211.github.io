@@ -106,6 +106,13 @@ export const PhoneIngestSchema = z.object({
   max_items_per_message: z.number().int().min(1).max(50).default(10),
   /** 截圖大小上限（位元組）。MacroDroid 不支援 multipart，圖片以原始 body 傳送 */
   max_image_bytes: z.number().int().min(1024).default(8 * 1024 * 1024),
+  /** 截圖像素數上限（寬 × 高），防止解壓縮炸彈 */
+  max_image_pixels: z.number().int().min(10_000).default(40_000_000),
+  /**
+   * allowed_packages 非空時，若請求沒帶 package 欄位是否放行。
+   * 預設 false（fail-closed）；只有在確知手機端無法提供該欄位時才改為 true。
+   */
+  allow_missing_package: z.boolean().default(false),
   /** 只通知這些發話者（比對通知標題），空陣列 = 全部；支援 /正規表達式/ */
   notify_authors: z.array(z.string()).default([]),
   ignore_authors: z.array(z.string()).default([]),
@@ -156,6 +163,8 @@ export const ConfigSchema = z
     poll_interval_seconds: z.number().int().min(20).default(180),
     comment_debounce_seconds: z.number().int().min(0).default(60),
     extractor_failure_threshold: z.number().int().min(1).default(3),
+    /** 同一則內容連續截圖失敗幾次之後改送純文字通知（避免永遠卡在補送迴圈） */
+    capture_failure_fallback_threshold: z.number().int().min(1).default(3),
     visual_fallback_enabled: z.boolean().default(true),
     visual_confirm_after_seconds: z.number().int().min(0).default(45),
     /** dHash（256 bit）漢明距離超過此值視為畫面實質變化 */
@@ -189,11 +198,14 @@ export const ConfigSchema = z
         ctx.addIssue({ code: 'custom', path: ['targets', i, 'key'], message: `target key 重複：${t.key}` });
       }
       seen.add(t.key);
-      const host = new URL(t.url).hostname;
-      if (!/facebook\.com$/i.test(host) && !/^(localhost|127\.0\.0\.1)$/.test(host)) {
+      const host = new URL(t.url).hostname.toLowerCase();
+      // 必須比對主機名邊界，只用字串結尾會把 notfacebook.com、evilfacebook.com 也放行
+      const isFacebookHost = host === 'facebook.com' || host.endsWith('.facebook.com');
+      const isLocalHost = host === 'localhost' || host === '127.0.0.1';
+      if (!isFacebookHost && !isLocalHost) {
         ctx.addIssue({ code: 'custom', path: ['targets', i, 'url'], message: `url 必須是 facebook.com 網址：${t.url}` });
       }
-      if (t.type === 'facebook_group' && /facebook\.com$/i.test(host) && !/\/groups\//.test(new URL(t.url).pathname)) {
+      if (t.type === 'facebook_group' && isFacebookHost && !/\/groups\//.test(new URL(t.url).pathname)) {
         ctx.addIssue({ code: 'custom', path: ['targets', i, 'url'], message: `type 為 facebook_group 時 url 應包含 /groups/：${t.url}` });
       }
     });

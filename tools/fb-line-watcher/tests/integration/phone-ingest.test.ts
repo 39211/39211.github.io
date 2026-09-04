@@ -5,9 +5,10 @@ import { setupHarness, waitFor, type Harness } from './harness.js';
 import { startPhoneIngestServer, type PhoneIngestHandle } from '../../src/worker/phone-ingest.js';
 import { flushPhoneNotifications } from '../../src/worker/scheduler.js';
 import { listRecentEvents } from '../../src/storage/repo.js';
+import { TINY_JPEG } from '../../fixtures/images.js';
 
 const TOKEN = 'p'.repeat(32);
-const JPEG = Buffer.concat([Buffer.from([0xff, 0xd8, 0xff, 0xe0]), Buffer.alloc(3000, 0x41)]);
+const PKG = 'com.facebook.katana';
 
 async function freePort(): Promise<number> {
   return new Promise((resolve) => {
@@ -29,7 +30,7 @@ describe('純手機模式（無瀏覽器）', () => {
   let url: string;
 
   const post = async (params: Record<string, string>, body?: Buffer): Promise<Response> => {
-    const q = new URLSearchParams({ token: TOKEN, ...params }).toString();
+    const q = new URLSearchParams({ token: TOKEN, pkg: PKG, ...params }).toString();
     return fetch(`${url}?${q}`, { method: 'POST', ...(body ? { body } : {}) });
   };
 
@@ -103,7 +104,7 @@ describe('純手機模式（無瀏覽器）', () => {
 
   it('附截圖的通知：圖片存檔並成為事件的截圖', async () => {
     const before = h.line.accepted.length;
-    await post({ title: '林大明', text: '這則有附圖' }, JPEG);
+    await post({ title: '林大明', text: '這則有附圖' }, TINY_JPEG);
     expect(flushPhoneNotifications(h.app)).toBe(1);
     await h.deliver();
     expect(h.line.accepted).toHaveLength(before + 1);
@@ -113,6 +114,35 @@ describe('純手機模式（無瀏覽器）', () => {
     expect(ev.screenshot_path).toBeTruthy();
     expect(existsSync(ev.screenshot_path!)).toBe(true);
     expect(h.line.accepted[before]!.body.messages![0]!.text).toContain('（附截圖）');
+  });
+
+  // ---- 回歸（P0）：去重視窗到期後，同一則通知必須真的再送到 LINE 一次 ----
+  it('去重視窗到期後同一則通知會再送一次，視窗內則不會', async () => {
+    const body = { title: '林大明', text: '固定內容：明天公休' };
+    const before = h.line.accepted.length;
+
+    expect(await (await post(body)).text()).toBe('accepted');
+    expect(flushPhoneNotifications(h.app)).toBe(1);
+    await h.deliver();
+    expect(h.line.accepted).toHaveLength(before + 1);
+
+    // 視窗內重送 → duplicate，LINE 不變
+    expect(await (await post(body)).text()).toContain('duplicate');
+    expect(flushPhoneNotifications(h.app)).toBe(0);
+    await h.deliver();
+    expect(h.line.accepted).toHaveLength(before + 1);
+
+    // 時間推進超過 dedup_window_seconds（600 秒）→ 必須再送一次
+    h.clock.offsetMs += 601_000;
+    expect(await (await post(body)).text()).toBe('accepted');
+    expect(flushPhoneNotifications(h.app)).toBe(1);
+    await h.deliver();
+    expect(h.line.accepted).toHaveLength(before + 2);
+    expect(h.line.accepted[before + 1]!.body.messages![0]!.text).toContain('明天公休');
+
+    const sent = h.app.db.all<{ event_key: string }>("SELECT event_key FROM events WHERE payload_json LIKE '%明天公休%'");
+    expect(sent).toHaveLength(2);
+    expect(new Set(sent.map((e) => e.event_key)).size).toBe(2);
   });
 
   it('重啟後尚未送出的通知仍會送出，已送出的不重送', async () => {
@@ -127,6 +157,7 @@ describe('純手機模式（無瀏覽器）', () => {
     await h.deliver();
     expect(h.line.accepted).toHaveLength(before + 1);
   });
+
 });
 
 describe('純手機模式：只通知群主 + 附圖上傳到 LINE', () => {
@@ -167,13 +198,13 @@ describe('純手機模式：只通知群主 + 附圖上傳到 LINE', () => {
 
   it('路人的通知被擋掉，群主的通知附圖送到 LINE', async () => {
     const send = async (title: string, text: string, body?: Buffer): Promise<Response> =>
-      fetch(`${url}?${new URLSearchParams({ token: TOKEN, title, text }).toString()}`, { method: 'POST', ...(body ? { body } : {}) });
+      fetch(`${url}?${new URLSearchParams({ token: TOKEN, pkg: PKG, title, text }).toString()}`, { method: 'POST', ...(body ? { body } : {}) });
 
     expect(await (await send('路人甲', '路人留言')).text()).toContain('filtered');
     expect(flushPhoneNotifications(h.app)).toBe(0);
     expect(h.line.accepted).toHaveLength(0);
 
-    expect(await (await send('林大明', '群主說話了', JPEG)).text()).toBe('accepted');
+    expect(await (await send('林大明', '群主說話了', TINY_JPEG)).text()).toBe('accepted');
     expect(flushPhoneNotifications(h.app)).toBe(1);
     await h.deliver();
     await waitFor('LINE 收到附圖訊息', () => h.line.accepted.length === 1);

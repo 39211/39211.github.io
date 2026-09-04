@@ -57,6 +57,7 @@ export interface EntityRow {
   active: number;
   confirmed: number;
   known: number;
+  capture_failures: number;
 }
 
 export interface EventRow {
@@ -265,6 +266,16 @@ export function updateEntityContent(db: Db, key: string, contentHash: string, no
 export function setEntityFlags(db: Db, key: string, flags: { confirmed?: boolean; known?: boolean }): void {
   if (flags.confirmed !== undefined) db.run('UPDATE entities SET confirmed = ? WHERE entity_key = ?', flags.confirmed, key);
   if (flags.known !== undefined) db.run('UPDATE entities SET known = ? WHERE entity_key = ?', flags.known, key);
+}
+
+/** 截圖／存檔失敗時累加，回傳累加後的連續失敗次數 */
+export function bumpCaptureFailures(db: Db, key: string): number {
+  db.run('UPDATE entities SET capture_failures = capture_failures + 1 WHERE entity_key = ?', key);
+  return db.get<{ capture_failures: number }>('SELECT capture_failures FROM entities WHERE entity_key = ?', key)?.capture_failures ?? 0;
+}
+
+export function resetCaptureFailures(db: Db, key: string): void {
+  db.run('UPDATE entities SET capture_failures = 0 WHERE entity_key = ? AND capture_failures <> 0', key);
 }
 
 /** 對本輪沒看到、但上一輪有看到的實體累加 missing_count；連續 3 次以上標記為不活躍（不通知） */

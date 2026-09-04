@@ -25,15 +25,25 @@ export function flushDueGroups(app: App): number {
   const nowIso = toIsoWithOffset(app.clock.now(), app.config.timezone);
   let n = 0;
   for (const g of listDuePendingGroups(app.db, nowIso)) {
+    let payload: CommentsEventPayload;
     try {
-      const payload = JSON.parse(g.payload_json) as CommentsEventPayload;
+      payload = JSON.parse(g.payload_json) as CommentsEventPayload;
+    } catch (e) {
+      // payload 壞掉重試也不會好，只能丟棄
+      app.logger.error({ err: e, groupKey: g.group_key }, 'pending group payload 無法解析，已丟棄');
+      deletePendingGroup(app.db, g.group_key);
+      continue;
+    }
+    try {
       payload.detectedAt = nowIso;
       const itemKeys = payload.items.map((i) => i.entityKey).sort().join(',');
       const eventKey = sha256Hex(`${g.target_key}|COMMENTS|${g.root_post_key}|${itemKeys}`);
       enqueueEvent(app.notifier, { eventKey, targetKey: g.target_key, entityKey: g.root_post_key, detectionMode: 'STRUCTURED', payload, screenshotPath: g.screenshot_path, previewPath: g.preview_path });
       n++;
     } catch (e) {
-      app.logger.error({ err: e, groupKey: g.group_key }, 'pending group 轉事件失敗，已丟棄');
+      // 事件沒建立就不能刪除 pending group，否則這批留言永遠不會送出
+      app.logger.error({ err: e, groupKey: g.group_key }, 'pending group 轉事件失敗，保留待下一輪重試');
+      continue;
     }
     deletePendingGroup(app.db, g.group_key);
   }
@@ -41,7 +51,8 @@ export function flushDueGroups(app: App): number {
 }
 
 interface PhoneRow {
-  item_key: string;
+  occurrence_id: string;
+  content_fingerprint: string;
   title: string | null;
   body_text: string;
   package_name: string | null;
@@ -59,7 +70,7 @@ interface PhoneRow {
 export function flushPhoneNotifications(app: App, opts: { force?: boolean } = {}): number {
   const cfg = app.config.phone_ingest;
   if (!cfg.enabled) return 0;
-  const rows = app.db.all<PhoneRow>('SELECT item_key, title, body_text, package_name, posted_label, image_path, received_at FROM phone_notifications WHERE batched = 0 ORDER BY received_at ASC');
+  const rows = app.db.all<PhoneRow>('SELECT occurrence_id, content_fingerprint, title, body_text, package_name, posted_label, image_path, received_at FROM phone_notifications WHERE batched = 0 ORDER BY received_at ASC, occurrence_id ASC');
   if (rows.length === 0) return 0;
   const now = app.clock.now();
   const newest = Math.max(...rows.map((r) => Date.parse(r.received_at)));
@@ -68,7 +79,7 @@ export function flushPhoneNotifications(app: App, opts: { force?: boolean } = {}
   const nowIso = toIsoWithOffset(now, app.config.timezone);
   const shown = rows.slice(0, cfg.max_items_per_message);
   const items: PhoneNotificationItem[] = shown.map((r) => ({
-    itemKey: r.item_key,
+    itemKey: r.occurrence_id,
     title: r.title ?? undefined,
     text: r.body_text,
     postedAtLabel: r.posted_label ?? undefined,
@@ -85,7 +96,9 @@ export function flushPhoneNotifications(app: App, opts: { force?: boolean } = {}
   };
   // 一則 LINE 訊息只能帶一張圖，挑最後一則有截圖的
   const withImage = [...rows].reverse().find((r) => r.image_path);
-  const eventKey = sha256Hex(`phone|${rows.map((r) => r.item_key).sort().join(',')}`);
+  // 事件鍵由 occurrence id 組成，不是內容雜湊——同樣內容在去重窗到期後會有新的 occurrence，
+  // 因此能再次產生事件並送出，不會被 INSERT OR IGNORE 吞掉。
+  const eventKey = sha256Hex(`phone|${rows.map((r) => r.occurrence_id).sort().join(',')}`);
   app.db.transaction(() => {
     enqueueEvent(app.notifier, {
       eventKey,
@@ -97,7 +110,7 @@ export function flushPhoneNotifications(app: App, opts: { force?: boolean } = {}
       previewPath: withImage?.image_path ?? null,
     });
     const placeholders = rows.map(() => '?').join(',');
-    app.db.run(`UPDATE phone_notifications SET batched = 1 WHERE item_key IN (${placeholders})`, ...rows.map((r) => r.item_key));
+    app.db.run(`UPDATE phone_notifications SET batched = 1 WHERE occurrence_id IN (${placeholders})`, ...rows.map((r) => r.occurrence_id));
   });
   app.logger.info({ items: rows.length, withImage: !!withImage }, '手機通知已合併並排入 LINE');
   return rows.length;

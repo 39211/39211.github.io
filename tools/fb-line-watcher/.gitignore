@@ -19,3 +19,4 @@ config/targets.yaml
 # 測試暫存
 tests/.tmp/
 .vitest/
+soak-report.json

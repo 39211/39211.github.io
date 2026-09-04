@@ -263,7 +263,14 @@ export async function processDeliveries(deps: NotifierDeps): Promise<DeliverySta
         const original = await readFile(event.screenshot_path);
         const preview = event.preview_path ? await readFile(event.preview_path) : original;
         const expiresAtIso = toIsoWithOffset(addSeconds(now, deps.config.images.retention_hours * 3600), tz);
-        const pub = await deps.publisher.publish(original, preview, { ttlHours: deps.config.images.retention_hours, now, expiresAtIso });
+        const extOf = (p: string | null): '.jpg' | '.png' => (p && path.extname(p).toLowerCase() === '.png' ? '.png' : '.jpg');
+        const pub = await deps.publisher.publish(original, preview, {
+          ttlHours: deps.config.images.retention_hours,
+          now,
+          expiresAtIso,
+          originalExtension: extOf(event.screenshot_path),
+          previewExtension: extOf(event.preview_path ?? event.screenshot_path),
+        });
         if (pub) {
           urls = { original: pub.originalUrl, preview: pub.previewUrl };
           updateDelivery(deps.db, d.id, { published_original_url: pub.originalUrl, published_preview_url: pub.previewUrl, published_expires_at: pub.expiresAt });

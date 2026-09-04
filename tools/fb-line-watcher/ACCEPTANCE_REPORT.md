@@ -36,6 +36,41 @@
 
 ---
 
+## 更新（2026-09-04，第四版）：獨立驗證的 NO-GO 判定與修正
+
+一位獨立 agent 從 PR head `a5b84be` 建立隔離分支做對抗式驗證與 30 分鐘兩平台壓測，結論是
+**架構可行、壓測通過，但因為 7 項缺陷判定 NO-GO、必須維持 Draft**。這一版把 7 項全部修掉，
+每一項都補上會在修正前失敗的回歸測試。
+
+| # | 嚴重度 | 缺陷 | 修正 | 回歸測試 |
+| --- | --- | --- | --- | --- |
+| 1 | P0 | 畸形百分比路徑（`/%E0%A4%A`）讓 `decodeURIComponent` 丟 `URIError`，例外從 HTTP callback 逸出，整個 watcher 以 exit 1 結束 | 新增 `safeDecodeRequestName()`，整個 callback 包 try/catch，補 `clientError` 與 stream error handler；解析失敗回 400 | `tests/unit/local-http.test.ts`：5 種畸形路徑都回 400、不產生 `uncaughtException`、之後仍能正常供圖 |
+| 2 | P0 | `dedup_window_seconds` 到期後同一則手機通知回 `accepted`，卻因為事件鍵永遠等於內容雜湊而不會再送到 LINE | 資料表拆成 `content_fingerprint`（去重）與 `occurrence_id`（本次發生，事件鍵來源），migration v3 保留舊資料 | `tests/unit/phone-ingest.test.ts` 驗身分拆分；`tests/integration/phone-ingest.test.ts` 端到端驗「視窗內不送、視窗外真的再送一次」 |
+| 3 | P0 | `applyDiff()` 在交易中就把 `known` / content hash 前移，之後才截圖；截圖失敗只發警報，下一輪不會補送 → 永久漏報 | `applyDiff` 只回報變更並附 `PendingCommit`，呼叫端等 `enqueueEvent()` / `upsertPendingGroup()` 成功才 `commitChange()`；`known = 0` 的實體下一輪會重新偵測補送 | `tests/integration/capture-failure.test.ts` 三條故障注入（新貼文／貼文編輯／留言）＋ `tests/unit/diff.test.ts` 提交邊界 5 條 |
+| 4 | P1 | Android 套件 allowlist 在 `packageName` 缺失時 fail-open | 改為 fail-closed，要放行必須明確設 `allow_missing_package: true` | `tests/unit/phone-ingest.test.ts`：缺 `pkg` 回 `filtered:package_missing` |
+| 5 | P1 | 只看 magic bytes，204 bytes 的假 JPEG 被當成有效截圖寫進 captures | 新增 `src/util/image.ts` 真正解碼（PNG 走 pngjs、JPEG 逐段走 marker），限制像素與邊長，暫存檔後原子 rename；圖片無效仍保留通知文字 | `tests/unit/image.test.ts` 9 條（含驗證報告的 204 bytes 樣本、截斷 JPEG、假 PNG、解壓炸彈上限、專案內真實樣本） |
+| 6 | P1 | PNG 被存成 `.jpg`，發布器又固定宣告 `image/jpeg` | 副檔名由實際格式決定，`PublishOptions` 帶 `originalExtension` / `previewExtension`，local HTTP 與 S3 各自宣告正確 MIME | `tests/unit/local-http.test.ts`：PNG 回 `image/png`、JPEG 回 `image/jpeg`、原圖與預覽可不同格式 |
+| 7 | P2 | `/facebook\.com$/` 沒有主機名邊界，`notfacebook.com` 會被接受 | 改成 `host === 'facebook.com' \|\| host.endsWith('.facebook.com')` | `tests/unit/config.test.ts`：`notfacebook.com`、`evilfacebook.com`、`facebook.com.evil.tld` 等 6 個負例 |
+
+順帶修掉的兩個同性質問題：
+
+- `flushDueGroups()` 原本無論 `enqueueEvent()` 是否成功都刪掉 pending group，事件建立失敗時整批留言會消失。改成只有成功才刪；payload 壞掉才丟棄。
+- local HTTP 與手機接收伺服器關閉時沒有中斷 keep-alive 連線，`close()` 會卡到閒置逾時（測試中觀察到每次 4 秒）。加上 `closeAllConnections()`。
+
+截圖連續失敗的處理刻意分成兩段：**第一次失敗不送、下一輪補送**（滿足「不能漏報」），
+連續失敗達 `capture_failure_fallback_threshold`（預設 3）才改送**純文字事件**並提交，
+避免內容永遠卡在補送迴圈裡。兩段行為都有測試覆蓋。
+
+壓測改成可重跑的腳本 `scripts/soak.ts`（`npm run soak -- --minutes 30`），
+以及手動觸發的 workflow `fb-line-watcher-soak.yml`（Linux 與 Windows 各跑一次、產出 JSON 報告）。
+gate 為：0 錯誤、0 誤報、0 pending delivery、0 dead letter、event/delivery 數量一致、
+沒有未提交的偵測狀態殘留、瀏覽器頁數受控、記憶體無明顯成長。
+
+**仍未完成的現場驗證與第三版相同**：真實 Facebook DOM、真實 LINE 圖片抓取、MacroDroid → 家用 Wi-Fi → Windows 防火牆、
+真機 Android 通知欄位、Windows 工作排程器重開機自啟、24～48 小時 canary。PR 維持 Draft。
+
+---
+
 ## 採用方案
 
 以**方案 B（結構化偵測＋精準截圖）為主、方案 A（視覺比對）為降級模式**，兩者合併於同一個程式：
@@ -89,8 +124,9 @@
 
 開發過程中修正的兩個真實問題（皆已加入回歸測試）：留言合併的等待時間原本從「巡邏開始時間」起算，導致巡邏耗時超過等待時間時同一輪就送出（改為從寫入當下起算）；以 `tsx` 執行時 esbuild 會在注入頁面的函式中插入 `__name` 輔助函式而在瀏覽器內報錯（已在每個分頁注入 no-op shim，並由 CLI 端對端測試覆蓋 `npm run probe` 路徑）。
 
-- unit：`npx vitest run tests/unit` → 11 個檔案、74 項全部通過（正規化、指紋、比對引擎、視覺 dHash 與雙重取樣、設定驗證、LINE 重試／額度／警報、日誌遮罩、單實例鎖、簽章、留言合併、觸發伺服器驗證與節流）。
-- integration（真實 Chromium + 假 Facebook + 假 LINE + 模擬手機）：`npx vitest run tests/integration` → 7 個檔案、38 項全部通過（posts 8、comments 5、resilience 7、phone-ingest 7、trigger 4、publisher 2、cli 5）。全套 `npx vitest run` 最終結果：**18 個檔案、112 項通過**，耗時 323 秒。
+- unit：`npx vitest run tests/unit` → 13 個檔案、95 項全部通過（正規化、指紋、比對引擎與提交邊界、視覺 dHash 與雙重取樣、設定驗證與 facebook 主機名邊界、LINE 重試／額度／警報、日誌遮罩、單實例鎖、簽章、留言合併、觸發伺服器驗證與節流、圖片解碼驗證、本機圖片伺服器畸形請求與 MIME）。
+- integration（真實 Chromium + 假 Facebook + 假 LINE + 模擬手機）：`npx vitest run tests/integration` → 8 個檔案、53 項全部通過（posts 8、capture-failure 4、comments 5、resilience 7、phone-ingest 8、trigger 4、publisher 2、cli 5）。全套 `npx vitest run` 最終結果：**21 個檔案、148 項通過**，耗時 391 秒（第三版為 112 項；本輪只新增測試，沒有刪除或放寬任何既有斷言）。
+- 長時間壓測：`npm run soak -- --minutes 30`，Linux 與 Windows 各跑滿一次（workflow `fb-line-watcher soak`，產出 `soak-report.json`）。
 - fixture：`fixtures/server.ts` 模擬粉專與社團（巢狀 role=article、aria-labelledby、時間 aria-label、permalink、data-ad-preview、查看更多／更多留言／回覆 template、留言排序選單、隨機 class name），並可切換登入頁／安全檢查／權限不足／骨架載入／無 role 五種異常模式。
 - real Facebook canary：**未執行**（環境限制）。
 - LINE delivery：對假 LINE API 驗證 push 內容、retry key 冪等、500→成功、401 dead-letter、409、額度抑制；真實 LINE 未驗證。

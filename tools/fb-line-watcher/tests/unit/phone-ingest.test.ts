@@ -6,7 +6,8 @@ import os from 'node:os';
 import { Db } from '../../src/storage/db.js';
 import { createLogger, clearSecretsForTest, registerSecret } from '../../src/logger.js';
 import { PhoneIngestSchema } from '../../src/config/schema.js';
-import { deriveItemKey, ingestNotification, normalizeNotificationText, startPhoneIngestServer, type PhoneIngestDeps, type PhoneIngestHandle } from '../../src/worker/phone-ingest.js';
+import { deriveContentFingerprint, ingestNotification, normalizeNotificationText, startPhoneIngestServer, type PhoneIngestDeps, type PhoneIngestHandle } from '../../src/worker/phone-ingest.js';
+import { FAKE_JPEG, FAKE_PNG, TINY_JPEG, tinyPng } from '../../fixtures/images.js';
 
 const TOKEN = 'p'.repeat(32);
 const lines: string[] = [];
@@ -17,8 +18,7 @@ const sink = new Writable({
   },
 });
 
-// 最小的合法 JPEG 標頭，讓伺服器把 body 認成圖片
-const JPEG = Buffer.concat([Buffer.from([0xff, 0xd8, 0xff, 0xe0]), Buffer.alloc(200, 0x41)]);
+const PKG = 'com.facebook.katana';
 
 let db: Db;
 let dir: string;
@@ -60,17 +60,17 @@ describe('通知文字正規化與識別碼', () => {
     expect(normalizeNotificationText('  林大明\u200b 說：  這週六   聚會 \n\n  記得帶鞋  ')).toBe('林大明 說： 這週六 聚會\n記得帶鞋');
   });
   it('全形與半形標點視為同一則通知（比對時才做 NFKC）', () => {
-    expect(deriveItemKey({ title: 'A', text: '公告：聚會' })).toBe(deriveItemKey({ title: 'A', text: '公告:聚會' }));
+    expect(deriveContentFingerprint({ title: 'A', text: '公告：聚會' })).toBe(deriveContentFingerprint({ title: 'A', text: '公告:聚會' }));
   });
   it('相同內容得到相同識別碼，內容或標題不同則不同', () => {
     const a = { title: '林大明', text: '聚會', packageName: 'com.facebook.katana' };
-    expect(deriveItemKey(a)).toBe(deriveItemKey({ ...a, text: ' 聚會 ' }));
-    expect(deriveItemKey(a)).not.toBe(deriveItemKey({ ...a, text: '取消' }));
-    expect(deriveItemKey(a)).not.toBe(deriveItemKey({ ...a, title: '陳美玲' }));
+    expect(deriveContentFingerprint(a)).toBe(deriveContentFingerprint({ ...a, text: ' 聚會 ' }));
+    expect(deriveContentFingerprint(a)).not.toBe(deriveContentFingerprint({ ...a, text: '取消' }));
+    expect(deriveContentFingerprint(a)).not.toBe(deriveContentFingerprint({ ...a, title: '陳美玲' }));
   });
   it('手機端提供 clientKey 時以它為準', () => {
-    const k = deriveItemKey({ text: 'x', clientKey: 'abc' });
-    expect(k).toBe(deriveItemKey({ text: '完全不同的內容', clientKey: 'abc' }));
+    const k = deriveContentFingerprint({ text: 'x', clientKey: 'abc' });
+    expect(k).toBe(deriveContentFingerprint({ text: '完全不同的內容', clientKey: 'abc' }));
   });
 });
 
@@ -100,16 +100,16 @@ describe('ingestNotification', () => {
 
   it('支援正規表達式的發話者比對與黑名單', () => {
     deps = makeDeps({ notify_authors: ['/^林/'] });
-    expect(ingestNotification(deps, { title: '林大明', text: 'a' }, null).status).toBe('accepted');
-    expect(ingestNotification(deps, { title: '陳美玲', text: 'b' }, null).status).toBe('filtered');
+    expect(ingestNotification(deps, { title: '林大明', text: 'a', packageName: PKG }, null).status).toBe('accepted');
+    expect(ingestNotification(deps, { title: '陳美玲', text: 'b', packageName: PKG }, null).status).toBe('filtered');
     deps = makeDeps({ ignore_authors: ['廣告'] });
-    expect(ingestNotification(deps, { title: '廣告小編', text: 'c' }, null)).toMatchObject({ status: 'filtered', reason: 'author_ignored' });
+    expect(ingestNotification(deps, { title: '廣告小編', text: 'c', packageName: PKG }, null)).toMatchObject({ status: 'filtered', reason: 'author_ignored' });
   });
 
   it('內文關鍵字過濾', () => {
     deps = makeDeps({ require_text_match: ['聚會', '/公告/'] });
-    expect(ingestNotification(deps, { title: 'A', text: '今天天氣真好' }, null)).toMatchObject({ status: 'filtered', reason: 'text_no_match' });
-    expect(ingestNotification(deps, { title: 'A', text: '這週六聚會' }, null).status).toBe('accepted');
+    expect(ingestNotification(deps, { title: 'A', text: '今天天氣真好', packageName: PKG }, null)).toMatchObject({ status: 'filtered', reason: 'text_no_match' });
+    expect(ingestNotification(deps, { title: 'A', text: '這週六聚會', packageName: PKG }, null).status).toBe('accepted');
   });
 
   it('只接受允許的 Android 套件', () => {
@@ -118,15 +118,78 @@ describe('ingestNotification', () => {
   });
 
   it('空通知被拒絕', () => {
-    expect(ingestNotification(deps, { text: '   ' }, null)).toMatchObject({ status: 'rejected', reason: 'empty_notification' });
+    expect(ingestNotification(deps, { text: '   ', packageName: PKG }, null)).toMatchObject({ status: 'rejected', reason: 'empty_notification' });
   });
 
   it('附帶截圖時存檔並記錄路徑', () => {
-    const r = ingestNotification(deps, { title: '林大明', text: '有圖' }, JPEG);
+    const r = ingestNotification(deps, { title: '林大明', text: '有圖', packageName: PKG }, TINY_JPEG);
     expect(r).toMatchObject({ status: 'accepted', hasImage: true });
     const row = db.get<{ image_path: string }>('SELECT image_path FROM phone_notifications')!;
     expect(existsSync(row.image_path)).toBe(true);
+    expect(row.image_path.endsWith('.jpg')).toBe(true);
     expect(readFileSync(row.image_path).subarray(0, 2).toString('hex')).toBe('ffd8');
+  });
+
+  // ---- 回歸：P1 真的解碼圖片，不能只看 magic bytes ----
+  it('假 JPEG（只有 magic bytes）不會被存成截圖，但通知文字仍保留', () => {
+    const r = ingestNotification(deps, { title: '林大明', text: '假圖', packageName: PKG }, FAKE_JPEG);
+    expect(r).toMatchObject({ status: 'accepted', hasImage: false });
+    const row = db.get<{ image_path: string | null; body_text: string }>('SELECT image_path, body_text FROM phone_notifications')!;
+    expect(row.image_path).toBeNull();
+    expect(row.body_text).toBe('假圖');
+  });
+
+  it('假 PNG 與截斷的 JPEG 一樣被拒絕', () => {
+    expect(ingestNotification(deps, { title: 'A', text: '假 PNG', packageName: PKG }, FAKE_PNG)).toMatchObject({ hasImage: false });
+    expect(ingestNotification(deps, { title: 'B', text: '截斷', packageName: PKG }, TINY_JPEG.subarray(0, 120))).toMatchObject({ hasImage: false });
+    expect(db.get<{ c: number }>("SELECT COUNT(*) c FROM phone_notifications WHERE image_path IS NOT NULL")?.c).toBe(0);
+  });
+
+  it('真 PNG 保留 .png 副檔名，不會被謊報成 JPEG', () => {
+    const r = ingestNotification(deps, { title: '林大明', text: 'PNG 截圖', packageName: PKG }, tinyPng(16, 16));
+    expect(r).toMatchObject({ status: 'accepted', hasImage: true });
+    const row = db.get<{ image_path: string }>('SELECT image_path FROM phone_notifications')!;
+    expect(row.image_path.endsWith('.png')).toBe(true);
+    expect(readFileSync(row.image_path).subarray(0, 4).toString('hex')).toBe('89504e47');
+  });
+
+  it('像素數超過上限的圖片被拒絕（解壓炸彈防護）', () => {
+    deps = makeDeps({ max_image_pixels: 10_000 }); // schema 下限
+    expect(ingestNotification(deps, { title: 'A', text: '大圖', packageName: PKG }, tinyPng(128, 128))).toMatchObject({ hasImage: false });
+    expect(ingestNotification(deps, { title: 'B', text: '小圖', packageName: PKG }, tinyPng(64, 64))).toMatchObject({ hasImage: true });
+  });
+
+  // ---- 回歸：P1 套件白名單必須 fail-closed ----
+  it('沒有帶 packageName 時預設被擋（不能 fail-open）', () => {
+    expect(ingestNotification(deps, { title: 'A', text: 'x' }, null)).toMatchObject({ status: 'filtered', reason: 'package_missing' });
+    expect(db.get<{ c: number }>('SELECT COUNT(*) c FROM phone_notifications')?.c).toBe(0);
+  });
+
+  it('要允許缺少 packageName 必須明確設定 allow_missing_package', () => {
+    deps = makeDeps({ allow_missing_package: true });
+    expect(ingestNotification(deps, { title: 'A', text: 'x' }, null).status).toBe('accepted');
+  });
+
+  it('allowed_packages 設為空陣列時才不檢查套件', () => {
+    deps = makeDeps({ allowed_packages: [] });
+    expect(ingestNotification(deps, { title: 'A', text: 'x', packageName: 'com.whatsapp' }, null).status).toBe('accepted');
+  });
+
+  // ---- 回歸：P0 去重視窗到期後必須產生新的 occurrence ----
+  it('去重視窗到期後產生新的 occurrence id，但內容指紋不變', () => {
+    const n = { title: '林大明', text: '公告', packageName: PKG };
+    const first = ingestNotification(deps, n, null);
+    expect(first.status).toBe('accepted');
+    now = new Date(now.getTime() + 601_000);
+    const second = ingestNotification(deps, n, null);
+    expect(second.status).toBe('accepted');
+    if (first.status !== 'accepted' || second.status !== 'accepted') throw new Error('unreachable');
+    expect(second.contentFingerprint).toBe(first.contentFingerprint);
+    expect(second.occurrenceId).not.toBe(first.occurrenceId);
+    const rows = db.all<{ occurrence_id: string; content_fingerprint: string }>('SELECT occurrence_id, content_fingerprint FROM phone_notifications');
+    expect(rows).toHaveLength(2);
+    expect(new Set(rows.map((r) => r.content_fingerprint)).size).toBe(1);
+    expect(new Set(rows.map((r) => r.occurrence_id)).size).toBe(2);
   });
 });
 
@@ -153,8 +216,8 @@ describe('HTTP 介面', () => {
 
   it('body 是 JPEG 時當作截圖，非圖片 body 則忽略', async () => {
     server = await startPhoneIngestServer({ ...deps, port: 0, bind: '127.0.0.1' });
-    const base = `http://127.0.0.1:${server.port}/phone/notify?token=${TOKEN}`;
-    await fetch(`${base}&text=${encodeURIComponent('有圖')}`, { method: 'POST', body: JPEG });
+    const base = `http://127.0.0.1:${server.port}/phone/notify?token=${TOKEN}&pkg=${PKG}`;
+    await fetch(`${base}&text=${encodeURIComponent('有圖')}`, { method: 'POST', body: TINY_JPEG });
     await fetch(`${base}&text=${encodeURIComponent('沒圖')}`, { method: 'POST', body: 'not an image' });
     const rows = db.all<{ body_text: string; image_path: string | null }>('SELECT body_text, image_path FROM phone_notifications ORDER BY body_text');
     expect(rows.find((r) => r.body_text === '有圖')?.image_path).toBeTruthy();
@@ -163,7 +226,7 @@ describe('HTTP 介面', () => {
 
   it('超過大小上限回 413', async () => {
     server = await startPhoneIngestServer({ ...makeDeps({ max_image_bytes: 2048 }), port: 0, bind: '127.0.0.1' });
-    const big = Buffer.concat([JPEG, Buffer.alloc(4096, 0x42)]);
+    const big = Buffer.concat([TINY_JPEG, Buffer.alloc(4096, 0x42)]);
     const res = await fetch(`http://127.0.0.1:${server.port}/phone/notify?token=${TOKEN}&text=big`, { method: 'POST', body: big });
     expect(res.status).toBe(413);
     expect(db.get<{ c: number }>('SELECT COUNT(*) c FROM phone_notifications')?.c).toBe(0);
@@ -174,7 +237,7 @@ describe('HTTP 介面', () => {
     const h = await fetch(`http://127.0.0.1:${server.port}/health`);
     expect(h.status).toBe(200);
     expect(await h.text()).toContain('phone ingest');
-    await fetch(`http://127.0.0.1:${server.port}/phone/notify?token=${TOKEN}&text=hello`, { method: 'POST' });
+    await fetch(`http://127.0.0.1:${server.port}/phone/notify?token=${TOKEN}&text=hello&pkg=${PKG}`, { method: 'POST' });
     await new Promise((r) => setTimeout(r, 50));
     expect(lines.join('')).not.toContain(TOKEN);
   });

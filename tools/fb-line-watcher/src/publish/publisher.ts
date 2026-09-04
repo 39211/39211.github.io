@@ -13,6 +13,9 @@ export interface PublishOptions {
   ttlHours: number;
   now: Date;
   expiresAtIso: string;
+  /** 原圖與預覽圖的真實副檔名（'.jpg' 或 '.png'），發布器據此決定物件名稱與 Content-Type */
+  originalExtension?: '.jpg' | '.png';
+  previewExtension?: '.jpg' | '.png';
 }
 
 /**

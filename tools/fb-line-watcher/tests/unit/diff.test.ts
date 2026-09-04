@@ -1,7 +1,7 @@
 import { describe, expect, it, beforeEach } from 'vitest';
 import { Db } from '../../src/storage/db.js';
 import { getEntity, upsertTarget, countEntities, type TargetRow } from '../../src/storage/repo.js';
-import { applyDiff } from '../../src/detect/diff.js';
+import { applyDiff, commitChange, type CommentChange, type PostChange } from '../../src/detect/diff.js';
 import { TargetSchema, type TargetConfig } from '../../src/config/schema.js';
 import type { NormalizedComment, NormalizedPost } from '../../src/extract/fingerprint.js';
 
@@ -42,6 +42,11 @@ beforeEach(() => {
   row = upsertTarget(db, { key: t.key, name: t.name, type: t.type, url: t.url, enabled: true }, 'v1');
 });
 
+/** 模擬呼叫端：事件確定持久化後才提交偵測狀態 */
+function commitAll(changes: (PostChange | CommentChange)[], now = T2): void {
+  for (const c of changes) if (!c.suppressedReason) commitChange(db, now, c.commit);
+}
+
 const T1 = '2026-09-03T10:00:00+08:00';
 const T2 = '2026-09-03T10:03:00+08:00';
 const T3 = '2026-09-03T10:06:00+08:00';
@@ -62,7 +67,8 @@ describe('applyDiff', () => {
     r = applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [post({ markId: 'p9', permalink: 'https://www.facebook.com/x/posts/3', text: '全新貼文' }), post(), post({ markId: 'p1', permalink: 'https://www.facebook.com/x/posts/2', text: '貼文二' })]);
     expect(r.postChanges.map((c) => c.kind)).toEqual(['NEW_POST']);
     expect(r.stats.newPosts).toBe(1);
-    // 再跑一次不重複
+    // 事件送出後才提交偵測狀態；提交完再跑一次不重複
+    commitAll(r.postChanges);
     r = applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [post({ markId: 'p9', permalink: 'https://www.facebook.com/x/posts/3', text: '全新貼文' })]);
     expect(r.postChanges).toHaveLength(0);
   });
@@ -75,6 +81,7 @@ describe('applyDiff', () => {
     expect(r.postChanges).toHaveLength(1);
     expect(r.postChanges[0]?.kind).toBe('EDITED_POST');
     expect(r.postChanges[0]?.previousText).toBe('貼文一');
+    commitAll(r.postChanges, T3);
     // detect_post_edits=false 時不通知
     const r2 = applyDiff({ db, target: target({ detect_post_edits: false }), targetRow: row, now: T3, baselineMode: false }, [post({ text: '貼文一（再修改）' })]);
     expect(r2.postChanges).toHaveLength(0);
@@ -96,6 +103,7 @@ describe('applyDiff', () => {
     expect(r.stats.newReplies).toBe(1);
     const reply = getEntity(db, r.commentChanges[1]!.entityKey);
     expect(reply?.parent_entity_key).toBe(r.commentChanges[0]!.entityKey);
+    commitAll(r.commentChanges);
     // 新貼文帶留言：只通知貼文
     r = applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [post({ markId: 'p5', permalink: 'https://www.facebook.com/x/posts/5', text: '新的', comments: [comment({ markId: 'c7', permalink: 'https://www.facebook.com/x/posts/5?comment_id=70' })] })]);
     expect(r.postChanges).toHaveLength(1);
@@ -138,5 +146,83 @@ describe('applyDiff', () => {
     r = applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [post({ confidence: 0.7 })]);
     expect(r.postChanges).toHaveLength(1);
     expect(r.postChanges[0]?.lowConfidence).toBe(true);
+  });
+});
+
+/**
+ * 回歸（P0）：偵測狀態不能在事件持久化之前就前移。
+ * 舊版 applyDiff 會在同一個 transaction 裡把 known 設成 1，
+ * 呼叫端之後截圖失敗時，這則貼文／留言就永遠不會再被偵測到。
+ */
+describe('applyDiff 的提交邊界', () => {
+  it('新貼文在提交前 known 維持 0，未提交就會在下一輪重新產生同一個事件', () => {
+    applyDiff({ db, target: t, targetRow: row, now: T1, baselineMode: true }, []);
+    const first = applyDiff({ db, target: t, targetRow: row, now: T2, baselineMode: false }, [post()]);
+    expect(first.postChanges.map((c) => c.kind)).toEqual(['NEW_POST']);
+    const key = first.postChanges[0]!.entityKey;
+    expect(getEntity(db, key)?.known).toBe(0);
+
+    // 呼叫端沒有提交（＝截圖或存檔失敗）→ 下一輪必須補送
+    const second = applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [post()]);
+    expect(second.postChanges.map((c) => c.kind)).toEqual(['NEW_POST']);
+    expect(second.stats.redetected).toBe(1);
+    expect(second.postChanges[0]!.entityKey).toBe(key);
+
+    // 提交之後就不再產生
+    commitAll(second.postChanges, T3);
+    expect(getEntity(db, key)?.known).toBe(1);
+    const third = applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [post()]);
+    expect(third.postChanges).toHaveLength(0);
+  });
+
+  it('貼文編輯在提交前 content hash 不前移，未提交就會在下一輪重新產生 EDITED_POST', () => {
+    applyDiff({ db, target: t, targetRow: row, now: T1, baselineMode: true }, [post()]);
+    const before = getEntity(db, applyDiff({ db, target: t, targetRow: row, now: T1, baselineMode: true }, [post()]).seenKeys[0]!)!;
+    const edited = post({ text: '貼文一（改）', edited: true });
+
+    const first = applyDiff({ db, target: t, targetRow: row, now: T2, baselineMode: false }, [edited]);
+    expect(first.postChanges.map((c) => c.kind)).toEqual(['EDITED_POST']);
+    expect(getEntity(db, before.entity_key)?.current_content_hash).toBe(before.current_content_hash);
+
+    const second = applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [edited]);
+    expect(second.postChanges.map((c) => c.kind)).toEqual(['EDITED_POST']);
+    expect(second.postChanges[0]!.previousText).toBe('貼文一');
+
+    commitAll(second.postChanges, T3);
+    expect(getEntity(db, before.entity_key)?.current_content_hash).not.toBe(before.current_content_hash);
+    expect(applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [edited]).postChanges).toHaveLength(0);
+  });
+
+  it('新留言在提交前 known 維持 0，未提交就會在下一輪重新產生同一則留言事件', () => {
+    applyDiff({ db, target: t, targetRow: row, now: T1, baselineMode: true }, [post()]);
+    const withComment = post({ comments: [comment()] });
+
+    const first = applyDiff({ db, target: t, targetRow: row, now: T2, baselineMode: false }, [withComment]);
+    expect(first.commentChanges.map((c) => c.kind)).toEqual(['NEW_COMMENT']);
+    const ckey = first.commentChanges[0]!.entityKey;
+    expect(getEntity(db, ckey)?.known).toBe(0);
+
+    const second = applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [withComment]);
+    expect(second.commentChanges.map((c) => c.kind)).toEqual(['NEW_COMMENT']);
+    expect(second.commentChanges[0]!.entityKey).toBe(ckey);
+
+    commitAll(second.commentChanges, T3);
+    expect(getEntity(db, ckey)?.known).toBe(1);
+    expect(applyDiff({ db, target: t, targetRow: row, now: T3, baselineMode: false }, [withComment]).commentChanges).toHaveLength(0);
+  });
+
+  it('被過濾（suppressed）的變更在 applyDiff 內就提交，不會每輪重複判斷', () => {
+    const tt = target({ notify_authors: ['群主'] });
+    applyDiff({ db, target: tt, targetRow: row, now: T1, baselineMode: true }, []);
+    const first = applyDiff({ db, target: tt, targetRow: row, now: T2, baselineMode: false }, [post({ author: '路人' })]);
+    expect(first.postChanges[0]?.suppressedReason).toBe('author_not_in_allowlist');
+    expect(getEntity(db, first.postChanges[0]!.entityKey)?.known).toBe(1);
+    expect(applyDiff({ db, target: tt, targetRow: row, now: T3, baselineMode: false }, [post({ author: '路人' })]).postChanges).toHaveLength(0);
+  });
+
+  it('baseline 模式不會留下未提交的狀態', () => {
+    const r = applyDiff({ db, target: t, targetRow: row, now: T1, baselineMode: true }, [post({ comments: [comment()] })]);
+    expect(r.postChanges).toHaveLength(0);
+    for (const k of r.seenKeys) expect(getEntity(db, k)?.known).toBe(1);
   });
 });

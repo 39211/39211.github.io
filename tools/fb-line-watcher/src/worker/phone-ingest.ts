@@ -1,12 +1,13 @@
 import http from 'node:http';
 import path from 'node:path';
-import { writeFileSync } from 'node:fs';
+import { renameSync, writeFileSync } from 'node:fs';
 import { timingSafeEqual } from 'node:crypto';
 import type { Db } from '../storage/db.js';
 import type { PhoneIngestConfig } from '../config/schema.js';
 import type { Logger } from '../logger.js';
-import { sha256Hex } from '../util/hash.js';
+import { randomToken, sha256Hex } from '../util/hash.js';
 import { ensureDir } from '../util/fs.js';
+import { InvalidImageError, validateImage } from '../util/image.js';
 import { matchesAuthorRule } from '../util/text.js';
 import { toFileStamp, toLocalDate } from '../util/time.js';
 
@@ -20,8 +21,8 @@ export interface PhoneNotification {
 }
 
 export type IngestOutcome =
-  | { status: 'accepted'; itemKey: string; hasImage: boolean }
-  | { status: 'duplicate'; itemKey: string }
+  | { status: 'accepted'; occurrenceId: string; contentFingerprint: string; hasImage: boolean }
+  | { status: 'duplicate'; contentFingerprint: string }
   | { status: 'filtered'; reason: string }
   | { status: 'rejected'; reason: string };
 
@@ -34,7 +35,7 @@ export interface PhoneIngestDeps {
   logger: Logger;
   now: () => Date;
   /** 有新通知進來時通知排程器（用於提早結束等待） */
-  onAccepted?: (itemKey: string) => void;
+  onAccepted?: (occurrenceId: string) => void;
   /** 覆寫監聽的 port／bind（測試用；正式運作讀 config） */
   port?: number;
   bind?: string;
@@ -87,17 +88,21 @@ export function canonicalNotificationText(raw: string): string {
 }
 
 /**
- * 由通知內容推導穩定識別碼。
+ * 內容指紋：只用來判斷「去重時間窗內是否為同一則通知」。
+ *
  * Facebook 的通知會隨時間更新相對時間字串，但標題與內文本身穩定，
  * 因此只用 package + title + text，不含時間。
+ *
+ * 注意這**不是**事件識別碼。同一則內容在去重窗到期後再次發生時，
+ * 指紋相同但屬於新的一次 occurrence，必須重新通知。
  */
-export function deriveItemKey(n: PhoneNotification): string {
+export function deriveContentFingerprint(n: PhoneNotification): string {
   if (n.clientKey && n.clientKey.trim()) return sha256Hex(`phone|client|${n.clientKey.trim()}`);
   return sha256Hex(`phone|${n.packageName ?? ''}|${(n.title ?? '').normalize('NFKC').trim()}|${canonicalNotificationText(n.text)}`);
 }
 
 interface PhoneRow {
-  item_key: string;
+  occurrence_id: string;
   received_at: string;
   batched: number;
 }
@@ -111,8 +116,14 @@ export function ingestNotification(deps: PhoneIngestDeps, n: PhoneNotification, 
   const text = normalizeNotificationText(n.text);
   const title = n.title?.trim() || undefined;
 
-  if (cfg.allowed_packages.length && n.packageName && !cfg.allowed_packages.includes(n.packageName)) {
-    return { status: 'filtered', reason: `package_not_allowed:${n.packageName}` };
+  // allowlist 必須 fail-closed：缺少 packageName 時不能放行，
+  // 否則 MacroDroid 變數失效或呼叫端漏帶欄位就能繞過「只接受 Facebook App」的限制。
+  if (cfg.allowed_packages.length) {
+    if (!n.packageName) {
+      if (!cfg.allow_missing_package) return { status: 'filtered', reason: 'package_missing' };
+    } else if (!cfg.allowed_packages.includes(n.packageName)) {
+      return { status: 'filtered', reason: `package_not_allowed:${n.packageName}` };
+    }
   }
   if (!text && !title) return { status: 'rejected', reason: 'empty_notification' };
 
@@ -127,31 +138,48 @@ export function ingestNotification(deps: PhoneIngestDeps, n: PhoneNotification, 
     return { status: 'filtered', reason: 'text_no_match' };
   }
 
-  const itemKey = deriveItemKey({ ...n, text });
+  const contentFingerprint = deriveContentFingerprint({ ...n, text });
   const now = deps.now();
   const nowIso = now.toISOString();
-  const existing = deps.db.get<PhoneRow>('SELECT item_key, received_at, batched FROM phone_notifications WHERE item_key = ?', itemKey);
-  if (existing) {
-    const age = now.getTime() - Date.parse(existing.received_at);
+  // 去重只看「同一指紋最近一次發生」是否落在時間窗內
+  const recent = deps.db.get<PhoneRow>(
+    'SELECT occurrence_id, received_at, batched FROM phone_notifications WHERE content_fingerprint = ? ORDER BY received_at DESC LIMIT 1',
+    contentFingerprint,
+  );
+  if (recent) {
+    const age = now.getTime() - Date.parse(recent.received_at);
     if (Number.isFinite(age) && age <= cfg.dedup_window_seconds * 1000) {
-      return { status: 'duplicate', itemKey };
+      return { status: 'duplicate', contentFingerprint };
     }
   }
 
+  // 時間窗外（或第一次）＝ 一次新的 occurrence，事件鍵會不同，因此能再次送出
+  const occurrenceId = `${contentFingerprint.slice(0, 16)}-${randomToken(8)}`;
+
   let imagePath: string | null = null;
   if (image && image.length > 0) {
-    const dir = ensureDir(path.join(deps.capturesDir, 'phone', toLocalDate(now, deps.timezone)));
-    imagePath = path.join(dir, `${toFileStamp(now, deps.timezone)}_${itemKey.slice(0, 10)}.jpg`);
-    writeFileSync(imagePath, image);
+    // 只檢查 magic bytes 不夠：垃圾資料前面補上 JPEG 標頭一樣會通過。
+    // 這裡做真正的結構驗證，失敗就當成沒有截圖，但通知本身照常處理。
+    try {
+      const info = validateImage(image, { maxPixels: cfg.max_image_pixels });
+      const dir = ensureDir(path.join(deps.capturesDir, 'phone', toLocalDate(now, deps.timezone)));
+      const tmp = path.join(dir, `.tmp_${occurrenceId}${info.extension}`);
+      const finalPath = path.join(dir, `${toFileStamp(now, deps.timezone)}_${occurrenceId}${info.extension}`);
+      // 先寫暫存檔再 rename，避免半截檔案被後續流程讀到
+      writeFileSync(tmp, image);
+      renameSync(tmp, finalPath);
+      imagePath = finalPath;
+    } catch (e) {
+      const why = e instanceof InvalidImageError ? e.message : String(e);
+      deps.logger.warn({ bytes: image.length, why }, '手機上傳的資料不是有效圖片，已忽略截圖但保留通知文字');
+    }
   }
 
   deps.db.run(
-    `INSERT INTO phone_notifications (item_key, title, body_text, package_name, posted_label, image_path, received_at, batched)
-     VALUES (?, ?, ?, ?, ?, ?, ?, 0)
-     ON CONFLICT(item_key) DO UPDATE SET title = excluded.title, body_text = excluded.body_text,
-       posted_label = excluded.posted_label, image_path = COALESCE(excluded.image_path, phone_notifications.image_path),
-       received_at = excluded.received_at, batched = 0`,
-    itemKey,
+    `INSERT INTO phone_notifications (occurrence_id, content_fingerprint, title, body_text, package_name, posted_label, image_path, received_at, batched)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, 0)`,
+    occurrenceId,
+    contentFingerprint,
     title ?? null,
     text,
     n.packageName ?? null,
@@ -159,9 +187,9 @@ export function ingestNotification(deps: PhoneIngestDeps, n: PhoneNotification, 
     imagePath,
     nowIso,
   );
-  deps.logger.info({ itemKey: itemKey.slice(0, 10), title, hasImage: !!imagePath, chars: text.length }, '收到手機通知');
-  deps.onAccepted?.(itemKey);
-  return { status: 'accepted', itemKey, hasImage: !!imagePath };
+  deps.logger.info({ occurrenceId, title, hasImage: !!imagePath, chars: text.length }, '收到手機通知');
+  deps.onAccepted?.(occurrenceId);
+  return { status: 'accepted', occurrenceId, contentFingerprint, hasImage: !!imagePath };
 }
 
 export interface PhoneIngestHandle {
@@ -224,8 +252,9 @@ export function startPhoneIngestServer(deps: PhoneIngestDeps): Promise<PhoneInge
       const body = Buffer.concat(chunks);
       const q = (k: string): string | undefined => url.searchParams.get(k) ?? undefined;
       const token = (req.headers['x-phone-token'] as string | undefined) ?? q('token');
-      // body 是原始圖片位元組（MacroDroid 不支援 multipart）；非圖片就當作沒有截圖
-      const looksLikeImage = body.length > 8 && (body.subarray(0, 2).toString('hex') === 'ffd8' || body.subarray(1, 4).toString('ascii') === 'PNG');
+      // body 是原始圖片位元組（MacroDroid 不支援 multipart）。
+      // 這裡不做 magic bytes 預判，交給 ingestNotification 的完整結構驗證處理。
+      const maybeImage = body.length > 0 ? body : null;
       const result = handle(
         token,
         {
@@ -235,11 +264,15 @@ export function startPhoneIngestServer(deps: PhoneIngestDeps): Promise<PhoneInge
           postedLabel: q('posted'),
           clientKey: q('key'),
         },
-        looksLikeImage ? body : null,
+        maybeImage,
       );
       res
         .writeHead(result.status, { 'Content-Type': 'text/plain; charset=utf-8', 'Cache-Control': 'no-store' })
-        .end(result.outcome.status === 'accepted' || result.outcome.status === 'duplicate' ? result.outcome.status : `${result.outcome.status}:${'reason' in result.outcome ? result.outcome.reason : ''}`);
+        .end(
+          result.outcome.status === 'accepted' || result.outcome.status === 'duplicate'
+            ? result.outcome.status
+            : `${result.outcome.status}:${'reason' in result.outcome ? result.outcome.reason : ''}`,
+        );
     });
   });
 
@@ -251,7 +284,16 @@ export function startPhoneIngestServer(deps: PhoneIngestDeps): Promise<PhoneInge
       const addr = server.address();
       const port = typeof addr === 'object' && addr ? addr.port : listenPort;
       deps.logger.info({ port, bind: listenBind }, '手機通知接收伺服器已啟動');
-      resolve({ port, handle, close: () => new Promise<void>((r) => server.close(() => r())) });
+      resolve({
+        port,
+        handle,
+        close: () =>
+          new Promise<void>((r) => {
+            // keep-alive 連線會讓 close() 一直等到閒置逾時
+            server.closeAllConnections();
+            server.close(() => r());
+          }),
+      });
     });
   });
 }

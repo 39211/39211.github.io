@@ -26,7 +26,8 @@
     "fixture": "node --no-warnings=ExperimentalWarning --import tsx fixtures/server.ts",
     "start": "node --no-warnings=ExperimentalWarning dist/src/cli.js watch",
     "trigger-url": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts trigger-url",
-    "phone-url": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts phone-url"
+    "phone-url": "node --no-warnings=ExperimentalWarning --import tsx src/cli.ts phone-url",
+    "soak": "node --no-warnings=ExperimentalWarning --import tsx scripts/soak.ts"
   },
   "dependencies": {
     "@aws-sdk/client-s3": "3.1125.0",

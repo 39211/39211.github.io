@@ -47,7 +47,16 @@ phone_ingest:
   ignore_authors: []
   require_text_match: []        # 例：['聚會'] 內文要含關鍵字才通知
   allowed_packages: [com.facebook.katana, com.facebook.lite]
+  allow_missing_package: false  # 觸發器沒帶 pkg 時是否放行；預設擋掉（fail-closed）
+  max_image_bytes: 8388608      # 單張截圖大小上限
+  max_image_pixels: 40000000    # 解碼後像素數上限，擋解壓炸彈
 ```
+
+> **`pkg` 一定要帶。** `allowed_packages` 非空時，沒有帶 `pkg` 的請求會被擋下（回 `filtered:package_missing`），
+> 避免 MacroDroid 變數沒填好或別的程式亂送時繞過 Facebook 限制。真的需要放行才把 `allow_missing_package` 設為 `true`。
+>
+> **截圖會被真正解碼驗證。** 只有 JPEG／PNG 標頭、內容是垃圾的資料會被拒絕（通知文字仍會送出，只是沒有圖），
+> PNG 會保留 `.png` 副檔名與 `image/png`，不會被謊報成 JPEG。
 
 想同時保留瀏覽器巡邏就照常填 `targets`，兩種來源會各自去重、互不干擾。
 
@@ -117,6 +126,7 @@ http://192.168.1.23:8800/phone/notify?token=xxxx&title=[not_title]&text=[notific
 | 回應 `unauthorized` | `.env` 的 token 與網址上的不符，重跑 `npm run phone-url`。 |
 | 回應 `filtered:author_not_in_allowlist` | 正常，`notify_authors` 把這位發話者擋掉了。 |
 | 回應 `filtered:package_not_allowed:...` | 觸發器沒限定 Facebook，或該 App 不在 `allowed_packages`。 |
+| 回應 `filtered:package_missing` | 請求沒有帶 `pkg` 參數。在 MacroDroid 的網址加上 `&pkg=[not_app_package]`。 |
 | 回應 `duplicate` | 正常，去重視窗內的同一則通知。 |
 | 回應 `413` | 截圖超過 `max_image_bytes`，調高上限或在手機端先壓縮。 |
 | LINE 收到文字但沒有圖 | 截圖動作沒成功，或 `images.publisher` 是 `none`。LINE 只能顯示公開 HTTPS 圖片，見 README 第 5 節。 |

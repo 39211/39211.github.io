@@ -188,6 +188,43 @@ CREATE TABLE IF NOT EXISTS phone_notifications (
 CREATE INDEX IF NOT EXISTS idx_phone_received ON phone_notifications(received_at);
 `,
   },
+  {
+    version: 3,
+    sql: `
+-- 手機通知必須分成兩種身分：
+--   content_fingerprint 只用來判斷「去重時間窗內是否重複」
+--   occurrence_id       代表「這一次真正發生的通知」，事件鍵由它產生
+-- 舊版兩者共用同一個內容雜湊，導致去重窗到期後同樣的通知再也送不出去。
+CREATE TABLE IF NOT EXISTS phone_notifications_v3 (
+  occurrence_id TEXT PRIMARY KEY,
+  content_fingerprint TEXT NOT NULL,
+  title TEXT,
+  body_text TEXT NOT NULL,
+  package_name TEXT,
+  posted_label TEXT,
+  image_path TEXT,
+  received_at TEXT NOT NULL,
+  batched INTEGER NOT NULL DEFAULT 0
+);
+INSERT OR IGNORE INTO phone_notifications_v3
+  (occurrence_id, content_fingerprint, title, body_text, package_name, posted_label, image_path, received_at, batched)
+SELECT item_key || ':' || received_at, item_key, title, body_text, package_name, posted_label, image_path, received_at, batched
+FROM phone_notifications;
+DROP TABLE phone_notifications;
+ALTER TABLE phone_notifications_v3 RENAME TO phone_notifications;
+CREATE INDEX IF NOT EXISTS idx_phone_fingerprint ON phone_notifications(content_fingerprint, received_at);
+CREATE INDEX IF NOT EXISTS idx_phone_batched ON phone_notifications(batched, received_at);
+`,
+  },
+  {
+    version: 4,
+    sql: `
+-- 偵測到變更之後、事件真正持久化之前，實體會停留在 known = 0。
+-- 若截圖／存檔失敗，下一輪會再看到同一筆並重新補送；capture_failures 記錄連續失敗次數，
+-- 超過門檻就改送純文字事件，避免永遠卡在補送迴圈。
+ALTER TABLE entities ADD COLUMN capture_failures INTEGER NOT NULL DEFAULT 0;
+`,
+  },
 ];
 
 export class Db {

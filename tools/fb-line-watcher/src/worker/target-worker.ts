@@ -6,13 +6,14 @@ import type { TargetConfig } from '../config/schema.js';
 import { ADAPTER_VERSION } from '../adapters/catalog.js';
 import { FacebookSurfaceAdapter, MARK_ATTR, type SurfaceScan } from '../adapters/facebook.js';
 import { normalizePost, mediaSummary, type NormalizedPost } from '../extract/fingerprint.js';
-import { applyDiff, type CommentChange, type DiffStats } from '../detect/diff.js';
+import { applyDiff, commitChange, type CommentChange, type DiffStats, type PendingCommit, type PostChange } from '../detect/diff.js';
 import { commentGroupKey, mergeCommentGroup, summarizeItems } from '../detect/groups.js';
 import { decideVisual, dhashFromPng } from '../detect/visual.js';
 import { captureEntity, captureViewport, type RawCapture } from '../capture/capture.js';
 import { composeEvidence, type ComposeInfo } from '../capture/compose.js';
 import { enqueueEvent, raiseAlert } from '../line/notifier.js';
 import {
+  bumpCaptureFailures,
   deleteVisualBaseline,
   getPendingGroup,
   getVisualBaseline,
@@ -231,13 +232,69 @@ export async function runTargetCycle(app: App, target: TargetConfig, holder: Pag
   let groupsUpdated = 0;
   const sourceUrl = target.url;
 
+  /** 事件已經寫進 events／pending_groups 之後才推進偵測狀態 */
+  const commit = (...commits: PendingCommit[]): void => {
+    db.transaction(() => {
+      for (const c of commits) commitChange(db, nowIso, c);
+    });
+  };
+
+  /**
+   * 截圖／存檔失敗：不提交偵測狀態，下一輪會重新偵測到同一筆並補送。
+   * 連續失敗超過門檻才改送純文字事件並提交，避免永遠卡在補送迴圈。
+   */
+  const onCaptureFailure = (e: unknown, entityKeys: string[], describe: string, fallback: () => boolean): void => {
+    const failures = Math.max(...entityKeys.map((k) => bumpCaptureFailures(db, k)), 0);
+    const msg = errorMessage(e);
+    const giveUp = failures >= config.capture_failure_fallback_threshold;
+    log.error({ err: e, failures, giveUp, entityKeys }, giveUp ? '截圖連續失敗，改送純文字通知' : '截圖／存檔失敗，本輪不提交狀態，下一輪補送');
+    if (giveUp) {
+      try {
+        if (fallback()) eventsCreated++;
+        commit(...entityKeys.map((entityKey) => ({ entityKey, known: true })));
+      } catch (e2) {
+        log.error({ err: e2 }, '純文字備援事件也失敗，維持未提交狀態');
+        return;
+      }
+    }
+    raiseAlert(app.notifier, {
+      alertKey: `target:${target.key}:capture`,
+      severity: 'WARN',
+      targetKey: target.key,
+      targetName: target.name,
+      message: giveUp
+        ? `「${target.name}」偵測到 ${describe} 但連續 ${failures} 次截圖失敗（${msg.slice(0, 120)}），已改用純文字通知。`
+        : `「${target.name}」偵測到 ${describe} 但截圖失敗（第 ${failures} 次）：${msg.slice(0, 140)}。下一輪會自動補送。`,
+    });
+  };
+
   for (const ch of diff.postChanges) {
     if (ch.suppressedReason) {
       log.debug({ kind: ch.kind, reason: ch.suppressedReason, author: ch.post.author }, '事件被設定過濾，不通知');
       continue;
     }
+    const detectedAt = nowIso;
+    const payload: PostEventPayload = {
+      kind: ch.kind,
+      targetKey: target.key,
+      targetName: target.name,
+      targetType: target.type,
+      author: ch.post.author,
+      timeLabel: ch.post.timeLabel,
+      timeTitle: ch.post.timeTitle,
+      text: ch.post.text,
+      mediaSummary: mediaSummary(ch.post.media),
+      imageCount: ch.post.media.filter((m) => m.type === 'image').length,
+      permalink: ch.post.permalink,
+      sourceUrl,
+      confidence: ch.post.confidence,
+      lowConfidence: ch.lowConfidence,
+      completeness: ch.post.completeness,
+      detectedAt,
+      previousText: ch.previousText,
+    };
+    const eventKey = postEventKey(target.key, ch);
     try {
-      const detectedAt = nowIso;
       const raw = await captureEntity(page, { markAttr: MARK_ATTR, postMarkId: ch.post.markId, highlightMarkIds: [], hideSelectors: adapter.catalog.hideForCaptureSelectors, redactPatterns: redactPatterns(app) });
       if (raw.redactionFailed) raiseAlert(app.notifier, { alertKey: 'redaction:failed', severity: 'WARN', message: '截圖個資遮罩失敗，本次截圖未遮罩。' });
       const title = ch.kind === 'NEW_POST' ? 'Facebook 新貼文' : 'Facebook 貼文已編輯';
@@ -249,32 +306,15 @@ export async function runTargetCycle(app: App, target: TargetConfig, holder: Pag
       };
       const label = `${ch.kind.toLowerCase()}_${ch.entityKey.slice(0, 10)}`;
       const saved = await saveEvidence(app, target, raw, info, label);
-      const payload: PostEventPayload = {
-        kind: ch.kind,
-        targetKey: target.key,
-        targetName: target.name,
-        targetType: target.type,
-        author: ch.post.author,
-        timeLabel: ch.post.timeLabel,
-        timeTitle: ch.post.timeTitle,
-        text: ch.post.text,
-        mediaSummary: mediaSummary(ch.post.media),
-        imageCount: ch.post.media.filter((m) => m.type === 'image').length,
-        permalink: ch.post.permalink,
-        sourceUrl,
-        confidence: ch.post.confidence,
-        lowConfidence: ch.lowConfidence,
-        completeness: ch.post.completeness,
-        detectedAt,
-        previousText: ch.previousText,
-      };
-      const eventKey = sha256Hex(`${target.key}|${ch.kind}|${ch.entityKey}|${ch.kind === 'EDITED_POST' ? ch.contentHash : ''}`);
       writeSidecar(saved.contextPath, { eventKey, entityKey: ch.entityKey, contentHash: ch.contentHash, payload });
       if (enqueueEvent(app.notifier, { eventKey, targetKey: target.key, entityKey: ch.entityKey, detectionMode: 'STRUCTURED', payload, screenshotPath: saved.contextPath, previewPath: saved.previewPath })) eventsCreated++;
+      // 事件已持久化（重複 event_key 代表上一輪已經建立過），此時才推進偵測狀態
+      commit(ch.commit);
       log.info({ kind: ch.kind, author: ch.post.author, confidence: ch.post.confidence }, '偵測到貼文事件');
     } catch (e) {
-      log.error({ err: e, kind: ch.kind }, '貼文事件處理失敗（截圖／儲存）');
-      raiseAlert(app.notifier, { alertKey: `target:${target.key}:capture`, severity: 'WARN', targetKey: target.key, targetName: target.name, message: `「${target.name}」偵測到 ${ch.kind} 但截圖失敗：${errorMessage(e).slice(0, 160)}` });
+      onCaptureFailure(e, [ch.entityKey], ch.kind, () =>
+        enqueueEvent(app.notifier, { eventKey, targetKey: target.key, entityKey: ch.entityKey, detectionMode: 'STRUCTURED', payload, screenshotPath: null, previewPath: null }),
+      );
     }
   }
 
@@ -289,19 +329,19 @@ export async function runTargetCycle(app: App, target: TargetConfig, holder: Pag
     byPost.set(ch.postEntityKey, arr);
   }
   for (const [postKey, changes] of byPost) {
-    try {
-      const gkey = commentGroupKey(target.key, postKey);
-      const existing = getPendingGroup(db, gkey);
-      let existingPayload: CommentsEventPayload | undefined;
-      if (existing) {
-        try {
-          existingPayload = JSON.parse(existing.payload_json) as CommentsEventPayload;
-        } catch {
-          existingPayload = undefined;
-        }
+    const gkey = commentGroupKey(target.key, postKey);
+    const existing = getPendingGroup(db, gkey);
+    let existingPayload: CommentsEventPayload | undefined;
+    if (existing) {
+      try {
+        existingPayload = JSON.parse(existing.payload_json) as CommentsEventPayload;
+      } catch {
+        existingPayload = undefined;
       }
-      const merged = mergeCommentGroup(existingPayload, changes, target, sourceUrl, nowIso);
-      const post = changes[0]!.post;
+    }
+    const merged = mergeCommentGroup(existingPayload, changes, target, sourceUrl, nowIso);
+    const post = changes[0]!.post;
+    try {
       const highlight = merged.items.map((i) => diff.markByKey.get(i.entityKey)).filter((x): x is string => !!x);
       const raw = await captureEntity(page, { markAttr: MARK_ATTR, postMarkId: post.markId, highlightMarkIds: highlight, hideSelectors: adapter.catalog.hideForCaptureSelectors, redactPatterns: redactPatterns(app) });
       const info: ComposeInfo = {
@@ -326,11 +366,28 @@ export async function runTargetCycle(app: App, target: TargetConfig, holder: Pag
         screenshot_path: saved.contextPath,
         preview_path: saved.previewPath,
       });
+      // pending group 已持久化並由 scheduler 負責轉成事件，此時才推進偵測狀態
+      commit(...changes.map((c) => c.commit));
       groupsUpdated++;
       log.info({ postKey: postKey.slice(0, 10), items: merged.items.length, holdSeconds: config.comment_debounce_seconds }, '偵測到新留言／回覆，已加入合併等待');
     } catch (e) {
-      log.error({ err: e }, '留言事件處理失敗（截圖／儲存）');
-      raiseAlert(app.notifier, { alertKey: `target:${target.key}:capture`, severity: 'WARN', targetKey: target.key, targetName: target.name, message: `「${target.name}」偵測到新留言但截圖失敗：${errorMessage(e).slice(0, 160)}` });
+      onCaptureFailure(e, changes.map((c) => c.entityKey), '新留言', () => {
+        const upsertAt = app.clock.now();
+        const upsertIso = toIsoWithOffset(upsertAt, tz);
+        upsertPendingGroup(db, {
+          group_key: gkey,
+          target_key: target.key,
+          root_post_key: postKey,
+          hold_until: toIsoWithOffset(addSeconds(upsertAt, config.comment_debounce_seconds), tz),
+          created_at: existing?.created_at ?? upsertIso,
+          updated_at: upsertIso,
+          payload_json: JSON.stringify(merged),
+          screenshot_path: null,
+          preview_path: null,
+        });
+        groupsUpdated++;
+        return false;
+      });
     }
   }
 
@@ -347,6 +404,10 @@ export async function runTargetCycle(app: App, target: TargetConfig, holder: Pag
   });
   resolveAlertsByPrefix(db, `target:${target.key}:`, nowIso);
   return finish({ status: 'READY', mode: 'STRUCTURED', baselineMode, eventsCreated, groupsUpdated, stats: diff.stats, scan: scanInfo });
+}
+
+function postEventKey(targetKey: string, ch: PostChange): string {
+  return sha256Hex(`${targetKey}|${ch.kind}|${ch.entityKey}|${ch.kind === 'EDITED_POST' ? ch.contentHash : ''}`);
 }
 
 function targetRowAdapterVersion(db: App['db'], target: TargetConfig): string {

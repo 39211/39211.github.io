@@ -103,6 +103,7 @@ targets:
 | `notify_event_types` | 四種都通知 | 只想收貼文可設 `[NEW_POST]` |
 | `notify_authors` / `ignore_authors` | 空 | 只通知／忽略特定畫面顯示名稱，支援 `/正規表達式/` |
 | `max_notifications_per_day` | 150 | 保護 LINE 額度 |
+| `capture_failure_fallback_threshold` | 3 | 同一則內容連續截圖失敗幾次後改送純文字（不會漏報，只是沒有圖）|
 | `browser.headed` | true | 建議 true（最接近真實畫面）。`--headless` 參數可臨時覆寫 |
 | `images.publisher` | none | `none` / `s3` / `local_http` |
 | `privacy.redact_phone/email` | true | LINE 文字摘要中遮蔽電話、Email |

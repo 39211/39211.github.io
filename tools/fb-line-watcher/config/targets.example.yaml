@@ -22,6 +22,10 @@ extractor_failure_threshold: 3
 visual_fallback_enabled: true
 visual_confirm_after_seconds: 45
 
+# 偵測到變更之後，一定要等事件寫進資料庫才會把內容標記成「已通知」；
+# 中途截圖失敗時下一輪會自動補送。連續失敗達這個次數就改送純文字（不會漏報，只是沒有圖）。
+capture_failure_fallback_threshold: 3
+
 # 每日最多發送幾則通知（保護 LINE 免費額度，超過後只發一次警報）
 max_notifications_per_day: 150
 
@@ -80,6 +84,9 @@ phone_ingest:
   ignore_authors: []
   require_text_match: []        # 例：['聚會'] 內文要含關鍵字才通知
   allowed_packages: [com.facebook.katana, com.facebook.lite]
+  allow_missing_package: false  # 沒帶 pkg 的請求預設擋掉（fail-closed），要放行才改 true
+  max_image_bytes: 8388608      # 單張截圖大小上限
+  max_image_pixels: 40000000    # 解碼後像素數上限，擋解壓炸彈
 
 # 手機通知觸發伺服器（poll_mode: triggered 時必須開啟）
 trigger:
