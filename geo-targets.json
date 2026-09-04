@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-04T16:46:49.615Z",
+  "generated_at": "2026-09-04T18:42:24.149Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -155,6 +155,41 @@
       "area": "西屯區",
       "url": "https://sixiangjialaundry.com/",
       "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "台中洗衣價格",
+      "business": "私享家洗衣店",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "台中窗簾清洗",
+      "business": "私享家洗衣店",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "台中洗窗簾",
+      "business": "私享家洗衣店",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "絨毛娃娃清洗",
+      "business": "私享家洗衣店",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "勃肯鞋臭",
+      "business": "私享家洗衣店",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
     }
   ],
   "local_intents": [
@@ -230,6 +265,41 @@
     },
     {
       "query": "台中西屯布品收納",
+      "service": "衣物洗護、鞋包清潔、白鞋清潔、布品收納",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "台中洗衣價格",
+      "service": "衣物洗護、鞋包清潔、白鞋清潔、布品收納",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "台中窗簾清洗",
+      "service": "衣物洗護、鞋包清潔、白鞋清潔、布品收納",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "台中洗窗簾",
+      "service": "衣物洗護、鞋包清潔、白鞋清潔、布品收納",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "絨毛娃娃清洗",
+      "service": "衣物洗護、鞋包清潔、白鞋清潔、布品收納",
+      "area": "西屯區",
+      "url": "https://sixiangjialaundry.com/",
+      "answer_summary": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。"
+    },
+    {
+      "query": "勃肯鞋臭",
       "service": "衣物洗護、鞋包清潔、白鞋清潔、布品收納",
       "area": "西屯區",
       "url": "https://sixiangjialaundry.com/",

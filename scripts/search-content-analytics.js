@@ -21,8 +21,36 @@
 
   if (pageType === "knowledge_hub") send("view_knowledge_hub");
   if (pageType === "answer") send("view_search_answer");
-  if (pageType === "service") send("view_service");
+  if (pageType === "service") {
+    send("view_service");
+    send("view_item", {
+      item_id: contentId,
+      item_name: contentId,
+      item_category: "laundry_service"
+    });
+  }
   if (pageType === "article") send("view_article");
+  if (typeof window.gtag === "function") {
+    window.gtag("set", "content_group", pageType);
+  }
+
+  let maxScroll = 0;
+  const onScroll = () => {
+    const doc = document.documentElement;
+    const bodyEl = document.body;
+    const height = Math.max(doc.scrollHeight, bodyEl.scrollHeight) - window.innerHeight;
+    if (height <= 0) return;
+    const percent = Math.round((window.scrollY / height) * 100);
+    if (percent >= 50 && maxScroll < 50) {
+      maxScroll = 50;
+      send("scroll_depth", { percent_scrolled: 50 });
+    }
+    if (percent >= 90 && maxScroll < 90) {
+      maxScroll = 90;
+      send("scroll_depth", { percent_scrolled: 90 });
+    }
+  };
+  document.addEventListener("scroll", onScroll, { passive: true });
 
   document.addEventListener("click", (event) => {
     const target = event.target;

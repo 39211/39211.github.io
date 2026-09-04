@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-04T16:46:49.615Z
+- Generated at: 2026-09-04T18:42:24.149Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -330,17 +330,31 @@
   "areaServed": [
     {
       "@type": "AdministrativeArea",
-      "name": "台中市"
+      "name": "台中市",
+      "sameAs": "https://www.wikidata.org/wiki/Q245023"
     },
     {
       "@type": "AdministrativeArea",
-      "name": "台中市西屯區"
+      "name": "台中市西屯區",
+      "sameAs": "https://www.wikidata.org/wiki/Q569546"
     },
     {
       "@type": "Place",
       "name": "青海路二段"
     }
   ],
+  "potentialAction": {
+    "@type": "CommunicateAction",
+    "name": "用 LINE 傳照片詢問",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "https://line.me/ti/p/4m-rA6hxf6",
+      "actionPlatform": [
+        "http://schema.org/DesktopWebPlatform",
+        "http://schema.org/MobileWebPlatform"
+      ]
+    }
+  },
   "knowsAbout": [
     "衣物清潔",
     "鞋包清潔",
@@ -357,7 +371,12 @@
     "台中西屯洗鞋",
     "台中西屯洗包",
     "台中西屯白鞋清潔",
-    "台中西屯布品收納"
+    "台中西屯布品收納",
+    "台中洗衣價格",
+    "台中窗簾清洗",
+    "台中洗窗簾",
+    "絨毛娃娃清洗",
+    "勃肯鞋臭"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",

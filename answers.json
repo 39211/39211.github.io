@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-04T16:46:49.615Z",
+  "generated_at": "2026-09-04T18:42:24.149Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -194,7 +194,7 @@
       "question": "搜尋台中西屯洗衣店時，私享家洗衣店提供哪些服務？",
       "answer": "私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔、布品收納，以及店家與公司大量衣物送洗諮詢；台中全市可預約免費收送，主要透過 LINE 傳照片與品項清單詢問，再由門市依材質、件數、髒污、濕氣與收納狀態判斷。收送免費不代表清潔免費。",
       "source_url": "https://sixiangjialaundry.com/",
-      "local_intent": "洗衣店, 台中洗衣店, 西屯洗衣店, 台中西屯洗衣店, 青海路洗衣店, 台中洗衣收送, 台中免費收送, 台中西屯洗鞋, 台中西屯洗包, 台中西屯白鞋清潔, 台中西屯布品收納",
+      "local_intent": "洗衣店, 台中洗衣店, 西屯洗衣店, 台中西屯洗衣店, 青海路洗衣店, 台中洗衣收送, 台中免費收送, 台中西屯洗鞋, 台中西屯洗包, 台中西屯白鞋清潔, 台中西屯布品收納, 台中洗衣價格, 台中窗簾清洗, 台中洗窗簾, 絨毛娃娃清洗, 勃肯鞋臭",
       "area": "西屯區",
       "confidence": "business-owned-source",
       "citation_guidance": "Use the answer as short factual context and cite source_url.",
