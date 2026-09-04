@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-04T11:21:38.143Z",
+  "generated_at": "2026-09-04T11:49:49.651Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -23,7 +23,7 @@
         "包包清潔",
         "青海路洗鞋"
       ],
-      "answer_summary": "逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。",
+      "answer_summary": "私享家洗衣店（台中市西屯區青海路二段365號）承接逢甲與西屯洗鞋、洗包：先傳鞋面、鞋底、鞋內、包角與提把照片到 LINE，門市依材質說明可清潔範圍；台中市全區免費到府收送、沒有最低消費，清潔費另計。",
       "image_url": "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "image_path": "assets/services/shoe-bag-care-hero-product.png",
       "image_alt": "鞋包清潔前的包角、鞋面與皮革檢查主圖",
@@ -283,7 +283,7 @@
         "台中西屯白鞋清潔",
         "青海路洗鞋"
       ],
-      "answer_summary": "台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。",
+      "answer_summary": "台中西屯白鞋清潔：私享家不建議直接漂白或硬刷。先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可改善範圍；門市在青海路二段365號，可 LINE 傳照片，台中市免費收送、清潔費另計。",
       "image_url": "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "image_path": "assets/services/white-shoe-cleaning-hero-product.png",
       "image_alt": "白鞋清潔前的鞋邊、縫線與內裡檢查主圖",
@@ -405,7 +405,7 @@
         "外套清潔",
         "台中西屯布品整理"
       ],
-      "answer_summary": "台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。",
+      "answer_summary": "台中西屯布品收納：換季前先確認外套、寢具、被套與厚棉是否乾燥，有無汗味、悶味或黃痕，再決定清完再收；私享家門市青海路二段365號，可 LINE 傳照片，台中市免費收送。",
       "image_url": "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
       "image_path": "assets/services/fabric-storage-hero-product.png",
       "image_alt": "外套、寢具與布品收納前檢查主圖",
@@ -585,7 +585,7 @@
         "台中到府收送洗衣",
         "私享家洗衣店"
       ],
-      "answer_summary": "私享家洗衣店位於台中市西屯區青海路二段365號（至善國中對面），提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，台中市全區免費到府收送，可先用 LINE 傳照片詢問。",
+      "answer_summary": "私享家洗衣店位於台中市西屯區青海路二段365號（至善國中對面），提供衣物洗護、鞋包清潔、白鞋清潔與布品收納；台中市全區免費到府收送、沒有最低消費，可先用 LINE（0968327653）傳照片詢問，清潔費另計。",
       "image_url": "https://sixiangjialaundry.com/assets/services/fabric-storage-inspection.png",
       "image_path": "assets/services/fabric-storage-inspection.png",
       "image_alt": "私享家洗衣店門市人員檢查外套與布品的服務情境主圖",
@@ -794,7 +794,7 @@
         "公司洗衣收送",
         "LINE 預約送洗"
       ],
-      "answer_summary": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。",
+      "answer_summary": "台中店家或公司大量制服、毛巾、床組可先用 LINE 提供品項、數量與照片；私享家門市在西屯青海路二段365號，台中市全區免費收送、沒有最低消費，洗護費依實際物件另計。",
       "image_url": "https://sixiangjialaundry.com/assets/backgrounds/premium-laundry-depth.png",
       "image_path": "assets/backgrounds/premium-laundry-depth.png",
       "image_alt": "台中店家與公司大量衣物送洗前的分類與交接說明",
@@ -910,7 +910,7 @@
         "私享家洗衣店",
         "LINE 預約洗衣"
       ],
-      "answer_summary": "私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。",
+      "answer_summary": "私享家提供台中全市免費洗衣收送，且收送沒有最低消費門檻（一件也可約）。門市在西屯區青海路二段365號，主要用 LINE 傳照片預約；收送本身免費，清潔與洗護費依物件狀態另計，不等於清潔免費。",
       "image_url": "https://sixiangjialaundry.com/assets/backgrounds/local-store-depth.png",
       "image_path": "assets/backgrounds/local-store-depth.png",
       "image_alt": "台中全市免費洗衣收送服務說明｜私享家洗衣店",
@@ -1035,7 +1035,7 @@
         "台中洗衣多少錢",
         "台中洗鞋多少錢"
       ],
-      "answer_summary": "台中洗衣洗鞋洗包參考價約 $70 到 $2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；皆為水洗參考價，不是固定價。",
+      "answer_summary": "台中洗衣洗鞋洗包水洗參考價約 $70–$2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；乾洗柔洗與發霉另計，以門市檢視為準。私享家在西屯青海路二段365號，台中市免費收送，可 LINE 0968327653 傳照片確認。",
       "image_url": "",
       "image_path": "",
       "image_alt": "台中洗衣洗鞋洗包參考價目說明",
