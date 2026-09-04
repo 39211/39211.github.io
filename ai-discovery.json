@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-09-04T12:54:08.337Z",
+  "generated_at": "2026-09-04T13:19:42.232Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -131,7 +131,8 @@
       "台中洗鞋價格",
       "台中洗襯衫",
       "台中洗床組",
-      "台中西屯布品收納"
+      "台中西屯布品收納",
+      "台中洗皮鞋"
     ],
     "primary_area": "西屯區",
     "street_anchor": "青海路二段",
@@ -207,6 +208,7 @@
       "zhongke-office-laundry": "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
       "donghai-laundry-pickup": "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
       "qinghai-road-shoe-cleaning": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
+      "luxury-designer-shoe-care": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
       "suede-shoe-cleaning": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
       "canvas-shoe-mud": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
       "leather-shoe-water-marks": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
@@ -276,6 +278,7 @@
     "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
     "https://sixiangjialaundry.com/guides/curtain-cleaning.html",
     "https://sixiangjialaundry.com/guides/carpet-cleaning.html",
+    "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
     "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
     "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
     "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
@@ -605,7 +608,8 @@
       "台中洗鞋價格",
       "台中洗襯衫",
       "台中洗床組",
-      "台中西屯布品收納"
+      "台中西屯布品收納",
+      "台中洗皮鞋"
     ],
     "hasOfferCatalog": {
       "@type": "OfferCatalog",
@@ -617,7 +621,7 @@
             "@type": "Service",
             "name": "鞋包清潔",
             "serviceType": "鞋包清潔",
-            "description": "私享家洗衣店（台中市西屯區青海路二段365號）承接逢甲與西屯洗鞋、洗包：先傳鞋面、鞋底、鞋內、包角與提把照片到 LINE，門市依材質說明可清潔範圍；台中市全區免費到府收送、沒有最低消費，清潔費另計。",
+            "description": "私享家洗衣店（台中市西屯區青海路二段365號）承接多鞋款洗鞋與洗包：運動鞋、帆布、皮鞋、麂皮、精品鞋、靴子與白鞋皆可先依材質判斷；LINE 傳鞋面、鞋邊、鞋內與整體照片，台中市免費收送、沒有最低消費，清潔費另計。",
             "areaServed": {
               "@type": "AdministrativeArea",
               "name": "台中西屯"
@@ -724,18 +728,23 @@
       "keywords": [
         "逢甲洗鞋",
         "西屯洗鞋",
+        "台中洗鞋",
         "台中西屯洗鞋",
-        "鞋包清潔",
+        "運動鞋清洗",
+        "帆布鞋清潔",
+        "皮鞋清潔",
+        "麂皮鞋清潔",
+        "精品鞋清潔",
         "洗包",
-        "包包清潔",
+        "鞋包清潔",
         "青海路洗鞋"
       ],
-      "answer_summary": "私享家洗衣店（台中市西屯區青海路二段365號）承接逢甲與西屯洗鞋、洗包：先傳鞋面、鞋底、鞋內、包角與提把照片到 LINE，門市依材質說明可清潔範圍；台中市全區免費到府收送、沒有最低消費，清潔費另計。",
+      "answer_summary": "私享家洗衣店（台中市西屯區青海路二段365號）承接多鞋款洗鞋與洗包：運動鞋、帆布、皮鞋、麂皮、精品鞋、靴子與白鞋皆可先依材質判斷；LINE 傳鞋面、鞋邊、鞋內與整體照片，台中市免費收送、沒有最低消費，清潔費另計。",
       "image_url": "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "image_alt": "鞋包清潔前的包角、鞋面與皮革檢查主圖",
       "image_note": "AI 生成的高擬真產品風格主圖，用於呈現鞋包清潔前的包角、鞋面、皮革水痕與邊緣檢查情境；不是實際客戶物件照片。",
       "case_story": {
-        "label": "雨季通勤後的鞋包狀況",
+        "label": "雨季通勤後的多鞋款狀況",
         "situation": "客人常在雨天通勤、逛街或活動後才發現包包四角變暗、鞋底邊緣卡泥灰，鞋內有一點悶味，但表面看起來又不算嚴重。",
         "inspection": "門市會先分開看包包材質、包角水痕、提把油痕、鞋底邊緣、縫線卡灰與鞋內濕氣，判斷是表面灰塵、雨水滲入、油脂吸附，還是材質本身已經磨耗。",
         "recommendation": "如果照片中看到包角濕痕、提把發暗、鞋內悶味或鞋底邊緣泛灰，建議先不要直接收進鞋櫃或防塵袋，拍照詢問後再決定是否送洗或局部處理。"
@@ -743,27 +752,51 @@
       "case_studies": [
         {
           "label": "情境 01",
-          "object": "通勤帆布鞋",
-          "material": "網布鞋面與橡膠鞋邊",
-          "concern": "雨後鞋邊卡泥灰、鞋內有濕悶感",
-          "inspection": "先看鞋面是否吸水、鞋底邊緣與縫線是否卡灰，再確認鞋墊可否拆出通風。",
-          "boundary": "不以硬刷或漂白處理；膠邊氧化與材質磨耗不承諾回到全新。"
+          "object": "運動鞋／球鞋",
+          "material": "網布或合成皮、橡膠膠邊",
+          "concern": "鞋邊泥灰、鞋內悶味",
+          "inspection": "先看鞋面透氣層、膠邊縫線卡灰與鞋墊可否拆出。",
+          "boundary": "不硬刷漂白；膠邊氧化只評估可改善範圍。"
         },
         {
           "label": "情境 02",
-          "object": "日常肩背包",
-          "material": "尼龍或帆布包身、皮革感提把",
-          "concern": "包角雨水痕與提把發暗",
-          "inspection": "分開看包角摩擦、提把油脂吸附和內裡是否受潮，不把水痕與掉色混為同一種問題。",
-          "boundary": "已掉色或磨損的位置先說明，清潔不等同補色修復。"
+          "object": "帆布鞋",
+          "material": "帆布鞋面與縫線",
+          "concern": "乾泥、折痕卡灰",
+          "inspection": "確認泥是否已乾、縫線是否起毛，避免先濕刷。",
+          "boundary": "濕刷可能起毛；深漬與染色另評估。"
         },
         {
           "label": "情境 03",
-          "object": "久放鞋包",
-          "material": "混合材質鞋面與防塵袋收納",
-          "concern": "外觀不髒但鞋內與包內有悶味",
-          "inspection": "確認味道來源、收納環境與可拆部件，再判斷是否先通風、局部整理或送洗。",
-          "boundary": "不以香味覆蓋悶味，也不建議在未乾燥前重新密封。"
+          "object": "皮鞋",
+          "material": "牛皮或合成皮、邊油",
+          "concern": "雨痕、邊油發暗",
+          "inspection": "分表面灰與滲入水痕，再看邊油磨耗。",
+          "boundary": "清潔不是補色修復；磨穿邊油只能維持。"
+        },
+        {
+          "label": "情境 04",
+          "object": "麂皮／磨砂鞋",
+          "material": "麂皮纖維",
+          "concern": "水斑、倒毛",
+          "inspection": "乾刷順毛方向，避免泡水。",
+          "boundary": "泡水易變硬；染色深漬另說。"
+        },
+        {
+          "label": "情境 05",
+          "object": "精品／名牌鞋",
+          "material": "混材＋飾件",
+          "concern": "飾件鬆動、特殊膠邊",
+          "inspection": "先拍飾件、鞋標、膠邊與最髒處。",
+          "boundary": "不因品牌承諾變全新；飾件風險先講。"
+        },
+        {
+          "label": "情境 06",
+          "object": "日常肩背包",
+          "material": "尼龍或帆布、皮革感提把",
+          "concern": "包角水痕、提把油痕",
+          "inspection": "包角、提把、內裡分開看。",
+          "boundary": "掉色磨損位置先說明，清潔不是補色。"
         }
       ],
       "faq_count": 6
@@ -1164,7 +1197,7 @@
         "勃肯鞋除臭"
       ],
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
-      "linked_service": "白鞋清潔",
+      "linked_service": "鞋包清潔",
       "faq_count": 5,
       "step_count": 5
     },
@@ -1540,6 +1573,23 @@
       "linked_service": "鞋包清潔",
       "faq_count": 5,
       "step_count": 5
+    },
+    {
+      "slug": "luxury-designer-shoe-care",
+      "category": "guide",
+      "title": "精品鞋・名牌鞋清潔怎麼判斷？｜私享家洗衣店",
+      "description": "台中西屯私享家：精品鞋、名牌鞋先看材質、飾件與膠邊，不因品牌承諾變全新；可 LINE 傳照片，台中市免費收送。",
+      "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清洗",
+        "台中洗名牌鞋",
+        "西屯洗精品鞋"
+      ],
+      "local_intent": "台中 精品鞋 名牌鞋 清潔",
+      "linked_service": "鞋包清潔",
+      "faq_count": 4,
+      "step_count": 4
     },
     {
       "slug": "suede-shoe-cleaning",

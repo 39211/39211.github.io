@@ -273,7 +273,8 @@
         "台中洗鞋價格",
         "台中洗襯衫",
         "台中洗床組",
-        "台中西屯布品收納"
+        "台中西屯布品收納",
+        "台中洗皮鞋"
       ],
       "hasOfferCatalog": {
         "@type": "OfferCatalog",
@@ -285,7 +286,7 @@
               "@type": "Service",
               "name": "鞋包清潔",
               "serviceType": "鞋包清潔",
-              "description": "私享家洗衣店（台中市西屯區青海路二段365號）承接逢甲與西屯洗鞋、洗包：先傳鞋面、鞋底、鞋內、包角與提把照片到 LINE，門市依材質說明可清潔範圍；台中市全區免費到府收送、沒有最低消費，清潔費另計。",
+              "description": "私享家洗衣店（台中市西屯區青海路二段365號）承接多鞋款洗鞋與洗包：運動鞋、帆布、皮鞋、麂皮、精品鞋、靴子與白鞋皆可先依材質判斷；LINE 傳鞋面、鞋邊、鞋內與整體照片，台中市免費收送、沒有最低消費，清潔費另計。",
               "areaServed": {
                 "@type": "AdministrativeArea",
                 "name": "台中西屯"
@@ -525,10 +526,15 @@
       "keywords": [
         "逢甲洗鞋",
         "西屯洗鞋",
+        "台中洗鞋",
         "台中西屯洗鞋",
-        "鞋包清潔",
+        "運動鞋清洗",
+        "帆布鞋清潔",
+        "皮鞋清潔",
+        "麂皮鞋清潔",
+        "精品鞋清潔",
         "洗包",
-        "包包清潔",
+        "鞋包清潔",
         "青海路洗鞋"
       ]
     },
@@ -1513,7 +1519,7 @@
         "@id": "https://sixiangjialaundry.com/#website"
       },
       "about": {
-        "@id": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html#service"
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
       },
       "mainEntity": {
         "@id": "https://sixiangjialaundry.com/guides/birkenstock-care.html#howto"
@@ -3718,6 +3724,112 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "運動鞋250起、麂皮鞋400起，以實際報價為主。\n公開水洗價還包括皮類運動鞋 300、休閒鞋 350、皮鞋 400、高跟鞋 400、名牌鞋 600、童鞋 150。乾洗柔洗另計，發霉特污另計；LINE 傳照片可先確認。"
+          }
+        }
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#webpage",
+      "name": "精品鞋・名牌鞋清潔怎麼判斷？｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
+      "description": "台中西屯私享家：精品鞋、名牌鞋先看材質、飾件與膠邊，不因品牌承諾變全新；可 LINE 傳照片，台中市免費收送。",
+      "inLanguage": "zh-Hant-TW",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#website"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
+      },
+      "mainEntity": {
+        "@id": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#howto"
+      },
+      "hasPart": {
+        "@id": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#faq"
+      },
+      "dateModified": "2026-09-04",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清洗",
+        "台中洗名牌鞋",
+        "西屯洗精品鞋"
+      ]
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#howto",
+      "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
+      "mainEntityOfPage": {
+        "@id": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#webpage"
+      },
+      "name": "精品鞋・名牌鞋：先看材質與飾件",
+      "description": "精品鞋不是不能清，而是要先看混材、飾件與膠邊風險；門市依照片說明可改善範圍。",
+      "inLanguage": "zh-Hant-TW",
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "拍品牌與材質",
+          "text": "整體、鞋標、鞋面材質各一張，讓門市知道是皮、麂皮、織物還是混材。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "拍飾件與膠邊",
+          "text": "金屬飾、縫線、特殊膠邊與最髒位置近拍；飾件鬆動要先說。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "說明期待",
+          "text": "去味、去泥、維持外觀，或只做局部；不要預設能回到專櫃全新。"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "對價目與收送",
+          "text": "名牌鞋水洗參考價見價目表；台中市可免費收送，清潔另計。"
+        }
+      ]
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#faq",
+      "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#faq",
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#webpage"
+      },
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "名牌鞋一定能洗到像新的嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "不能這樣預設。門市會先看材質與磨耗，只說明可改善範圍，不因品牌承諾變全新。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "飾件會不會弄壞？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先拍照說明飾件位置。有鬆動或特殊結構時，可能建議局部整理或不硬處理。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "台中可以收送精品鞋嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以。台中市免費收送、沒有最低消費；清潔費依實際檢視，參考價見價目表。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "和洗包是同一流程嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "鞋與包都先看材質，但判斷點不同。鞋看鞋面鞋邊鞋內；包看包角提把。可同一則 LINE 傳，門市會分開回。"
           }
         }
       ]

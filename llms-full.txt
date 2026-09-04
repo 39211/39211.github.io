@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-04T12:54:08.337Z
+- Generated at: 2026-09-04T13:19:42.232Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -57,6 +57,7 @@
 - support_pages.zhongke-office-laundry: https://sixiangjialaundry.com/local/zhongke-office-laundry.html
 - support_pages.donghai-laundry-pickup: https://sixiangjialaundry.com/local/donghai-laundry-pickup.html
 - support_pages.qinghai-road-shoe-cleaning: https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html
+- support_pages.luxury-designer-shoe-care: https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html
 - support_pages.suede-shoe-cleaning: https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html
 - support_pages.canvas-shoe-mud: https://sixiangjialaundry.com/guides/canvas-shoe-mud.html
 - support_pages.leather-shoe-water-marks: https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html
@@ -361,7 +362,8 @@
     "台中洗鞋價格",
     "台中洗襯衫",
     "台中洗床組",
-    "台中西屯布品收納"
+    "台中西屯布品收納",
+    "台中洗皮鞋"
   ],
   "hasOfferCatalog": {
     "@type": "OfferCatalog",
@@ -373,7 +375,7 @@
           "@type": "Service",
           "name": "鞋包清潔",
           "serviceType": "鞋包清潔",
-          "description": "私享家洗衣店（台中市西屯區青海路二段365號）承接逢甲與西屯洗鞋、洗包：先傳鞋面、鞋底、鞋內、包角與提把照片到 LINE，門市依材質說明可清潔範圍；台中市全區免費到府收送、沒有最低消費，清潔費另計。",
+          "description": "私享家洗衣店（台中市西屯區青海路二段365號）承接多鞋款洗鞋與洗包：運動鞋、帆布、皮鞋、麂皮、精品鞋、靴子與白鞋皆可先依材質判斷；LINE 傳鞋面、鞋邊、鞋內與整體照片，台中市免費收送、沒有最低消費，清潔費另計。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中西屯"

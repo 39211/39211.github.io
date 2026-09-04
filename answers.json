@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-04T12:54:08.337Z",
+  "generated_at": "2026-09-04T13:19:42.232Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -221,7 +221,7 @@
       "question": "搜尋台中西屯洗衣店時，私享家洗衣店提供哪些服務？",
       "answer": "私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，提供衣物洗護、鞋包清潔、白鞋清潔、布品收納，以及店家與公司大量衣物送洗諮詢；台中全市可預約免費收送，主要透過 LINE 傳照片與品項清單詢問，再由門市依材質、件數、髒污、濕氣與收納狀態判斷。收送免費不代表清潔免費。",
       "source_url": "https://sixiangjialaundry.com/",
-      "local_intent": "洗衣店, 台中洗衣店, 西屯洗衣店, 台中西屯洗衣店, 青海路洗衣店, 台中洗衣收送, 台中免費收送, 台中洗鞋, 台中西屯洗鞋, 逢甲洗鞋, 台中洗包, 台中西屯洗包, 台中西屯白鞋清潔, 台中洗衣價目表, 台中洗鞋價格, 台中洗襯衫, 台中洗床組, 台中西屯布品收納",
+      "local_intent": "洗衣店, 台中洗衣店, 西屯洗衣店, 台中西屯洗衣店, 青海路洗衣店, 台中洗衣收送, 台中免費收送, 台中洗鞋, 台中西屯洗鞋, 逢甲洗鞋, 台中洗包, 台中西屯洗包, 台中西屯白鞋清潔, 台中洗衣價目表, 台中洗鞋價格, 台中洗襯衫, 台中洗床組, 台中西屯布品收納, 台中洗皮鞋",
       "priority": "home",
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -828,7 +828,7 @@
       "id": "shoe-bag-care-summary",
       "type": "service_summary",
       "question": "台中西屯鞋包清潔要怎麼判斷？",
-      "answer": "私享家洗衣店（台中市西屯區青海路二段365號）承接逢甲與西屯洗鞋、洗包：先傳鞋面、鞋底、鞋內、包角與提把照片到 LINE，門市依材質說明可清潔範圍；台中市全區免費到府收送、沒有最低消費，清潔費另計。",
+      "answer": "私享家洗衣店（台中市西屯區青海路二段365號）承接多鞋款洗鞋與洗包：運動鞋、帆布、皮鞋、麂皮、精品鞋、靴子與白鞋皆可先依材質判斷；LINE 傳鞋面、鞋邊、鞋內與整體照片，台中市免費收送、沒有最低消費，清潔費另計。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/services/shoe-bag-care.html",
       "local_intent": "台中西屯 鞋包清潔",
@@ -1496,7 +1496,7 @@
       "type": "guide_summary",
       "question": "勃肯鞋會臭嗎？先看軟木鞋床，不要整雙泡水",
       "answer": "勃肯鞋會臭，多半是軟木鞋床吸汗，不是鞋面；整雙泡水會更糟。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1526,7 +1526,7 @@
       "type": "guide_faq",
       "question": "勃肯鞋會臭嗎?",
       "answer": "會，而且味道多半來自軟木鞋床吸汗，不是鞋面。噴除臭劑蓋不住；要處理鞋床，不要整雙泡水。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1556,7 +1556,7 @@
       "type": "guide_faq",
       "question": "勃肯鞋可以整雙丟洗衣機嗎?",
       "answer": "不建議。軟木鞋床泡水後會鬆散變形、麂皮會硬掉,洗完可能比洗前更糟。分材質處理才是正確做法。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1586,7 +1586,7 @@
       "type": "guide_faq",
       "question": "鞋床黑掉能洗回原色嗎?",
       "answer": "表層角質與塵土多半能明顯改善;汗垢已滲入軟木深層的,以去味與淡化為目標,不保證回到原色。處理前會先講清楚界線。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1616,7 +1616,7 @@
       "type": "guide_faq",
       "question": "台中洗勃肯鞋多少錢?",
       "answer": "參考價:休閒鞋 $350、麂皮鞋 $400(水洗價,乾洗柔洗另計,以實際報價為主)。LINE 傳鞋床與鞋面照片(0968327653)可先確認。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1646,7 +1646,7 @@
       "type": "guide_faq",
       "question": "多久洗一次比較好?",
       "answer": "天天穿的建議每季一次,不要等到味道明顯才處理——汗垢滲得越深越難救。台中市全區免費收送。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -4158,6 +4158,141 @@
         "西屯洗包"
       ],
       "priority": "local",
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "luxury-designer-shoe-care-summary",
+      "type": "guide_summary",
+      "question": "精品鞋・名牌鞋：先看材質與飾件",
+      "answer": "精品鞋先看材質飾件與膠邊，不因品牌承諾全新；LINE傳照片，台中可免費收送。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
+      "local_intent": "台中 精品鞋 名牌鞋 清潔",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清洗",
+        "台中洗名牌鞋",
+        "西屯洗精品鞋"
+      ],
+      "priority": "guide",
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "luxury-designer-shoe-care-faq-01",
+      "type": "guide_faq",
+      "question": "名牌鞋一定能洗到像新的嗎？",
+      "answer": "不能這樣預設。門市會先看材質與磨耗，只說明可改善範圍，不因品牌承諾變全新。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#faq",
+      "local_intent": "台中 精品鞋 名牌鞋 清潔",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清洗",
+        "台中洗名牌鞋",
+        "西屯洗精品鞋"
+      ],
+      "priority": "guide",
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "luxury-designer-shoe-care-faq-02",
+      "type": "guide_faq",
+      "question": "飾件會不會弄壞？",
+      "answer": "先拍照說明飾件位置。有鬆動或特殊結構時，可能建議局部整理或不硬處理。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#faq",
+      "local_intent": "台中 精品鞋 名牌鞋 清潔",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清洗",
+        "台中洗名牌鞋",
+        "西屯洗精品鞋"
+      ],
+      "priority": "guide",
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "luxury-designer-shoe-care-faq-03",
+      "type": "guide_faq",
+      "question": "台中可以收送精品鞋嗎？",
+      "answer": "可以。台中市免費收送、沒有最低消費；清潔費依實際檢視，參考價見價目表。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#faq",
+      "local_intent": "台中 精品鞋 名牌鞋 清潔",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清洗",
+        "台中洗名牌鞋",
+        "西屯洗精品鞋"
+      ],
+      "priority": "guide",
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "luxury-designer-shoe-care-faq-04",
+      "type": "guide_faq",
+      "question": "和洗包是同一流程嗎？",
+      "answer": "鞋與包都先看材質，但判斷點不同。鞋看鞋面鞋邊鞋內；包看包角提把。可同一則 LINE 傳，門市會分開回。",
+      "service": "鞋包清潔",
+      "source_url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html#faq",
+      "local_intent": "台中 精品鞋 名牌鞋 清潔",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清洗",
+        "台中洗名牌鞋",
+        "西屯洗精品鞋"
+      ],
+      "priority": "guide",
       "area": "西屯區",
       "confidence": "business-owned-source",
       "citation_guidance": "Use the answer as short factual context and cite source_url.",
