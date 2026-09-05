@@ -225,7 +225,11 @@ Meta 服務條款 **2025-01-01** 修訂後：
 
 - **PR #1**（Draft，base `main`）：整個專案。**維持 Draft**，離 Ready 還很遠
 - **PR #2**：已合併進 PR #1 的分支
-- CI 的 `soak` job 目前是紅的，原因是 **WO-002**（預算抑制被寫成 `DEAD_LETTER`，gate 把它算成投遞失敗），**不是產品壞掉**
+- **CI 全綠**（run `33947159742`，head `de88a5f`，2026-09-05）：`verify` 與 `soak` 在 Linux／Windows 四個 job 全部 success
+
+  > ⚠️ **但 WO-002 沒有被修，只是不再觸發。** soak 之所以轉綠，是因為 PR #2 讓壓測腳本覆寫了 `max_notifications_per_day`（WO-001），預算抑制不再發生 → `dead = 0` → gate 通過。
+  >
+  > `DeliveryStatus` 仍然沒有 `SUPPRESSED` 這個狀態，預算抑制仍然被寫成 `DEAD_LETTER`（`src/line/notifier.ts:249`）。**一旦正式環境的每日額度用完，監控就會把「刻意抑制」報成「投遞失敗」，而且會把真正的投遞失敗藏在裡面數不出來。** 這條在真機上線前要修。
 - `docs/dispatch/` 的 15 張工單與 `BACKLOG.md` 的 4 項待確認發現
 
 ---
