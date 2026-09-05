@@ -14,6 +14,7 @@ import { composeEvidence, type ComposeInfo } from '../capture/compose.js';
 import { enqueueEvent, raiseAlert } from '../line/notifier.js';
 import {
   bumpCaptureFailures,
+  countEntities,
   deleteVisualBaseline,
   getPendingGroup,
   getVisualBaseline,
@@ -173,7 +174,10 @@ export async function runTargetCycle(app: App, target: TargetConfig, holder: Pag
   const posts: NormalizedPost[] = extract.posts.map((p) => normalizePost(p, adapter.catalog));
   const avgConfidence = avg(posts.map((p) => p.confidence));
   const commentCount = posts.reduce((n, p) => n + p.comments.length, 0);
-  const extractorFailed = posts.length === 0 || avgConfidence < 0.6;
+  // feed 在、0 則貼文：若從未記錄過任何貼文，這是空牆（完成／維持空 baseline）。
+  // 若已經有貼文實體，同一畫面變成 0 則比較像骨架或暫時載入失敗，維持抽取失敗以免抹掉 baseline。
+  const emptyWall = posts.length === 0 && extract.diagnostics.feedFound;
+  const extractorFailed = emptyWall ? countEntities(db, target.key, 'post') > 0 : posts.length === 0 || avgConfidence < 0.6;
   insertExtractorHealth(db, {
     targetKey: target.key,
     adapterVersion: ADAPTER_VERSION,

@@ -98,6 +98,16 @@ async function cmdWatch(configPath: string | undefined, flags: { headless?: bool
   };
   process.on('SIGINT', () => void shutdown('SIGINT'));
   process.on('SIGTERM', () => void shutdown('SIGTERM'));
+  const fatal = (kind: string, err: unknown): void => {
+    try {
+      app.logger.error({ err }, `${kind}：watcher 無法安全繼續，即將結束`);
+    } catch {
+      /* 日誌失敗也不能吞掉終止 */
+    }
+    process.exit(1);
+  };
+  process.on('uncaughtException', (err) => fatal('uncaughtException', err));
+  process.on('unhandledRejection', (err) => fatal('unhandledRejection', err));
   try {
     if (app.config.targets.some((t) => t.enabled)) await app.openBrowser({ headless: flags.headless });
     else print('目前沒有啟用任何瀏覽器 target，只以手機通知運作（電腦完全不連 Facebook）。');

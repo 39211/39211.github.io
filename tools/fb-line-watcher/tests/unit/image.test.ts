@@ -2,7 +2,14 @@ import { describe, expect, it } from 'vitest';
 import { readFileSync, existsSync } from 'node:fs';
 import path from 'node:path';
 import { InvalidImageError, contentTypeForExtension, validateImage } from '../../src/util/image.js';
-import { FAKE_JPEG, FAKE_PNG, TINY_JPEG, TRUNCATED_JPEG, tinyPng } from '../../fixtures/images.js';
+import { ingestNotification } from '../../src/worker/phone-ingest.js';
+import { Db } from '../../src/storage/db.js';
+import { PhoneIngestSchema } from '../../src/config/schema.js';
+import { createLogger } from '../../src/logger.js';
+import { Writable } from 'node:stream';
+import { mkdtempSync, rmSync, readdirSync } from 'node:fs';
+import os from 'node:os';
+import { FAKE_JPEG, FAKE_PNG, JPEG_EMPTY_SOF, JPEG_HEADER_ONLY, PNG_BOMB_HEADER, TINY_JPEG, TRUNCATED_JPEG, tinyPng } from '../../fixtures/images.js';
 
 /**
  * 回歸（P1）：舊版只檢查 magic bytes，驗證報告用 204 bytes 的假 JPEG
@@ -60,6 +67,57 @@ describe('validateImage', () => {
       const info = validateImage(readFileSync(path.join(dir, f)));
       expect(info.format).toBe('jpeg');
       expect(info.width).toBeGreaterThan(100);
+    }
+  });
+});
+
+describe('validateImage：解碼前上限與 JPEG 完整性（WO-012）', () => {
+  it('PNG_BOMB_HEADER（68 bytes、IHDR 20000×20000）在 100ms 內拒絕，不得進入解碼', () => {
+    expect(PNG_BOMB_HEADER.length).toBe(68);
+    const t0 = Date.now();
+    expect(() => validateImage(PNG_BOMB_HEADER)).toThrow(InvalidImageError);
+    expect(Date.now() - t0).toBeLessThan(100);
+  });
+
+  it('JPEG_EMPTY_SOF 與 JPEG_HEADER_ONLY 被拒絕', () => {
+    expect(() => validateImage(JPEG_EMPTY_SOF)).toThrow(InvalidImageError);
+    expect(() => validateImage(JPEG_HEADER_ONLY)).toThrow(InvalidImageError);
+  });
+
+  it('IHDR 宣告與實際解碼尺寸不符 → InvalidImageError', async () => {
+    const { PNG } = await import('pngjs');
+    const orig = PNG.sync.read;
+    PNG.sync.read = (() => ({ width: 99, height: 99, data: Buffer.alloc(0) })) as typeof PNG.sync.read;
+    try {
+      expect(() => validateImage(tinyPng(8, 8))).toThrow(InvalidImageError);
+    } finally {
+      PNG.sync.read = orig;
+    }
+  });
+
+  it('PNG_BOMB_HEADER 走 ingestNotification → 無截圖落地', () => {
+    const dir = mkdtempSync(path.join(os.tmpdir(), 'fblw-bomb-'));
+    const db = new Db(':memory:');
+    const sink = new Writable({ write(_c, _e, cb) { cb(); } });
+    try {
+      const r = ingestNotification(
+        {
+          db,
+          config: PhoneIngestSchema.parse({ enabled: true }),
+          token: 'p'.repeat(32),
+          capturesDir: dir,
+          timezone: 'Asia/Taipei',
+          logger: createLogger({ stream: sink, level: 'error' }),
+          now: () => new Date('2026-09-05T00:00:00+08:00'),
+        },
+        { title: 'A', text: 'bomb', packageName: 'com.facebook.katana' },
+        PNG_BOMB_HEADER,
+      );
+      expect(r).toMatchObject({ status: 'accepted', hasImage: false });
+      expect(readdirSync(dir, { recursive: true }).filter((n) => String(n).endsWith('.png') || String(n).endsWith('.jpg'))).toEqual([]);
+    } finally {
+      db.close();
+      rmSync(dir, { recursive: true, force: true });
     }
   });
 });

@@ -3,6 +3,7 @@ import { Writable } from 'node:stream';
 import { mkdtempSync, rmSync, existsSync, readFileSync } from 'node:fs';
 import path from 'node:path';
 import os from 'node:os';
+import net from 'node:net';
 import { Db } from '../../src/storage/db.js';
 import { createLogger, clearSecretsForTest, registerSecret } from '../../src/logger.js';
 import { PhoneIngestSchema } from '../../src/config/schema.js';
@@ -251,5 +252,68 @@ describe('設定驗證', () => {
     expect(c.targets).toHaveLength(0);
     expect(c.phone_ingest.port).toBe(8800);
     expect(c.phone_ingest.allowed_packages).toContain('com.facebook.katana');
+  });
+});
+
+function rawHttp(port: number, requestLine: string): Promise<{ status: number; body: string }> {
+  return new Promise((resolve, reject) => {
+    const sock = net.connect({ host: '127.0.0.1', port }, () => {
+      sock.write(`${requestLine}\r\nHost: 127.0.0.1\r\nConnection: close\r\n\r\n`);
+    });
+    let buf = '';
+    sock.setEncoding('utf8');
+    const done = (status: number, body: string): void => {
+      sock.destroy();
+      resolve({ status, body });
+    };
+    sock.on('data', (c) => {
+      buf += c;
+    });
+    sock.on('end', () => {
+      const m = /^HTTP\/1\.\d (\d+)/.exec(buf);
+      done(m ? Number(m[1]) : 0, buf);
+    });
+    sock.on('error', reject);
+    setTimeout(() => done(0, 'timeout'), 2000);
+  });
+}
+
+describe('手機接收伺服器：畸形 request 與 DB 例外不得結束程序', () => {
+  let server: PhoneIngestHandle;
+  afterEach(async () => {
+    await server?.close();
+  });
+
+  it('畸形 raw target 一律 400（不帶 token），之後 /health 仍可用', async () => {
+    const uncaught: unknown[] = [];
+    const onUncaught = (e: unknown): void => {
+      uncaught.push(e);
+    };
+    process.on('uncaughtException', onUncaught);
+    try {
+      server = await startPhoneIngestServer({ ...deps, port: 0, bind: '127.0.0.1' });
+      for (const raw of ['//[', '//]', '//[::1', '//a%ZZ', '/\\', 'http://[']) {
+        const line = `GET ${raw} HTTP/1.1`;
+        expect((await rawHttp(server.port, line)).status, raw).toBe(400);
+      }
+      const h = await fetch(`http://127.0.0.1:${server.port}/health`);
+      expect(h.status).toBe(200);
+    } finally {
+      process.off('uncaughtException', onUncaught);
+    }
+    expect(uncaught).toEqual([]);
+  });
+
+  it('db.run 丟例外時回 500，程序存活', async () => {
+    const orig = deps.db.run.bind(deps.db);
+    deps.db.run = (() => {
+      throw new Error('SQLITE_BUSY');
+    }) as typeof deps.db.run;
+    server = await startPhoneIngestServer({ ...deps, port: 0, bind: '127.0.0.1' });
+    const res = await fetch(`http://127.0.0.1:${server.port}/phone/notify?token=${TOKEN}&text=x&pkg=${PKG}`, { method: 'POST' });
+    expect(res.status).toBe(500);
+    deps.db.run = orig;
+    const h = await fetch(`http://127.0.0.1:${server.port}/health`);
+    expect(h.status).toBe(200);
   });
 });

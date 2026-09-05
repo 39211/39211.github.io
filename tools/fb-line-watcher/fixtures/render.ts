@@ -113,6 +113,8 @@ export function renderSurface(s: FxSurface, reqUrl = '/'): string {
   const title = `${s.name} | Facebook`;
   let main: string;
   switch (s.mode) {
+    case 'blank':
+      return `<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title></title></head><body></body></html>`;
     case 'login':
       return `<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>登入 Facebook</title></head><body style="font-family:sans-serif;background:#f0f2f5">
         <div style="max-width:400px;margin:80px auto;background:#fff;padding:20px;border-radius:8px"><h1 style="font-size:20px">登入 Facebook</h1>

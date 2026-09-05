@@ -94,6 +94,8 @@ async function main(): Promise<void> {
     visual_confirm_after_seconds: 0,
     browser: { headed: false, viewport: { width: 1200, height: 900 }, navigation_timeout_ms: 20000, quiet_period_ms: 150, profile_dir: 'profile' },
     line: { api_base_url: line.baseUrl, retry_schedule_seconds: [1, 1, 1], system_alert_cooldown_minutes: 60 },
+    // 壓測會在 30 分鐘內模擬數天的量，預設 150 會讓後半段全被預算抑制，那是腳本設定不是產品缺陷
+    max_notifications_per_day: 100000,
     images: { publisher: 'none' },
     trigger: { enabled: true, port: triggerPort, bind: '127.0.0.1', min_interval_seconds: 0, delay_seconds: 0 },
     phone_ingest: { enabled: true, port: phonePort, bind: '127.0.0.1', debounce_seconds: 0, dedup_window_seconds: 600 },

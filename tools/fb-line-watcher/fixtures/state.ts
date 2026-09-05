@@ -22,7 +22,7 @@ export interface FxPost {
   sponsored?: boolean;
 }
 
-export type FxMode = 'normal' | 'login' | 'checkpoint' | 'permission' | 'skeleton' | 'noroles' | 'slow';
+export type FxMode = 'normal' | 'login' | 'checkpoint' | 'permission' | 'skeleton' | 'noroles' | 'slow' | 'blank';
 
 export interface FxSurface {
   kind: 'page' | 'group';

@@ -198,14 +198,23 @@ export const ConfigSchema = z
         ctx.addIssue({ code: 'custom', path: ['targets', i, 'key'], message: `target key 重複：${t.key}` });
       }
       seen.add(t.key);
-      const host = new URL(t.url).hostname.toLowerCase();
+      let host: string;
+      let pathname: string;
+      try {
+        const parsed = new URL(t.url);
+        host = parsed.hostname.toLowerCase();
+        pathname = parsed.pathname;
+      } catch {
+        ctx.addIssue({ code: 'custom', path: ['targets', i, 'url'], message: `網址格式不正確：${t.url}` });
+        return;
+      }
       // 必須比對主機名邊界，只用字串結尾會把 notfacebook.com、evilfacebook.com 也放行
       const isFacebookHost = host === 'facebook.com' || host.endsWith('.facebook.com');
       const isLocalHost = host === 'localhost' || host === '127.0.0.1';
       if (!isFacebookHost && !isLocalHost) {
         ctx.addIssue({ code: 'custom', path: ['targets', i, 'url'], message: `url 必須是 facebook.com 網址：${t.url}` });
       }
-      if (t.type === 'facebook_group' && isFacebookHost && !/\/groups\//.test(new URL(t.url).pathname)) {
+      if (t.type === 'facebook_group' && isFacebookHost && !/\/groups\//.test(pathname)) {
         ctx.addIssue({ code: 'custom', path: ['targets', i, 'url'], message: `type 為 facebook_group 時 url 應包含 /groups/：${t.url}` });
       }
     });
