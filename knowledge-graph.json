@@ -232,6 +232,9 @@
         "https://sixiangjialaundry.com/assets/2026-09-05/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-05/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-09-05/slot-03.png",
+        "https://sixiangjialaundry.com/assets/2026-09-06/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-06/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-06/slot-03.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -425,7 +428,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-09-05"
+      "dateModified": "2026-09-06"
     },
     {
       "@type": "FAQPage",
@@ -486,7 +489,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-05",
+      "dateModified": "2026-09-06",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -10960,6 +10963,120 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-05/slot-03.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-05/slot-03.png",
       "caption": "先看領口內側那圈",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-01",
+      "headline": "2026-09-06 11:30 鞋底開膠還能黏嗎？先看開口在哪 3 個位置再決定",
+      "text": "鞋底開膠還能黏嗎？先看開口在哪 3 個位置再決定。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n台中全區免費到府收，沒有低消、一件也收，傳 LINE說一聲就好。\n\n你有幾雙鞋是因為不知道怎麼洗就一直放著？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n下一集：球鞋中底那圈黃是髒還是氧化？一張近照就分得出來\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-09-06T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-06/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-06/slot-01.png",
+      "caption": "鞋底開膠還能黏嗎？先看開口在哪 3 個位置再決定",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-02",
+      "headline": "2026-09-06 20:30 細節拆解：騎車族雨衣外套分開看，先看容易忽略的位置",
+      "text": "騎車族雨衣外套分開看，先看容易忽略的位置。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n收之前想先整理一次？傳 LINE跟我們說，台中市區到府收。\n\n你衣櫃裡放最久沒動的是什麼？\n\n衣櫃塞到關不起來的朋友，這篇傳給他。\n\n追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #機車通勤 #外套清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-09-06T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#機車通勤",
+        "#外套清洗",
+        "#衣物送洗",
+        "#乾洗",
+        "#台中乾洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-06/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-06/slot-02.png",
+      "caption": "細節拆解：騎車族雨衣外套分開看，先看容易忽略的位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-03",
+      "headline": "2026-09-06 12:00 先看輪子縫裡的灰",
+      "text": "旅行回來先別推進櫃子。\n\n輪子底板都在地上磨，灰收進去下次打開就是味道。不用整咖搬來，台中市區免費到府收。\n\n先看輪子縫裡的灰。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-09-06T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-03:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-06/slot-03.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-06/slot-03.png",
+      "caption": "先看輪子縫裡的灰",
       "inLanguage": "zh-Hant"
     }
   ]

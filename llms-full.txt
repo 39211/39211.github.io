@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-05T15:23:36.631Z
+- Generated at: 2026-09-05T22:30:47.991Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -321,6 +321,9 @@
     "https://sixiangjialaundry.com/assets/2026-09-05/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-05/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-09-05/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-09-06/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-09-06/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-09-06/slot-03.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -7326,4 +7329,179 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-09-06 11:30 鞋底開膠還能黏嗎？先看開口在哪 3 個位置再決定
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-01
+- published local time: 2026-09-06T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 台中洗鞋 | 西屯洗鞋 | 逢甲洗鞋 | 台中洗鞋店 | 台中白鞋清潔 | 球鞋清洗台中
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-09-06/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-06.json
+
+Facebook caption:
+
+鞋底開膠還能黏嗎？先看開口在哪 3 個位置再決定。
+
+鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。
+
+鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。
+
+台中全區免費到府收，沒有低消、一件也收，傳 LINE說一聲就好。
+
+你有幾雙鞋是因為不知道怎麼洗就一直放著？
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+下一集：球鞋中底那圈黃是髒還是氧化？一張近照就分得出來
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+鞋底開膠還能黏嗎？先看開口在哪 3 個位置再決定。
+
+鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。
+
+鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。
+
+台中全區免費到府收，沒有低消、一件也收，私訊說一聲就好。
+
+你有幾雙鞋是因為不知道怎麼洗就一直放著？
+
+追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。
+
+下一集：球鞋中底那圈黃是髒還是氧化？一張近照就分得出來
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-09-06 20:30 細節拆解：騎車族雨衣外套分開看，先看容易忽略的位置
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-02
+- published local time: 2026-09-06T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: trust-reset
+- search_intent: aftercare
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中外套清洗 | 棉被有潮味怎麼辦
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #機車通勤 #外套清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-09-06/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-06.json
+
+Facebook caption:
+
+騎車族雨衣外套分開看，先看容易忽略的位置。
+
+厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。
+
+我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。
+
+收之前想先整理一次？傳 LINE跟我們說，台中市區到府收。
+
+你衣櫃裡放最久沒動的是什麼？
+
+衣櫃塞到關不起來的朋友，這篇傳給他。
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #機車通勤 #外套清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+騎車族雨衣外套分開看，先看容易忽略的位置。
+
+厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。
+
+我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。
+
+收之前想先整理一次？私訊跟我們說，台中市區到府收。
+
+你衣櫃裡放最久沒動的是什麼？
+
+衣櫃塞到關不起來的朋友，這篇傳給他。
+
+追蹤私享家，之後會持續整理衣物、寢具和收納前的洗護判斷。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #機車通勤 #外套清洗 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-09-06 12:00 先看輪子縫裡的灰
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-06.json#post-2026-09-06-slot-03
+- published local time: 2026-09-06T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-09-06/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-06.json
+
+Facebook caption:
+
+旅行回來先別推進櫃子。
+
+輪子底板都在地上磨，灰收進去下次打開就是味道。不用整咖搬來，台中市區免費到府收。
+
+先看輪子縫裡的灰。
+
+不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+私享家洗衣店｜台中市區免費到府收送
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+旅行回來先別推進櫃子。
+
+輪子底板都在地上磨，灰收進去下次打開就是味道。不用整咖搬來，台中市區免費到府收。
+
+先看輪子縫裡的灰。
+
+不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
+
+如果只能先救一樣，你會選鞋子還是包包？
+
+認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。
+
+私享家洗衣店｜台中市區免費到府收送
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
 
