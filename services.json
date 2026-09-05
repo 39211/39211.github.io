@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-05T13:31:27.286Z",
+  "generated_at": "2026-09-05T14:14:43.220Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -136,6 +136,12 @@
           "title": "包包提把與包角怎麼判斷？｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
           "local_intent": "台中西屯 包包清潔 提把 包角"
+        },
+        {
+          "slug": "luxury-designer-shoe-care",
+          "title": "精品鞋・名牌鞋清潔怎麼判斷？｜私享家洗衣店",
+          "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
+          "local_intent": "台中西屯 精品鞋 名牌鞋 清潔判斷 膠邊飾件"
         },
         {
           "slug": "luggage-wheel-cleaning",
@@ -568,8 +574,8 @@
     {
       "slug": "taichung-xitun-laundry",
       "name": "台中西屯洗衣店",
-      "title": "台中西屯洗衣店｜青海路衣物、洗鞋洗包與布品收納｜私享家洗衣店",
-      "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包、白鞋清潔與布品收納前檢查，可用 LINE 先傳照片詢問。",
+      "title": "台中西屯洗衣店在哪？青海路門市、逢甲怎麼到｜私享家洗衣店",
+      "description": "台中西屯洗衣店在哪？私享家在青海路二段365號、至善國中對面。衣物、洗鞋、洗包與布品可 LINE 先傳照片；逢甲過來可到店，其他區走全市收送。",
       "url": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
       "canonical_url": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
       "in_language": "zh-Hant-TW",
@@ -897,8 +903,8 @@
     {
       "slug": "taichung-citywide-laundry-pickup",
       "name": "台中全市免費洗衣收送",
-      "title": "台中免費收送洗衣｜全市到府、LINE 預約｜私享家洗衣店",
-      "description": "台中免費收送洗衣服務涵蓋全市，收送沒有最低消費門檻，不需單次洗滌滿額。門市在西屯青海路二段365號，先用 LINE 傳照片預約。",
+      "title": "台中洗衣收送怎麼約？全市免費、沒有最低消費｜私享家洗衣店",
+      "description": "台中洗衣收送怎麼約？全市到府、收送本身免費、沒有最低消費門檻。門市在西屯青海路二段365號，先用 LINE 傳照片預約；清潔費用另計。",
       "url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
       "canonical_url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
       "in_language": "zh-Hant-TW",
@@ -1022,7 +1028,7 @@
     {
       "slug": "taichung-laundry-price-list",
       "name": "台中洗衣價目表",
-      "title": "台中洗衣價目表｜台中洗鞋價格・洗包包多少錢｜西屯洗衣店價格｜私享家洗衣店",
+      "title": "台中洗衣價目表｜洗鞋洗包多少錢？襯衫 $70・運動鞋 $250｜私享家洗衣店",
       "description": "台中洗衣價目表：洗鞋、洗包、洗衣與寢具水洗參考價一次列清。門市在西屯青海路二段365號，台中市全區免費到府收送，LINE 0968327653。",
       "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
       "canonical_url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",

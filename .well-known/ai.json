@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-09-05T13:31:27.286Z",
+  "generated_at": "2026-09-05T14:14:43.220Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -196,6 +196,7 @@
       "bedding-duvet-cleaning": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
       "plush-doll-cleaning": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
       "luxury-dry-cleaning": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
+      "luxury-designer-shoe-care": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
       "taichung-laundry-service-search": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html",
       "clothing-alteration-with-laundry": "https://sixiangjialaundry.com/guides/clothing-alteration-with-laundry.html",
       "luggage-wheel-cleaning": "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
@@ -264,6 +265,7 @@
     "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
     "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
     "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
+    "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
     "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html",
     "https://sixiangjialaundry.com/guides/clothing-alteration-with-laundry.html",
     "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
@@ -893,8 +895,8 @@
     {
       "slug": "taichung-xitun-laundry",
       "name": "台中西屯洗衣店",
-      "title": "台中西屯洗衣店｜青海路衣物、洗鞋洗包與布品收納｜私享家洗衣店",
-      "description": "私享家洗衣店位於台中市西屯區青海路二段365號，提供衣物洗護、洗鞋、洗包、白鞋清潔與布品收納前檢查，可用 LINE 先傳照片詢問。",
+      "title": "台中西屯洗衣店在哪？青海路門市、逢甲怎麼到｜私享家洗衣店",
+      "description": "台中西屯洗衣店在哪？私享家在青海路二段365號、至善國中對面。衣物、洗鞋、洗包與布品可 LINE 先傳照片；逢甲過來可到店，其他區走全市收送。",
       "url": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
       "keywords": [
         "台中西屯洗衣店",
@@ -1002,8 +1004,8 @@
     {
       "slug": "taichung-citywide-laundry-pickup",
       "name": "台中全市免費洗衣收送",
-      "title": "台中免費收送洗衣｜全市到府、LINE 預約｜私享家洗衣店",
-      "description": "台中免費收送洗衣服務涵蓋全市，收送沒有最低消費門檻，不需單次洗滌滿額。門市在西屯青海路二段365號，先用 LINE 傳照片預約。",
+      "title": "台中洗衣收送怎麼約？全市免費、沒有最低消費｜私享家洗衣店",
+      "description": "台中洗衣收送怎麼約？全市到府、收送本身免費、沒有最低消費門檻。門市在西屯青海路二段365號，先用 LINE 傳照片預約；清潔費用另計。",
       "url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
       "keywords": [
         "台中洗衣收送",
@@ -1054,7 +1056,7 @@
     {
       "slug": "taichung-laundry-price-list",
       "name": "台中洗衣價目表",
-      "title": "台中洗衣價目表｜台中洗鞋價格・洗包包多少錢｜西屯洗衣店價格｜私享家洗衣店",
+      "title": "台中洗衣價目表｜洗鞋洗包多少錢？襯衫 $70・運動鞋 $250｜私享家洗衣店",
       "description": "台中洗衣價目表：洗鞋、洗包、洗衣與寢具水洗參考價一次列清。門市在西屯青海路二段365號，台中市全區免費到府收送，LINE 0968327653。",
       "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
       "keywords": [
@@ -1382,6 +1384,24 @@
       "local_intent": "台中西屯 精品乾洗 名牌衣服清潔 精緻乾洗",
       "linked_service": "台中西屯洗衣店",
       "faq_count": 2,
+      "step_count": 4
+    },
+    {
+      "slug": "luxury-designer-shoe-care",
+      "category": "guide",
+      "title": "精品鞋・名牌鞋清潔怎麼判斷？｜私享家洗衣店",
+      "description": "台中西屯私享家：精品鞋、名牌鞋先看材質、飾件與膠邊，不因品牌承諾變全新；可 LINE 傳照片，台中市免費收送。",
+      "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清潔",
+        "台中洗精品鞋",
+        "名牌球鞋清潔",
+        "西屯洗鞋"
+      ],
+      "local_intent": "台中西屯 精品鞋 名牌鞋 清潔判斷 膠邊飾件",
+      "linked_service": "鞋包清潔",
+      "faq_count": 3,
       "step_count": 4
     },
     {

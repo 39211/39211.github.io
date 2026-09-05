@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-05T13:31:27.286Z",
+  "generated_at": "2026-09-05T14:14:43.220Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -1065,6 +1065,48 @@
         "精緻乾洗",
         "名牌衣服送洗",
         "精品清潔"
+      ]
+    },
+    {
+      "query": "台中西屯 精品鞋 名牌鞋 清潔判斷 膠邊飾件",
+      "service": "鞋包清潔",
+      "area": "台中西屯",
+      "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
+      "answer_summary": "精品鞋先看材質、飾件與膠邊，不因品牌保證全新。",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清潔",
+        "台中洗精品鞋",
+        "名牌球鞋清潔",
+        "西屯洗鞋"
+      ]
+    },
+    {
+      "query": "青海路二段 精品鞋 名牌鞋 清潔判斷 膠邊飾件",
+      "service": "鞋包清潔",
+      "area": "青海路二段",
+      "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
+      "answer_summary": "精品鞋先看材質、飾件與膠邊，不因品牌保證全新。",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清潔",
+        "台中洗精品鞋",
+        "名牌球鞋清潔",
+        "西屯洗鞋"
+      ]
+    },
+    {
+      "query": "至善里 精品鞋 名牌鞋 清潔判斷 膠邊飾件",
+      "service": "鞋包清潔",
+      "area": "至善里",
+      "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html",
+      "answer_summary": "精品鞋先看材質、飾件與膠邊，不因品牌保證全新。",
+      "keywords": [
+        "精品鞋清潔",
+        "名牌鞋清潔",
+        "台中洗精品鞋",
+        "名牌球鞋清潔",
+        "西屯洗鞋"
       ]
     },
     {
@@ -2406,6 +2448,11 @@
           "label": "白鞋、球鞋、通勤鞋",
           "description": "適合鞋邊泛灰、鞋內濕悶、雨後鞋底泥灰與鞋面材質檢查。",
           "url": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html"
+        },
+        {
+          "label": "精品鞋、名牌鞋",
+          "description": "先看材質、五金飾件與膠邊，不因品牌保證變全新。",
+          "url": "https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html"
         },
         {
           "label": "包包、提把、包角",
