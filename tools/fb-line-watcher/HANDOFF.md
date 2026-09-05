@@ -192,7 +192,7 @@ Meta 服務條款 **2025-01-01** 修訂後：
 
 ### 值得抄的兩個開源作法
 - [`BoPeng/ai-marketplace-monitor`](https://github.com/BoPeng/ai-marketplace-monitor)（323★，架構最像）：Docker 內建 **noVNC**，遇到 CAPTCHA／重新登入時人工點一下就好。**業界作法不是「避免 checkpoint」，是「設計成人可以隨時接手」。**
-- [`tamnd/facebook-cli`](https://github.com/tamnd/facebook-cli)：解析頁內 `<script type="application/json" data-sjs">` 的 Relay JSON。同一次 `page.goto()` 就拿得到、**不多發請求**，且對版面 A/B、繁中在地化、feed 虛擬化免疫。建議當作 DOM 抽取之外的第二條路，DOM 保留為 fallback。
+- [`tamnd/facebook-cli`](https://github.com/tamnd/facebook-cli)：解析頁內 `<script type="application/json" data-sjs>` 的 Relay JSON。同一次 `page.goto()` 就拿得到、**不多發請求**，且對版面 A/B、繁中在地化、feed 虛擬化免疫。建議當作 DOM 抽取之外的第二條路，DOM 保留為 fallback。
 
 ---
 
