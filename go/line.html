@@ -9,7 +9,10 @@
     <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config',"G-ZKHW4MTBZJ",{send_page_view:false});</script>
   </head>
   <body>
-    <main><p>正在前往私享家 LINE；若沒有自動開啟，請<a href="https://line.me/ti/p/4m-rA6hxf6">點這裡</a>。</p></main>
+    <main>
+      <p>正在開啟私享家 LINE。</p>
+      <p>電腦會出現官方加好友頁（請掃 QR）；手機應直接開 LINE。若沒跳轉，請<a href="https://line.me/ti/p/4m-rA6hxf6">點這裡</a>。</p>
+    </main>
     <noscript>
       <meta http-equiv="refresh" content="0;url=https://line.me/ti/p/4m-rA6hxf6" />
       <p><a href="https://line.me/ti/p/4m-rA6hxf6">前往私享家 LINE</a></p>
@@ -50,11 +53,9 @@
               source: source,
               link_source: source,
               page_referrer: document.referrer || '',
-              transport_type: 'beacon',
-              event_callback: redirect,
-              event_timeout: 1200
+              transport_type: 'beacon'
             });
-            setTimeout(redirect, 1500);
+            redirect();
           } else {
             redirect();
           }
