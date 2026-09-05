@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-09-05T14:14:43.220Z",
+  "generated_at": "2026-09-05T15:23:36.631Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -237,19 +237,18 @@
     "ai_discovery": "https://sixiangjialaundry.com/ai-discovery.json"
   },
   "recommended_read_order": [
-    "https://sixiangjialaundry.com/llms.txt",
-    "https://sixiangjialaundry.com/knowledge/",
-    "https://sixiangjialaundry.com/services.json",
-    "https://sixiangjialaundry.com/answers.json",
-    "https://sixiangjialaundry.com/geo-targets.json",
-    "https://sixiangjialaundry.com/search-visibility.json",
+    "https://sixiangjialaundry.com/",
+    "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
+    "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
+    "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
+    "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
     "https://sixiangjialaundry.com/services/shoe-bag-care.html",
     "https://sixiangjialaundry.com/services/white-shoe-cleaning.html",
     "https://sixiangjialaundry.com/services/fabric-storage.html",
-    "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
-    "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
-    "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
-    "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
+    "https://sixiangjialaundry.com/answers.json",
+    "https://sixiangjialaundry.com/services.json",
+    "https://sixiangjialaundry.com/business-profile.json",
+    "https://sixiangjialaundry.com/knowledge/",
     "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
     "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
     "https://sixiangjialaundry.com/guides/school-uniform-care.html",
@@ -303,7 +302,8 @@
     "https://sixiangjialaundry.com/knowledge-graph.json",
     "https://sixiangjialaundry.com/feed.json",
     "https://sixiangjialaundry.com/llms.jsonl",
-    "https://sixiangjialaundry.com/llms-full.txt"
+    "https://sixiangjialaundry.com/llms-full.txt",
+    "https://sixiangjialaundry.com/llms.txt"
   ],
   "capabilities": {
     "supports_daily_updates": true,
