@@ -235,6 +235,9 @@
         "https://sixiangjialaundry.com/assets/2026-09-06/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-06/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-09-06/slot-03.png",
+        "https://sixiangjialaundry.com/assets/2026-09-07/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-07/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-07/slot-03.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -428,7 +431,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-09-06"
+      "dateModified": "2026-09-07"
     },
     {
       "@type": "FAQPage",
@@ -489,7 +492,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-06",
+      "dateModified": "2026-09-07",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1335,7 +1338,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html#faq"
       },
-      "dateModified": "2026-09-07",
+      "dateModified": "2026-08-23",
       "keywords": [
         "白鞋泛黃",
         "白鞋清潔",
@@ -1531,7 +1534,7 @@
         "@id": "https://sixiangjialaundry.com/#website"
       },
       "about": {
-        "@id": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html#service"
+        "@id": "https://sixiangjialaundry.com/services/shoe-bag-care.html#service"
       },
       "mainEntity": {
         "@id": "https://sixiangjialaundry.com/guides/birkenstock-care.html#howto"
@@ -3858,7 +3861,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html#faq"
       },
-      "dateModified": "2026-09-07",
+      "dateModified": "2026-08-30",
       "keywords": [
         "麂皮鞋清潔",
         "麂皮鞋變硬",
@@ -4152,7 +4155,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/shoe-odor-source.html#faq"
       },
-      "dateModified": "2026-09-07",
+      "dateModified": "2026-08-30",
       "keywords": [
         "鞋子臭",
         "鞋內悶味",
@@ -4446,7 +4449,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/shoe-mold-surface-check.html#faq"
       },
-      "dateModified": "2026-09-07",
+      "dateModified": "2026-08-30",
       "keywords": [
         "鞋子發霉",
         "鞋內發霉",
@@ -11077,6 +11080,120 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-06/slot-03.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-06/slot-03.png",
       "caption": "先看輪子縫裡的灰",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-01",
+      "headline": "2026-09-07 11:30 球鞋中底那圈黃是髒還是氧化？一張近照就分得出來",
+      "text": "球鞋中底那圈黃是髒還是氧化？一張近照就分得出來。\n\n鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。\n\n鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n下一集：開學一週童鞋就臭了？先看鞋墊、鞋口、鞋帶 3 個位置\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-09-07T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗鞋",
+        "#洗鞋推薦",
+        "#球鞋清洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-07/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-07/slot-01.png",
+      "caption": "球鞋中底那圈黃是髒還是氧化？一張近照就分得出來",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-02",
+      "headline": "2026-09-07 20:30 領帶一季沒洗會怎樣？先看領結和尖端這 2 個位置",
+      "text": "領帶一季沒洗會怎樣？先看領結和尖端這 2 個位置。\n\n西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。\n\n西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。\n\n不確定還洗不洗得回來？拍一張傳 LINE給我們看看。\n\n你有幾件襯衫是黃了以後就沒再穿的？\n\n家裡那個襯衫領口都黃了還在穿的人，傳給他。\n\n追蹤私享家，之後會持續整理襯衫、西裝與精緻衣物的送洗前判斷。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-09-07T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-07/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-07/slot-02.png",
+      "caption": "領帶一季沒洗會怎樣？先看領結和尖端這 2 個位置",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-03",
+      "headline": "2026-09-07 12:00 大衣肩線積一條灰",
+      "text": "掛了一整季沒穿,灰會沿著肩膀那條線慢慢積起來。\n\n刷不掉是因為它早就卡進毛裡,要整件洗才拉得出來。\n\n大衣肩線積一條灰。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：西裝背心 $80、長大衣 $300（水洗價，乾洗另計）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "datePublished": "2026-09-07T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#衣物送洗",
+        "#乾洗",
+        "#台中乾洗",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-03:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-07/slot-03.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-07/slot-03.png",
+      "caption": "大衣肩線積一條灰",
       "inLanguage": "zh-Hant"
     }
   ]

@@ -1,0 +1,77 @@
+{
+  "topic": "窗簾多久沒洗了？拆下來前先看下緣、掛勾、褶線 3 個位置",
+  "date": "2026-09-10",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆呈現灰色梭織窗簾，布面紋理、褶線與可見縫邊相容，未見物件類型、色系或粗類材質改變。",
+    "SCENE": "四張皆可見不鏽鋼水槽或帶溝槽的金屬工作檯，屬同一檯面家族。",
+    "TOPIC_MATCH": "主體皆為窗簾，第二張呈現下緣、第三張呈現掛勾、第四張呈現褶線，符合題目。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-10\\slot-01.png",
+      "canary": "E4EM",
+      "sha256": "73eac0d11a6f029917a1babd4eae19c873cde839cfd3a4a1b1b857e9dcb2156e"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-10\\slot-01-slide-02.png",
+      "canary": "88AQ",
+      "sha256": "47d9d1ead0aaf702dc428784a219fd95af28de999ac3b136afac7912fb702317"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-10\\slot-01-slide-03.png",
+      "canary": "92LP",
+      "sha256": "13e10e273b18d7d32d56b1c6a66eaa462a073a240e62d0cce6d16bbb0fdad113"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-10\\slot-01-slide-04.png",
+      "canary": "MGZJ",
+      "sha256": "ed0cd1e1101d2f77d7788b0a7bf697e172dc05c77f9fba2f8731a175f90b7136"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-10\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-10\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-10\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-10\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "E4EM",
+    "IMAGE_2": "88AQ",
+    "IMAGE_3": "92LP",
+    "IMAGE_4": "MGZJ"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "E4EM",
+    "IMAGE_2": "88AQ",
+    "IMAGE_3": "92LP",
+    "IMAGE_4": "MGZJ"
+  },
+  "prompt_hash": "f294807a37c647c62c77da7e3084d25c10a1d765e48fb8b406c401b8b3d55c44",
+  "run_id": "carousel-qa-1788748859142",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-07T02:42:15.504Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

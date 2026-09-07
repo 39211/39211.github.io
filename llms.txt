@@ -137,6 +137,31 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-09-07 12:00 大衣肩線積一條灰](https://sixiangjialaundry.com/posts/2026-09-07-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-07/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-09-07/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-07.json
+- [2026-09-07 20:30 領帶一季沒洗會怎樣？先看領結和尖端這 2 個位置](https://sixiangjialaundry.com/posts/2026-09-07-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=trust-reset; search_intent=problem-diagnosis
+  target_queries: 台中西裝乾洗 | 西屯西裝乾洗 | 台中襯衫清洗 | 西屯乾洗店 | 西裝要乾洗嗎 | 西裝送洗注意事項
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-07/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-07.json
+- [2026-09-07 11:30 球鞋中底那圈黃是髒還是氧化？一張近照就分得出來](https://sixiangjialaundry.com/posts/2026-09-07-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=customer-consultation; traffic_route=trust-reset; search_intent=problem-diagnosis
+  target_queries: 台中洗鞋 | 西屯洗鞋 | 逢甲洗鞋 | 台中洗鞋店 | 台中白鞋清潔 | 球鞋清洗台中
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-07/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-07.json
 - [2026-09-06 12:00 先看輪子縫裡的灰](https://sixiangjialaundry.com/posts/2026-09-06-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)

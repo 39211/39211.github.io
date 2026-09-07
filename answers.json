@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-05T22:30:47.991Z",
+  "generated_at": "2026-09-07T02:48:20.476Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -1412,7 +1412,7 @@
       "type": "guide_summary",
       "question": "勃肯鞋會臭嗎？先看軟木鞋床，不要整雙泡水",
       "answer": "勃肯鞋會臭，多半是軟木鞋床吸汗，不是鞋面；整雙泡水會更糟。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1441,7 +1441,7 @@
       "type": "guide_faq",
       "question": "勃肯鞋會臭嗎?",
       "answer": "會，而且味道多半來自軟木鞋床吸汗，不是鞋面。噴除臭劑蓋不住；要處理鞋床，不要整雙泡水。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1470,7 +1470,7 @@
       "type": "guide_faq",
       "question": "勃肯鞋可以整雙丟洗衣機嗎?",
       "answer": "不建議。軟木鞋床泡水後會鬆散變形、麂皮會硬掉,洗完可能比洗前更糟。分材質處理才是正確做法。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1499,7 +1499,7 @@
       "type": "guide_faq",
       "question": "鞋床黑掉能洗回原色嗎?",
       "answer": "表層角質與塵土多半能明顯改善;汗垢已滲入軟木深層的,以去味與淡化為目標,不保證回到原色。處理前會先講清楚界線。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1528,7 +1528,7 @@
       "type": "guide_faq",
       "question": "台中洗勃肯鞋多少錢?",
       "answer": "參考價:休閒鞋 $350、麂皮鞋 $400(水洗價,乾洗柔洗另計,以實際報價為主)。LINE 傳鞋床與鞋面照片(0968327653)可先確認。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
@@ -1557,7 +1557,7 @@
       "type": "guide_faq",
       "question": "多久洗一次比較好?",
       "answer": "天天穿的建議每季一次,不要等到味道明顯才處理——汗垢滲得越深越難救。台中市全區免費收送。",
-      "service": "白鞋清潔",
+      "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/birkenstock-care.html#faq",
       "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭",
       "keywords": [
