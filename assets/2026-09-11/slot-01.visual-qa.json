@@ -1,0 +1,77 @@
+{
+  "topic": "沙發布面坐出油光還能洗嗎？先看是可拆套還是固定布",
+  "date": "2026-09-11",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "FAIL"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第1張是灰色布面坐墊，第2張是米白色T恤，第3、4張是淺色襯衫，物件類型與顏色家族不同。",
+    "SCENE": "四張皆為木質櫃檯，背景可見衣架及掛衣區，屬同一場景家族。",
+    "TOPIC_MATCH": "主題是沙發布面，但第2至4張展示T恤與襯衫，整組物件不符合主題。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-01.png",
+      "canary": "DV5N",
+      "sha256": "eb782a11eed6e676ee8c30f6bb659ca34ed5840e0de945d6263d4484b7480da8"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-01-slide-02.png",
+      "canary": "QSP7",
+      "sha256": "6fd2750d1b942a4df839b3fcf8dc7b65794a0be3f88661eaa26c3958f23bbeea"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-01-slide-03.png",
+      "canary": "7KT5",
+      "sha256": "73a67e0ffc4c9fa55e444681f830e00afb8ebcca47b23b3db862b9a9390077cb"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-01-slide-04.png",
+      "canary": "Q5JL",
+      "sha256": "36329d12d79844d369ea24cbbdebedb70f474db9b06df9d10d9f80bbf5517df7"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "DV5N",
+    "IMAGE_2": "QSP7",
+    "IMAGE_3": "7KT5",
+    "IMAGE_4": "Q5JL"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "DV5N",
+    "IMAGE_2": "QSP7",
+    "IMAGE_3": "7KT5",
+    "IMAGE_4": "Q5JL"
+  },
+  "prompt_hash": "8268a51daab161358594a55c8050844ad8e3779e36074e1a4ba372ff26d494e2",
+  "run_id": "carousel-qa-1788820499802",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-07T22:36:10.117Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

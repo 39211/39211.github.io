@@ -1,0 +1,77 @@
+{
+  "topic": "送洗前先問：颱風天後鞋包不要急著曬，門市會先確認什麼",
+  "date": "2026-09-11",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "前三張主要呈現米 beige 色麂皮包，第四張前景主體為灰色針織運動鞋，宣告的物件類型、色系與粗材質不同。",
+    "SCENE": "四張皆為木紋櫃檯，背景皆可見吊掛衣物與保護袋。",
+    "TOPIC_MATCH": "宣告的物件集合包含包與運動鞋，符合題目的鞋包。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02.png",
+      "canary": "RHED",
+      "sha256": "f72da9fb8606422673fc73a1f960cebc17b19cab077266d6d5b7353c7af56451"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-02.png",
+      "canary": "FLU9",
+      "sha256": "8788a52113bfa4f4c178582c4e7d483577bc5fa2bc2c8291accab4c141ed7e1c"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-03.png",
+      "canary": "LR4Z",
+      "sha256": "12861867b44a10ee48756ef918aeef34e15053f149f94c11db708b09b2a7e89c"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-04.png",
+      "canary": "PABM",
+      "sha256": "35edffaeb98c6d8cc765c2a35b3bba2ae857f3d381d3f1da35746693765c9b33"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "RHED",
+    "IMAGE_2": "FLU9",
+    "IMAGE_3": "LR4Z",
+    "IMAGE_4": "PABM"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "RHED",
+    "IMAGE_2": "FLU9",
+    "IMAGE_3": "LR4Z",
+    "IMAGE_4": "PABM"
+  },
+  "prompt_hash": "e0140e749a0b645a7aa8e3a0d79c1922258075594ac9b595a5a4f49758c8e6e0",
+  "run_id": "carousel-qa-1788820828032",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-07T22:41:39.391Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
