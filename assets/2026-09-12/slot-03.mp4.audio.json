@@ -1,6 +1,8 @@
-﻿{
-    "narration":  true,
-    "generated_clip_audio_used":  false,
-    "source":  "post-ambient-bed",
-    "narr_delay_ms":  500
+{
+  "source": "post-ambient-bed",
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "narr_delay_ms": 0,
+  "pipeline": "reel-v2",
+  "bed": "pink noise lowpass 350 Hz under narration"
 }
