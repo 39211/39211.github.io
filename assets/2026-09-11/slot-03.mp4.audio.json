@@ -1,5 +1,5 @@
-﻿{
-    "narration":  true,
-    "generated_clip_audio_used":  false,
-    "source":  "post-ambient-bed"
+{
+    "narration": true,
+    "generated_clip_audio_used": false,
+    "source": "reel-v2-narration-edge-tts"
 }
