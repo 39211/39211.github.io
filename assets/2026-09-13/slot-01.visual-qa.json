@@ -1,0 +1,77 @@
+{
+  "topic": "大衣入秋前要不要先送洗？先翻領口、袖口、腋下 3 個位置",
+  "date": "2026-09-13",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆呈現米 beige 色、表面帶絨毛的織物大衣，色系、衣型與粗分類材質一致。",
+    "SCENE": "四張皆為金屬工作檯，背景可見白色磁磚與瓶罐，場景家族一致。",
+    "TOPIC_MATCH": "畫面依序呈現大衣整體、領口、袖口及腋下附近，符合大衣檢查主題。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-01.png",
+      "canary": "T4AS",
+      "sha256": "7e7dccbafd5094924d836fed04e729989f2afb2a7f720b46a23dc081f33ca753"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-01-slide-02.png",
+      "canary": "U2WG",
+      "sha256": "ce49117bb4b7078e0d3cebdb2c806aa8468b0c3816a777ef975c7416d15ad758"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-01-slide-03.png",
+      "canary": "VL5W",
+      "sha256": "6e68f6f1a6cc045a08e99e8afff007b1b852cc0d9b3337449c558c9409992646"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-01-slide-04.png",
+      "canary": "JWC5",
+      "sha256": "343f3f6cc222273e4c553bae182aafcfdac8568e14361c8a9f51ded62b75bfe4"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-01.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "T4AS",
+    "IMAGE_2": "U2WG",
+    "IMAGE_3": "VL5W",
+    "IMAGE_4": "JWC5"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "T4AS",
+    "IMAGE_2": "U2WG",
+    "IMAGE_3": "VL5W",
+    "IMAGE_4": "JWC5"
+  },
+  "prompt_hash": "309c1eca4fb5e3307b25d21a6a7a90387622534464c3b51bdf532f86e13ca0ee",
+  "run_id": "carousel-qa-1788833476442",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-08T02:12:33.100Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

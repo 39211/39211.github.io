@@ -1,0 +1,77 @@
+{
+  "topic": "棉被收進櫃子前，悶味來自沒散掉的濕氣",
+  "date": "2026-09-13",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆呈現白色梭織表面、深藍滾邊的棉被，外觀一致，主要差異為污痕程度與摺疊角度。",
+    "SCENE": "四張皆可見銀灰色金屬工作檯，背景可見處均為淺色磁磚。",
+    "TOPIC_MATCH": "四張主體皆為棉被，符合主題物件；畫面本身無法證明濕氣或悶味。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-02.png",
+      "canary": "H6UN",
+      "sha256": "be0cce5edc088abc3f9f8466e9769ec82c9d89b285b7d098dc18c4d4599f482b"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-02-slide-02.png",
+      "canary": "LYWF",
+      "sha256": "da3e646e77dd1b16d15153a444baa5fc5b24a9a485ed09c083458911996fc564"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-02-slide-03.png",
+      "canary": "ZS8R",
+      "sha256": "08088fed98341f37f25d90640bdd41cb44076b07f230cc3c5ddaa1a0425ca3c3"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-02-slide-04.png",
+      "canary": "CWNQ",
+      "sha256": "7ca15a4ea483b27cd45b010a7b645686d522aeb47397bd38767034033b9d6bf8"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-02.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-13\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "H6UN",
+    "IMAGE_2": "LYWF",
+    "IMAGE_3": "ZS8R",
+    "IMAGE_4": "CWNQ"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "H6UN",
+    "IMAGE_2": "LYWF",
+    "IMAGE_3": "ZS8R",
+    "IMAGE_4": "CWNQ"
+  },
+  "prompt_hash": "8bdae24fabda1b581b812d68edcae7647de7651cfd416bef3f3699555cac927c",
+  "run_id": "carousel-qa-1788833829826",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-08T02:18:08.747Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
