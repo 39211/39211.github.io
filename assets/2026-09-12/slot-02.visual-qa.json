@@ -1,0 +1,77 @@
+{
+  "topic": "送洗前先問：孩子上學後鞋襪變悶，門市會先確認什麼",
+  "date": "2026-09-12",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第2、3張鞋身呈明顯織布紋理，第4張主要鞋面呈皮革質感，存在粗材質差異。",
+    "SCENE": "四張均可見淺木紋櫃檯、粉紅墊與槽板牆的同類場景。",
+    "TOPIC_MATCH": "四張主體皆為運動鞋，鞋口可見白襪，符合鞋襪主題。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02.png",
+      "canary": "9B2J",
+      "sha256": "c55715c26bf93daac32d66828b0b9709cf9a08d995c39cf95b6ec6fe119114ef"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-02.png",
+      "canary": "M5FR",
+      "sha256": "7410fa1eae9cc38f6616fec16fc9190eaec82ef39d4019a66b17e1e78ee6c04f"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-03.png",
+      "canary": "BX4W",
+      "sha256": "2ecb42797cf458bf7f507bab4f0c4c3c37d3ab0702b7fc88c652aba95e09593e"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-04.png",
+      "canary": "ZJHA",
+      "sha256": "438b0765af0791100975f2ff7748d49872d3e55fc83c342071cc50e7e43933c4"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "9B2J",
+    "IMAGE_2": "M5FR",
+    "IMAGE_3": "BX4W",
+    "IMAGE_4": "ZJHA"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "9B2J",
+    "IMAGE_2": "M5FR",
+    "IMAGE_3": "BX4W",
+    "IMAGE_4": "ZJHA"
+  },
+  "prompt_hash": "b07e093cb40fae082f1a90d2f414e3d01da9fc8870a15b9469d74dd7ae0ef851",
+  "run_id": "carousel-qa-1788832866374",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-08T02:02:14.093Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

@@ -1,0 +1,77 @@
+{
+  "topic": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清",
+  "date": "2026-09-12",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張均呈現乳白色織物寢具、深藍滾邊與大片不規則變色區，外觀一致。",
+    "SCENE": "四張均可見淺木紋檯面、白色槽板牆與局部粉紅切割墊，屬同一櫃檯場景。",
+    "TOPIC_MATCH": "四張主體均為帶有明顯變色區的淺色寢具，未出現與枕頭主題衝突的衣物、鞋或包。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01.png",
+      "canary": "AKLE",
+      "sha256": "19cae6a52dc0d6be95a71ab26fc131a813fb8d297f3fdf41904a4a584cb4fde5"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-02.png",
+      "canary": "6XDA",
+      "sha256": "8de36cebc8d516edbbb391bf23421af3f22b2b4a019329521b31864fb77c30b2"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-03.png",
+      "canary": "YLHQ",
+      "sha256": "9fbad4f107398154392237718db1c603da3ec0398b138287027e481abf545ce3"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-04.png",
+      "canary": "6PKU",
+      "sha256": "7609520c81ce4c1e1907bfe24bc030ab54547938bff26229a7eb29b81982caf6"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "AKLE",
+    "IMAGE_2": "6XDA",
+    "IMAGE_3": "YLHQ",
+    "IMAGE_4": "6PKU"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "AKLE",
+    "IMAGE_2": "6XDA",
+    "IMAGE_3": "YLHQ",
+    "IMAGE_4": "6PKU"
+  },
+  "prompt_hash": "1e85eebe93919d1cfb3de9d0783893548137b9d2e5de02b0b9da18d83ccad16b",
+  "run_id": "carousel-qa-1788832546295",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-08T01:56:49.249Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
