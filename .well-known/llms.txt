@@ -137,6 +137,56 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-09-10 12:00 長夾邊角開始起毛](https://sixiangjialaundry.com/posts/2026-09-10-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-10/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-09-10/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-10.json
+- [2026-09-10 20:30 送洗前先問：搬家後棉被窗簾先除灰，門市會先確認什麼](https://sixiangjialaundry.com/posts/2026-09-10-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=trust-proof
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中外套清洗 | 棉被有潮味怎麼辦
+  evidence_type: real-case-photo
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #搬家整理 #寢具清洗 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-10/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-10.json
+- [2026-09-10 11:30 窗簾多久沒洗了？拆下來前先看下緣、掛勾、褶線 3 個位置](https://sixiangjialaundry.com/posts/2026-09-10-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=customer-consultation; traffic_route=object-proof; search_intent=problem-diagnosis
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中外套清洗 | 棉被有潮味怎麼辦
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #窗簾清洗 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-10/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-10.json
+- [2026-09-09 12:00 牛仔褲膝蓋鬆掉](https://sixiangjialaundry.com/posts/2026-09-09-slot-03.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
+  target_queries: (legacy-unassigned)
+  evidence_type: (legacy-unassigned)
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-09/slot-03.png
+  video: https://sixiangjialaundry.com/assets/2026-09-09/slot-03.mp4
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-09.json
+- [2026-09-09 20:30 送洗前先問：七夕約會後白鞋包包檢查，門市會先確認什麼](https://sixiangjialaundry.com/posts/2026-09-09-slot-02.html)
+  platform targets: facebook, instagram
+  routes: content_role=evidence-conversion; visual_route=customer-consultation; traffic_route=share-worthy-care; search_intent=trust-proof
+  target_queries: 台中洗鞋 | 西屯洗鞋 | 逢甲洗鞋 | 台中洗包包 | 西屯洗包包 | 台中洗包
+  evidence_type: real-case-photo
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #七夕 #鞋包照護 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-09/slot-02.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-09.json
+- [2026-09-09 11:30 民宿床組一週要換幾輪？批量送洗前先數這 3 件事](https://sixiangjialaundry.com/posts/2026-09-09-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=customer-consultation; traffic_route=share-worthy-care; search_intent=pickup-logistics
+  target_queries: 台中洗衣收送 | 台中免費收送洗衣 | 台中到府收送洗衣 | 西屯洗衣收送 | 逢甲洗衣收送 | 台中床被收送
+  evidence_type: pickup-logistics
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-09/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-09.json
 - [2026-09-08 12:00 保潔墊出現黃圈](https://sixiangjialaundry.com/posts/2026-09-08-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)

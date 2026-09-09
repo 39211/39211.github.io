@@ -1,0 +1,77 @@
+{
+  "topic": "絨毛娃娃洗了會不會變形？先看填充、五官、接縫 3 個地方",
+  "date": "2026-09-14",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "雖然分類代碼相同，第 2 張是短圓耳熊，第 1、3、4 張則可見長垂耳兔，並非同一隻娃娃。",
+    "SCENE": "四張均為不鏽鋼水槽旁的金屬工作檯，屬於相同檯面場景類型。",
+    "TOPIC_MATCH": "四張主體均為絨毛娃娃，符合主題物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-14\\slot-01.png",
+      "canary": "DF4R",
+      "sha256": "947ecefbbcd79852dc6c1d4bf0e2effe9c3fd1179225ba0d876ca1f935793216"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-14\\slot-01-slide-02.png",
+      "canary": "DHLJ",
+      "sha256": "fc8168108833e9ec8b312146cc12f871aac09291d6b2d2b6a2bdbb9fe2a90380"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-14\\slot-01-slide-03.png",
+      "canary": "M64B",
+      "sha256": "84613cd003744458a7e32260b7126909ae843c86e815dbdb4d987d4368d54b91"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-14\\slot-01-slide-04.png",
+      "canary": "PT8N",
+      "sha256": "6e3071e2d6424095775183302c5c6dea05f830f4b840c58423dfd26aa09342e9"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-14\\slot-01.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-14\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-14\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-14\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "DF4R",
+    "IMAGE_2": "DHLJ",
+    "IMAGE_3": "M64B",
+    "IMAGE_4": "PT8N"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "DF4R",
+    "IMAGE_2": "DHLJ",
+    "IMAGE_3": "M64B",
+    "IMAGE_4": "PT8N"
+  },
+  "prompt_hash": "a9474e728627ed88f75311ed9667639e05d12b3c5b51dfaf73a0b0f1297f91e0",
+  "run_id": "carousel-qa-1788970243833",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-09T16:12:25.760Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
