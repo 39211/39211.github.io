@@ -3,14 +3,14 @@
   "date": "2026-09-12",
   "slot": 2,
   "axes": {
-    "OBJECT_IDENTITY": "FAIL",
+    "OBJECT_IDENTITY": "PASS",
     "SCENE": "PASS",
     "TOPIC_MATCH": "PASS"
   },
   "evidence": {
-    "OBJECT_IDENTITY": "第2、3張鞋面可見織布紋理，第4張為絨面材質，構成 WOVEN 至 SUEDE 的粗分類材質變更。",
-    "SCENE": "四張均可見淺色檯面、粉紅墊與槽板牆的同一場景家族。",
-    "TOPIC_MATCH": "四張主體皆為球鞋，符合主題中的鞋類。"
+    "OBJECT_IDENTITY": "四張均為白色鞋身配深藍鞋口的拼接球鞋，後跟拼片、裂紋與鞋底磨痕相符。",
+    "SCENE": "四張皆有淺色檯面、右側粉紅墊及後方橫條櫃面，屬同一櫃檯場景。",
+    "TOPIC_MATCH": "四張均呈現球鞋及鞋口內的灰色襪子，符合主題中的鞋襪。"
   },
   "frames_used": [
     "slide-01.png",
@@ -23,29 +23,29 @@
       "name": "slide-01.png",
       "slide": 1,
       "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02.png",
-      "canary": "YT9F",
-      "sha256": "ec0bb55684c7e5bf6b961ddcf425da8be49b572c51ac3e269526593a388b42b4"
+      "canary": "AE6J",
+      "sha256": "534325f5080fb080eda3e8ba4221b2370cec970654733d6c21eec06d3f4f6f7d"
     },
     {
       "name": "slide-02.png",
       "slide": 2,
       "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-02.png",
-      "canary": "YJAZ",
-      "sha256": "3ea68636f5b615574bfcc2f50ca46ef23827c5904f179c079d55ff99abd3914c"
+      "canary": "UCUX",
+      "sha256": "304581d47b4472b631e88dc3ee9aa0b1732b26294fed9bb4ef6a12a8ba0d4049"
     },
     {
       "name": "slide-03.png",
       "slide": 3,
       "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-03.png",
-      "canary": "BF3V",
-      "sha256": "0974d5871e8ee3a80664db25f576f8a3d5e787123e2adf9eeda08daadb9affc0"
+      "canary": "TX7H",
+      "sha256": "26d82755a666832b16117c394d7ed2252ad319d255d51b096262900ec2b2de9d"
     },
     {
       "name": "slide-04.png",
       "slide": 4,
       "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-04.png",
-      "canary": "XRNJ",
-      "sha256": "88fc9983b16a090ca323d5a45dba7363093bdd9efcbf6e6f77da813ed0227947"
+      "canary": "DERC",
+      "sha256": "37918a9d06a4b0fdfeec919bd7371a9b3114736f0ca380666b6e798d6ec47734"
     }
   ],
   "sources": [
@@ -55,22 +55,22 @@
     "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-02-slide-04.png"
   ],
   "canaries_expected": {
-    "IMAGE_1": "YT9F",
-    "IMAGE_2": "YJAZ",
-    "IMAGE_3": "BF3V",
-    "IMAGE_4": "XRNJ"
+    "IMAGE_1": "AE6J",
+    "IMAGE_2": "UCUX",
+    "IMAGE_3": "TX7H",
+    "IMAGE_4": "DERC"
   },
   "canaries_reported": {
-    "IMAGE_1": "YT9F",
-    "IMAGE_2": "YJAZ",
-    "IMAGE_3": "BF3V",
-    "IMAGE_4": "XRNJ"
+    "IMAGE_1": "AE6J",
+    "IMAGE_2": "UCUX",
+    "IMAGE_3": "TX7H",
+    "IMAGE_4": "DERC"
   },
   "prompt_hash": "b07e093cb40fae082f1a90d2f414e3d01da9fc8870a15b9469d74dd7ae0ef851",
-  "run_id": "carousel-qa-1788834202617",
+  "run_id": "carousel-qa-1788974433985",
   "model": "codex-exec-read-only",
   "reviewed_by": "codex-visual-qa",
-  "reviewed_at": "2026-09-08T02:24:19.372Z",
+  "reviewed_at": "2026-09-09T17:21:47.003Z",
   "mode": "warn",
   "verdict": "FAIL_CLOSED",
   "fail_class": "missing_observation"

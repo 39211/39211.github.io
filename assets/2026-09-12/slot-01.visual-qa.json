@@ -8,9 +8,9 @@
     "TOPIC_MATCH": "PASS"
   },
   "evidence": {
-    "OBJECT_IDENTITY": "四張均呈現乳白色織物寢具、深藍滾邊與大片不規則變色區，外觀一致。",
-    "SCENE": "四張均可見淺木紋檯面、白色槽板牆與局部粉紅切割墊，屬同一櫃檯場景。",
-    "TOPIC_MATCH": "四張主體均為帶有明顯變色區的淺色寢具，未出現與枕頭主題衝突的衣物、鞋或包。"
+    "OBJECT_IDENTITY": "四張均呈現白色梭織枕頭及大片黃褐色污漬，物件類型、底色與材質一致。",
+    "SCENE": "四張均可見木色檯面、粉紅切割墊及橫槽牆面，屬同一櫃檯場景。",
+    "TOPIC_MATCH": "四張主體都是帶有泛黃污漬的枕頭，符合主題物件。"
   },
   "frames_used": [
     "slide-01.png",
@@ -23,29 +23,29 @@
       "name": "slide-01.png",
       "slide": 1,
       "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01.png",
-      "canary": "AKLE",
-      "sha256": "19cae6a52dc0d6be95a71ab26fc131a813fb8d297f3fdf41904a4a584cb4fde5"
+      "canary": "HFYX",
+      "sha256": "add2d3f7b2bff836dd2f491cf21add8040426e647163ca9febcbb240ee37e6e9"
     },
     {
       "name": "slide-02.png",
       "slide": 2,
       "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-02.png",
-      "canary": "6XDA",
-      "sha256": "8de36cebc8d516edbbb391bf23421af3f22b2b4a019329521b31864fb77c30b2"
+      "canary": "W3LL",
+      "sha256": "75cadf3b4e9bb1c1c8bf8d152f44570cf015e41206f85cc9a207ecd431cb668e"
     },
     {
       "name": "slide-03.png",
       "slide": 3,
       "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-03.png",
-      "canary": "YLHQ",
-      "sha256": "9fbad4f107398154392237718db1c603da3ec0398b138287027e481abf545ce3"
+      "canary": "ADFH",
+      "sha256": "e062671a33d2a3d06490c0c12fb1b6d4bdb6e8437e86835dcfe67a4ea3e44c0b"
     },
     {
       "name": "slide-04.png",
       "slide": 4,
       "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-04.png",
-      "canary": "6PKU",
-      "sha256": "7609520c81ce4c1e1907bfe24bc030ab54547938bff26229a7eb29b81982caf6"
+      "canary": "AXGT",
+      "sha256": "bec1e10549ac8cdd772ad54ae13c7945e6925bf4f5a63ac64a5b36f3215ca920"
     }
   ],
   "sources": [
@@ -55,22 +55,22 @@
     "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-12\\slot-01-slide-04.png"
   ],
   "canaries_expected": {
-    "IMAGE_1": "AKLE",
-    "IMAGE_2": "6XDA",
-    "IMAGE_3": "YLHQ",
-    "IMAGE_4": "6PKU"
+    "IMAGE_1": "HFYX",
+    "IMAGE_2": "W3LL",
+    "IMAGE_3": "ADFH",
+    "IMAGE_4": "AXGT"
   },
   "canaries_reported": {
-    "IMAGE_1": "AKLE",
-    "IMAGE_2": "6XDA",
-    "IMAGE_3": "YLHQ",
-    "IMAGE_4": "6PKU"
+    "IMAGE_1": "HFYX",
+    "IMAGE_2": "W3LL",
+    "IMAGE_3": "ADFH",
+    "IMAGE_4": "AXGT"
   },
   "prompt_hash": "1e85eebe93919d1cfb3de9d0783893548137b9d2e5de02b0b9da18d83ccad16b",
-  "run_id": "carousel-qa-1788832546295",
+  "run_id": "carousel-qa-1788974363828",
   "model": "codex-exec-read-only",
   "reviewed_by": "codex-visual-qa",
-  "reviewed_at": "2026-09-08T01:56:49.249Z",
+  "reviewed_at": "2026-09-09T17:20:32.873Z",
   "mode": "warn",
   "verdict": "FAIL_CLOSED",
   "fail_class": "missing_observation"
