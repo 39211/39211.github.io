@@ -3,14 +3,14 @@
   "date": "2026-09-11",
   "slot": 2,
   "axes": {
-    "OBJECT_IDENTITY": "FAIL",
+    "OBJECT_IDENTITY": "PASS",
     "SCENE": "PASS",
     "TOPIC_MATCH": "PASS"
   },
   "evidence": {
-    "OBJECT_IDENTITY": "前三張主要呈現米 beige 色麂皮包，第四張前景主體為灰色針織運動鞋，宣告的物件類型、色系與粗材質不同。",
-    "SCENE": "四張皆為木紋櫃檯，背景皆可見吊掛衣物與保護袋。",
-    "TOPIC_MATCH": "宣告的物件集合包含包與運動鞋，符合題目的鞋包。"
+    "OBJECT_IDENTITY": "四張主體皆為米色麂皮打結提把包，色系、包型與粗分類材質一致。",
+    "SCENE": "四張皆為木紋櫃檯與吊掛衣物背景，屬同一櫃檯場景家族。",
+    "TOPIC_MATCH": "四張宣告的包類主體符合題目「鞋包」中的包類，畫面亦皆搭配灰色運動鞋。"
   },
   "frames_used": [
     "slide-01.png",
@@ -22,55 +22,55 @@
     {
       "name": "slide-01.png",
       "slide": 1,
-      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02.png",
-      "canary": "RHED",
-      "sha256": "f72da9fb8606422673fc73a1f960cebc17b19cab077266d6d5b7353c7af56451"
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-11\\slot-02.png",
+      "canary": "5VWP",
+      "sha256": "a8eb1b0a2aae3ccc1f7b4b6069ca242df8b1631dece1a7f1e3de7bbc570816e3"
     },
     {
       "name": "slide-02.png",
       "slide": 2,
-      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-02.png",
-      "canary": "FLU9",
-      "sha256": "8788a52113bfa4f4c178582c4e7d483577bc5fa2bc2c8291accab4c141ed7e1c"
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-11\\slot-02-slide-02.png",
+      "canary": "2H5E",
+      "sha256": "084c6e9e81b6f56fc14818d330126f63944c3e9b56a89e4879f305e54af984fe"
     },
     {
       "name": "slide-03.png",
       "slide": 3,
-      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-03.png",
-      "canary": "LR4Z",
-      "sha256": "12861867b44a10ee48756ef918aeef34e15053f149f94c11db708b09b2a7e89c"
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-11\\slot-02-slide-03.png",
+      "canary": "A7WA",
+      "sha256": "fb89154f1d8d8c13a5c8da984789d783544e202fde09961106077b5ceb05c0f9"
     },
     {
       "name": "slide-04.png",
       "slide": 4,
-      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-04.png",
-      "canary": "PABM",
-      "sha256": "35edffaeb98c6d8cc765c2a35b3bba2ae857f3d381d3f1da35746693765c9b33"
+      "source": "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-11\\slot-02-slide-04.png",
+      "canary": "HXP2",
+      "sha256": "e41c6740a8b1a40f94cbdfbbc0bff9fdef3836da98bcd13c2075f109326d9171"
     }
   ],
   "sources": [
-    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02.png",
-    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-02.png",
-    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-03.png",
-    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-11\\slot-02-slide-04.png"
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-11\\slot-02.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-11\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-11\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\laundry-repo\\docs\\assets\\2026-09-11\\slot-02-slide-04.png"
   ],
   "canaries_expected": {
-    "IMAGE_1": "RHED",
-    "IMAGE_2": "FLU9",
-    "IMAGE_3": "LR4Z",
-    "IMAGE_4": "PABM"
+    "IMAGE_1": "5VWP",
+    "IMAGE_2": "2H5E",
+    "IMAGE_3": "A7WA",
+    "IMAGE_4": "HXP2"
   },
   "canaries_reported": {
-    "IMAGE_1": "RHED",
-    "IMAGE_2": "FLU9",
-    "IMAGE_3": "LR4Z",
-    "IMAGE_4": "PABM"
+    "IMAGE_1": "5VWP",
+    "IMAGE_2": "2H5E",
+    "IMAGE_3": "A7WA",
+    "IMAGE_4": "HXP2"
   },
   "prompt_hash": "e0140e749a0b645a7aa8e3a0d79c1922258075594ac9b595a5a4f49758c8e6e0",
-  "run_id": "carousel-qa-1788820828032",
+  "run_id": "carousel-qa-1788974256496",
   "model": "codex-exec-read-only",
   "reviewed_by": "codex-visual-qa",
-  "reviewed_at": "2026-09-07T22:41:39.391Z",
+  "reviewed_at": "2026-09-09T17:19:22.750Z",
   "mode": "warn",
   "verdict": "FAIL_CLOSED",
   "fail_class": "missing_observation"
