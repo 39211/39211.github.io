@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-10T17:31:49.386Z
+- Generated at: 2026-09-10T19:33:45.803Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -449,7 +449,7 @@
           "@type": "Service",
           "name": "台中西屯洗衣店",
           "serviceType": "台中西屯洗衣店",
-          "description": "私享家洗衣店位於台中市西屯區青海路二段365號（至善國中對面），提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，台中市全區免費到府收送，可先用 LINE 傳照片詢問。",
+          "description": "台中西屯的門市在青海路二段365號，至善國中對面，週一至週五 10-20、週六 12-18、週日公休。衣物、鞋子、包包、白鞋與布品收納分開判斷：先看材質、痕跡位置與使用情境，再決定適合的做法。台中全市免費收送，不限西屯。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中西屯"
@@ -477,7 +477,7 @@
           "@type": "Service",
           "name": "台中全市免費洗衣收送",
           "serviceType": "台中全市免費洗衣收送",
-          "description": "私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。",
+          "description": "台中全市免費到府收送：收送本身免費，沒有最低消費門檻，不因件數少或金額未達標準而不收，也不限西屯一區。洗護費另計，依物件與實際狀況報價。門市在西屯區青海路二段365號；預約以 LINE 為主，先傳照片說明狀況再安排時間。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中市"

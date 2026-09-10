@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-10T17:31:49.386Z",
+  "generated_at": "2026-09-10T19:33:45.803Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -115,7 +115,7 @@
       "related_support_pages": [
         {
           "slug": "birkenstock-care",
-          "title": "勃肯鞋會臭嗎？鞋床發黑怎麼處理｜台中洗鞋 私享家",
+          "title": "勃肯鞋會臭嗎？是軟木鞋床吸汗，不是鞋面｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
           "local_intent": "台中 勃肯鞋清潔 軟木鞋床 除臭"
         },
@@ -127,7 +127,7 @@
         },
         {
           "slug": "leather-jacket-care",
-          "title": "皮衣可以洗嗎？發霉、變硬怎麼救｜台中皮衣保養 私享家洗衣店",
+          "title": "皮衣發霉還能救嗎？先分真皮、合成皮、麂皮｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/leather-jacket-care.html",
           "local_intent": "台中 皮衣保養 皮衣清潔 皮衣發霉"
         },
@@ -515,7 +515,7 @@
         },
         {
           "slug": "bedding-duvet-cleaning",
-          "title": "台中西屯床組與棉被清洗｜私享家洗衣店",
+          "title": "台中棉被清洗？潮味來自沒乾透的中間那層｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
           "local_intent": "台中西屯 床組清洗 棉被清洗 寢具送洗"
         },
@@ -591,7 +591,7 @@
         "台中到府收送洗衣",
         "私享家洗衣店"
       ],
-      "answer_summary": "私享家洗衣店位於台中市西屯區青海路二段365號（至善國中對面），提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，台中市全區免費到府收送，可先用 LINE 傳照片詢問。",
+      "answer_summary": "台中西屯的門市在青海路二段365號，至善國中對面，週一至週五 10-20、週六 12-18、週日公休。衣物、鞋子、包包、白鞋與布品收納分開判斷：先看材質、痕跡位置與使用情境，再決定適合的做法。台中全市免費收送，不限西屯。",
       "image_url": "https://sixiangjialaundry.com/assets/services/fabric-storage-inspection.png",
       "image_path": "assets/services/fabric-storage-inspection.png",
       "image_alt": "私享家洗衣店門市人員檢查外套與布品的服務情境主圖",
@@ -916,7 +916,7 @@
         "私享家洗衣店",
         "LINE 預約洗衣"
       ],
-      "answer_summary": "私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。",
+      "answer_summary": "台中全市免費到府收送：收送本身免費，沒有最低消費門檻，不因件數少或金額未達標準而不收，也不限西屯一區。洗護費另計，依物件與實際狀況報價。門市在西屯區青海路二段365號；預約以 LINE 為主，先傳照片說明狀況再安排時間。",
       "image_url": "https://sixiangjialaundry.com/assets/backgrounds/local-store-depth.png",
       "image_path": "assets/backgrounds/local-store-depth.png",
       "image_alt": "台中全市免費洗衣收送服務說明｜私享家洗衣店",

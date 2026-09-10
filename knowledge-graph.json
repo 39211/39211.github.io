@@ -360,7 +360,7 @@
               "@type": "Service",
               "name": "台中西屯洗衣店",
               "serviceType": "台中西屯洗衣店",
-              "description": "私享家洗衣店位於台中市西屯區青海路二段365號（至善國中對面），提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，台中市全區免費到府收送，可先用 LINE 傳照片詢問。",
+              "description": "台中西屯的門市在青海路二段365號，至善國中對面，週一至週五 10-20、週六 12-18、週日公休。衣物、鞋子、包包、白鞋與布品收納分開判斷：先看材質、痕跡位置與使用情境，再決定適合的做法。台中全市免費收送，不限西屯。",
               "areaServed": {
                 "@type": "AdministrativeArea",
                 "name": "台中西屯"
@@ -388,7 +388,7 @@
               "@type": "Service",
               "name": "台中全市免費洗衣收送",
               "serviceType": "台中全市免費洗衣收送",
-              "description": "私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。",
+              "description": "台中全市免費到府收送：收送本身免費，沒有最低消費門檻，不因件數少或金額未達標準而不收，也不限西屯一區。洗護費另計，依物件與實際狀況報價。門市在西屯區青海路二段365號；預約以 LINE 為主，先傳照片說明狀況再安排時間。",
               "areaServed": {
                 "@type": "AdministrativeArea",
                 "name": "台中市"
@@ -1538,9 +1538,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/guides/birkenstock-care.html#webpage",
-      "name": "勃肯鞋會臭嗎？鞋床發黑怎麼處理｜台中洗鞋 私享家",
+      "name": "勃肯鞋會臭嗎？是軟木鞋床吸汗，不是鞋面｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
-      "description": "勃肯鞋會臭，多半是軟木鞋床吸汗，不是鞋面。私享家洗衣店（台中市西屯區青海路二段365號）先看鞋床與麂皮，再決定能不能處理；整雙泡水會更糟。",
+      "description": "勃肯鞋的臭味幾乎都來自軟木鞋床吸汗，不是鞋面，所以一直刷鞋面沒有用。整雙泡水會讓鞋床變形、黏合處脫開，是最常見的補救失敗。私享家洗衣店（台中西屯青海路二段365號）先看鞋床與麂皮再決定做法，台中全市免費收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1889,9 +1889,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/guides/leather-jacket-care.html#webpage",
-      "name": "皮衣可以洗嗎？發霉、變硬怎麼救｜台中皮衣保養 私享家洗衣店",
+      "name": "皮衣發霉還能救嗎？先分真皮、合成皮、麂皮｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/leather-jacket-care.html",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理皮衣清潔保養：發霉、變硬、色差要依真皮、合成皮或麂皮分別判斷，不能用一般方式洗。",
+      "description": "皮衣發霉能不能救，取決於霉是浮在表面還是已經吃進毛孔。真皮、合成皮、麂皮三種的處理方式完全不同，用酒精或濕布用力擦會破壞油脂層、乾了反而更硬。私享家洗衣店（台中西屯青海路二段365號）先看再報價，台中全市免費收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -2495,9 +2495,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html#webpage",
-      "name": "台中西屯床組與棉被清洗｜私享家洗衣店",
+      "name": "台中棉被清洗？潮味來自沒乾透的中間那層｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）提供床組、棉被、被套與寢具送洗前判斷：先確認填充物、尺寸、污漬與是否受潮，台中市西屯寢具清洗與收納前檢查。",
+      "description": "棉被的潮味幾乎都來自中間那層沒乾透：表面摸起來乾，芯還帶著濕氣，收進櫃子就是下一季拿出來的味道。私享家洗衣店（台中西屯青海路二段365號）先確認填充物、尺寸與受潮程度再決定烘法，台中全市免費收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -2528,7 +2528,7 @@
       "mainEntityOfPage": {
         "@id": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html#webpage"
       },
-      "name": "床組、棉被與寢具清洗",
+      "name": "台中棉被清洗：潮味來自沒乾透的中間那層",
       "description": "棉被送洗先看填充、潮氣與異味；沒乾透就收納，下一季打開就是味道。",
       "inLanguage": "zh-Hant-TW",
       "step": [
