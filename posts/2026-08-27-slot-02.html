@@ -41,6 +41,12 @@
       --color-brand-deep: #163a2b;
       --color-brand-soft: #e8f0eb;
       --color-blue: #1f6feb;
+      /* --color-blue is 4.63:1 on white but only 4.36:1 on the #f7f8fb section
+         tint, which is under WCAG AA's 4.5 and is the single audit keeping the
+         accessibility score off 100 (measured 2026-09-11 on the live homepage).
+         This darker step is 5.43:1 on that tint and 5.77:1 on white, and is used
+         only for the small bold labels that sit on tinted panels. */
+      --color-blue-strong: #1a5fd0;
       --color-green: #1c7c54;
       --color-red: #b42318;
       --shadow-panel: 0 14px 38px #17203314;
@@ -63,7 +69,7 @@
     .section.surface { background: #ffffff; border-top: 1px solid var(--color-line); border-bottom: 1px solid var(--color-line); }
     .section-header { gap: 10px; max-width: 760px; margin-bottom: 24px; display: grid; }
     .section-header p, .section-header .section-copy { margin: 0; }
-    .eyebrow { color: var(--color-blue); letter-spacing: 0; font-size: .85rem; font-weight: 800; margin: 0; }
+    .eyebrow { color: var(--color-blue-strong); letter-spacing: 0; font-size: .85rem; font-weight: 800; margin: 0; }
     h1, h2, h3, p { margin-top: 0; }
     h1 { letter-spacing: 0; margin-bottom: 18px; font-size: clamp(2.25rem, 6vw, 4.6rem); line-height: 1.04; }
     h2 { letter-spacing: 0; margin-bottom: 12px; font-size: clamp(1.65rem, 3vw, 2.45rem); line-height: 1.16; }
@@ -221,7 +227,7 @@
     .post-archive summary { cursor: pointer; font-weight: 800; color: var(--color-ink); }
     .post-archive .grid { margin-top: 18px; }
     .answer-block, .answer-box { border-radius: var(--radius-card); background: #f0f7ff; border: 1px solid #b9d8ff; padding: 18px; }
-    .answer-block strong, .answer-box strong, .answer-box .eyebrow { color: var(--color-blue); margin-bottom: 6px; display: block; }
+    .answer-block strong, .answer-box strong, .answer-box .eyebrow { color: var(--color-blue-strong); margin-bottom: 6px; display: block; }
     .hero-visual > .eyebrow { margin-bottom: -8px; }
     .hero-visual > .muted { font-size: .9rem; margin: 0; }
     .answer-block p:last-child, .answer-box p:last-child { margin-bottom: 0; }
@@ -481,9 +487,9 @@
             <ul class="article-related__list">
               <li class="article-related__item">上一則｜<a class="article-related__link" href="https://sixiangjialaundry.com/posts/2026-08-27-slot-01.html">Day 103：可收藏：西裝外套肩線與袖口狀態，送洗前先看三個位置</a></li>
               <li class="article-related__item">下一則｜<a class="article-related__link" href="https://sixiangjialaundry.com/posts/2026-08-27-slot-03.html">Day 105：先看鞋邊那圈膠</a></li>
+              <li class="article-related__item"><a class="article-related__link" href="https://sixiangjialaundry.com/posts/2026-09-11-slot-03.html">先看鞋邊那圈膠</a>（2026-09-11）</li>
               <li class="article-related__item"><a class="article-related__link" href="https://sixiangjialaundry.com/posts/2026-09-10-slot-03.html">長夾邊角開始起毛</a>（2026-09-10）</li>
               <li class="article-related__item"><a class="article-related__link" href="https://sixiangjialaundry.com/posts/2026-09-09-slot-03.html">牛仔褲膝蓋鬆掉</a>（2026-09-09）</li>
-              <li class="article-related__item"><a class="article-related__link" href="https://sixiangjialaundry.com/posts/2026-09-08-slot-03.html">保潔墊出現黃圈</a>（2026-09-08）</li>
               <li class="article-related__item"><a class="article-related__link" href="https://sixiangjialaundry.com/guides/photo-before-laundry.html">送洗前怎麼拍照片詢問？</a></li>
               <li class="article-related__item"><a class="article-related__link" href="https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html">台中洗衣、洗鞋、洗包與免費收送怎麼找？</a></li>
               <li class="article-related__item"><a class="article-related__link" href="https://sixiangjialaundry.com/services/taichung-laundry-price-list.html">台中洗衣價目表</a></li>
@@ -520,14 +526,14 @@
         <h3><a href="https://sixiangjialaundry.com/services/taichung-xitun-laundry.html">台中西屯洗衣店</a></h3>
         <p>如果你正在找台中西屯或青海路附近的洗衣店，私享家洗衣店把衣物、鞋子、包包、白鞋與布品收納分開判斷。不是只問要不要洗，而是先看物件狀態、材質、痕跡位置和使用情境，再建議適合的整理方式。</p>
         <p><strong>能解決：</strong>私享家洗衣店位於台中市西屯區青海路二段365號（至善國中對面），提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，台中市全區免費到府收送，可先用 LINE 傳照片詢問。</p>
-        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-xitun-laundry.html">詳細介紹</a>
+        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-xitun-laundry.html" aria-label="詳細介紹：台中西屯洗衣店">詳細介紹</a>
       </article>
             <article class="card product-card service-card">
         <div class="product-card__meta">台中市全區住家與公司</div>
         <h3><a href="https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html">台中全市免費洗衣收送</a></h3>
         <p>私享家洗衣店提供台中全市免費收送服務。收送本身免費，且不以單次洗滌滿額作為收送條件——收送沒有最低消費門檻。門市位置仍在台中市西屯區青海路二段365號；收送範圍涵蓋台中市，不以西屯為限。預約與詢問以 LINE 為主，先傳照片說明衣物、鞋子、包包或布品狀況，再安排後續。</p>
         <p><strong>能解決：</strong>私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。</p>
-        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html">詳細介紹</a>
+        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html" aria-label="詳細介紹：台中全市免費洗衣收送">詳細介紹</a>
       </article>
             <article class="card">
               <h3>私享家洗衣店</h3>

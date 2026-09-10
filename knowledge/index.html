@@ -31,6 +31,12 @@
       --color-brand-deep: #163a2b;
       --color-brand-soft: #e8f0eb;
       --color-blue: #1f6feb;
+      /* --color-blue is 4.63:1 on white but only 4.36:1 on the #f7f8fb section
+         tint, which is under WCAG AA's 4.5 and is the single audit keeping the
+         accessibility score off 100 (measured 2026-09-11 on the live homepage).
+         This darker step is 5.43:1 on that tint and 5.77:1 on white, and is used
+         only for the small bold labels that sit on tinted panels. */
+      --color-blue-strong: #1a5fd0;
       --color-green: #1c7c54;
       --color-red: #b42318;
       --shadow-panel: 0 14px 38px #17203314;
@@ -53,7 +59,7 @@
     .section.surface { background: #ffffff; border-top: 1px solid var(--color-line); border-bottom: 1px solid var(--color-line); }
     .section-header { gap: 10px; max-width: 760px; margin-bottom: 24px; display: grid; }
     .section-header p, .section-header .section-copy { margin: 0; }
-    .eyebrow { color: var(--color-blue); letter-spacing: 0; font-size: .85rem; font-weight: 800; margin: 0; }
+    .eyebrow { color: var(--color-blue-strong); letter-spacing: 0; font-size: .85rem; font-weight: 800; margin: 0; }
     h1, h2, h3, p { margin-top: 0; }
     h1 { letter-spacing: 0; margin-bottom: 18px; font-size: clamp(2.25rem, 6vw, 4.6rem); line-height: 1.04; }
     h2 { letter-spacing: 0; margin-bottom: 12px; font-size: clamp(1.65rem, 3vw, 2.45rem); line-height: 1.16; }
@@ -211,7 +217,7 @@
     .post-archive summary { cursor: pointer; font-weight: 800; color: var(--color-ink); }
     .post-archive .grid { margin-top: 18px; }
     .answer-block, .answer-box { border-radius: var(--radius-card); background: #f0f7ff; border: 1px solid #b9d8ff; padding: 18px; }
-    .answer-block strong, .answer-box strong, .answer-box .eyebrow { color: var(--color-blue); margin-bottom: 6px; display: block; }
+    .answer-block strong, .answer-box strong, .answer-box .eyebrow { color: var(--color-blue-strong); margin-bottom: 6px; display: block; }
     .hero-visual > .eyebrow { margin-bottom: -8px; }
     .hero-visual > .muted { font-size: .9rem; margin: 0; }
     .answer-block p:last-child, .answer-box p:last-child { margin-bottom: 0; }
@@ -382,49 +388,49 @@
         <h3><a href="https://sixiangjialaundry.com/services/shoe-bag-care.html">鞋包清潔</a></h3>
         <p>鞋子和包包常見問題不只表面髒，還包括包角水痕、鞋底泥灰、提把油痕、內裡濕氣與材質摩擦痕。私享家會先看材質、位置與痕跡深度，再決定是清潔、局部整理、通風觀察，還是需要先提醒客人可改善的限度。</p>
         <p><strong>能解決：</strong>逢甲與西屯需要洗鞋，可先把鞋面、鞋底、鞋內與材質照片傳 LINE；私享家門市在青海路二段365號，會先說明清潔方式與可改善範圍，台中市可免費收送。</p>
-        <a class="card-link" href="https://sixiangjialaundry.com/services/shoe-bag-care.html">詳細介紹</a>
+        <a class="card-link" href="https://sixiangjialaundry.com/services/shoe-bag-care.html" aria-label="詳細介紹：鞋包清潔">詳細介紹</a>
       </article>
 <article class="card product-card service-card">
         <div class="product-card__meta">球鞋族、學生、上班族</div>
         <h3><a href="https://sixiangjialaundry.com/services/white-shoe-cleaning.html">白鞋清潔</a></h3>
         <p>白鞋泛灰、泛黃或有悶味，不一定適合硬刷或漂白。鞋面、膠邊、縫線、鞋墊與內裡吸附狀態不同，處理前要先分開檢查，尤其是膠邊氧化和材質磨耗，要先說清楚可改善的限度。</p>
         <p><strong>能解決：</strong>台中西屯白鞋清潔不建議直接漂白或硬刷，應先看鞋面材質、膠邊氧化、縫線卡灰、鞋墊與內裡味道，再判斷可清潔程度。</p>
-        <a class="card-link" href="https://sixiangjialaundry.com/services/white-shoe-cleaning.html">詳細介紹</a>
+        <a class="card-link" href="https://sixiangjialaundry.com/services/white-shoe-cleaning.html" aria-label="詳細介紹：白鞋清潔">詳細介紹</a>
       </article>
 <article class="card product-card service-card">
         <div class="product-card__meta">家庭、換季收納、租屋族</div>
         <h3><a href="https://sixiangjialaundry.com/services/fabric-storage.html">布品收納</a></h3>
         <p>布品收納不是把東西折好放進櫃子就結束。收納前要先確認濕氣、汗味、灰塵、黃斑、寢具接觸皮膚的位置與清潔狀態，避免下次拿出來才發現霉味或局部痕跡變深。</p>
         <p><strong>能解決：</strong>台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。</p>
-        <a class="card-link" href="https://sixiangjialaundry.com/services/fabric-storage.html">詳細介紹</a>
+        <a class="card-link" href="https://sixiangjialaundry.com/services/fabric-storage.html" aria-label="詳細介紹：布品收納">詳細介紹</a>
       </article>
 <article class="card product-card service-card">
         <div class="product-card__meta">西屯、逢甲、青海路生活圈</div>
         <h3><a href="https://sixiangjialaundry.com/services/taichung-xitun-laundry.html">台中西屯洗衣店</a></h3>
         <p>如果你正在找台中西屯或青海路附近的洗衣店，私享家洗衣店把衣物、鞋子、包包、白鞋與布品收納分開判斷。不是只問要不要洗，而是先看物件狀態、材質、痕跡位置和使用情境，再建議適合的整理方式。</p>
         <p><strong>能解決：</strong>私享家洗衣店位於台中市西屯區青海路二段365號（至善國中對面），提供衣物洗護、鞋包清潔、白鞋清潔與布品收納前檢查，台中市全區免費到府收送，可先用 LINE 傳照片詢問。</p>
-        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-xitun-laundry.html">詳細介紹</a>
+        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-xitun-laundry.html" aria-label="詳細介紹：台中西屯洗衣店">詳細介紹</a>
       </article>
 <article class="card product-card service-card">
         <div class="product-card__meta">店家、公司、宿舍與團體</div>
         <h3><a href="https://sixiangjialaundry.com/services/business-bulk-laundry.html">店家與公司大量衣物送洗</a></h3>
         <p>店家、公司、工作室或團隊一次有多件制服、工作衣、毛巾、床組或其他布品需要整理時，重點不是先承諾固定價格或天數，而是先確認品項、數量、材質、髒污與交接方式。私享家可在台中市全區安排免費收送，主要透過 LINE 傳照片與清單詢問；清潔與洗護費用另依實際物件判斷。</p>
         <p><strong>能解決：</strong>台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。</p>
-        <a class="card-link" href="https://sixiangjialaundry.com/services/business-bulk-laundry.html">詳細介紹</a>
+        <a class="card-link" href="https://sixiangjialaundry.com/services/business-bulk-laundry.html" aria-label="詳細介紹：店家與公司大量衣物送洗">詳細介紹</a>
       </article>
 <article class="card product-card service-card">
         <div class="product-card__meta">台中市全區住家與公司</div>
         <h3><a href="https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html">台中全市免費洗衣收送</a></h3>
         <p>私享家洗衣店提供台中全市免費收送服務。收送本身免費，且不以單次洗滌滿額作為收送條件——收送沒有最低消費門檻。門市位置仍在台中市西屯區青海路二段365號；收送範圍涵蓋台中市，不以西屯為限。預約與詢問以 LINE 為主，先傳照片說明衣物、鞋子、包包或布品狀況，再安排後續。</p>
         <p><strong>能解決：</strong>私享家洗衣店提供台中全市免費洗衣收送，且收送沒有最低消費門檻——不因件數少或單次金額未達標準而不收。門市在西屯區青海路二段365號，收送範圍為台中市，主要透過 LINE 預約與傳照片詢問；清潔與洗護費用仍依物件狀態另計。</p>
-        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html">詳細介紹</a>
+        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html" aria-label="詳細介紹：台中全市免費洗衣收送">詳細介紹</a>
       </article>
 <article class="card product-card service-card">
         <div class="product-card__meta">第一次送洗、想先看價格的人</div>
         <h3><a href="https://sixiangjialaundry.com/services/taichung-laundry-price-list.html">台中洗衣價目表</a></h3>
         <p>台中洗衣洗鞋洗包參考價約 $70 到 $2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；皆為水洗參考價，不是固定價。</p>
         <p><strong>能解決：</strong>台中洗衣洗鞋洗包參考價約 $70 到 $2500：襯衫 $70、一般運動鞋 $250、名牌包 $1500 起；皆為水洗參考價，不是固定價。</p>
-        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-laundry-price-list.html">詳細介紹</a>
+        <a class="card-link" href="https://sixiangjialaundry.com/services/taichung-laundry-price-list.html" aria-label="詳細介紹：台中洗衣價目表">詳細介紹</a>
       </article>
           </div>
         </div>
