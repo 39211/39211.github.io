@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-11T03:59:44.278Z
+- Generated at: 2026-09-11T17:19:08.203Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -336,9 +336,10 @@
     "https://sixiangjialaundry.com/assets/2026-09-10/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-10/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-09-10/slot-03.png",
-    "https://sixiangjialaundry.com/assets/2026-09-11/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-11/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-09-11/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-09-12/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-09-12/slot-03.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -8214,57 +8215,6 @@ Instagram caption:
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗衣店 #西屯 #逢甲 #台中
 
-### 2026-09-11 11:30 沙發布面坐出油光還能洗嗎？先看是可拆套還是固定布
-
-- id: https://sixiangjialaundry.com/content-calendar/2026-09-11.json#post-2026-09-11-slot-01
-- published local time: 2026-09-11T11:30:00+08:00
-- category: 知識文
-- platforms: facebook, instagram
-- visual_route: shop-inspection
-- traffic_route: share-worthy-care
-- search_intent: problem-diagnosis
-- target_queries: 台中棉被清洗 | 台中床組清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中外套清洗 | 棉被有潮味怎麼辦
-- evidence_type: first-party-inspection
-- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店 #西屯 #逢甲 #台中
-- image: https://sixiangjialaundry.com/assets/2026-09-11/slot-01.png
-- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-11.json
-
-Facebook caption:
-
-沙發布面坐出油光還能洗嗎？先看是可拆套還是固定布。
-
-衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。
-
-我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。
-
-不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。
-
-下一集：枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清
-
-出處：門市當日看件
-
-直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
-
-#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店 #西屯 #逢甲 #台中
-
-Instagram caption:
-
-沙發布面坐出油光還能洗嗎？先看是可拆套還是固定布。
-
-衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。
-
-我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。
-
-不知道該不該送洗？拍一張私訊，我們老實跟你說。
-
-下一集：枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清
-
-出處：門市當日看件
-
-直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
-
-#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店 #西屯 #逢甲 #台中
-
 ### 2026-09-11 20:30 送洗前先問：颱風天後鞋包不要急著曬，門市會先確認什麼
 
 - id: https://sixiangjialaundry.com/content-calendar/2026-09-11.json#post-2026-09-11-slot-02
@@ -8362,4 +8312,102 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-09-12 20:30 送洗前先問：孩子上學後鞋襪變悶，門市會先確認什麼
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-12.json#post-2026-09-12-slot-02
+- published local time: 2026-09-12T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: object-proof
+- search_intent: aftercare
+- target_queries: 台中洗鞋 | 西屯洗鞋 | 逢甲洗鞋 | 台中白鞋清潔 | 白鞋泛黃怎麼辦 | 白鞋變黃怎麼辦
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #開學準備 #童鞋清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-09-12/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-12.json
+
+Facebook caption:
+
+孩子上學後鞋襪變悶，門市會先確認什麼。
+
+白鞋泛黃，問題常在中底和鞋邊，不在鞋面。硬刷只會起毛。
+
+鞋子我會先看中底和鞋邊。泛黃多半從那裡開始，鞋面反而還好。
+
+台中全區免費到府收，沒有低消、一件也收，傳 LINE說一聲就好。
+
+拍鞋面和鞋底兩張傳 LINE，我們先看。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #開學準備 #童鞋清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+孩子上學後鞋襪變悶，門市會先確認什麼。
+
+白鞋泛黃，問題常在中底和鞋邊，不在鞋面。硬刷只會起毛。
+
+鞋子我會先看中底和鞋邊。泛黃多半從那裡開始，鞋面反而還好。
+
+台中全區免費到府收，沒有低消、一件也收，私訊說一聲就好。
+
+拍鞋面和鞋底兩張傳 LINE，我們先看。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #開學準備 #童鞋清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-09-12 12:00 毛衣腋下出現黃斑
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-12.json#post-2026-09-12-slot-03
+- published local time: 2026-09-12T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-09-12/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-12.json
+
+Facebook caption:
+
+汗和止汗劑會起反應變成黃斑,放得越久就越難退。
+
+當季就洗掉最好處理,收進櫃子放一季就定型了。
+
+毛衣腋下出現黃斑。
+
+拍一張傳 LINE給我們，我們先看方向。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+汗和止汗劑會起反應變成黃斑,放得越久就越難退。
+
+當季就洗掉最好處理,收進櫃子放一季就定型了。
+
+毛衣腋下出現黃斑。
+
+拍一張私訊給我們，我們先看方向。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中
 

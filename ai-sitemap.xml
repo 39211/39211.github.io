@@ -71,7 +71,7 @@
   <url><loc>https://sixiangjialaundry.com/feed.json</loc><changefreq>daily</changefreq><!-- updates-feed --></url>
   <url><loc>https://sixiangjialaundry.com/social-posts.json</loc><changefreq>daily</changefreq><!-- post-records --></url>
   <url><loc>https://sixiangjialaundry.com/latest.json</loc><changefreq>daily</changefreq><!-- latest-package --></url>
-  <url><loc>https://sixiangjialaundry.com/posts/</loc><lastmod>2026-09-11</lastmod><changefreq>daily</changefreq><!-- daily-article-hub --></url>
+  <url><loc>https://sixiangjialaundry.com/posts/</loc><lastmod>2026-09-12</lastmod><changefreq>daily</changefreq><!-- daily-article-hub --></url>
   <url><loc>https://sixiangjialaundry.com/rss.xml</loc><changefreq>daily</changefreq><!-- rss-feed --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-07-02-slot-01.html</loc><lastmod>2026-09-04</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-07-02.json#post-2026-07-02-slot-01 --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-07-02-slot-02.html</loc><lastmod>2026-09-04</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-07-02.json#post-2026-07-02-slot-02 --></url>
@@ -216,9 +216,10 @@
   <url><loc>https://sixiangjialaundry.com/posts/2026-09-10-slot-01.html</loc><lastmod>2026-09-10</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-09-10.json#post-2026-09-10-slot-01 --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-09-10-slot-02.html</loc><lastmod>2026-09-10</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-09-10.json#post-2026-09-10-slot-02 --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-09-10-slot-03.html</loc><lastmod>2026-09-10</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-09-10.json#post-2026-09-10-slot-03 --></url>
-  <url><loc>https://sixiangjialaundry.com/posts/2026-09-11-slot-01.html</loc><lastmod>2026-09-11</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-09-11.json#post-2026-09-11-slot-01 --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-09-11-slot-02.html</loc><lastmod>2026-09-11</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-09-11.json#post-2026-09-11-slot-02 --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-09-11-slot-03.html</loc><lastmod>2026-09-11</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-09-11.json#post-2026-09-11-slot-03 --></url>
+  <url><loc>https://sixiangjialaundry.com/posts/2026-09-12-slot-02.html</loc><lastmod>2026-09-12</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-09-12.json#post-2026-09-12-slot-02 --></url>
+  <url><loc>https://sixiangjialaundry.com/posts/2026-09-12-slot-03.html</loc><lastmod>2026-09-12</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-09-12.json#post-2026-09-12-slot-03 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png</loc><changefreq>daily</changefreq><!-- service-image-generated-product-image --></url>
   <url><loc>https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png</loc><changefreq>daily</changefreq><!-- service-image-generated-product-image --></url>
   <url><loc>https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png</loc><changefreq>daily</changefreq><!-- service-image-generated-product-image --></url>
@@ -287,7 +288,8 @@
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-09-08.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-09-09.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-09-10.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
-  <url><loc>https://sixiangjialaundry.com/content-calendar/2026-09-11.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
+  <url><loc>https://sixiangjialaundry.com/content-calendar/2026-09-11.json</loc><changefreq>daily</changefreq><!-- calendar-slot-2 --></url>
+  <url><loc>https://sixiangjialaundry.com/content-calendar/2026-09-12.json</loc><changefreq>daily</changefreq><!-- calendar-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-02/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-02/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-03/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
@@ -441,7 +443,8 @@
   <url><loc>https://sixiangjialaundry.com/assets/2026-09-10/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-09-10/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-09-10/slot-03.png</loc><changefreq>daily</changefreq><!-- image-slot-3 --></url>
-  <url><loc>https://sixiangjialaundry.com/assets/2026-09-11/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-09-11/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-09-11/slot-03.png</loc><changefreq>daily</changefreq><!-- image-slot-3 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-09-12/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-09-12/slot-03.png</loc><changefreq>daily</changefreq><!-- image-slot-3 --></url>
 </urlset>
