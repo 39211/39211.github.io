@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-10T22:30:13.118Z",
+  "generated_at": "2026-09-11T03:59:44.278Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -692,7 +692,7 @@
       "id": "taichung-xitun-laundry-faq-04",
       "type": "faq",
       "question": "社群貼文內容會和服務頁連在一起嗎？",
-      "answer": "會。排程產生且審核通過的 FB / IG 貼文會同步成公開 SEO / AEO / GEO 資料，讓服務頁和日常案例互相補強。",
+      "answer": "會。門市在 Facebook 和 Instagram 發的當日案例，這個網站上都有完整版本，方便你回頭找同樣狀況怎麼處理。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#faq",
       "local_intent": "台中西屯 洗衣店",
