@@ -5,7 +5,12 @@ A mirrored static site: ~1,100 tracked files, **~17.9 MB of tracked text
 Treat context as the scarce resource — the rules below exist because ignoring
 them once cost a full weekly model allowance.
 
-See `docs/token-budget-playbook.md` for the reasoning and measurements.
+See `docs/token-budget-playbook.md` for the reasoning and measurements, and
+`docs/HANDOVER-token-investigation.md` for the open investigation into which
+session drained the allowance (that one needs the local machine's transcripts).
+
+To audit where tokens actually went in any session:
+`scripts/audit-token-usage.sh --all`
 
 ## Check before you spend
 
