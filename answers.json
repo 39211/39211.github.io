@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-11T18:53:24.096Z",
+  "generated_at": "2026-09-11T19:35:16.932Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -3795,7 +3795,7 @@
     {
       "id": "donghai-laundry-pickup-summary",
       "type": "local_summary",
-      "question": "東海洗衣收送：厚被、窗簾與日常衣物怎麼約",
+      "question": "東海洗衣店？門市在西屯，一件也收、免費到府收送",
       "answer": "東海生活圈可約免費收送；厚被、窗簾與日常衣物先傳照片再收。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
