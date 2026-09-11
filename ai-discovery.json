@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-09-11T17:19:08.203Z",
+  "generated_at": "2026-09-11T18:53:24.096Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -578,6 +578,7 @@
       "https://sixiangjialaundry.com/assets/2026-09-10/slot-03.png",
       "https://sixiangjialaundry.com/assets/2026-09-11/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-09-11/slot-03.png",
+      "https://sixiangjialaundry.com/assets/2026-09-12/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-09-12/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-09-12/slot-03.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -1279,8 +1280,8 @@
     {
       "slug": "rainy-shoe-care",
       "category": "guide",
-      "title": "雨天鞋子進水後怎麼辦？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理雨天鞋子：通勤後鞋內濕氣、鞋底泥灰和鞋邊水痕容易被忽略，先通風、不要悶放，再判斷是否需要專業清潔。",
+      "title": "雨天鞋子進水？先通風不要悶著，濕氣留在鞋內｜私享家洗衣店",
+      "description": "雨天鞋子進水後最傷的動作是直接塞進鞋櫃：濕氣出不來，味道和霉都是從那一步開始的。先撐開通風，鞋底泥灰和鞋邊水痕等乾了再看。私享家洗衣店（台中西屯青海路二段365號）先看鞋況再決定做法，台中全市免費收送。",
       "url": "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
       "keywords": [
         "雨天鞋子保養",
@@ -1573,7 +1574,7 @@
     {
       "slug": "qinghai-road-shoe-cleaning",
       "category": "local",
-      "title": "青海路洗鞋店怎麼挑｜逢甲、西屯門市方位、案例界線與收送｜私享家洗衣店",
+      "title": "逢甲、西屯洗鞋｜運動鞋水洗 $250，台中全市免費收送｜私享家",
       "description": "逢甲、西屯找洗鞋店？先看這篇怎麼挑：看案例照片、問處理界線、確認收送方式。私享家在青海路二段365號，台中市免費收送，LINE 傳照片先判斷再決定。",
       "url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
       "keywords": [
@@ -2023,10 +2024,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots, enter rss.xml and the posts hub; the human sitemap.xml lists money/service/guide URLs first and only the newest sitemap_max_indexable_posts thick articles so conversion pages are not buried.",
-      "indexable_article_count": 147,
+      "indexable_article_count": 148,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 147
+      "article_count": 148
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2040,18 +2041,71 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 157,
+    "post_count": 158,
     "latest_date": "2026-09-12",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 80,
-    "posts_with_target_queries": 82,
-    "posts_with_evidence_type": 82
+    "posts_with_search_intent": 81,
+    "posts_with_target_queries": 83,
+    "posts_with_evidence_type": 83
   },
   "latest_date": "2026-09-12",
   "latest_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-12.json#post-2026-09-12-slot-01",
+      "date": "2026-09-12",
+      "date_published": "2026-09-12T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-09-12 11:30 枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清",
+      "topic": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中床組清洗",
+        "台中棉被清洗",
+        "西屯寢具清洗",
+        "台中羽絨被送洗",
+        "台中床被收送",
+        "棉被有潮味怎麼辦"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#棉被送洗",
+        "#寢具清潔",
+        "#換季收納",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-12/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-12.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-12-slot-01.html",
+      "facebook_caption": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清。\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季拿出來就是那個味道。\n\n棉被我會先聞內層再看表布。濕氣的味道和髒的味道不一樣，處理方式也不同。\n\n想收之前先清一次？傳 LINE跟我們說一聲，台中市區我們到府收。\n\n下一集：大衣入秋前要不要先送洗？先翻領口、袖口、腋下 3 個位置\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清。\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季拿出來就是那個味道。\n\n棉被我會先聞內層再看表布。濕氣的味道和髒的味道不一樣，處理方式也不同。\n\n想收之前先清一次？私訊跟我們說一聲，台中市區我們到府收。\n\n下一集：大衣入秋前要不要先送洗？先翻領口、袖口、腋下 3 個位置\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-09-12.json#post-2026-09-12-slot-02",
       "date": "2026-09-12",
@@ -2245,6 +2299,59 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-09-12-slot-02.html",
       "facebook_caption": "孩子上學後鞋襪變悶，門市會先確認什麼。\n\n白鞋泛黃，問題常在中底和鞋邊，不在鞋面。硬刷只會起毛。\n\n鞋子我會先看中底和鞋邊。泛黃多半從那裡開始，鞋面反而還好。\n\n台中全區免費到府收，沒有低消、一件也收，傳 LINE說一聲就好。\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #童鞋清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "孩子上學後鞋襪變悶，門市會先確認什麼。\n\n白鞋泛黃，問題常在中底和鞋邊，不在鞋面。硬刷只會起毛。\n\n鞋子我會先看中底和鞋邊。泛黃多半從那裡開始，鞋面反而還好。\n\n台中全區免費到府收，沒有低消、一件也收，私訊說一聲就好。\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #開學準備 #童鞋清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-12.json#post-2026-09-12-slot-01",
+      "date": "2026-09-12",
+      "date_published": "2026-09-12T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-09-12 11:30 枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清",
+      "topic": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中床組清洗",
+        "台中棉被清洗",
+        "西屯寢具清洗",
+        "台中羽絨被送洗",
+        "台中床被收送",
+        "棉被有潮味怎麼辦"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#棉被送洗",
+        "#寢具清潔",
+        "#換季收納",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-12/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-12.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-12-slot-01.html",
+      "facebook_caption": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清。\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季拿出來就是那個味道。\n\n棉被我會先聞內層再看表布。濕氣的味道和髒的味道不一樣，處理方式也不同。\n\n想收之前先清一次？傳 LINE跟我們說一聲，台中市區我們到府收。\n\n下一集：大衣入秋前要不要先送洗？先翻領口、袖口、腋下 3 個位置\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清。\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季拿出來就是那個味道。\n\n棉被我會先聞內層再看表布。濕氣的味道和髒的味道不一樣，處理方式也不同。\n\n想收之前先清一次？私訊跟我們說一聲，台中市區我們到府收。\n\n下一集：大衣入秋前要不要先送洗？先翻領口、袖口、腋下 3 個位置\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-09-11.json#post-2026-09-11-slot-03",
@@ -3591,57 +3698,6 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-09-01-slot-02.html",
       "facebook_caption": "中秋烤肉後外套不要直接掛回去，先看容易忽略的位置。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張傳 LINE，我們幫你判斷。\n\n你現在最想處理掉的是哪一件？\n\n那個每次換季都說「下週再整理」的人，傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #中秋節 #外套清洗 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "中秋烤肉後外套不要直接掛回去，先看容易忽略的位置。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張私訊，我們幫你判斷。\n\n你現在最想處理掉的是哪一件？\n\n那個每次換季都說「下週再整理」的人，傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #中秋節 #外套清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-01.json#post-2026-09-01-slot-01",
-      "date": "2026-09-01",
-      "date_published": "2026-09-01T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-09-01 11:30 可收藏：勃肯鞋汗味軟木，送洗前先看三個位置",
-      "topic": "可收藏：勃肯鞋汗味軟木，送洗前先看三個位置",
-      "visual_route": "customer-consultation",
-      "traffic_route": "trust-reset",
-      "content_role": "reach-answer",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中洗鞋店",
-        "台中洗包包",
-        "鞋子淋雨後怎麼收",
-        "棉被收納前要洗嗎"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-01/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-01/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-09-01/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-09-01/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-09-01/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-01.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-01-slot-01.html",
-      "facebook_caption": "勃肯鞋汗味軟木，送洗前先看三個位置。\n\n鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。\n\n鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "勃肯鞋汗味軟木，送洗前先看三個位置。\n\n鞋底邊那一圈最常被跳過。它決定整雙看起來新不新。\n\n鞋子我會先看鞋墊和後跟內側。腳汗停在那裡，比外面的灰更難處理。\n\n不確定還救不救得回來？拍一張私訊給我們，先幫你看。\n\n你多久整理一次鞋子？\n\n追蹤私享家，之後會持續整理鞋子、包包和白鞋的日常照護判斷。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
     }
   ],
   "published_posts": [
@@ -10547,6 +10603,59 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-09-11-slot-03.html",
       "facebook_caption": "黃長在兩個位置，做法一樣嗎？\n\n膠邊是氧化刷不掉；布面洗劑殘留才洗得回來。運動鞋兩百五起，台中收送。\n\n先看鞋邊那圈膠。\n\n拍一張傳 LINE給我們，我們先看方向。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "黃長在兩個位置，做法一樣嗎？\n\n膠邊是氧化刷不掉；布面洗劑殘留才洗得回來。運動鞋兩百五起，台中收送。\n\n先看鞋邊那圈膠。\n\n拍一張私訊給我們，我們先看方向。\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-12.json#post-2026-09-12-slot-01",
+      "date": "2026-09-12",
+      "date_published": "2026-09-12T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-09-12 11:30 枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清",
+      "topic": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中床組清洗",
+        "台中棉被清洗",
+        "西屯寢具清洗",
+        "台中羽絨被送洗",
+        "台中床被收送",
+        "棉被有潮味怎麼辦"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#棉被送洗",
+        "#寢具清潔",
+        "#換季收納",
+        "#台中洗衣店",
+        "#西屯",
+        "#逢甲",
+        "#台中"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-12/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-09-12/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-12.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-12-slot-01.html",
+      "facebook_caption": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清。\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季拿出來就是那個味道。\n\n棉被我會先聞內層再看表布。濕氣的味道和髒的味道不一樣，處理方式也不同。\n\n想收之前先清一次？傳 LINE跟我們說一聲，台中市區我們到府收。\n\n下一集：大衣入秋前要不要先送洗？先翻領口、袖口、腋下 3 個位置\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
+      "instagram_caption": "枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清。\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季拿出來就是那個味道。\n\n棉被我會先聞內層再看表布。濕氣的味道和髒的味道不一樣，處理方式也不同。\n\n想收之前先清一次？私訊跟我們說一聲，台中市區我們到府收。\n\n下一集：大衣入秋前要不要先送洗？先翻領口、袖口、腋下 3 個位置\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-09-12.json#post-2026-09-12-slot-02",

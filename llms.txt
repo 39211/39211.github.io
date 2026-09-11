@@ -154,6 +154,14 @@ This is the curated AI entry point. Read this file first, then choose the smalle
   hashtags: #私享家洗衣店 #台中西屯洗衣店 #開學準備 #童鞋清潔 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
   image: https://sixiangjialaundry.com/assets/2026-09-12/slot-02.png
   calendar: https://sixiangjialaundry.com/content-calendar/2026-09-12.json
+- [2026-09-12 11:30 枕頭那片黃是汗還是霉？聞、摸、翻 3 個動作先分清](https://sixiangjialaundry.com/posts/2026-09-12-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=customer-consultation; traffic_route=value-prop-lead; search_intent=problem-diagnosis
+  target_queries: 台中床組清洗 | 台中棉被清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中床被收送 | 棉被有潮味怎麼辦
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-12/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-12.json
 - [2026-09-11 12:00 先看鞋邊那圈膠](https://sixiangjialaundry.com/posts/2026-09-11-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)
