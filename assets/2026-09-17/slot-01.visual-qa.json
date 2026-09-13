@@ -1,0 +1,77 @@
+{
+  "topic": "領帶沾到油漬怎麼辦？先別自己搓，看這 2 件事",
+  "date": "2026-09-17",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆為深藍色織紋領帶，中央深色污斑與右後方折疊窄端的位置一致。",
+    "SCENE": "四張皆為有刮痕的不鏽鋼檯面，背景延續白色磁磚、瓶罐與摺疊毛巾。",
+    "TOPIC_MATCH": "四張主體皆為帶有深色污斑的領帶，符合主題物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-17\\slot-01.png",
+      "canary": "DVXA",
+      "sha256": "6aad2f87785d44e84b806bdd10266a40b46a624a897d8c5314b5025120194350"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-17\\slot-01-slide-02.png",
+      "canary": "D39U",
+      "sha256": "9ad7f137925098bcbf1308c9e8d24599526849f1ed195e082fbc09ef2878016b"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-17\\slot-01-slide-03.png",
+      "canary": "6PUK",
+      "sha256": "47334ff2952868df5988c3b9bcf5e5bb8f37071b3a74cbf973e24a36bff1085c"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-17\\slot-01-slide-04.png",
+      "canary": "8EL2",
+      "sha256": "04c0bf9bcc9a5c5e3b77b0a58d743f53cd985307327b8eccfaf879c85c3e5dba"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-17\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-17\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-17\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-17\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "DVXA",
+    "IMAGE_2": "D39U",
+    "IMAGE_3": "6PUK",
+    "IMAGE_4": "8EL2"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "DVXA",
+    "IMAGE_2": "D39U",
+    "IMAGE_3": "6PUK",
+    "IMAGE_4": "8EL2"
+  },
+  "prompt_hash": "7921770711657dd883b8b37aa0c7c6db9f0a64997dfe8b5ab4596aae30f15a17",
+  "run_id": "carousel-qa-1789338925153",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-13T22:36:36.806Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
