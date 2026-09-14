@@ -1,0 +1,77 @@
+{
+  "topic": "換季衣物可以直接收進真空袋嗎？收之前先做這 3 個檢查",
+  "date": "2026-09-18",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆為深藍色針織圓領短袖 T 恤，領口與腋下接縫附近的泛白痕跡相符。",
+    "SCENE": "四張皆在不鏽鋼水槽旁的溝紋金屬檯面，背景可見相同的綠色地墊。",
+    "TOPIC_MATCH": "四張主體皆為衣物，符合主題中收納前檢查的衣物類別。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-01.png",
+      "canary": "9PTR",
+      "sha256": "aef5da0130b2cacd863339b705d96e180f5b38cb92f013dbb431d46b3050aefb"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-01-slide-02.png",
+      "canary": "STR7",
+      "sha256": "529a6e8e2a8e8b95f4d2fa4a24e11874e4ed252b10341d55e1d8a335494eb9b7"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-01-slide-03.png",
+      "canary": "R6VG",
+      "sha256": "00b85a574977f4e6ae2d7a141b0929aa0835c2de45a6cf30293ee4780109087d"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-01-slide-04.png",
+      "canary": "V5TZ",
+      "sha256": "b50c069ec1a26db79e783b80c29062e113f457446ef68cdb83c66114e56a3610"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "9PTR",
+    "IMAGE_2": "STR7",
+    "IMAGE_3": "R6VG",
+    "IMAGE_4": "V5TZ"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "9PTR",
+    "IMAGE_2": "STR7",
+    "IMAGE_3": "R6VG",
+    "IMAGE_4": "V5TZ"
+  },
+  "prompt_hash": "c6dfa07f93a817f31554ac3bfac89ff0c50a71db5efae1a5dd0190411072ab60",
+  "run_id": "carousel-qa-1789425311840",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-14T22:36:19.369Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

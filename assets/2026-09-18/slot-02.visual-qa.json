@@ -1,0 +1,77 @@
+{
+  "topic": "中秋前：烤肉煙味與連假衣物整理預告",
+  "date": "2026-09-18",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張均呈現深藍色針織圓領T恤，領口羅紋、雙道縫線與泛白痕跡相符。",
+    "SCENE": "四張均為有水滴的溝槽金屬檯面，背景刷具與皂塊一致。",
+    "TOPIC_MATCH": "四張主體均為T恤，符合主題中的衣物類別。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-02.png",
+      "canary": "BDAM",
+      "sha256": "e00afa3ed97304710a4758e8f29d7e1f255074b038c2267801978e3b9010a160"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-02-slide-02.png",
+      "canary": "YPZ3",
+      "sha256": "dc90f6cb46843d44bbd1effd642d407f74fead0db82536632b29f42bf1cbbd9e"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-02-slide-03.png",
+      "canary": "3KTU",
+      "sha256": "3af39435aaae68082deab8f23d3db42f15bfb5203e8d74cff5f7979fd9e6e6fa"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-02-slide-04.png",
+      "canary": "Q7S8",
+      "sha256": "526e63a6623df4da5f46ff9f51349758199f409730d681944a84772ba456b5ac"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-18\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "BDAM",
+    "IMAGE_2": "YPZ3",
+    "IMAGE_3": "3KTU",
+    "IMAGE_4": "Q7S8"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "BDAM",
+    "IMAGE_2": "YPZ3",
+    "IMAGE_3": "3KTU",
+    "IMAGE_4": "Q7S8"
+  },
+  "prompt_hash": "527bd1494edacaac61046f8200df0c618d275d3d5e393324acb6e9654a628164",
+  "run_id": "carousel-qa-1789425686985",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-14T22:42:33.526Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

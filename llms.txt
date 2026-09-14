@@ -137,6 +137,14 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-09-15 11:30 包包內裡黏黏的是怎麼了？先看內裡材質再決定能不能洗](https://sixiangjialaundry.com/posts/2026-09-15-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=customer-consultation; traffic_route=object-proof; search_intent=problem-diagnosis
+  target_queries: 台中洗包包 | 西屯洗包包 | 台中洗包 | 包包提把清潔 | 包包發霉怎麼辦 | 皮革包包清潔
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+  image: https://sixiangjialaundry.com/assets/2026-09-15/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-15.json
 - [2026-09-14 12:00 馬丁靴整雙發霉了](https://sixiangjialaundry.com/posts/2026-09-14-slot-03.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=(legacy-unassigned)

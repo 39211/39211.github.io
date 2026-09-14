@@ -5923,6 +5923,50 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-14.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-15.json#post-2026-09-15-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-09-15-slot-01.html",
+      "title": "2026-09-15 11:30 包包內裡黏黏的是怎麼了？先看內裡材質再決定能不能洗",
+      "date_published": "2026-09-15T11:30:00+08:00",
+      "content_text": "包包內裡黏黏的是怎麼了？先看內裡材質再決定能不能洗。\n\n包角和邊油是先磨掉的地方。等到看得出來，通常已經磨進去了。\n\n我會先確認邊油還剩多少。磨到底層之後，能做的就只有維持。\n\n台中全區免費到府收，沒有低消、一件也收，傳 LINE說一聲就好。\n\n下一集：靴子收了一個夏天拿出來長霉點？先看是皮面還是絨面再處理\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
+      "summary": "包包內裡黏黏的是怎麼了？先看內裡材質再決定能不能洗",
+      "image": "https://sixiangjialaundry.com/assets/2026-09-15/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "洗護日常",
+        "送洗前檢查",
+        "洗包包",
+        "精品包保養",
+        "名牌包清潔",
+        "台中洗衣店",
+        "西屯",
+        "逢甲",
+        "台中"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "object-proof",
+        "content_role": "reach-answer",
+        "search_intent": "problem-diagnosis",
+        "target_queries": [
+          "台中洗包包",
+          "西屯洗包包",
+          "台中洗包",
+          "包包提把清潔",
+          "包包發霉怎麼辦",
+          "皮革包包清潔"
+        ],
+        "evidence_type": "first-party-inspection",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-15.json"
+      }
     }
   ]
 }

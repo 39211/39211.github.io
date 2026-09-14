@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-13T22:36:43.933Z
+- Generated at: 2026-09-14T22:42:40.243Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -347,6 +347,7 @@
     "https://sixiangjialaundry.com/assets/2026-09-14/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-14/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-09-14/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-09-15/slot-01.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -8778,4 +8779,55 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中
+
+### 2026-09-15 11:30 包包內裡黏黏的是怎麼了？先看內裡材質再決定能不能洗
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-15.json#post-2026-09-15-slot-01
+- published local time: 2026-09-15T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 台中洗包包 | 西屯洗包包 | 台中洗包 | 包包提把清潔 | 包包發霉怎麼辦 | 皮革包包清潔
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+- image: https://sixiangjialaundry.com/assets/2026-09-15/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-15.json
+
+Facebook caption:
+
+包包內裡黏黏的是怎麼了？先看內裡材質再決定能不能洗。
+
+包角和邊油是先磨掉的地方。等到看得出來，通常已經磨進去了。
+
+我會先確認邊油還剩多少。磨到底層之後，能做的就只有維持。
+
+台中全區免費到府收，沒有低消、一件也收，傳 LINE說一聲就好。
+
+下一集：靴子收了一個夏天拿出來長霉點？先看是皮面還是絨面再處理
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
+
+Instagram caption:
+
+包包內裡黏黏的是怎麼了？先看內裡材質再決定能不能洗。
+
+包角和邊油是先磨掉的地方。等到看得出來，通常已經磨進去了。
+
+我會先確認邊油還剩多少。磨到底層之後，能做的就只有維持。
+
+台中全區免費到府收，沒有低消、一件也收，私訊說一聲就好。
+
+下一集：靴子收了一個夏天拿出來長霉點？先看是皮面還是絨面再處理
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中
 
