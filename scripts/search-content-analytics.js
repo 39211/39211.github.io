@@ -24,9 +24,11 @@
   if (pageType === "service") {
     send("view_service");
     send("view_item", {
-      item_id: contentId,
-      item_name: contentId,
-      item_category: "laundry_service"
+      items: [{
+        item_id: contentId,
+        item_name: contentId,
+        item_category: "laundry_service"
+      }]
     });
   }
   if (pageType === "article") send("view_article");
@@ -71,6 +73,9 @@
     } catch {
       return;
     }
+
+    // Internal funnel steps must not classify another site's matching path.
+    if (targetUrl.origin !== new URL(window.location.href).origin) return;
 
     if (targetUrl.pathname.endsWith("/go/line.html")) {
       send("click_line_cta", { cta_name: ctaName });
