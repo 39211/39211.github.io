@@ -3208,9 +3208,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/guides/curtain-cleaning.html#webpage",
-      "name": "台中洗窗簾怎麼判斷？｜窗簾送洗前先看布料 私享家洗衣店",
+      "name": "台中窗簾清洗｜先看布料與軌道｜私享家",
       "url": "https://sixiangjialaundry.com/guides/curtain-cleaning.html",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理窗簾清洗：先看布料、內襯、軌道與尺寸，再決定能不能水洗。台中市可免費收送，費用依尺寸報價。",
+      "description": "台中窗簾清洗先看布料、內襯、軌道與尺寸，再決定能不能水洗。LINE 傳整幅照片，西屯門市判斷，全市可免費收送；不保證回復垂墜與色澤。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -3224,8 +3224,9 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/curtain-cleaning.html#faq"
       },
-      "dateModified": "2026-08-29",
+      "dateModified": "2026-09-15",
       "keywords": [
+        "台中窗簾清洗",
         "台中洗窗簾",
         "窗簾清洗",
         "西屯洗窗簾",
@@ -3240,8 +3241,8 @@
       "mainEntityOfPage": {
         "@id": "https://sixiangjialaundry.com/guides/curtain-cleaning.html#webpage"
       },
-      "name": "台中洗窗簾：先看布料與軌道，再決定怎麼送",
-      "description": "窗簾先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。",
+      "name": "台中窗簾清洗：先看布料與軌道，再決定怎麼送",
+      "description": "台中窗簾清洗先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -3280,7 +3281,7 @@
       "mainEntity": [
         {
           "@type": "Question",
-          "name": "台中洗窗簾多少錢？",
+          "name": "台中窗簾清洗多少錢？",
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "依尺寸報價，沒有單一固定價。先傳整幅與下擺照片，門市再說明範圍；收送本身免費。"
@@ -3309,15 +3310,31 @@
             "@type": "Answer",
             "text": "可以一次收。但布料、潮濕來源與尺寸算法不同，會分開判斷，不會用同一組數字。"
           }
+        },
+        {
+          "@type": "Question",
+          "name": "台中窗簾清洗怎麼判斷？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先看布料、內襯、軌道能不能拆，再看陽光面有沒有脆化。拍照比先問固定價準；門市看過再說明能不能水洗，不保證回復垂墜與色澤。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "洗衣店做台中窗簾清洗嗎？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "西屯青海路二段365號的私享家洗衣店可判斷窗簾適不適合拆洗。先 LINE 傳整幅與下擺；全市可免費收送，清潔另計。不是跟衣服同一槽。"
+          }
         }
       ]
     },
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/guides/carpet-cleaning.html#webpage",
-      "name": "台中洗地毯怎麼判斷？｜地毯潮味與材質 私享家洗衣店",
+      "name": "台中洗地毯洗衣店｜先看材質與潮味｜私享家",
       "url": "https://sixiangjialaundry.com/guides/carpet-cleaning.html",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理地毯清洗：先看材質、潮濕、邊條與尺寸，沒乾就捲起來下次打開就是味道。台中市可免費收送，費用依尺寸報價。",
+      "description": "找台中洗地毯、洗地毯洗衣店？先看材質、潮濕與背面，再決定能不能洗。LINE 傳整張照片，西屯門市判斷，全市可免費收送；不保證全新或完全無味。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -3331,9 +3348,10 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/carpet-cleaning.html#faq"
       },
-      "dateModified": "2026-08-29",
+      "dateModified": "2026-09-15",
       "keywords": [
         "台中洗地毯",
+        "洗地毯洗衣店",
         "地毯清洗",
         "西屯洗地毯",
         "地毯潮味",
@@ -3347,8 +3365,8 @@
       "mainEntityOfPage": {
         "@id": "https://sixiangjialaundry.com/guides/carpet-cleaning.html#webpage"
       },
-      "name": "台中洗地毯：先看材質與潮濕，再決定要不要捲",
-      "description": "地毯先看材質與潮濕；沒乾就捲起來，下次打開就是味道。",
+      "name": "台中洗地毯找洗衣店？先看材質與潮濕",
+      "description": "找洗地毯洗衣店，先看材質與潮濕，不是先問固定價。沒乾就捲起來，下次打開就是味道。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -3415,6 +3433,22 @@
           "acceptedAnswer": {
             "@type": "Answer",
             "text": "可以先問局部。門市會看顏色是否連成一片，避免只處理一區出現色差。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "台中哪裡有洗地毯洗衣店？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "西屯青海路二段365號的私享家洗衣店可判斷地毯能不能洗。先傳整張、四角與背面照片；台中市可約免費收送，清潔另計。不是每張都能水洗，橡膠底龜裂或霉斑穿過背面的，門市會先講界線。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "洗地毯洗衣店怎麼挑？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "先問會不會看材質、背面與潮味層次，敢不敢說不保證全新或完全無味。不要只問能不能丟洗衣機或蒸氣機。可 LINE 傳照片，全市免費收送。"
           }
         }
       ]
