@@ -1491,10 +1491,11 @@
     {
       "slug": "curtain-cleaning",
       "category": "guide",
-      "title": "台中洗窗簾怎麼判斷？｜窗簾送洗前先看布料 私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理窗簾清洗：先看布料、內襯、軌道與尺寸，再決定能不能水洗。台中市可免費收送，費用依尺寸報價。",
+      "title": "台中窗簾清洗｜先看布料與軌道｜私享家",
+      "description": "台中窗簾清洗先看布料、內襯、軌道與尺寸，再決定能不能水洗。LINE 傳整幅照片，西屯門市判斷，全市可免費收送；不保證回復垂墜與色澤。",
       "url": "https://sixiangjialaundry.com/guides/curtain-cleaning.html",
       "keywords": [
+        "台中窗簾清洗",
         "台中洗窗簾",
         "窗簾清洗",
         "西屯洗窗簾",
@@ -1503,17 +1504,18 @@
       ],
       "local_intent": "台中西屯 窗簾清洗 落地窗 軌道",
       "linked_service": "布品收納",
-      "faq_count": 4,
+      "faq_count": 6,
       "step_count": 4
     },
     {
       "slug": "carpet-cleaning",
       "category": "guide",
-      "title": "台中洗地毯怎麼判斷？｜地毯潮味與材質 私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理地毯清洗：先看材質、潮濕、邊條與尺寸，沒乾就捲起來下次打開就是味道。台中市可免費收送，費用依尺寸報價。",
+      "title": "台中洗地毯洗衣店｜先看材質與潮味｜私享家",
+      "description": "找台中洗地毯、洗地毯洗衣店？先看材質、潮濕與背面，再決定能不能洗。LINE 傳整張照片，西屯門市判斷，全市可免費收送；不保證全新或完全無味。",
       "url": "https://sixiangjialaundry.com/guides/carpet-cleaning.html",
       "keywords": [
         "台中洗地毯",
+        "洗地毯洗衣店",
         "地毯清洗",
         "西屯洗地毯",
         "地毯潮味",
@@ -1521,7 +1523,7 @@
       ],
       "local_intent": "台中西屯 地毯清洗 潮味 地墊",
       "linked_service": "布品收納",
-      "faq_count": 4,
+      "faq_count": 6,
       "step_count": 4
     },
     {
