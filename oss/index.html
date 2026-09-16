@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="zh-Hant-TW">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="Credential-free publishing reliability demo for laundry-social-auto-poster: approval, retry, and unmeasured analytics." />
+    <meta name="robots" content="index, follow" />
+    <title>開源可靠性示範｜laundry-social-auto-poster</title>
+    <link rel="canonical" href="https://sixiangjialaundry.com/oss/" />
+    <style>
+      :root {
+        color-scheme: light;
+        --ink: #172033;
+        --muted: #5c6575;
+        --line: #d7dee8;
+        --bg: #f7f8fb;
+        --surface: #fff;
+        --brand: #1f4d3a;
+        --brand-ink: #f4efe6;
+        --green: #1c7c54;
+        --red: #b42318;
+        --font: "Microsoft JhengHei UI", "Microsoft JhengHei", "PingFang TC", Arial, sans-serif;
+      }
+      * { box-sizing: border-box; }
+      body { margin: 0; background: var(--bg); color: var(--ink); font-family: var(--font); }
+      main { max-width: 960px; margin: 0 auto; padding: 32px 20px 72px; }
+      h1, h2, h3 { line-height: 1.3; }
+      h1 { font-size: 1.7rem; }
+      p, li { line-height: 1.6; }
+      a { color: var(--brand); }
+      .hero { background: var(--brand); color: var(--brand-ink); border-radius: 8px; padding: 28px 24px; }
+      .hero p { color: #d9e6df; }
+      .panel { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 20px; margin: 20px 0; }
+      .actions { display: flex; flex-wrap: wrap; gap: 10px; margin: 16px 0; }
+      button { background: var(--brand); color: var(--brand-ink); border: 0; border-radius: 6px; padding: 10px 14px; font: inherit; cursor: pointer; }
+      button.secondary { background: #e8f0eb; color: var(--brand); }
+      .pass { color: var(--green); }
+      .fail { color: var(--red); }
+      .detail { color: var(--muted); margin-top: 0; }
+      #suite-list { padding-left: 1.1rem; }
+      #suite-summary[data-ok="true"] { color: var(--green); font-weight: 700; }
+      #suite-summary[data-ok="false"] { color: var(--red); font-weight: 700; }
+      textarea { width: 100%; min-height: 8rem; font: inherit; padding: 10px; border: 1px solid var(--line); border-radius: 6px; }
+      table { width: 100%; border-collapse: collapse; font-size: 0.95rem; }
+      th, td { border-top: 1px solid var(--line); text-align: left; padding: 8px 6px; vertical-align: top; }
+      code { font-size: 0.92em; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <section class="hero">
+        <p>laundry-social-auto-poster · credential-free demo</p>
+        <h1>未核准不能發、重試不能重複、缺資料不能當零</h1>
+        <p>假商家、假貼文、模擬平台。這個頁面不讀金鑰，也不會發到 Facebook、Instagram 或 GA4。</p>
+      </section>
+
+      <section class="panel">
+        <h2>現場重跑</h2>
+        <p>按一次就在瀏覽器裡跑三個指定情境與 25 個回歸案例。結果來自 <code>ossReliability.js</code>，與 <code>npm run oss-demo</code> 同一組規則。</p>
+        <div class="actions">
+          <button id="run-all" type="button">跑全部</button>
+          <button id="run-named" class="secondary" type="button">只跑三個情境</button>
+          <button id="run-suite" class="secondary" type="button">只跑 25 個案例</button>
+        </div>
+        <article>
+          <h3>1. 未核准不能發布</h3>
+          <div id="s1-result"></div>
+        </article>
+        <article>
+          <h3>2. 不確定狀態重試不能重複發布</h3>
+          <div id="s2-result"></div>
+        </article>
+        <article>
+          <h3>3. 缺少分析資料不能當成零</h3>
+          <div id="s3-result"></div>
+        </article>
+        <p id="suite-summary"></p>
+        <ol id="suite-list"></ol>
+      </section>
+
+      <section class="panel">
+        <h2>這份示範在證明什麼</h2>
+        <p>不是「洗衣店自動發文很好用」，而是其他開發者能在乾淨環境檢查這三條正式環境規則：</p>
+        <ul>
+          <li>核准完整性：缺少核准、強制核准、店休，或核准後指紋對不上，模擬平台呼叫次數必須是 0。</li>
+          <li>重試與不確定狀態：送出後回應遺失記成 <code>uncertain</code>，再跑一次不得新增遠端貼文。</li>
+          <li>分析缺失：未設定、讀取失敗或空資料集維持 <code>unmeasured</code>，數字欄位缺席，不能寫 0。</li>
+        </ul>
+        <p>軟體是 MIT；店家照片、品牌與客人資料不是。授權切分見 repository 的 <code>LICENSE</code> 與 <code>NOTICE</code>。</p>
+      </section>
+
+      <section class="panel">
+        <h2>怎麼在自己的機器跑</h2>
+        <pre><code>git clone https://github.com/39211/laundry-social-auto-poster.git
+cd laundry-social-auto-poster
+npm install
+npm run oss-demo
+npm run test:oss</code></pre>
+        <p>說明：<a href="https://github.com/39211/laundry-social-auto-poster/blob/main/GETTING_STARTED.zh-Hant.md">繁中上手</a> · <a href="https://github.com/39211/laundry-social-auto-poster/blob/main/GETTING_STARTED.md">English getting started</a> · <a href="https://github.com/39211/laundry-social-auto-poster/blob/main/CHANGELOG-OSS.md">維護紀錄</a></p>
+      </section>
+
+      <section class="panel">
+        <h2>已查證的維護證據</h2>
+        <table>
+          <thead>
+            <tr><th>材料</th><th>用來證明什麼</th></tr>
+          </thead>
+          <tbody>
+            <tr><td><a href="https://github.com/39211/laundry-social-auto-poster">39211/laundry-social-auto-poster</a></td><td>公開 TypeScript 自動化專案，持續有合併的 PR。</td></tr>
+            <tr><td><a href="https://github.com/39211/laundry-social-auto-poster/pull/66">PR #66</a></td><td>發布回應不確定時不可重試，避免重複發文。</td></tr>
+            <tr><td><a href="https://github.com/39211/laundry-social-auto-poster/pull/55">PR #55</a></td><td>Codex 審查額度紀錄，不把限制藏起來。</td></tr>
+            <tr><td><a href="https://github.com/39211/laundry-social-auto-poster/pull/77">PR #77</a></td><td>GA4 / AI 報表不可截斷或寫假零。</td></tr>
+            <tr><td><a href="https://github.com/39211/laundry-social-auto-poster/pull/84">PR #84</a></td><td>失敗後修正驗證，才送出店主確認的案例。</td></tr>
+          </tbody>
+        </table>
+        <p>這裡不寫星數、下載量或搜尋流量。那些數字目前不足以當主張。</p>
+      </section>
+
+      <section class="panel">
+        <h2>Codex for Open Source 申請欄位</h2>
+        <p>官方表單：<a href="https://openai.com/form/codex-for-oss/">openai.com/form/codex-for-oss</a>。此頁不含 ChatGPT 信箱或 Organization ID。完整複製檔：<a href="./application.txt">application.txt</a>。</p>
+        <h3>Why does this repository qualify? · 479 / 500</h3>
+        <textarea readonly>I run a laundry shop in Taiwan and am the primary maintainer of its public TypeScript automation project, with 57 merged PRs. It covers approval-gated publishing, retry handling, media validation and auditable analytics. I am seeking support to turn these reliability lessons into documented safeguards and reproducible tests for developers serving small, owner-operated businesses. External adoption is early; active maintenance and a reuse plan are the basis of my application.</textarea>
+        <h3>How will you use API credits for your project? · 477 / 500</h3>
+        <textarea readonly>I would use credits to build API-backed PR triage, failure reproduction and regression-test generation for this repo. Priorities are duplicate-post prevention, approval integrity and truthful handling of missing analytics. Outputs would be public tests, reproducers and maintainer documentation, with human review before merging. I would track verified findings and review time, and exclude customer data, credentials and commercial content generation from the funded workflow.</textarea>
+        <h3>Anything else we should know? · 435 / 500</h3>
+        <textarea readonly>Codex already reviews this repo: PR #66 flagged duplicate-publication risk; PR #55 records a review-usage limit; PR #84 shows post-failure verification. A credential-free demo, 25 regression cases and EN/zh-Hant onboarding now live in-repo so others can rerun approval, retry and missing-analytics guards. Evidence: https://github.com/39211/laundry-social-auto-poster/pull/66 https://github.com/39211/laundry-social-auto-poster/pull/55</textarea>
+      </section>
+    </main>
+    <script type="module" src="./demo-app.js"></script>
+  </body>
+</html>
