@@ -4,7 +4,13 @@
 
 ## 怎麼看
 
-用任何靜態伺服器開啟這個資料夾，例如：
+命令列（不需 npm）：
+
+```bash
+node oss/oss-demo.mjs
+```
+
+或用任何靜態伺服器開這個資料夾：
 
 ```bash
 python3 -m http.server 4173 --directory oss
