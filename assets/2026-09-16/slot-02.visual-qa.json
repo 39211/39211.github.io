@@ -1,0 +1,77 @@
+{
+  "topic": "窗簾下緣那條灰，是整面最髒的地方",
+  "date": "2026-09-16",
+  "slot": 2,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆呈現灰色梭織窗簾，寬摺邊、下緣灰黑污帶與局部深色斑點一致。",
+    "SCENE": "四張皆可見淺木色工作檯與粉紅格線墊，背景延續相同板條牆環境。",
+    "TOPIC_MATCH": "四張主體皆為窗簾，下緣污帶明顯深於上方布面，符合主題。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-02.png",
+      "canary": "WAAX",
+      "sha256": "ac205f3752c08272991c6b5191e6261a1625386065d7d8d1fa3b61e08756eb6e"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-02-slide-02.png",
+      "canary": "CZWD",
+      "sha256": "8e006b72c1f562ecfd968dc0ce094d4658d26dd7c74e3eec59ced37730e97848"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-02-slide-03.png",
+      "canary": "CPYX",
+      "sha256": "78673e2691c49728fbdb379855751d0d705510d8fe94bdd3602d6192e9c8c947"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-02-slide-04.png",
+      "canary": "KUEG",
+      "sha256": "4937fa642f26febff424c63f5cd8577ab0c42180433883d2c7750b0a1fc0d646"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-02-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-02-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-02-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "WAAX",
+    "IMAGE_2": "CZWD",
+    "IMAGE_3": "CPYX",
+    "IMAGE_4": "KUEG"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "WAAX",
+    "IMAGE_2": "CZWD",
+    "IMAGE_3": "CPYX",
+    "IMAGE_4": "KUEG"
+  },
+  "prompt_hash": "956078b6301e62a8de6f1b20bb4da7413a50d2dd25fab18db1174db99e80b6cc",
+  "run_id": "carousel-qa-1789253029984",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-12T22:45:18.295Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

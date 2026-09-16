@@ -5967,6 +5967,92 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-15.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-16.json#post-2026-09-16-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-09-16-slot-01.html",
+      "title": "2026-09-16 11:30 靴子收了一個夏天拿出來長霉點？先看是皮面還是絨面再處理",
+      "date_published": "2026-09-16T11:30:00+08:00",
+      "content_text": "靴子收了一個夏天拿出來長霉點？先看是皮面還是絨面再處理。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n下一集：領帶沾到油漬怎麼辦？先別自己搓，看這 2 件事\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
+      "summary": "靴子收了一個夏天拿出來長霉點？先看是皮面還是絨面再處理",
+      "image": "https://sixiangjialaundry.com/assets/2026-09-16/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "洗護日常",
+        "送洗前檢查",
+        "台中洗鞋",
+        "洗鞋推薦",
+        "球鞋清洗",
+        "台中洗衣店",
+        "西屯",
+        "逢甲",
+        "台中"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "trust-reset",
+        "content_role": "reach-answer",
+        "search_intent": "problem-diagnosis",
+        "target_queries": [
+          "台中洗鞋",
+          "西屯洗鞋",
+          "逢甲洗鞋",
+          "台中洗包包",
+          "西屯洗包包",
+          "台中洗包"
+        ],
+        "evidence_type": "first-party-inspection",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-16.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-16.json#post-2026-09-16-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-09-16-slot-02.html",
+      "title": "2026-09-16 20:30 窗簾下緣那條灰，是整面最髒的地方",
+      "date_published": "2026-09-16T20:30:00+08:00",
+      "content_text": "窗簾下緣那條灰，是整面最髒的地方。\n\n衣服收起來之前那一下沒檢查，下次拿出來通常就是味道的來源。\n\n我會先看髒污停在哪一層。浮在表面的和吃進纖維的，處理方式差很多。\n\n拍下緣和掛鉤處兩張傳 LINE，我們先看。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #窗簾清洗 #居家布品 #居家清潔 #台中洗衣店 #西屯 #逢甲 #台中",
+      "summary": "窗簾下緣那條灰，是整面最髒的地方",
+      "image": "https://sixiangjialaundry.com/assets/2026-09-16/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "窗簾清洗",
+        "居家布品",
+        "居家清潔",
+        "台中洗衣店",
+        "西屯",
+        "逢甲",
+        "台中"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "evidence-conversion",
+        "search_intent": "trust-proof",
+        "target_queries": [
+          "台中棉被清洗",
+          "台中床組清洗",
+          "西屯寢具清洗",
+          "台中羽絨被送洗",
+          "台中外套清洗",
+          "棉被有潮味怎麼辦"
+        ],
+        "evidence_type": "real-case-photo",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-16.json"
+      }
     }
   ]
 }

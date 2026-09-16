@@ -1,0 +1,77 @@
+{
+  "topic": "靴子收了一個夏天拿出來長霉點？先看是皮面還是絨面再處理",
+  "date": "2026-09-16",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張均呈現棕色皮面扣帶靴，扣環、縫線、皺摺與灰白斑點分布相符，符合同一雙靴子的不同取景。",
+    "SCENE": "四張均可見淺色檯面、粉紅墊局部與白色橫槽牆，屬同一櫃檯場景。",
+    "TOPIC_MATCH": "主體均為帶有灰白斑點的皮面靴子，符合主題的靴類物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-01.png",
+      "canary": "DD38",
+      "sha256": "208b55c6a0d674513b47d702ab05dad7e0323d2b05a66f3da9da074b39866ce0"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-01-slide-02.png",
+      "canary": "BT35",
+      "sha256": "2f4552e90f1c2d92af363763997ee3d6b5048d4795c01d0f219ab516303646c4"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-01-slide-03.png",
+      "canary": "VSS5",
+      "sha256": "ff691bc0ae8d97c33159b4d4d2641d7c7d6ea1c510c2fd2c95760a2ac9f1dd1b"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-01-slide-04.png",
+      "canary": "AMPV",
+      "sha256": "3053c1891f4c7616caa4763a248c33959a99db9bf8ed42a9e60027a4e0408ed1"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-16\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "DD38",
+    "IMAGE_2": "BT35",
+    "IMAGE_3": "VSS5",
+    "IMAGE_4": "AMPV"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "DD38",
+    "IMAGE_2": "BT35",
+    "IMAGE_3": "VSS5",
+    "IMAGE_4": "AMPV"
+  },
+  "prompt_hash": "4621bae5ca75177232df0a4a89a3e31e667d50618bca9c4b010992daad3d980e",
+  "run_id": "carousel-qa-1789252556807",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-12T22:37:26.491Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
