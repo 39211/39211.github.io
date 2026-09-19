@@ -6241,6 +6241,42 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-20.json#post-2026-09-20-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-09-20-slot-01.html",
+      "title": "2026-09-20 11:30 地毯踩久那股味，捲起來前先看底面有沒有潮",
+      "date_published": "2026-09-20T11:30:00+08:00",
+      "content_text": "地毯踩久那股味，捲起來前先看底面有沒有潮。\n\n我們收件會先把地毯捲起來看底面，潮氣通常從膠底和牆邊先發。表面乾、底面涼或發黑，那股味多半不是踩髒，是濕氣悶在夾層。自己灑除臭噴霧再捲回去，味道會更重。\n\n底面已經發霉或膠層脫了，洗完也只能壓味道，回不到新地毯。台中市區我們免費到府收送，你先拍底面和整張給我們看。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #居家清潔 #地毯清洗 #棉被送洗 #台中洗衣店",
+      "summary": "地毯踩久那股味，捲起來前先看底面有沒有潮",
+      "image": "https://sixiangjialaundry.com/assets/2026-09-20/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "居家清潔",
+        "地毯清洗",
+        "棉被送洗",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "reach-answer",
+        "search_intent": "aftercare",
+        "target_queries": [
+          "台中地毯清洗",
+          "地毯發霉怎麼辦",
+          "地毯底面潮濕",
+          "台中地毯送洗"
+        ],
+        "evidence_type": "customer-question",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-20.json"
+      }
     }
   ]
 }

@@ -137,6 +137,14 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-09-20 11:30 地毯踩久那股味，捲起來前先看底面有沒有潮](https://sixiangjialaundry.com/posts/2026-09-20-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=aftercare
+  target_queries: 台中地毯清洗 | 地毯發霉怎麼辦 | 地毯底面潮濕 | 台中地毯送洗
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #居家清潔 #地毯清洗 #棉被送洗 #台中洗衣店
+  image: https://sixiangjialaundry.com/assets/2026-09-20/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-20.json
 - [2026-09-19 20:30 香奈兒雙色鞋包頭起毛先看羅緞](https://sixiangjialaundry.com/posts/2026-09-19-slot-02.html)
   platform targets: facebook, instagram
   routes: content_role=evidence-conversion; visual_route=shop-inspection; traffic_route=share-worthy-care; search_intent=aftercare
