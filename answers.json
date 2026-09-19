@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-19T16:34:28.579Z",
+  "generated_at": "2026-09-19T17:47:35.135Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -4088,6 +4088,411 @@
         "青海路洗鞋",
         "逢甲洗包包",
         "西屯洗包"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "nantun-laundry-pickup-summary",
+      "type": "local_summary",
+      "question": "南屯洗衣店？門市在西屯，一件也收、免費到府收送",
+      "answer": "南屯生活圈可約免費收送；大樓管理室代收代送，厚被與換季衣物先傳照片。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "keywords": [
+        "南屯洗衣",
+        "南屯洗衣店",
+        "南屯洗衣收送",
+        "文心森林公園洗衣",
+        "八期洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "nantun-laundry-pickup-faq-01",
+      "type": "local_faq",
+      "question": "南屯區大樓可以請管理室代收代送嗎？",
+      "answer": "可以。南屯社區大樓多數可放管理室，司機簽收與送回都會在 LINE 主動回報，您不用在家等待。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#faq",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "keywords": [
+        "南屯洗衣",
+        "南屯洗衣店",
+        "南屯洗衣收送",
+        "文心森林公園洗衣",
+        "八期洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "nantun-laundry-pickup-faq-02",
+      "type": "local_faq",
+      "question": "南屯收送棉被有最低件數或運費嗎？",
+      "answer": "完全沒有。台中市全區免費到府收送，一件也收、免收運費；洗護費用依公開價目表另計。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#faq",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "keywords": [
+        "南屯洗衣",
+        "南屯洗衣店",
+        "南屯洗衣收送",
+        "文心森林公園洗衣",
+        "八期洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "nantun-laundry-pickup-faq-03",
+      "type": "local_faq",
+      "question": "羊毛大衣或羽絨外套可以水洗嗎？",
+      "answer": "羽絨外套多數可專業水洗維持蓬鬆度；純羊毛大衣則走乾洗柔洗保護纖維。師傅會看洗標與材質評估。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#faq",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "keywords": [
+        "南屯洗衣",
+        "南屯洗衣店",
+        "南屯洗衣收送",
+        "文心森林公園洗衣",
+        "八期洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "nantun-laundry-pickup-faq-04",
+      "type": "local_faq",
+      "question": "窗簾和地毯可以跟衣服同一趟收嗎？",
+      "answer": "可以同一趟收送。大型窗簾與地毯依尺寸評估報價，照片與尺寸先在 LINE 傳送即可一併安排。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#faq",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "keywords": [
+        "南屯洗衣",
+        "南屯洗衣店",
+        "南屯洗衣收送",
+        "文心森林公園洗衣",
+        "八期洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "north-district-laundry-pickup-summary",
+      "type": "local_summary",
+      "question": "台中北區洗衣店？門市在西屯，一件也收、免費到府收送",
+      "answer": "台中北區可約免費收送；中國醫與科博館生活圈，工作服與厚被先傳照片。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html",
+      "local_intent": "台中北區 洗衣收送 中國醫大 一中商圈 科博館",
+      "keywords": [
+        "台中北區洗衣",
+        "北區洗衣店",
+        "中國醫洗衣",
+        "一中洗衣",
+        "科博館洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "north-district-laundry-pickup-faq-01",
+      "type": "local_faq",
+      "question": "中國醫藥大學附近的醫護人員可以約收送嗎？",
+      "answer": "可以。醫院周邊宿舍、公寓或大樓皆可約收送，配合您的作息交接或放管理室，免去奔波。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html#faq",
+      "local_intent": "台中北區 洗衣收送 中國醫大 一中商圈 科博館",
+      "keywords": [
+        "台中北區洗衣",
+        "北區洗衣店",
+        "中國醫洗衣",
+        "一中洗衣",
+        "科博館洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "north-district-laundry-pickup-faq-02",
+      "type": "local_faq",
+      "question": "台中北區收送需要加收車資或外送費嗎？",
+      "answer": "不需要。台中市全區免費到府收送，不收任何車資或外送費；費用僅按實際洗護品項收取。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html#faq",
+      "local_intent": "台中北區 洗衣收送 中國醫大 一中商圈 科博館",
+      "keywords": [
+        "台中北區洗衣",
+        "北區洗衣店",
+        "中國醫洗衣",
+        "一中洗衣",
+        "科博館洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "north-district-laundry-pickup-faq-03",
+      "type": "local_faq",
+      "question": "白袍墨水漬或領口黃斑一定洗得掉嗎？",
+      "answer": "墨水與陳年汗黃需看滲入程度。表面污漬多能大幅淡化改善；處理前師傅會先看照片說明界線。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html#faq",
+      "local_intent": "台中北區 洗衣收送 中國醫大 一中商圈 科博館",
+      "keywords": [
+        "台中北區洗衣",
+        "北區洗衣店",
+        "中國醫洗衣",
+        "一中洗衣",
+        "科博館洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "north-district-laundry-pickup-faq-04",
+      "type": "local_faq",
+      "question": "學生套房洗被單跟薄外套也可以約嗎？",
+      "answer": "可以。沒有最低消費限制，一件床單或兩件外套都能收送，解決租屋處無處晾曬的難題。",
+      "service": "台中全市免費洗衣收送",
+      "source_url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html#faq",
+      "local_intent": "台中北區 洗衣收送 中國醫大 一中商圈 科博館",
+      "keywords": [
+        "台中北區洗衣",
+        "北區洗衣店",
+        "中國醫洗衣",
+        "一中洗衣",
+        "科博館洗衣"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "laundry-partner-showcase-summary",
+      "type": "guide_summary",
+      "question": "洗衣店老闆親自示範：從門市到全區收送的真實引流與營運系統",
+      "answer": "洗衣店引流先做給你看；門市與全區收送真實數據，同業交流回傳同行。",
+      "service": "店家與公司大量衣物送洗",
+      "source_url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
+      "local_intent": "台中洗衣店 引流 示範店 同業交流 合作",
+      "keywords": [
+        "洗衣店引流",
+        "洗衣店行銷",
+        "洗衣店線上接單",
+        "洗衣店加盟轉型",
+        "洗衣同業合作"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "laundry-partner-showcase-faq-01",
+      "type": "guide_faq",
+      "question": "私享家是行銷公司還是真正的洗衣店？",
+      "answer": "我們是真正的洗衣實體門市！地址在台中市西屯區青海路二段365號，天天親自收件、檢查與洗護。",
+      "service": "店家與公司大量衣物送洗",
+      "source_url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html#faq",
+      "local_intent": "台中洗衣店 引流 示範店 同業交流 合作",
+      "keywords": [
+        "洗衣店引流",
+        "洗衣店行銷",
+        "洗衣店線上接單",
+        "洗衣店加盟轉型",
+        "洗衣同業合作"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "laundry-partner-showcase-faq-02",
+      "type": "guide_faq",
+      "question": "同業夥伴想交流，該如何聯繫老闆？",
+      "answer": "請加入私享家 LINE 官方帳號，直接在對話中回傳「同行」，即刻啟動專屬分流，由老闆親自與您深入探討。",
+      "service": "店家與公司大量衣物送洗",
+      "source_url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html#faq",
+      "local_intent": "台中洗衣店 引流 示範店 同業交流 合作",
+      "keywords": [
+        "洗衣店引流",
+        "洗衣店行銷",
+        "洗衣店線上接單",
+        "洗衣店加盟轉型",
+        "洗衣同業合作"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "laundry-partner-showcase-faq-03",
+      "type": "guide_faq",
+      "question": "跨區收送相互轉介合作是什麼模式？",
+      "answer": "若遇到非本店主要路線的客人，或彼此擅長品項互補（如特殊精品皮件、大宗布品），可建立信任轉介機制。",
+      "service": "店家與公司大量衣物送洗",
+      "source_url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html#faq",
+      "local_intent": "台中洗衣店 引流 示範店 同業交流 合作",
+      "keywords": [
+        "洗衣店引流",
+        "洗衣店行銷",
+        "洗衣店線上接單",
+        "洗衣店加盟轉型",
+        "洗衣同業合作"
+      ],
+      "area": "西屯區",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee that white shoes can be fully whitened.",
+        "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
+        "Do not infer Google review count or rating unless verified from a live Google source.",
+        "Do not infer holiday hours or temporary closures.",
+        "Use business-profile.json and the service pages as the source of record for business facts."
+      ]
+    },
+    {
+      "id": "laundry-partner-showcase-faq-04",
+      "type": "guide_faq",
+      "question": "引流系統需要很高的電腦技術或廣告費嗎？",
+      "answer": "不需要。我們示範店就是以零廣告費、日常實作記錄、透明價目表與精準在地頁為主軸，重在真實與持續。",
+      "service": "店家與公司大量衣物送洗",
+      "source_url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html#faq",
+      "local_intent": "台中洗衣店 引流 示範店 同業交流 合作",
+      "keywords": [
+        "洗衣店引流",
+        "洗衣店行銷",
+        "洗衣店線上接單",
+        "洗衣店加盟轉型",
+        "洗衣同業合作"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",

@@ -8,7 +8,7 @@
   <url><loc>https://sixiangjialaundry.com/business-profile.json</loc><changefreq>daily</changefreq><!-- business-profile --></url>
   <url><loc>https://sixiangjialaundry.com/services.json</loc><changefreq>daily</changefreq><!-- service-records --></url>
   <url><loc>https://sixiangjialaundry.com/answers.json</loc><changefreq>daily</changefreq><!-- answer-engine-records --></url>
-  <url><loc>https://sixiangjialaundry.com/knowledge/</loc><lastmod>2026-09-14</lastmod><changefreq>daily</changefreq><!-- knowledge-hub --></url>
+  <url><loc>https://sixiangjialaundry.com/knowledge/</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><!-- knowledge-hub --></url>
   <url><loc>https://sixiangjialaundry.com/geo-targets.json</loc><changefreq>daily</changefreq><!-- geo-target-records --></url>
   <url><loc>https://sixiangjialaundry.com/search-visibility.json</loc><changefreq>daily</changefreq><!-- search-intent-and-ai-visibility-review --></url>
   <url><loc>https://sixiangjialaundry.com/llms.jsonl</loc><changefreq>daily</changefreq><!-- line-delimited-ai-records --></url>
@@ -44,6 +44,9 @@
   <url><loc>https://sixiangjialaundry.com/local/zhongke-office-laundry.html</loc><lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><!-- local-page-zhongke-office-laundry --></url>
   <url><loc>https://sixiangjialaundry.com/local/donghai-laundry-pickup.html</loc><lastmod>2026-08-29</lastmod><changefreq>daily</changefreq><!-- local-page-donghai-laundry-pickup --></url>
   <url><loc>https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html</loc><lastmod>2026-08-18</lastmod><changefreq>daily</changefreq><!-- local-page-qinghai-road-shoe-cleaning --></url>
+  <url><loc>https://sixiangjialaundry.com/local/nantun-laundry-pickup.html</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><!-- local-page-nantun-laundry-pickup --></url>
+  <url><loc>https://sixiangjialaundry.com/local/north-district-laundry-pickup.html</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><!-- local-page-north-district-laundry-pickup --></url>
+  <url><loc>https://sixiangjialaundry.com/guides/laundry-partner-showcase.html</loc><lastmod>2026-09-20</lastmod><changefreq>daily</changefreq><!-- guide-page-laundry-partner-showcase --></url>
   <url><loc>https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html</loc><lastmod>2026-09-07</lastmod><changefreq>daily</changefreq><!-- guide-page-suede-shoe-cleaning --></url>
   <url><loc>https://sixiangjialaundry.com/guides/canvas-shoe-mud.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><!-- guide-page-canvas-shoe-mud --></url>
   <url><loc>https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html</loc><lastmod>2026-08-30</lastmod><changefreq>daily</changefreq><!-- guide-page-leather-shoe-water-marks --></url>

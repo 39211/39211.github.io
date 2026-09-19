@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-19T16:34:28.579Z
+- Generated at: 2026-09-19T17:47:35.135Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -58,6 +58,9 @@
 - support_pages.zhongke-office-laundry: https://sixiangjialaundry.com/local/zhongke-office-laundry.html
 - support_pages.donghai-laundry-pickup: https://sixiangjialaundry.com/local/donghai-laundry-pickup.html
 - support_pages.qinghai-road-shoe-cleaning: https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html
+- support_pages.nantun-laundry-pickup: https://sixiangjialaundry.com/local/nantun-laundry-pickup.html
+- support_pages.north-district-laundry-pickup: https://sixiangjialaundry.com/local/north-district-laundry-pickup.html
+- support_pages.laundry-partner-showcase: https://sixiangjialaundry.com/guides/laundry-partner-showcase.html
 - support_pages.suede-shoe-cleaning: https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html
 - support_pages.canvas-shoe-mud: https://sixiangjialaundry.com/guides/canvas-shoe-mud.html
 - support_pages.leather-shoe-water-marks: https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html

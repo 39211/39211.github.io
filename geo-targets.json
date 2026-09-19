@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-19T16:34:28.579Z",
+  "generated_at": "2026-09-19T17:47:35.135Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -1503,6 +1503,132 @@
       ]
     },
     {
+      "query": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "service": "台中全市免費洗衣收送",
+      "area": "台中西屯",
+      "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
+      "answer_summary": "南屯生活圈可約免費收送；大樓管理室代收代送，厚被與換季衣物先傳照片。",
+      "keywords": [
+        "南屯洗衣",
+        "南屯洗衣店",
+        "南屯洗衣收送",
+        "文心森林公園洗衣",
+        "八期洗衣"
+      ]
+    },
+    {
+      "query": "青海路二段 南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "service": "台中全市免費洗衣收送",
+      "area": "青海路二段",
+      "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
+      "answer_summary": "南屯生活圈可約免費收送；大樓管理室代收代送，厚被與換季衣物先傳照片。",
+      "keywords": [
+        "南屯洗衣",
+        "南屯洗衣店",
+        "南屯洗衣收送",
+        "文心森林公園洗衣",
+        "八期洗衣"
+      ]
+    },
+    {
+      "query": "至善里 南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "service": "台中全市免費洗衣收送",
+      "area": "至善里",
+      "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
+      "answer_summary": "南屯生活圈可約免費收送；大樓管理室代收代送，厚被與換季衣物先傳照片。",
+      "keywords": [
+        "南屯洗衣",
+        "南屯洗衣店",
+        "南屯洗衣收送",
+        "文心森林公園洗衣",
+        "八期洗衣"
+      ]
+    },
+    {
+      "query": "台中北區 洗衣收送 中國醫大 一中商圈 科博館",
+      "service": "台中全市免費洗衣收送",
+      "area": "台中西屯",
+      "url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html",
+      "answer_summary": "台中北區可約免費收送；中國醫與科博館生活圈，工作服與厚被先傳照片。",
+      "keywords": [
+        "台中北區洗衣",
+        "北區洗衣店",
+        "中國醫洗衣",
+        "一中洗衣",
+        "科博館洗衣"
+      ]
+    },
+    {
+      "query": "青海路二段 台中北區 洗衣收送 中國醫大 一中商圈 科博館",
+      "service": "台中全市免費洗衣收送",
+      "area": "青海路二段",
+      "url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html",
+      "answer_summary": "台中北區可約免費收送；中國醫與科博館生活圈，工作服與厚被先傳照片。",
+      "keywords": [
+        "台中北區洗衣",
+        "北區洗衣店",
+        "中國醫洗衣",
+        "一中洗衣",
+        "科博館洗衣"
+      ]
+    },
+    {
+      "query": "至善里 台中北區 洗衣收送 中國醫大 一中商圈 科博館",
+      "service": "台中全市免費洗衣收送",
+      "area": "至善里",
+      "url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html",
+      "answer_summary": "台中北區可約免費收送；中國醫與科博館生活圈，工作服與厚被先傳照片。",
+      "keywords": [
+        "台中北區洗衣",
+        "北區洗衣店",
+        "中國醫洗衣",
+        "一中洗衣",
+        "科博館洗衣"
+      ]
+    },
+    {
+      "query": "台中洗衣店 引流 示範店 同業交流 合作",
+      "service": "店家與公司大量衣物送洗",
+      "area": "台中西屯",
+      "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
+      "answer_summary": "洗衣店引流先做給你看；門市與全區收送真實數據，同業交流回傳同行。",
+      "keywords": [
+        "洗衣店引流",
+        "洗衣店行銷",
+        "洗衣店線上接單",
+        "洗衣店加盟轉型",
+        "洗衣同業合作"
+      ]
+    },
+    {
+      "query": "青海路二段 台中洗衣店 引流 示範店 同業交流 合作",
+      "service": "店家與公司大量衣物送洗",
+      "area": "青海路二段",
+      "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
+      "answer_summary": "洗衣店引流先做給你看；門市與全區收送真實數據，同業交流回傳同行。",
+      "keywords": [
+        "洗衣店引流",
+        "洗衣店行銷",
+        "洗衣店線上接單",
+        "洗衣店加盟轉型",
+        "洗衣同業合作"
+      ]
+    },
+    {
+      "query": "至善里 台中洗衣店 引流 示範店 同業交流 合作",
+      "service": "店家與公司大量衣物送洗",
+      "area": "至善里",
+      "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
+      "answer_summary": "洗衣店引流先做給你看；門市與全區收送真實數據，同業交流回傳同行。",
+      "keywords": [
+        "洗衣店引流",
+        "洗衣店行銷",
+        "洗衣店線上接單",
+        "洗衣店加盟轉型",
+        "洗衣同業合作"
+      ]
+    },
+    {
       "query": "台中西屯 麂皮鞋 變硬 發亮 乾刷",
       "service": "鞋包清潔",
       "area": "台中西屯",
@@ -2545,6 +2671,16 @@
           "label": "東海洗衣收送",
           "description": "厚被、窗簾與日常衣物可同一趟收，仍依材質分開判斷。",
           "url": "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html"
+        },
+        {
+          "label": "南屯洗衣收送",
+          "description": "文心森林公園與捷運沿線大樓，管理室代收代送，厚被衣物先傳照估價。",
+          "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html"
+        },
+        {
+          "label": "台中北區洗衣收送",
+          "description": "中國醫大與科博館生活圈，醫師袍、工作服與換季厚被，免費到府收送。",
+          "url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html"
         }
       ]
     },
@@ -2571,6 +2707,11 @@
           "label": "窗簾或地毯怎麼估？",
           "description": "都依尺寸看，先傳整幅或整張照片；沒乾不要先捲起來收納。",
           "url": "https://sixiangjialaundry.com/guides/carpet-cleaning.html"
+        },
+        {
+          "label": "洗衣同業引流展示",
+          "description": "我自己就是洗衣店老闆，公開門市與全區免費收送引流數據，歡迎同行交流。",
+          "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html"
         }
       ]
     }

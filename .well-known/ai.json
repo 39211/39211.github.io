@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-09-19T16:34:28.579Z",
+  "generated_at": "2026-09-19T17:47:35.135Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -206,6 +206,9 @@
       "zhongke-office-laundry": "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
       "donghai-laundry-pickup": "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
       "qinghai-road-shoe-cleaning": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
+      "nantun-laundry-pickup": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
+      "north-district-laundry-pickup": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html",
+      "laundry-partner-showcase": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
       "suede-shoe-cleaning": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
       "canvas-shoe-mud": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
       "leather-shoe-water-marks": "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
@@ -274,6 +277,9 @@
     "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
     "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
     "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
+    "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html",
+    "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
     "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
     "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
     "https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html",
@@ -1605,6 +1611,60 @@
       "linked_service": "鞋包清潔",
       "faq_count": 5,
       "step_count": 5
+    },
+    {
+      "slug": "nantun-laundry-pickup",
+      "category": "local",
+      "title": "南屯洗衣店？免費到府收送，門市在西屯｜私享家洗衣店",
+      "description": "南屯一帶沒有門市，改用台中市全區免費到府收送：一件也收、沒有最低消費。文心森林公園、捷運綠線沿線與八期大樓，厚被床組、換季衣物先用 LINE 傳照片報價，門市在西屯青海路二段365號。",
+      "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
+      "keywords": [
+        "南屯洗衣",
+        "南屯洗衣店",
+        "南屯洗衣收送",
+        "文心森林公園洗衣",
+        "八期洗衣"
+      ],
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "linked_service": "台中全市免費洗衣收送",
+      "faq_count": 4,
+      "step_count": 4
+    },
+    {
+      "slug": "north-district-laundry-pickup",
+      "category": "local",
+      "title": "台中北區洗衣店？免費到府收送，門市在西屯｜私享家洗衣店",
+      "description": "台中北區沒有門市，改用台中市全區免費到府收送：一件也收、沒有最低消費。中國醫大生活圈、一中商圈、科博館周邊，醫生護士工作服、學生薄衣、家庭厚被先用 LINE 傳照片報價，門市在西屯青海路二段365號。",
+      "url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html",
+      "keywords": [
+        "台中北區洗衣",
+        "北區洗衣店",
+        "中國醫洗衣",
+        "一中洗衣",
+        "科博館洗衣"
+      ],
+      "local_intent": "台中北區 洗衣收送 中國醫大 一中商圈 科博館",
+      "linked_service": "台中全市免費洗衣收送",
+      "faq_count": 4,
+      "step_count": 4
+    },
+    {
+      "slug": "laundry-partner-showcase",
+      "category": "guide",
+      "title": "洗衣店如何做好線上引流？私享家示範店營運與獲客公開｜私享家洗衣店",
+      "description": "我自己就是洗衣店老闆。我先把自己的店做給你看，再跟你談這些方法能不能用在你的店。公開私享家在台中門市與全區免費收送的真實引流、SEO 與接待數據，歡迎同業交流。",
+      "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
+      "keywords": [
+        "洗衣店引流",
+        "洗衣店行銷",
+        "洗衣店線上接單",
+        "洗衣店加盟轉型",
+        "洗衣同業合作"
+      ],
+      "local_intent": "台中洗衣店 引流 示範店 同業交流 合作",
+      "linked_service": "店家與公司大量衣物送洗",
+      "faq_count": 4,
+      "step_count": 4
     },
     {
       "slug": "suede-shoe-cleaning",

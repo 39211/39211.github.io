@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-19T16:34:28.579Z",
+  "generated_at": "2026-09-19T17:47:35.135Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -883,6 +883,12 @@
           "title": "中科園區洗衣收送｜襯衫與公司件怎麼約｜私享家洗衣店",
           "url": "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
           "local_intent": "中科園區 襯衫 公司衣物 收送"
+        },
+        {
+          "slug": "laundry-partner-showcase",
+          "title": "洗衣店如何做好線上引流？私享家示範店營運與獲客公開｜私享家洗衣店",
+          "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
+          "local_intent": "台中洗衣店 引流 示範店 同業交流 合作"
         }
       ],
       "local_business": {
@@ -1009,7 +1015,20 @@
           "answer": "不一定。台中市內可約免費收送；若方便到店，門市在西屯區青海路二段365號（至善國中對面），營業時間 10:00–20:00、週日公休。"
         }
       ],
-      "related_support_pages": [],
+      "related_support_pages": [
+        {
+          "slug": "nantun-laundry-pickup",
+          "title": "南屯洗衣店？免費到府收送，門市在西屯｜私享家洗衣店",
+          "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
+          "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室"
+        },
+        {
+          "slug": "north-district-laundry-pickup",
+          "title": "台中北區洗衣店？免費到府收送，門市在西屯｜私享家洗衣店",
+          "url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html",
+          "local_intent": "台中北區 洗衣收送 中國醫大 一中商圈 科博館"
+        }
+      ],
       "local_business": {
         "name": "私享家洗衣店",
         "address_text": "407 臺中市西屯區至善里青海路二段365號",
