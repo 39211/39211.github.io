@@ -261,6 +261,11 @@
         "https://sixiangjialaundry.com/assets/2026-09-15/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-16/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-16/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-17/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-18/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-18/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-19/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-19/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -454,7 +459,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-09-16"
+      "dateModified": "2026-09-19"
     },
     {
       "@type": "FAQPage",
@@ -515,7 +520,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-16",
+      "dateModified": "2026-09-19",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -832,9 +837,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html#webpage",
-      "name": "台中西屯洗衣店在哪？青海路門市、逢甲怎麼到｜私享家洗衣店",
+      "name": "台中西屯洗鞋洗衣店在哪？逢甲青海路門市、至善國中對面，提供衣物鞋包精緻洗護｜私享家",
       "url": "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
-      "description": "台中西屯洗衣店在哪？私享家在青海路二段365號、至善國中對面。衣物、洗鞋、洗包與布品可 LINE 先傳照片；逢甲過來可到店，其他區走全市收送。",
+      "description": "尋找台中西屯或逢甲洗衣洗鞋店？私享家門市位於青海路二段365號（至善國中對面）。專業判斷鞋包材質、白鞋泛黃與衣物乾水洗，全台中市亦提供免費到府收件。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -948,9 +953,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/services/business-bulk-laundry.html#webpage",
-      "name": "台中店家・公司大量衣物送洗｜全市免費收送｜私享家洗衣店",
+      "name": "台中公司團體衣物送洗怎麼算？制服・工作服・床組批量清潔，台中全區收送｜私享家",
       "url": "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）承接台中店家、公司或工作室的大量衣物、制服與布品送洗，可先用 LINE 整理品項與照片，台中市全區免費收送。",
+      "description": "台中店家、公司、工作室大量制服、毛巾、床組送洗。私享家提供台中市全區免費收送，依品項與件數彈性報價，LINE傳清單與照片即可快速安排。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1045,9 +1050,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html#webpage",
-      "name": "台中洗衣收送怎麼約？全市免費、沒有最低消費｜私享家洗衣店",
+      "name": "台中洗衣收送怎麼約？一件也收、全市免運費！預約流程與收送範圍說明｜私享家",
       "url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
-      "description": "台中洗衣收送怎麼約？全市到府、收送本身免費、沒有最低消費門檻。門市在西屯青海路二段365號，先用 LINE 傳照片預約；清潔費用另計。",
+      "description": "不用出門！私享家提供台中市全區免費到府收送洗衣、洗鞋、洗包，一件即可預約，無最低消費金額限制。先用LINE傳照片確認材質狀態，專人到府收件免運費。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1165,9 +1170,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#webpage",
-      "name": "台中洗衣價目表｜洗鞋洗包多少錢？襯衫 $70・運動鞋 $250｜私享家洗衣店",
+      "name": "台中洗衣洗鞋多少錢？2026價目表公開：襯衫$70起、白鞋$250、名牌包$1500起｜私享家",
       "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
-      "description": "台中洗衣價目表：洗鞋、洗包、洗衣與寢具水洗參考價一次列清。門市在西屯青海路二段365號，台中市全區免費到府收送，LINE 0968327653。",
+      "description": "洗衣服、洗鞋、洗包多少錢？私享家公開台中洗衣價格：一般運動鞋$250、襯衫水洗$70。台中全市免費到府收送、不設低消門檻，LINE傳照片立即線上預估清潔費用。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -12107,6 +12112,173 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-16/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-16/slot-02.png",
       "caption": "窗簾下緣那條灰，是整面最髒的地方",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-17.json#post-2026-09-17-slot-01",
+      "headline": "2026-09-17 11:30 領帶沾到油漬怎麼辦？先別自己搓，看這 2 件事",
+      "text": "領帶沾到油漬怎麼辦？先別自己搓，看這 2 件事。\n\n西裝走樣多半從肩線開始。掛錯衣架、擠在衣櫃裡，肩襯塌了就回不去。\n\n西裝我會先看肩線和領片有沒有塌。那比表面髒不髒更決定它還能不能穿出去。\n\n不確定還洗不洗得回來？拍一張傳 LINE給我們看看。\n\n下一集：換季衣物可以直接收進真空袋嗎？收之前先做這 3 個檢查\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店",
+      "datePublished": "2026-09-17T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-17.json#post-2026-09-17-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-17.json#post-2026-09-17-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-17.json#post-2026-09-17-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-17/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-17/slot-01.png",
+      "caption": "領帶沾到油漬怎麼辦？先別自己搓，看這 2 件事",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json#post-2026-09-18-slot-01",
+      "headline": "2026-09-18 11:30 換季衣物可以直接收進真空袋嗎？收之前先做這 3 個檢查",
+      "text": "換季衣物可以直接收進真空袋嗎？收之前先做這 3 個檢查。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n收之前想先整理一次？傳 LINE跟我們說，台中市區到府收。\n\n下一集：被單上一片一片的黃是什麼？先分汗、霉、還是洗劑殘留\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店",
+      "datePublished": "2026-09-18T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#洗包包",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json#post-2026-09-18-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json#post-2026-09-18-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json#post-2026-09-18-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-18/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-18/slot-01.png",
+      "caption": "換季衣物可以直接收進真空袋嗎？收之前先做這 3 個檢查",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json#post-2026-09-18-slot-02",
+      "headline": "2026-09-18 20:30 中秋前：烤肉煙味與連假衣物整理預告",
+      "text": "中秋前：烤肉煙味與連假衣物整理預告，這篇先提醒你什麼時間點最該整理。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區到府收。\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #中秋節 #外套清洗 #衣物送洗 #台中洗衣店",
+      "datePublished": "2026-09-18T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#中秋節",
+        "#外套清洗",
+        "#衣物送洗",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json#post-2026-09-18-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json#post-2026-09-18-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json#post-2026-09-18-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-18/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-18/slot-02.png",
+      "caption": "中秋前：烤肉煙味與連假衣物整理預告",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json#post-2026-09-19-slot-01",
+      "headline": "2026-09-19 11:30 被單上一片一片的黃，先分汗、霉、還是洗劑殘留",
+      "text": "被單上一片一片的黃，先分汗、霉、還是洗劑殘留。\n\n我會先把被單攤平，看黃斑是沿著身體接觸面成片，還是東一塊西一塊。成片、摸起來偏硬、聞起來有味道的多半是汗；邊角或摺痕出現灰綠點、一搓會掉粉的要當霉看，別當一般髒洗。自己拿漂白水或熱水硬煮，纖維會更脆，黃斑還在。\n\n如果黃已經吃進紗線裡，洗完也只能改善、回不到新被單的白。台中市區我們免費到府收送，你先拍整面和近照給我們看。\n\n參考價：床單被套 薄 $150、厚 $180（水洗價，以實際報價為主）\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
+      "datePublished": "2026-09-19T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#寢具清潔",
+        "#換季收納",
+        "#棉被送洗",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json#post-2026-09-19-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json#post-2026-09-19-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json#post-2026-09-19-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-19/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-19/slot-01.png",
+      "caption": "被單上一片一片的黃，先分汗、霉、還是洗劑殘留",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json#post-2026-09-19-slot-02",
+      "headline": "2026-09-19 20:30 香奈兒雙色鞋包頭起毛先看羅緞",
+      "text": "香奈兒雙色鞋包頭起毛先看羅緞。\n\n圖裡這雙是 CHANEL（香奈兒）雙色鞋：米色山羊皮鞋身、黑色羅緞包頭。包頭起毛多半是羅緞布紋被踢磨、刷過頭，不是皮壞了。我們收件會先看起毛只在布紋表面，還是羅緞邊已經綻線、露出底下的襯。自己拿牙刷沾水刷包頭，羅緞容易留水痕，起毛反而更明顯。\n\n羅緞已經綻線或磨破的，清潔只能整理表面，回不到新鞋的樣子；需不需要另外修補，看過實品再說。台中市區我們免費到府收送，你先拍包頭正面和側面給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #名牌鞋送洗 #台中洗鞋 #台中洗衣店",
+      "datePublished": "2026-09-19T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#精品鞋清潔",
+        "#名牌鞋送洗",
+        "#台中洗鞋",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json#post-2026-09-19-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json#post-2026-09-19-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json#post-2026-09-19-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-19/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-19/slot-02.png",
+      "caption": "香奈兒雙色鞋包頭起毛先看羅緞",
       "inLanguage": "zh-Hant"
     }
   ]

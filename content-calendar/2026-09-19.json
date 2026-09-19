@@ -1,0 +1,71 @@
+{
+  "date": "2026-09-19",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-09-15T19:45:44.866Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "被單上一片一片的黃，先分汗、霉、還是洗劑殘留",
+      "format": "image-post",
+      "media_type": "image",
+      "instagram_caption": "被單上一片一片的黃，先分汗、霉、還是洗劑殘留。\n\n我會先把被單攤平，看黃斑是沿著身體接觸面成片，還是東一塊西一塊。成片、摸起來偏硬、聞起來有味道的多半是汗；邊角或摺痕出現灰綠點、一搓會掉粉的要當霉看，別當一般髒洗。自己拿漂白水或熱水硬煮，纖維會更脆，黃斑還在。\n\n如果黃已經吃進紗線裡，洗完也只能改善、回不到新被單的白。台中市區我們免費到府收送，你先拍整面和近照給我們看。\n\n參考價：床單被套 薄 $150、厚 $180（水洗價，以實際報價為主）\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
+      "facebook_caption": "被單上一片一片的黃，先分汗、霉、還是洗劑殘留。\n\n我會先把被單攤平，看黃斑是沿著身體接觸面成片，還是東一塊西一塊。成片、摸起來偏硬、聞起來有味道的多半是汗；邊角或摺痕出現灰綠點、一搓會掉粉的要當霉看，別當一般髒洗。自己拿漂白水或熱水硬煮，纖維會更脆，黃斑還在。\n\n如果黃已經吃進紗線裡，洗完也只能改善、回不到新被單的白。台中市區我們免費到府收送，你先拍整面和近照給我們看。\n\n參考價：床單被套 薄 $150、厚 $180（水洗價，以實際報價為主）\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
+      "image_prompt": "OBJECT PASSPORT: exactly one fitted bed sheet or top sheet (object locked as one fitted bed sheet or top sheet; every surface is blank: no printed, embossed, woven or stitched marks, letters, labels or emblems of any size); color/material: used warm-white cotton percale sheet; wear marks: patchy yellowing from sweat, mildew, or detergent residue across the contact face. WEAR FIRST (this is the story of the photo): sweat darkening as a clearly darker tide line that follows the contact shape, with salt-white rims at its border, at the positions named by the topic (patchy yellowing from sweat, mildew, or detergent residue across the contact face); it covers roughly 25-40% of that area and is strong enough to read at thumbnail size from arm's length, on the side that faces the camera; the rest of the object is clean enough that the marked area is unmistakably the problem, but the object is a used everyday item, not new stock. MATERIAL OPTICS: the fabric shows its real weave or knit texture at close range, matte with a faint sheen only along fold ridges; worn or soiled areas read as clearly darker regions that follow the contact line, with a visible edge, never as painted patches. SCENE LOCK: the same wooden counter in front of the garment conveyor rail on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. LOCATION: a worn light-oak wooden counter in front of the garment conveyor rail, plastic-covered finished clothes hanging softly out of focus behind, a paper ticket clipped to one hanger (unreadable), a tape measure coiled at the frame edge; no pink mat. COMPOSITION (hero, crop allowed): frame the half of the object that carries the problem, the object cut by the frame edge on one side and set off-centre with its mass near x=40% or x=60%, filling 60-75% of the frame height; one adult hand entering from the frame edge, wrist only, fingers holding or pressing right beside the problem area with five clearly separated fingers; a handheld lint roller rests at the frame edge as a foreground occlusion; the surface fills the bottom of the frame, not empty space. LIGHTING: one clear key light from a window on one side: the lit side of the object is bright and the far side falls to mid-grey with a visible shadow edge running across the object; a dense contact shadow at the base that softens outward; ceiling fluorescent fills only enough to keep shadow detail; the counter or mat must not tint the whites. STYLE: candid documentary phone photo taken by the shop worker mid-inspection, the action caught while it happens, slight handheld tilt and framing imperfection; not editorial, not catalogue, not studio. CAMERA: phone main camera, 26mm-equivalent, held from the worker's standing eye line looking down about 25 degrees, f/1.8 look: the problem area sharp, the far side of the object slightly softer, the background clearly out of focus. COLOR: neutral daylight indoor tone with honest contrast, low saturation close to documentary colour, whites read white where clean and grey where soiled; no pink or warm cast on the object. Photo 1 of 4. Hero still of 被單上一片一片的黃，先分汗、霉、還是洗劑殘留 through the passport item as the main close-up on the locked inspection counter. Keep the object recognizable even when cropped and do not imply a cleaning result. Avoid: readable label text, a second duvet, a bedroom set, a waxy plastic-coated surface, a second hand.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
+      "views_target": 203,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理床組、棉被與寢具的清洗和收納判斷。",
+      "seo_sync_page": "/guides/bedding-duvet-cleaning.html",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中被單清洗",
+        "被單發黃怎麼辦",
+        "台中床單被套送洗",
+        "台中寢具清洗"
+      ],
+      "evidence_type": "customer-question",
+      "ten_day_review_metric": "節慶週：比較預告海報、真實門市照與短影音的非粉觸及、分享、LINE 點擊與預約，不用單純發文數或觀看目標代替成果。",
+      "content_plan_source": "seo-desk_meta_adjust-2026-09-16",
+      "local_image_path": "docs/assets/2026-09-19/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-09-19/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "香奈兒雙色鞋包頭起毛先看羅緞",
+      "format": "image-post",
+      "media_type": "image",
+      "instagram_caption": "香奈兒雙色鞋包頭起毛先看羅緞。\n\n圖裡這雙是 CHANEL（香奈兒）雙色鞋：米色山羊皮鞋身、黑色羅緞包頭。包頭起毛多半是羅緞布紋被踢磨、刷過頭，不是皮壞了。我們收件會先看起毛只在布紋表面，還是羅緞邊已經綻線、露出底下的襯。自己拿牙刷沾水刷包頭，羅緞容易留水痕，起毛反而更明顯。\n\n羅緞已經綻線或磨破的，清潔只能整理表面，回不到新鞋的樣子；需不需要另外修補，看過實品再說。台中市區我們免費到府收送，你先拍包頭正面和側面給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #名牌鞋送洗 #台中洗鞋 #台中洗衣店",
+      "facebook_caption": "香奈兒雙色鞋包頭起毛先看羅緞。\n\n圖裡這雙是 CHANEL（香奈兒）雙色鞋：米色山羊皮鞋身、黑色羅緞包頭。包頭起毛多半是羅緞布紋被踢磨、刷過頭，不是皮壞了。我們收件會先看起毛只在布紋表面，還是羅緞邊已經綻線、露出底下的襯。自己拿牙刷沾水刷包頭，羅緞容易留水痕，起毛反而更明顯。\n\n羅緞已經綻線或磨破的，清潔只能整理表面，回不到新鞋的樣子；需不需要另外修補，看過實品再說。台中市區我們免費到府收送，你先拍包頭正面和側面給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #名牌鞋送洗 #台中洗鞋 #台中洗衣店",
+      "image_prompt": "Photorealistic vertical 4:5 photo, lens at the height of a terrazzo counter in a dark room lit only by one tall north window at frame left. A single CHANEL two-tone slingback pump stands on the counter, toe toward the lens and turned slightly right: beige goatskin body, rounded black grosgrain toe cap, elastic back strap, and a 65mm leather-wrapped block heel whose small gold interlocking CC emblem sits back in shadow, soft and unremarkable. The grosgrain toe cap is the story: along its front edge the fine ribs have lifted into a soft halo of short raised fuzz, a few fine fibres catching the window light, while the cap itself stays whole and neatly stitched. The beige leather just behind the cap shows a faint grey rub line. A soft horsehair brush lies at the right frame edge. Eighty centimetres behind, a faded dark green plaster wall. The window light falls off about two stops across the shoe; neutral daylight colour, 85mm lens, slight underexposure. No tears or holes in the cap, no people, no other text.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "views_target": 28,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理精品鞋、精品包的清潔判斷。",
+      "seo_sync_page": "/guides/luxury-designer-shoe-care.html",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中名牌鞋清洗",
+        "香奈兒鞋清潔",
+        "羅緞鞋頭起毛",
+        "台中精品鞋送洗"
+      ],
+      "evidence_type": "customer-question",
+      "ten_day_review_metric": "建立真實基準：記錄非粉絲觸及、平均觀看、收藏、分享、搜尋曝光、LINE 點擊與預約；建立固定 AI 問題面板，缺失資料保留 null。",
+      "content_plan_source": "sxj-seofix-b1c-2026-09-17",
+      "local_image_path": "docs/assets/2026-09-19/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-09-19/slot-02.png",
+      "status": "pending"
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "0af1a5b9f7e1c0ac"
+}
