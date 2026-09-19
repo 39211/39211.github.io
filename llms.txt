@@ -76,7 +76,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [青海路洗鞋店怎麼挑：看案例、問界線、約收送](https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html): local page for answer-engine and local-intent searches.
 - [南屯洗衣店？門市在西屯，一件也收、免費到府收送](https://sixiangjialaundry.com/local/nantun-laundry-pickup.html): local page for answer-engine and local-intent searches.
 - [台中北區洗衣店？門市在西屯，一件也收、免費到府收送](https://sixiangjialaundry.com/local/north-district-laundry-pickup.html): local page for answer-engine and local-intent searches.
-- [洗衣店老闆親自示範：從門市到全區收送的真實引流與營運系統](https://sixiangjialaundry.com/guides/laundry-partner-showcase.html): guide page for answer-engine and local-intent searches.
+- [我自己就是洗衣店老闆，我先把自己的店做給你看](https://sixiangjialaundry.com/guides/laundry-partner-showcase.html): guide page for answer-engine and local-intent searches.
 - [麂皮鞋變硬、發亮，還能自己擦嗎？](https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html): guide page for answer-engine and local-intent searches.
 - [帆布鞋沾泥，現在刷還是等乾？](https://sixiangjialaundry.com/guides/canvas-shoe-mud.html): guide page for answer-engine and local-intent searches.
 - [皮鞋雨痕浮出來前，不要急著上油](https://sixiangjialaundry.com/guides/leather-shoe-water-marks.html): guide page for answer-engine and local-intent searches.

@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-19T17:47:35.135Z",
+  "generated_at": "2026-09-19T18:35:09.987Z",
   "language": "zh-Hant-TW",
   "business": {
     "name": "私享家洗衣店",
@@ -4108,13 +4108,14 @@
       "answer": "南屯生活圈可約免費收送；大樓管理室代收代送，厚被與換季衣物先傳照片。",
       "service": "台中全市免費洗衣收送",
       "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
-      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 七期南側 大樓管理室",
       "keywords": [
         "南屯洗衣",
         "南屯洗衣店",
         "南屯洗衣收送",
         "文心森林公園洗衣",
-        "八期洗衣"
+        "八期洗衣",
+        "七期南側洗衣"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -4135,13 +4136,14 @@
       "answer": "可以。南屯社區大樓多數可放管理室，司機簽收與送回都會在 LINE 主動回報，您不用在家等待。",
       "service": "台中全市免費洗衣收送",
       "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#faq",
-      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 七期南側 大樓管理室",
       "keywords": [
         "南屯洗衣",
         "南屯洗衣店",
         "南屯洗衣收送",
         "文心森林公園洗衣",
-        "八期洗衣"
+        "八期洗衣",
+        "七期南側洗衣"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -4162,13 +4164,14 @@
       "answer": "完全沒有。台中市全區免費到府收送，一件也收、免收運費；洗護費用依公開價目表另計。",
       "service": "台中全市免費洗衣收送",
       "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#faq",
-      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 七期南側 大樓管理室",
       "keywords": [
         "南屯洗衣",
         "南屯洗衣店",
         "南屯洗衣收送",
         "文心森林公園洗衣",
-        "八期洗衣"
+        "八期洗衣",
+        "七期南側洗衣"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -4189,13 +4192,14 @@
       "answer": "羽絨外套多數可專業水洗維持蓬鬆度；純羊毛大衣則走乾洗柔洗保護纖維。師傅會看洗標與材質評估。",
       "service": "台中全市免費洗衣收送",
       "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#faq",
-      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 七期南側 大樓管理室",
       "keywords": [
         "南屯洗衣",
         "南屯洗衣店",
         "南屯洗衣收送",
         "文心森林公園洗衣",
-        "八期洗衣"
+        "八期洗衣",
+        "七期南側洗衣"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -4216,13 +4220,14 @@
       "answer": "可以同一趟收送。大型窗簾與地毯依尺寸評估報價，照片與尺寸先在 LINE 傳送即可一併安排。",
       "service": "台中全市免費洗衣收送",
       "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#faq",
-      "local_intent": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "local_intent": "南屯 洗衣收送 文心森林公園 八期 七期南側 大樓管理室",
       "keywords": [
         "南屯洗衣",
         "南屯洗衣店",
         "南屯洗衣收送",
         "文心森林公園洗衣",
-        "八期洗衣"
+        "八期洗衣",
+        "七期南側洗衣"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -4374,8 +4379,8 @@
     {
       "id": "laundry-partner-showcase-summary",
       "type": "guide_summary",
-      "question": "洗衣店老闆親自示範：從門市到全區收送的真實引流與營運系統",
-      "answer": "洗衣店引流先做給你看；門市與全區收送真實數據，同業交流回傳同行。",
+      "question": "我自己就是洗衣店老闆，我先把自己的店做給你看",
+      "answer": "我自己就是洗衣店老闆，我先把自己的店做給你看；門市與全區收送真實數據，同業交流回傳同行。",
       "service": "店家與公司大量衣物送洗",
       "source_url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
       "local_intent": "台中洗衣店 引流 示範店 同業交流 合作",

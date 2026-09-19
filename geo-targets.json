@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-09-19T17:47:35.135Z",
+  "generated_at": "2026-09-19T18:35:09.987Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -1503,7 +1503,7 @@
       ]
     },
     {
-      "query": "南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "query": "南屯 洗衣收送 文心森林公園 八期 七期南側 大樓管理室",
       "service": "台中全市免費洗衣收送",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
@@ -1513,11 +1513,12 @@
         "南屯洗衣店",
         "南屯洗衣收送",
         "文心森林公園洗衣",
-        "八期洗衣"
+        "八期洗衣",
+        "七期南側洗衣"
       ]
     },
     {
-      "query": "青海路二段 南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "query": "青海路二段 南屯 洗衣收送 文心森林公園 八期 七期南側 大樓管理室",
       "service": "台中全市免費洗衣收送",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
@@ -1527,11 +1528,12 @@
         "南屯洗衣店",
         "南屯洗衣收送",
         "文心森林公園洗衣",
-        "八期洗衣"
+        "八期洗衣",
+        "七期南側洗衣"
       ]
     },
     {
-      "query": "至善里 南屯 洗衣收送 文心森林公園 八期 大樓管理室",
+      "query": "至善里 南屯 洗衣收送 文心森林公園 八期 七期南側 大樓管理室",
       "service": "台中全市免費洗衣收送",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
@@ -1541,7 +1543,8 @@
         "南屯洗衣店",
         "南屯洗衣收送",
         "文心森林公園洗衣",
-        "八期洗衣"
+        "八期洗衣",
+        "七期南側洗衣"
       ]
     },
     {
@@ -1591,7 +1594,7 @@
       "service": "店家與公司大量衣物送洗",
       "area": "台中西屯",
       "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
-      "answer_summary": "洗衣店引流先做給你看；門市與全區收送真實數據，同業交流回傳同行。",
+      "answer_summary": "我自己就是洗衣店老闆，我先把自己的店做給你看；門市與全區收送真實數據，同業交流回傳同行。",
       "keywords": [
         "洗衣店引流",
         "洗衣店行銷",
@@ -1605,7 +1608,7 @@
       "service": "店家與公司大量衣物送洗",
       "area": "青海路二段",
       "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
-      "answer_summary": "洗衣店引流先做給你看；門市與全區收送真實數據，同業交流回傳同行。",
+      "answer_summary": "我自己就是洗衣店老闆，我先把自己的店做給你看；門市與全區收送真實數據，同業交流回傳同行。",
       "keywords": [
         "洗衣店引流",
         "洗衣店行銷",
@@ -1619,7 +1622,7 @@
       "service": "店家與公司大量衣物送洗",
       "area": "至善里",
       "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
-      "answer_summary": "洗衣店引流先做給你看；門市與全區收送真實數據，同業交流回傳同行。",
+      "answer_summary": "我自己就是洗衣店老闆，我先把自己的店做給你看；門市與全區收送真實數據，同業交流回傳同行。",
       "keywords": [
         "洗衣店引流",
         "洗衣店行銷",
