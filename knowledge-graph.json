@@ -269,6 +269,7 @@
         "https://sixiangjialaundry.com/assets/2026-09-20/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -462,7 +463,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-09-21"
+      "dateModified": "2026-09-22"
     },
     {
       "@type": "FAQPage",
@@ -523,7 +524,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-21",
+      "dateModified": "2026-09-22",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -12703,6 +12704,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
       "caption": "馬銜釦樂福鞋面折痕與五金",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-01",
+      "headline": "2026-09-22 11:30 枕頭芯先分記憶棉、羽絨還是纖維，再看能不能水洗",
+      "text": "枕頭芯先分記憶棉、羽絨還是纖維，再看能不能水洗。\n\n我會先捏枕頭芯、翻開外層布看填充。記憶棉按下去回彈慢、不能丟洗衣機；羽絨看鑽毛和結塊；纖維芯可以洗，熱水一煮會扁。自己把枕頭芯泡水再脫水，記憶棉會裂、羽絨結成團。\n\n如果填充已經結塊或發霉，洗完也只能改善、回不到新的蓬鬆。台中市區我們免費到府收送，你先拍整顆和近照給我們看。\n\n參考價：枕頭芯依材質與尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
+      "datePublished": "2026-09-22T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#寢具清潔",
+        "#換季收納",
+        "#棉被送洗",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
+      "caption": "枕頭芯先分記憶棉、羽絨還是纖維，再看能不能水洗",
       "inLanguage": "zh-Hant"
     }
   ]

@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-21T03:30:32.265Z
+- Generated at: 2026-09-21T22:43:56.694Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -361,6 +361,7 @@
     "https://sixiangjialaundry.com/assets/2026-09-20/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -9337,4 +9338,51 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #精品鞋清潔 #皮鞋保養 #台中洗鞋 #台中洗衣店
+
+### 2026-09-22 11:30 枕頭芯先分記憶棉、羽絨還是纖維，再看能不能水洗
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-01
+- published local time: 2026-09-22T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中枕頭芯清洗 | 枕頭芯可以洗嗎 | 記憶棉枕頭送洗 | 台中寢具清洗
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-22.json
+
+Facebook caption:
+
+枕頭芯先分記憶棉、羽絨還是纖維，再看能不能水洗。
+
+我會先捏枕頭芯、翻開外層布看填充。記憶棉按下去回彈慢、不能丟洗衣機；羽絨看鑽毛和結塊；纖維芯可以洗，熱水一煮會扁。自己把枕頭芯泡水再脫水，記憶棉會裂、羽絨結成團。
+
+如果填充已經結塊或發霉，洗完也只能改善、回不到新的蓬鬆。台中市區我們免費到府收送，你先拍整顆和近照給我們看。
+
+參考價：枕頭芯依材質與尺寸報價，LINE 傳照片先估
+
+內容：一般洗護說明；配圖：AI生成示意
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店
+
+Instagram caption:
+
+枕頭芯先分記憶棉、羽絨還是纖維，再看能不能水洗。
+
+我會先捏枕頭芯、翻開外層布看填充。記憶棉按下去回彈慢、不能丟洗衣機；羽絨看鑽毛和結塊；纖維芯可以洗，熱水一煮會扁。自己把枕頭芯泡水再脫水，記憶棉會裂、羽絨結成團。
+
+如果填充已經結塊或發霉，洗完也只能改善、回不到新的蓬鬆。台中市區我們免費到府收送，你先拍整顆和近照給我們看。
+
+參考價：枕頭芯依材質與尺寸報價，LINE 傳照片先估
+
+內容：一般洗護說明；配圖：AI生成示意
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店
 

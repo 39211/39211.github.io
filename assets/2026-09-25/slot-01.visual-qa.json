@@ -1,0 +1,77 @@
+{
+  "topic": "中秋當天：烤肉後外套與布品的門市判斷",
+  "date": "2026-09-25",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張均為同一件深海軍藍梭織連帽外套，拉鍊、袖口與污痕位置一致。",
+    "SCENE": "四張均在同一金屬工作檯與白色磁磚牆背景拍攝。",
+    "TOPIC_MATCH": "每張畫面主體都是外套，與主題中的外套相符。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-25\\slot-01.png",
+      "canary": "F5FD",
+      "sha256": "88a84fdfc9a6bc224143421cd86b458ddec65d419aa659db40cc481e7f06611c"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-25\\slot-01-slide-02.png",
+      "canary": "JJ75",
+      "sha256": "87c1ecbebfcda1e3c820130df8a65ab232271d4cc84ee4f04c451c1036289d26"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-25\\slot-01-slide-03.png",
+      "canary": "GXAM",
+      "sha256": "f043059f5a14eba565821d507b2eeee5c2ec5d144c2c24c90d21991127a262dc"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-25\\slot-01-slide-04.png",
+      "canary": "RBUR",
+      "sha256": "9ff2f726907e2bc853d28e5bb497b381e3cef6e4c69553b5bdcaec09eced7cd2"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-25\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-25\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-25\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-25\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "F5FD",
+    "IMAGE_2": "JJ75",
+    "IMAGE_3": "GXAM",
+    "IMAGE_4": "RBUR"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "F5FD",
+    "IMAGE_2": "JJ75",
+    "IMAGE_3": "GXAM",
+    "IMAGE_4": "RBUR"
+  },
+  "prompt_hash": "84002ce2e8c72efbc5e2fb24002bd8996f40b8a4e07fdcca669a1ede6bae2f4c",
+  "run_id": "carousel-qa-1790030125060",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-21T22:36:37.797Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
