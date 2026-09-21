@@ -6277,6 +6277,78 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-20.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json#post-2026-09-21-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-09-21-slot-01.html",
+      "title": "2026-09-21 11:30 電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事",
+      "date_published": "2026-09-21T11:30:00+08:00",
+      "content_text": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事。\n\n電熱毯的布套和裡面的加熱墊是兩回事。我們收件會先看布套能不能整件拆下、拉鍊或魔術貼在哪一邊，再看洗標寫的是能水洗還是只能乾洗。加熱墊本體有電線和溫控，不能泡水，也不要跟著丟進洗衣機。\n\n布套上的汗黃和毛球，洗後可以改善，放久的黃不一定能全退。台中市區我們免費到府收送，你先拍布套拆開的樣子和洗標給我們看。\n\n參考價：電熱毯布套依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
+      "summary": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事",
+      "image": "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "寢具清潔",
+        "換季收納",
+        "棉被送洗",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "reach-answer",
+        "search_intent": "problem-diagnosis",
+        "target_queries": [
+          "台中電熱毯套清洗",
+          "電熱毯可以洗嗎",
+          "電熱毯套拆洗",
+          "台中寢具清洗"
+        ],
+        "evidence_type": "first-party-inspection",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json#post-2026-09-21-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-09-21-slot-02.html",
+      "title": "2026-09-21 20:30 馬銜釦樂福鞋面折痕與五金",
+      "date_published": "2026-09-21T20:30:00+08:00",
+      "content_text": "馬銜釦樂福鞋面折痕與五金。\n\n圖裡這雙是 Gucci（古馳）Horsebit 1953 樂福鞋：黑色小牛皮、鞋面一組金色馬銜釦。鞋面那幾道折痕是走路彎折留下的，折痕裡的黑色表層磨薄後會泛灰；馬銜釦多半是表面細刮痕和手摸留下的暗沉。我們收件會先分清楚是髒、是乾，還是表層已經磨掉。自己拿金屬亮光劑擦馬銜釦，藥劑沾到旁邊的皮容易留下白邊。\n\n折痕是皮革彎折留下的記憶，清潔和保養只能讓它不那麼乾、不那麼灰，壓不平；表層已經磨掉的地方，看過實品再說。台中市區我們免費到府收送，你先拍鞋面折痕和馬銜釦近照給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #皮鞋保養 #台中洗鞋 #台中洗衣店",
+      "summary": "馬銜釦樂福鞋面折痕與五金",
+      "image": "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "精品鞋清潔",
+        "皮鞋保養",
+        "台中洗鞋",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "evidence-conversion",
+        "search_intent": "aftercare",
+        "target_queries": [
+          "台中皮鞋清洗",
+          "樂福鞋折痕",
+          "馬銜釦氧化",
+          "台中名牌鞋送洗"
+        ],
+        "evidence_type": "customer-question",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json"
+      }
     }
   ]
 }

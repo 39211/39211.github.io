@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-09-19T22:33:00.336Z",
+  "generated_at": "2026-09-21T03:30:32.265Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -602,6 +602,8 @@
       "https://sixiangjialaundry.com/assets/2026-09-19/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-09-19/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-09-20/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2100,10 +2102,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots, enter rss.xml and the posts hub; the human sitemap.xml lists money/service/guide URLs first and only the newest sitemap_max_indexable_posts thick articles so conversion pages are not buried.",
-      "indexable_article_count": 163,
+      "indexable_article_count": 165,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 163
+      "article_count": 165
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2117,41 +2119,41 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 173,
-    "latest_date": "2026-09-20",
+    "post_count": 175,
+    "latest_date": "2026-09-21",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 94,
-    "posts_with_target_queries": 96,
-    "posts_with_evidence_type": 96
+    "posts_with_search_intent": 96,
+    "posts_with_target_queries": 98,
+    "posts_with_evidence_type": 98
   },
-  "latest_date": "2026-09-20",
+  "latest_date": "2026-09-21",
   "latest_posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-20.json#post-2026-09-20-slot-01",
-      "date": "2026-09-20",
-      "date_published": "2026-09-20T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json#post-2026-09-21-slot-01",
+      "date": "2026-09-21",
+      "date_published": "2026-09-21T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-09-20 11:30 地毯踩久那股味，捲起來前先看底面有沒有潮",
-      "topic": "地毯踩久那股味，捲起來前先看底面有沒有潮",
+      "title": "2026-09-21 11:30 電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事",
+      "topic": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "reach-answer",
-      "search_intent": "aftercare",
+      "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中地毯清洗",
-        "地毯發霉怎麼辦",
-        "地毯底面潮濕",
-        "台中地毯送洗"
+        "台中電熱毯套清洗",
+        "電熱毯可以洗嗎",
+        "電熱毯套拆洗",
+        "台中寢具清洗"
       ],
-      "evidence_type": "customer-question",
+      "evidence_type": "first-party-inspection",
       "hashtags": [
         "#私享家洗衣店",
-        "#居家清潔",
-        "#地毯清洗",
+        "#寢具清潔",
+        "#換季收納",
         "#棉被送洗",
         "#台中洗衣店"
       ],
@@ -2159,20 +2161,146 @@
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-20/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-20/slot-01.png"
+        "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-20.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-20-slot-01.html",
-      "facebook_caption": "地毯踩久那股味，捲起來前先看底面有沒有潮。\n\n我們收件會先把地毯捲起來看底面，潮氣通常從膠底和牆邊先發。表面乾、底面涼或發黑，那股味多半不是踩髒，是濕氣悶在夾層。自己灑除臭噴霧再捲回去，味道會更重。\n\n底面已經發霉或膠層脫了，洗完也只能壓味道，回不到新地毯。台中市區我們免費到府收送，你先拍底面和整張給我們看。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #居家清潔 #地毯清洗 #棉被送洗 #台中洗衣店",
-      "instagram_caption": "地毯踩久那股味，捲起來前先看底面有沒有潮。\n\n我們收件會先把地毯捲起來看底面，潮氣通常從膠底和牆邊先發。表面乾、底面涼或發黑，那股味多半不是踩髒，是濕氣悶在夾層。自己灑除臭噴霧再捲回去，味道會更重。\n\n底面已經發霉或膠層脫了，洗完也只能壓味道，回不到新地毯。台中市區我們免費到府收送，你先拍底面和整張給我們看。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #居家清潔 #地毯清洗 #棉被送洗 #台中洗衣店"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-21-slot-01.html",
+      "facebook_caption": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事。\n\n電熱毯的布套和裡面的加熱墊是兩回事。我們收件會先看布套能不能整件拆下、拉鍊或魔術貼在哪一邊，再看洗標寫的是能水洗還是只能乾洗。加熱墊本體有電線和溫控，不能泡水，也不要跟著丟進洗衣機。\n\n布套上的汗黃和毛球，洗後可以改善，放久的黃不一定能全退。台中市區我們免費到府收送，你先拍布套拆開的樣子和洗標給我們看。\n\n參考價：電熱毯布套依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
+      "instagram_caption": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事。\n\n電熱毯的布套和裡面的加熱墊是兩回事。我們收件會先看布套能不能整件拆下、拉鍊或魔術貼在哪一邊，再看洗標寫的是能水洗還是只能乾洗。加熱墊本體有電線和溫控，不能泡水，也不要跟著丟進洗衣機。\n\n布套上的汗黃和毛球，洗後可以改善，放久的黃不一定能全退。台中市區我們免費到府收送，你先拍布套拆開的樣子和洗標給我們看。\n\n參考價：電熱毯布套依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json#post-2026-09-21-slot-02",
+      "date": "2026-09-21",
+      "date_published": "2026-09-21T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-09-21 20:30 馬銜釦樂福鞋面折痕與五金",
+      "topic": "馬銜釦樂福鞋面折痕與五金",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中皮鞋清洗",
+        "樂福鞋折痕",
+        "馬銜釦氧化",
+        "台中名牌鞋送洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#精品鞋清潔",
+        "#皮鞋保養",
+        "#台中洗鞋",
+        "#台中洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-21-slot-02.html",
+      "facebook_caption": "馬銜釦樂福鞋面折痕與五金。\n\n圖裡這雙是 Gucci（古馳）Horsebit 1953 樂福鞋：黑色小牛皮、鞋面一組金色馬銜釦。鞋面那幾道折痕是走路彎折留下的，折痕裡的黑色表層磨薄後會泛灰；馬銜釦多半是表面細刮痕和手摸留下的暗沉。我們收件會先分清楚是髒、是乾，還是表層已經磨掉。自己拿金屬亮光劑擦馬銜釦，藥劑沾到旁邊的皮容易留下白邊。\n\n折痕是皮革彎折留下的記憶，清潔和保養只能讓它不那麼乾、不那麼灰，壓不平；表層已經磨掉的地方，看過實品再說。台中市區我們免費到府收送，你先拍鞋面折痕和馬銜釦近照給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #皮鞋保養 #台中洗鞋 #台中洗衣店",
+      "instagram_caption": "馬銜釦樂福鞋面折痕與五金。\n\n圖裡這雙是 Gucci（古馳）Horsebit 1953 樂福鞋：黑色小牛皮、鞋面一組金色馬銜釦。鞋面那幾道折痕是走路彎折留下的，折痕裡的黑色表層磨薄後會泛灰；馬銜釦多半是表面細刮痕和手摸留下的暗沉。我們收件會先分清楚是髒、是乾，還是表層已經磨掉。自己拿金屬亮光劑擦馬銜釦，藥劑沾到旁邊的皮容易留下白邊。\n\n折痕是皮革彎折留下的記憶，清潔和保養只能讓它不那麼乾、不那麼灰，壓不平；表層已經磨掉的地方，看過實品再說。台中市區我們免費到府收送，你先拍鞋面折痕和馬銜釦近照給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #皮鞋保養 #台中洗鞋 #台中洗衣店"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json#post-2026-09-21-slot-02",
+      "date": "2026-09-21",
+      "date_published": "2026-09-21T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-09-21 20:30 馬銜釦樂福鞋面折痕與五金",
+      "topic": "馬銜釦樂福鞋面折痕與五金",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中皮鞋清洗",
+        "樂福鞋折痕",
+        "馬銜釦氧化",
+        "台中名牌鞋送洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#精品鞋清潔",
+        "#皮鞋保養",
+        "#台中洗鞋",
+        "#台中洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-21-slot-02.html",
+      "facebook_caption": "馬銜釦樂福鞋面折痕與五金。\n\n圖裡這雙是 Gucci（古馳）Horsebit 1953 樂福鞋：黑色小牛皮、鞋面一組金色馬銜釦。鞋面那幾道折痕是走路彎折留下的，折痕裡的黑色表層磨薄後會泛灰；馬銜釦多半是表面細刮痕和手摸留下的暗沉。我們收件會先分清楚是髒、是乾，還是表層已經磨掉。自己拿金屬亮光劑擦馬銜釦，藥劑沾到旁邊的皮容易留下白邊。\n\n折痕是皮革彎折留下的記憶，清潔和保養只能讓它不那麼乾、不那麼灰，壓不平；表層已經磨掉的地方，看過實品再說。台中市區我們免費到府收送，你先拍鞋面折痕和馬銜釦近照給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #皮鞋保養 #台中洗鞋 #台中洗衣店",
+      "instagram_caption": "馬銜釦樂福鞋面折痕與五金。\n\n圖裡這雙是 Gucci（古馳）Horsebit 1953 樂福鞋：黑色小牛皮、鞋面一組金色馬銜釦。鞋面那幾道折痕是走路彎折留下的，折痕裡的黑色表層磨薄後會泛灰；馬銜釦多半是表面細刮痕和手摸留下的暗沉。我們收件會先分清楚是髒、是乾，還是表層已經磨掉。自己拿金屬亮光劑擦馬銜釦，藥劑沾到旁邊的皮容易留下白邊。\n\n折痕是皮革彎折留下的記憶，清潔和保養只能讓它不那麼乾、不那麼灰，壓不平；表層已經磨掉的地方，看過實品再說。台中市區我們免費到府收送，你先拍鞋面折痕和馬銜釦近照給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #皮鞋保養 #台中洗鞋 #台中洗衣店"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json#post-2026-09-21-slot-01",
+      "date": "2026-09-21",
+      "date_published": "2026-09-21T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-09-21 11:30 電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事",
+      "topic": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中電熱毯套清洗",
+        "電熱毯可以洗嗎",
+        "電熱毯套拆洗",
+        "台中寢具清洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#寢具清潔",
+        "#換季收納",
+        "#棉被送洗",
+        "#台中洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-21-slot-01.html",
+      "facebook_caption": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事。\n\n電熱毯的布套和裡面的加熱墊是兩回事。我們收件會先看布套能不能整件拆下、拉鍊或魔術貼在哪一邊，再看洗標寫的是能水洗還是只能乾洗。加熱墊本體有電線和溫控，不能泡水，也不要跟著丟進洗衣機。\n\n布套上的汗黃和毛球，洗後可以改善，放久的黃不一定能全退。台中市區我們免費到府收送，你先拍布套拆開的樣子和洗標給我們看。\n\n參考價：電熱毯布套依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
+      "instagram_caption": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事。\n\n電熱毯的布套和裡面的加熱墊是兩回事。我們收件會先看布套能不能整件拆下、拉鍊或魔術貼在哪一邊，再看洗標寫的是能水洗還是只能乾洗。加熱墊本體有電線和溫控，不能泡水，也不要跟著丟進洗衣機。\n\n布套上的汗黃和毛球，洗後可以改善，放久的黃不一定能全退。台中市區我們免費到府收送，你先拍布套拆開的樣子和洗標給我們看。\n\n參考價：電熱毯布套依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-09-20.json#post-2026-09-20-slot-01",
       "date": "2026-09-20",
@@ -3530,102 +3658,6 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-09-08-slot-02.html",
       "facebook_caption": "雨傘滴水旁的包角容易先受影響，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #雨天保養 #包包清潔 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "雨傘滴水旁的包角容易先受影響，先看容易忽略的位置。\n\n包包最先變舊的是提把。那不是灰塵，是手汗堆的。\n\n包我會先看提把和包角。那兩個地方天天被摸、被撞，比整體髒不髒更說明狀況。\n\n你最常背的那個包，哪裡先磨壞的？\n\n朋友那個包背到提把都變色了，這篇傳給他。\n\n想每週用短影音看懂衣物、鞋包和布品細節，可以先追蹤私享家。\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #雨天保養 #包包清潔 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-08.json#post-2026-09-08-slot-01",
-      "date": "2026-09-08",
-      "date_published": "2026-09-08T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-09-08 11:30 開學一週童鞋就臭了？先看鞋墊、鞋口、鞋帶 3 個位置",
-      "topic": "開學一週童鞋就臭了？先看鞋墊、鞋口、鞋帶 3 個位置",
-      "visual_route": "shop-inspection",
-      "traffic_route": "value-prop-lead",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中洗鞋",
-        "西屯洗鞋",
-        "逢甲洗鞋",
-        "台中白鞋清潔",
-        "白鞋泛黃怎麼辦",
-        "白鞋變黃怎麼辦"
-      ],
-      "evidence_type": "first-party-inspection",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-08/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-08/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-09-08/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-09-08/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-09-08/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-08.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-08-slot-01.html",
-      "facebook_caption": "開學一週童鞋就臭了？先看鞋墊、鞋口、鞋帶 3 個位置。\n\n白鞋泛黃，問題常在中底和鞋邊，不在鞋面。硬刷只會起毛。\n\n鞋子我會先看中底和鞋邊。泛黃多半從那裡開始，鞋面反而還好。\n\n想問問看能處理到什麼程度？拍一張傳 LINE就可以。\n\n你那雙白鞋放多久沒穿了？\n\n這類送洗前檢查清單會持續整理，先追蹤起來比較不會臨時找不到。\n\n下一集：民宿床組一週要換幾輪？批量送洗前先數這 3 件事\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "開學一週童鞋就臭了？先看鞋墊、鞋口、鞋帶 3 個位置。\n\n白鞋泛黃，問題常在中底和鞋邊，不在鞋面。硬刷只會起毛。\n\n鞋子我會先看中底和鞋邊。泛黃多半從那裡開始，鞋面反而還好。\n\n想問問看能處理到什麼程度？拍一張私訊就可以。\n\n你那雙白鞋放多久沒穿了？\n\n這類送洗前檢查清單會持續整理，先追蹤起來比較不會臨時找不到。\n\n下一集：民宿床組一週要換幾輪？批量送洗前先數這 3 件事\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json#post-2026-09-07-slot-03",
-      "date": "2026-09-07",
-      "date_published": "2026-09-07T12:00:00+08:00",
-      "slot": 3,
-      "time": "12:00",
-      "title": "2026-09-07 12:00 大衣肩線積一條灰",
-      "topic": "大衣肩線積一條灰",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#衣物送洗",
-        "#乾洗",
-        "#台中乾洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-07/slot-03.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-07/slot-03.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-09-07/slot-03.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-07.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-07-slot-03.html",
-      "facebook_caption": "掛了一整季沒穿,灰會沿著肩膀那條線慢慢積起來。\n\n刷不掉是因為它早就卡進毛裡,要整件洗才拉得出來。\n\n大衣肩線積一條灰。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：西裝背心 $80、長大衣 $300（水洗價，乾洗另計）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "掛了一整季沒穿,灰會沿著肩膀那條線慢慢積起來。\n\n刷不掉是因為它早就卡進毛裡,要整件洗才拉得出來。\n\n大衣肩線積一條灰。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n如果只能先救一樣，你會選鞋子還是包包？\n\n認識那種鞋子捨不得丟、又不知道怎麼救的人嗎？傳給他。\n\n私享家洗衣店｜台中市區免費到府收送\n\n參考價：西裝背心 $80、長大衣 $300（水洗價，乾洗另計）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #衣物送洗 #乾洗 #台中乾洗 #台中洗衣店 #西屯 #逢甲 #台中"
     }
   ],
   "published_posts": [
@@ -11403,6 +11435,90 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-09-20-slot-01.html",
       "facebook_caption": "地毯踩久那股味，捲起來前先看底面有沒有潮。\n\n我們收件會先把地毯捲起來看底面，潮氣通常從膠底和牆邊先發。表面乾、底面涼或發黑，那股味多半不是踩髒，是濕氣悶在夾層。自己灑除臭噴霧再捲回去，味道會更重。\n\n底面已經發霉或膠層脫了，洗完也只能壓味道，回不到新地毯。台中市區我們免費到府收送，你先拍底面和整張給我們看。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #居家清潔 #地毯清洗 #棉被送洗 #台中洗衣店",
       "instagram_caption": "地毯踩久那股味，捲起來前先看底面有沒有潮。\n\n我們收件會先把地毯捲起來看底面，潮氣通常從膠底和牆邊先發。表面乾、底面涼或發黑，那股味多半不是踩髒，是濕氣悶在夾層。自己灑除臭噴霧再捲回去，味道會更重。\n\n底面已經發霉或膠層脫了，洗完也只能壓味道，回不到新地毯。台中市區我們免費到府收送，你先拍底面和整張給我們看。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #居家清潔 #地毯清洗 #棉被送洗 #台中洗衣店"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json#post-2026-09-21-slot-01",
+      "date": "2026-09-21",
+      "date_published": "2026-09-21T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-09-21 11:30 電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事",
+      "topic": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中電熱毯套清洗",
+        "電熱毯可以洗嗎",
+        "電熱毯套拆洗",
+        "台中寢具清洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#寢具清潔",
+        "#換季收納",
+        "#棉被送洗",
+        "#台中洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-21-slot-01.html",
+      "facebook_caption": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事。\n\n電熱毯的布套和裡面的加熱墊是兩回事。我們收件會先看布套能不能整件拆下、拉鍊或魔術貼在哪一邊，再看洗標寫的是能水洗還是只能乾洗。加熱墊本體有電線和溫控，不能泡水，也不要跟著丟進洗衣機。\n\n布套上的汗黃和毛球，洗後可以改善，放久的黃不一定能全退。台中市區我們免費到府收送，你先拍布套拆開的樣子和洗標給我們看。\n\n參考價：電熱毯布套依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
+      "instagram_caption": "電熱毯套可以拆下來洗嗎？先看拆法和洗標這兩件事。\n\n電熱毯的布套和裡面的加熱墊是兩回事。我們收件會先看布套能不能整件拆下、拉鍊或魔術貼在哪一邊，再看洗標寫的是能水洗還是只能乾洗。加熱墊本體有電線和溫控，不能泡水，也不要跟著丟進洗衣機。\n\n布套上的汗黃和毛球，洗後可以改善，放久的黃不一定能全退。台中市區我們免費到府收送，你先拍布套拆開的樣子和洗標給我們看。\n\n參考價：電熱毯布套依尺寸報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json#post-2026-09-21-slot-02",
+      "date": "2026-09-21",
+      "date_published": "2026-09-21T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-09-21 20:30 馬銜釦樂福鞋面折痕與五金",
+      "topic": "馬銜釦樂福鞋面折痕與五金",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中皮鞋清洗",
+        "樂福鞋折痕",
+        "馬銜釦氧化",
+        "台中名牌鞋送洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#精品鞋清潔",
+        "#皮鞋保養",
+        "#台中洗鞋",
+        "#台中洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-21.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-21-slot-02.html",
+      "facebook_caption": "馬銜釦樂福鞋面折痕與五金。\n\n圖裡這雙是 Gucci（古馳）Horsebit 1953 樂福鞋：黑色小牛皮、鞋面一組金色馬銜釦。鞋面那幾道折痕是走路彎折留下的，折痕裡的黑色表層磨薄後會泛灰；馬銜釦多半是表面細刮痕和手摸留下的暗沉。我們收件會先分清楚是髒、是乾，還是表層已經磨掉。自己拿金屬亮光劑擦馬銜釦，藥劑沾到旁邊的皮容易留下白邊。\n\n折痕是皮革彎折留下的記憶，清潔和保養只能讓它不那麼乾、不那麼灰，壓不平；表層已經磨掉的地方，看過實品再說。台中市區我們免費到府收送，你先拍鞋面折痕和馬銜釦近照給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #皮鞋保養 #台中洗鞋 #台中洗衣店",
+      "instagram_caption": "馬銜釦樂福鞋面折痕與五金。\n\n圖裡這雙是 Gucci（古馳）Horsebit 1953 樂福鞋：黑色小牛皮、鞋面一組金色馬銜釦。鞋面那幾道折痕是走路彎折留下的，折痕裡的黑色表層磨薄後會泛灰；馬銜釦多半是表面細刮痕和手摸留下的暗沉。我們收件會先分清楚是髒、是乾，還是表層已經磨掉。自己拿金屬亮光劑擦馬銜釦，藥劑沾到旁邊的皮容易留下白邊。\n\n折痕是皮革彎折留下的記憶，清潔和保養只能讓它不那麼乾、不那麼灰，壓不平；表層已經磨掉的地方，看過實品再說。台中市區我們免費到府收送，你先拍鞋面折痕和馬銜釦近照給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #皮鞋保養 #台中洗鞋 #台中洗衣店"
     }
   ]
 }
