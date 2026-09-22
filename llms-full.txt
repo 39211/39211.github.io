@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-21T22:43:56.694Z
+- Generated at: 2026-09-22T07:47:44.691Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -362,6 +362,7 @@
     "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -9385,4 +9386,55 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店
+
+### 2026-09-22 12:00 先看帆布鞋泥乾了沒
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-03
+- published local time: 2026-09-22T12:00:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-22.json
+
+Facebook caption:
+
+泥還濕的時候，可以動它嗎？
+
+濕的時候刷，泥會被推進織紋裡，布面起毛。等乾了整塊剝掉反而好救。帆布鞋兩百五起。
+
+先看帆布鞋泥乾了沒。
+
+拍一張傳 LINE給我們，我們先看方向。
+
+內容：一般洗護說明；影片：AI生成示意
+
+參考價：一般運動鞋 $250、皮類 $300（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #台中洗衣店
+
+Instagram caption:
+
+泥還濕的時候，可以動它嗎？
+
+濕的時候刷，泥會被推進織紋裡，布面起毛。等乾了整塊剝掉反而好救。帆布鞋兩百五起。
+
+先看帆布鞋泥乾了沒。
+
+拍一張私訊給我們，我們先看方向。
+
+內容：一般洗護說明；影片：AI生成示意
+
+參考價：一般運動鞋 $250、皮類 $300（水洗價）
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #台中洗衣店
 

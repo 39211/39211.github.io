@@ -6385,6 +6385,38 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-03",
+      "url": "https://sixiangjialaundry.com/posts/2026-09-22-slot-03.html",
+      "title": "2026-09-22 12:00 先看帆布鞋泥乾了沒",
+      "date_published": "2026-09-22T12:00:00+08:00",
+      "content_text": "泥還濕的時候，可以動它嗎？\n\n濕的時候刷，泥會被推進織紋裡，布面起毛。等乾了整塊剝掉反而好救。帆布鞋兩百五起。\n\n先看帆布鞋泥乾了沒。\n\n拍一張傳 LINE給我們，我們先看方向。\n\n內容：一般洗護說明；影片：AI生成示意\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #台中洗衣店",
+      "summary": "先看帆布鞋泥乾了沒",
+      "image": "https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "台中免費收送",
+        "洗護日常",
+        "台中洗鞋",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 3,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json"
+      }
     }
   ]
 }

@@ -270,6 +270,7 @@
         "https://sixiangjialaundry.com/assets/2026-09-21/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -12737,6 +12738,40 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
       "caption": "枕頭芯先分記憶棉、羽絨還是纖維，再看能不能水洗",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-03",
+      "headline": "2026-09-22 12:00 先看帆布鞋泥乾了沒",
+      "text": "泥還濕的時候，可以動它嗎？\n\n濕的時候刷，泥會被推進織紋裡，布面起毛。等乾了整塊剝掉反而好救。帆布鞋兩百五起。\n\n先看帆布鞋泥乾了沒。\n\n拍一張傳 LINE給我們，我們先看方向。\n\n內容：一般洗護說明；影片：AI生成示意\n\n參考價：一般運動鞋 $250、皮類 $300（水洗價）\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #台中洗衣店",
+      "datePublished": "2026-09-22T12:00:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#台中免費收送",
+        "#洗護日常",
+        "#台中洗鞋",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-03:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-03"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-22.json#post-2026-09-22-slot-03:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png",
+      "caption": "先看帆布鞋泥乾了沒",
       "inLanguage": "zh-Hant"
     }
   ]
