@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-22T07:47:44.691Z
+- Generated at: 2026-09-24T03:46:42.229Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -363,6 +363,9 @@
     "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png",
+    "https://sixiangjialaundry.com/assets/2026-09-23/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-09-23/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-09-24/slot-01.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -9437,4 +9440,153 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #台中洗衣店
+
+### 2026-09-23 11:30 抱枕套和沙發套一起洗，先看洗標和布種免得色差
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-01
+- published local time: 2026-09-23T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中抱枕套清洗 | 沙發套一起洗會不會染色 | 台中沙發套送洗 | 抱枕套洗標
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-09-23/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-23.json
+
+Facebook caption:
+
+抱枕套和沙發套一起洗，先看洗標和布種免得色差。
+
+我會先把抱枕套和沙發套的洗標對在一起看，布種、色號不一樣就分開。深淺色一起丟，染料會互相沾。自己用熱水或漂白，套子會縮、沙發套還可能褪色。
+
+如果套子已經洗花或縮到拉不上，改善有限我們會先跟你說。台中市區免費到府收送，你先拍洗標和布面給我們看。
+
+參考價：抱枕套、沙發套依尺寸與布種報價，LINE 傳照片先估
+
+內容：一般洗護說明；配圖：AI生成示意
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店
+
+Instagram caption:
+
+抱枕套和沙發套一起洗，先看洗標和布種免得色差。
+
+我會先把抱枕套和沙發套的洗標對在一起看，布種、色號不一樣就分開。深淺色一起丟，染料會互相沾。自己用熱水或漂白，套子會縮、沙發套還可能褪色。
+
+如果套子已經洗花或縮到拉不上，改善有限我們會先跟你說。台中市區免費到府收送，你先拍洗標和布面給我們看。
+
+參考價：抱枕套、沙發套依尺寸與布種報價，LINE 傳照片先估
+
+內容：一般洗護說明；配圖：AI生成示意
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店
+
+### 2026-09-23 20:30 絨毛玩偶五官是繡的還是黏的，決定能不能下水
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-02
+- published local time: 2026-09-23T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: aftercare
+- target_queries: 台中娃娃清洗 | 絨毛玩偶能不能下水 | 娃娃五官黏的能洗嗎 | 台中布偶送洗
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #娃娃清洗 #絨毛娃娃 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-09-23/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-23.json
+
+Facebook caption:
+
+絨毛玩偶五官是繡的還是黏的，決定能不能下水。
+
+我會先看絨毛玩偶的眼睛和鼻子是繡上去還是黏上去。黏的遇水會掉，繡的比較能洗。填充結塊或接縫鬆了，整隻丟洗衣機脫水會更扁。有發聲器或電池的，不要自己泡。
+
+如果五官已經鬆或填充發霉，洗完也只能改善。台中市區我們免費到府收送，你先拍五官和接縫給我們看。
+
+參考價：絨毛娃娃依大小報價，LINE 傳照片先估
+
+內容：一般洗護說明；配圖：AI生成示意
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #娃娃清洗 #絨毛娃娃 #台中洗衣店
+
+Instagram caption:
+
+絨毛玩偶五官是繡的還是黏的，決定能不能下水。
+
+我會先看絨毛玩偶的眼睛和鼻子是繡上去還是黏上去。黏的遇水會掉，繡的比較能洗。填充結塊或接縫鬆了，整隻丟洗衣機脫水會更扁。有發聲器或電池的，不要自己泡。
+
+如果五官已經鬆或填充發霉，洗完也只能改善。台中市區我們免費到府收送，你先拍五官和接縫給我們看。
+
+參考價：絨毛娃娃依大小報價，LINE 傳照片先估
+
+內容：一般洗護說明；配圖：AI生成示意
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #娃娃清洗 #絨毛娃娃 #台中洗衣店
+
+### 2026-09-24 11:30 窗簾下緣灰塵與空氣味，家洗為何傷纖維
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-24.json#post-2026-09-24-slot-01
+- published local time: 2026-09-24T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: value-prop-lead
+- search_intent: aftercare
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中外套清洗 | 棉被有潮味怎麼辦
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #窗簾清洗 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-09-24/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-24.json
+
+Facebook caption:
+
+窗簾下緣灰塵與空氣味，家洗為何傷纖維。
+
+衣服收起來之前那一下沒檢查，下次拿出來通常就是味道的來源。
+
+我會先看髒污停在哪一層。浮在表面的和吃進纖維的，處理方式差很多。
+
+不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。
+
+參考價：窗簾地毯依尺寸報價，LINE 傳照片先估
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #窗簾清洗 #台中洗衣店
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+Instagram caption:
+
+窗簾下緣灰塵與空氣味，家洗為何傷纖維。
+
+衣服收起來之前那一下沒檢查，下次拿出來通常就是味道的來源。
+
+我會先看髒污停在哪一層。浮在表面的和吃進纖維的，處理方式差很多。
+
+不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。
+
+參考價：窗簾地毯依尺寸報價，LINE 傳照片先估
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #窗簾清洗 #台中洗衣店
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 

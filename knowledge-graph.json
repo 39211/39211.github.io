@@ -271,6 +271,9 @@
         "https://sixiangjialaundry.com/assets/2026-09-21/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-09-22/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png",
+        "https://sixiangjialaundry.com/assets/2026-09-23/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-23/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-24/slot-01.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -464,7 +467,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-09-22"
+      "dateModified": "2026-09-24"
     },
     {
       "@type": "FAQPage",
@@ -525,7 +528,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-22",
+      "dateModified": "2026-09-24",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -12772,6 +12775,105 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-22/slot-03.png",
       "caption": "先看帆布鞋泥乾了沒",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-01",
+      "headline": "2026-09-23 11:30 抱枕套和沙發套一起洗，先看洗標和布種免得色差",
+      "text": "抱枕套和沙發套一起洗，先看洗標和布種免得色差。\n\n我會先把抱枕套和沙發套的洗標對在一起看，布種、色號不一樣就分開。深淺色一起丟，染料會互相沾。自己用熱水或漂白，套子會縮、沙發套還可能褪色。\n\n如果套子已經洗花或縮到拉不上，改善有限我們會先跟你說。台中市區免費到府收送，你先拍洗標和布面給我們看。\n\n參考價：抱枕套、沙發套依尺寸與布種報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
+      "datePublished": "2026-09-23T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#寢具清潔",
+        "#換季收納",
+        "#棉被送洗",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-23/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-23/slot-01.png",
+      "caption": "抱枕套和沙發套一起洗，先看洗標和布種免得色差",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-02",
+      "headline": "2026-09-23 20:30 絨毛玩偶五官是繡的還是黏的，決定能不能下水",
+      "text": "絨毛玩偶五官是繡的還是黏的，決定能不能下水。\n\n我會先看絨毛玩偶的眼睛和鼻子是繡上去還是黏上去。黏的遇水會掉，繡的比較能洗。填充結塊或接縫鬆了，整隻丟洗衣機脫水會更扁。有發聲器或電池的，不要自己泡。\n\n如果五官已經鬆或填充發霉，洗完也只能改善。台中市區我們免費到府收送，你先拍五官和接縫給我們看。\n\n參考價：絨毛娃娃依大小報價，LINE 傳照片先估\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #娃娃清洗 #絨毛娃娃 #台中洗衣店",
+      "datePublished": "2026-09-23T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#娃娃清洗",
+        "#絨毛娃娃",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-23.json#post-2026-09-23-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-23/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-23/slot-02.png",
+      "caption": "絨毛玩偶五官是繡的還是黏的，決定能不能下水",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-24.json#post-2026-09-24-slot-01",
+      "headline": "2026-09-24 11:30 窗簾下緣灰塵與空氣味，家洗為何傷纖維",
+      "text": "窗簾下緣灰塵與空氣味，家洗為何傷纖維。\n\n衣服收起來之前那一下沒檢查，下次拿出來通常就是味道的來源。\n\n我會先看髒污停在哪一層。浮在表面的和吃進纖維的，處理方式差很多。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n參考價：窗簾地毯依尺寸報價，LINE 傳照片先估\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #窗簾清洗 #台中洗衣店\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）",
+      "datePublished": "2026-09-24T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#窗簾清洗",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-24.json#post-2026-09-24-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-24.json#post-2026-09-24-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-24.json#post-2026-09-24-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-24/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-24/slot-01.png",
+      "caption": "窗簾下緣灰塵與空氣味，家洗為何傷纖維",
       "inLanguage": "zh-Hant"
     }
   ]
