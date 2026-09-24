@@ -180,6 +180,10 @@
       "taichung-citywide-laundry-pickup": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
       "taichung-laundry-price-list": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html"
     },
+    "hub_pages": {
+      "bag-care": "https://sixiangjialaundry.com/hubs/bag-care.html",
+      "luxury-garment-care": "https://sixiangjialaundry.com/hubs/luxury-garment-care.html"
+    },
     "support_pages": {
       "photo-before-laundry": "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
       "white-shoe-yellowing": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
