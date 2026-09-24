@@ -14,8 +14,6 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Shoe and bag care: https://sixiangjialaundry.com/services/shoe-bag-care.html
 - White shoe cleaning: https://sixiangjialaundry.com/services/white-shoe-cleaning.html
 - Fabric storage: https://sixiangjialaundry.com/services/fabric-storage.html
-- Bag care hub: https://sixiangjialaundry.com/hubs/bag-care.html
-- Luxury garment care hub: https://sixiangjialaundry.com/hubs/luxury-garment-care.html
 - Photo-before-laundry guide: https://sixiangjialaundry.com/guides/photo-before-laundry.html
 - Plush doll wash boundary: https://sixiangjialaundry.com/guides/plush-doll-cleaning.html
 - White shoe grey vs yellow: https://sixiangjialaundry.com/guides/white-shoe-yellowing.html
