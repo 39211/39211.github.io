@@ -3,13 +3,16 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
+
 concurrency:
   group: pages
   cancel-in-progress: true
+
 jobs:
   deploy:
     environment:
@@ -17,10 +20,281 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Restore SEO overrides (pre-artifact)
+        id: restore
+        continue-on-error: true
+        env:
+          # Soft-fail the whole step only via our own exit paths; continue-on-error
+          # also covers unexpected clone failures so Pages still deploys.
+          OVERRIDE_REMOTE: https://github.com/39211/laundry-social-auto-poster.git
+        run: |
+          set -euo pipefail
+          SRC="${RUNNER_TEMP}/laundry-seo/seo-overrides"
+          rm -rf "${RUNNER_TEMP}/laundry-seo"
+          echo "::notice::Fetching seo-overrides from 39211/laundry-social-auto-poster@main into RUNNER_TEMP"
+
+          if ! git clone --depth 1 --filter=blob:none --sparse --branch main \
+              "$OVERRIDE_REMOTE" "${RUNNER_TEMP}/laundry-seo"; then
+            echo "::warning::Failed to clone laundry-social-auto-poster; deploying without SEO overlay"
+            exit 0
+          fi
+          if ! git -C "${RUNNER_TEMP}/laundry-seo" sparse-checkout set seo-overrides; then
+            echo "::warning::Failed to sparse-checkout seo-overrides; deploying without SEO overlay"
+            exit 0
+          fi
+          if [ ! -d "$SRC" ]; then
+            echo "::warning::seo-overrides/ missing after fetch; deploying without SEO overlay"
+            exit 0
+          fi
+
+          echo "::notice::Overlaying seo-overrides onto repo root (excluding README.md)"
+          # rsync keeps directory structure; exclude README only at any depth.
+          rsync -a --exclude 'README.md' "$SRC"/ ./
+
+          echo "::notice::Forcing noindex,follow on posts/*slot*.html"
+          python3 << 'PY'
+          import glob
+          import re
+          from pathlib import Path
+
+          # Live format on posts/2026-09-24-slot-01.html:
+          #   <meta name="robots" content="index, follow, max-image-preview:large" />
+          #   <meta name="googlebot" content="index, follow, max-image-preview:large" />
+          META_RE = re.compile(
+              r'(<meta\s+name="(robots|googlebot)"\s+content=")([^"]*)("\s*/?>)',
+              re.IGNORECASE,
+          )
+          HEAD_OPEN_RE = re.compile(r"(<head[^>]*>)", re.IGNORECASE)
+
+          def patch(html: str) -> str:
+              found = {"robots": False, "googlebot": False}
+
+              def repl(m: re.Match) -> str:
+                  name = m.group(2).lower()
+                  found[name] = True
+                  return f'{m.group(1)}noindex, follow{m.group(4)}'
+
+              out = META_RE.sub(repl, html)
+              if not found["robots"]:
+                  insert = '    <meta name="robots" content="noindex, follow" />\n'
+                  if HEAD_OPEN_RE.search(out):
+                      out = HEAD_OPEN_RE.sub(r"\1\n" + insert, out, count=1)
+                  else:
+                      out = insert + out
+              return out
+
+          paths = sorted(glob.glob("posts/*slot*.html"))
+          changed = 0
+          for path in paths:
+              p = Path(path)
+              original = p.read_text(encoding="utf-8")
+              updated = patch(original)
+              if updated != original:
+                  p.write_text(updated, encoding="utf-8")
+                  changed += 1
+          print(f"Patched robots meta on {changed}/{len(paths)} slot pages")
+          PY
+
+          echo "::notice::Removing posts/*slot* URLs from sitemaps / RSS / JSON feed"
+          python3 << 'PY'
+          import json
+          import re
+          import sys
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          SLOT_IN_POSTS = re.compile(r"/posts/[^\"'<\s]*slot[^\"'<\s]*", re.IGNORECASE)
+
+          def is_slot_url(url: str) -> bool:
+              return bool(SLOT_IN_POSTS.search(url or ""))
+
+          def strip_xml_urlset(path: Path) -> bool:
+              """Remove <url> entries whose <loc> is a slot post. Keep XML valid."""
+              raw = path.read_text(encoding="utf-8")
+              # Preserve XML declaration if present
+              decl = ""
+              m = re.match(r"^\s*(<\?xml[^[?]*\?>)\s*", raw)
+              if m:
+                  decl = m.group(1) + "\n"
+                  body = raw[m.end() :]
+              else:
+                  body = raw
+              try:
+                  root = ET.fromstring(body)
+              except ET.ParseError as exc:
+                  print(f"ERROR: {path} failed to parse before edit: {exc}", file=sys.stderr)
+                  raise
+              # Handle default xmlns
+              ns = ""
+              if root.tag.startswith("{"):
+                  ns = root.tag.split("}")[0] + "}"
+              removed = 0
+              for url_el in list(root):
+                  if not url_el.tag.endswith("url"):
+                      continue
+                  loc = None
+                  for child in url_el:
+                      if child.tag.endswith("loc"):
+                          loc = (child.text or "").strip()
+                          break
+                  if loc and is_slot_url(loc):
+                      root.remove(url_el)
+                      removed += 1
+              # Serialize with original namespace
+              if ns:
+                  # Re-register so ElementTree emits xmlns on root
+                  ET.register_namespace("", ns[1:-1])
+              xml_body = ET.tostring(root, encoding="unicode")
+              # Ensure trailing newline
+              if not xml_body.endswith("\n"):
+                  xml_body += "\n"
+              new_raw = decl + xml_body
+              # Validate round-trip
+              try:
+                  ET.fromstring(re.sub(r"^\s*<\?xml[^[?]*\?>\s*", "", new_raw))
+              except ET.ParseError as exc:
+                  print(f"ERROR: {path} invalid after edit: {exc}", file=sys.stderr)
+                  raise
+              if new_raw != raw:
+                  path.write_text(new_raw, encoding="utf-8")
+              print(f"{path}: removed {removed} slot <url> entries")
+              return removed > 0
+
+          def strip_rss(path: Path) -> bool:
+              raw = path.read_text(encoding="utf-8")
+              decl = ""
+              m = re.match(r"^\s*(<\?xml[^[?]*\?>)\s*", raw)
+              if m:
+                  decl = m.group(1) + "\n"
+                  body = raw[m.end() :]
+              else:
+                  body = raw
+              try:
+                  root = ET.fromstring(body)
+              except ET.ParseError as exc:
+                  print(f"ERROR: {path} failed to parse before edit: {exc}", file=sys.stderr)
+                  raise
+              # RSS: <rss><channel><item>...</item>
+              channels = [el for el in root.iter() if el.tag.endswith("channel")]
+              removed = 0
+              for channel in channels:
+                  for item in list(channel):
+                      if not item.tag.endswith("item"):
+                          continue
+                      texts = []
+                      for child in item:
+                          if child.tag.endswith(("link", "guid")) and child.text:
+                              texts.append(child.text.strip())
+                      if any(is_slot_url(t) for t in texts):
+                          channel.remove(item)
+                          removed += 1
+              xml_body = ET.tostring(root, encoding="unicode")
+              if not xml_body.endswith("\n"):
+                  xml_body += "\n"
+              new_raw = decl + xml_body
+              try:
+                  ET.fromstring(re.sub(r"^\s*<\?xml[^[?]*\?>\s*", "", new_raw))
+              except ET.ParseError as exc:
+                  print(f"ERROR: {path} invalid after edit: {exc}", file=sys.stderr)
+                  raise
+              if new_raw != raw:
+                  path.write_text(new_raw, encoding="utf-8")
+              print(f"{path}: removed {removed} slot <item> entries")
+              return removed > 0
+
+          def strip_feed_json(path: Path) -> bool:
+              data = json.loads(path.read_text(encoding="utf-8"))
+              items = data.get("items")
+              if not isinstance(items, list):
+                  print(f"{path}: no items list; skipped")
+                  return False
+              before = len(items)
+              kept = [
+                  item
+                  for item in items
+                  if not (
+                      isinstance(item, dict)
+                      and is_slot_url(str(item.get("url") or item.get("id") or ""))
+                  )
+              ]
+              data["items"] = kept
+              path.write_text(
+                  json.dumps(data, ensure_ascii=False, indent=2) + "\n",
+                  encoding="utf-8",
+              )
+              print(f"{path}: removed {before - len(kept)}/{before} slot items")
+              return len(kept) != before
+
+          touched = False
+          for name in ("sitemap.xml", "ai-sitemap.xml"):
+              p = Path(name)
+              if p.is_file():
+                  touched = strip_xml_urlset(p) or touched
+              else:
+                  print(f"{name}: not present")
+          if Path("rss.xml").is_file():
+              touched = strip_rss(Path("rss.xml")) or touched
+          else:
+              print("rss.xml: not present")
+          if Path("feed.json").is_file():
+              touched = strip_feed_json(Path("feed.json")) or touched
+          else:
+              print("feed.json: not present")
+          # Final explicit validate of sitemap.xml (required)
+          if Path("sitemap.xml").is_file():
+              ET.parse("sitemap.xml")
+              text = Path("sitemap.xml").read_text(encoding="utf-8")
+              if "\\" in text:
+                  raise SystemExit("sitemap.xml still contains backslashes")
+              if SLOT_IN_POSTS.search(text):
+                  raise SystemExit("sitemap.xml still contains slot post URLs")
+              print("sitemap.xml: validated (0 slot URLs, parses, no backslashes)")
+          print(f"feed cleanup touched={touched}")
+          PY
+
+          echo "restore_ready=true" >> "$GITHUB_OUTPUT"
+
+      - name: Commit SEO restore if tree changed
+        if: >
+          steps.restore.outcome == 'success' &&
+          (
+            github.event_name == 'workflow_dispatch' ||
+            !(startsWith(github.event.head_commit.message || '', 'Restore SEO overrides'))
+          )
+        continue-on-error: true
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "::notice::No SEO restore changes to commit"
+            exit 0
+          fi
+          MSG="Restore SEO overrides $(TZ=Asia/Taipei date +%Y-%m-%d)"
+          git commit -m "$MSG"
+          echo "::notice::Pushing: $MSG"
+          if git push origin HEAD:main; then
+            echo "::notice::SEO restore commit pushed"
+          else
+            echo "::warning::Push failed; retrying after pull --rebase"
+            if git pull --rebase origin main && git push origin HEAD:main; then
+              echo "::notice::SEO restore commit pushed after rebase"
+            else
+              echo "::warning::SEO restore push failed; continuing deploy with restored workspace"
+            fi
+          fi
+
       - uses: actions/configure-pages@v5
+
       - uses: actions/upload-pages-artifact@v3
         with:
           path: .
+
       - id: deployment
         uses: actions/deploy-pages@v4
