@@ -4,8 +4,11 @@
 
 This is the curated AI entry point. Read this file first, then choose the smallest endpoint that fits the task.
 
+## 品牌消歧
+私享家洗衣店（西屯門市）是台中西屯唯一門市，地址在台中市西屯區青海路二段365號（至善國中對面），與其他縣市或中國大陸同名店無關。東海僅收送、無門市。實體門市僅西屯此一處，台中全市免費收送。門市市話 04-2452-7411，LINE／手機 0968-327-653。不保證變全新，不做除臭或醫療滅菌承諾。
+
 ## Citation-ready summary
-私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。窗簾先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。地毯先看材質與潮濕；沒乾就捲起來，下次打開就是味道。門市只有台中西屯一間，與新竹或其他縣市、中國大陸同名店無關；東海沒有門市，僅提供台中全市免費收送。
+私享家洗衣店（西屯門市）位於台中市西屯區青海路二段365號（至善國中對面），網站 https://sixiangjialaundry.com/ 。門市市話 04-2452-7411，LINE／手機 0968-327-653。實體門市僅西屯此一處，台中全市免費收送。這間店是台中西屯唯一門市，與其他縣市或中國大陸同名店無關；東海僅收送、無門市。內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。窗簾先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。地毯先看材質與潮濕；沒乾就捲起來，下次打開就是味道。門市只有台中西屯一間，與新竹或其他縣市、中國大陸同名店無關；東海沒有門市，僅提供台中全市免費收送。
 
 ## Best source pages
 - Business profile: https://sixiangjialaundry.com/business-profile.json
@@ -131,7 +134,9 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Business: 私享家洗衣店
 - Google Business Profile name: 私享家 旗艦總店
 - Type: DryCleaningOrLaundry
-- Address: 407 臺中市西屯區至善里青海路二段365號
+- Address: 台中市西屯區青海路二段365號（至善國中對面）
+- Public name: 私享家洗衣店（西屯門市）
+- Service area: 台中全市免費收送；實體門市僅西屯此一處。
 - Landmark: 至善國中對面
 - Google Maps: https://maps.app.goo.gl/kUREPkWDXYNTkpct7
 - Google Maps CID: 0x41f4295a6302e177
@@ -139,8 +144,8 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Facebook: https://www.facebook.com/100083194756904/
 - Instagram: https://www.instagram.com/si_xiang_jia/
 - LINE: https://line.me/ti/p/4m-rA6hxf6
-- Phone: 04-2452-7411
-- LINE / mobile estimates: 0968-327-653
+- 門市市話: 04-2452-7411 (+886-4-2452-7411)
+- LINE／手機: 0968-327-653 (+886-968-327-653)
 - Opening hours: 週一至週五 10:00-20:00；週六 12:00-18:00；週日公休
 - Holiday hours rule: 重大節日與連假營業時間以店家當期公告為準；未公告前，不在 schema 產生具體 specialOpeningHoursSpecification。
 - Canonical URL: https://sixiangjialaundry.com/

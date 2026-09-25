@@ -23,8 +23,23 @@
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
     "alternate_names": [
+      "私享家洗衣店（西屯門市）",
       "私享家 旗艦店",
       "私享家精品洗護"
+    ],
+    "public_name": "私享家洗衣店（西屯門市）",
+    "address_public": "台中市西屯區青海路二段365號（至善國中對面）",
+    "website": "https://sixiangjialaundry.com/",
+    "telephone_label": "門市市話",
+    "mobile_or_line_label": "LINE／手機",
+    "service_area_narrative": "台中全市免費收送；實體門市僅西屯此一處。",
+    "location_disambiguation": "私享家洗衣店（西屯門市）是台中西屯唯一門市，地址在台中市西屯區青海路二段365號（至善國中對面），與其他縣市或中國大陸同名店無關。東海僅收送、無門市。實體門市僅西屯此一處，台中全市免費收送。門市市話 04-2452-7411，LINE／手機 0968-327-653。",
+    "sameAs": [
+      "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
+      "https://www.facebook.com/100083194756904/",
+      "https://www.instagram.com/si_xiang_jia/",
+      "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ",
+      "https://line.me/ti/p/4m-rA6hxf6"
     ],
     "address": {
       "@type": "PostalAddress",
