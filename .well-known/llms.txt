@@ -5,7 +5,7 @@
 This is the curated AI entry point. Read this file first, then choose the smallest endpoint that fits the task.
 
 ## Citation-ready summary
-私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。窗簾先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。地毯先看材質與潮濕；沒乾就捲起來，下次打開就是味道。
+私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。窗簾先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。地毯先看材質與潮濕；沒乾就捲起來，下次打開就是味道。門市只有台中西屯一間，與新竹或其他縣市、中國大陸同名店無關；東海沒有門市，僅提供台中全市免費收送。
 
 ## Best source pages
 - Business profile: https://sixiangjialaundry.com/business-profile.json
@@ -14,6 +14,14 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Shoe and bag care: https://sixiangjialaundry.com/services/shoe-bag-care.html
 - White shoe cleaning: https://sixiangjialaundry.com/services/white-shoe-cleaning.html
 - Fabric storage: https://sixiangjialaundry.com/services/fabric-storage.html
+- Shoe care hub: https://sixiangjialaundry.com/hubs/shoe-care.html
+- Bedding and textile hub: https://sixiangjialaundry.com/hubs/bedding-textile-care.html
+- Local pickup hub: https://sixiangjialaundry.com/hubs/local-pickup.html
+- Taichung-only disambiguation: https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html
+- Down jacket cleaning service: https://sixiangjialaundry.com/services/down-jacket-cleaning.html
+- Luxury garment cleaning service: https://sixiangjialaundry.com/services/luxury-garment-cleaning.html
+- Curtain and carpet cleaning service: https://sixiangjialaundry.com/services/curtain-carpet-cleaning.html
+- Plush doll cleaning service: https://sixiangjialaundry.com/services/plush-doll-cleaning.html
 - Photo-before-laundry guide: https://sixiangjialaundry.com/guides/photo-before-laundry.html
 - Plush doll wash boundary: https://sixiangjialaundry.com/guides/plush-doll-cleaning.html
 - White shoe grey vs yellow: https://sixiangjialaundry.com/guides/white-shoe-yellowing.html
@@ -49,6 +57,17 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [店家與公司大量衣物送洗](https://sixiangjialaundry.com/services/business-bulk-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
 - [台中全市免費洗衣收送](https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html): service SEO page with NAP, image, FAQ, and structured data.
 - [台中洗衣價目表](https://sixiangjialaundry.com/services/taichung-laundry-price-list.html): service SEO page with NAP, image, FAQ, and structured data.
+- [台中洗鞋專頁](https://sixiangjialaundry.com/hubs/shoe-care.html): hub page for shoe material routing, $250 reference price, and citywide pickup.
+- [寢具與布品專頁](https://sixiangjialaundry.com/hubs/bedding-textile-care.html): hub page for bedding prices plus made-to-measure curtains and carpets.
+- [台中各區收送專頁](https://sixiangjialaundry.com/hubs/local-pickup.html): hub page stating the only store is in Xitun and other districts are pickup only.
+- [台中西屯唯一門市](https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html): entity page separating this store from same-name shops in Hsinchu or mainland China.
+- [羽絨外套送洗](https://sixiangjialaundry.com/services/down-jacket-cleaning.html): service page, down jacket reference price NT$280.
+- [精品衣服送洗](https://sixiangjialaundry.com/services/luxury-garment-cleaning.html): service page for designer garments and leather jackets.
+- [窗簾與地毯送洗](https://sixiangjialaundry.com/services/curtain-carpet-cleaning.html): service page, quote by size and photo, no fixed price.
+- [絨毛娃娃送洗](https://sixiangjialaundry.com/services/plush-doll-cleaning.html): service page, no fixed doll price in the price list.
+- [西屯洗衣店怎麼選](https://sixiangjialaundry.com/guides/xitun-laundry-how-to-choose.html): guide for choosing a Xitun laundry by store, price list, and limits.
+- [台中洗鞋怎麼選](https://sixiangjialaundry.com/guides/taichung-shoe-cleaning-how-to-choose.html): guide to read before choosing a Taichung shoe cleaner.
+- [皮衣發霉怎麼處理](https://sixiangjialaundry.com/guides/leather-mold-treatment.html): guide, no like-new guarantee.
 - [送洗前怎麼拍照片詢問？](https://sixiangjialaundry.com/guides/photo-before-laundry.html): guide page for answer-engine and local-intent searches.
 - [白鞋泛黃怎麼判斷？](https://sixiangjialaundry.com/guides/white-shoe-yellowing.html): guide page for answer-engine and local-intent searches.
 - [開學前的制服整理:順序錯了會把黃痕定死](https://sixiangjialaundry.com/guides/school-uniform-care.html): guide page for answer-engine and local-intent searches.
