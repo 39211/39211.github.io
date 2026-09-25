@@ -274,6 +274,8 @@
         "https://sixiangjialaundry.com/assets/2026-09-23/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-23/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-09-24/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-25/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -467,7 +469,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-09-24"
+      "dateModified": "2026-09-26"
     },
     {
       "@type": "FAQPage",
@@ -528,7 +530,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-24",
+      "dateModified": "2026-09-26",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -12874,6 +12876,73 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-24/slot-01.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-24/slot-01.png",
       "caption": "窗簾下緣灰塵與空氣味，家洗為何傷纖維",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-25.json#post-2026-09-25-slot-01",
+      "headline": "2026-09-25 11:30 中秋當天：烤肉後外套與布品的門市判斷",
+      "text": "中秋當天：烤肉後外套與布品的門市判斷。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張傳 LINE，我們幫你判斷。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #中秋節 #外套清洗 #台中洗衣店\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）",
+      "datePublished": "2026-09-25T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#中秋節",
+        "#外套清洗",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-25.json#post-2026-09-25-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-25.json#post-2026-09-25-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-25.json#post-2026-09-25-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-25/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-25/slot-01.png",
+      "caption": "中秋當天：烤肉後外套與布品的門市判斷",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-26.json#post-2026-09-26-slot-01",
+      "headline": "2026-09-26 11:30 皮鞋淋雨後先別只擦乾：先看縫線與內裡潮痕",
+      "text": "皮鞋淋雨後先別只擦乾：先看縫線與內裡潮痕。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n想問問看能處理到什麼程度？拍一張傳 LINE就可以。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #台中洗衣店\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）",
+      "datePublished": "2026-09-26T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗鞋",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-26.json#post-2026-09-26-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-26.json#post-2026-09-26-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-26.json#post-2026-09-26-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
+      "caption": "皮鞋淋雨後先別只擦乾：先看縫線與內裡潮痕",
       "inLanguage": "zh-Hant"
     }
   ]

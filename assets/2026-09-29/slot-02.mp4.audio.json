@@ -1,0 +1,10 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "edge-tts zh-TW-HsiaoChenNeural rate +10%",
+  "narration_lines": "narration-lines-tw.json (13 lines), subtitles subs-v7.ass burned in",
+  "foley": "synthetic work sounds matched to each action; every Grok clip was stripped with -an before assembly",
+  "assembled_by": "closed-loop-7d/0929-tote/make_v7.py + scripts/reel-v3/build_fluid_cut.py (edit-v7.json)"
+}
