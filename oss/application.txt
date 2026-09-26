@@ -1,0 +1,22 @@
+Codex for Open Source — copy-paste fields
+Official form: https://openai.com/form/codex-for-oss/
+Repository: https://github.com/39211/laundry-social-auto-poster
+Role: Primary maintainer
+
+Do not paste ChatGPT account email or Organization ID into a public page.
+Those stay in the official form only.
+
+----- Why does this repository qualify? -----
+479 / 500 characters
+
+I run a laundry shop in Taiwan and am the primary maintainer of its public TypeScript automation project, with 57 merged PRs. It covers approval-gated publishing, retry handling, media validation and auditable analytics. I am seeking support to turn these reliability lessons into documented safeguards and reproducible tests for developers serving small, owner-operated businesses. External adoption is early; active maintenance and a reuse plan are the basis of my application.
+
+----- How will you use API credits for your project? -----
+477 / 500 characters
+
+I would use credits to build API-backed PR triage, failure reproduction and regression-test generation for this repo. Priorities are duplicate-post prevention, approval integrity and truthful handling of missing analytics. Outputs would be public tests, reproducers and maintainer documentation, with human review before merging. I would track verified findings and review time, and exclude customer data, credentials and commercial content generation from the funded workflow.
+
+----- Anything else we should know? -----
+435 / 500 characters
+
+Codex already reviews this repo: PR #66 flagged duplicate-publication risk; PR #55 records a review-usage limit; PR #84 shows post-failure verification. A credential-free demo, 25 regression cases and EN/zh-Hant onboarding now live in-repo so others can rerun approval, retry and missing-analytics guards. Evidence: https://github.com/39211/laundry-social-auto-poster/pull/66 https://github.com/39211/laundry-social-auto-poster/pull/55
