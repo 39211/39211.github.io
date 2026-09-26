@@ -276,6 +276,7 @@
         "https://sixiangjialaundry.com/assets/2026-09-24/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-25/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-27/slot-01.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -469,7 +470,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-09-26"
+      "dateModified": "2026-09-27"
     },
     {
       "@type": "FAQPage",
@@ -530,7 +531,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-26",
+      "dateModified": "2026-09-27",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -12943,6 +12944,38 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
       "caption": "皮鞋淋雨後先別只擦乾：先看縫線與內裡潮痕",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-27.json#post-2026-09-27-slot-01",
+      "headline": "2026-09-27 11:30 精品包最怕邊角：先看護角磨損再決定",
+      "text": "精品包最怕邊角：先看護角磨損再決定。\n\n包放地上、提著走路擦到腿、塞進櫃子推來推去，最先磨到的都是底下四個角。\n\n拿起來先看角是哪一種：\n・黑黑灰灰、皮面還完整：多半是髒，清潔可以改善。\n・顏色磨掉、露出淺色的底：這是磨損不是髒，洗不回來，要另外補色。\n・皮面磨破、邊油裂開起毛：已經不是清潔能處理的，要現場看。\n\n先別拿濕布或去漬筆用力擦，也別自己塗鞋油、麥克筆，顏色會越弄越花，之後更難補。\n\n在店裡，我們先清掉表面的髒；磨掉顏色的地方，調色對到原本的顏色再補上去；磨破的部分要看過才知道能做到哪裡，不能處理也會直接跟你說。\n\n把包的四個角各拍一張傳 LINE，先問再決定。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣精洗 #台中免費收送 #材質判斷 #台中洗衣",
+      "datePublished": "2026-09-27T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣精洗",
+        "#台中免費收送",
+        "#材質判斷",
+        "#台中洗衣"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-27.json#post-2026-09-27-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-27.json#post-2026-09-27-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-27.json#post-2026-09-27-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-27/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-27/slot-01.png",
+      "caption": "精品包最怕邊角：先看護角磨損再決定",
       "inLanguage": "zh-Hant"
     }
   ]

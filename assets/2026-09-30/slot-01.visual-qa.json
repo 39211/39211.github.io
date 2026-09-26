@@ -1,0 +1,76 @@
+{
+  "topic": "西屯／東海洗鞋：網布發黃先看中底交界",
+  "date": "2026-09-30",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張都顯示灰白色網布運動鞋，搭配淺色中底與深色標誌，鞋款、顏色家族和粗略材質一致。",
+    "SCENE": "第1張是潮濕的車輛踏板，第2、3張是在洗衣工作區的檯面，第4張是黑色棚拍背景，場景不同。"
+  },
+  "frames_used": [
+    "IMAGE_1",
+    "IMAGE_2",
+    "IMAGE_3",
+    "IMAGE_4"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-30\\slot-01.png",
+      "canary": "2YPC",
+      "sha256": "749b1b154710a1e3564e975486df94c2d6bbbde332ba881f27bbc0fdc1295c46"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-30\\slot-01-slide-02.png",
+      "canary": "GG7U",
+      "sha256": "63bb25e20401a3275fc335e0dd96485b852f310cf5b995a2cacd74fe1997debe"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-30\\slot-01-slide-03.png",
+      "canary": "GBVL",
+      "sha256": "7714e1ce09738ce86e27173abf97fd4c1ed7309570d1e7ea1716a7b6cd176ea3"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-30\\slot-01-slide-04.png",
+      "canary": "K2HV",
+      "sha256": "39270050061a67ef547ed540551c1c85774218948c29bef69f23a0e531e87bd5"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-30\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-30\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-30\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-09-30\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "2YPC",
+    "IMAGE_2": "GG7U",
+    "IMAGE_3": "GBVL",
+    "IMAGE_4": "K2HV"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "2YPC",
+    "IMAGE_2": "GG7U",
+    "IMAGE_3": "GBVL",
+    "IMAGE_4": "K2HV"
+  },
+  "prompt_hash": "deb373b33a856272967dd2b15010fd830b0375db33ca4acb9feba35559342b4b",
+  "run_id": "carousel-qa-1790461808781",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-26T22:33:35.561Z",
+  "mode": "warn",
+  "verdict": "FAIL",
+  "fail_class": "content"
+}

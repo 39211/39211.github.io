@@ -1,73 +1,71 @@
 {
-  "generated_at": "2026-09-26T14:28:57.742Z",
+  "generated_at": "2026-09-26T22:33:37.641Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
   "base_url": "https://sixiangjialaundry.com",
   "base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "date": "2026-09-26",
+  "date": "2026-09-27",
   "posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-26.json#post-2026-09-26-slot-01",
-      "date": "2026-09-26",
-      "date_published": "2026-09-26T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-27.json#post-2026-09-27-slot-01",
+      "date": "2026-09-27",
+      "date_published": "2026-09-27T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
       "category": "知識文",
-      "title": "2026-09-26 11:30 皮鞋淋雨後先別只擦乾：先看縫線與內裡潮痕",
-      "topic": "皮鞋淋雨後先別只擦乾：先看縫線與內裡潮痕",
+      "title": "2026-09-27 11:30 精品包最怕邊角：先看護角磨損再決定",
+      "topic": "精品包最怕邊角：先看護角磨損再決定",
       "visual_route": "shop-inspection",
-      "traffic_route": "trust-reset",
+      "traffic_route": "share-worthy-care",
       "content_role": "reach-answer",
-      "search_intent": "aftercare",
+      "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中洗鞋",
-        "西屯洗鞋",
-        "逢甲洗鞋",
-        "台中洗鞋店",
-        "台中白鞋清潔",
-        "球鞋清洗台中"
+        "台中精品乾洗",
+        "台中名牌衣物清潔",
+        "西屯精品乾洗",
+        "精緻乾洗",
+        "精品衣物怎麼洗",
+        "白鞋泛黃怎麼辦"
       ],
-      "evidence_type": "customer-question",
+      "evidence_type": "first-party-inspection",
       "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗鞋",
-        "#台中洗衣店"
+        "#私享家洗衣精洗",
+        "#台中免費收送",
+        "#材質判斷",
+        "#台中洗衣"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-09-26/slot-01.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
+      "image_path": "assets/2026-09-27/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-09-27/slot-01.png",
       "image_paths": [
-        "assets/2026-09-26/slot-01.png",
-        "assets/2026-09-26/slot-01-slide-02.png",
-        "assets/2026-09-26/slot-01-slide-03.png",
-        "assets/2026-09-26/slot-01-slide-04.png"
+        "assets/2026-09-27/slot-01.png",
+        "assets/2026-09-27/slot-01-slide-02.png",
+        "assets/2026-09-27/slot-01-slide-03.png",
+        "assets/2026-09-27/slot-01-slide-04.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-09-26/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-09-26/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-09-26/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-09-27/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-27/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-27/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-09-27/slot-01-slide-04.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_path": "",
       "video_url": "",
-      "calendar_path": "content-calendar/2026-09-26.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-26.json",
-      "article_path": "posts/2026-09-26-slot-01.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-26-slot-01.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-26.json#post-2026-09-26-slot-01",
-      "facebook_caption": "皮鞋淋雨後先別只擦乾：先看縫線與內裡潮痕。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n想問問看能處理到什麼程度？拍一張傳 LINE就可以。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #台中洗衣店\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）",
-      "instagram_caption": "皮鞋淋雨後先別只擦乾：先看縫線與內裡潮痕。\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n想問問看能處理到什麼程度？拍一張私訊就可以。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #台中洗衣店\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）"
+      "calendar_path": "content-calendar/2026-09-27.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-27.json",
+      "article_path": "posts/2026-09-27-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-09-27-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-27.json#post-2026-09-27-slot-01",
+      "facebook_caption": "精品包最怕邊角：先看護角磨損再決定。\n\n包放地上、提著走路擦到腿、塞進櫃子推來推去，最先磨到的都是底下四個角。\n\n拿起來先看角是哪一種：\n・黑黑灰灰、皮面還完整：多半是髒，清潔可以改善。\n・顏色磨掉、露出淺色的底：這是磨損不是髒，洗不回來，要另外補色。\n・皮面磨破、邊油裂開起毛：已經不是清潔能處理的，要現場看。\n\n先別拿濕布或去漬筆用力擦，也別自己塗鞋油、麥克筆，顏色會越弄越花，之後更難補。\n\n在店裡，我們先清掉表面的髒；磨掉顏色的地方，調色對到原本的顏色再補上去；磨破的部分要看過才知道能做到哪裡，不能處理也會直接跟你說。\n\n把包的四個角各拍一張傳 LINE，先問再決定。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣精洗 #台中免費收送 #材質判斷 #台中洗衣",
+      "instagram_caption": "精品包最怕邊角：先看護角磨損再決定。\n\n包放地上、提著走路擦到腿、塞進櫃子推來推去，最先磨到的都是底下四個角。\n\n拿起來先看角是哪一種：\n・黑黑灰灰、皮面還完整：多半是髒，清潔可以改善。\n・顏色磨掉、露出淺色的底：這是磨損不是髒，洗不回來，要另外補色。\n・皮面磨破、邊油裂開起毛：已經不是清潔能處理的，要現場看。\n\n先別拿濕布或去漬筆用力擦，也別自己塗鞋油、麥克筆，顏色會越弄越花，之後更難補。\n\n在店裡，我們先清掉表面的髒；磨掉顏色的地方，調色對到原本的顏色再補上去；磨破的部分要看過才知道能做到哪裡，不能處理也會直接跟你說。\n\n把包的四個角各拍一張傳 LINE，先問再決定。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣精洗 #台中免費收送 #材質判斷 #台中洗衣"
     }
   ]
 }
