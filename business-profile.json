@@ -2,7 +2,6 @@
   "name": "私享家洗衣店",
   "google_business_profile_name": "私享家 旗艦總店",
   "alternate_names": [
-    "私享家洗衣店（西屯門市）",
     "私享家 旗艦店",
     "私享家精品洗護"
   ],
@@ -16,7 +15,6 @@
   },
   "address_text": "407 臺中市西屯區至善里青海路二段365號",
   "landmark": "至善國中對面",
-  "location_disambiguation": "私享家洗衣店（西屯門市）是台中西屯唯一門市，地址在台中市西屯區青海路二段365號（至善國中對面），與其他縣市或中國大陸同名店無關。東海僅收送、無門市。實體門市僅西屯此一處，台中全市免費收送。門市市話 04-2452-7411，LINE／手機 0968-327-653。",
   "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
   "google_maps_feature_id": "0x34691713872dd6f5:0x41f4295a6302e177",
   "google_maps_cid": "0x41f4295a6302e177",
@@ -79,8 +77,7 @@
     "Google Maps short link provided by owner; resolved name/address and Maps feature id were used for business identity.",
     "Public Google Maps page exposed Maps feature id/CID, but did not expose a Google Places API place_id; CID is stored separately and not treated as place_id.",
     "Facebook canonical page, Instagram handle, phone, mobile/LINE, official LINE URL, and opening hours were cross-checked from public Facebook/Instagram search results on 2026-07-02.",
-    "Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.",
-    "2026-09-26 owner lock: public landline is 04-2452-7411; LINE/mobile display is 0968-327-653 (line_id stays unhyphenated 0968327653). One Xitun storefront; citywide Taichung pickup; no Donghai store; no 10km radius copy."
+    "Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified."
   ],
   "verification_status": {
     "name_address_map": "owner_provided_google_maps_link",
@@ -92,18 +89,5 @@
     "holiday_hours_rule": "owner_rule_configured",
     "holiday_hours_overrides": "not_configured"
   },
-  "youtube_url": "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ",
-  "public_name": "私享家洗衣店（西屯門市）",
-  "address_public": "台中市西屯區青海路二段365號（至善國中對面）",
-  "website": "https://sixiangjialaundry.com/",
-  "telephone_label": "門市市話",
-  "mobile_or_line_label": "LINE／手機",
-  "service_area_narrative": "台中全市免費收送；實體門市僅西屯此一處。",
-  "sameAs": [
-    "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
-    "https://www.facebook.com/100083194756904/",
-    "https://www.instagram.com/si_xiang_jia/",
-    "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ",
-    "https://line.me/ti/p/4m-rA6hxf6"
-  ]
+  "youtube_url": "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ"
 }

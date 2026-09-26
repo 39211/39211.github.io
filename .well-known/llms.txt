@@ -4,11 +4,8 @@
 
 This is the curated AI entry point. Read this file first, then choose the smallest endpoint that fits the task.
 
-## 品牌消歧
-私享家洗衣店（西屯門市）是台中西屯唯一門市，地址在台中市西屯區青海路二段365號（至善國中對面），與其他縣市或中國大陸同名店無關。東海僅收送、無門市。實體門市僅西屯此一處，台中全市免費收送。門市市話 04-2452-7411，LINE／手機 0968-327-653。不保證變全新，不做除臭或醫療滅菌承諾。
-
 ## Citation-ready summary
-私享家洗衣店（西屯門市）位於台中市西屯區青海路二段365號（至善國中對面），網站 https://sixiangjialaundry.com/ 。門市市話 04-2452-7411，LINE／手機 0968-327-653。實體門市僅西屯此一處，台中全市免費收送。這間店是台中西屯唯一門市，與其他縣市或中國大陸同名店無關；東海僅收送、無門市。內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。窗簾先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。地毯先看材質與潮濕；沒乾就捲起來，下次打開就是味道。門市只有台中西屯一間，與新竹或其他縣市、中國大陸同名店無關；東海沒有門市，僅提供台中全市免費收送。
+私享家洗衣店位於407 臺中市西屯區至善里青海路二段365號，主要服務台中西屯與青海路二段附近客人，內容涵蓋衣物洗護、鞋包清潔、白鞋清潔與布品收納。客人可先透過 LINE 傳照片，由門市依材質、髒污位置、濕氣與保存狀態做初步判斷；網站不提供未驗證價格、不保證完全洗白或完全去除所有痕跡。娃娃可以洗，但不能亂洗；怕的是脫水結塊與五官脫落，要先固定再手洗。白鞋灰多半是髒、可清；黃在膠邊是氧化，只能淡化，不保證回白。行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。窗簾先看布料與軌道；尺寸不同價不同，拍照比先問固定價準。地毯先看材質與潮濕；沒乾就捲起來，下次打開就是味道。
 
 ## Best source pages
 - Business profile: https://sixiangjialaundry.com/business-profile.json
@@ -17,14 +14,6 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Shoe and bag care: https://sixiangjialaundry.com/services/shoe-bag-care.html
 - White shoe cleaning: https://sixiangjialaundry.com/services/white-shoe-cleaning.html
 - Fabric storage: https://sixiangjialaundry.com/services/fabric-storage.html
-- Shoe care hub: https://sixiangjialaundry.com/hubs/shoe-care.html
-- Bedding and textile hub: https://sixiangjialaundry.com/hubs/bedding-textile-care.html
-- Local pickup hub: https://sixiangjialaundry.com/hubs/local-pickup.html
-- Taichung-only disambiguation: https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html
-- Down jacket cleaning service: https://sixiangjialaundry.com/services/down-jacket-cleaning.html
-- Luxury garment cleaning service: https://sixiangjialaundry.com/services/luxury-garment-cleaning.html
-- Curtain and carpet cleaning service: https://sixiangjialaundry.com/services/curtain-carpet-cleaning.html
-- Plush doll cleaning service: https://sixiangjialaundry.com/services/plush-doll-cleaning.html
 - Photo-before-laundry guide: https://sixiangjialaundry.com/guides/photo-before-laundry.html
 - Plush doll wash boundary: https://sixiangjialaundry.com/guides/plush-doll-cleaning.html
 - White shoe grey vs yellow: https://sixiangjialaundry.com/guides/white-shoe-yellowing.html
@@ -60,17 +49,6 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [店家與公司大量衣物送洗](https://sixiangjialaundry.com/services/business-bulk-laundry.html): service SEO page with NAP, image, FAQ, and structured data.
 - [台中全市免費洗衣收送](https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html): service SEO page with NAP, image, FAQ, and structured data.
 - [台中洗衣價目表](https://sixiangjialaundry.com/services/taichung-laundry-price-list.html): service SEO page with NAP, image, FAQ, and structured data.
-- [台中洗鞋專頁](https://sixiangjialaundry.com/hubs/shoe-care.html): hub page for shoe material routing, $250 reference price, and citywide pickup.
-- [寢具與布品專頁](https://sixiangjialaundry.com/hubs/bedding-textile-care.html): hub page for bedding prices plus made-to-measure curtains and carpets.
-- [台中各區收送專頁](https://sixiangjialaundry.com/hubs/local-pickup.html): hub page stating the only store is in Xitun and other districts are pickup only.
-- [台中西屯唯一門市](https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html): entity page separating this store from same-name shops in Hsinchu or mainland China.
-- [羽絨外套送洗](https://sixiangjialaundry.com/services/down-jacket-cleaning.html): service page, down jacket reference price NT$280.
-- [精品衣服送洗](https://sixiangjialaundry.com/services/luxury-garment-cleaning.html): service page for designer garments and leather jackets.
-- [窗簾與地毯送洗](https://sixiangjialaundry.com/services/curtain-carpet-cleaning.html): service page, quote by size and photo, no fixed price.
-- [絨毛娃娃送洗](https://sixiangjialaundry.com/services/plush-doll-cleaning.html): service page, no fixed doll price in the price list.
-- [西屯洗衣店怎麼選](https://sixiangjialaundry.com/guides/xitun-laundry-how-to-choose.html): guide for choosing a Xitun laundry by store, price list, and limits.
-- [台中洗鞋怎麼選](https://sixiangjialaundry.com/guides/taichung-shoe-cleaning-how-to-choose.html): guide to read before choosing a Taichung shoe cleaner.
-- [皮衣發霉怎麼處理](https://sixiangjialaundry.com/guides/leather-mold-treatment.html): guide, no like-new guarantee.
 - [送洗前怎麼拍照片詢問？](https://sixiangjialaundry.com/guides/photo-before-laundry.html): guide page for answer-engine and local-intent searches.
 - [白鞋泛黃怎麼判斷？](https://sixiangjialaundry.com/guides/white-shoe-yellowing.html): guide page for answer-engine and local-intent searches.
 - [開學前的制服整理:順序錯了會把黃痕定死](https://sixiangjialaundry.com/guides/school-uniform-care.html): guide page for answer-engine and local-intent searches.
@@ -85,11 +63,11 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [襯衫清洗與西裝乾洗](https://sixiangjialaundry.com/guides/shirt-suit-dry-cleaning.html): guide page for answer-engine and local-intent searches.
 - [台中棉被清洗：潮味來自沒乾透的中間那層](https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html): guide page for answer-engine and local-intent searches.
 - [台中哪裡洗絨毛娃娃？先看能不能洗](https://sixiangjialaundry.com/guides/plush-doll-cleaning.html): guide page for answer-engine and local-intent searches.
-- [台中精品衣服怎麼送洗？名牌服飾精緻乾洗](https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html): guide page for answer-engine and local-intent searches.
+- [精品名牌與精緻乾洗](https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html): guide page for answer-engine and local-intent searches.
 - [精品鞋・名牌鞋：先看材質與飾件](https://sixiangjialaundry.com/guides/luxury-designer-shoe-care.html): guide page for answer-engine and local-intent searches.
 - [台中洗衣、洗鞋、洗包與免費收送怎麼找？](https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html): guide page for answer-engine and local-intent searches.
 - [送洗順便改衣服，可以一起處理嗎？](https://sixiangjialaundry.com/guides/clothing-alteration-with-laundry.html): guide page for answer-engine and local-intent searches.
-- [台中行李箱清洗服務：輪子、底板與箱面怎麼處理](https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html): guide page for answer-engine and local-intent searches.
+- [行李箱輪子與底板：收進櫃子前先看這裡](https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html): guide page for answer-engine and local-intent searches.
 - [台中洗窗簾：先看布料與軌道，再決定怎麼送](https://sixiangjialaundry.com/guides/curtain-cleaning.html): guide page for answer-engine and local-intent searches.
 - [台中洗地毯：先看材質與潮濕，再決定要不要捲](https://sixiangjialaundry.com/guides/carpet-cleaning.html): guide page for answer-engine and local-intent searches.
 - [逢甲洗衣收送：宿舍與租屋怎麼約](https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html): local page for answer-engine and local-intent searches.
@@ -132,9 +110,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Business: 私享家洗衣店
 - Google Business Profile name: 私享家 旗艦總店
 - Type: DryCleaningOrLaundry
-- Address: 台中市西屯區青海路二段365號（至善國中對面）
-- Public name: 私享家洗衣店（西屯門市）
-- Service area: 台中全市免費收送；實體門市僅西屯此一處。
+- Address: 407 臺中市西屯區至善里青海路二段365號
 - Landmark: 至善國中對面
 - Google Maps: https://maps.app.goo.gl/kUREPkWDXYNTkpct7
 - Google Maps CID: 0x41f4295a6302e177
@@ -142,8 +118,8 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Facebook: https://www.facebook.com/100083194756904/
 - Instagram: https://www.instagram.com/si_xiang_jia/
 - LINE: https://line.me/ti/p/4m-rA6hxf6
-- 門市市話: 04-2452-7411 (+886-4-2452-7411)
-- LINE／手機: 0968-327-653 (+886-968-327-653)
+- Phone: 04-2452-7411
+- LINE / mobile estimates: 0968-327-653
 - Opening hours: 週一至週五 10:00-20:00；週六 12:00-18:00；週日公休
 - Holiday hours rule: 重大節日與連假營業時間以店家當期公告為準；未公告前，不在 schema 產生具體 specialOpeningHoursSpecification。
 - Canonical URL: https://sixiangjialaundry.com/
@@ -164,6 +140,22 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
 ## Published Posts
+- [2026-09-26 11:30 皮鞋淋雨後先別只擦乾：先看縫線與內裡潮痕](https://sixiangjialaundry.com/posts/2026-09-26-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=trust-reset; search_intent=aftercare
+  target_queries: 台中洗鞋 | 西屯洗鞋 | 逢甲洗鞋 | 台中洗鞋店 | 台中白鞋清潔 | 球鞋清洗台中
+  evidence_type: customer-question
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #台中洗衣店
+  image: https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-26.json
+- [2026-09-25 11:30 中秋當天：烤肉後外套與布品的門市判斷](https://sixiangjialaundry.com/posts/2026-09-25-slot-01.html)
+  platform targets: facebook, instagram
+  routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=problem-diagnosis
+  target_queries: 台中棉被清洗 | 台中床組清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中外套清洗 | 棉被有潮味怎麼辦
+  evidence_type: first-party-inspection
+  hashtags: #私享家洗衣店 #台中西屯洗衣店 #中秋節 #外套清洗 #台中洗衣店
+  image: https://sixiangjialaundry.com/assets/2026-09-25/slot-01.png
+  calendar: https://sixiangjialaundry.com/content-calendar/2026-09-25.json
 - [2026-09-24 11:30 窗簾下緣灰塵與空氣味，家洗為何傷纖維](https://sixiangjialaundry.com/posts/2026-09-24-slot-01.html)
   platform targets: facebook, instagram
   routes: content_role=reach-answer; visual_route=shop-inspection; traffic_route=value-prop-lead; search_intent=aftercare
