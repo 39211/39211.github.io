@@ -103,20 +103,8 @@
         "url": "https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html"
       },
       {
-        "label": "Down jacket service",
-        "url": "https://sixiangjialaundry.com/services/down-jacket-cleaning.html"
-      },
-      {
         "label": "Luxury garment service",
         "url": "https://sixiangjialaundry.com/services/luxury-garment-cleaning.html"
-      },
-      {
-        "label": "Curtain and carpet service",
-        "url": "https://sixiangjialaundry.com/services/curtain-carpet-cleaning.html"
-      },
-      {
-        "label": "Plush doll service",
-        "url": "https://sixiangjialaundry.com/services/plush-doll-cleaning.html"
       }
     ],
     "do_not_infer_rules": [
@@ -7473,7 +7461,7 @@
       "type": "service_summary",
       "question": "羽絨外套清洗多少錢？",
       "answer": "私享家洗衣店（台中西屯）羽絨外套水洗參考價 $280、羽絨背心 $200。不保證恢復全新蓬鬆，不承諾除味。羽絨羊毛被是 $800，與外套分開計價。",
-      "source_url": "https://sixiangjialaundry.com/services/down-jacket-cleaning.html",
+      "source_url": "https://sixiangjialaundry.com/guides/down-jacket-cleaning.html",
       "local_intent": "台中 羽絨外套 清洗 價格",
       "keywords": [
         "羽絨外套清洗",
@@ -7496,7 +7484,7 @@
       "type": "service_faq",
       "question": "羽絨外套洗完一定會蓬起來嗎？",
       "answer": "不保證恢復全新蓬鬆。填充若已流失或受損，只能說明可改善範圍。",
-      "source_url": "https://sixiangjialaundry.com/services/down-jacket-cleaning.html#faq",
+      "source_url": "https://sixiangjialaundry.com/guides/down-jacket-cleaning.html#faq",
       "local_intent": "羽絨外套 蓬鬆",
       "keywords": [
         "羽絨結塊"
@@ -7563,7 +7551,7 @@
       "type": "service_summary",
       "question": "台中洗窗簾、洗地毯怎麼估價？",
       "answer": "私享家洗衣店（台中西屯）依尺寸與照片報價，價目表沒有窗簾或地毯固定價。不保證變全新，不做除味或消毒承諾。東海無門市，全市可免費收送。",
-      "source_url": "https://sixiangjialaundry.com/services/curtain-carpet-cleaning.html",
+      "source_url": "https://sixiangjialaundry.com/guides/curtain-cleaning.html",
       "local_intent": "台中 洗窗簾 洗地毯 價格",
       "keywords": [
         "窗簾清洗",
@@ -7586,7 +7574,7 @@
       "type": "service_faq",
       "question": "窗簾有單一件價嗎？",
       "answer": "沒有。請先傳整幅與大約尺寸，私享家洗衣店（台中西屯）再報價。",
-      "source_url": "https://sixiangjialaundry.com/services/curtain-carpet-cleaning.html#faq",
+      "source_url": "https://sixiangjialaundry.com/guides/curtain-cleaning.html#faq",
       "local_intent": "洗窗簾 固定價",
       "keywords": [
         "依尺寸報價"
@@ -7608,7 +7596,7 @@
       "type": "service_summary",
       "question": "絨毛娃娃送洗多少錢？",
       "answer": "價目表沒有娃娃固定價。私享家洗衣店（台中西屯）依照片、填充與配件報價。不保證變全新，不承諾除味，也不建議直接丟洗衣機。",
-      "source_url": "https://sixiangjialaundry.com/services/plush-doll-cleaning.html",
+      "source_url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
       "local_intent": "台中 絨毛娃娃 清洗 價格",
       "keywords": [
         "娃娃清洗",
@@ -7631,7 +7619,7 @@
       "type": "service_faq",
       "question": "娃娃可以保證除味或消毒嗎？",
       "answer": "不能。私享家不做除臭、除味、消毒或醫療滅菌承諾。",
-      "source_url": "https://sixiangjialaundry.com/services/plush-doll-cleaning.html#faq",
+      "source_url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#faq",
       "local_intent": "娃娃 除味 消毒",
       "keywords": [
         "絨毛娃娃"

@@ -194,10 +194,7 @@
       "business-bulk-laundry": "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
       "taichung-citywide-laundry-pickup": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
       "taichung-laundry-price-list": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
-      "plush-doll-cleaning": "https://sixiangjialaundry.com/services/plush-doll-cleaning.html",
-      "luxury-garment-cleaning": "https://sixiangjialaundry.com/services/luxury-garment-cleaning.html",
-      "curtain-carpet-cleaning": "https://sixiangjialaundry.com/services/curtain-carpet-cleaning.html",
-      "down-jacket-cleaning": "https://sixiangjialaundry.com/services/down-jacket-cleaning.html"
+      "luxury-garment-cleaning": "https://sixiangjialaundry.com/services/luxury-garment-cleaning.html"
     },
     "hub_pages": {
       "bag-care": "https://sixiangjialaundry.com/hubs/bag-care.html",
@@ -260,7 +257,6 @@
       "synthetic-vs-leather-handle": "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html",
       "rainy-bag-care": "https://sixiangjialaundry.com/guides/rainy-bag-care.html",
       "xitun-laundry-how-to-choose": "https://sixiangjialaundry.com/guides/xitun-laundry-how-to-choose.html",
-      "taichung-shoe-cleaning-how-to-choose": "https://sixiangjialaundry.com/guides/taichung-shoe-cleaning-how-to-choose.html",
       "leather-mold-treatment": "https://sixiangjialaundry.com/guides/leather-mold-treatment.html"
     },
     "feed": "https://sixiangjialaundry.com/feed.json",
@@ -276,10 +272,7 @@
     "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
     "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
     "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
-    "https://sixiangjialaundry.com/services/plush-doll-cleaning.html",
-    "https://sixiangjialaundry.com/services/curtain-carpet-cleaning.html",
     "https://sixiangjialaundry.com/services/luxury-garment-cleaning.html",
-    "https://sixiangjialaundry.com/services/down-jacket-cleaning.html",
     "https://sixiangjialaundry.com/hubs/local-pickup.html",
     "https://sixiangjialaundry.com/hubs/bedding-textile-care.html",
     "https://sixiangjialaundry.com/hubs/shoe-care.html",
