@@ -277,6 +277,7 @@
         "https://sixiangjialaundry.com/assets/2026-09-25/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-27/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-28/slot-01.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -470,7 +471,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-09-27"
+      "dateModified": "2026-09-28"
     },
     {
       "@type": "FAQPage",
@@ -531,7 +532,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-27",
+      "dateModified": "2026-09-28",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -12976,6 +12977,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-27/slot-01.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-27/slot-01.png",
       "caption": "精品包最怕邊角：先看護角磨損再決定",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-28.json#post-2026-09-28-slot-01",
+      "headline": "2026-09-28 11:30 勃肯鞋墊發白與軟木粉化，先看這兩處",
+      "text": "勃肯鞋床發白、軟木邊掉屑：先分清楚是哪一種。\n\n鞋床發白常見兩種：\n・一圈一圈的白痕、摸起來乾乾的：多半是汗水或雨水乾掉留下的鹽分痕，清潔可以淡化。\n・一點一點毛毛的、會越來越大、聞起來有霉味：那是發霉，要先除霉再清潔，麂皮可能留下淡淡的印子。\n\n腳趾、腳跟那一塊變深，是汗和皮脂吃進鞋床，可以淡化，但回不到剛買的顏色。\n\n軟木側邊摸起來乾乾粉粉、會掉屑，是軟木表面那層保護磨掉了、軟木乾掉。剛開始乾的，補一層軟木保護劑就好；已經裂開缺角的，清潔救不回來，要換鞋床，我們會直接跟你說。\n\n先別做三件事：整雙泡水、丟洗衣機、拿去曬太陽。軟木泡水會鬆，麂皮一濕就硬，曬太陽軟木會更乾更裂。\n\n在店裡，我們把鞋床、麂皮鞋面、大底分開處理：鞋床去汗味和髒污、麂皮乾刷順毛、大底另外刷；能淡化到哪裡，看過鞋床再跟你說。\n\n拍鞋床正面、軟木側邊各一張傳 LINE，先幫你看是哪一種。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #勃肯鞋清潔 #送洗前檢查 #台中洗鞋",
+      "datePublished": "2026-09-28T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#勃肯鞋清潔",
+        "#送洗前檢查",
+        "#台中洗鞋"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-28.json#post-2026-09-28-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-28.json#post-2026-09-28-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-28.json#post-2026-09-28-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-28/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-28/slot-01.png",
+      "caption": "勃肯鞋墊發白與軟木粉化，先看這兩處",
       "inLanguage": "zh-Hant"
     }
   ]

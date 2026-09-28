@@ -1,0 +1,77 @@
+{
+  "topic": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事",
+  "date": "2026-10-01",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆呈現黑色梭織面料的立領鋪棉外套，胸前白色標誌、橫向分格與袖口黏扣外觀一致。",
+    "SCENE": "第一張為臥室衣櫃，第二張為金屬工作檯，第三張為石質檯面與深色牆，第四張為木色檯面與洗衣機背景，場景並非同一檯面與牆面家族。",
+    "TOPIC_MATCH": "四張主體均為蓬鬆分格外套，符合主題的衣物類別。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-01\\slot-01.png",
+      "canary": "C5BN",
+      "sha256": "4eb6c556c353173b7a81c1f47f53567de0ee6eca0249e8aa3bf9ebccd6b9b40e"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-01\\slot-01-slide-02.png",
+      "canary": "YEHQ",
+      "sha256": "e7a9ff1046a4dc6ffbe5d605f34c6258fd6da8d097fbe394c102226aaf68ca5d"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-01\\slot-01-slide-03.png",
+      "canary": "2C4N",
+      "sha256": "9c6c246d1df73bb77dc9274bf0283c0a899f935ccd66d9753ee3626f50cfb4eb"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-01\\slot-01-slide-04.png",
+      "canary": "KS4C",
+      "sha256": "d1a6edddfb8996e8147417f994b6d9549008217fcb2a53be52e093b4cfc56332"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-01\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-01\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-01\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-01\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "C5BN",
+    "IMAGE_2": "YEHQ",
+    "IMAGE_3": "2C4N",
+    "IMAGE_4": "KS4C"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "C5BN",
+    "IMAGE_2": "YEHQ",
+    "IMAGE_3": "2C4N",
+    "IMAGE_4": "KS4C"
+  },
+  "prompt_hash": "0f6246a07ff1077a2344e82d5662ad130742ea03e6ec9b8b163f948f9032e9bb",
+  "run_id": "carousel-qa-1790548206414",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-27T22:31:34.760Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

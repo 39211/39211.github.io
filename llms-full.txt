@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-26T22:33:37.641Z
+- Generated at: 2026-09-27T22:31:36.842Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -369,6 +369,7 @@
     "https://sixiangjialaundry.com/assets/2026-09-25/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-26/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-27/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-09-28/slot-01.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -9755,4 +9756,63 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣精洗 #台中免費收送 #材質判斷 #台中洗衣
+
+### 2026-09-28 11:30 勃肯鞋墊發白與軟木粉化，先看這兩處
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-28.json#post-2026-09-28-slot-01
+- published local time: 2026-09-28T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中洗鞋 | 西屯洗鞋 | 逢甲洗鞋 | 台中洗鞋店 | 台中白鞋清潔 | 球鞋清洗台中
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #勃肯鞋清潔 #送洗前檢查 #台中洗鞋
+- image: https://sixiangjialaundry.com/assets/2026-09-28/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-28.json
+
+Facebook caption:
+
+勃肯鞋床發白、軟木邊掉屑：先分清楚是哪一種。
+
+鞋床發白常見兩種：
+・一圈一圈的白痕、摸起來乾乾的：多半是汗水或雨水乾掉留下的鹽分痕，清潔可以淡化。
+・一點一點毛毛的、會越來越大、聞起來有霉味：那是發霉，要先除霉再清潔，麂皮可能留下淡淡的印子。
+
+腳趾、腳跟那一塊變深，是汗和皮脂吃進鞋床，可以淡化，但回不到剛買的顏色。
+
+軟木側邊摸起來乾乾粉粉、會掉屑，是軟木表面那層保護磨掉了、軟木乾掉。剛開始乾的，補一層軟木保護劑就好；已經裂開缺角的，清潔救不回來，要換鞋床，我們會直接跟你說。
+
+先別做三件事：整雙泡水、丟洗衣機、拿去曬太陽。軟木泡水會鬆，麂皮一濕就硬，曬太陽軟木會更乾更裂。
+
+在店裡，我們把鞋床、麂皮鞋面、大底分開處理：鞋床去汗味和髒污、麂皮乾刷順毛、大底另外刷；能淡化到哪裡，看過鞋床再跟你說。
+
+拍鞋床正面、軟木側邊各一張傳 LINE，先幫你看是哪一種。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #勃肯鞋清潔 #送洗前檢查 #台中洗鞋
+
+Instagram caption:
+
+勃肯鞋床發白、軟木邊掉屑：先分清楚是哪一種。
+
+鞋床發白常見兩種：
+・一圈一圈的白痕、摸起來乾乾的：多半是汗水或雨水乾掉留下的鹽分痕，清潔可以淡化。
+・一點一點毛毛的、會越來越大、聞起來有霉味：那是發霉，要先除霉再清潔，麂皮可能留下淡淡的印子。
+
+腳趾、腳跟那一塊變深，是汗和皮脂吃進鞋床，可以淡化，但回不到剛買的顏色。
+
+軟木側邊摸起來乾乾粉粉、會掉屑，是軟木表面那層保護磨掉了、軟木乾掉。剛開始乾的，補一層軟木保護劑就好；已經裂開缺角的，清潔救不回來，要換鞋床，我們會直接跟你說。
+
+先別做三件事：整雙泡水、丟洗衣機、拿去曬太陽。軟木泡水會鬆，麂皮一濕就硬，曬太陽軟木會更乾更裂。
+
+在店裡，我們把鞋床、麂皮鞋面、大底分開處理：鞋床去汗味和髒污、麂皮乾刷順毛、大底另外刷；能淡化到哪裡，看過鞋床再跟你說。
+
+拍鞋床正面、軟木側邊各一張傳 LINE，先幫你看是哪一種。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #勃肯鞋清潔 #送洗前檢查 #台中洗鞋
 
