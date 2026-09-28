@@ -1,0 +1,10 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "edge-tts zh-TW-YunJheNeural rate +10%",
+  "narration_lines": "narration-lines-tw-v3.json (9 lines), subtitles subs-1004-v3d.ass burned in",
+  "foley": "synthetic work sounds matched to each action (-15.9 LUFS); every Grok clip was stripped with -an before assembly (cut-src 九支無音軌)",
+  "assembled_by": "c1004g/tools-v3d/make_1004_v3d.py + scripts/reel-v3/build_fluid_cut.py (edit-1004-v3d.json); audio and eight shots identical to v3"
+}
