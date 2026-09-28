@@ -1,0 +1,10 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "edge-tts zh-TW-YunJheNeural rate +10%",
+  "narration_lines": "narration-lines-tw-v5.json (9 lines), subtitles subs-1001-v9g.ass burned in",
+  "foley": "none: every Grok clip was stripped with -an before assembly (零原聲 10/10); the track is the nine narration lines only, loudnorm -16 LUFS",
+  "assembled_by": "c1001n/tools-v9g (make_drum_1p5.py, retime_narration.py, make_1001_v9g.py, assemble_1001_v9g.py) + scripts/reel-v3/build_fluid_cut.py (edit-1001-v9g.json)"
+}
