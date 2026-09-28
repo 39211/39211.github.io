@@ -1,0 +1,77 @@
+{
+  "topic": "羽絨被頭肩那片黃：不一定只是汗",
+  "date": "2026-10-02",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張主體皆為白色織布被子，依宣告的色系、類型與粗材質未見變更，泛黃程度差異不構成身分變更。",
+    "SCENE": "第1、4張為臥室床鋪，第2張為黑色背景，第3張為金屬工作檯，場景不屬同一檯面或牆面家族。",
+    "TOPIC_MATCH": "四張主體皆為被子，與主題物件相符；內部填充材質無法僅憑外觀確認。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-02\\slot-01.png",
+      "canary": "QZKD",
+      "sha256": "c84708468ee748fc89b4bf3270e1165c7f39fa09b137d1c31e10d58778d31fce"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-02\\slot-01-slide-02.png",
+      "canary": "B9K9",
+      "sha256": "55cb0c5bb1c7650711c472cc0629dfcf53f4f3cb5eadaa11da7857f70ac07039"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-02\\slot-01-slide-03.png",
+      "canary": "SD84",
+      "sha256": "427a941f6fa9ae9e450cacd0387669a1ecdd5c715c582ba254f3d664d638e838"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-02\\slot-01-slide-04.png",
+      "canary": "8QZ6",
+      "sha256": "3150b4e615c0d33ff969adae20d0ffd9db5dead5cd39a354eeba5f5ef088f7e8"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-02\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-02\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-02\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-02\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "QZKD",
+    "IMAGE_2": "B9K9",
+    "IMAGE_3": "SD84",
+    "IMAGE_4": "8QZ6"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "QZKD",
+    "IMAGE_2": "B9K9",
+    "IMAGE_3": "SD84",
+    "IMAGE_4": "8QZ6"
+  },
+  "prompt_hash": "3a9f80397756c4eeb6dc7617d1af625224e61abdd61043364f94e443e237a6ef",
+  "run_id": "carousel-qa-1790634609698",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-28T22:31:25.108Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}
