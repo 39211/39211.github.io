@@ -1,0 +1,10 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "edge-tts zh-TW-YunJheNeural rate +10%",
+  "narration_lines": "narration-lines-tw-v1.json (9 lines), subtitles subs-1008-v3.ass burned in",
+  "foley": "synthetic cloth/steam work sounds per shot from build_fluid_cut foley (-15.9 LUFS); the Grok takes carry no audio stream (零原聲 9/9)",
+  "assembled_by": "c1008s tools-v3/make_1008_v3.py (S4) + scripts/reel-v3/build_fluid_cut.py (cut-v3/edit-1008-v3.json); narration and subtitles identical to v1"
+}
