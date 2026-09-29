@@ -280,6 +280,8 @@
         "https://sixiangjialaundry.com/assets/2026-09-28/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-29/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-09-29/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-09-30/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-09-30/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -473,7 +475,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-09-29"
+      "dateModified": "2026-09-30"
     },
     {
       "@type": "FAQPage",
@@ -534,7 +536,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-09-29",
+      "dateModified": "2026-09-30",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -13078,6 +13080,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-29/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-09-29/slot-02.png",
       "caption": "名牌包發霉,先別自己硬擦",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-01",
+      "headline": "2026-09-30 11:30 西屯／東海洗鞋：網布發黃先看中底交界",
+      "text": "白鞋網布和鞋底交界黃黃的：先分清楚是哪一種黃。\n\n同一條交界線上，常常疊了三種黃：\n・網布孔裡灰灰黃黃的：多半是髒，刷得掉。\n・鞋底側面整片均勻的奶油黃：那是材料氧化，不是髒，只能淡化，回不到全新的白。\n・黏合線上細細一條琥珀色：黏膠滲出來，清潔帶不走。\n\n自己分辨的方法：拿一塊白布按一下。白布沾到灰，是髒；按了沒沾色、黃色也不動，是氧化。\n\n先別做這幾件事：拿去曬太陽、倒漂白水、整雙丟洗衣機、用硬毛刷刷網布。曬太陽會讓氧化更黃，網布很薄，硬刷會起毛甚至破洞。\n\n在店裡，我們先抽掉鞋帶鞋墊、乾刷掉灰，網布用軟毛刷和薄薄的泡沫處理，洗劑擦乾淨，之後才不會自己變黃；鞋底氧化的部分能淡化到哪裡，看過再說，不保證回白。開膠、鞋底掉粉的，要先現場看。\n\n拍一張鞋子側面、交界那條線的照片傳 LINE，先幫你看是哪一種黃。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查",
+      "datePublished": "2026-09-30T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#白鞋清潔",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-30/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-30/slot-01.png",
+      "caption": "西屯／東海洗鞋：網布發黃先看中底交界",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-02",
+      "headline": "2026-09-30 20:30 白鞋交界黃了，先分是哪一種黃",
+      "text": "白鞋交界黃黃的，先別急著刷。\n\n白布按一下：沾到灰的是髒，沾不到、黃色不動的，是鞋底氧化。\n\n在店裡的順序：先抽鞋帶鞋墊，乾刷掉灰。網布很薄，軟毛刷、薄泡沫，短短地刷。洗劑要擦乾淨，留著會自己變黃。\n\n鞋底整片的黃是氧化，可以淡化，不保證回白。陰乾，不要曬太陽。\n\n分不出是哪一種黃，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查",
+      "datePublished": "2026-09-30T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#白鞋清潔",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-09-30/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-09-30/slot-02.png",
+      "caption": "白鞋交界黃了，先分是哪一種黃",
       "inLanguage": "zh-Hant"
     }
   ]

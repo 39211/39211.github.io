@@ -1,0 +1,77 @@
+{
+  "topic": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦",
+  "date": "2026-10-03",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張均呈現棕色麂皮繫帶靴，具有黑色厚底、黃色沿條縫線及黑黃後拉環，符合指定物件一致性判準。",
+    "SCENE": "場景代碼雖均屬 OTHER，圖一實際是鞋櫃旁的磁磚地面，圖二是黑色背景，圖三、四才是灰墊木櫃台與吊掛衣物背景，並非同一櫃台或牆面家族。",
+    "TOPIC_MATCH": "四張主體均為靴子，圖一、二可見鞋頭深淺水痕，符合主題的麂皮靴與淋雨水痕。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-03\\slot-01.png",
+      "canary": "GZ4D",
+      "sha256": "bc75d34874df8d20a1a929dc31d470e7152a6b2766f1763021668e9db6de68b8"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-03\\slot-01-slide-02.png",
+      "canary": "7AY7",
+      "sha256": "0ecd71a1d3d1f1a9b6653b27ec027ca1fec02ce2f29d9ed25d5b2e5d9de6bf74"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-03\\slot-01-slide-03.png",
+      "canary": "FTCX",
+      "sha256": "117471f89f530ee5f0c8151e63e81c92776331015eb05e472ce678c5347fd1d7"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-03\\slot-01-slide-04.png",
+      "canary": "BZLW",
+      "sha256": "27e0cd87d6e7621b3e530f1fdf38b2a61b32137196103a25994a9702b99469de"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-03\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-03\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-03\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-03\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "GZ4D",
+    "IMAGE_2": "7AY7",
+    "IMAGE_3": "FTCX",
+    "IMAGE_4": "BZLW"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "GZ4D",
+    "IMAGE_2": "7AY7",
+    "IMAGE_3": "FTCX",
+    "IMAGE_4": "BZLW"
+  },
+  "prompt_hash": "8607ffcf284f7bbea6ad95f0f5e8031191e83182bb35e03357806a881a2199c6",
+  "run_id": "carousel-qa-1790721008832",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-09-29T22:32:07.500Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

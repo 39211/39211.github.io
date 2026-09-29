@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-28T22:31:27.726Z
+- Generated at: 2026-09-29T22:32:09.698Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -372,6 +372,8 @@
     "https://sixiangjialaundry.com/assets/2026-09-28/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-29/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-09-29/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-09-30/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-09-30/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -9895,4 +9897,108 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #皮件發霉 #台中洗衣店
+
+### 2026-09-30 11:30 西屯／東海洗鞋：網布發黃先看中底交界
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-01
+- published local time: 2026-09-30T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中洗鞋 | 西屯洗鞋 | 逢甲洗鞋 | 台中洗鞋店 | 台中白鞋清潔 | 球鞋清洗台中
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-09-30/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-30.json
+
+Facebook caption:
+
+白鞋網布和鞋底交界黃黃的：先分清楚是哪一種黃。
+
+同一條交界線上，常常疊了三種黃：
+・網布孔裡灰灰黃黃的：多半是髒，刷得掉。
+・鞋底側面整片均勻的奶油黃：那是材料氧化，不是髒，只能淡化，回不到全新的白。
+・黏合線上細細一條琥珀色：黏膠滲出來，清潔帶不走。
+
+自己分辨的方法：拿一塊白布按一下。白布沾到灰，是髒；按了沒沾色、黃色也不動，是氧化。
+
+先別做這幾件事：拿去曬太陽、倒漂白水、整雙丟洗衣機、用硬毛刷刷網布。曬太陽會讓氧化更黃，網布很薄，硬刷會起毛甚至破洞。
+
+在店裡，我們先抽掉鞋帶鞋墊、乾刷掉灰，網布用軟毛刷和薄薄的泡沫處理，洗劑擦乾淨，之後才不會自己變黃；鞋底氧化的部分能淡化到哪裡，看過再說，不保證回白。開膠、鞋底掉粉的，要先現場看。
+
+拍一張鞋子側面、交界那條線的照片傳 LINE，先幫你看是哪一種黃。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查
+
+Instagram caption:
+
+白鞋網布和鞋底交界黃黃的：先分清楚是哪一種黃。
+
+同一條交界線上，常常疊了三種黃：
+・網布孔裡灰灰黃黃的：多半是髒，刷得掉。
+・鞋底側面整片均勻的奶油黃：那是材料氧化，不是髒，只能淡化，回不到全新的白。
+・黏合線上細細一條琥珀色：黏膠滲出來，清潔帶不走。
+
+自己分辨的方法：拿一塊白布按一下。白布沾到灰，是髒；按了沒沾色、黃色也不動，是氧化。
+
+先別做這幾件事：拿去曬太陽、倒漂白水、整雙丟洗衣機、用硬毛刷刷網布。曬太陽會讓氧化更黃，網布很薄，硬刷會起毛甚至破洞。
+
+在店裡，我們先抽掉鞋帶鞋墊、乾刷掉灰，網布用軟毛刷和薄薄的泡沫處理，洗劑擦乾淨，之後才不會自己變黃；鞋底氧化的部分能淡化到哪裡，看過再說，不保證回白。開膠、鞋底掉粉的，要先現場看。
+
+拍一張鞋子側面、交界那條線的照片傳 LINE，先幫你看是哪一種黃。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查
+
+### 2026-09-30 20:30 白鞋交界黃了，先分是哪一種黃
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-02
+- published local time: 2026-09-30T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: trust-proof
+- target_queries: 台中洗包包 | 西屯洗包包 | 台中洗包 | 包包提把清潔 | 包包發霉怎麼辦 | 皮革包包清潔
+- evidence_type: real-case-photo
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-09-30/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-09-30.json
+
+Facebook caption:
+
+白鞋交界黃黃的，先別急著刷。
+
+白布按一下：沾到灰的是髒，沾不到、黃色不動的，是鞋底氧化。
+
+在店裡的順序：先抽鞋帶鞋墊，乾刷掉灰。網布很薄，軟毛刷、薄泡沫，短短地刷。洗劑要擦乾淨，留著會自己變黃。
+
+鞋底整片的黃是氧化，可以淡化，不保證回白。陰乾，不要曬太陽。
+
+分不出是哪一種黃，拍照傳LINE，先幫你看。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查
+
+Instagram caption:
+
+白鞋交界黃黃的，先別急著刷。
+
+白布按一下：沾到灰的是髒，沾不到、黃色不動的，是鞋底氧化。
+
+在店裡的順序：先抽鞋帶鞋墊，乾刷掉灰。網布很薄，軟毛刷、薄泡沫，短短地刷。洗劑要擦乾淨，留著會自己變黃。
+
+鞋底整片的黃是氧化，可以淡化，不保證回白。陰乾，不要曬太陽。
+
+分不出是哪一種黃，拍照傳LINE，先幫你看。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查
 
