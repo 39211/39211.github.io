@@ -1,0 +1,10 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "Gemini gemini-3.8-flash-tts voice Kore (plain text, no style prompt, free tier)",
+  "narration_lines": "narration-lines-tw-v5.json (9 lines), subtitles cut-v8/subs-1002-v8.ass burned in (v5 lines + one top caption 18-21 s 中途整理｜之後回機續烘)",
+  "foley": "synthetic work sounds matched to each action (-16.1 LUFS); every Grok clip was stripped with -an before assembly (零原聲); audio track identical to v5 sample-for-sample",
+  "assembled_by": "c1002d/tools-v8/make_1002_v8.py + scripts/reel-v3/build_fluid_cut.py (nine-shot rebuild from cut-v8/edit-1002-v8.json)"
+}
