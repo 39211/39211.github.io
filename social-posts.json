@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T22:32:09.698Z",
+  "generated_at": "2026-09-30T22:30:30.479Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -9,7 +9,7 @@
   "image_base_url": "https://sixiangjialaundry.com",
   "image_base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "latest_date": "2026-09-30",
+  "latest_date": "2026-10-01",
   "open_graph": {
     "title": "私享家洗衣店｜台中洗衣洗鞋洗包・全市免費收送・價格公開",
     "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
@@ -10786,6 +10786,120 @@
       "url": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-02",
       "facebook_caption": "白鞋交界黃黃的，先別急著刷。\n\n白布按一下：沾到灰的是髒，沾不到、黃色不動的，是鞋底氧化。\n\n在店裡的順序：先抽鞋帶鞋墊，乾刷掉灰。網布很薄，軟毛刷、薄泡沫，短短地刷。洗劑要擦乾淨，留著會自己變黃。\n\n鞋底整片的黃是氧化，可以淡化，不保證回白。陰乾，不要曬太陽。\n\n分不出是哪一種黃，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查",
       "instagram_caption": "白鞋交界黃黃的，先別急著刷。\n\n白布按一下：沾到灰的是髒，沾不到、黃色不動的，是鞋底氧化。\n\n在店裡的順序：先抽鞋帶鞋墊，乾刷掉灰。網布很薄，軟毛刷、薄泡沫，短短地刷。洗劑要擦乾淨，留著會自己變黃。\n\n鞋底整片的黃是氧化，可以淡化，不保證回白。陰乾，不要曬太陽。\n\n分不出是哪一種黃，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json#post-2026-10-01-slot-01",
+      "date": "2026-10-01",
+      "date_published": "2026-10-01T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-01 11:30 羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事",
+      "topic": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中羽絨外套清洗",
+        "羽絨外套可以水洗嗎",
+        "羽絨衣洗完扁掉",
+        "西屯洗衣店",
+        "台中洗衣店推薦",
+        "羽絨外套送洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#羽絨外套清潔",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-01/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-01/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-01/slot-01.png",
+        "assets/2026-10-01/slot-01-slide-02.png",
+        "assets/2026-10-01/slot-01-slide-03.png",
+        "assets/2026-10-01/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-01.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json",
+      "article_path": "posts/2026-10-01-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-01-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json#post-2026-10-01-slot-01",
+      "facebook_caption": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事。\n\n多數羽絨外套可以水洗，但要先看洗標：能不能水洗、能不能烘，每件不一樣。\n\n袖口、領口那塊亮亮滑滑的，常見是皮膚油脂和髒污磨出來的；洗之前要先局部處理，整件直接丟進去，不一定帶得走。\n\n洗完扁扁的，常見是裡面的羽絨還沒乾、黏在一起。低溫分段烘，中途停下來檢查，還沒乾透就回機繼續烘，裡面乾了才會慢慢蓬回來。\n\n先別做這幾件事：加漂白水或柔軟精、洗完吊著陰乾、表面乾了就收起來。沒乾透就收，裡面容易悶出味道。\n\n在店裡，我們先看洗標和車線；袖口領口先局部處理；扣件扣好、翻面，單件柔洗、充分漂清，再低溫分段烘透。車線破了、冒絨、有霉味的，要先現場看。\n\n拍整件、洗標、袖口近照傳 LINE，先幫你看能不能水洗（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查",
+      "instagram_caption": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事。\n\n多數羽絨外套可以水洗，但要先看洗標：能不能水洗、能不能烘，每件不一樣。\n\n袖口、領口那塊亮亮滑滑的，常見是皮膚油脂和髒污磨出來的；洗之前要先局部處理，整件直接丟進去，不一定帶得走。\n\n洗完扁扁的，常見是裡面的羽絨還沒乾、黏在一起。低溫分段烘，中途停下來檢查，還沒乾透就回機繼續烘，裡面乾了才會慢慢蓬回來。\n\n先別做這幾件事：加漂白水或柔軟精、洗完吊著陰乾、表面乾了就收起來。沒乾透就收，裡面容易悶出味道。\n\n在店裡，我們先看洗標和車線；袖口領口先局部處理；扣件扣好、翻面，單件柔洗、充分漂清，再低溫分段烘透。車線破了、冒絨、有霉味的，要先現場看。\n\n拍整件、洗標、袖口近照傳 LINE，先幫你看能不能水洗（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json#post-2026-10-01-slot-02",
+      "date": "2026-10-01",
+      "date_published": "2026-10-01T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-10-01 20:30 羽絨外套可以水洗，重點是烘透",
+      "topic": "羽絨外套可以水洗，重點是烘透",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中羽絨外套清洗",
+        "羽絨外套可以水洗嗎",
+        "羽絨衣洗完扁掉",
+        "西屯洗衣店",
+        "台中洗衣店推薦",
+        "羽絨外套送洗"
+      ],
+      "evidence_type": "service-boundary",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#羽絨外套清潔",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-01/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.png",
+      "image_paths": [
+        "assets/2026-10-01/slot-02.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-10-01/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-01.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json",
+      "article_path": "posts/2026-10-01-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-01-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json#post-2026-10-01-slot-02",
+      "facebook_caption": "羽絨外套能水洗嗎？\n\n先看洗標，再檢查衣況。\n\n在店裡的順序：袖口髒污，先局部處理。扣件扣好，翻面再洗。依洗標柔洗，充分漂清。再低溫分段烘乾。中途檢查，還要回機續烘。\n\n裡面的羽絨，也要乾透。\n\n拍洗標傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查",
+      "instagram_caption": "羽絨外套能水洗嗎？\n\n先看洗標，再檢查衣況。\n\n在店裡的順序：袖口髒污，先局部處理。扣件扣好，翻面再洗。依洗標柔洗，充分漂清。再低溫分段烘乾。中途檢查，還要回機續烘。\n\n裡面的羽絨，也要乾透。\n\n拍洗標傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查"
     }
   ],
   "article_posts": [
@@ -20916,6 +21030,120 @@
       "url": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-02",
       "facebook_caption": "白鞋交界黃黃的，先別急著刷。\n\n白布按一下：沾到灰的是髒，沾不到、黃色不動的，是鞋底氧化。\n\n在店裡的順序：先抽鞋帶鞋墊，乾刷掉灰。網布很薄，軟毛刷、薄泡沫，短短地刷。洗劑要擦乾淨，留著會自己變黃。\n\n鞋底整片的黃是氧化，可以淡化，不保證回白。陰乾，不要曬太陽。\n\n分不出是哪一種黃，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查",
       "instagram_caption": "白鞋交界黃黃的，先別急著刷。\n\n白布按一下：沾到灰的是髒，沾不到、黃色不動的，是鞋底氧化。\n\n在店裡的順序：先抽鞋帶鞋墊，乾刷掉灰。網布很薄，軟毛刷、薄泡沫，短短地刷。洗劑要擦乾淨，留著會自己變黃。\n\n鞋底整片的黃是氧化，可以淡化，不保證回白。陰乾，不要曬太陽。\n\n分不出是哪一種黃，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json#post-2026-10-01-slot-01",
+      "date": "2026-10-01",
+      "date_published": "2026-10-01T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-01 11:30 羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事",
+      "topic": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中羽絨外套清洗",
+        "羽絨外套可以水洗嗎",
+        "羽絨衣洗完扁掉",
+        "西屯洗衣店",
+        "台中洗衣店推薦",
+        "羽絨外套送洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#羽絨外套清潔",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-01/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-01/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-01/slot-01.png",
+        "assets/2026-10-01/slot-01-slide-02.png",
+        "assets/2026-10-01/slot-01-slide-03.png",
+        "assets/2026-10-01/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-01.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json",
+      "article_path": "posts/2026-10-01-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-01-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json#post-2026-10-01-slot-01",
+      "facebook_caption": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事。\n\n多數羽絨外套可以水洗，但要先看洗標：能不能水洗、能不能烘，每件不一樣。\n\n袖口、領口那塊亮亮滑滑的，常見是皮膚油脂和髒污磨出來的；洗之前要先局部處理，整件直接丟進去，不一定帶得走。\n\n洗完扁扁的，常見是裡面的羽絨還沒乾、黏在一起。低溫分段烘，中途停下來檢查，還沒乾透就回機繼續烘，裡面乾了才會慢慢蓬回來。\n\n先別做這幾件事：加漂白水或柔軟精、洗完吊著陰乾、表面乾了就收起來。沒乾透就收，裡面容易悶出味道。\n\n在店裡，我們先看洗標和車線；袖口領口先局部處理；扣件扣好、翻面，單件柔洗、充分漂清，再低溫分段烘透。車線破了、冒絨、有霉味的，要先現場看。\n\n拍整件、洗標、袖口近照傳 LINE，先幫你看能不能水洗（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查",
+      "instagram_caption": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事。\n\n多數羽絨外套可以水洗，但要先看洗標：能不能水洗、能不能烘，每件不一樣。\n\n袖口、領口那塊亮亮滑滑的，常見是皮膚油脂和髒污磨出來的；洗之前要先局部處理，整件直接丟進去，不一定帶得走。\n\n洗完扁扁的，常見是裡面的羽絨還沒乾、黏在一起。低溫分段烘，中途停下來檢查，還沒乾透就回機繼續烘，裡面乾了才會慢慢蓬回來。\n\n先別做這幾件事：加漂白水或柔軟精、洗完吊著陰乾、表面乾了就收起來。沒乾透就收，裡面容易悶出味道。\n\n在店裡，我們先看洗標和車線；袖口領口先局部處理；扣件扣好、翻面，單件柔洗、充分漂清，再低溫分段烘透。車線破了、冒絨、有霉味的，要先現場看。\n\n拍整件、洗標、袖口近照傳 LINE，先幫你看能不能水洗（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json#post-2026-10-01-slot-02",
+      "date": "2026-10-01",
+      "date_published": "2026-10-01T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-10-01 20:30 羽絨外套可以水洗，重點是烘透",
+      "topic": "羽絨外套可以水洗，重點是烘透",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中羽絨外套清洗",
+        "羽絨外套可以水洗嗎",
+        "羽絨衣洗完扁掉",
+        "西屯洗衣店",
+        "台中洗衣店推薦",
+        "羽絨外套送洗"
+      ],
+      "evidence_type": "service-boundary",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#羽絨外套清潔",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-01/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.png",
+      "image_paths": [
+        "assets/2026-10-01/slot-02.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-10-01/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-01.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json",
+      "article_path": "posts/2026-10-01-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-01-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json#post-2026-10-01-slot-02",
+      "facebook_caption": "羽絨外套能水洗嗎？\n\n先看洗標，再檢查衣況。\n\n在店裡的順序：袖口髒污，先局部處理。扣件扣好，翻面再洗。依洗標柔洗，充分漂清。再低溫分段烘乾。中途檢查，還要回機續烘。\n\n裡面的羽絨，也要乾透。\n\n拍洗標傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查",
+      "instagram_caption": "羽絨外套能水洗嗎？\n\n先看洗標，再檢查衣況。\n\n在店裡的順序：袖口髒污，先局部處理。扣件扣好，翻面再洗。依洗標柔洗，充分漂清。再低溫分段烘乾。中途檢查，還要回機續烘。\n\n裡面的羽絨，也要乾透。\n\n拍洗標傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查"
     }
   ]
 }
