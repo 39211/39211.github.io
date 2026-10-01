@@ -284,6 +284,8 @@
         "https://sixiangjialaundry.com/assets/2026-09-30/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-01/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-02/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-02/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -477,7 +479,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-01"
+      "dateModified": "2026-10-02"
     },
     {
       "@type": "FAQPage",
@@ -538,7 +540,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-01",
+      "dateModified": "2026-10-02",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -13214,6 +13216,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.png",
       "caption": "羽絨外套可以水洗，重點是烘透",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-01",
+      "headline": "2026-10-02 11:30 羽絨被頭肩那片黃：不一定只是汗",
+      "text": "羽絨被頭肩那片黃，不一定只是汗。\n\n頭肩那一段最常碰到皮膚、頭髮和保養品，用久了容易發黃；但同一床被，也可能同時有霉，或上次沒有烘透。光看顏色，分不出來。\n\n送洗前，先看這三件事：\n・有沒有一點一點的斑，或悶悶的味道：有的話先別自己下水，拍照讓我們看。沒聞到味道，也不能排除霉。\n・洗標寫什麼：能不能水洗、能不能烘，決定後面怎麼處理。\n・上次洗完有沒有烘透：表面乾、裡面還潮，收起來就容易悶出味道。\n\n確認這床可以水洗、低溫烘之後，我們這樣處理：發黃的地方先局部處理；用裝得下、翻得動的大滾筒洗清、脫水；低溫分段烘，中途停機檢查結團，整理後回機繼續烘透，冷卻後再複查一次。\n\n先別做這幾件事：直接泡漂白水、加柔軟精、表面乾了就收、長期真空壓縮。\n\n老實說：比較新的黃有機會洗淡；放很久的舊黃不保證能全白。雙人羽絨被要烘透，交期大約 10–14 天。\n\n分不出是汗、霉還是沒烘透，拍整床、黃的那一塊、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查",
+      "datePublished": "2026-10-02T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#羽絨被清洗",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-02/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-02/slot-01.png",
+      "caption": "羽絨被頭肩那片黃：不一定只是汗",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-02",
+      "headline": "2026-10-02 20:30 羽絨被發黃怎麼洗：先看洗標，烘透再收",
+      "text": "被頭發黃，不一定是汗。\n\n有霉斑或悶味，要另外查。\n\n在店裡的順序：先看洗標，再局部處理。合適大筒，洗清再脫水。低溫分段烘，別只摸表面。結團可能是潮的，先檢查。整理後回機，繼續烘透。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查",
+      "datePublished": "2026-10-02T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#羽絨被清洗",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-02/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-02/slot-02.png",
+      "caption": "羽絨被發黃怎麼洗：先看洗標，烘透再收",
       "inLanguage": "zh-Hant"
     }
   ]

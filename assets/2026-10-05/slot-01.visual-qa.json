@@ -1,0 +1,77 @@
+{
+  "topic": "白襯衫領口黃了洗得回來嗎：先處理，再談漂",
+  "date": "2026-10-05",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張主體均為白色梭織襯衫，顏色家族、衣物類型與粗略材質一致。",
+    "SCENE": "第一張是窗邊木桌，第二張是黑色背景，第三張是淺色工作檯與衣架，第四張是木檯及洗衣機背景，場景家族不同。",
+    "TOPIC_MATCH": "四張均呈現白襯衫及領口黃漬，物件類型符合主題中的襯衫。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-05\\slot-01.png",
+      "canary": "RYQH",
+      "sha256": "6985f63552886f8b292b96c641603c6cf6c140422444b2cede00a47ac9f163e5"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-05\\slot-01-slide-02.png",
+      "canary": "FVPR",
+      "sha256": "db4795044f8ac36fe5c595c57a07717b2b387e0c385de10135499a3cbf96a591"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-05\\slot-01-slide-03.png",
+      "canary": "VCVD",
+      "sha256": "8ffe7e0845048594e04c5e09ce2411fcb7b0bf807b58a4b914e9af171ab350b9"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-05\\slot-01-slide-04.png",
+      "canary": "7FU8",
+      "sha256": "4a7d686e4d380671fdc614fd96033e7788d7e748fd1e376721b6c66f8dd03e7e"
+    }
+  ],
+  "sources": [
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-05\\slot-01.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-05\\slot-01-slide-02.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-05\\slot-01-slide-03.png",
+    "C:\\Users\\cyc39\\Documents\\New project 5\\docs\\assets\\2026-10-05\\slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "RYQH",
+    "IMAGE_2": "FVPR",
+    "IMAGE_3": "VCVD",
+    "IMAGE_4": "7FU8"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "RYQH",
+    "IMAGE_2": "FVPR",
+    "IMAGE_3": "VCVD",
+    "IMAGE_4": "7FU8"
+  },
+  "prompt_hash": "3617c8acde41147b4cecc6864bfdc08f6ba46d74acfc6e1781b3590ca00a7aea",
+  "run_id": "carousel-qa-1790894035799",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-01T22:36:34.479Z",
+  "mode": "warn",
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation"
+}

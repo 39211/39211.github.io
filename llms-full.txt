@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-09-30T22:30:30.479Z
+- Generated at: 2026-10-01T22:36:53.947Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -376,6 +376,8 @@
     "https://sixiangjialaundry.com/assets/2026-09-30/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-01/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-02/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-02/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -10105,4 +10107,112 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查
+
+### 2026-10-02 11:30 羽絨被頭肩那片黃：不一定只是汗
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-01
+- published local time: 2026-10-02T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中羽絨被清洗 | 羽絨被發黃怎麼辦 | 台中棉被清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 棉被有潮味怎麼辦
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-02/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-02.json
+
+Facebook caption:
+
+羽絨被頭肩那片黃，不一定只是汗。
+
+頭肩那一段最常碰到皮膚、頭髮和保養品，用久了容易發黃；但同一床被，也可能同時有霉，或上次沒有烘透。光看顏色，分不出來。
+
+送洗前，先看這三件事：
+・有沒有一點一點的斑，或悶悶的味道：有的話先別自己下水，拍照讓我們看。沒聞到味道，也不能排除霉。
+・洗標寫什麼：能不能水洗、能不能烘，決定後面怎麼處理。
+・上次洗完有沒有烘透：表面乾、裡面還潮，收起來就容易悶出味道。
+
+確認這床可以水洗、低溫烘之後，我們這樣處理：發黃的地方先局部處理；用裝得下、翻得動的大滾筒洗清、脫水；低溫分段烘，中途停機檢查結團，整理後回機繼續烘透，冷卻後再複查一次。
+
+先別做這幾件事：直接泡漂白水、加柔軟精、表面乾了就收、長期真空壓縮。
+
+老實說：比較新的黃有機會洗淡；放很久的舊黃不保證能全白。雙人羽絨被要烘透，交期大約 10–14 天。
+
+分不出是汗、霉還是沒烘透，拍整床、黃的那一塊、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查
+
+Instagram caption:
+
+羽絨被頭肩那片黃，不一定只是汗。
+
+頭肩那一段最常碰到皮膚、頭髮和保養品，用久了容易發黃；但同一床被，也可能同時有霉，或上次沒有烘透。光看顏色，分不出來。
+
+送洗前，先看這三件事：
+・有沒有一點一點的斑，或悶悶的味道：有的話先別自己下水，拍照讓我們看。沒聞到味道，也不能排除霉。
+・洗標寫什麼：能不能水洗、能不能烘，決定後面怎麼處理。
+・上次洗完有沒有烘透：表面乾、裡面還潮，收起來就容易悶出味道。
+
+確認這床可以水洗、低溫烘之後，我們這樣處理：發黃的地方先局部處理；用裝得下、翻得動的大滾筒洗清、脫水；低溫分段烘，中途停機檢查結團，整理後回機繼續烘透，冷卻後再複查一次。
+
+先別做這幾件事：直接泡漂白水、加柔軟精、表面乾了就收、長期真空壓縮。
+
+老實說：比較新的黃有機會洗淡；放很久的舊黃不保證能全白。雙人羽絨被要烘透，交期大約 10–14 天。
+
+分不出是汗、霉還是沒烘透，拍整床、黃的那一塊、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查
+
+### 2026-10-02 20:30 羽絨被發黃怎麼洗：先看洗標，烘透再收
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-02
+- published local time: 2026-10-02T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中羽絨被清洗 | 羽絨被發黃怎麼辦 | 台中棉被清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 棉被有潮味怎麼辦
+- evidence_type: real-case-photo
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-02/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-02.json
+
+Facebook caption:
+
+被頭發黃，不一定是汗。
+
+有霉斑或悶味，要另外查。
+
+在店裡的順序：先看洗標，再局部處理。合適大筒，洗清再脫水。低溫分段烘，別只摸表面。結團可能是潮的，先檢查。整理後回機，繼續烘透。
+
+舊黃不保證能全白。
+
+拍照傳LINE，先幫你看。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查
+
+Instagram caption:
+
+被頭發黃，不一定是汗。
+
+有霉斑或悶味，要另外查。
+
+在店裡的順序：先看洗標，再局部處理。合適大筒，洗清再脫水。低溫分段烘，別只摸表面。結團可能是潮的，先檢查。整理後回機，繼續烘透。
+
+舊黃不保證能全白。
+
+拍照傳LINE，先幫你看。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查
 
