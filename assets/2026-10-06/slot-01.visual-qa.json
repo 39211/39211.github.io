@@ -1,0 +1,90 @@
+{
+  "topic": "毛毯起球又黏滿寵物毛：下水前先除毛",
+  "date": "2026-10-06",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張主體均為灰色絨毛毛毯，具有同色緞面包邊，物件類型、色系與材質組合一致。",
+    "SCENE": "第一張是客廳沙發，第二張是黑色背景，第三張是工作檯與置物架，第四張出現洗衣機牆面，場景家族不同。",
+    "TOPIC_MATCH": "四張主體皆為毛毯，與題目物件一致，前三張可見附著毛髮與球狀毛絮。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-06/slot-01.png",
+      "canary": "FJQH",
+      "sha256": "e6efa17b9036a8c1c004d51aff937ad624b416932db3728f204a54d6106b0375"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-06/slot-01-slide-02.png",
+      "canary": "FMGT",
+      "sha256": "e963ed5ebee7581f49492a7005bf41db070a46223c901e5c62366b24626711dd"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-06/slot-01-slide-03.png",
+      "canary": "UZCM",
+      "sha256": "6e167580b11f10d1ae79d0b97baf0ca6bc2b37170b3c8b62d67a6efd29841143"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-06/slot-01-slide-04.png",
+      "canary": "6YBU",
+      "sha256": "c285c10c6b278662da4f3ffd2a287ed439bab865fb64830667a344f94c134168"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-06/slot-01.png",
+    "docs/assets/2026-10-06/slot-01-slide-02.png",
+    "docs/assets/2026-10-06/slot-01-slide-03.png",
+    "docs/assets/2026-10-06/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "FJQH",
+    "IMAGE_2": "FMGT",
+    "IMAGE_3": "UZCM",
+    "IMAGE_4": "6YBU"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "FJQH",
+    "IMAGE_2": "FMGT",
+    "IMAGE_3": "UZCM",
+    "IMAGE_4": "6YBU"
+  },
+  "prompt_hash": "ff6c458f531ba40ba56339816690c622785062d6ca18708f04cf1e575a6006ae",
+  "run_id": "carousel-qa-1790980208414",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-02T22:35:35.136Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "ff6c458f531ba40ba56339816690c622785062d6ca18708f04cf1e575a6006ae",
+      "stdout_sha256": "021cf3bfc7a59a7d68abe3a562042da51d2dda20d34cde021407349811a98db9",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}

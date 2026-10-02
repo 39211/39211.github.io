@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-10-01T22:36:53.947Z",
+  "generated_at": "2026-10-02T22:35:38.658Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -621,6 +621,8 @@
       "https://sixiangjialaundry.com/assets/2026-10-01/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-10-02/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-02/slot-02.png",
+      "https://sixiangjialaundry.com/assets/2026-10-03/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2119,10 +2121,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots, enter rss.xml and the posts hub; the human sitemap.xml lists money/service/guide URLs first and only the newest sitemap_max_indexable_posts thick articles so conversion pages are not buried.",
-      "indexable_article_count": 182,
+      "indexable_article_count": 184,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 182
+      "article_count": 184
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2136,111 +2138,202 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 192,
-    "latest_date": "2026-10-02",
+    "post_count": 194,
+    "latest_date": "2026-10-03",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 112,
-    "posts_with_target_queries": 114,
-    "posts_with_evidence_type": 114
+    "posts_with_search_intent": 114,
+    "posts_with_target_queries": 116,
+    "posts_with_evidence_type": 116
   },
-  "latest_date": "2026-10-02",
+  "latest_date": "2026-10-03",
   "latest_posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-01",
-      "date": "2026-10-02",
-      "date_published": "2026-10-02T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json#post-2026-10-03-slot-01",
+      "date": "2026-10-03",
+      "date_published": "2026-10-03T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-10-02 11:30 羽絨被頭肩那片黃：不一定只是汗",
-      "topic": "羽絨被頭肩那片黃：不一定只是汗",
+      "title": "2026-10-03 11:30 麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦",
+      "topic": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦",
       "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
+      "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中羽絨被清洗",
-        "羽絨被發黃怎麼辦",
-        "台中棉被清洗",
-        "西屯寢具清洗",
-        "台中羽絨被送洗",
-        "棉被有潮味怎麼辦"
+        "麂皮靴水痕",
+        "麂皮鞋淋雨",
+        "麂皮靴怎麼清",
+        "馬汀靴麂皮清潔",
+        "台中洗鞋",
+        "西屯洗鞋"
       ],
       "evidence_type": "first-party-inspection",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#羽絨被清洗",
-        "#台中洗衣店",
+        "#麂皮靴清潔",
+        "#台中洗鞋",
         "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-02/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-02/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-02/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-02/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-02/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01-slide-04.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-02-slot-01.html",
-      "facebook_caption": "羽絨被頭肩那片黃，不一定只是汗。\n\n頭肩那一段最常碰到皮膚、頭髮和保養品，用久了容易發黃；但同一床被，也可能同時有霉，或上次沒有烘透。光看顏色，分不出來。\n\n送洗前，先看這三件事：\n・有沒有一點一點的斑，或悶悶的味道：有的話先別自己下水，拍照讓我們看。沒聞到味道，也不能排除霉。\n・洗標寫什麼：能不能水洗、能不能烘，決定後面怎麼處理。\n・上次洗完有沒有烘透：表面乾、裡面還潮，收起來就容易悶出味道。\n\n確認這床可以水洗、低溫烘之後，我們這樣處理：發黃的地方先局部處理；用裝得下、翻得動的大滾筒洗清、脫水；低溫分段烘，中途停機檢查結團，整理後回機繼續烘透，冷卻後再複查一次。\n\n先別做這幾件事：直接泡漂白水、加柔軟精、表面乾了就收、長期真空壓縮。\n\n老實說：比較新的黃有機會洗淡；放很久的舊黃不保證能全白。雙人羽絨被要烘透，交期大約 10–14 天。\n\n分不出是汗、霉還是沒烘透，拍整床、黃的那一塊、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查",
-      "instagram_caption": "羽絨被頭肩那片黃，不一定只是汗。\n\n頭肩那一段最常碰到皮膚、頭髮和保養品，用久了容易發黃；但同一床被，也可能同時有霉，或上次沒有烘透。光看顏色，分不出來。\n\n送洗前，先看這三件事：\n・有沒有一點一點的斑，或悶悶的味道：有的話先別自己下水，拍照讓我們看。沒聞到味道，也不能排除霉。\n・洗標寫什麼：能不能水洗、能不能烘，決定後面怎麼處理。\n・上次洗完有沒有烘透：表面乾、裡面還潮，收起來就容易悶出味道。\n\n確認這床可以水洗、低溫烘之後，我們這樣處理：發黃的地方先局部處理；用裝得下、翻得動的大滾筒洗清、脫水；低溫分段烘，中途停機檢查結團，整理後回機繼續烘透，冷卻後再複查一次。\n\n先別做這幾件事：直接泡漂白水、加柔軟精、表面乾了就收、長期真空壓縮。\n\n老實說：比較新的黃有機會洗淡；放很久的舊黃不保證能全白。雙人羽絨被要烘透，交期大約 10–14 天。\n\n分不出是汗、霉還是沒烘透，拍整床、黃的那一塊、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-03-slot-01.html",
+      "facebook_caption": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦。\n\n麂皮碰到水，濕的地方會變深，乾了以後留一圈邊，絨毛也會塌下去。那圈邊多半不是髒，是水乾掉的痕跡。別只追著水邊反覆濕擦，先確認材質與處理方式；只濕擦局部，可能再留下一圈新的邊。\n\n先別做三件事：拿濕布只擦那一塊、用吹風機貼著猛吹、上任何油或皮革保養品（麂皮不上油）。\n\n在家可以先這樣：鞋帶鬆開，鞋裡鬆鬆塞紙、立著，放通風處先收乾，不要曬太陽。\n\n在店裡，我們會先確認材質和掉色風險，再處理：鞋面均勻噴濕，不泡水；軟毛刷帶薄泡沫輕刷、順一個方向；泡沫和污水擦乾淨；塞紙立著、控制風溫慢慢收乾；內外乾透之後，再用乾淨的麂皮刷整理絨毛。\n\n老實說：改善程度要看材質、污況和實際處理結果；絨毛整理過顏色會比較均勻，原本的磨損不會消失，水痕也不一定全消。鞋子處理大約 7 天（店家預估交期）。\n\n分不出是水痕還是髒，拍鞋面、水痕、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦。\n\n麂皮碰到水，濕的地方會變深，乾了以後留一圈邊，絨毛也會塌下去。那圈邊多半不是髒，是水乾掉的痕跡。別只追著水邊反覆濕擦，先確認材質與處理方式；只濕擦局部，可能再留下一圈新的邊。\n\n先別做三件事：拿濕布只擦那一塊、用吹風機貼著猛吹、上任何油或皮革保養品（麂皮不上油）。\n\n在家可以先這樣：鞋帶鬆開，鞋裡鬆鬆塞紙、立著，放通風處先收乾，不要曬太陽。\n\n在店裡，我們會先確認材質和掉色風險，再處理：鞋面均勻噴濕，不泡水；軟毛刷帶薄泡沫輕刷、順一個方向；泡沫和污水擦乾淨；塞紙立著、控制風溫慢慢收乾；內外乾透之後，再用乾淨的麂皮刷整理絨毛。\n\n老實說：改善程度要看材質、污況和實際處理結果；絨毛整理過顏色會比較均勻，原本的磨損不會消失，水痕也不一定全消。鞋子處理大約 7 天（店家預估交期）。\n\n分不出是水痕還是髒，拍鞋面、水痕、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-02",
-      "date": "2026-10-02",
-      "date_published": "2026-10-02T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json#post-2026-10-03-slot-02",
+      "date": "2026-10-03",
+      "date_published": "2026-10-03T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
-      "title": "2026-10-02 20:30 羽絨被發黃怎麼洗：先看洗標，烘透再收",
-      "topic": "羽絨被發黃怎麼洗：先看洗標，烘透再收",
+      "title": "2026-10-03 20:30 麂皮靴留水痕，先別急著擦",
+      "topic": "麂皮靴留水痕，先別急著擦",
       "visual_route": "shop-inspection",
       "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中羽絨被清洗",
-        "羽絨被發黃怎麼辦",
-        "台中棉被清洗",
-        "西屯寢具清洗",
-        "台中羽絨被送洗",
-        "棉被有潮味怎麼辦"
+        "麂皮靴水痕",
+        "麂皮鞋淋雨",
+        "麂皮靴怎麼清",
+        "馬汀靴麂皮清潔",
+        "台中洗鞋",
+        "西屯洗鞋"
       ],
-      "evidence_type": "real-case-photo",
+      "evidence_type": "customer-question",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#羽絨被清洗",
-        "#台中洗衣店",
+        "#麂皮靴清潔",
+        "#台中洗鞋",
         "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-02/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-02/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-02/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-02-slot-02.html",
-      "facebook_caption": "被頭發黃，不一定是汗。\n\n有霉斑或悶味，要另外查。\n\n在店裡的順序：先看洗標，再局部處理。合適大筒，洗清再脫水。低溫分段烘，別只摸表面。結團可能是潮的，先檢查。整理後回機，繼續烘透。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查",
-      "instagram_caption": "被頭發黃，不一定是汗。\n\n有霉斑或悶味，要另外查。\n\n在店裡的順序：先看洗標，再局部處理。合適大筒，洗清再脫水。低溫分段烘，別只摸表面。結團可能是潮的，先檢查。整理後回機，繼續烘透。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查"
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-03-slot-02.html",
+      "facebook_caption": "麂皮淋了雨，先別急著擦。\n\n在店裡的順序：先看材質和水痕，再處理。鞋面均勻噴濕，別追白邊。軟刷帶泡沫，鞋面輕輕刷。塞紙支撐，立著收乾。控制風溫，移動著收乾。乾透後，輕刷整理絨毛。\n\n老實說：水痕不一定全消，磨損仍在。\n\n整理好，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "麂皮淋了雨，先別急著擦。\n\n在店裡的順序：先看材質和水痕，再處理。鞋面均勻噴濕，別追白邊。軟刷帶泡沫，鞋面輕輕刷。塞紙支撐，立著收乾。控制風溫，移動著收乾。乾透後，輕刷整理絨毛。\n\n老實說：水痕不一定全消，磨損仍在。\n\n整理好，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json#post-2026-10-03-slot-02",
+      "date": "2026-10-03",
+      "date_published": "2026-10-03T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-03 20:30 麂皮靴留水痕，先別急著擦",
+      "topic": "麂皮靴留水痕，先別急著擦",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "麂皮靴水痕",
+        "麂皮鞋淋雨",
+        "麂皮靴怎麼清",
+        "馬汀靴麂皮清潔",
+        "台中洗鞋",
+        "西屯洗鞋"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#麂皮靴清潔",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-03-slot-02.html",
+      "facebook_caption": "麂皮淋了雨，先別急著擦。\n\n在店裡的順序：先看材質和水痕，再處理。鞋面均勻噴濕，別追白邊。軟刷帶泡沫，鞋面輕輕刷。塞紙支撐，立著收乾。控制風溫，移動著收乾。乾透後，輕刷整理絨毛。\n\n老實說：水痕不一定全消，磨損仍在。\n\n整理好，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "麂皮淋了雨，先別急著擦。\n\n在店裡的順序：先看材質和水痕，再處理。鞋面均勻噴濕，別追白邊。軟刷帶泡沫，鞋面輕輕刷。塞紙支撐，立著收乾。控制風溫，移動著收乾。乾透後，輕刷整理絨毛。\n\n老實說：水痕不一定全消，磨損仍在。\n\n整理好，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json#post-2026-10-03-slot-01",
+      "date": "2026-10-03",
+      "date_published": "2026-10-03T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-03 11:30 麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦",
+      "topic": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "麂皮靴水痕",
+        "麂皮鞋淋雨",
+        "麂皮靴怎麼清",
+        "馬汀靴麂皮清潔",
+        "台中洗鞋",
+        "西屯洗鞋"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#麂皮靴清潔",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-03-slot-01.html",
+      "facebook_caption": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦。\n\n麂皮碰到水，濕的地方會變深，乾了以後留一圈邊，絨毛也會塌下去。那圈邊多半不是髒，是水乾掉的痕跡。別只追著水邊反覆濕擦，先確認材質與處理方式；只濕擦局部，可能再留下一圈新的邊。\n\n先別做三件事：拿濕布只擦那一塊、用吹風機貼著猛吹、上任何油或皮革保養品（麂皮不上油）。\n\n在家可以先這樣：鞋帶鬆開，鞋裡鬆鬆塞紙、立著，放通風處先收乾，不要曬太陽。\n\n在店裡，我們會先確認材質和掉色風險，再處理：鞋面均勻噴濕，不泡水；軟毛刷帶薄泡沫輕刷、順一個方向；泡沫和污水擦乾淨；塞紙立著、控制風溫慢慢收乾；內外乾透之後，再用乾淨的麂皮刷整理絨毛。\n\n老實說：改善程度要看材質、污況和實際處理結果；絨毛整理過顏色會比較均勻，原本的磨損不會消失，水痕也不一定全消。鞋子處理大約 7 天（店家預估交期）。\n\n分不出是水痕還是髒，拍鞋面、水痕、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦。\n\n麂皮碰到水，濕的地方會變深，乾了以後留一圈邊，絨毛也會塌下去。那圈邊多半不是髒，是水乾掉的痕跡。別只追著水邊反覆濕擦，先確認材質與處理方式；只濕擦局部，可能再留下一圈新的邊。\n\n先別做三件事：拿濕布只擦那一塊、用吹風機貼著猛吹、上任何油或皮革保養品（麂皮不上油）。\n\n在家可以先這樣：鞋帶鬆開，鞋裡鬆鬆塞紙、立著，放通風處先收乾，不要曬太陽。\n\n在店裡，我們會先確認材質和掉色風險，再處理：鞋面均勻噴濕，不泡水；軟毛刷帶薄泡沫輕刷、順一個方向；泡沫和污水擦乾淨；塞紙立著、控制風溫慢慢收乾；內外乾透之後，再用乾淨的麂皮刷整理絨毛。\n\n老實說：改善程度要看材質、污況和實際處理結果；絨毛整理過顏色會比較均勻，原本的磨損不會消失，水痕也不一定全消。鞋子處理大約 7 天（店家預估交期）。\n\n分不出是水痕還是髒，拍鞋面、水痕、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-02.json#post-2026-10-02-slot-02",
       "date": "2026-10-02",
@@ -3513,102 +3606,6 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-09-15-slot-01.html",
       "facebook_caption": "包包內裡黏黏的是怎麼了？先看內裡材質再決定能不能洗。\n\n包角和邊油是先磨掉的地方。等到看得出來，通常已經磨進去了。\n\n我會先確認邊油還剩多少。磨到底層之後，能做的就只有維持。\n\n台中全區免費到府收，沒有低消、一件也收，傳 LINE說一聲就好。\n\n下一集：靴子收了一個夏天拿出來長霉點？先看是皮面還是絨面再處理\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中",
       "instagram_caption": "包包內裡黏黏的是怎麼了？先看內裡材質再決定能不能洗。\n\n包角和邊油是先磨掉的地方。等到看得出來，通常已經磨進去了。\n\n我會先確認邊油還剩多少。磨到底層之後，能做的就只有維持。\n\n台中全區免費到府收，沒有低消、一件也收，私訊說一聲就好。\n\n下一集：靴子收了一個夏天拿出來長霉點？先看是皮面還是絨面再處理\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #精品包保養 #名牌包清潔 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-14.json#post-2026-09-14-slot-03",
-      "date": "2026-09-14",
-      "date_published": "2026-09-14T12:00:00+08:00",
-      "slot": 3,
-      "time": "12:00",
-      "title": "2026-09-14 12:00 馬丁靴整雙發霉了",
-      "topic": "馬丁靴整雙發霉了",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#台中免費收送",
-        "#洗護日常",
-        "#台中洗鞋",
-        "#洗鞋推薦",
-        "#球鞋清洗",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-14/slot-03.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-14/slot-03.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-09-14/slot-03.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-14.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-14-slot-03.html",
-      "facebook_caption": "馬丁靴整雙發霉了。\n\n梅雨天在櫃子放一季,皮面是不是就長這層白灰？霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n拍一張傳 LINE給我們，我們先看方向。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "馬丁靴整雙發霉了。\n\n梅雨天在櫃子放一季,皮面是不是就長這層白灰？霉根會吃進皮革,越晚處理越難救,先拍照傳給我們看狀況。\n\n拍一張私訊給我們，我們先看方向。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #台中免費收送 #洗護日常 #台中洗鞋 #洗鞋推薦 #球鞋清洗 #台中洗衣店 #西屯 #逢甲 #台中"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-14.json#post-2026-09-14-slot-02",
-      "date": "2026-09-14",
-      "date_published": "2026-09-14T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-09-14 20:30 抱枕上的飲料痕，乾了以後才變黃",
-      "topic": "抱枕上的飲料痕，乾了以後才變黃",
-      "visual_route": "shop-inspection",
-      "traffic_route": "dwell-detail",
-      "content_role": "evidence-conversion",
-      "search_intent": "trust-proof",
-      "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "西屯寢具清洗",
-        "台中羽絨被送洗",
-        "台中外套清洗",
-        "棉被有潮味怎麼辦"
-      ],
-      "evidence_type": "real-case-photo",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#抱枕清洗",
-        "#居家布品",
-        "#棉被送洗",
-        "#寢具清潔",
-        "#換季收納",
-        "#台中洗衣店",
-        "#西屯",
-        "#逢甲",
-        "#台中"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-14/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-14/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-09-14/slot-02-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-09-14/slot-02-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-09-14/slot-02-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-14.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-14-slot-02.html",
-      "facebook_caption": "抱枕上的飲料痕，乾了以後才變黃。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區到府收。\n\n拍整體和最在意的位置兩張傳 LINE，我們先看。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #抱枕清洗 #居家布品 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中",
-      "instagram_caption": "抱枕上的飲料痕，乾了以後才變黃。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區到府收。\n\n拍整體和最在意的位置兩張傳 LINE，我們先看。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #抱枕清洗 #居家布品 #棉被送洗 #寢具清潔 #換季收納 #台中洗衣店 #西屯 #逢甲 #台中"
     }
   ],
   "published_posts": [
@@ -12233,6 +12230,97 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-10-02-slot-02.html",
       "facebook_caption": "被頭發黃，不一定是汗。\n\n有霉斑或悶味，要另外查。\n\n在店裡的順序：先看洗標，再局部處理。合適大筒，洗清再脫水。低溫分段烘，別只摸表面。結團可能是潮的，先檢查。整理後回機，繼續烘透。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查",
       "instagram_caption": "被頭發黃，不一定是汗。\n\n有霉斑或悶味，要另外查。\n\n在店裡的順序：先看洗標，再局部處理。合適大筒，洗清再脫水。低溫分段烘，別只摸表面。結團可能是潮的，先檢查。整理後回機，繼續烘透。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨被清洗 #台中洗衣店 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json#post-2026-10-03-slot-01",
+      "date": "2026-10-03",
+      "date_published": "2026-10-03T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-03 11:30 麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦",
+      "topic": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "麂皮靴水痕",
+        "麂皮鞋淋雨",
+        "麂皮靴怎麼清",
+        "馬汀靴麂皮清潔",
+        "台中洗鞋",
+        "西屯洗鞋"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#麂皮靴清潔",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-03-slot-01.html",
+      "facebook_caption": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦。\n\n麂皮碰到水，濕的地方會變深，乾了以後留一圈邊，絨毛也會塌下去。那圈邊多半不是髒，是水乾掉的痕跡。別只追著水邊反覆濕擦，先確認材質與處理方式；只濕擦局部，可能再留下一圈新的邊。\n\n先別做三件事：拿濕布只擦那一塊、用吹風機貼著猛吹、上任何油或皮革保養品（麂皮不上油）。\n\n在家可以先這樣：鞋帶鬆開，鞋裡鬆鬆塞紙、立著，放通風處先收乾，不要曬太陽。\n\n在店裡，我們會先確認材質和掉色風險，再處理：鞋面均勻噴濕，不泡水；軟毛刷帶薄泡沫輕刷、順一個方向；泡沫和污水擦乾淨；塞紙立著、控制風溫慢慢收乾；內外乾透之後，再用乾淨的麂皮刷整理絨毛。\n\n老實說：改善程度要看材質、污況和實際處理結果；絨毛整理過顏色會比較均勻，原本的磨損不會消失，水痕也不一定全消。鞋子處理大約 7 天（店家預估交期）。\n\n分不出是水痕還是髒，拍鞋面、水痕、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "麂皮馬汀靴淋到雨留水痕：先看材質與水痕，別追著水邊猛擦。\n\n麂皮碰到水，濕的地方會變深，乾了以後留一圈邊，絨毛也會塌下去。那圈邊多半不是髒，是水乾掉的痕跡。別只追著水邊反覆濕擦，先確認材質與處理方式；只濕擦局部，可能再留下一圈新的邊。\n\n先別做三件事：拿濕布只擦那一塊、用吹風機貼著猛吹、上任何油或皮革保養品（麂皮不上油）。\n\n在家可以先這樣：鞋帶鬆開，鞋裡鬆鬆塞紙、立著，放通風處先收乾，不要曬太陽。\n\n在店裡，我們會先確認材質和掉色風險，再處理：鞋面均勻噴濕，不泡水；軟毛刷帶薄泡沫輕刷、順一個方向；泡沫和污水擦乾淨；塞紙立著、控制風溫慢慢收乾；內外乾透之後，再用乾淨的麂皮刷整理絨毛。\n\n老實說：改善程度要看材質、污況和實際處理結果；絨毛整理過顏色會比較均勻，原本的磨損不會消失，水痕也不一定全消。鞋子處理大約 7 天（店家預估交期）。\n\n分不出是水痕還是髒，拍鞋面、水痕、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json#post-2026-10-03-slot-02",
+      "date": "2026-10-03",
+      "date_published": "2026-10-03T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-03 20:30 麂皮靴留水痕，先別急著擦",
+      "topic": "麂皮靴留水痕，先別急著擦",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "麂皮靴水痕",
+        "麂皮鞋淋雨",
+        "麂皮靴怎麼清",
+        "馬汀靴麂皮清潔",
+        "台中洗鞋",
+        "西屯洗鞋"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#麂皮靴清潔",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-03-slot-02.html",
+      "facebook_caption": "麂皮淋了雨，先別急著擦。\n\n在店裡的順序：先看材質和水痕，再處理。鞋面均勻噴濕，別追白邊。軟刷帶泡沫，鞋面輕輕刷。塞紙支撐，立著收乾。控制風溫，移動著收乾。乾透後，輕刷整理絨毛。\n\n老實說：水痕不一定全消，磨損仍在。\n\n整理好，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "麂皮淋了雨，先別急著擦。\n\n在店裡的順序：先看材質和水痕，再處理。鞋面均勻噴濕，別追白邊。軟刷帶泡沫，鞋面輕輕刷。塞紙支撐，立著收乾。控制風溫，移動著收乾。乾透後，輕刷整理絨毛。\n\n老實說：水痕不一定全消，磨損仍在。\n\n整理好，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查"
     }
   ]
 }

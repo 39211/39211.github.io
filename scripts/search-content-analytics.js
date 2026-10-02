@@ -78,7 +78,12 @@
     if (targetUrl.origin !== new URL(window.location.href).origin) return;
 
     if (targetUrl.pathname.endsWith("/go/line.html")) {
-      send("click_line_cta", { cta_name: ctaName });
+      // Entry slugs are not acquisition sources. Never forward arbitrary URL data.
+      const sources = targetUrl.searchParams.getAll("source");
+      const source = sources.length === 1 ? sources[0] : "";
+      const linkSource = source === source.trim() && /^[a-z][a-z0-9_-]{0,99}$/.test(source)
+        ? source : "unknown";
+      send("click_line_cta", { cta_name: ctaName, link_source: linkSource });
       return;
     }
 
