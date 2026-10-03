@@ -288,6 +288,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-02/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-03/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-04/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -481,7 +483,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-03"
+      "dateModified": "2026-10-04"
     },
     {
       "@type": "FAQPage",
@@ -542,7 +544,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-03",
+      "dateModified": "2026-10-04",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -13350,6 +13352,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
       "caption": "麂皮靴留水痕，先別急著擦",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-01",
+      "headline": "2026-10-04 11:30 Gucci 托特包提把變深、包角發白：先分是哪一種",
+      "text": "Gucci 托特包提把變深、包角發白：先分是哪一種。\n\n提把手握的那一段比兩端深，可能是手汗、皮脂、護手霜，也可能是皮面本身變色；光看顏色分不出來。拿布去擦，布上沾到褐色也不一定是髒東西，有可能是皮革本身的顏色被帶下來，這時候就該停手，不要越擦越用力。\n\n包角發白、花紋變淡，常見是塗層磨損。磨掉的塗層，清潔補不回來；要不要補色，要看過包再說。\n\n先別做三件事：在提把塗護手霜或皮革油、拿酒精擦包角、整個包泡水。\n\n在店裡，我們先確認材質、測試會不會掉色，再分開處理：帆布照原廠日常照護用柔軟乾布清理；提把在有支撐的狀態下短距離清理，換乾布收尾、通風陰乾。清完的提把仍可能有色差；磨損的地方，清到那裡就停。\n\n拍整包、提把近照、四個角各一張傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #包包提把清潔 #送洗前檢查",
+      "datePublished": "2026-10-04T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#名牌包清潔",
+        "#包包提把清潔",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-04/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-04/slot-01.png",
+      "caption": "Gucci 托特包提把變深、包角發白：先分是哪一種",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-02",
+      "headline": "2026-10-04 20:30 Gucci 托特提把變深，先排除掉色再清",
+      "text": "提把變深，先別急著上油。\n\n這處磨白，清洗補不回。\n\n在店裡的順序：先除油，鬆開握位的油污。清洗劑稀釋，一段一段擦。帆布也擦過，不做整包浸泡。塞紙定型，立著收乾。\n\n提把清完，仍可能有色差。底角仍磨白，補色另外談。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #包包提把清潔 #送洗前檢查",
+      "datePublished": "2026-10-04T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#名牌包清潔",
+        "#包包提把清潔",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png",
+      "caption": "Gucci 托特提把變深，先排除掉色再清",
       "inLanguage": "zh-Hant"
     }
   ]

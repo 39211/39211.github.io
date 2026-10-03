@@ -1,0 +1,90 @@
+{
+  "topic": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事",
+  "date": "2026-10-07",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第1、2、4張主體為白色低筒球鞋，第3張呈現包含白色、黑白及粉色鞋的多鞋集合，無法視為同一雙鞋的單一物件畫面。",
+    "SCENE": "第1、4張為木工作檯上的黑墊，第2張為金屬刷洗槽，第3張為金屬鞋櫃，場景不屬於同一工作檯或牆面家族。",
+    "TOPIC_MATCH": "四張均呈現球鞋，物件類型符合主題中的鞋。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-07/slot-01.png",
+      "canary": "6B76",
+      "sha256": "79d91732238b241d94311cbe8df42e29af4fb11c6bc9f8aa4fa0c6ded8ac56c2"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-07/slot-01-slide-02.png",
+      "canary": "LZFE",
+      "sha256": "6e7e629164be02fbde52764660d9712c1ec8b70ff6699cfc228ec5c0cf274444"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-07/slot-01-slide-03.png",
+      "canary": "N6YG",
+      "sha256": "780d5cebe49dbf6fdcdef467bcbcc1f12d4bd50d8d4230c8c0760bcf7cb1553c"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-07/slot-01-slide-04.png",
+      "canary": "WQP7",
+      "sha256": "937555480722c3727350759da2c3e62962ebf70c3cfc7feb7df2fd3df40fe2d7"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-07/slot-01.png",
+    "docs/assets/2026-10-07/slot-01-slide-02.png",
+    "docs/assets/2026-10-07/slot-01-slide-03.png",
+    "docs/assets/2026-10-07/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "6B76",
+    "IMAGE_2": "LZFE",
+    "IMAGE_3": "N6YG",
+    "IMAGE_4": "WQP7"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "6B76",
+    "IMAGE_2": "LZFE",
+    "IMAGE_3": "N6YG",
+    "IMAGE_4": "WQP7"
+  },
+  "prompt_hash": "688a73d2a5c057a8bcda1774735eb1c9c76422e32441a1f174477b9e8b8245ad",
+  "run_id": "carousel-qa-1791066611199",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-03T22:32:05.111Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "688a73d2a5c057a8bcda1774735eb1c9c76422e32441a1f174477b9e8b8245ad",
+      "stdout_sha256": "be3802dceb33f3a16f4c5387ea6fa341e50481f89c20d271fd6157b44439ab06",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}
