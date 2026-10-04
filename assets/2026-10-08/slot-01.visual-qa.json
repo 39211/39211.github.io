@@ -1,0 +1,90 @@
+{
+  "topic": "麂皮外套發花、絨面塌了：送洗前先看這三件事",
+  "date": "2026-10-08",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張均為紅色絨面外套，中央銀色拉鍊、胸前橫向接縫及腰側斜向接縫一致，未見顏色、服裝類型或粗分材質改變。",
+    "SCENE": "第1張可見木櫃、窗戶及玄關門，第2至4張則為銀色金屬工作檯或金屬牆面，場景家族不同。",
+    "TOPIC_MATCH": "四張主體都是外套，符合主題中的外套服裝類別。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-08/slot-01.png",
+      "canary": "PDF9",
+      "sha256": "caea5a97d91ee53bec8ecaefa9701a71c4c8d50c187229cb5ff5f4a52b5808fc"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-08/slot-01-slide-02.png",
+      "canary": "5JVW",
+      "sha256": "52fee384c2586d1f7bbb26e809c19b653af6721aec1b51cf83e5fb092ef13320"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-08/slot-01-slide-03.png",
+      "canary": "NTMN",
+      "sha256": "6adc6c0a83cf50ba2c19be713b7770117e0a3f21685a507a22d2c1633bf471e5"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-08/slot-01-slide-04.png",
+      "canary": "V5YP",
+      "sha256": "18063ed98bd78d54830e039e4566b7eb7495f4c3b9bc6734113353bc0773ace0"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-08/slot-01.png",
+    "docs/assets/2026-10-08/slot-01-slide-02.png",
+    "docs/assets/2026-10-08/slot-01-slide-03.png",
+    "docs/assets/2026-10-08/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "PDF9",
+    "IMAGE_2": "5JVW",
+    "IMAGE_3": "NTMN",
+    "IMAGE_4": "V5YP"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "PDF9",
+    "IMAGE_2": "5JVW",
+    "IMAGE_3": "NTMN",
+    "IMAGE_4": "V5YP"
+  },
+  "prompt_hash": "d4f21e541b3575a4ddf14a997c1eb30ff18eac6307df135ebe48b952ab761139",
+  "run_id": "carousel-qa-1791153008698",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-04T22:31:25.656Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "d4f21e541b3575a4ddf14a997c1eb30ff18eac6307df135ebe48b952ab761139",
+      "stdout_sha256": "5be0a3f322e983cc455f02e8c950d6bf360bf656e54fcc834d86658928aebfcb",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}

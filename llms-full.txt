@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-03T22:32:07.415Z
+- Generated at: 2026-10-04T22:31:28.060Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -382,6 +382,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-04/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-05/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-05/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -10415,4 +10417,102 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #包包提把清潔 #送洗前檢查
+
+### 2026-10-05 11:30 白襯衫領口黃了洗得回來嗎：先處理，再談漂
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-01
+- published local time: 2026-10-05T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中襯衫清洗 | 白襯衫領口黃 | 襯衫領口發黃怎麼洗 | 西屯洗衣店 | 台中洗衣店推薦 | 襯衫整燙
+- evidence_type: pickup-logistics
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-05/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-05.json
+
+Facebook caption:
+
+白襯衫領口黃了洗得回來嗎：先處理，再談漂。
+
+領口內側那一圈黃，常見和汗、皮脂留在布裡、放久了變色有關；但只看顏色，不能確定是哪一種原因。
+
+送洗前先別做：拿熨斗先燙、直接倒漂白水、用力來回硬刷。
+
+在店裡，我們這樣做：先看洗標、檢查領口袖口，可拆的領撐先取出；局部測試後做預處理，給足時間再整件水洗、漂清；洗完複查，洗標允許、有需要才用氧系漂白，處理後再洗清一次；去漬結束，才照洗標整燙。
+
+老實說：比較新的領口黃有機會明顯變淡；放很多年的舊黃，不保證能回到全白。漂白過的領口，要看過實物再說。襯衫處理大約 5–7 天。
+
+拍領口內側、袖口、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查
+
+Instagram caption:
+
+白襯衫領口黃了洗得回來嗎：先處理，再談漂。
+
+領口內側那一圈黃，常見和汗、皮脂留在布裡、放久了變色有關；但只看顏色，不能確定是哪一種原因。
+
+送洗前先別做：拿熨斗先燙、直接倒漂白水、用力來回硬刷。
+
+在店裡，我們這樣做：先看洗標、檢查領口袖口，可拆的領撐先取出；局部測試後做預處理，給足時間再整件水洗、漂清；洗完複查，洗標允許、有需要才用氧系漂白，處理後再洗清一次；去漬結束，才照洗標整燙。
+
+老實說：比較新的領口黃有機會明顯變淡；放很多年的舊黃，不保證能回到全白。漂白過的領口，要看過實物再說。襯衫處理大約 5–7 天。
+
+拍領口內側、袖口、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查
+
+### 2026-10-05 20:30 白襯衫領口黃，先處理再洗
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-02
+- published local time: 2026-10-05T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中襯衫清洗 | 白襯衫領口黃 | 襯衫領口發黃怎麼洗 | 西屯洗衣店 | 台中洗衣店推薦 | 襯衫整燙
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-05/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-05.json
+
+Facebook caption:
+
+領口黃了，先別急著燙。
+
+先看洗標，再查領口袖口。
+
+在店裡的順序：先預處理，別急著硬刷。依照洗標，整件先洗淨。洗標允許，才用氧系漂白。處理過後，要再洗清一次。去漬結束，再照洗標燙。
+
+舊黃不保證能全白。
+
+拍照傳LINE，先幫你看。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查
+
+Instagram caption:
+
+領口黃了，先別急著燙。
+
+先看洗標，再查領口袖口。
+
+在店裡的順序：先預處理，別急著硬刷。依照洗標，整件先洗淨。洗標允許，才用氧系漂白。處理過後，要再洗清一次。去漬結束，再照洗標燙。
+
+舊黃不保證能全白。
+
+拍照傳LINE，先幫你看。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查
 

@@ -290,6 +290,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-04/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-05/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-05/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -483,7 +485,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-04"
+      "dateModified": "2026-10-05"
     },
     {
       "@type": "FAQPage",
@@ -544,7 +546,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-04",
+      "dateModified": "2026-10-05",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -13418,6 +13420,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png",
       "caption": "Gucci 托特提把變深，先排除掉色再清",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-01",
+      "headline": "2026-10-05 11:30 白襯衫領口黃了洗得回來嗎：先處理，再談漂",
+      "text": "白襯衫領口黃了洗得回來嗎：先處理，再談漂。\n\n領口內側那一圈黃，常見和汗、皮脂留在布裡、放久了變色有關；但只看顏色，不能確定是哪一種原因。\n\n送洗前先別做：拿熨斗先燙、直接倒漂白水、用力來回硬刷。\n\n在店裡，我們這樣做：先看洗標、檢查領口袖口，可拆的領撐先取出；局部測試後做預處理，給足時間再整件水洗、漂清；洗完複查，洗標允許、有需要才用氧系漂白，處理後再洗清一次；去漬結束，才照洗標整燙。\n\n老實說：比較新的領口黃有機會明顯變淡；放很多年的舊黃，不保證能回到全白。漂白過的領口，要看過實物再說。襯衫處理大約 5–7 天。\n\n拍領口內側、袖口、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查",
+      "datePublished": "2026-10-05T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#襯衫清洗",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-05/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-05/slot-01.png",
+      "caption": "白襯衫領口黃了洗得回來嗎：先處理，再談漂",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-02",
+      "headline": "2026-10-05 20:30 白襯衫領口黃，先處理再洗",
+      "text": "領口黃了，先別急著燙。\n\n先看洗標，再查領口袖口。\n\n在店裡的順序：先預處理，別急著硬刷。依照洗標，整件先洗淨。洗標允許，才用氧系漂白。處理過後，要再洗清一次。去漬結束，再照洗標燙。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查",
+      "datePublished": "2026-10-05T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#襯衫清洗",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-05/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-05/slot-02.png",
+      "caption": "白襯衫領口黃，先處理再洗",
       "inLanguage": "zh-Hant"
     }
   ]
