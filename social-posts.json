@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T22:31:28.060Z",
+  "generated_at": "2026-10-05T22:31:01.847Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -9,7 +9,7 @@
   "image_base_url": "https://sixiangjialaundry.com",
   "image_base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "latest_date": "2026-10-05",
+  "latest_date": "2026-10-06",
   "open_graph": {
     "title": "私享家洗衣店｜台中洗衣洗鞋洗包・全市免費收送・價格公開",
     "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
@@ -11356,6 +11356,66 @@
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-02",
       "facebook_caption": "領口黃了，先別急著燙。\n\n先看洗標，再查領口袖口。\n\n在店裡的順序：先預處理，別急著硬刷。依照洗標，整件先洗淨。洗標允許，才用氧系漂白。處理過後，要再洗清一次。去漬結束，再照洗標燙。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查",
       "instagram_caption": "領口黃了，先別急著燙。\n\n先看洗標，再查領口袖口。\n\n在店裡的順序：先預處理，別急著硬刷。依照洗標，整件先洗淨。洗標允許，才用氧系漂白。處理過後，要再洗清一次。去漬結束，再照洗標燙。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01",
+      "date": "2026-10-06",
+      "date_published": "2026-10-06T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-06 11:30 毛毯起球又黏滿寵物毛：下水前先除毛",
+      "topic": "毛毯起球又黏滿寵物毛：下水前先除毛",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中毛毯清洗",
+        "毛毯起毛球怎麼辦",
+        "毛毯寵物毛怎麼清",
+        "西屯寢具清洗",
+        "台中洗衣店推薦",
+        "毛毯送洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#毛毯清洗",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-06/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-06/slot-01.png",
+        "assets/2026-10-06/slot-01-slide-02.png",
+        "assets/2026-10-06/slot-01-slide-03.png",
+        "assets/2026-10-06/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-06.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json",
+      "article_path": "posts/2026-10-06-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-06-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01",
+      "facebook_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查",
+      "instagram_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查"
     }
   ],
   "article_posts": [
@@ -22056,6 +22116,66 @@
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-02",
       "facebook_caption": "領口黃了，先別急著燙。\n\n先看洗標，再查領口袖口。\n\n在店裡的順序：先預處理，別急著硬刷。依照洗標，整件先洗淨。洗標允許，才用氧系漂白。處理過後，要再洗清一次。去漬結束，再照洗標燙。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查",
       "instagram_caption": "領口黃了，先別急著燙。\n\n先看洗標，再查領口袖口。\n\n在店裡的順序：先預處理，別急著硬刷。依照洗標，整件先洗淨。洗標允許，才用氧系漂白。處理過後，要再洗清一次。去漬結束，再照洗標燙。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01",
+      "date": "2026-10-06",
+      "date_published": "2026-10-06T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-06 11:30 毛毯起球又黏滿寵物毛：下水前先除毛",
+      "topic": "毛毯起球又黏滿寵物毛：下水前先除毛",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中毛毯清洗",
+        "毛毯起毛球怎麼辦",
+        "毛毯寵物毛怎麼清",
+        "西屯寢具清洗",
+        "台中洗衣店推薦",
+        "毛毯送洗"
+      ],
+      "evidence_type": "first-party-inspection",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#毛毯清洗",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-06/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-06/slot-01.png",
+        "assets/2026-10-06/slot-01-slide-02.png",
+        "assets/2026-10-06/slot-01-slide-03.png",
+        "assets/2026-10-06/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-06.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json",
+      "article_path": "posts/2026-10-06-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-06-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01",
+      "facebook_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查",
+      "instagram_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查"
     }
   ]
 }

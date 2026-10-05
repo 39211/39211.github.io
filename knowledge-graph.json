@@ -292,6 +292,7 @@
         "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-05/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-05/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -485,7 +486,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-05"
+      "dateModified": "2026-10-06"
     },
     {
       "@type": "FAQPage",
@@ -546,7 +547,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-05",
+      "dateModified": "2026-10-06",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -13486,6 +13487,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-05/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-05/slot-02.png",
       "caption": "白襯衫領口黃，先處理再洗",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01",
+      "headline": "2026-10-06 11:30 毛毯起球又黏滿寵物毛：下水前先除毛",
+      "text": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查",
+      "datePublished": "2026-10-06T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#毛毯清洗",
+        "#台中洗衣店",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
+      "caption": "毛毯起球又黏滿寵物毛：下水前先除毛",
       "inLanguage": "zh-Hant"
     }
   ]
