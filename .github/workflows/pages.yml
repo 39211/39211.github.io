@@ -3,6 +3,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+    inputs:
+      override_ref:
+        description: 'Test-only override ref; honoured only on non-main refs'
+        type: string
+        default: main
 
 permissions:
   contents: write
@@ -10,11 +15,14 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  # Keep branch test runs from cancelling production runs.
+  group: pages-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
   deploy:
+    timeout-minutes: 30
+    # A job split is the cleaner follow-up for branch tests without this environment.
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
@@ -27,34 +35,134 @@ jobs:
 
       - name: Restore SEO overrides (pre-artifact)
         id: restore
-        continue-on-error: true
         env:
-          # Soft-fail the whole step only via our own exit paths; continue-on-error
-          # also covers unexpected clone failures so Pages still deploys.
+          # Fail closed: any failure stops the job before configure/upload/deploy;
+          # GitHub Pages keeps serving the last good deployment.
           OVERRIDE_REMOTE: https://github.com/39211/laundry-social-auto-poster.git
+          OVERRIDE_REF: main
+          GIT_TERMINAL_PROMPT: "0"
+          MIN_OVERRIDE_HTML: "110"
+          MIN_SITEMAP_URLS: "110"
+          SENTINELS: index.html knowledge/index.html hubs/shoe-care.html guides/knit-shoe-cleaning.html local/fengyuan-laundry-pickup.html local/dali-laundry-pickup.html
+          INPUT_OVERRIDE_REF: ${{ inputs.override_ref }}
+          RUN_REF: ${{ github.ref }}
         run: |
           set -euo pipefail
-          SRC="${RUNNER_TEMP}/laundry-seo/seo-overrides"
-          rm -rf "${RUNNER_TEMP}/laundry-seo"
-          echo "::notice::Fetching seo-overrides from 39211/laundry-social-auto-poster@main into RUNNER_TEMP"
+          export SRC="${RUNNER_TEMP}/laundry-seo/seo-overrides"
+          REF="$OVERRIDE_REF"
+          if [ "$RUN_REF" = refs/heads/main ]; then
+            if [ -n "$INPUT_OVERRIDE_REF" ] && [ "$INPUT_OVERRIDE_REF" != main ]; then
+              echo "::error::Production must overlay laundry@main"
+              exit 1
+            fi
+          elif [ -n "$INPUT_OVERRIDE_REF" ]; then
+            REF="$INPUT_OVERRIDE_REF"
+          fi
 
-          if ! git clone --depth 1 --filter=blob:none --sparse --branch main \
-              "$OVERRIDE_REMOTE" "${RUNNER_TEMP}/laundry-seo"; then
-            echo "::warning::Failed to clone laundry-social-auto-poster; deploying without SEO overlay"
-            exit 0
+          fetch_overrides() {
+            local attempt
+            for attempt in 1 2 3; do
+              rm -rf "${RUNNER_TEMP}/laundry-seo" || return 1
+              echo "::notice::Fetching seo-overrides (attempt $attempt, ref $REF)"
+              if timeout --kill-after=10 120 git clone --depth 1 --filter=blob:none --sparse --branch "$REF" \
+                  "$OVERRIDE_REMOTE" "${RUNNER_TEMP}/laundry-seo" &&
+                  timeout --kill-after=10 120 git -C "${RUNNER_TEMP}/laundry-seo" sparse-checkout set seo-overrides; then
+                return 0
+              fi
+              case "$attempt" in
+                1) sleep 10 ;;
+                2) sleep 30 ;;
+              esac
+            done
+            return 1
+          }
+          if ! fetch_overrides; then
+            echo "::error::Failed to fetch seo-overrides after 3 attempts"
+            exit 1
           fi
-          if ! git -C "${RUNNER_TEMP}/laundry-seo" sparse-checkout set seo-overrides; then
-            echo "::warning::Failed to sparse-checkout seo-overrides; deploying without SEO overlay"
-            exit 0
-          fi
+          SHA=$(git -C "${RUNNER_TEMP}/laundry-seo" rev-parse HEAD)
+          echo "::notice::seo-overrides from laundry@$SHA (ref $REF)"
+
+          # Pre-overlay sanity checks.
           if [ ! -d "$SRC" ]; then
-            echo "::warning::seo-overrides/ missing after fetch; deploying without SEO overlay"
-            exit 0
+            echo "::error::seo-overrides/ missing after fetch"
+            exit 1
           fi
+          HTML_COUNT=$(find "$SRC" -type f -name '*.html' | wc -l)
+          if [ "$HTML_COUNT" -lt "$MIN_OVERRIDE_HTML" ]; then
+            echo "::error::Only $HTML_COUNT override HTML files; require $MIN_OVERRIDE_HTML"
+            exit 1
+          fi
+          for sentinel in $SENTINELS; do
+            if [ ! -f "$SRC/$sentinel" ]; then
+              echo "::error::Missing override sentinel: $sentinel"
+              exit 1
+            fi
+          done
+          python3 << 'PY'
+          import os
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          from urllib.parse import urlsplit
+
+          try:
+              root = ET.parse(Path(os.environ["SRC"]) / "sitemap.xml").getroot()
+              locs = [el.text or "" for el in root.iter() if el.tag.split("}")[-1] == "loc"]
+              if len(locs) < int(os.environ["MIN_SITEMAP_URLS"]):
+                  raise ValueError(f"Only {len(locs)} override sitemap URLs")
+              if any(urlsplit(loc.strip()).path.startswith("/posts/") for loc in locs):
+                  raise ValueError("Override sitemap contains /posts/ URLs")
+          except (OSError, ET.ParseError, ValueError) as exc:
+              raise SystemExit(f"::error::Pre-overlay sitemap check failed: {exc}")
+          print(f"Pre-overlay: {len(locs)} sitemap URLs")
+          PY
+          echo "::notice::Pre-overlay: $HTML_COUNT HTML files; all sentinels present"
 
           echo "::notice::Overlaying seo-overrides onto repo root (excluding README.md)"
           # rsync keeps directory structure; exclude README only at any depth.
           rsync -a --exclude 'README.md' "$SRC"/ ./
+
+          # Post-overlay verification before any post-processing.
+          if ! find "$SRC" -type f ! -name README.md -print0 > "${RUNNER_TEMP}/overlay-manifest"; then
+            echo "::error::Failed to enumerate overlay files"
+            exit 1
+          fi
+          EXPECTED_FILE_COUNT=$(tr -cd '\0' < "${RUNNER_TEMP}/overlay-manifest" | wc -c)
+          FILE_COUNT=0
+          while IFS= read -r -d '' file; do
+            relative="${file#"$SRC"/}"
+            if ! cmp -s "$file" "./$relative"; then
+              echo "::error::Overlay mismatch: $relative"
+              exit 1
+            fi
+            FILE_COUNT=$((FILE_COUNT + 1))
+          done < "${RUNNER_TEMP}/overlay-manifest"
+          if [ "$FILE_COUNT" -ne "$EXPECTED_FILE_COUNT" ] || [ "$FILE_COUNT" -le 0 ]; then
+            echo "::error::Verified $FILE_COUNT overlay files; expected $EXPECTED_FILE_COUNT and a non-empty overlay"
+            exit 1
+          fi
+          echo "::notice::Post-overlay: $FILE_COUNT files byte-identical"
+          python3 << 'PY'
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+
+          try:
+              root = ET.parse("sitemap.xml").getroot()
+              locs = [el.text or "" for el in root.iter() if el.tag.split("}")[-1] == "loc"]
+              for loc in locs:
+                  url = loc.strip()
+                  prefix = "https://sixiangjialaundry.com/"
+                  if not url.startswith(prefix):
+                      raise ValueError(f"Unexpected sitemap URL: {url}")
+                  relative = url[len(prefix):]
+                  if not relative or relative.endswith("/"):
+                      relative += "index.html"
+                  if not Path(relative).is_file():
+                      raise ValueError(f"Missing sitemap target: {relative}")
+          except (OSError, ET.ParseError, ValueError) as exc:
+              raise SystemExit(f"::error::Post-overlay sitemap check failed: {exc}")
+          print(f"Post-overlay: {len(locs)} sitemap targets exist")
+          PY
 
           echo "::notice::Forcing noindex,follow on posts/*slot*.html"
           python3 << 'PY'
@@ -257,10 +365,115 @@ jobs:
           print(f"feed cleanup touched={touched}")
           PY
 
+          # STOPGAP (2026-10-06): remove once the mirror-source fix (merge of laundry main into fix/reel-v3-two-reference-images, then the Windows checkout fast-forwarded) is live and the mirror itself emits a noindex posts hub and an ai-sitemap without /posts/.
+          python3 << 'PY'
+          import re
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          from urllib.parse import urlsplit
+
+          p = Path("posts/index.html")
+          if p.is_file():
+              raw = p.read_text(encoding="utf-8")
+              found_robots = False
+
+              def patch_meta(m):
+                  global found_robots
+                  tag = m.group(0)
+                  name = re.search(r"\bname\s*=\s*(['\"])(robots|googlebot)\1", tag, re.I)
+                  if not name:
+                      return tag
+                  if name.group(2).lower() == "robots":
+                      found_robots = True
+                  content = re.compile(r"(\bcontent\s*=\s*)(['\"])(.*?)\2", re.I | re.S)
+                  if content.search(tag):
+                      return content.sub(lambda c: c.group(1) + c.group(2) + "noindex, follow" + c.group(2), tag)
+                  return re.sub(r"(\s*/?>)$", r' content="noindex, follow"\1', tag)
+
+              updated = re.sub(r"<meta\b[^>]*>", patch_meta, raw, flags=re.I)
+              if not found_robots:
+                  updated, inserted = re.subn(r"(<head\b[^>]*>)", r'\1\n    <meta name="robots" content="noindex, follow" />', updated, count=1, flags=re.I)
+                  if not inserted:
+                      raise SystemExit("::error::posts/index.html has no head for robots meta")
+              if updated != raw:
+                  p.write_text(updated, encoding="utf-8")
+              print("posts/index.html: robots/googlebot set to noindex, follow")
+          else:
+              print("posts/index.html: not present")
+
+          p = Path("ai-sitemap.xml")
+          if p.is_file():
+              raw = p.read_text(encoding="utf-8")
+              declaration = re.match(r"^\s*(<\?xml[^?]*\?>)\s*", raw)
+              decl = declaration.group(1) + "\n" if declaration else ""
+              root = ET.fromstring(raw[declaration.end():] if declaration else raw)
+              removed = 0
+              for element in list(root):
+                  if element.tag.split("}")[-1] != "url":
+                      continue
+                  loc = next((child.text or "" for child in element if child.tag.split("}")[-1] == "loc"), "")
+                  if urlsplit(loc.strip()).path.startswith("/posts/"):
+                      root.remove(element)
+                      removed += 1
+              if root.tag.startswith("{"):
+                  ET.register_namespace("", root.tag.split("}")[0][1:])
+              body = ET.tostring(root, encoding="unicode") + "\n"
+              ET.fromstring(body)
+              p.write_text(decl + body, encoding="utf-8")
+              print(f"ai-sitemap.xml: removed {removed} /posts/ <url> entries")
+          else:
+              print("ai-sitemap.xml: not present")
+          PY
+          # END STOPGAP (2026-10-06).
+
+          # Final assertions before signalling restore readiness.
+          python3 << 'PY'
+          import os
+          import re
+          import xml.etree.ElementTree as ET
+          from pathlib import Path
+          from urllib.parse import urlsplit
+
+          def locs(path):
+              return [el.text or "" for el in ET.parse(path).getroot().iter() if el.tag.split("}")[-1] == "loc"]
+
+          try:
+              source = locs(Path(os.environ["SRC"]) / "sitemap.xml")
+              live = locs("sitemap.xml")
+              if len(live) != len(source):
+                  raise ValueError(f"Sitemap count changed: {len(source)} -> {len(live)}")
+              for name in ("sitemap.xml", "ai-sitemap.xml"):
+                  if name == "sitemap.xml" or Path(name).is_file():
+                      if any(urlsplit(url.strip()).path.startswith("/posts/") for url in locs(name)):
+                          raise ValueError(f"{name} contains /posts/ URLs")
+              hub = Path("posts/index.html")
+              if hub.is_file():
+                  robots = []
+                  for tag in re.findall(r"<meta\b[^>]*>", hub.read_text(encoding="utf-8"), re.I):
+                      if re.search(r"\bname\s*=\s*(['\"])robots\1", tag, re.I):
+                          content = re.search(r"\bcontent\s*=\s*(['\"])(.*?)\1", tag, re.I | re.S)
+                          robots.append(content.group(2) if content else "")
+                  if not robots or any("noindex" not in [token.strip().lower() for token in value.split(",")] for value in robots):
+                      raise ValueError("posts/index.html robots meta is not noindex")
+          except (OSError, ET.ParseError, ValueError) as exc:
+              raise SystemExit(f"::error::Final SEO assertions failed: {exc}")
+          print(f"Final SEO assertions: {len(live)}/{len(source)} sitemap URLs, 0 /posts/ URLs, posts hub noindex if present")
+          PY
+
           echo "restore_ready=true" >> "$GITHUB_OUTPUT"
+
+      # Upload the verified tree before any commit/rebase can change it.
+      - uses: actions/configure-pages@v5
+        if: github.ref == 'refs/heads/main'
+
+      - uses: actions/upload-pages-artifact@v3
+        if: github.ref == 'refs/heads/main'
+        with:
+          path: .
 
       - name: Commit SEO restore if tree changed
         if: >
+          github.ref == 'refs/heads/main' &&
           steps.restore.outcome == 'success' &&
           (
             github.event_name == 'workflow_dispatch' ||
@@ -283,18 +496,16 @@ jobs:
             echo "::notice::SEO restore commit pushed"
           else
             echo "::warning::Push failed; retrying after pull --rebase"
-            if git pull --rebase origin main && git push origin HEAD:main; then
+            if ! git pull --rebase origin main; then
+              git rebase --abort || true
+              echo "::warning::SEO restore push failed; continuing deploy with restored workspace"
+            elif git push origin HEAD:main; then
               echo "::notice::SEO restore commit pushed after rebase"
             else
               echo "::warning::SEO restore push failed; continuing deploy with restored workspace"
             fi
           fi
 
-      - uses: actions/configure-pages@v5
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: .
-
       - id: deployment
         uses: actions/deploy-pages@v4
+        if: github.ref == 'refs/heads/main'
