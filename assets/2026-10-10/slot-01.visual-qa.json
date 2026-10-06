@@ -1,0 +1,90 @@
+{
+  "topic": "馬皮短靴穿久沒新感：店裡怎麼處理",
+  "date": "2026-10-10",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張均為一雙黑色皮革短靴，前置金屬拉鍊、圓鞋頭與鞋底輪廓一致；第3張的黃色膠帶是外加遮蔽物。",
+    "SCENE": "第1張的短靴放在磁磚地面，後方是櫃體；第2至4張放在不鏽鋼水槽或工作檯，場景家族不同。",
+    "TOPIC_MATCH": "四張主體均為短靴，符合主題中「短靴」的鞋類物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-10/slot-01.png",
+      "canary": "E6ND",
+      "sha256": "97d3d19940a1e872411336b615ca3548f1c44f0a06f2d02aee1f51fb899ae7ec"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-10/slot-01-slide-02.png",
+      "canary": "2QA9",
+      "sha256": "e4549dcb80d6752b426d8c16c0e8ff6384faca40635a067814aaa0d95ef2c11e"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-10/slot-01-slide-03.png",
+      "canary": "RARQ",
+      "sha256": "e83eb90ea276e6cdef50218188cb83ac48431f5c0c9dd16202eb0ffdffd6c591"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-10/slot-01-slide-04.png",
+      "canary": "RGXJ",
+      "sha256": "e64d4020919aab86e7752a4460d8112458cdb30b30ed65045965a9db5b4a518a"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-10/slot-01.png",
+    "docs/assets/2026-10-10/slot-01-slide-02.png",
+    "docs/assets/2026-10-10/slot-01-slide-03.png",
+    "docs/assets/2026-10-10/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "E6ND",
+    "IMAGE_2": "2QA9",
+    "IMAGE_3": "RARQ",
+    "IMAGE_4": "RGXJ"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "E6ND",
+    "IMAGE_2": "2QA9",
+    "IMAGE_3": "RARQ",
+    "IMAGE_4": "RGXJ"
+  },
+  "prompt_hash": "ca283689ade8583112a6efd240e0e4b00d7b94d6caf67233cf7faf420853b4f9",
+  "run_id": "carousel-qa-1791325812257",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-06T22:31:00.909Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "ca283689ade8583112a6efd240e0e4b00d7b94d6caf67233cf7faf420853b4f9",
+      "stdout_sha256": "0585f98bc5ed5fc780d44b3427da047ddd021cb673c64d4f6908595a640155d1",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}

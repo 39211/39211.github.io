@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-10-05T22:31:01.847Z",
+  "generated_at": "2026-10-06T22:31:03.955Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -628,6 +628,8 @@
       "https://sixiangjialaundry.com/assets/2026-10-05/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-05/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2126,10 +2128,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots, enter rss.xml and the posts hub; the human sitemap.xml lists money/service/guide URLs first and only the newest sitemap_max_indexable_posts thick articles so conversion pages are not buried.",
-      "indexable_article_count": 189,
+      "indexable_article_count": 191,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 189
+      "article_count": 191
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2143,67 +2145,202 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 199,
-    "latest_date": "2026-10-06",
+    "post_count": 201,
+    "latest_date": "2026-10-07",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 119,
-    "posts_with_target_queries": 121,
-    "posts_with_evidence_type": 121
+    "posts_with_search_intent": 121,
+    "posts_with_target_queries": 123,
+    "posts_with_evidence_type": 123
   },
-  "latest_date": "2026-10-06",
+  "latest_date": "2026-10-07",
   "latest_posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01",
-      "date": "2026-10-06",
-      "date_published": "2026-10-06T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json#post-2026-10-07-slot-01",
+      "date": "2026-10-07",
+      "date_published": "2026-10-07T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-10-06 11:30 毛毯起球又黏滿寵物毛：下水前先除毛",
-      "topic": "毛毯起球又黏滿寵物毛：下水前先除毛",
+      "title": "2026-10-07 11:30 AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事",
+      "topic": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事",
       "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
+      "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中毛毯清洗",
-        "毛毯起毛球怎麼辦",
-        "毛毯寵物毛怎麼清",
-        "西屯寢具清洗",
-        "台中洗衣店推薦",
-        "毛毯送洗"
+        "台中洗鞋",
+        "AF1 鞋頭摺痕",
+        "白鞋鞋邊發黃",
+        "西屯洗鞋",
+        "台中洗鞋推薦",
+        "AF1 清洗"
       ],
-      "evidence_type": "first-party-inspection",
+      "evidence_type": "customer-question",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#毛毯清洗",
-        "#台中洗衣店",
+        "#洗鞋",
+        "#台中洗鞋",
         "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-04.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-06-slot-01.html",
-      "facebook_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查",
-      "instagram_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-07-slot-01.html",
+      "facebook_caption": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事。\n\n白色 AF1 穿一陣子，常見三件事一起出現：鞋頭的摺痕、卡在摺溝裡的灰、鞋邊（中底側面）的黃。摺痕是皮被彎折留下的形狀，不是髒；溝裡的灰是髒，清得掉；鞋邊的黃原因不只一種，清潔之後不一定會退。\n\n送洗前先別做：整雙丟進洗衣機、拿漂白水刷鞋邊、用吹風機或太陽曬乾。\n\n在店裡，我們這樣做：先看材質和膠合，有開膠的先另外評估；拆鞋帶、乾刷掉砂；清潔劑先局部測試，鞋拿在手上壓向洗鞋機的滾刷，帶水洗出摺溝裡的灰；鞋邊另外用手刷清表面；清水沖淨，洗劑不留在皮面；再倒掛進烘鞋櫃，約 40 ℃ 溫風慢慢乾，不吹不曬。\n\n老實說：溝裡的灰清掉了，摺痕還是在；鞋邊的舊黃可能留下，不保證回到全白。鞋的交期大約 7 天。\n\n拍鞋頭、鞋邊、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事。\n\n白色 AF1 穿一陣子，常見三件事一起出現：鞋頭的摺痕、卡在摺溝裡的灰、鞋邊（中底側面）的黃。摺痕是皮被彎折留下的形狀，不是髒；溝裡的灰是髒，清得掉；鞋邊的黃原因不只一種，清潔之後不一定會退。\n\n送洗前先別做：整雙丟進洗衣機、拿漂白水刷鞋邊、用吹風機或太陽曬乾。\n\n在店裡，我們這樣做：先看材質和膠合，有開膠的先另外評估；拆鞋帶、乾刷掉砂；清潔劑先局部測試，鞋拿在手上壓向洗鞋機的滾刷，帶水洗出摺溝裡的灰；鞋邊另外用手刷清表面；清水沖淨，洗劑不留在皮面；再倒掛進烘鞋櫃，約 40 ℃ 溫風慢慢乾，不吹不曬。\n\n老實說：溝裡的灰清掉了，摺痕還是在；鞋邊的舊黃可能留下，不保證回到全白。鞋的交期大約 7 天。\n\n拍鞋頭、鞋邊、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json#post-2026-10-07-slot-02",
+      "date": "2026-10-07",
+      "date_published": "2026-10-07T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-07 20:30 AF1 鞋頭摺痕，洗得掉的是溝裡的灰",
+      "topic": "AF1 鞋頭摺痕，洗得掉的是溝裡的灰",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋",
+        "AF1 鞋頭摺痕",
+        "白鞋鞋邊發黃",
+        "西屯洗鞋",
+        "台中洗鞋推薦",
+        "AF1 清洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-07-slot-02.html",
+      "facebook_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json#post-2026-10-07-slot-02",
+      "date": "2026-10-07",
+      "date_published": "2026-10-07T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-07 20:30 AF1 鞋頭摺痕，洗得掉的是溝裡的灰",
+      "topic": "AF1 鞋頭摺痕，洗得掉的是溝裡的灰",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋",
+        "AF1 鞋頭摺痕",
+        "白鞋鞋邊發黃",
+        "西屯洗鞋",
+        "台中洗鞋推薦",
+        "AF1 清洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-07-slot-02.html",
+      "facebook_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json#post-2026-10-07-slot-01",
+      "date": "2026-10-07",
+      "date_published": "2026-10-07T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-07 11:30 AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事",
+      "topic": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋",
+        "AF1 鞋頭摺痕",
+        "白鞋鞋邊發黃",
+        "西屯洗鞋",
+        "台中洗鞋推薦",
+        "AF1 清洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-07-slot-01.html",
+      "facebook_caption": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事。\n\n白色 AF1 穿一陣子，常見三件事一起出現：鞋頭的摺痕、卡在摺溝裡的灰、鞋邊（中底側面）的黃。摺痕是皮被彎折留下的形狀，不是髒；溝裡的灰是髒，清得掉；鞋邊的黃原因不只一種，清潔之後不一定會退。\n\n送洗前先別做：整雙丟進洗衣機、拿漂白水刷鞋邊、用吹風機或太陽曬乾。\n\n在店裡，我們這樣做：先看材質和膠合，有開膠的先另外評估；拆鞋帶、乾刷掉砂；清潔劑先局部測試，鞋拿在手上壓向洗鞋機的滾刷，帶水洗出摺溝裡的灰；鞋邊另外用手刷清表面；清水沖淨，洗劑不留在皮面；再倒掛進烘鞋櫃，約 40 ℃ 溫風慢慢乾，不吹不曬。\n\n老實說：溝裡的灰清掉了，摺痕還是在；鞋邊的舊黃可能留下，不保證回到全白。鞋的交期大約 7 天。\n\n拍鞋頭、鞋邊、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事。\n\n白色 AF1 穿一陣子，常見三件事一起出現：鞋頭的摺痕、卡在摺溝裡的灰、鞋邊（中底側面）的黃。摺痕是皮被彎折留下的形狀，不是髒；溝裡的灰是髒，清得掉；鞋邊的黃原因不只一種，清潔之後不一定會退。\n\n送洗前先別做：整雙丟進洗衣機、拿漂白水刷鞋邊、用吹風機或太陽曬乾。\n\n在店裡，我們這樣做：先看材質和膠合，有開膠的先另外評估；拆鞋帶、乾刷掉砂；清潔劑先局部測試，鞋拿在手上壓向洗鞋機的滾刷，帶水洗出摺溝裡的灰；鞋邊另外用手刷清表面；清水沖淨，洗劑不留在皮面；再倒掛進烘鞋櫃，約 40 ℃ 溫風慢慢乾，不吹不曬。\n\n老實說：溝裡的灰清掉了，摺痕還是在；鞋邊的舊黃可能留下，不保證回到全白。鞋的交期大約 7 天。\n\n拍鞋頭、鞋邊、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01",
       "date": "2026-10-06",
@@ -3454,96 +3591,6 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-09-19-slot-02.html",
       "facebook_caption": "香奈兒雙色鞋包頭起毛先看羅緞。\n\n圖裡這雙是 CHANEL（香奈兒）雙色鞋：米色山羊皮鞋身、黑色羅緞包頭。包頭起毛多半是羅緞布紋被踢磨、刷過頭，不是皮壞了。我們收件會先看起毛只在布紋表面，還是羅緞邊已經綻線、露出底下的襯。自己拿牙刷沾水刷包頭，羅緞容易留水痕，起毛反而更明顯。\n\n羅緞已經綻線或磨破的，清潔只能整理表面，回不到新鞋的樣子；需不需要另外修補，看過實品再說。台中市區我們免費到府收送，你先拍包頭正面和側面給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #名牌鞋送洗 #台中洗鞋 #台中洗衣店",
       "instagram_caption": "香奈兒雙色鞋包頭起毛先看羅緞。\n\n圖裡這雙是 CHANEL（香奈兒）雙色鞋：米色山羊皮鞋身、黑色羅緞包頭。包頭起毛多半是羅緞布紋被踢磨、刷過頭，不是皮壞了。我們收件會先看起毛只在布紋表面，還是羅緞邊已經綻線、露出底下的襯。自己拿牙刷沾水刷包頭，羅緞容易留水痕，起毛反而更明顯。\n\n羅緞已經綻線或磨破的，清潔只能整理表面，回不到新鞋的樣子；需不需要另外修補，看過實品再說。台中市區我們免費到府收送，你先拍包頭正面和側面給我們看。\n\n參考價：名牌鞋 $600 起（依材質與狀況報價）\n\n內容：一般洗護說明；配圖：AI生成示意，非客人物品；品牌型號僅說明款式，與品牌無合作\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #精品鞋清潔 #名牌鞋送洗 #台中洗鞋 #台中洗衣店"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json#post-2026-09-19-slot-01",
-      "date": "2026-09-19",
-      "date_published": "2026-09-19T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-09-19 11:30 被單上一片一片的黃，先分汗、霉、還是洗劑殘留",
-      "topic": "被單上一片一片的黃，先分汗、霉、還是洗劑殘留",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "reach-answer",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中被單清洗",
-        "被單發黃怎麼辦",
-        "台中床單被套送洗",
-        "台中寢具清洗"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#寢具清潔",
-        "#換季收納",
-        "#棉被送洗",
-        "#台中洗衣店"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-19/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-19/slot-01.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-19.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-19-slot-01.html",
-      "facebook_caption": "被單上一片一片的黃，先分汗、霉、還是洗劑殘留。\n\n我會先把被單攤平，看黃斑是沿著身體接觸面成片，還是東一塊西一塊。成片、摸起來偏硬、聞起來有味道的多半是汗；邊角或摺痕出現灰綠點、一搓會掉粉的要當霉看，別當一般髒洗。自己拿漂白水或熱水硬煮，纖維會更脆，黃斑還在。\n\n如果黃已經吃進紗線裡，洗完也只能改善、回不到新被單的白。台中市區我們免費到府收送，你先拍整面和近照給我們看。\n\n參考價：床單被套 薄 $150、厚 $180（水洗價，以實際報價為主）\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店",
-      "instagram_caption": "被單上一片一片的黃，先分汗、霉、還是洗劑殘留。\n\n我會先把被單攤平，看黃斑是沿著身體接觸面成片，還是東一塊西一塊。成片、摸起來偏硬、聞起來有味道的多半是汗；邊角或摺痕出現灰綠點、一搓會掉粉的要當霉看，別當一般髒洗。自己拿漂白水或熱水硬煮，纖維會更脆，黃斑還在。\n\n如果黃已經吃進紗線裡，洗完也只能改善、回不到新被單的白。台中市區我們免費到府收送，你先拍整面和近照給我們看。\n\n參考價：床單被套 薄 $150、厚 $180（水洗價，以實際報價為主）\n\n內容：一般洗護說明；配圖：AI生成示意\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #寢具清潔 #換季收納 #棉被送洗 #台中洗衣店"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json#post-2026-09-18-slot-02",
-      "date": "2026-09-18",
-      "date_published": "2026-09-18T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-09-18 20:30 中秋前：烤肉煙味與連假衣物整理預告",
-      "topic": "中秋前：烤肉煙味與連假衣物整理預告",
-      "visual_route": "customer-consultation",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "西屯寢具清洗",
-        "台中羽絨被送洗",
-        "台中外套清洗",
-        "棉被有潮味怎麼辦"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#中秋節",
-        "#外套清洗",
-        "#衣物送洗",
-        "#台中洗衣店"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-18/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-18/slot-02.png",
-        "https://sixiangjialaundry.com/assets/2026-09-18/slot-02-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-09-18/slot-02-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-09-18/slot-02-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-18.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-18-slot-02.html",
-      "facebook_caption": "中秋前：烤肉煙味與連假衣物整理預告，這篇先提醒你什麼時間點最該整理。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區到府收。\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #中秋節 #外套清洗 #衣物送洗 #台中洗衣店",
-      "instagram_caption": "中秋前：烤肉煙味與連假衣物整理預告，這篇先提醒你什麼時間點最該整理。\n\n厚一點的布收進櫃子，摸起來乾不代表乾透。中間那層最慢。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區到府收。\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #中秋節 #外套清洗 #衣物送洗 #台中洗衣店"
     }
   ],
   "published_posts": [
@@ -12488,6 +12535,97 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-10-06-slot-01.html",
       "facebook_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查",
       "instagram_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json#post-2026-10-07-slot-01",
+      "date": "2026-10-07",
+      "date_published": "2026-10-07T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-07 11:30 AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事",
+      "topic": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋",
+        "AF1 鞋頭摺痕",
+        "白鞋鞋邊發黃",
+        "西屯洗鞋",
+        "台中洗鞋推薦",
+        "AF1 清洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-07-slot-01.html",
+      "facebook_caption": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事。\n\n白色 AF1 穿一陣子，常見三件事一起出現：鞋頭的摺痕、卡在摺溝裡的灰、鞋邊（中底側面）的黃。摺痕是皮被彎折留下的形狀，不是髒；溝裡的灰是髒，清得掉；鞋邊的黃原因不只一種，清潔之後不一定會退。\n\n送洗前先別做：整雙丟進洗衣機、拿漂白水刷鞋邊、用吹風機或太陽曬乾。\n\n在店裡，我們這樣做：先看材質和膠合，有開膠的先另外評估；拆鞋帶、乾刷掉砂；清潔劑先局部測試，鞋拿在手上壓向洗鞋機的滾刷，帶水洗出摺溝裡的灰；鞋邊另外用手刷清表面；清水沖淨，洗劑不留在皮面；再倒掛進烘鞋櫃，約 40 ℃ 溫風慢慢乾，不吹不曬。\n\n老實說：溝裡的灰清掉了，摺痕還是在；鞋邊的舊黃可能留下，不保證回到全白。鞋的交期大約 7 天。\n\n拍鞋頭、鞋邊、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事。\n\n白色 AF1 穿一陣子，常見三件事一起出現：鞋頭的摺痕、卡在摺溝裡的灰、鞋邊（中底側面）的黃。摺痕是皮被彎折留下的形狀，不是髒；溝裡的灰是髒，清得掉；鞋邊的黃原因不只一種，清潔之後不一定會退。\n\n送洗前先別做：整雙丟進洗衣機、拿漂白水刷鞋邊、用吹風機或太陽曬乾。\n\n在店裡，我們這樣做：先看材質和膠合，有開膠的先另外評估；拆鞋帶、乾刷掉砂；清潔劑先局部測試，鞋拿在手上壓向洗鞋機的滾刷，帶水洗出摺溝裡的灰；鞋邊另外用手刷清表面；清水沖淨，洗劑不留在皮面；再倒掛進烘鞋櫃，約 40 ℃ 溫風慢慢乾，不吹不曬。\n\n老實說：溝裡的灰清掉了，摺痕還是在；鞋邊的舊黃可能留下，不保證回到全白。鞋的交期大約 7 天。\n\n拍鞋頭、鞋邊、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json#post-2026-10-07-slot-02",
+      "date": "2026-10-07",
+      "date_published": "2026-10-07T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-07 20:30 AF1 鞋頭摺痕，洗得掉的是溝裡的灰",
+      "topic": "AF1 鞋頭摺痕，洗得掉的是溝裡的灰",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中洗鞋",
+        "AF1 鞋頭摺痕",
+        "白鞋鞋邊發黃",
+        "西屯洗鞋",
+        "台中洗鞋推薦",
+        "AF1 清洗"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-07-slot-02.html",
+      "facebook_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查"
     }
   ]
 }
