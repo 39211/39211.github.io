@@ -1,0 +1,199 @@
+import { afterEach, describe, expect, it } from 'vitest';
+import { Writable } from 'node:stream';
+import net from 'node:net';
+import { clearSecretsForTest, createLogger, registerSecret } from '../../src/logger.js';
+import { MAX_BODY_BYTES, startTriggerServer, type TriggerRequest, type TriggerServerHandle } from '../../src/worker/trigger-server.js';
+import { parseConfigObject } from '../../src/config/load.js';
+
+function rawHttp(port: number, requestLine: string): Promise<{ status: number; body: string }> {
+  return new Promise((resolve, reject) => {
+    const sock = net.connect({ host: '127.0.0.1', port }, () => {
+      sock.write(`${requestLine}\r\nHost: 127.0.0.1\r\nConnection: close\r\n\r\n`);
+    });
+    let buf = '';
+    sock.setEncoding('utf8');
+    const done = (status: number, body: string): void => {
+      sock.destroy();
+      resolve({ status, body });
+    };
+    sock.on('data', (c) => {
+      buf += c;
+    });
+    sock.on('end', () => {
+      const m = /^HTTP\/1\.\d (\d+)/.exec(buf);
+      done(m ? Number(m[1]) : 0, buf);
+    });
+    sock.on('error', reject);
+    setTimeout(() => done(0, 'timeout'), 2000);
+  });
+}
+
+const TOKEN = 'a'.repeat(32);
+const lines: string[] = [];
+const sink = new Writable({
+  write(c, _e, cb) {
+    lines.push(c.toString());
+    cb();
+  },
+});
+
+let server: TriggerServerHandle | undefined;
+let now = 1_000_000;
+let received: TriggerRequest[] = [];
+
+async function start(minIntervalMs = 20_000): Promise<TriggerServerHandle> {
+  received = [];
+  lines.length = 0;
+  clearSecretsForTest();
+  registerSecret(TOKEN);
+  server = await startTriggerServer({
+    port: 0,
+    bind: '127.0.0.1',
+    token: TOKEN,
+    minIntervalMs,
+    logger: createLogger({ stream: sink, level: 'debug' }),
+    now: () => now,
+    onTrigger: (r) => received.push(r),
+  });
+  return server;
+}
+
+afterEach(async () => {
+  await server?.close();
+  server = undefined;
+});
+
+describe('觸發伺服器', () => {
+  it('token 正確才接受；錯誤或缺少一律 401 且不觸發', async () => {
+    const s = await start();
+    expect(s.handle(TOKEN, { source: 'macrodroid' })).toMatchObject({ status: 200, verdict: 'accepted' });
+    expect(received).toHaveLength(1);
+    now += 60_000;
+    expect(s.handle('b'.repeat(32), { source: 'x' }).status).toBe(401);
+    expect(s.handle(undefined, { source: 'x' }).status).toBe(401);
+    expect(s.handle('short', { source: 'x' }).status).toBe(401);
+    expect(received).toHaveLength(1);
+  });
+
+  it('最小間隔內的重複觸發回 throttled，不會排隊重複巡邏', async () => {
+    const s = await start(20_000);
+    expect(s.handle(TOKEN, { source: 'a' }).verdict).toBe('accepted');
+    now += 5_000;
+    const second = s.handle(TOKEN, { source: 'b' });
+    expect(second.verdict).toBe('throttled');
+    expect(second.status).toBe(200);
+    expect(second.message).toContain('15s');
+    now += 16_000;
+    expect(s.handle(TOKEN, { source: 'c' }).verdict).toBe('accepted');
+    expect(received.map((r) => r.source)).toEqual(['a', 'c']);
+  });
+
+  it('經由真實 HTTP 傳入 query 參數，並支援 header 帶 token', async () => {
+    const s = await start(0);
+    const base = `http://127.0.0.1:${s.port}/trigger`;
+    const r1 = await fetch(`${base}?token=${TOKEN}&source=macrodroid&target=group&text=${encodeURIComponent('林大明 在社團中發佈了貼文')}`);
+    expect(r1.status).toBe(200);
+    expect(await r1.text()).toBe('accepted');
+    expect(received[0]).toMatchObject({ source: 'macrodroid', targetKey: 'group', text: '林大明 在社團中發佈了貼文' });
+
+    const r2 = await fetch(base, { method: 'POST', headers: { 'X-Trigger-Token': TOKEN, 'Content-Type': 'application/json' }, body: JSON.stringify({ source: 'tasker' }) });
+    expect(r2.status).toBe(200);
+    expect(received[1]?.source).toBe('tasker');
+
+    expect((await fetch(`${base}?token=wrong`)).status).toBe(401);
+    expect((await fetch(base, { method: 'DELETE' })).status).toBe(405);
+  });
+
+  it('body 超過位元組上限回 413 且不觸發（依 Content-Length 先擋）', async () => {
+    const s = await start(0);
+    const base = `http://127.0.0.1:${s.port}/trigger`;
+    const huge = JSON.stringify({ source: 'x', text: 'a'.repeat(MAX_BODY_BYTES + 1000) });
+    expect(Buffer.byteLength(huge)).toBeGreaterThan(MAX_BODY_BYTES);
+    const res = await fetch(base, { method: 'POST', headers: { 'X-Trigger-Token': TOKEN, 'Content-Type': 'application/json' }, body: huge });
+    expect(res.status).toBe(413);
+    expect(received).toHaveLength(0);
+  });
+
+  it('未宣告 Content-Length 的串流 body 超過上限時同樣回 413', async () => {
+    const s = await start(0);
+    const stream = new ReadableStream<Uint8Array>({
+      start(controller) {
+        const block = new Uint8Array(2048).fill(0x61);
+        for (let sent = 0; sent < MAX_BODY_BYTES + 4096; sent += block.length) controller.enqueue(block);
+        controller.close();
+      },
+    });
+    const res = await fetch(`http://127.0.0.1:${s.port}/trigger`, {
+      method: 'POST',
+      headers: { 'X-Trigger-Token': TOKEN, 'Content-Type': 'application/json' },
+      body: stream,
+      // @ts-expect-error undici 需要 duplex 才能送 stream body
+      duplex: 'half',
+    }).catch((e: unknown) => e as Error);
+    // 伺服器中斷連線後，fetch 可能回 413 或直接拋出；兩者都代表沒有把 body 收進來
+    if (res instanceof Error) expect(res).toBeInstanceOf(Error);
+    else expect(res.status).toBe(413);
+    expect(received).toHaveLength(0);
+  });
+
+  it('剛好在上限內的 body 仍正常接受', async () => {
+    const s = await start(0);
+    const text = 'b'.repeat(1000);
+    const res = await fetch(`http://127.0.0.1:${s.port}/trigger`, {
+      method: 'POST',
+      headers: { 'X-Trigger-Token': TOKEN, 'Content-Type': 'application/json' },
+      body: JSON.stringify({ source: 'macrodroid', text }),
+    });
+    expect(res.status).toBe(200);
+    expect(received[0]?.text).toBe(text);
+  });
+
+  it('token 不會出現在日誌中', async () => {
+    const s = await start(0);
+    await fetch(`http://127.0.0.1:${s.port}/trigger?token=${TOKEN}&source=macrodroid`);
+    await fetch(`http://127.0.0.1:${s.port}/trigger?token=wrong-token-value`);
+    await new Promise((r) => setTimeout(r, 50));
+    const out = lines.join('');
+    expect(out).not.toContain(TOKEN);
+    expect(out).toContain('收到手機觸發');
+  });
+});
+
+describe('poll_mode 設定驗證', () => {
+  const targets = [{ key: 'a', name: 'A', type: 'facebook_page', url: 'https://www.facebook.com/a' }];
+  it('triggered 模式必須同時開啟 trigger.enabled', () => {
+    expect(() => parseConfigObject({ poll_mode: 'triggered', targets })).toThrow(/trigger\.enabled/);
+    const ok = parseConfigObject({ poll_mode: 'triggered', poll_interval_seconds: 900, trigger: { enabled: true }, targets });
+    expect(ok.trigger.port).toBe(8799);
+    expect(ok.trigger.min_interval_seconds).toBe(20);
+    expect(ok.trigger.delay_seconds).toBe(8);
+  });
+  it('預設仍是固定週期模式，且觸發預設關閉', () => {
+    const c = parseConfigObject({ targets });
+    expect(c.poll_mode).toBe('interval');
+    expect(c.trigger.enabled).toBe(false);
+  });
+});
+
+describe('觸發伺服器：畸形 request target 不得結束程序', () => {
+  it('origin-form 與 absolute-form 畸形路徑一律 400，不帶 token，之後仍能正常觸發', async () => {
+    const uncaught: unknown[] = [];
+    const onUncaught = (e: unknown): void => {
+      uncaught.push(e);
+    };
+    process.on('uncaughtException', onUncaught);
+    try {
+      const s = await start(0);
+      for (const raw of ['//[', '//]', '//[::1', '//a%ZZ', '/\\', 'http://[']) {
+        const line = raw.startsWith('http') ? `GET ${raw} HTTP/1.1` : `GET ${raw} HTTP/1.1`;
+        expect((await rawHttp(s.port, line)).status, raw).toBe(400);
+      }
+      const ok = await fetch(`http://127.0.0.1:${s.port}/trigger?token=${TOKEN}&source=after`);
+      expect(ok.status).toBe(200);
+      expect(received).toHaveLength(1);
+    } finally {
+      process.off('uncaughtException', onUncaught);
+    }
+    expect(uncaught).toEqual([]);
+  });
+});
