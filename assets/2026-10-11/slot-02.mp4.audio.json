@@ -1,0 +1,10 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "edge-tts zh-TW-YunJheNeural rate +10%",
+  "narration_lines": "narration-lines-tw-v2.json (9 lines), subtitles subs-1011-v3.ass burned in",
+  "foley": "synthetic work sounds per shot from build_fluid_cut foley (-15.8 LUFS integrated on the publish encode); generated takes carry no usable audio",
+  "assembled_by": "c1011p scripts/reel-v3/build_fluid_cut.py (cut-v3/edit-1011-v3.json)"
+}

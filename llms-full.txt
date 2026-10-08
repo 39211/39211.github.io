@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-06T22:31:03.955Z
+- Generated at: 2026-10-07T22:30:46.465Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -387,6 +387,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-08/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -10663,4 +10665,98 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查
+
+### 2026-10-08 11:30 麂皮外套發花、絨面塌了：送洗前先看這三件事
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-01
+- published local time: 2026-10-08T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: value-prop-lead
+- search_intent: problem-diagnosis
+- target_queries: 台中麂皮清潔 | 麂皮外套清洗 | 麂皮發花 | 西屯洗衣店 | 台中皮衣清潔 | 麂皮外套送洗
+- evidence_type: verified-business-fact
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-08/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-08.json
+
+Facebook caption:
+
+麂皮外套發花、絨面塌了：送洗前先看這三件事。
+
+麂皮外套穿一陣子，常見三種狀況一起出現：前幅一塊顏色發花、絨毛被壓塌、袖口和前襟卡灰。發花和塌絨多半是摩擦和髒污疊在一起，可以救回一些，但不一定回到原本的樣子。
+
+送洗前先別做：整件丟進洗衣機、拿濕布用力來回擦、用吹風機貼著吹。
+
+在店裡，我們這樣做：先看洗標和皮況，材質、掉色與用劑先確認；外套平放固定，分區輕搓；確認用劑，再分區噴；裡布、拉鍊也一起檢查；氣槍掃過浮屑；袖管換塊輕搓，不用硬磨；最後掛起分區噴，完成收尾。
+
+老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。皮件交期大約 14 天。
+
+拍洗標、發花的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查
+
+Instagram caption:
+
+麂皮外套發花、絨面塌了：送洗前先看這三件事。
+
+麂皮外套穿一陣子，常見三種狀況一起出現：前幅一塊顏色發花、絨毛被壓塌、袖口和前襟卡灰。發花和塌絨多半是摩擦和髒污疊在一起，可以救回一些，但不一定回到原本的樣子。
+
+送洗前先別做：整件丟進洗衣機、拿濕布用力來回擦、用吹風機貼著吹。
+
+在店裡，我們這樣做：先看洗標和皮況，材質、掉色與用劑先確認；外套平放固定，分區輕搓；確認用劑，再分區噴；裡布、拉鍊也一起檢查；氣槍掃過浮屑；袖管換塊輕搓，不用硬磨；最後掛起分區噴，完成收尾。
+
+老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。皮件交期大約 14 天。
+
+拍洗標、發花的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查
+
+### 2026-10-08 20:30 麂皮外套髒了、絨面塌了：店裡怎麼處理
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-02
+- published local time: 2026-10-08T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中麂皮清潔 | 麂皮外套清洗 | 麂皮發花 | 西屯洗衣店 | 台中皮衣清潔 | 麂皮外套送洗
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-08.json
+
+Facebook caption:
+
+麂皮發花，先別急著刷。
+
+在店裡的順序：先看洗標，再評估皮況。平放固定，分區輕搓。確認用劑，再分區噴。裡布、拉鍊也要檢查。氣槍掃過，分區處理。換塊輕搓，不用硬磨。掛起分區噴，完成收尾。
+
+老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。
+
+拍照傳LINE，先評估。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查
+
+Instagram caption:
+
+麂皮發花，先別急著刷。
+
+在店裡的順序：先看洗標，再評估皮況。平放固定，分區輕搓。確認用劑，再分區噴。裡布、拉鍊也要檢查。氣槍掃過，分區處理。換塊輕搓，不用硬磨。掛起分區噴，完成收尾。
+
+老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。
+
+拍照傳LINE，先評估。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查
 

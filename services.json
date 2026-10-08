@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-10-06T22:31:03.955Z",
+  "generated_at": "2026-10-07T22:30:46.465Z",
   "name": "私享家洗衣店 service pages",
   "description": "Service-level SEO, AEO, and GEO source records for 私享家洗衣店.",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -1218,7 +1218,11 @@
               "price": "$300(水洗價)"
             },
             {
-              "item": "羽絨羊毛被",
+              "item": "羽絨被",
+              "price": "$600(水洗價)"
+            },
+            {
+              "item": "羊毛被",
               "price": "$800(水洗價)"
             },
             {

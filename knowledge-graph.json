@@ -295,6 +295,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-08/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -488,7 +490,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-07"
+      "dateModified": "2026-10-08"
     },
     {
       "@type": "FAQPage",
@@ -549,7 +551,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-07",
+      "dateModified": "2026-10-08",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -13588,6 +13590,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
       "caption": "AF1 鞋頭摺痕，洗得掉的是溝裡的灰",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-01",
+      "headline": "2026-10-08 11:30 麂皮外套發花、絨面塌了：送洗前先看這三件事",
+      "text": "麂皮外套發花、絨面塌了：送洗前先看這三件事。\n\n麂皮外套穿一陣子，常見三種狀況一起出現：前幅一塊顏色發花、絨毛被壓塌、袖口和前襟卡灰。發花和塌絨多半是摩擦和髒污疊在一起，可以救回一些，但不一定回到原本的樣子。\n\n送洗前先別做：整件丟進洗衣機、拿濕布用力來回擦、用吹風機貼著吹。\n\n在店裡，我們這樣做：先看洗標和皮況，材質、掉色與用劑先確認；外套平放固定，分區輕搓；確認用劑，再分區噴；裡布、拉鍊也一起檢查；氣槍掃過浮屑；袖管換塊輕搓，不用硬磨；最後掛起分區噴，完成收尾。\n\n老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。皮件交期大約 14 天。\n\n拍洗標、發花的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查",
+      "datePublished": "2026-10-08T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#麂皮外套",
+        "#皮衣清潔",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-08/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-08/slot-01.png",
+      "caption": "麂皮外套發花、絨面塌了：送洗前先看這三件事",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-02",
+      "headline": "2026-10-08 20:30 麂皮外套髒了、絨面塌了：店裡怎麼處理",
+      "text": "麂皮發花，先別急著刷。\n\n在店裡的順序：先看洗標，再評估皮況。平放固定，分區輕搓。確認用劑，再分區噴。裡布、拉鍊也要檢查。氣槍掃過，分區處理。換塊輕搓，不用硬磨。掛起分區噴，完成收尾。\n\n老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查",
+      "datePublished": "2026-10-08T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#麂皮外套",
+        "#皮衣清潔",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png",
+      "caption": "麂皮外套髒了、絨面塌了：店裡怎麼處理",
       "inLanguage": "zh-Hant"
     }
   ]

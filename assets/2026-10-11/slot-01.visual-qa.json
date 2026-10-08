@@ -1,0 +1,90 @@
+{
+  "topic": "漆皮包霧掉一塊：店裡怎麼處理",
+  "date": "2026-10-11",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張均為黑色亮面皮革弧形包，金色鏈帶、覆有黃色遮蔽物的圓形扣位及主要灰白斑塊位置相符。",
+    "SCENE": "第1張是木質桌面，背景可見盆栽、花紋杯與木椅；第2至4張均為金屬工作檯，檯面與背景不屬於第1張的場景家族。",
+    "TOPIC_MATCH": "四張主體均為表面帶有大片灰白斑塊的黑色亮面包，物件類別符合題目的漆皮包。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-11/slot-01.png",
+      "canary": "79T2",
+      "sha256": "39745e04739667733dc19c4b9c7866b783cc24df5ec450154048824951912a4d"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-11/slot-01-slide-02.png",
+      "canary": "FWN8",
+      "sha256": "b272ac6ad429f8aa9229208685af5e161ffcca0f9eec6010547caaafc6487728"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-11/slot-01-slide-03.png",
+      "canary": "755U",
+      "sha256": "fe04b7f9c3290eb9f081866370ddb208ddaf7867e3066cee7a307834f9f5d6bc"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-11/slot-01-slide-04.png",
+      "canary": "V9VS",
+      "sha256": "d898461cb073c760f05b7b545cf99383e4628c800e63ab63c3cb96a260dbb3c0"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-11/slot-01.png",
+    "docs/assets/2026-10-11/slot-01-slide-02.png",
+    "docs/assets/2026-10-11/slot-01-slide-03.png",
+    "docs/assets/2026-10-11/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "79T2",
+    "IMAGE_2": "FWN8",
+    "IMAGE_3": "755U",
+    "IMAGE_4": "V9VS"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "79T2",
+    "IMAGE_2": "FWN8",
+    "IMAGE_3": "755U",
+    "IMAGE_4": "V9VS"
+  },
+  "prompt_hash": "42f49f23b28f6b81205a4721613fdd497457f62a6262d5ba1a79d04c85027607",
+  "run_id": "carousel-qa-1791412208146",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-07T22:30:44.330Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "42f49f23b28f6b81205a4721613fdd497457f62a6262d5ba1a79d04c85027607",
+      "stdout_sha256": "c47d5eebfd38ec774595c3d9171cfe68d224daeaf0fc2b9789260533d5dba394",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}
