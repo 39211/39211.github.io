@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
     <title>私享家洗衣店 每日洗護紀錄</title>
     <link>https://sixiangjialaundry.com/</link>
     <description>私享家洗衣店每天一則門市洗護紀錄：鞋包、白鞋、衣物寢具的檢查重點、處理界線與台中免費收送下一步，依日期排列。</description>
     <language>zh-Hant</language>
-    <atom:link href="https://sixiangjialaundry.com/rss.xml" rel="self" type="application/rss+xml" />
+    <ns0:link href="https://sixiangjialaundry.com/rss.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
