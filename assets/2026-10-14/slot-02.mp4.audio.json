@@ -1,0 +1,10 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "edge-tts zh-TW-HsiaoChenNeural rate +10% (audio-c / audio-r / audio-n4)",
+  "narration_lines": "narration-lines-1014-A-v12b.json (8 lines, spoken); subs-1014-A-v12b.ass = MAIN key points + SUB narration chunks + P1 CARD, burned in",
+  "foley": "Pixabay lo-fi music bed ducked under speech; the takes carry no audio stream into the mix. Source label post-ambient-bed is the only value ownerVideoReview accepts for post-produced audio",
+  "assembled_by": "p1014a tools (P1014A-R2 v11 cut, P1014A-D1e v12 re-cut with the new D1, P1014A-N4 v12b re-voice and re-mix, publish from the burned film, phone)"
+}
