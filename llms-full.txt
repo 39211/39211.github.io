@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-09T22:30:47.576Z
+- Generated at: 2026-10-10T22:30:49.856Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -399,6 +399,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-09/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-10/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-10/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -10962,4 +10964,98 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查
+
+### 2026-10-11 11:30 漆皮包霧掉一塊：店裡怎麼處理
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-01
+- published local time: 2026-10-11T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: dwell-detail
+- search_intent: problem-diagnosis
+- target_queries: 台中漆皮包清潔 | 漆皮包發白 | 漆皮包霧面 | 漆皮包保養 | 台中包包送洗 | 西屯洗包
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-11.json
+
+Facebook caption:
+
+漆皮包霧掉一塊：店裡怎麼處理。
+
+漆皮包的亮面出現一塊一塊發白、邊緣不規則的霧區，先看發白的位置和範圍，再看皮況。發白的原因與能否處理，需要看實物評估。
+
+送洗前先別急著擦拭，先拍發白的位置和整體外觀，讓我們評估後再決定怎麼處理。
+
+在店裡，我們這樣做：先看表面與皮況，確認用劑；包放穩在檯面上，分區薄噴，這次示範分兩段噴、不一次噴厚；噴後再看整體光澤；內裡也一起檢查。
+
+老實說：發白與光澤能否改善、能改善多少，都要看皮況；不保證發白全消，也不保證恢復如新，細紋與壓痕可能仍在。皮件交期約 14 天，依皮況與排程確認。
+
+拍包面發白的位置和整個包的正面傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查
+
+Instagram caption:
+
+漆皮包霧掉一塊：店裡怎麼處理。
+
+漆皮包的亮面出現一塊一塊發白、邊緣不規則的霧區，先看發白的位置和範圍，再看皮況。發白的原因與能否處理，需要看實物評估。
+
+送洗前先別急著擦拭，先拍發白的位置和整體外觀，讓我們評估後再決定怎麼處理。
+
+在店裡，我們這樣做：先看表面與皮況，確認用劑；包放穩在檯面上，分區薄噴，這次示範分兩段噴、不一次噴厚；噴後再看整體光澤；內裡也一起檢查。
+
+老實說：發白與光澤能否改善、能改善多少，都要看皮況；不保證發白全消，也不保證恢復如新，細紋與壓痕可能仍在。皮件交期約 14 天，依皮況與排程確認。
+
+拍包面發白的位置和整個包的正面傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查
+
+### 2026-10-11 20:30 漆皮發白，先別急著擦
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-02
+- published local time: 2026-10-11T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 台中漆皮包清潔 | 漆皮包發白 | 漆皮包霧面 | 漆皮包保養 | 台中包包送洗 | 西屯洗包
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-11.json
+
+Facebook caption:
+
+漆皮發白，先別急著擦。
+
+這次示範的這只漆皮包，片中呈現：先看表面，再評估處理。側邊也有，一起看清楚。包放穩，再分區薄噴。換一區，不一次噴厚。噴後看表面，再看整體。內裡也要一起檢查。深淺光澤，不保證全一樣。
+
+老實說：發白與光澤能改善多少要看皮況，不保證發白全消，細紋與壓痕可能仍在。包款交期約 14 天，依皮況與排程確認。
+
+拍照傳LINE，先評估。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查
+
+Instagram caption:
+
+漆皮發白，先別急著擦。
+
+這次示範的這只漆皮包，片中呈現：先看表面，再評估處理。側邊也有，一起看清楚。包放穩，再分區薄噴。換一區，不一次噴厚。噴後看表面，再看整體。內裡也要一起檢查。深淺光澤，不保證全一樣。
+
+老實說：發白與光澤能改善多少要看皮況，不保證發白全消，細紋與壓痕可能仍在。包款交期約 14 天，依皮況與排程確認。
+
+拍照傳LINE，先評估。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查
 

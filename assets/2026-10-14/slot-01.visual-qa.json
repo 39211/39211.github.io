@@ -1,0 +1,90 @@
+{
+  "topic": "玄關那袋衣服，不用再等有空",
+  "date": "2026-10-14",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第1、2張主體為米色抽繩袋，第3張變為藍色提袋，第4張變為藍色襯衫，顏色家族與物件類型均有改變。",
+    "SCENE": "四張均為淺色牆面、白色門與木地板的玄關場景，全部歸為 OTHER，未出現場景家族切換。",
+    "TOPIC_MATCH": "宣告的物件類型為 BAG 與 SHIRT，分別對應主題中的「袋」與「衣服」。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-14/slot-01.png",
+      "canary": "9YVP",
+      "sha256": "af8bdaf5d61d81890bf5af16d118a8174ecf9f948818cc8548d5fd520e9b2916"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-14/slot-01-slide-02.png",
+      "canary": "T5VK",
+      "sha256": "d02d5a3295bad83e20401eddcc8e113d605b5e05dbd2daac7bd6e80876cda789"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-14/slot-01-slide-03.png",
+      "canary": "VDSB",
+      "sha256": "6edc4b822f5f75b2e4dc017c21e8797839ede88b5652aa663289109d325665ea"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-14/slot-01-slide-04.png",
+      "canary": "KSTQ",
+      "sha256": "3491a607e34c443ad1d383d047597578cc3e78868c8df504d9ef7a8c7e3fc144"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-14/slot-01.png",
+    "docs/assets/2026-10-14/slot-01-slide-02.png",
+    "docs/assets/2026-10-14/slot-01-slide-03.png",
+    "docs/assets/2026-10-14/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "9YVP",
+    "IMAGE_2": "T5VK",
+    "IMAGE_3": "VDSB",
+    "IMAGE_4": "KSTQ"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "9YVP",
+    "IMAGE_2": "T5VK",
+    "IMAGE_3": "VDSB",
+    "IMAGE_4": "KSTQ"
+  },
+  "prompt_hash": "4898b94b72f3f1013224dd56b7ea7152b8ef34d0f4b6a334cf3080b331640f69",
+  "run_id": "carousel-qa-1791671408658",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-10T22:30:47.583Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "4898b94b72f3f1013224dd56b7ea7152b8ef34d0f4b6a334cf3080b331640f69",
+      "stdout_sha256": "5f19a72f5471cd3034315c5cb51c45b96eb0405f63246644e42a270ab5a5b302",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}

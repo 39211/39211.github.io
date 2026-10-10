@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:30:47.576Z",
+  "generated_at": "2026-10-10T22:30:49.856Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -9,7 +9,7 @@
   "image_base_url": "https://sixiangjialaundry.com",
   "image_base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "latest_date": "2026-10-10",
+  "latest_date": "2026-10-11",
   "open_graph": {
     "title": "私享家洗衣店｜台中洗衣洗鞋洗包・全市免費收送・價格公開",
     "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
@@ -11923,6 +11923,145 @@
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-02",
       "facebook_caption": "馬皮短靴穿久，摺痕變深。\n\n這次示範的這雙馬皮短靴，片中呈現：先看摺痕，也看皮況。扶穩靴身，海綿帶泡沫洗。隔著白紙，稍微整燙。拉鍊和鞋邊，膠帶已貼好。吹風機收乾，再看皮面。白布薄擦，保留皮面質感。保持原有皮革風貌。\n\n老實說：摺痕不保證全消，整燙與收乾都依皮況調整。鞋子交期約 7 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查",
       "instagram_caption": "馬皮短靴穿久，摺痕變深。\n\n這次示範的這雙馬皮短靴，片中呈現：先看摺痕，也看皮況。扶穩靴身，海綿帶泡沫洗。隔著白紙，稍微整燙。拉鍊和鞋邊，膠帶已貼好。吹風機收乾，再看皮面。白布薄擦，保留皮面質感。保持原有皮革風貌。\n\n老實說：摺痕不保證全消，整燙與收乾都依皮況調整。鞋子交期約 7 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-01",
+      "date": "2026-10-11",
+      "date_published": "2026-10-11T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-11 11:30 漆皮包霧掉一塊：店裡怎麼處理",
+      "topic": "漆皮包霧掉一塊：店裡怎麼處理",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中漆皮包清潔",
+        "漆皮包發白",
+        "漆皮包霧面",
+        "漆皮包保養",
+        "台中包包送洗",
+        "西屯洗包"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#漆皮包",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-11/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-11/slot-01.png",
+        "assets/2026-10-11/slot-01-slide-02.png",
+        "assets/2026-10-11/slot-01-slide-03.png",
+        "assets/2026-10-11/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Photo 1 shows this exact handbag; copy it exactly.\nA realistic smartphone photo, flat daylight, everything in focus, no blurry background. On a plain dining table in a customer's small Taiwanese apartment lies the exact black patent-leather crescent handbag from Photo 1, its front panel filling most of the frame with the irregular grey-white dull patches clearly visible and the small plain yellow tab near the lower centre; the handle is outside the frame; a few everyday things in the background, tidy, no people, no hands, no masking tape, no logos, no text. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the bag, its grey-white patches, the yellow tab, the table, the room and the light. Only change the two handle ends at the top corners of the bag: the handle is a gold metal link chain like the one in Photo 2, attached directly at each top corner and leaving the top edge of the frame. No tape, no black strap, no leather handle, no silver rings.",
+          "local_image_path": "docs/assets/2026-10-11/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Photo 1 shows this exact handbag (copy it exactly); Photo 2 shows the same step from the owner's own footage, so copy its layout, bag position and hand position, but any forearm wears a plain black long sleeve; Photo 3 shows the exact look of that detail.\nVertical 9:16 portrait composition. An ordinary smartphone photograph showing the complete crescent-shaped body of the same black patent-leather handbag on the same stainless-steel workbench. Match the owner's L2 reference, including the curved upper edge, stitched perimeter, irregular pale patches and the existing handle attachment points wrapped in wrinkled bright-yellow masking tape. Show natural tape overlaps and short uneven edges, not solid yellow metal fittings. Keep the original small plain yellow front tab wherever visible. Preserve the reference handle geometry without inventing a new rigid handle from the metal bar in the background. Flat fluorescent light, realistic glossy reflections and readable surroundings. No hands, readable text, logos, floating bag, extra chain or dramatic studio lighting. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the bag, its surface, the yellow tab, the two yellow tape sleeves, the table, the background and the light. Only change what is above each yellow tape sleeve at the two top corners: the handle is a gold metal link chain that comes out of the top of each tape sleeve, rises and leaves the top edge of the frame, as in Photo 2. No black stubs, no black strap, no silver rings.",
+          "local_image_path": "docs/assets/2026-10-11/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Photo 1 shows this exact handbag (copy it exactly); Photo 2 shows the same step from the owner's own footage, so copy its layout, bag position and hand position, but any forearm wears a plain black long sleeve; Photo 3 shows the exact look of that detail. The tool is the front end of a spray gun: a silver-white air cap with a central outlet and two small opposed projections, and a short green body below it; nothing else of the tool is visible.\nVertical 9:16 portrait composition. An ordinary first-person smartphone photograph matching the owner's L4 reference: the same black patent-leather handbag remains supported on the stainless-steel workbench, with its opening, folds, small yellow front tab and existing masking unchanged. At the right frame edge, show only the reference-matched silver-white spray-head front, its central outlet and two small opposed projections, plus the short green body portion partly hidden by the gripping right hand. The black-sleeved forearm connects continuously to the right edge; the unseen rear of the tool stays outside the frame. Capture a faint, narrow plume that broadens slightly toward the surface and becomes transparent. No invented aerosol-can cylinder, push-button cap, rigid extension straw, top-mounted cup, extra supporting hand, dense smoke, water jet, drips, readable text or logos. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the bag, its grey-white patches, the yellow tab, the zipper edge, the table, the background and the light. Only change the two handle ends at the top corners of the bag. The handle is a gold metal link chain; where it meets each top corner of the bag it is wrapped in a short sleeve of wrinkled, matte, bright-yellow paper masking tape with overlapping, uneven edges, as in Photo 2. Above each tape sleeve only the gold chain continues upward and leaves the top edge of the frame. No black strap, no leather handle, no silver rings or buckles. The tape sleeves and the chain look exactly like those in Photo 3. Edit Photo 1: keep the camera, the bag, its grey-white patches, the yellow tab, the handle ends, the table, the background and the light exactly as they are. Only change the aim of the spray: the same right hand, black-sleeved forearm and spray-can front are lowered a little so the faint, narrow, translucent plume lands directly on the grey-white patch just above the yellow tab and on its edge, not on the glossy black area above it. The patches stay as they are; nothing turns instantly glossy black; no white cloud. Only the plume region of this last edit was composited into the delivered image; the hand and spray-can front come from the previous version.",
+          "local_image_path": "docs/assets/2026-10-11/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "A realistic smartphone photo, flat fluorescent light, everything in focus. A plain off-white card lying flat on the shop's stainless-steel worktable beside the black patent-leather handbag from Photo 1; the card carries exactly three short lines of clean dark Traditional Chinese print, top to bottom: 「漆皮發白先看表面」「分區薄噴不噴厚」「光澤不保證跟新的一樣」, and nothing else is written anywhere; no hands, no logos.",
+          "local_image_path": "docs/assets/2026-10-11/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-11.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json",
+      "article_path": "posts/2026-10-11-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-11-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-01",
+      "facebook_caption": "漆皮包霧掉一塊：店裡怎麼處理。\n\n漆皮包的亮面出現一塊一塊發白、邊緣不規則的霧區，先看發白的位置和範圍，再看皮況。發白的原因與能否處理，需要看實物評估。\n\n送洗前先別急著擦拭，先拍發白的位置和整體外觀，讓我們評估後再決定怎麼處理。\n\n在店裡，我們這樣做：先看表面與皮況，確認用劑；包放穩在檯面上，分區薄噴，這次示範分兩段噴、不一次噴厚；噴後再看整體光澤；內裡也一起檢查。\n\n老實說：發白與光澤能否改善、能改善多少，都要看皮況；不保證發白全消，也不保證恢復如新，細紋與壓痕可能仍在。皮件交期約 14 天，依皮況與排程確認。\n\n拍包面發白的位置和整個包的正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查",
+      "instagram_caption": "漆皮包霧掉一塊：店裡怎麼處理。\n\n漆皮包的亮面出現一塊一塊發白、邊緣不規則的霧區，先看發白的位置和範圍，再看皮況。發白的原因與能否處理，需要看實物評估。\n\n送洗前先別急著擦拭，先拍發白的位置和整體外觀，讓我們評估後再決定怎麼處理。\n\n在店裡，我們這樣做：先看表面與皮況，確認用劑；包放穩在檯面上，分區薄噴，這次示範分兩段噴、不一次噴厚；噴後再看整體光澤；內裡也一起檢查。\n\n老實說：發白與光澤能否改善、能改善多少，都要看皮況；不保證發白全消，也不保證恢復如新，細紋與壓痕可能仍在。皮件交期約 14 天，依皮況與排程確認。\n\n拍包面發白的位置和整個包的正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-02",
+      "date": "2026-10-11",
+      "date_published": "2026-10-11T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-10-11 20:30 漆皮發白，先別急著擦",
+      "topic": "漆皮發白，先別急著擦",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中漆皮包清潔",
+        "漆皮包發白",
+        "漆皮包霧面",
+        "漆皮包保養",
+        "台中包包送洗",
+        "西屯洗包"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#漆皮包",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-11/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png",
+      "image_paths": [
+        "assets/2026-10-11/slot-02.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-10-11/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-11.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json",
+      "article_path": "posts/2026-10-11-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-11-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-02",
+      "facebook_caption": "漆皮發白，先別急著擦。\n\n這次示範的這只漆皮包，片中呈現：先看表面，再評估處理。側邊也有，一起看清楚。包放穩，再分區薄噴。換一區，不一次噴厚。噴後看表面，再看整體。內裡也要一起檢查。深淺光澤，不保證全一樣。\n\n老實說：發白與光澤能改善多少要看皮況，不保證發白全消，細紋與壓痕可能仍在。包款交期約 14 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查",
+      "instagram_caption": "漆皮發白，先別急著擦。\n\n這次示範的這只漆皮包，片中呈現：先看表面，再評估處理。側邊也有，一起看清楚。包放穩，再分區薄噴。換一區，不一次噴厚。噴後看表面，再看整體。內裡也要一起檢查。深淺光澤，不保證全一樣。\n\n老實說：發白與光澤能改善多少要看皮況，不保證發白全消，細紋與壓痕可能仍在。包款交期約 14 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查"
     }
   ],
   "article_posts": [
@@ -23189,6 +23328,145 @@
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-02",
       "facebook_caption": "馬皮短靴穿久，摺痕變深。\n\n這次示範的這雙馬皮短靴，片中呈現：先看摺痕，也看皮況。扶穩靴身，海綿帶泡沫洗。隔著白紙，稍微整燙。拉鍊和鞋邊，膠帶已貼好。吹風機收乾，再看皮面。白布薄擦，保留皮面質感。保持原有皮革風貌。\n\n老實說：摺痕不保證全消，整燙與收乾都依皮況調整。鞋子交期約 7 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查",
       "instagram_caption": "馬皮短靴穿久，摺痕變深。\n\n這次示範的這雙馬皮短靴，片中呈現：先看摺痕，也看皮況。扶穩靴身，海綿帶泡沫洗。隔著白紙，稍微整燙。拉鍊和鞋邊，膠帶已貼好。吹風機收乾，再看皮面。白布薄擦，保留皮面質感。保持原有皮革風貌。\n\n老實說：摺痕不保證全消，整燙與收乾都依皮況調整。鞋子交期約 7 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-01",
+      "date": "2026-10-11",
+      "date_published": "2026-10-11T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-11 11:30 漆皮包霧掉一塊：店裡怎麼處理",
+      "topic": "漆皮包霧掉一塊：店裡怎麼處理",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中漆皮包清潔",
+        "漆皮包發白",
+        "漆皮包霧面",
+        "漆皮包保養",
+        "台中包包送洗",
+        "西屯洗包"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#漆皮包",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-11/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-11/slot-01.png",
+        "assets/2026-10-11/slot-01-slide-02.png",
+        "assets/2026-10-11/slot-01-slide-03.png",
+        "assets/2026-10-11/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Photo 1 shows this exact handbag; copy it exactly.\nA realistic smartphone photo, flat daylight, everything in focus, no blurry background. On a plain dining table in a customer's small Taiwanese apartment lies the exact black patent-leather crescent handbag from Photo 1, its front panel filling most of the frame with the irregular grey-white dull patches clearly visible and the small plain yellow tab near the lower centre; the handle is outside the frame; a few everyday things in the background, tidy, no people, no hands, no masking tape, no logos, no text. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the bag, its grey-white patches, the yellow tab, the table, the room and the light. Only change the two handle ends at the top corners of the bag: the handle is a gold metal link chain like the one in Photo 2, attached directly at each top corner and leaving the top edge of the frame. No tape, no black strap, no leather handle, no silver rings.",
+          "local_image_path": "docs/assets/2026-10-11/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Photo 1 shows this exact handbag (copy it exactly); Photo 2 shows the same step from the owner's own footage, so copy its layout, bag position and hand position, but any forearm wears a plain black long sleeve; Photo 3 shows the exact look of that detail.\nVertical 9:16 portrait composition. An ordinary smartphone photograph showing the complete crescent-shaped body of the same black patent-leather handbag on the same stainless-steel workbench. Match the owner's L2 reference, including the curved upper edge, stitched perimeter, irregular pale patches and the existing handle attachment points wrapped in wrinkled bright-yellow masking tape. Show natural tape overlaps and short uneven edges, not solid yellow metal fittings. Keep the original small plain yellow front tab wherever visible. Preserve the reference handle geometry without inventing a new rigid handle from the metal bar in the background. Flat fluorescent light, realistic glossy reflections and readable surroundings. No hands, readable text, logos, floating bag, extra chain or dramatic studio lighting. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the bag, its surface, the yellow tab, the two yellow tape sleeves, the table, the background and the light. Only change what is above each yellow tape sleeve at the two top corners: the handle is a gold metal link chain that comes out of the top of each tape sleeve, rises and leaves the top edge of the frame, as in Photo 2. No black stubs, no black strap, no silver rings.",
+          "local_image_path": "docs/assets/2026-10-11/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Photo 1 shows this exact handbag (copy it exactly); Photo 2 shows the same step from the owner's own footage, so copy its layout, bag position and hand position, but any forearm wears a plain black long sleeve; Photo 3 shows the exact look of that detail. The tool is the front end of a spray gun: a silver-white air cap with a central outlet and two small opposed projections, and a short green body below it; nothing else of the tool is visible.\nVertical 9:16 portrait composition. An ordinary first-person smartphone photograph matching the owner's L4 reference: the same black patent-leather handbag remains supported on the stainless-steel workbench, with its opening, folds, small yellow front tab and existing masking unchanged. At the right frame edge, show only the reference-matched silver-white spray-head front, its central outlet and two small opposed projections, plus the short green body portion partly hidden by the gripping right hand. The black-sleeved forearm connects continuously to the right edge; the unseen rear of the tool stays outside the frame. Capture a faint, narrow plume that broadens slightly toward the surface and becomes transparent. No invented aerosol-can cylinder, push-button cap, rigid extension straw, top-mounted cup, extra supporting hand, dense smoke, water jet, drips, readable text or logos. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the bag, its grey-white patches, the yellow tab, the zipper edge, the table, the background and the light. Only change the two handle ends at the top corners of the bag. The handle is a gold metal link chain; where it meets each top corner of the bag it is wrapped in a short sleeve of wrinkled, matte, bright-yellow paper masking tape with overlapping, uneven edges, as in Photo 2. Above each tape sleeve only the gold chain continues upward and leaves the top edge of the frame. No black strap, no leather handle, no silver rings or buckles. The tape sleeves and the chain look exactly like those in Photo 3. Edit Photo 1: keep the camera, the bag, its grey-white patches, the yellow tab, the handle ends, the table, the background and the light exactly as they are. Only change the aim of the spray: the same right hand, black-sleeved forearm and spray-can front are lowered a little so the faint, narrow, translucent plume lands directly on the grey-white patch just above the yellow tab and on its edge, not on the glossy black area above it. The patches stay as they are; nothing turns instantly glossy black; no white cloud. Only the plume region of this last edit was composited into the delivered image; the hand and spray-can front come from the previous version.",
+          "local_image_path": "docs/assets/2026-10-11/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "A realistic smartphone photo, flat fluorescent light, everything in focus. A plain off-white card lying flat on the shop's stainless-steel worktable beside the black patent-leather handbag from Photo 1; the card carries exactly three short lines of clean dark Traditional Chinese print, top to bottom: 「漆皮發白先看表面」「分區薄噴不噴厚」「光澤不保證跟新的一樣」, and nothing else is written anywhere; no hands, no logos.",
+          "local_image_path": "docs/assets/2026-10-11/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-11.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json",
+      "article_path": "posts/2026-10-11-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-11-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-01",
+      "facebook_caption": "漆皮包霧掉一塊：店裡怎麼處理。\n\n漆皮包的亮面出現一塊一塊發白、邊緣不規則的霧區，先看發白的位置和範圍，再看皮況。發白的原因與能否處理，需要看實物評估。\n\n送洗前先別急著擦拭，先拍發白的位置和整體外觀，讓我們評估後再決定怎麼處理。\n\n在店裡，我們這樣做：先看表面與皮況，確認用劑；包放穩在檯面上，分區薄噴，這次示範分兩段噴、不一次噴厚；噴後再看整體光澤；內裡也一起檢查。\n\n老實說：發白與光澤能否改善、能改善多少，都要看皮況；不保證發白全消，也不保證恢復如新，細紋與壓痕可能仍在。皮件交期約 14 天，依皮況與排程確認。\n\n拍包面發白的位置和整個包的正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查",
+      "instagram_caption": "漆皮包霧掉一塊：店裡怎麼處理。\n\n漆皮包的亮面出現一塊一塊發白、邊緣不規則的霧區，先看發白的位置和範圍，再看皮況。發白的原因與能否處理，需要看實物評估。\n\n送洗前先別急著擦拭，先拍發白的位置和整體外觀，讓我們評估後再決定怎麼處理。\n\n在店裡，我們這樣做：先看表面與皮況，確認用劑；包放穩在檯面上，分區薄噴，這次示範分兩段噴、不一次噴厚；噴後再看整體光澤；內裡也一起檢查。\n\n老實說：發白與光澤能否改善、能改善多少，都要看皮況；不保證發白全消，也不保證恢復如新，細紋與壓痕可能仍在。皮件交期約 14 天，依皮況與排程確認。\n\n拍包面發白的位置和整個包的正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-02",
+      "date": "2026-10-11",
+      "date_published": "2026-10-11T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-10-11 20:30 漆皮發白，先別急著擦",
+      "topic": "漆皮發白，先別急著擦",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中漆皮包清潔",
+        "漆皮包發白",
+        "漆皮包霧面",
+        "漆皮包保養",
+        "台中包包送洗",
+        "西屯洗包"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#漆皮包",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-11/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png",
+      "image_paths": [
+        "assets/2026-10-11/slot-02.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-10-11/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-11.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json",
+      "article_path": "posts/2026-10-11-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-11-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-02",
+      "facebook_caption": "漆皮發白，先別急著擦。\n\n這次示範的這只漆皮包，片中呈現：先看表面，再評估處理。側邊也有，一起看清楚。包放穩，再分區薄噴。換一區，不一次噴厚。噴後看表面，再看整體。內裡也要一起檢查。深淺光澤，不保證全一樣。\n\n老實說：發白與光澤能改善多少要看皮況，不保證發白全消，細紋與壓痕可能仍在。包款交期約 14 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查",
+      "instagram_caption": "漆皮發白，先別急著擦。\n\n這次示範的這只漆皮包，片中呈現：先看表面，再評估處理。側邊也有，一起看清楚。包放穩，再分區薄噴。換一區，不一次噴厚。噴後看表面，再看整體。內裡也要一起檢查。深淺光澤，不保證全一樣。\n\n老實說：發白與光澤能改善多少要看皮況，不保證發白全消，細紋與壓痕可能仍在。包款交期約 14 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查"
     }
   ]
 }
