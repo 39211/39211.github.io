@@ -1,0 +1,90 @@
+{
+  "topic": "風衣染黑變灰：整件染回去要看材質",
+  "date": "2026-10-13",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第1、2張為灰色梭織風衣，第3、4張為米色／棕褐色梭織風衣，顏色家族由 GRAY 變為 LIGHT，依規則判定物件一致性失敗。",
+    "SCENE": "四張依序可見掛衣牆、橘色洗盆、金屬洗盆及掛衣牆，均歸 OTHER，依指定 token 分類未跨場景家族，但此分類不代表實際背景相同。",
+    "TOPIC_MATCH": "四張主體皆為有翻領、鈕扣的風衣，COAT 屬於主題要求的衣物家族。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-13/slot-01.png",
+      "canary": "XN78",
+      "sha256": "bd6b211603be60bc9afeeb42aaa0ce89dc40478fd103cab26486a9ac176ada44"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-13/slot-01-slide-02.png",
+      "canary": "JGBG",
+      "sha256": "09143c84ede1ded9acd81a546b7861c9f98056de60a3c780c6af62a34a5615fd"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-13/slot-01-slide-03.png",
+      "canary": "CW36",
+      "sha256": "ba076a67e3ce72655847ef17eb9ccd394642b8a25138fe2887fc16987cdc5285"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-13/slot-01-slide-04.png",
+      "canary": "C6BY",
+      "sha256": "e2451944754b550a47fdf541287fc08b2afb1c3161b69ac67801bf0c484371d7"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-13/slot-01.png",
+    "docs/assets/2026-10-13/slot-01-slide-02.png",
+    "docs/assets/2026-10-13/slot-01-slide-03.png",
+    "docs/assets/2026-10-13/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "XN78",
+    "IMAGE_2": "JGBG",
+    "IMAGE_3": "CW36",
+    "IMAGE_4": "C6BY"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "XN78",
+    "IMAGE_2": "JGBG",
+    "IMAGE_3": "CW36",
+    "IMAGE_4": "C6BY"
+  },
+  "prompt_hash": "f4d3abe84100f46814212ccc5fcef2afd4151381841e5ef10161ed42fa0ce4d5",
+  "run_id": "carousel-qa-1791585010152",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-09T22:30:45.012Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "f4d3abe84100f46814212ccc5fcef2afd4151381841e5ef10161ed42fa0ce4d5",
+      "stdout_sha256": "7284e19f4907fb98e2357df2d737c20e1a13c7832d4aadbdeca471fdde703b6b",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}
