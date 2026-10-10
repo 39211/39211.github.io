@@ -28,6 +28,11 @@
           "@type": "PropertyValue",
           "propertyID": "Google Maps CID",
           "value": "0x41f4295a6302e177"
+        },
+        {
+          "@type": "PropertyValue",
+          "propertyID": "Google Place ID",
+          "value": "ChIJ9dYthxMXaTQRd-ECY1op9EE"
         }
       ],
       "contactPoint": [
@@ -83,11 +88,12 @@
       ],
       "geo": {
         "@type": "GeoCoordinates",
-        "latitude": 24.1780524,
-        "longitude": 120.6420289
+        "latitude": 24.174057,
+        "longitude": 120.639961
       },
       "hasMap": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
       "sameAs": [
+        "https://line.me/ti/p/4m-rA6hxf6",
         "https://www.facebook.com/100083194756904/",
         "https://www.instagram.com/si_xiang_jia/",
         "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ",
@@ -297,6 +303,10 @@
         "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-08/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-09/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-09/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-10/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-10/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -490,7 +500,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-08"
+      "dateModified": "2026-10-10"
     },
     {
       "@type": "FAQPage",
@@ -551,7 +561,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-08",
+      "dateModified": "2026-10-10",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1217,7 +1227,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#faq"
       },
-      "dateModified": "2026-09-05"
+      "dateModified": "2026-10-07"
     },
     {
       "@type": "Service",
@@ -2376,7 +2386,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/bedding-storage-check.html#faq"
       },
-      "dateModified": "2026-08-23",
+      "dateModified": "2026-10-07",
       "keywords": [
         "布品收納",
         "寢具收納",
@@ -2558,7 +2568,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html#faq"
       },
-      "dateModified": "2026-08-23",
+      "dateModified": "2026-10-07",
       "keywords": [
         "台中西屯床組清洗",
         "台中棉被清洗",
@@ -3690,7 +3700,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html#faq"
       },
-      "dateModified": "2026-08-29",
+      "dateModified": "2026-10-07",
       "keywords": [
         "東海洗衣",
         "東海洗衣店",
@@ -3920,7 +3930,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#faq"
       },
-      "dateModified": "2026-09-20",
+      "dateModified": "2026-10-07",
       "keywords": [
         "南屯洗衣",
         "南屯洗衣店",
@@ -4028,7 +4038,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html#faq"
       },
-      "dateModified": "2026-09-20",
+      "dateModified": "2026-10-07",
       "keywords": [
         "台中北區洗衣",
         "北區洗衣店",
@@ -13656,6 +13666,138 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png",
       "caption": "麂皮外套髒了、絨面塌了：店裡怎麼處理",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json#post-2026-10-09-slot-01",
+      "headline": "2026-10-09 11:30 編織皮外套磨白、色差：店裡怎麼整新",
+      "text": "編織皮外套磨白、色差：店裡怎麼整新。\n\n編織皮外套穿久了，先看袖口和下襬那圈滾邊，再看肩膀與前身的深淺差。袖口、下襬發白，先看磨損位置與皮況；是否還有表面髒污，要看實物。確認有失色後，再評估是否適合整新。\n\n送洗前先別做：自己拿鞋油或補色膏塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看磨損的位置和皮況，前處理與用劑依皮況調整；外套掛起固定，用噴槍分區整新；拉開下襬，側邊一起做；這次示範採分兩次噴，不一次上滿，前一層穩定後再做下一層；最後輕壓檢查手感。\n\n老實說：整新的目標是把深淺拉近，能改善多少依皮況，不保證完全一致。皮件交期約 14 天，依皮況與排程確認。\n\n拍磨白的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #編織皮外套 #皮衣整新 #送洗前檢查",
+      "datePublished": "2026-10-09T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#編織皮外套",
+        "#皮衣整新",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json#post-2026-10-09-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json#post-2026-10-09-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json#post-2026-10-09-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-09/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-09/slot-01.png",
+      "caption": "編織皮外套磨白、色差：店裡怎麼整新",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json#post-2026-10-09-slot-02",
+      "headline": "2026-10-09 20:30 編織皮磨白，先別自己補色",
+      "text": "編織皮磨白，先別自己補色。\n\n這次示範的是一件編織皮外套。就這件外套的畫面來看：磨白多在袖口、下襬。掛起來看，整件深淺不一。\n\n這次片中呈現的處理：掛起固定，分區整新。拉開下襬，側邊一起做。分兩次噴，不一次上滿。深淺拉近，編織紋還在。壓一下看，皮面要留軟。\n\n老實說：整新的目標是把深淺拉近，能改善多少依皮況，不保證完全一致。皮件交期約 14 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #編織皮外套 #皮衣整新 #送洗前檢查",
+      "datePublished": "2026-10-09T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#編織皮外套",
+        "#皮衣整新",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json#post-2026-10-09-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json#post-2026-10-09-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json#post-2026-10-09-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-09/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-09/slot-02.png",
+      "caption": "編織皮磨白，先別自己補色",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-01",
+      "headline": "2026-10-10 11:30 馬皮短靴穿久沒新感：店裡怎麼處理",
+      "text": "馬皮短靴穿久沒新感：店裡怎麼處理。\n\n馬皮短靴穿久了，先看鞋頭的摺痕，再看亮面是不是一塊一塊不平均。摺痕能改善多少、適合怎麼處理，要依皮況評估；亮面不均是否還有表面髒污或舊油蠟，要看實物確認。確認皮況後，再評估是否適合清潔與整燙，以及處理方式。\n\n送洗前先別做：拿鞋油厚厚塗一層、用吹風機貼近猛吹、拿濕布用力來回擦。\n\n在店裡，我們這樣做：先確認材質、結構與皮況；扶穩靴身，用海綿帶泡沫清洗；清潔段完成後，依皮況隔著白紙稍微整燙。拉鍊和鞋邊已貼好膠帶，靴口也已塞紙。吹風機控制風溫、移動著收乾；最後用白布薄擦，保留皮面質感。\n\n老實說：摺痕不保證全消，我們會保持原有的皮革風貌。鞋子交期約 7 天，依皮況與排程確認。\n\n拍整雙靴子的正面和鞋頭摺痕傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查",
+      "datePublished": "2026-10-10T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#馬皮靴",
+        "#皮靴保養",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-10/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-10/slot-01.png",
+      "caption": "馬皮短靴穿久沒新感：店裡怎麼處理",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-02",
+      "headline": "2026-10-10 20:30 馬皮短靴穿久，摺痕變深",
+      "text": "馬皮短靴穿久，摺痕變深。\n\n這次示範的這雙馬皮短靴，片中呈現：先看摺痕，也看皮況。扶穩靴身，海綿帶泡沫洗。隔著白紙，稍微整燙。拉鍊和鞋邊，膠帶已貼好。吹風機收乾，再看皮面。白布薄擦，保留皮面質感。保持原有皮革風貌。\n\n老實說：摺痕不保證全消，整燙與收乾都依皮況調整。鞋子交期約 7 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查",
+      "datePublished": "2026-10-10T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#馬皮靴",
+        "#皮靴保養",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-10/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-10/slot-02.png",
+      "caption": "馬皮短靴穿久，摺痕變深",
       "inLanguage": "zh-Hant"
     }
   ]

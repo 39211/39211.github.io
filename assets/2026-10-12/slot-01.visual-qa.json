@@ -1,0 +1,90 @@
+{
+  "topic": "羊毛披巾暈色移染：店裡怎麼處理",
+  "date": "2026-10-12",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第1至3張可見粉紅與米色的雙色布身，第4張只見粉紅布身；依宣告的 TWO_TONE 與 OTHER 顏色差異，物件一致性判為 FAIL。",
+    "SCENE": "第1張是木椅與磁磚背景，第2、4張可見深色工作檯，第3張則是金屬滾筒機門，宣告包含 OTHER 與 WASHER_WALL，場景不一致。",
+    "TOPIC_MATCH": "四張均呈現柔軟織物，未混入鞋類或包袋，外觀與披巾主題相符；僅憑照片無法確認羊毛成分。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-12/slot-01.png",
+      "canary": "CY69",
+      "sha256": "9551f245a0c23e7e32f69f0fa869f22490c0a96e99583d809fab83f35ef85cb6"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-12/slot-01-slide-02.png",
+      "canary": "8FQC",
+      "sha256": "80ad90b87cf8945ef79a536392c63806271e6e910e794e2a4cc776c1a3e0d4f5"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-12/slot-01-slide-03.png",
+      "canary": "7YDT",
+      "sha256": "054f57f435bed341727c58e304bca07cd8634f1a8cd08939be40c2575f273db4"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-12/slot-01-slide-04.png",
+      "canary": "ZKTS",
+      "sha256": "6863e8c293022a4706941a028aa817948f87c0d31e2c490902be5486da495c10"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-12/slot-01.png",
+    "docs/assets/2026-10-12/slot-01-slide-02.png",
+    "docs/assets/2026-10-12/slot-01-slide-03.png",
+    "docs/assets/2026-10-12/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "CY69",
+    "IMAGE_2": "8FQC",
+    "IMAGE_3": "7YDT",
+    "IMAGE_4": "ZKTS"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "CY69",
+    "IMAGE_2": "8FQC",
+    "IMAGE_3": "7YDT",
+    "IMAGE_4": "ZKTS"
+  },
+  "prompt_hash": "d216fdab5684b46ccd18a3788ca53911bea8139d5a945ae7839d93db2a4d3149",
+  "run_id": "carousel-qa-1791498606344",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-08T22:30:54.423Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "d216fdab5684b46ccd18a3788ca53911bea8139d5a945ae7839d93db2a4d3149",
+      "stdout_sha256": "ed69b818f1111342122a003b3b2bdaa375ca6f265de9e08a15036217c3baf66e",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}

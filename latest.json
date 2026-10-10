@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-07T22:30:46.465Z",
+  "generated_at": "2026-10-09T22:30:47.576Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
   "base_url": "https://sixiangjialaundry.com",
   "base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "date": "2026-10-08",
+  "date": "2026-10-10",
   "posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-01",
-      "date": "2026-10-08",
-      "date_published": "2026-10-08T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-01",
+      "date": "2026-10-10",
+      "date_published": "2026-10-10T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
       "category": "知識文",
-      "title": "2026-10-08 11:30 麂皮外套發花、絨面塌了：送洗前先看這三件事",
-      "topic": "麂皮外套發花、絨面塌了：送洗前先看這三件事",
+      "title": "2026-10-10 11:30 馬皮短靴穿久沒新感：店裡怎麼處理",
+      "topic": "馬皮短靴穿久沒新感：店裡怎麼處理",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中麂皮清潔",
-        "麂皮外套清洗",
-        "麂皮發花",
-        "西屯洗衣店",
-        "台中皮衣清潔",
-        "麂皮外套送洗"
+        "台中皮靴清潔",
+        "馬皮靴保養",
+        "皮靴摺痕",
+        "精品鞋清潔",
+        "西屯洗鞋",
+        "台中洗鞋推薦"
       ],
-      "evidence_type": "verified-business-fact",
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#麂皮外套",
-        "#皮衣清潔",
+        "#馬皮靴",
+        "#皮靴保養",
         "#送洗前檢查"
       ],
       "platforms": [
@@ -42,59 +42,84 @@
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-08/slot-01.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-08/slot-01.png",
+      "image_path": "assets/2026-10-10/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-10/slot-01.png",
       "image_paths": [
-        "assets/2026-10-08/slot-01.png",
-        "assets/2026-10-08/slot-01-slide-02.png",
-        "assets/2026-10-08/slot-01-slide-03.png",
-        "assets/2026-10-08/slot-01-slide-04.png"
+        "assets/2026-10-10/slot-01.png",
+        "assets/2026-10-10/slot-01-slide-02.png",
+        "assets/2026-10-10/slot-01-slide-03.png",
+        "assets/2026-10-10/slot-01-slide-04.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-08/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-08/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-08/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-08/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-10/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-10/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-10/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-10/slot-01-slide-04.png"
       ],
-      "carousel_items": [],
-      "media_type": "image",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "A realistic smartphone photo, flat daylight, everything in focus, no blurry background. In the entryway of a customer's small Taiwanese apartment, the exact pair of black horse leather front-zip ankle boots from Photo 1 stands on the tiled floor in front of a plain shoe cabinet, both front zippers facing the camera, the deep worn creases across the toes and the uneven shine clearly visible; a few everyday things in the background, tidy, no people, no hands, no hang tags, no logos, no text.",
+          "local_image_path": "docs/assets/2026-10-10/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-10/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Photo 1 shows this exact pair of boots (copy them exactly); Photo 2 shows the same step from the owner's own footage, so copy its layout and hand positions, but the forearms wear plain black long sleeves; Photo 3 shows the exact shape of the tool. Leave out the orange paper hang tag.\nVertical 9:16 portrait composition. An ordinary first-person smartphone photograph at the owner's stainless-steel washing bench. The same selected black horsehide ankle boot has its front zipper already open, with the left hand supporting the shaft through the opening at a fixed low working height above the bench, not presenting it toward the camera. The right hand holds a palm-sized soft yellow cleaning sponge with rounded edges and wet white foam against the leather. Irregular foam remains on already-worked areas and in the washing tray; the matching boot rests beside it. Include the reference red plastic basin and clear handled measuring jug. Both black-sleeved forearms remain continuously connected to the lower frame edges. No yellow tape, brush, readable text or logos; flat fluorescent light, real leather creases, no bokeh.\nThe matching second boot is not standing: it lies flat on its back in a wide puddle of white foam on the bench to the right, its front zipper facing up and its toe pointing toward the camera.",
+          "local_image_path": "docs/assets/2026-10-10/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-10/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Vertical 9:16 portrait composition. An ordinary first-person smartphone photograph of the same selected black horsehide ankle boot at the stainless-steel workbench, with its yellow masking tape and white paper stuffing still in place. The left hand steadies the shaft while the sole remains supported, and the right hand presses a soft white cloth with only a faint pale-yellow smear against a small area of the boot's outer side. Both black-sleeved forearms connect continuously to the frame edges. An open clear glass jar containing yellow care paste stands nearby, untouched by either hand; the matching boot remains in the background. Preserve natural leather grain, worn folds and uneven sheen, not patent leather or a thick painted coating. Flat fluorescent light, no bokeh, readable text, logos or dipping action.",
+          "local_image_path": "docs/assets/2026-10-10/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-10/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "A realistic smartphone photo, flat fluorescent light, everything in focus. A plain off-white card lying flat on the shop's stainless-steel worktable beside the pair of black horse leather front-zip ankle boots from Photo 1; the card carries exactly three short lines of clean dark Traditional Chinese print, top to bottom: 「馬皮先看摺痕與皮況」「隔紙整燙再收乾」「摺痕不保證全消」, and nothing else is written anywhere; no hands, no logos.",
+          "local_image_path": "docs/assets/2026-10-10/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-10/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
       "video_path": "",
       "video_url": "",
-      "calendar_path": "content-calendar/2026-10-08.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json",
-      "article_path": "posts/2026-10-08-slot-01.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-08-slot-01.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-01",
-      "facebook_caption": "麂皮外套發花、絨面塌了：送洗前先看這三件事。\n\n麂皮外套穿一陣子，常見三種狀況一起出現：前幅一塊顏色發花、絨毛被壓塌、袖口和前襟卡灰。發花和塌絨多半是摩擦和髒污疊在一起，可以救回一些，但不一定回到原本的樣子。\n\n送洗前先別做：整件丟進洗衣機、拿濕布用力來回擦、用吹風機貼著吹。\n\n在店裡，我們這樣做：先看洗標和皮況，材質、掉色與用劑先確認；外套平放固定，分區輕搓；確認用劑，再分區噴；裡布、拉鍊也一起檢查；氣槍掃過浮屑；袖管換塊輕搓，不用硬磨；最後掛起分區噴，完成收尾。\n\n老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。皮件交期大約 14 天。\n\n拍洗標、發花的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查",
-      "instagram_caption": "麂皮外套發花、絨面塌了：送洗前先看這三件事。\n\n麂皮外套穿一陣子，常見三種狀況一起出現：前幅一塊顏色發花、絨毛被壓塌、袖口和前襟卡灰。發花和塌絨多半是摩擦和髒污疊在一起，可以救回一些，但不一定回到原本的樣子。\n\n送洗前先別做：整件丟進洗衣機、拿濕布用力來回擦、用吹風機貼著吹。\n\n在店裡，我們這樣做：先看洗標和皮況，材質、掉色與用劑先確認；外套平放固定，分區輕搓；確認用劑，再分區噴；裡布、拉鍊也一起檢查；氣槍掃過浮屑；袖管換塊輕搓，不用硬磨；最後掛起分區噴，完成收尾。\n\n老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。皮件交期大約 14 天。\n\n拍洗標、發花的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查"
+      "calendar_path": "content-calendar/2026-10-10.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json",
+      "article_path": "posts/2026-10-10-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-10-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-01",
+      "facebook_caption": "馬皮短靴穿久沒新感：店裡怎麼處理。\n\n馬皮短靴穿久了，先看鞋頭的摺痕，再看亮面是不是一塊一塊不平均。摺痕能改善多少、適合怎麼處理，要依皮況評估；亮面不均是否還有表面髒污或舊油蠟，要看實物確認。確認皮況後，再評估是否適合清潔與整燙，以及處理方式。\n\n送洗前先別做：拿鞋油厚厚塗一層、用吹風機貼近猛吹、拿濕布用力來回擦。\n\n在店裡，我們這樣做：先確認材質、結構與皮況；扶穩靴身，用海綿帶泡沫清洗；清潔段完成後，依皮況隔著白紙稍微整燙。拉鍊和鞋邊已貼好膠帶，靴口也已塞紙。吹風機控制風溫、移動著收乾；最後用白布薄擦，保留皮面質感。\n\n老實說：摺痕不保證全消，我們會保持原有的皮革風貌。鞋子交期約 7 天，依皮況與排程確認。\n\n拍整雙靴子的正面和鞋頭摺痕傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查",
+      "instagram_caption": "馬皮短靴穿久沒新感：店裡怎麼處理。\n\n馬皮短靴穿久了，先看鞋頭的摺痕，再看亮面是不是一塊一塊不平均。摺痕能改善多少、適合怎麼處理，要依皮況評估；亮面不均是否還有表面髒污或舊油蠟，要看實物確認。確認皮況後，再評估是否適合清潔與整燙，以及處理方式。\n\n送洗前先別做：拿鞋油厚厚塗一層、用吹風機貼近猛吹、拿濕布用力來回擦。\n\n在店裡，我們這樣做：先確認材質、結構與皮況；扶穩靴身，用海綿帶泡沫清洗；清潔段完成後，依皮況隔著白紙稍微整燙。拉鍊和鞋邊已貼好膠帶，靴口也已塞紙。吹風機控制風溫、移動著收乾；最後用白布薄擦，保留皮面質感。\n\n老實說：摺痕不保證全消，我們會保持原有的皮革風貌。鞋子交期約 7 天，依皮況與排程確認。\n\n拍整雙靴子的正面和鞋頭摺痕傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-02",
-      "date": "2026-10-08",
-      "date_published": "2026-10-08T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-02",
+      "date": "2026-10-10",
+      "date_published": "2026-10-10T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
       "category": "情境文",
-      "title": "2026-10-08 20:30 麂皮外套髒了、絨面塌了：店裡怎麼處理",
-      "topic": "麂皮外套髒了、絨面塌了：店裡怎麼處理",
+      "title": "2026-10-10 20:30 馬皮短靴穿久，摺痕變深",
+      "topic": "馬皮短靴穿久，摺痕變深",
       "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
+      "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中麂皮清潔",
-        "麂皮外套清洗",
-        "麂皮發花",
-        "西屯洗衣店",
-        "台中皮衣清潔",
-        "麂皮外套送洗"
+        "台中皮靴清潔",
+        "馬皮靴保養",
+        "皮靴摺痕",
+        "精品鞋清潔",
+        "西屯洗鞋",
+        "台中洗鞋推薦"
       ],
-      "evidence_type": "customer-question",
+      "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#麂皮外套",
-        "#皮衣清潔",
+        "#馬皮靴",
+        "#皮靴保養",
         "#送洗前檢查"
       ],
       "platforms": [
@@ -102,25 +127,25 @@
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-08/slot-02.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png",
+      "image_path": "assets/2026-10-10/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-10/slot-02.png",
       "image_paths": [
-        "assets/2026-10-08/slot-02.png"
+        "assets/2026-10-10/slot-02.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-10/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_path": "assets/2026-10-08/slot-02.mp4",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-08/slot-02.mp4",
-      "calendar_path": "content-calendar/2026-10-08.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json",
-      "article_path": "posts/2026-10-08-slot-02.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-08-slot-02.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json#post-2026-10-08-slot-02",
-      "facebook_caption": "麂皮發花，先別急著刷。\n\n在店裡的順序：先看洗標，再評估皮況。平放固定，分區輕搓。確認用劑，再分區噴。裡布、拉鍊也要檢查。氣槍掃過，分區處理。換塊輕搓，不用硬磨。掛起分區噴，完成收尾。\n\n老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查",
-      "instagram_caption": "麂皮發花，先別急著刷。\n\n在店裡的順序：先看洗標，再評估皮況。平放固定，分區輕搓。確認用劑，再分區噴。裡布、拉鍊也要檢查。氣槍掃過，分區處理。換塊輕搓，不用硬磨。掛起分區噴，完成收尾。\n\n老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查"
+      "video_path": "assets/2026-10-10/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-10/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-10.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json",
+      "article_path": "posts/2026-10-10-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-10-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-10.json#post-2026-10-10-slot-02",
+      "facebook_caption": "馬皮短靴穿久，摺痕變深。\n\n這次示範的這雙馬皮短靴，片中呈現：先看摺痕，也看皮況。扶穩靴身，海綿帶泡沫洗。隔著白紙，稍微整燙。拉鍊和鞋邊，膠帶已貼好。吹風機收乾，再看皮面。白布薄擦，保留皮面質感。保持原有皮革風貌。\n\n老實說：摺痕不保證全消，整燙與收乾都依皮況調整。鞋子交期約 7 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查",
+      "instagram_caption": "馬皮短靴穿久，摺痕變深。\n\n這次示範的這雙馬皮短靴，片中呈現：先看摺痕，也看皮況。扶穩靴身，海綿帶泡沫洗。隔著白紙，稍微整燙。拉鍊和鞋邊，膠帶已貼好。吹風機收乾，再看皮面。白布薄擦，保留皮面質感。保持原有皮革風貌。\n\n老實說：摺痕不保證全消，整燙與收乾都依皮況調整。鞋子交期約 7 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #馬皮靴 #皮靴保養 #送洗前檢查"
     }
   ]
 }

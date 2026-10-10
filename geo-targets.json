@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-02",
-  "generated_at": "2026-10-07T22:30:46.465Z",
+  "generated_at": "2026-10-09T22:30:47.576Z",
   "business": {
     "name": "私享家洗衣店",
     "google_business_profile_name": "私享家 旗艦總店",
@@ -16,7 +16,7 @@
     "landmark": "至善國中對面",
     "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
     "google_maps_cid": "0x41f4295a6302e177",
-    "google_place_id": null,
+    "google_place_id": "ChIJ9dYthxMXaTQRd-ECY1op9EE",
     "telephone": "04-2452-7411",
     "line_url": "https://line.me/ti/p/4m-rA6hxf6",
     "opening_hours_text": "週一至週五 10:00-20:00；週六 12:00-18:00；週日公休"
@@ -74,8 +74,8 @@
     }
   },
   "coordinates": {
-    "latitude": 24.1780524,
-    "longitude": 120.6420289,
+    "latitude": 24.174057,
+    "longitude": 120.639961,
     "status": "owner-verified-2026-08-21"
   },
   "primary_local_queries": [
