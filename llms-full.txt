@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-10T22:30:49.856Z
+- Generated at: 2026-10-11T22:31:26.878Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -401,6 +401,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-10/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -11058,4 +11060,98 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查
+
+### 2026-10-12 11:30 羊毛披巾暈色移染：店裡怎麼處理
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-01
+- published local time: 2026-10-12T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: trust-reset
+- search_intent: problem-diagnosis
+- target_queries: 台中羊毛披巾清潔 | 披巾暈色 | 衣服被染色 | 羊毛圍巾送洗 | 台中乾洗 | 西屯洗衣店
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-12.json
+
+Facebook caption:
+
+羊毛披巾暈色移染：店裡怎麼處理。
+
+淺色羊毛披巾出現一片暈色，先別急著當成一般髒污處理。先看材質、布邊與暈色範圍，再評估適合的處理方式。
+
+送洗前先別做：整件泡水用力搓、自己拿漂白水或去漬劑刷、用熱水燙。
+
+處理後攤平，檢查布面與暈色變化。每件狀況不同，處理方式須個別評估。
+
+老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。
+
+拍整件披巾和暈色那一塊的近拍傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查
+
+Instagram caption:
+
+羊毛披巾暈色移染：店裡怎麼處理。
+
+淺色羊毛披巾出現一片暈色，先別急著當成一般髒污處理。先看材質、布邊與暈色範圍，再評估適合的處理方式。
+
+送洗前先別做：整件泡水用力搓、自己拿漂白水或去漬劑刷、用熱水燙。
+
+處理後攤平，檢查布面與暈色變化。每件狀況不同，處理方式須個別評估。
+
+老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。
+
+拍整件披巾和暈色那一塊的近拍傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查
+
+### 2026-10-12 20:30 羊毛披巾被染到，暈出一片
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-02
+- published local time: 2026-10-12T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中羊毛披巾清潔 | 披巾暈色 | 衣服被染色 | 羊毛圍巾送洗 | 台中乾洗 | 西屯洗衣店
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-12.json
+
+Facebook caption:
+
+羊毛披巾被染到，暈出一片。
+
+這次示範的這條羊毛披巾，片中呈現：先看布邊和暈色範圍。暈色的地方，重點處理。這一小塊，短距離來回刷。放進店裡的乾洗設備。關門後，進行設備處理。取出來，再看看布面。攤平檢查暈色變化。
+
+老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。
+
+拍照傳LINE，先評估。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查
+
+Instagram caption:
+
+羊毛披巾被染到，暈出一片。
+
+這次示範的這條羊毛披巾，片中呈現：先看布邊和暈色範圍。暈色的地方，重點處理。這一小塊，短距離來回刷。放進店裡的乾洗設備。關門後，進行設備處理。取出來，再看看布面。攤平檢查暈色變化。
+
+老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。
+
+拍照傳LINE，先評估。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查
 

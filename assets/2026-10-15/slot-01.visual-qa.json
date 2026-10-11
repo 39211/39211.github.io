@@ -1,0 +1,90 @@
+{
+  "topic": "這一大袋，怎麼送去洗？",
+  "date": "2026-10-15",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "FAIL"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "前三張主體是藍色提袋，第四張主體是米白底藍條紋床被，類型由 BAG 變為 OTHER，顏色由 BLUE 變為 TWO_TONE。",
+    "SCENE": "前三張可見住家門口，第四張可見臥室，但依指定封閉分類均為 OTHER，因此此軸 PASS 僅表示場景 token 相同。",
+    "TOPIC_MATCH": "主題中的「袋」對應 BAG，前三張符合，第四張宣告為 OTHER 的床被，因此物件集合不全屬袋類。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-15/slot-01.png",
+      "canary": "2DB9",
+      "sha256": "5607efedf82434a4ffc2370e1758d166affc6807518c619924ec8530f1420bba"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-15/slot-01-slide-02.png",
+      "canary": "Y79R",
+      "sha256": "8d1c2a046cd7ac61cdcbe4f0fbbea9b76d19abe8943f2c249a29ece1de570a0e"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-15/slot-01-slide-03.png",
+      "canary": "H25X",
+      "sha256": "500ace0e120daf2b7ec7e6550d50c931333d86d35c0cda81989f2e07e8dd8255"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-15/slot-01-slide-04.png",
+      "canary": "UJ3G",
+      "sha256": "9875e9adf6d9bcfca24fad8eb660929099c1ccdb978fba46edd2d636a27845df"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-15/slot-01.png",
+    "docs/assets/2026-10-15/slot-01-slide-02.png",
+    "docs/assets/2026-10-15/slot-01-slide-03.png",
+    "docs/assets/2026-10-15/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "2DB9",
+    "IMAGE_2": "Y79R",
+    "IMAGE_3": "H25X",
+    "IMAGE_4": "UJ3G"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "2DB9",
+    "IMAGE_2": "Y79R",
+    "IMAGE_3": "H25X",
+    "IMAGE_4": "UJ3G"
+  },
+  "prompt_hash": "e20c7a3df09cd8575f762a2305721a0c77a1ab03ee2d62fba70d3181890e3632",
+  "run_id": "carousel-qa-1791757828955",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-11T22:31:23.311Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "e20c7a3df09cd8575f762a2305721a0c77a1ab03ee2d62fba70d3181890e3632",
+      "stdout_sha256": "9b4356b547c7ae566921341e7ad5b3446a6b0a8c1ef87c5ea73ff0091822a5dd",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}

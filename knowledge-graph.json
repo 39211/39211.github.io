@@ -309,6 +309,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-10/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -502,7 +504,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-11"
+      "dateModified": "2026-10-12"
     },
     {
       "@type": "FAQPage",
@@ -563,7 +565,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-11",
+      "dateModified": "2026-10-12",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -13866,6 +13868,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png",
       "caption": "漆皮發白，先別急著擦",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-01",
+      "headline": "2026-10-12 11:30 羊毛披巾暈色移染：店裡怎麼處理",
+      "text": "羊毛披巾暈色移染：店裡怎麼處理。\n\n淺色羊毛披巾出現一片暈色，先別急著當成一般髒污處理。先看材質、布邊與暈色範圍，再評估適合的處理方式。\n\n送洗前先別做：整件泡水用力搓、自己拿漂白水或去漬劑刷、用熱水燙。\n\n處理後攤平，檢查布面與暈色變化。每件狀況不同，處理方式須個別評估。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍整件披巾和暈色那一塊的近拍傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查",
+      "datePublished": "2026-10-12T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#羊毛披巾",
+        "#衣物暈色",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png",
+      "caption": "羊毛披巾暈色移染：店裡怎麼處理",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-02",
+      "headline": "2026-10-12 20:30 羊毛披巾被染到，暈出一片",
+      "text": "羊毛披巾被染到，暈出一片。\n\n這次示範的這條羊毛披巾，片中呈現：先看布邊和暈色範圍。暈色的地方，重點處理。這一小塊，短距離來回刷。放進店裡的乾洗設備。關門後，進行設備處理。取出來，再看看布面。攤平檢查暈色變化。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查",
+      "datePublished": "2026-10-12T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#羊毛披巾",
+        "#衣物暈色",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png",
+      "caption": "羊毛披巾被染到，暈出一片",
       "inLanguage": "zh-Hant"
     }
   ]

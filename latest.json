@@ -1,40 +1,40 @@
 {
-  "generated_at": "2026-10-10T22:30:49.856Z",
+  "generated_at": "2026-10-11T22:31:26.878Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
   "base_url": "https://sixiangjialaundry.com",
   "base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "date": "2026-10-11",
+  "date": "2026-10-12",
   "posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-01",
-      "date": "2026-10-11",
-      "date_published": "2026-10-11T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-01",
+      "date": "2026-10-12",
+      "date_published": "2026-10-12T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
       "category": "知識文",
-      "title": "2026-10-11 11:30 漆皮包霧掉一塊：店裡怎麼處理",
-      "topic": "漆皮包霧掉一塊：店裡怎麼處理",
-      "visual_route": "macro-detail",
-      "traffic_route": "dwell-detail",
+      "title": "2026-10-12 11:30 羊毛披巾暈色移染：店裡怎麼處理",
+      "topic": "羊毛披巾暈色移染：店裡怎麼處理",
+      "visual_route": "shop-inspection",
+      "traffic_route": "trust-reset",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中漆皮包清潔",
-        "漆皮包發白",
-        "漆皮包霧面",
-        "漆皮包保養",
-        "台中包包送洗",
-        "西屯洗包"
+        "台中羊毛披巾清潔",
+        "披巾暈色",
+        "衣服被染色",
+        "羊毛圍巾送洗",
+        "台中乾洗",
+        "西屯洗衣店"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#漆皮包",
-        "#皮件保養",
+        "#羊毛披巾",
+        "#衣物暈色",
         "#送洗前檢查"
       ],
       "platforms": [
@@ -42,84 +42,84 @@
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-11/slot-01.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png",
+      "image_path": "assets/2026-10-12/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png",
       "image_paths": [
-        "assets/2026-10-11/slot-01.png",
-        "assets/2026-10-11/slot-01-slide-02.png",
-        "assets/2026-10-11/slot-01-slide-03.png",
-        "assets/2026-10-11/slot-01-slide-04.png"
+        "assets/2026-10-12/slot-01.png",
+        "assets/2026-10-12/slot-01-slide-02.png",
+        "assets/2026-10-12/slot-01-slide-03.png",
+        "assets/2026-10-12/slot-01-slide-04.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
-          "image_prompt": "Photo 1 shows this exact handbag; copy it exactly.\nA realistic smartphone photo, flat daylight, everything in focus, no blurry background. On a plain dining table in a customer's small Taiwanese apartment lies the exact black patent-leather crescent handbag from Photo 1, its front panel filling most of the frame with the irregular grey-white dull patches clearly visible and the small plain yellow tab near the lower centre; the handle is outside the frame; a few everyday things in the background, tidy, no people, no hands, no masking tape, no logos, no text. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the bag, its grey-white patches, the yellow tab, the table, the room and the light. Only change the two handle ends at the top corners of the bag: the handle is a gold metal link chain like the one in Photo 2, attached directly at each top corner and leaving the top edge of the frame. No tape, no black strap, no leather handle, no silver rings.",
-          "local_image_path": "docs/assets/2026-10-11/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01.png"
+          "image_prompt": "Photo 1 and Photo 2 show this exact shawl; copy its colours, fabric and black binding exactly.\nA realistic smartphone photo, flat daylight, everything in focus, no blurry background. In a customer's small Taiwanese apartment, the same pink-and-khaki reversible wool shawl from Photo 1 is draped over the back of a plain wooden chair, pink twill face outward with its black bound edge visible; an irregular grey-purple discoloured area is visible on the pink face. The large khaki printed graphic stays hidden in the folds, so no letters or logos are visible. A few everyday things in the background, tidy, no people, no hands, no hang tags, no text. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the pink shawl, its stains and folds, the chair, the room and the light. Only make the black edge binding along the shawl's border about half as wide as now, the same fine flat black binding as in Photo 2, keeping its outer edge where it is. The stains stay exactly where they are and as visible as now. Edit Photo 1: keep everything exactly as it is: the pink shawl, its stains and folds, the chair, the room and the light. Only make the black edge binding along the shawl's border about one third as wide as now, a fine flat black binding like the one in Photo 2, keeping its outer edge where it is. The stains stay exactly where they are and as visible as now.",
+          "local_image_path": "docs/assets/2026-10-12/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png"
         },
         {
           "slide": 2,
-          "image_prompt": "Photo 1 shows this exact handbag (copy it exactly); Photo 2 shows the same step from the owner's own footage, so copy its layout, bag position and hand position, but any forearm wears a plain black long sleeve; Photo 3 shows the exact look of that detail.\nVertical 9:16 portrait composition. An ordinary smartphone photograph showing the complete crescent-shaped body of the same black patent-leather handbag on the same stainless-steel workbench. Match the owner's L2 reference, including the curved upper edge, stitched perimeter, irregular pale patches and the existing handle attachment points wrapped in wrinkled bright-yellow masking tape. Show natural tape overlaps and short uneven edges, not solid yellow metal fittings. Keep the original small plain yellow front tab wherever visible. Preserve the reference handle geometry without inventing a new rigid handle from the metal bar in the background. Flat fluorescent light, realistic glossy reflections and readable surroundings. No hands, readable text, logos, floating bag, extra chain or dramatic studio lighting. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the bag, its surface, the yellow tab, the two yellow tape sleeves, the table, the background and the light. Only change what is above each yellow tape sleeve at the two top corners: the handle is a gold metal link chain that comes out of the top of each tape sleeve, rises and leaves the top edge of the frame, as in Photo 2. No black stubs, no black strap, no silver rings.",
-          "local_image_path": "docs/assets/2026-10-11/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-02.png"
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle, fabric arrangement and hand position, but any forearm wears a plain black long sleeve, and no caption, subtitle or watermark from the footage is drawn. Photo 2 shows the same shawl and must be matched exactly. Photo 3 shows the exact shape of the tool or machine part.\nVertical 9:16 portrait composition. An ordinary close smartphone photograph of the same local fabric area shown in source frames P3 and P4. Keep the dark irregular damp-looking patch, stitched seam, twill direction and camera orientation consistent with the preceding P3 frame. Reproduce the brush silhouette from source frame P4: a golden-yellow body, short handle, rectangular back with the reference row of openings, and short dark bristles. Do not substitute a toothbrush or add metallic gold bristles. One adult hand holds the tail end of the handle; the bristles are already resting against the lower part of the dark patch. Only slight local fabric compression is visible. The hand connects naturally to a wrist and plain black long-sleeved forearm entering continuously from the lower-left edge. No detached fingers, second hand, face or torso. The patch remains visibly present. Flat overhead shop lighting, matte fabric, deep depth of field and ordinary phone noise. No foam, added liquid, readable text, recognizable trademarks, captions or watermarks.",
+          "local_image_path": "docs/assets/2026-10-12/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-02.png"
         },
         {
           "slide": 3,
-          "image_prompt": "Photo 1 shows this exact handbag (copy it exactly); Photo 2 shows the same step from the owner's own footage, so copy its layout, bag position and hand position, but any forearm wears a plain black long sleeve; Photo 3 shows the exact look of that detail. The tool is the front end of a spray gun: a silver-white air cap with a central outlet and two small opposed projections, and a short green body below it; nothing else of the tool is visible.\nVertical 9:16 portrait composition. An ordinary first-person smartphone photograph matching the owner's L4 reference: the same black patent-leather handbag remains supported on the stainless-steel workbench, with its opening, folds, small yellow front tab and existing masking unchanged. At the right frame edge, show only the reference-matched silver-white spray-head front, its central outlet and two small opposed projections, plus the short green body portion partly hidden by the gripping right hand. The black-sleeved forearm connects continuously to the right edge; the unseen rear of the tool stays outside the frame. Capture a faint, narrow plume that broadens slightly toward the surface and becomes transparent. No invented aerosol-can cylinder, push-button cap, rigid extension straw, top-mounted cup, extra supporting hand, dense smoke, water jet, drips, readable text or logos. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the bag, its grey-white patches, the yellow tab, the zipper edge, the table, the background and the light. Only change the two handle ends at the top corners of the bag. The handle is a gold metal link chain; where it meets each top corner of the bag it is wrapped in a short sleeve of wrinkled, matte, bright-yellow paper masking tape with overlapping, uneven edges, as in Photo 2. Above each tape sleeve only the gold chain continues upward and leaves the top edge of the frame. No black strap, no leather handle, no silver rings or buckles. The tape sleeves and the chain look exactly like those in Photo 3. Edit Photo 1: keep the camera, the bag, its grey-white patches, the yellow tab, the handle ends, the table, the background and the light exactly as they are. Only change the aim of the spray: the same right hand, black-sleeved forearm and spray-can front are lowered a little so the faint, narrow, translucent plume lands directly on the grey-white patch just above the yellow tab and on its edge, not on the glossy black area above it. The patches stay as they are; nothing turns instantly glossy black; no white cloud. Only the plume region of this last edit was composited into the delivered image; the hand and spray-can front come from the previous version.",
-          "local_image_path": "docs/assets/2026-10-11/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-03.png"
+          "image_prompt": "Photo 1 shows the exact closed door of this machine: copy the glass, the heavy metal ring and the positions of the yellow label blocks, but the label printing stays unreadable. Photo 2 is the source frame of the shawl tumbling inside the drum. Photo 3 shows the same shawl inside the same drum and must be matched exactly.\nVertical 9:16 portrait composition. An ordinary smartphone photograph of the same commercial dry-cleaning machine, using source frame P6 and the CARD reference for the closed-door exterior. The round glass door is fully closed. Keep the heavy metal outer ring and the yellow warning-label blocks in their reference positions: the large upper label partly cropped and the smaller lower-left label visible. Their printing must not resolve into readable characters or identifiable logos. Through the glass, the same single shawl is visible inside the perforated stainless-steel drum, mostly khaki outward with a small pink fold and black binding. Capture a plausible moment during the source-described tumbling, with only modest motion softness on the cloth and inner drum. The outer door, ring and labels remain sharp and stationary. No hands or photographer reflection. Close, slightly oblique phone framing, flat shop lighting, deep depth of field and ordinary phone noise. No water level, foam, steam, readable display, captions, recognizable trademarks or watermarks.",
+          "local_image_path": "docs/assets/2026-10-12/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-03.png"
         },
         {
           "slide": 4,
-          "image_prompt": "A realistic smartphone photo, flat fluorescent light, everything in focus. A plain off-white card lying flat on the shop's stainless-steel worktable beside the black patent-leather handbag from Photo 1; the card carries exactly three short lines of clean dark Traditional Chinese print, top to bottom: 「漆皮發白先看表面」「分區薄噴不噴厚」「光澤不保證跟新的一樣」, and nothing else is written anywhere; no hands, no logos.",
-          "local_image_path": "docs/assets/2026-10-11/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-01-slide-04.png"
+          "image_prompt": "A realistic smartphone photo, flat fluorescent light, everything in focus. A plain off-white card lying flat on the shop's dark charcoal-green worktable beside the folded pink-and-khaki wool shawl from Photo 1; the card carries exactly three short lines of clean dark Traditional Chinese print, top to bottom: 「暈色先評估材質與範圍」「本件店內處理紀錄」「暈色不保證完全退」, and nothing else is written anywhere; no hands, no logos. Edits applied to the delivered image: Edit Photo 1: change only the second line of text on the white card so it reads exactly 「處理後攤平再檢查」 in the same font, size, color and alignment as the other lines. Keep the first line, the third line, the card, the pink fabric, the table and the light exactly as they are.",
+          "local_image_path": "docs/assets/2026-10-12/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
       "video_path": "",
       "video_url": "",
-      "calendar_path": "content-calendar/2026-10-11.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json",
-      "article_path": "posts/2026-10-11-slot-01.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-11-slot-01.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-01",
-      "facebook_caption": "漆皮包霧掉一塊：店裡怎麼處理。\n\n漆皮包的亮面出現一塊一塊發白、邊緣不規則的霧區，先看發白的位置和範圍，再看皮況。發白的原因與能否處理，需要看實物評估。\n\n送洗前先別急著擦拭，先拍發白的位置和整體外觀，讓我們評估後再決定怎麼處理。\n\n在店裡，我們這樣做：先看表面與皮況，確認用劑；包放穩在檯面上，分區薄噴，這次示範分兩段噴、不一次噴厚；噴後再看整體光澤；內裡也一起檢查。\n\n老實說：發白與光澤能否改善、能改善多少，都要看皮況；不保證發白全消，也不保證恢復如新，細紋與壓痕可能仍在。皮件交期約 14 天，依皮況與排程確認。\n\n拍包面發白的位置和整個包的正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查",
-      "instagram_caption": "漆皮包霧掉一塊：店裡怎麼處理。\n\n漆皮包的亮面出現一塊一塊發白、邊緣不規則的霧區，先看發白的位置和範圍，再看皮況。發白的原因與能否處理，需要看實物評估。\n\n送洗前先別急著擦拭，先拍發白的位置和整體外觀，讓我們評估後再決定怎麼處理。\n\n在店裡，我們這樣做：先看表面與皮況，確認用劑；包放穩在檯面上，分區薄噴，這次示範分兩段噴、不一次噴厚；噴後再看整體光澤；內裡也一起檢查。\n\n老實說：發白與光澤能否改善、能改善多少，都要看皮況；不保證發白全消，也不保證恢復如新，細紋與壓痕可能仍在。皮件交期約 14 天，依皮況與排程確認。\n\n拍包面發白的位置和整個包的正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查"
+      "calendar_path": "content-calendar/2026-10-12.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json",
+      "article_path": "posts/2026-10-12-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-12-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-01",
+      "facebook_caption": "羊毛披巾暈色移染：店裡怎麼處理。\n\n淺色羊毛披巾出現一片暈色，先別急著當成一般髒污處理。先看材質、布邊與暈色範圍，再評估適合的處理方式。\n\n送洗前先別做：整件泡水用力搓、自己拿漂白水或去漬劑刷、用熱水燙。\n\n處理後攤平，檢查布面與暈色變化。每件狀況不同，處理方式須個別評估。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍整件披巾和暈色那一塊的近拍傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查",
+      "instagram_caption": "羊毛披巾暈色移染：店裡怎麼處理。\n\n淺色羊毛披巾出現一片暈色，先別急著當成一般髒污處理。先看材質、布邊與暈色範圍，再評估適合的處理方式。\n\n送洗前先別做：整件泡水用力搓、自己拿漂白水或去漬劑刷、用熱水燙。\n\n處理後攤平，檢查布面與暈色變化。每件狀況不同，處理方式須個別評估。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍整件披巾和暈色那一塊的近拍傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-02",
-      "date": "2026-10-11",
-      "date_published": "2026-10-11T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-02",
+      "date": "2026-10-12",
+      "date_published": "2026-10-12T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
       "category": "情境文",
-      "title": "2026-10-11 20:30 漆皮發白，先別急著擦",
-      "topic": "漆皮發白，先別急著擦",
+      "title": "2026-10-12 20:30 羊毛披巾被染到，暈出一片",
+      "topic": "羊毛披巾被染到，暈出一片",
       "visual_route": "shop-inspection",
-      "traffic_route": "object-proof",
+      "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中漆皮包清潔",
-        "漆皮包發白",
-        "漆皮包霧面",
-        "漆皮包保養",
-        "台中包包送洗",
-        "西屯洗包"
+        "台中羊毛披巾清潔",
+        "披巾暈色",
+        "衣服被染色",
+        "羊毛圍巾送洗",
+        "台中乾洗",
+        "西屯洗衣店"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#漆皮包",
-        "#皮件保養",
+        "#羊毛披巾",
+        "#衣物暈色",
         "#送洗前檢查"
       ],
       "platforms": [
@@ -127,25 +127,25 @@
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-11/slot-02.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png",
+      "image_path": "assets/2026-10-12/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png",
       "image_paths": [
-        "assets/2026-10-11/slot-02.png"
+        "assets/2026-10-12/slot-02.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_path": "assets/2026-10-11/slot-02.mp4",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.mp4",
-      "calendar_path": "content-calendar/2026-10-11.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json",
-      "article_path": "posts/2026-10-11-slot-02.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-11-slot-02.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-11.json#post-2026-10-11-slot-02",
-      "facebook_caption": "漆皮發白，先別急著擦。\n\n這次示範的這只漆皮包，片中呈現：先看表面，再評估處理。側邊也有，一起看清楚。包放穩，再分區薄噴。換一區，不一次噴厚。噴後看表面，再看整體。內裡也要一起檢查。深淺光澤，不保證全一樣。\n\n老實說：發白與光澤能改善多少要看皮況，不保證發白全消，細紋與壓痕可能仍在。包款交期約 14 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查",
-      "instagram_caption": "漆皮發白，先別急著擦。\n\n這次示範的這只漆皮包，片中呈現：先看表面，再評估處理。側邊也有，一起看清楚。包放穩，再分區薄噴。換一區，不一次噴厚。噴後看表面，再看整體。內裡也要一起檢查。深淺光澤，不保證全一樣。\n\n老實說：發白與光澤能改善多少要看皮況，不保證發白全消，細紋與壓痕可能仍在。包款交期約 14 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #漆皮包 #皮件保養 #送洗前檢查"
+      "video_path": "assets/2026-10-12/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-12.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json",
+      "article_path": "posts/2026-10-12-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-12-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-02",
+      "facebook_caption": "羊毛披巾被染到，暈出一片。\n\n這次示範的這條羊毛披巾，片中呈現：先看布邊和暈色範圍。暈色的地方，重點處理。這一小塊，短距離來回刷。放進店裡的乾洗設備。關門後，進行設備處理。取出來，再看看布面。攤平檢查暈色變化。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查",
+      "instagram_caption": "羊毛披巾被染到，暈出一片。\n\n這次示範的這條羊毛披巾，片中呈現：先看布邊和暈色範圍。暈色的地方，重點處理。這一小塊，短距離來回刷。放進店裡的乾洗設備。關門後，進行設備處理。取出來，再看看布面。攤平檢查暈色變化。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查"
     }
   ]
 }
