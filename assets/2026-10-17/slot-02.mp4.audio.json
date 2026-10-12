@@ -1,0 +1,10 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "see FILM-NOTES-V17J.md",
+  "narration_lines": "Eight lines, verbatim from narration-1017-C-v16.json; captions are key points in subs-1017-C-v17.ass",
+  "foley": "See FILM-NOTES-V17J.md; loudness to be measured from media during pack verification.",
+  "assembled_by": "p1017c cut-v17j"
+}
