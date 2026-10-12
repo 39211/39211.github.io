@@ -1,0 +1,90 @@
+{
+  "topic": "皮裙掉色：噴槍補色前先看皮面",
+  "date": "2026-10-16",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第1–3張裙身有深棕兩側與中央淺色帶，第4張裙身呈均勻黃褐色，宣告色系由 TWO_TONE 變為 TAN，依指定規則判定 FAIL。",
+    "SCENE": "第1張背景為白色居家衣櫃，第2–4張為銀灰金屬工作區，場景宣告由 OTHER 變為 METAL_BENCH。",
+    "TOPIC_MATCH": "四張主體皆為皮質裙裝，均宣告為 OTHER／LEATHER，與主題中的皮裙相符。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-16/slot-01.png",
+      "canary": "VT9A",
+      "sha256": "e37848e1a858fdbb9ab972e23c80f44f22d99d8aa33557d3c2bd333b2916e4c4"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-16/slot-01-slide-02.png",
+      "canary": "N6VX",
+      "sha256": "af0a6f9c122c2f93d618696c35e1564705387c5bd1beefb173bde1d1b5fca97e"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-16/slot-01-slide-03.png",
+      "canary": "CTCT",
+      "sha256": "93869272b5fddaf1acd687ae2eaeb7f89fe1c1268f3d70b15cc1cdc4550d2de2"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-16/slot-01-slide-04.png",
+      "canary": "3SJ8",
+      "sha256": "53f204988c07a1f85ec9e05617667fbd7db539fa01c07d1082e95e6840e6ea3e"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-16/slot-01.png",
+    "docs/assets/2026-10-16/slot-01-slide-02.png",
+    "docs/assets/2026-10-16/slot-01-slide-03.png",
+    "docs/assets/2026-10-16/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "VT9A",
+    "IMAGE_2": "N6VX",
+    "IMAGE_3": "CTCT",
+    "IMAGE_4": "3SJ8"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "VT9A",
+    "IMAGE_2": "N6VX",
+    "IMAGE_3": "CTCT",
+    "IMAGE_4": "3SJ8"
+  },
+  "prompt_hash": "434a352b95529a5ef89c1f16f14fbe63ec8a1ebabc7a8ad17fd3dc96966c828a",
+  "run_id": "carousel-qa-1791844207787",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-12T22:30:56.194Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "434a352b95529a5ef89c1f16f14fbe63ec8a1ebabc7a8ad17fd3dc96966c828a",
+      "stdout_sha256": "6f899756300fefeb79828284328f2f10688a9af1d7739d838fe5d827fce48428",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}

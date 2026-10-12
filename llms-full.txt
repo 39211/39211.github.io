@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-11T22:31:26.878Z
+- Generated at: 2026-10-12T22:30:58.566Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -403,6 +403,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-11/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -11154,4 +11156,102 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查
+
+### 2026-10-13 11:30 風衣染黑變灰：整件染回去要看材質
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-01
+- published local time: 2026-10-13T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: value-prop-lead
+- search_intent: problem-diagnosis
+- target_queries: 台中風衣送洗 | 風衣染色 | 風衣顏色變灰 | 衣服染回原色 | 台中乾洗 | 西屯洗衣店
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-13.json
+
+Facebook caption:
+
+風衣染黑變灰：整件染回去要看材質。
+
+風衣染黑後呈現黑灰、深淺不一，先別急著自己重染。先看內標與布料，再評估適合的處理方式；能否整件染回、能接近多少，仍要看材質與實物。
+
+送洗前先別做：自己買染劑往深色染、拿漂白水或去漬劑猛刷、用熱水泡或用力搓洗。
+
+在店裡，我們這樣做：
+
+店內處理前，先看內標與布料、評估材質。片中節錄的處理包括：整件浸在盆裡用棒攪動、另外調卡其色並攪勻、換大盆按壓，以及定色。這不是連續完整流程，也不是每件風衣都適用的做法。
+
+老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。
+
+拍整件風衣正面、領口內裡與標示，以及深淺不一最明顯的位置傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查
+
+Instagram caption:
+
+風衣染黑變灰：整件染回去要看材質。
+
+風衣染黑後呈現黑灰、深淺不一，先別急著自己重染。先看內標與布料，再評估適合的處理方式；能否整件染回、能接近多少，仍要看材質與實物。
+
+送洗前先別做：自己買染劑往深色染、拿漂白水或去漬劑猛刷、用熱水泡或用力搓洗。
+
+在店裡，我們這樣做：
+
+店內處理前，先看內標與布料、評估材質。片中節錄的處理包括：整件浸在盆裡用棒攪動、另外調卡其色並攪勻、換大盆按壓，以及定色。這不是連續完整流程，也不是每件風衣都適用的做法。
+
+老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。
+
+拍整件風衣正面、領口內裡與標示，以及深淺不一最明顯的位置傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查
+
+### 2026-10-13 20:30 風衣染黑變灰，先別急著染
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-02
+- published local time: 2026-10-13T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 台中風衣送洗 | 風衣染色 | 風衣顏色變灰 | 衣服染回原色 | 台中乾洗 | 西屯洗衣店
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-13.json
+
+Facebook caption:
+
+風衣染黑偏灰，先別自己染。
+
+這次示範的這件風衣，片中呈現：先看內標，再看布料。整件浸在盆裡，用棒攪動。另碗調色，目標是卡其。用細棒慢慢攪勻。換大盆，整件按壓。接著定色。整件染回，顏色依材質。
+
+老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。
+
+拍照傳LINE，先評估。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查
+
+Instagram caption:
+
+風衣染黑偏灰，先別自己染。
+
+這次示範的這件風衣，片中呈現：先看內標，再看布料。整件浸在盆裡，用棒攪動。另碗調色，目標是卡其。用細棒慢慢攪勻。換大盆，整件按壓。接著定色。整件染回，顏色依材質。
+
+老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。
+
+拍照傳LINE，先評估。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查
 

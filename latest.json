@@ -1,31 +1,31 @@
 {
-  "generated_at": "2026-10-11T22:31:26.878Z",
+  "generated_at": "2026-10-12T22:30:58.566Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
   "base_url": "https://sixiangjialaundry.com",
   "base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "date": "2026-10-12",
+  "date": "2026-10-13",
   "posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-01",
-      "date": "2026-10-12",
-      "date_published": "2026-10-12T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-01",
+      "date": "2026-10-13",
+      "date_published": "2026-10-13T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
       "category": "知識文",
-      "title": "2026-10-12 11:30 羊毛披巾暈色移染：店裡怎麼處理",
-      "topic": "羊毛披巾暈色移染：店裡怎麼處理",
-      "visual_route": "shop-inspection",
-      "traffic_route": "trust-reset",
+      "title": "2026-10-13 11:30 風衣染黑變灰：整件染回去要看材質",
+      "topic": "風衣染黑變灰：整件染回去要看材質",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中羊毛披巾清潔",
-        "披巾暈色",
-        "衣服被染色",
-        "羊毛圍巾送洗",
+        "台中風衣送洗",
+        "風衣染色",
+        "風衣顏色變灰",
+        "衣服染回原色",
         "台中乾洗",
         "西屯洗衣店"
       ],
@@ -33,8 +33,8 @@
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#羊毛披巾",
-        "#衣物暈色",
+        "#風衣",
+        "#衣物染色",
         "#送洗前檢查"
       ],
       "platforms": [
@@ -42,75 +42,75 @@
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-12/slot-01.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png",
+      "image_path": "assets/2026-10-13/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png",
       "image_paths": [
-        "assets/2026-10-12/slot-01.png",
-        "assets/2026-10-12/slot-01-slide-02.png",
-        "assets/2026-10-12/slot-01-slide-03.png",
-        "assets/2026-10-12/slot-01-slide-04.png"
+        "assets/2026-10-13/slot-01.png",
+        "assets/2026-10-13/slot-01-slide-02.png",
+        "assets/2026-10-13/slot-01-slide-03.png",
+        "assets/2026-10-13/slot-01-slide-04.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
-          "image_prompt": "Photo 1 and Photo 2 show this exact shawl; copy its colours, fabric and black binding exactly.\nA realistic smartphone photo, flat daylight, everything in focus, no blurry background. In a customer's small Taiwanese apartment, the same pink-and-khaki reversible wool shawl from Photo 1 is draped over the back of a plain wooden chair, pink twill face outward with its black bound edge visible; an irregular grey-purple discoloured area is visible on the pink face. The large khaki printed graphic stays hidden in the folds, so no letters or logos are visible. A few everyday things in the background, tidy, no people, no hands, no hang tags, no text. Edits applied to the delivered image: Edit Photo 1: keep everything exactly as it is: the pink shawl, its stains and folds, the chair, the room and the light. Only make the black edge binding along the shawl's border about half as wide as now, the same fine flat black binding as in Photo 2, keeping its outer edge where it is. The stains stay exactly where they are and as visible as now. Edit Photo 1: keep everything exactly as it is: the pink shawl, its stains and folds, the chair, the room and the light. Only make the black edge binding along the shawl's border about one third as wide as now, a fine flat black binding like the one in Photo 2, keeping its outer edge where it is. The stains stay exactly where they are and as visible as now.",
-          "local_image_path": "docs/assets/2026-10-12/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01.png"
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 4:5 portrait photograph, an ordinary handheld smartphone photo inside a home entryway. The established double-breasted trench coat in deep slate grey-blue hangs on a simple home coat rack. Show the collar, shoulders and front clearly. No dirt, mildew, stains, tears, people, text, captions, labels, logos or watermark. Natural household light, casual phone snapshot.",
+          "local_image_path": "docs/assets/2026-10-13/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png"
         },
         {
           "slide": 2,
-          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle, fabric arrangement and hand position, but any forearm wears a plain black long sleeve, and no caption, subtitle or watermark from the footage is drawn. Photo 2 shows the same shawl and must be matched exactly. Photo 3 shows the exact shape of the tool or machine part.\nVertical 9:16 portrait composition. An ordinary close smartphone photograph of the same local fabric area shown in source frames P3 and P4. Keep the dark irregular damp-looking patch, stitched seam, twill direction and camera orientation consistent with the preceding P3 frame. Reproduce the brush silhouette from source frame P4: a golden-yellow body, short handle, rectangular back with the reference row of openings, and short dark bristles. Do not substitute a toothbrush or add metallic gold bristles. One adult hand holds the tail end of the handle; the bristles are already resting against the lower part of the dark patch. Only slight local fabric compression is visible. The hand connects naturally to a wrist and plain black long-sleeved forearm entering continuously from the lower-left edge. No detached fingers, second hand, face or torso. The patch remains visibly present. Flat overhead shop lighting, matte fabric, deep depth of field and ordinary phone noise. No foam, added liquid, readable text, recognizable trademarks, captions or watermarks.",
-          "local_image_path": "docs/assets/2026-10-12/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-02.png"
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 9:16 portrait composition. An ordinary smartphone photograph, normal phone image quality, flat shop fluorescent light, everything reasonably sharp, no bokeh. Top-down close-up into an orange plastic basin of foamy water. The exact trench coat is dark slate grey-blue, crumpled and soaked under the foam, with one dark button and part of its belt visible. A slim white plastic stick with a rounded tip enters from the left, held by a black-sleeved left hand whose forearm connects to the left frame edge. The phone is about 30 cm above the water. No readable text or logos.",
+          "local_image_path": "docs/assets/2026-10-13/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-02.png"
         },
         {
           "slide": 3,
-          "image_prompt": "Photo 1 shows the exact closed door of this machine: copy the glass, the heavy metal ring and the positions of the yellow label blocks, but the label printing stays unreadable. Photo 2 is the source frame of the shawl tumbling inside the drum. Photo 3 shows the same shawl inside the same drum and must be matched exactly.\nVertical 9:16 portrait composition. An ordinary smartphone photograph of the same commercial dry-cleaning machine, using source frame P6 and the CARD reference for the closed-door exterior. The round glass door is fully closed. Keep the heavy metal outer ring and the yellow warning-label blocks in their reference positions: the large upper label partly cropped and the smaller lower-left label visible. Their printing must not resolve into readable characters or identifiable logos. Through the glass, the same single shawl is visible inside the perforated stainless-steel drum, mostly khaki outward with a small pink fold and black binding. Capture a plausible moment during the source-described tumbling, with only modest motion softness on the cloth and inner drum. The outer door, ring and labels remain sharp and stationary. No hands or photographer reflection. Close, slightly oblique phone framing, flat shop lighting, deep depth of field and ordinary phone noise. No water level, foam, steam, readable display, captions, recognizable trademarks or watermarks.",
-          "local_image_path": "docs/assets/2026-10-12/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-03.png"
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 9:16 portrait composition. An ordinary smartphone photograph looking down into the large round metal basin shown in the owner reference, under flat shop fluorescent light with reasonably sharp detail. One crumpled wet pale-tan trench coat lies partly submerged among white foam, with a dark button visible. A black-sleeved right forearm enters continuously from the bottom edge; its hand wears a thin translucent disposable glove and rests flat on an exposed wet fabric fold beside the foam. Show the glove's wrist edge and small wrinkles clearly. No bare hand, wooden stick, additional hands or readable text.",
+          "local_image_path": "docs/assets/2026-10-13/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-03.png"
         },
         {
           "slide": 4,
-          "image_prompt": "A realistic smartphone photo, flat fluorescent light, everything in focus. A plain off-white card lying flat on the shop's dark charcoal-green worktable beside the folded pink-and-khaki wool shawl from Photo 1; the card carries exactly three short lines of clean dark Traditional Chinese print, top to bottom: 「暈色先評估材質與範圍」「本件店內處理紀錄」「暈色不保證完全退」, and nothing else is written anywhere; no hands, no logos. Edits applied to the delivered image: Edit Photo 1: change only the second line of text on the white card so it reads exactly 「處理後攤平再檢查」 in the same font, size, color and alignment as the other lines. Keep the first line, the third line, the card, the pink fabric, the table and the light exactly as they are.",
-          "local_image_path": "docs/assets/2026-10-12/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-01-slide-04.png"
+          "image_prompt": "Create a vertical 4:5 casual smartphone photograph of a clean white card with exactly these three handwritten Traditional Chinese lines, one line per row, in this exact order:\n染黑變灰先看內標\n整件染回要看材質\n不保證跟原本一樣\nReproduce every character exactly, no other text. Hang the same finished khaki trench coat from the S9 reference behind the card. Natural home entryway light, no brand marks or readable labels, no watermark.",
+          "local_image_path": "docs/assets/2026-10-13/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
       "video_path": "",
       "video_url": "",
-      "calendar_path": "content-calendar/2026-10-12.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json",
-      "article_path": "posts/2026-10-12-slot-01.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-12-slot-01.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-01",
-      "facebook_caption": "羊毛披巾暈色移染：店裡怎麼處理。\n\n淺色羊毛披巾出現一片暈色，先別急著當成一般髒污處理。先看材質、布邊與暈色範圍，再評估適合的處理方式。\n\n送洗前先別做：整件泡水用力搓、自己拿漂白水或去漬劑刷、用熱水燙。\n\n處理後攤平，檢查布面與暈色變化。每件狀況不同，處理方式須個別評估。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍整件披巾和暈色那一塊的近拍傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查",
-      "instagram_caption": "羊毛披巾暈色移染：店裡怎麼處理。\n\n淺色羊毛披巾出現一片暈色，先別急著當成一般髒污處理。先看材質、布邊與暈色範圍，再評估適合的處理方式。\n\n送洗前先別做：整件泡水用力搓、自己拿漂白水或去漬劑刷、用熱水燙。\n\n處理後攤平，檢查布面與暈色變化。每件狀況不同，處理方式須個別評估。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍整件披巾和暈色那一塊的近拍傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查"
+      "calendar_path": "content-calendar/2026-10-13.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json",
+      "article_path": "posts/2026-10-13-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-13-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-01",
+      "facebook_caption": "風衣染黑變灰：整件染回去要看材質。\n\n風衣染黑後呈現黑灰、深淺不一，先別急著自己重染。先看內標與布料，再評估適合的處理方式；能否整件染回、能接近多少，仍要看材質與實物。\n\n送洗前先別做：自己買染劑往深色染、拿漂白水或去漬劑猛刷、用熱水泡或用力搓洗。\n\n在店裡，我們這樣做：\n\n店內處理前，先看內標與布料、評估材質。片中節錄的處理包括：整件浸在盆裡用棒攪動、另外調卡其色並攪勻、換大盆按壓，以及定色。這不是連續完整流程，也不是每件風衣都適用的做法。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍整件風衣正面、領口內裡與標示，以及深淺不一最明顯的位置傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查",
+      "instagram_caption": "風衣染黑變灰：整件染回去要看材質。\n\n風衣染黑後呈現黑灰、深淺不一，先別急著自己重染。先看內標與布料，再評估適合的處理方式；能否整件染回、能接近多少，仍要看材質與實物。\n\n送洗前先別做：自己買染劑往深色染、拿漂白水或去漬劑猛刷、用熱水泡或用力搓洗。\n\n在店裡，我們這樣做：\n\n店內處理前，先看內標與布料、評估材質。片中節錄的處理包括：整件浸在盆裡用棒攪動、另外調卡其色並攪勻、換大盆按壓，以及定色。這不是連續完整流程，也不是每件風衣都適用的做法。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍整件風衣正面、領口內裡與標示，以及深淺不一最明顯的位置傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-02",
-      "date": "2026-10-12",
-      "date_published": "2026-10-12T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-02",
+      "date": "2026-10-13",
+      "date_published": "2026-10-13T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
       "category": "情境文",
-      "title": "2026-10-12 20:30 羊毛披巾被染到，暈出一片",
-      "topic": "羊毛披巾被染到，暈出一片",
+      "title": "2026-10-13 20:30 風衣染黑變灰，先別急著染",
+      "topic": "風衣染黑變灰，先別急著染",
       "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
+      "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中羊毛披巾清潔",
-        "披巾暈色",
-        "衣服被染色",
-        "羊毛圍巾送洗",
+        "台中風衣送洗",
+        "風衣染色",
+        "風衣顏色變灰",
+        "衣服染回原色",
         "台中乾洗",
         "西屯洗衣店"
       ],
@@ -118,8 +118,8 @@
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#羊毛披巾",
-        "#衣物暈色",
+        "#風衣",
+        "#衣物染色",
         "#送洗前檢查"
       ],
       "platforms": [
@@ -127,25 +127,25 @@
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-12/slot-02.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png",
+      "image_path": "assets/2026-10-13/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
       "image_paths": [
-        "assets/2026-10-12/slot-02.png"
+        "assets/2026-10-13/slot-02.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_path": "assets/2026-10-12/slot-02.mp4",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.mp4",
-      "calendar_path": "content-calendar/2026-10-12.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json",
-      "article_path": "posts/2026-10-12-slot-02.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-12-slot-02.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-12.json#post-2026-10-12-slot-02",
-      "facebook_caption": "羊毛披巾被染到，暈出一片。\n\n這次示範的這條羊毛披巾，片中呈現：先看布邊和暈色範圍。暈色的地方，重點處理。這一小塊，短距離來回刷。放進店裡的乾洗設備。關門後，進行設備處理。取出來，再看看布面。攤平檢查暈色變化。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查",
-      "instagram_caption": "羊毛披巾被染到，暈出一片。\n\n這次示範的這條羊毛披巾，片中呈現：先看布邊和暈色範圍。暈色的地方，重點處理。這一小塊，短距離來回刷。放進店裡的乾洗設備。關門後，進行設備處理。取出來，再看看布面。攤平檢查暈色變化。\n\n老實說：暈色不保證完全退，實際能改善多少，需依材質與暈色狀況評估。一般衣物交期約 5–7 天；羊毛披巾的實際交期，需依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羊毛披巾 #衣物暈色 #送洗前檢查"
+      "video_path": "assets/2026-10-13/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-13.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json",
+      "article_path": "posts/2026-10-13-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-13-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-02",
+      "facebook_caption": "風衣染黑偏灰，先別自己染。\n\n這次示範的這件風衣，片中呈現：先看內標，再看布料。整件浸在盆裡，用棒攪動。另碗調色，目標是卡其。用細棒慢慢攪勻。換大盆，整件按壓。接著定色。整件染回，顏色依材質。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查",
+      "instagram_caption": "風衣染黑偏灰，先別自己染。\n\n這次示範的這件風衣，片中呈現：先看內標，再看布料。整件浸在盆裡，用棒攪動。另碗調色，目標是卡其。用細棒慢慢攪勻。換大盆，整件按壓。接著定色。整件染回，顏色依材質。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查"
     }
   ]
 }

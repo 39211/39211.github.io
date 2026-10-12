@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-13",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-10-07T20:05:09.572Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "風衣染黑變灰：整件染回去要看材質",
+      "media_type": "carousel",
+      "instagram_caption": "風衣染黑變灰：整件染回去要看材質。\n\n風衣染黑後呈現黑灰、深淺不一，先別急著自己重染。先看內標與布料，再評估適合的處理方式；能否整件染回、能接近多少，仍要看材質與實物。\n\n送洗前先別做：自己買染劑往深色染、拿漂白水或去漬劑猛刷、用熱水泡或用力搓洗。\n\n在店裡，我們這樣做：\n\n店內處理前，先看內標與布料、評估材質。片中節錄的處理包括：整件浸在盆裡用棒攪動、另外調卡其色並攪勻、換大盆按壓，以及定色。這不是連續完整流程，也不是每件風衣都適用的做法。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍整件風衣正面、領口內裡與標示，以及深淺不一最明顯的位置傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查",
+      "facebook_caption": "風衣染黑變灰：整件染回去要看材質。\n\n風衣染黑後呈現黑灰、深淺不一，先別急著自己重染。先看內標與布料，再評估適合的處理方式；能否整件染回、能接近多少，仍要看材質與實物。\n\n送洗前先別做：自己買染劑往深色染、拿漂白水或去漬劑猛刷、用熱水泡或用力搓洗。\n\n在店裡，我們這樣做：\n\n店內處理前，先看內標與布料、評估材質。片中節錄的處理包括：整件浸在盆裡用棒攪動、另外調卡其色並攪勻、換大盆按壓，以及定色。這不是連續完整流程，也不是每件風衣都適用的做法。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍整件風衣正面、領口內裡與標示，以及深淺不一最明顯的位置傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查",
+      "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 4:5 portrait photograph, an ordinary handheld smartphone photo inside a home entryway. The established double-breasted trench coat in deep slate grey-blue hangs on a simple home coat rack. Show the collar, shoulders and front clearly. No dirt, mildew, stains, tears, people, text, captions, labels, logos or watermark. Natural household light, casual phone snapshot.",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-10-13/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png",
+      "status": "pending",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 4:5 portrait photograph, an ordinary handheld smartphone photo inside a home entryway. The established double-breasted trench coat in deep slate grey-blue hangs on a simple home coat rack. Show the collar, shoulders and front clearly. No dirt, mildew, stains, tears, people, text, captions, labels, logos or watermark. Natural household light, casual phone snapshot.",
+          "local_image_path": "docs/assets/2026-10-13/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 9:16 portrait composition. An ordinary smartphone photograph, normal phone image quality, flat shop fluorescent light, everything reasonably sharp, no bokeh. Top-down close-up into an orange plastic basin of foamy water. The exact trench coat is dark slate grey-blue, crumpled and soaked under the foam, with one dark button and part of its belt visible. A slim white plastic stick with a rounded tip enters from the left, held by a black-sleeved left hand whose forearm connects to the left frame edge. The phone is about 30 cm above the water. No readable text or logos.",
+          "local_image_path": "docs/assets/2026-10-13/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 9:16 portrait composition. An ordinary smartphone photograph looking down into the large round metal basin shown in the owner reference, under flat shop fluorescent light with reasonably sharp detail. One crumpled wet pale-tan trench coat lies partly submerged among white foam, with a dark button visible. A black-sleeved right forearm enters continuously from the bottom edge; its hand wears a thin translucent disposable glove and rests flat on an exposed wet fabric fold beside the foam. Show the glove's wrist edge and small wrinkles clearly. No bare hand, wooden stick, additional hands or readable text.",
+          "local_image_path": "docs/assets/2026-10-13/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Create a vertical 4:5 casual smartphone photograph of a clean white card with exactly these three handwritten Traditional Chinese lines, one line per row, in this exact order:\n染黑變灰先看內標\n整件染回要看材質\n不保證跟原本一樣\nReproduce every character exactly, no other text. Hang the same finished khaki trench coat from the S9 reference behind the card. Natural home entryway light, no brand marks or readable labels, no watermark.",
+          "local_image_path": "docs/assets/2026-10-13/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-04.png"
+        }
+      ],
+      "seo_sync_page": "/guides/dry-cleaning-guide.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中風衣送洗",
+        "風衣染色",
+        "風衣顏色變灰",
+        "衣服染回原色",
+        "台中乾洗",
+        "西屯洗衣店"
+      ],
+      "follow_cta": "想每週看懂衣物、寢具、鞋包的清潔判斷，可以先追蹤私享家。"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "風衣染黑變灰，先別急著染",
+      "media_type": "reel",
+      "instagram_caption": "風衣染黑偏灰，先別自己染。\n\n這次示範的這件風衣，片中呈現：先看內標，再看布料。整件浸在盆裡，用棒攪動。另碗調色，目標是卡其。用細棒慢慢攪勻。換大盆，整件按壓。接著定色。整件染回，顏色依材質。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查",
+      "facebook_caption": "風衣染黑偏灰，先別自己染。\n\n這次示範的這件風衣，片中呈現：先看內標，再看布料。整件浸在盆裡，用棒攪動。另碗調色，目標是卡其。用細棒慢慢攪勻。換大盆，整件按壓。接著定色。整件染回，顏色依材質。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查",
+      "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nVertical 9:16 portrait composition. An ordinary smartphone photograph under flat shop fluorescent light, with reasonably sharp surroundings and no bokeh. Show the upper half of the double-breasted trench coat on a white plastic hanger in front of white shelving and a grey steel door. Match the owner reference's dull slate-grey-blue woven fabric, collar, lapels, epaulettes, visible buttons, buttonholes and natural folds without specifying its fibre composition. Keep readable labels and logos outside the crop. No hands or added stains. No studio lighting.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-10-13/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
+      "status": "pending",
+      "format": "reel",
+      "narration_source": "burned",
+      "narration_first_sentence": "風衣染黑偏灰，先別自己染。",
+      "video_prompt": "reel-v3 fluid cut, closed-loop 1013-trench v1 (2026-10-08, owner approved 2026-10-08 11:21 (owner menu answer: 可以用 可以上, phone version 83fe416e; GPT Pro film review 10/8: 可以上線, no must-fix)): a trench coat dyed black that faded to grey, re-dyed toward khaki, the same coat as the 10/13 morning carousel; 9 shots of 3 s (GPT stills as first frames, camera locked unless noted): S1-kb slow push on the hanging grey coat (no generation), S2-a a black-sleeved hand turning the front edge to show the inner label, S3-d the whole coat soaking in an orange basin stirred with a white rod, S4-b dark dye poured into a separate red bowl, S5-a a thin yellow rod stirring the bowl, S6-c a gloved hand pressing the now khaki coat in a large steel basin, S7-a the coat behind the drum door glass for colour fixing, S8-kb slow push on the khaki coat (no generation), S9-b the khaki coat hanging still; S2-S7 and S9 are Grok Imagine image-to-video takes via hermes xAI OAuth (no audio stream used); edit table c1013t/cut-v1/edit-1013-v1.json (scripts/reel-v3/build_fluid_cut.py); narration 9 lines edge-tts zh-TW-YunJheNeural rate +10% (narration-lines-tw-v1.json) burned as subs-1013-v1.ass with synthetic foley; film 1013-trench-v1.mp4 sha256 d0a3e73c8d8156bd, publish encode from the burned film sha256 42b6a7ae0bd1f5ad.",
+      "seo_sync_page": "/guides/dry-cleaning-guide.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中風衣送洗",
+        "風衣染色",
+        "風衣顏色變灰",
+        "衣服染回原色",
+        "台中乾洗",
+        "西屯洗衣店"
+      ],
+      "local_video_path": "docs/assets/2026-10-13/slot-02.mp4",
+      "public_video_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.mp4"
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "322502a1a3347bef"
+}
