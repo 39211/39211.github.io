@@ -9193,6 +9193,94 @@
         "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
+    },
+    {
+      "id": "doll-shoe-cleaning-page-summary",
+      "type": "guide_summary",
+      "question": "娃娃鞋是童鞋嗎？",
+      "answer": "娃娃鞋是圓頭繫帶的鞋款，跟絨毛娃娃無關。先看細帶、摺位和鞋口。不是童鞋的魔鬼氈和印花。跟片磨斜屬修繕，不包含在清潔內。能不能改善，看過才知道。價目表沒有單獨這一項；看過實品再報價。",
+      "source_url": "https://sixiangjialaundry.com/guides/doll-shoe-cleaning.html",
+      "local_intent": "娃娃鞋怎麼清",
+      "keywords": [
+        "娃娃鞋",
+        "圓頭繫帶",
+        "絨毛娃娃"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "hat-cleaning-page-summary",
+      "type": "guide_summary",
+      "question": "帽子可以整頂丟進洗衣機嗎？",
+      "answer": "帽子要先分布帽、毛帽、皮帽和草帽。帽簷內的汗黃和帽冠的灰分開拍。毛帽不要泡熱水。皮帽不要整頂泡，先在不明顯的小角落試。能不能改善，看過才知道。價目表有『帽子、皮帽子、精品帽子』可以參考；實際金額依材質與狀況，看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/hat-cleaning.html",
+      "local_intent": "帽子怎麼洗",
+      "keywords": [
+        "帽子清洗",
+        "毛帽",
+        "皮帽"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "leather-glove-care-page-summary",
+      "type": "guide_summary",
+      "question": "皮手套可以水洗嗎？",
+      "answer": "皮手套要先看指縫、掌心和內裡。不要整雙泡，不要烘。指尖磨穿屬修繕，不包含在清潔內。特殊皮先在不明顯的小角落試。能不能改善，看過才知道。價目表有『精品手套』可以參考；實際金額依材質與狀況，看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-glove-care.html",
+      "local_intent": "皮手套怎麼清",
+      "keywords": [
+        "皮手套",
+        "精品手套",
+        "指縫"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "leather-belt-care-page-summary",
+      "type": "guide_summary",
+      "question": "皮帶可以泡水嗎？",
+      "answer": "皮帶要先看帶身、孔位和扣頭。邊油裂開不是髒，清潔不會把邊油補新。扣頭不要自己磨。改長短、打新孔屬修繕，不包含在清潔內。價目表有『皮帶』可以參考；實際金額依材質與狀況，看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-belt-care.html",
+      "local_intent": "皮帶怎麼清",
+      "keywords": [
+        "皮帶",
+        "皮帶扣頭",
+        "邊油"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
     }
   ]
 }
