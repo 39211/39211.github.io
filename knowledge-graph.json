@@ -313,6 +313,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -506,7 +508,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-13"
+      "dateModified": "2026-10-14"
     },
     {
       "@type": "FAQPage",
@@ -567,7 +569,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-13",
+      "dateModified": "2026-10-14",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -14002,6 +14004,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
       "caption": "風衣染黑變灰，先別急著染",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-01",
+      "headline": "2026-10-14 11:30 玄關那袋衣服，不用再等有空",
+      "text": "那袋衣服，在玄關放快一個禮拜了。\n\n不是不想洗，是一直抽不出時間特地跑一趟。\n\n在 LINE 點「到府收送」，約個時段，等門市回覆確認。師傅到了，會先打給你。\n\n你遞過來的那袋衣服，師傅雙手接穩。\n\n洗好後先傳照片，再約時間送回；衣服包好裝袋，當面交到你手上。\n玄關空了，今天要穿的衣服也回來了。\n\n來回收送免費，無低消，一件也收；洗護費另計，依物件確認。\n\n洗護參考：\n襯衫・長褲・棉 T 水洗參考價 70 元／件。\n一般衣物約 5–7 天，實際以報價為主。\n\n到府收送預約 → LINE：\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約",
+      "datePublished": "2026-10-14T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#洗衣預約"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png",
+      "caption": "玄關那袋衣服，不用再等有空",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-02",
+      "headline": "2026-10-14 20:30 洗衣，最煩跑一趟：看三步怎麼收、怎麼送。",
+      "text": "玄關那袋要洗的衣服，放快一個禮拜了。\n\n在 LINE 約時段，等門市確認。師傅到的時候，會打給你。\n\n來回收送免費，一件也收，洗護費另外算。\n\n襯衫水洗參考價每件七十，實際以報價為主。\n\n一般衣物大概五到七天。\n\n洗好先傳照片，再約時間送回，當面交給你。\n\n玄關空了，今天出門，就穿這件。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約",
+      "datePublished": "2026-10-14T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#洗衣預約"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
+      "caption": "洗衣，最煩跑一趟：看三步怎麼收、怎麼送。",
       "inLanguage": "zh-Hant"
     }
   ]

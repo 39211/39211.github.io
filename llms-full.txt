@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-12T22:30:58.566Z
+- Generated at: 2026-10-13T22:31:47.768Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -405,6 +405,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-12/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -11254,4 +11256,124 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查
+
+### 2026-10-14 11:30 玄關那袋衣服，不用再等有空
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-01
+- published local time: 2026-10-14T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 洗衣收送怎麼約 | 洗衣到府收件流程 | LINE 到府收送預約 | 洗衣收送無低消 | 洗衣收件送回 | 私享家洗衣收送
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約
+- image: https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-14.json
+
+Facebook caption:
+
+那袋衣服，在玄關放快一個禮拜了。
+
+不是不想洗，是一直抽不出時間特地跑一趟。
+
+在 LINE 點「到府收送」，約個時段，等門市回覆確認。師傅到了，會先打給你。
+
+你遞過來的那袋衣服，師傅雙手接穩。
+
+洗好後先傳照片，再約時間送回；衣服包好裝袋，當面交到你手上。
+玄關空了，今天要穿的衣服也回來了。
+
+來回收送免費，無低消，一件也收；洗護費另計，依物件確認。
+
+洗護參考：
+襯衫・長褲・棉 T 水洗參考價 70 元／件。
+一般衣物約 5–7 天，實際以報價為主。
+
+到府收送預約 → LINE：
+https://sixiangjialaundry.com/go/line.html?source=post
+或加 LINE：0968327653
+
+#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約
+
+Instagram caption:
+
+那袋衣服，在玄關放快一個禮拜了。
+
+不是不想洗，是一直抽不出時間特地跑一趟。
+
+在 LINE 點「到府收送」，約個時段，等門市回覆確認。師傅到了，會先打給你。
+
+你遞過來的那袋衣服，師傅雙手接穩。
+
+洗好後先傳照片，再約時間送回；衣服包好裝袋，當面交到你手上。
+玄關空了，今天要穿的衣服也回來了。
+
+來回收送免費，無低消，一件也收；洗護費另計，依物件確認。
+
+洗護參考：
+襯衫・長褲・棉 T 水洗參考價 70 元／件。
+一般衣物約 5–7 天，實際以報價為主。
+
+到府收送預約 → LINE：
+https://sixiangjialaundry.com/go/line.html?source=post
+或加 LINE：0968327653
+
+#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約
+
+### 2026-10-14 20:30 洗衣，最煩跑一趟：看三步怎麼收、怎麼送。
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-02
+- published local time: 2026-10-14T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: value-prop-lead
+- search_intent: problem-diagnosis
+- target_queries: 洗衣收送怎麼約 | 洗衣到府收件流程 | LINE 到府收送預約 | 洗衣收送無低消 | 洗衣收件送回 | 私享家洗衣收送
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約
+- image: https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-14.json
+
+Facebook caption:
+
+玄關那袋要洗的衣服，放快一個禮拜了。
+
+在 LINE 約時段，等門市確認。師傅到的時候，會打給你。
+
+來回收送免費，一件也收，洗護費另外算。
+
+襯衫水洗參考價每件七十，實際以報價為主。
+
+一般衣物大概五到七天。
+
+洗好先傳照片，再約時間送回，當面交給你。
+
+玄關空了，今天出門，就穿這件。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約
+
+Instagram caption:
+
+玄關那袋要洗的衣服，放快一個禮拜了。
+
+在 LINE 約時段，等門市確認。師傅到的時候，會打給你。
+
+來回收送免費，一件也收，洗護費另外算。
+
+襯衫水洗參考價每件七十，實際以報價為主。
+
+一般衣物大概五到七天。
+
+洗好先傳照片，再約時間送回，當面交給你。
+
+玄關空了，今天出門，就穿這件。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約
 

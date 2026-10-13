@@ -1,0 +1,90 @@
+{
+  "topic": "只有一雙鞋？也能約免費收送",
+  "date": "2026-10-17",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "FAIL"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "圖1、3、4可見白色皮面運動鞋，圖2只見人物的黑色圍裙與衣褲、未見鞋，因此宣告包含不同物件類型、深淺色家族及 WOVEN／LEATHER 材質差異。",
+    "SCENE": "圖1為室內、圖2與3為走廊、圖4為河畔步道，依指定封閉分類均屬 OTHER，因此場景 token 比較為 PASS，但不能據此認定實際場景相同。",
+    "TOPIC_MATCH": "題目物件為鞋，圖2未呈現鞋而宣告為 OTHER，使類型集合包含 SNEAKER 與 OTHER，未全部符合 footwear。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-17/slot-01.png",
+      "canary": "AW9B",
+      "sha256": "0e1dcb426d892bad32e9e0f0753a6efe7a8e0fbf3dc0a195fc4dc373a7d4d5a7"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-17/slot-01-slide-02.png",
+      "canary": "NDLZ",
+      "sha256": "b515d9b57e07f0a3408c16c9adc2490aa6600fd889c90760b370095f4b8bea7c"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-17/slot-01-slide-03.png",
+      "canary": "RDPD",
+      "sha256": "58e54be57de0810eb0c297c1c7cccc7b1985ca682f5d53eac02720f7b648e26f"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-17/slot-01-slide-04.png",
+      "canary": "LS4M",
+      "sha256": "f4d0cad650d76a8b5d18001cf34c6f5f751c936b1b3e22a3c9eca872c64663db"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-17/slot-01.png",
+    "docs/assets/2026-10-17/slot-01-slide-02.png",
+    "docs/assets/2026-10-17/slot-01-slide-03.png",
+    "docs/assets/2026-10-17/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "AW9B",
+    "IMAGE_2": "NDLZ",
+    "IMAGE_3": "RDPD",
+    "IMAGE_4": "LS4M"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "AW9B",
+    "IMAGE_2": "NDLZ",
+    "IMAGE_3": "RDPD",
+    "IMAGE_4": "LS4M"
+  },
+  "prompt_hash": "4222b0ff9e10a82f6bce4751d96c7e64eb01292c9e17918103dd5e21c9a5725b",
+  "run_id": "carousel-qa-1791930608662",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-13T22:31:45.505Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "4222b0ff9e10a82f6bce4751d96c7e64eb01292c9e17918103dd5e21c9a5725b",
+      "stdout_sha256": "abb55e804f617660a32c67580f6f0e5712cd6c55bd8560894a88586570349acf",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}

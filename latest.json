@@ -1,151 +1,151 @@
 {
-  "generated_at": "2026-10-12T22:30:58.566Z",
+  "generated_at": "2026-10-13T22:31:47.768Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
   "base_url": "https://sixiangjialaundry.com",
   "base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "date": "2026-10-13",
+  "date": "2026-10-14",
   "posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-01",
-      "date": "2026-10-13",
-      "date_published": "2026-10-13T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-01",
+      "date": "2026-10-14",
+      "date_published": "2026-10-14T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
       "category": "知識文",
-      "title": "2026-10-13 11:30 風衣染黑變灰：整件染回去要看材質",
-      "topic": "風衣染黑變灰：整件染回去要看材質",
-      "visual_route": "customer-consultation",
-      "traffic_route": "value-prop-lead",
+      "title": "2026-10-14 11:30 玄關那袋衣服，不用再等有空",
+      "topic": "玄關那袋衣服，不用再等有空",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中風衣送洗",
-        "風衣染色",
-        "風衣顏色變灰",
-        "衣服染回原色",
-        "台中乾洗",
-        "西屯洗衣店"
+        "洗衣收送怎麼約",
+        "洗衣到府收件流程",
+        "LINE 到府收送預約",
+        "洗衣收送無低消",
+        "洗衣收件送回",
+        "私享家洗衣收送"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#風衣",
-        "#衣物染色",
-        "#送洗前檢查"
+        "#洗衣收送",
+        "#到府收件",
+        "#洗衣預約"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-13/slot-01.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png",
+      "image_path": "assets/2026-10-14/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png",
       "image_paths": [
-        "assets/2026-10-13/slot-01.png",
-        "assets/2026-10-13/slot-01-slide-02.png",
-        "assets/2026-10-13/slot-01-slide-03.png",
-        "assets/2026-10-13/slot-01-slide-04.png"
+        "assets/2026-10-14/slot-01.png",
+        "assets/2026-10-14/slot-01-slide-02.png",
+        "assets/2026-10-14/slot-01-slide-03.png",
+        "assets/2026-10-14/slot-01-slide-04.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-14/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-14/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-14/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
-          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 4:5 portrait photograph, an ordinary handheld smartphone photo inside a home entryway. The established double-breasted trench coat in deep slate grey-blue hangs on a simple home coat rack. Show the collar, shoulders and front clearly. No dirt, mildew, stains, tears, people, text, captions, labels, logos or watermark. Natural household light, casual phone snapshot.",
-          "local_image_path": "docs/assets/2026-10-13/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01.png"
+          "image_prompt": "Slide 1 is a frame at 2.7 s of a Grok Imagine image-to-video clip (gen-c/clips/A-H1-2.mp4, sha256 7b4f83d660a6f18a, via hermes xAI OAuth) whose first frame is the generated photo described below (best-s/A-H1.png, sha256 2c1d40504bdf9895); the frame is upscaled to 1080 wide and cropped to 1080x1350; the text (title 那袋衣服，放快一個禮拜了。 and line 不用特地跑一趟) is program-drawn in GenSenRounded2 TW, not generated. Motion prompt of the clip: The gray-sleeved hand sets the keys onto the cabinet in one ordinary movement, then clears the frame through the same left edge. The sack and its exposed blue cuff remain exactly where they started. Camera not moving. End at four seconds, frame 95, with the keys resting on the cabinet and the passage still occupied by the sack. Sound: a small metal key clink and quiet indoor room tone. Prompt of the first frame: A casual vertical 9:16 smartphone photograph inside a modest home entryway, with soft, even warm-white evening light. A low pale wooden shoe cabinet stands on the left, an empty wall hook above it, and a closed plain white entrance door in the deeper right. Use bag-ref.jpg for the beige sack’s fabric, seams, wrinkles and proportions. The sack stands in the passage between the cabinet and the door, projecting slightly into the walking space. Its neck is loosely gathered, with a small visible opening beside the tied bow; a recognizable pale-blue shirt cuff with its button hangs through that opening. A light-gray cotton sleeve and one hand enter continuously from the left edge, holding a plain metal key ring just above the cabinet. Keep the keys, cuff, sack and wall hook within the central 4:5 crop. Plain household surfaces and natural fabric texture fill the image.",
+          "local_image_path": "docs/assets/2026-10-14/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png"
         },
         {
           "slide": 2,
-          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 9:16 portrait composition. An ordinary smartphone photograph, normal phone image quality, flat shop fluorescent light, everything reasonably sharp, no bokeh. Top-down close-up into an orange plastic basin of foamy water. The exact trench coat is dark slate grey-blue, crumpled and soaked under the foam, with one dark button and part of its belt visible. A slim white plastic stick with a rounded tip enters from the left, held by a black-sleeved left hand whose forearm connects to the left frame edge. The phone is about 30 cm above the water. No readable text or logos.",
-          "local_image_path": "docs/assets/2026-10-13/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-02.png"
+          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01-slide-02.png; source=cut-v15n/master-1014-A-v13.mp4; source_sha256=eb8110f962173a13cb19fdea7c9e41004aa60cecf44c557c2ef770f1f8e90a30; frame_seconds=10.333333333333334; overlay_text=你遞過來，\n我們接穩。",
+          "local_image_path": "docs/assets/2026-10-14/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-01-slide-02.png"
         },
         {
           "slide": 3,
-          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text or brand mark from the footage is drawn. Photo 2 is the established coat from the first shot and must be matched exactly.\nVertical 9:16 portrait composition. An ordinary smartphone photograph looking down into the large round metal basin shown in the owner reference, under flat shop fluorescent light with reasonably sharp detail. One crumpled wet pale-tan trench coat lies partly submerged among white foam, with a dark button visible. A black-sleeved right forearm enters continuously from the bottom edge; its hand wears a thin translucent disposable glove and rests flat on an exposed wet fabric fold beside the foam. Show the glove's wrist edge and small wrinkles clearly. No bare hand, wooden stick, additional hands or readable text.",
-          "local_image_path": "docs/assets/2026-10-13/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-03.png"
+          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01-slide-03.png; source=cut-v16n/master-1014-A-v14.mp4; source_sha256=9b40a4f1f8e9286ff45a3303340dc783c74e1d5fe0d90ad6a594d36f8b422880; frame_seconds=23.8; overlay_text=洗好，\n當面交回你手上\n洗好先傳照片，再約時間送回\n包好裝袋，再交到你手上",
+          "local_image_path": "docs/assets/2026-10-14/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-01-slide-03.png"
         },
         {
           "slide": 4,
-          "image_prompt": "Create a vertical 4:5 casual smartphone photograph of a clean white card with exactly these three handwritten Traditional Chinese lines, one line per row, in this exact order:\n染黑變灰先看內標\n整件染回要看材質\n不保證跟原本一樣\nReproduce every character exactly, no other text. Hang the same finished khaki trench coat from the S9 reference behind the card. Natural home entryway light, no brand marks or readable labels, no watermark.",
-          "local_image_path": "docs/assets/2026-10-13/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-01-slide-04.png"
+          "image_prompt": "Slide 4 is the generated photo described below (best-s/A-H2.png, sha256 a39baa6e56abd07e), upscaled to 1080 wide and cropped to 1080x1350; the text (title 玄關空了，衣服回來了。) is program-drawn in GenSenRounded2 TW, not generated. Prompt: Edit the approved A-H1-still, preserving the exact cabinet, door, wall hook, camera position and room geometry. Change the illumination to soft, evenly filled morning daylight. The passage where the sack stood is now clear, while the keys remain in their original position on the cabinet. A plain hanger on the existing hook carries the same clean pale-blue shirt established in A-P2-still, with its matching collar, cuffs and buttons. The shirt hangs naturally, ready to be taken for the day. The complete shirt, hook and cleared floor area fit inside the central 4:5 crop. The image is an ordinary unposed smartphone view with plain household surfaces and stable natural texture.",
+          "local_image_path": "docs/assets/2026-10-14/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
       "video_path": "",
       "video_url": "",
-      "calendar_path": "content-calendar/2026-10-13.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json",
-      "article_path": "posts/2026-10-13-slot-01.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-13-slot-01.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-01",
-      "facebook_caption": "風衣染黑變灰：整件染回去要看材質。\n\n風衣染黑後呈現黑灰、深淺不一，先別急著自己重染。先看內標與布料，再評估適合的處理方式；能否整件染回、能接近多少，仍要看材質與實物。\n\n送洗前先別做：自己買染劑往深色染、拿漂白水或去漬劑猛刷、用熱水泡或用力搓洗。\n\n在店裡，我們這樣做：\n\n店內處理前，先看內標與布料、評估材質。片中節錄的處理包括：整件浸在盆裡用棒攪動、另外調卡其色並攪勻、換大盆按壓，以及定色。這不是連續完整流程，也不是每件風衣都適用的做法。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍整件風衣正面、領口內裡與標示，以及深淺不一最明顯的位置傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查",
-      "instagram_caption": "風衣染黑變灰：整件染回去要看材質。\n\n風衣染黑後呈現黑灰、深淺不一，先別急著自己重染。先看內標與布料，再評估適合的處理方式；能否整件染回、能接近多少，仍要看材質與實物。\n\n送洗前先別做：自己買染劑往深色染、拿漂白水或去漬劑猛刷、用熱水泡或用力搓洗。\n\n在店裡，我們這樣做：\n\n店內處理前，先看內標與布料、評估材質。片中節錄的處理包括：整件浸在盆裡用棒攪動、另外調卡其色並攪勻、換大盆按壓，以及定色。這不是連續完整流程，也不是每件風衣都適用的做法。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍整件風衣正面、領口內裡與標示，以及深淺不一最明顯的位置傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查"
+      "calendar_path": "content-calendar/2026-10-14.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json",
+      "article_path": "posts/2026-10-14-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-14-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-01",
+      "facebook_caption": "那袋衣服，在玄關放快一個禮拜了。\n\n不是不想洗，是一直抽不出時間特地跑一趟。\n\n在 LINE 點「到府收送」，約個時段，等門市回覆確認。師傅到了，會先打給你。\n\n你遞過來的那袋衣服，師傅雙手接穩。\n\n洗好後先傳照片，再約時間送回；衣服包好裝袋，當面交到你手上。\n玄關空了，今天要穿的衣服也回來了。\n\n來回收送免費，無低消，一件也收；洗護費另計，依物件確認。\n\n洗護參考：\n襯衫・長褲・棉 T 水洗參考價 70 元／件。\n一般衣物約 5–7 天，實際以報價為主。\n\n到府收送預約 → LINE：\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約",
+      "instagram_caption": "那袋衣服，在玄關放快一個禮拜了。\n\n不是不想洗，是一直抽不出時間特地跑一趟。\n\n在 LINE 點「到府收送」，約個時段，等門市回覆確認。師傅到了，會先打給你。\n\n你遞過來的那袋衣服，師傅雙手接穩。\n\n洗好後先傳照片，再約時間送回；衣服包好裝袋，當面交到你手上。\n玄關空了，今天要穿的衣服也回來了。\n\n來回收送免費，無低消，一件也收；洗護費另計，依物件確認。\n\n洗護參考：\n襯衫・長褲・棉 T 水洗參考價 70 元／件。\n一般衣物約 5–7 天，實際以報價為主。\n\n到府收送預約 → LINE：\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-02",
-      "date": "2026-10-13",
-      "date_published": "2026-10-13T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-02",
+      "date": "2026-10-14",
+      "date_published": "2026-10-14T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
       "category": "情境文",
-      "title": "2026-10-13 20:30 風衣染黑變灰，先別急著染",
-      "topic": "風衣染黑變灰，先別急著染",
+      "title": "2026-10-14 20:30 洗衣，最煩跑一趟：看三步怎麼收、怎麼送。",
+      "topic": "洗衣，最煩跑一趟：看三步怎麼收、怎麼送。",
       "visual_route": "shop-inspection",
-      "traffic_route": "object-proof",
+      "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "台中風衣送洗",
-        "風衣染色",
-        "風衣顏色變灰",
-        "衣服染回原色",
-        "台中乾洗",
-        "西屯洗衣店"
+        "洗衣收送怎麼約",
+        "洗衣到府收件流程",
+        "LINE 到府收送預約",
+        "洗衣收送無低消",
+        "洗衣收件送回",
+        "私享家洗衣收送"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#風衣",
-        "#衣物染色",
-        "#送洗前檢查"
+        "#洗衣收送",
+        "#到府收件",
+        "#洗衣預約"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-13/slot-02.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
+      "image_path": "assets/2026-10-14/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
       "image_paths": [
-        "assets/2026-10-13/slot-02.png"
+        "assets/2026-10-14/slot-02.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_path": "assets/2026-10-13/slot-02.mp4",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.mp4",
-      "calendar_path": "content-calendar/2026-10-13.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json",
-      "article_path": "posts/2026-10-13-slot-02.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-13-slot-02.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-13.json#post-2026-10-13-slot-02",
-      "facebook_caption": "風衣染黑偏灰，先別自己染。\n\n這次示範的這件風衣，片中呈現：先看內標，再看布料。整件浸在盆裡，用棒攪動。另碗調色，目標是卡其。用細棒慢慢攪勻。換大盆，整件按壓。接著定色。整件染回，顏色依材質。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查",
-      "instagram_caption": "風衣染黑偏灰，先別自己染。\n\n這次示範的這件風衣，片中呈現：先看內標，再看布料。整件浸在盆裡，用棒攪動。另碗調色，目標是卡其。用細棒慢慢攪勻。換大盆，整件按壓。接著定色。整件染回，顏色依材質。\n\n老實說：是否適合整件染回，以及處理後的顏色與均勻度，都要依材質與實物評估，不保證與原色一致。交期依材質、處理需求與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #風衣 #衣物染色 #送洗前檢查"
+      "video_path": "assets/2026-10-14/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-14.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json",
+      "article_path": "posts/2026-10-14-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-14-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-14.json#post-2026-10-14-slot-02",
+      "facebook_caption": "玄關那袋要洗的衣服，放快一個禮拜了。\n\n在 LINE 約時段，等門市確認。師傅到的時候，會打給你。\n\n來回收送免費，一件也收，洗護費另外算。\n\n襯衫水洗參考價每件七十，實際以報價為主。\n\n一般衣物大概五到七天。\n\n洗好先傳照片，再約時間送回，當面交給你。\n\n玄關空了，今天出門，就穿這件。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約",
+      "instagram_caption": "玄關那袋要洗的衣服，放快一個禮拜了。\n\n在 LINE 約時段，等門市確認。師傅到的時候，會打給你。\n\n來回收送免費，一件也收，洗護費另外算。\n\n襯衫水洗參考價每件七十，實際以報價為主。\n\n一般衣物大概五到七天。\n\n洗好先傳照片，再約時間送回，當面交給你。\n\n玄關空了，今天出門，就穿這件。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約"
     }
   ]
 }
