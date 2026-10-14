@@ -315,6 +315,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -508,7 +510,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-14"
+      "dateModified": "2026-10-15"
     },
     {
       "@type": "FAQPage",
@@ -569,7 +571,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-14",
+      "dateModified": "2026-10-15",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -14070,6 +14072,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
       "caption": "洗衣，最煩跑一趟：看三步怎麼收、怎麼送。",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-01",
+      "headline": "2026-10-15 11:30 這一大袋，怎麼送去洗？",
+      "text": "這一大袋，怎麼送去洗？\n\n棉被毛毯想洗，一想到還得自己提去門市，就又往後拖了。\n\n在 LINE 點「到府收送」，約個時段，等門市回覆確認。寢具先裝好袋，師傅到家門口收。\n\n袋口露出的毯角，也順手收好再提走。\n\n洗好後先傳照片，再約時間送回；寢具包裝好再裝袋，當面交到你手上。\n\n棉被回到床上，順平被角，又回到日常。\n\n來回收送免費，一件也收；洗護費另計。\n\n洗護參考：\n棉被（雙人・雙人加大）水洗參考價 NT$500。\n毛毯（雙人）水洗參考價 NT$400。\n難乾大件約 10–14 天，實際以報價為主。\n\n到府收送預約 → LINE：\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送",
+      "datePublished": "2026-10-15T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#棉被清洗",
+        "#到府收件",
+        "#洗衣收送"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png",
+      "caption": "這一大袋，怎麼送去洗？",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-02",
+      "headline": "2026-10-15 20:30 大件送洗，不用扛：選好時段，再約收件。",
+      "text": "棉被毛毯這一大袋，還得自己提去洗？\n\n用 LINE 約收送，不用自己扛出門。\n\n這麼大一袋，師傅幫你提走。\n\n來回收送免費，洗護費另計。\n\n洗好了，照片傳來，再約時間送回。\n\n裝袋送回，親手交給你。\n\n回到床上，順一下就好。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送",
+      "datePublished": "2026-10-15T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#棉被清洗",
+        "#到府收件",
+        "#洗衣收送"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
+      "caption": "大件送洗，不用扛：選好時段，再約收件。",
       "inLanguage": "zh-Hant"
     }
   ]

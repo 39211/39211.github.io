@@ -1,0 +1,10 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "edge-tts zh-TW-YunJheNeural rate +10%",
+  "narration_lines": "narration-lines-tw-v1.json (9 lines), subtitles subs-1018-v2.ass burned in",
+  "foley": "none: the edit table has no foley rows, so the post-assembly bed is digital silence under the narration; the generated takes carry no audio stream; -15.9 LUFS integrated on the publish encode (commander ebur128 10/9). Source label post-ambient-bed is the only value ownerVideoReview accepts for post-produced audio (2026-10-08 commander note)",
+  "assembled_by": "c1018 tools-v1/build_1018_v1.py + scripts/reel-v3/build_fluid_cut.py (cut-v1/edit-1018-v1.json); reburn tools-v2/build_1018_v2.py"
+}

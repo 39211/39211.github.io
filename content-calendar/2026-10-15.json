@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-15",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-10-08T18:09:25.541Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "這一大袋，怎麼送去洗？",
+      "media_type": "carousel",
+      "instagram_caption": "這一大袋，怎麼送去洗？\n\n棉被毛毯想洗，一想到還得自己提去門市，就又往後拖了。\n\n在 LINE 點「到府收送」，約個時段，等門市回覆確認。寢具先裝好袋，師傅到家門口收。\n\n袋口露出的毯角，也順手收好再提走。\n\n洗好後先傳照片，再約時間送回；寢具包裝好再裝袋，當面交到你手上。\n\n棉被回到床上，順平被角，又回到日常。\n\n來回收送免費，一件也收；洗護費另計。\n\n洗護參考：\n棉被（雙人・雙人加大）水洗參考價 NT$500。\n毛毯（雙人）水洗參考價 NT$400。\n難乾大件約 10–14 天，實際以報價為主。\n\n到府收送預約 → LINE：\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送",
+      "facebook_caption": "這一大袋，怎麼送去洗？\n\n棉被毛毯想洗，一想到還得自己提去門市，就又往後拖了。\n\n在 LINE 點「到府收送」，約個時段，等門市回覆確認。寢具先裝好袋，師傅到家門口收。\n\n袋口露出的毯角，也順手收好再提走。\n\n洗好後先傳照片，再約時間送回；寢具包裝好再裝袋，當面交到你手上。\n\n棉被回到床上，順平被角，又回到日常。\n\n來回收送免費，一件也收；洗護費另計。\n\n洗護參考：\n棉被（雙人・雙人加大）水洗參考價 NT$500。\n毛毯（雙人）水洗參考價 NT$400。\n難乾大件約 10–14 天，實際以報價為主。\n\n到府收送預約 → LINE：\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送",
+      "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\carousel-v14n\\slot-01.png; source_sha256=26b94d96d0285d777f178fb7a30ffaab59d37f32419f1c31bb96394e8f9b03f0; frame_seconds=None; overlay_text=",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-10-15/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png",
+      "status": "pending",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\carousel-v14n\\slot-01.png; source_sha256=26b94d96d0285d777f178fb7a30ffaab59d37f32419f1c31bb96394e8f9b03f0; frame_seconds=None; overlay_text=",
+          "local_image_path": "docs/assets/2026-10-15/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01-slide-02.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\carousel-v14n\\slot-01-slide-02.png; source_sha256=057928dbb630d714e8e05615d3947e8633df65a99e00e4964862bbc927bf2b04; frame_seconds=None; overlay_text=",
+          "local_image_path": "docs/assets/2026-10-15/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01-slide-03.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\cut-v15o\\master-1015-B-v14.mp4; source_sha256=9b7a24898f15ca12535fc12966d74ba8cc2dcf89d25d2a791001f6d58ecfc17a; frame_seconds=28.0; overlay_text=包裝好，親手交回",
+          "local_image_path": "docs/assets/2026-10-15/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01-slide-04.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\carousel-v14n\\slot-01-slide-04.png; source_sha256=e17a9966fc2ad13700c820302f4ca032e117b87f1c85d3627031d8e5b470a0d7; frame_seconds=None; overlay_text=",
+          "local_image_path": "docs/assets/2026-10-15/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01-slide-04.png"
+        }
+      ],
+      "seo_sync_page": "/services/taichung-citywide-laundry-pickup.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "棉被收送洗衣",
+        "窗簾收送洗衣",
+        "沙發套收送洗衣",
+        "大件洗衣收送",
+        "LINE 選時段約收件",
+        "私享家大件送洗"
+      ],
+      "follow_cta": "想每週看懂衣物、寢具、鞋包的清潔判斷，可以先追蹤私享家。"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "大件送洗，不用扛：選好時段，再約收件。",
+      "media_type": "reel",
+      "instagram_caption": "棉被毛毯這一大袋，還得自己提去洗？\n\n用 LINE 約收送，不用自己扛出門。\n\n這麼大一袋，師傅幫你提走。\n\n來回收送免費，洗護費另計。\n\n洗好了，照片傳來，再約時間送回。\n\n裝袋送回，親手交給你。\n\n回到床上，順一下就好。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送",
+      "facebook_caption": "棉被毛毯這一大袋，還得自己提去洗？\n\n用 LINE 約收送，不用自己扛出門。\n\n這麼大一袋，師傅幫你提走。\n\n來回收送免費，洗護費另計。\n\n洗好了，照片傳來，再約時間送回。\n\n裝袋送回，親手交給你。\n\n回到床上，順一下就好。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送",
+      "image_prompt": "Install evidence descriptor (not a generation prompt): slot-02.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\carousel-v14n\\slot-02.png; source_sha256=7e78e1b55e7c8d95c64395a01571ad77729aee13b54a9578c2d6ccd4f2715cff; overlay_text=",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "evidence-conversion",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-10-15/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
+      "status": "pending",
+      "format": "reel",
+      "narration_source": "burned",
+      "narration_first_sentence": "棉被毛毯這一大袋，還得自己提去洗？",
+      "video_prompt": "reel-v3 story pickup cut, 1015 pickup B v14 (2026-10-12, owner approved owner-2026-10-12-1100): Pickup B v14; scene descriptions as shown in the supplied film and carousel; narration 7 lines; key-point captions; music bed; film 1015-B-v14.mp4 sha256 f1495a48f9ba46a0, publish encode from the burned film sha256 6a1e04297b5435f7.",
+      "seo_sync_page": "/services/taichung-citywide-laundry-pickup.html",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "棉被收送洗衣",
+        "窗簾收送洗衣",
+        "沙發套收送洗衣",
+        "大件洗衣收送",
+        "LINE 選時段約收件",
+        "私享家大件送洗"
+      ],
+      "local_video_path": "docs/assets/2026-10-15/slot-02.mp4",
+      "public_video_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.mp4"
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "05d7a7e06947c369"
+}

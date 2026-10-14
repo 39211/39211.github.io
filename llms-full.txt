@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-13T22:31:47.768Z
+- Generated at: 2026-10-14T22:30:37.553Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -407,6 +407,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-13/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-14/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -11376,4 +11378,128 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #洗衣預約
+
+### 2026-10-15 11:30 這一大袋，怎麼送去洗？
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-01
+- published local time: 2026-10-15T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 棉被收送洗衣 | 窗簾收送洗衣 | 沙發套收送洗衣 | 大件洗衣收送 | LINE 選時段約收件 | 私享家大件送洗
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送
+- image: https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-15.json
+
+Facebook caption:
+
+這一大袋，怎麼送去洗？
+
+棉被毛毯想洗，一想到還得自己提去門市，就又往後拖了。
+
+在 LINE 點「到府收送」，約個時段，等門市回覆確認。寢具先裝好袋，師傅到家門口收。
+
+袋口露出的毯角，也順手收好再提走。
+
+洗好後先傳照片，再約時間送回；寢具包裝好再裝袋，當面交到你手上。
+
+棉被回到床上，順平被角，又回到日常。
+
+來回收送免費，一件也收；洗護費另計。
+
+洗護參考：
+棉被（雙人・雙人加大）水洗參考價 NT$500。
+毛毯（雙人）水洗參考價 NT$400。
+難乾大件約 10–14 天，實際以報價為主。
+
+到府收送預約 → LINE：
+https://sixiangjialaundry.com/go/line.html?source=post
+或加 LINE：0968327653
+
+#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送
+
+Instagram caption:
+
+這一大袋，怎麼送去洗？
+
+棉被毛毯想洗，一想到還得自己提去門市，就又往後拖了。
+
+在 LINE 點「到府收送」，約個時段，等門市回覆確認。寢具先裝好袋，師傅到家門口收。
+
+袋口露出的毯角，也順手收好再提走。
+
+洗好後先傳照片，再約時間送回；寢具包裝好再裝袋，當面交到你手上。
+
+棉被回到床上，順平被角，又回到日常。
+
+來回收送免費，一件也收；洗護費另計。
+
+洗護參考：
+棉被（雙人・雙人加大）水洗參考價 NT$500。
+毛毯（雙人）水洗參考價 NT$400。
+難乾大件約 10–14 天，實際以報價為主。
+
+到府收送預約 → LINE：
+https://sixiangjialaundry.com/go/line.html?source=post
+或加 LINE：0968327653
+
+#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送
+
+### 2026-10-15 20:30 大件送洗，不用扛：選好時段，再約收件。
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-02
+- published local time: 2026-10-15T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: dwell-detail
+- search_intent: problem-diagnosis
+- target_queries: 棉被收送洗衣 | 窗簾收送洗衣 | 沙發套收送洗衣 | 大件洗衣收送 | LINE 選時段約收件 | 私享家大件送洗
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送
+- image: https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-15.json
+
+Facebook caption:
+
+棉被毛毯這一大袋，還得自己提去洗？
+
+用 LINE 約收送，不用自己扛出門。
+
+這麼大一袋，師傅幫你提走。
+
+來回收送免費，洗護費另計。
+
+洗好了，照片傳來，再約時間送回。
+
+裝袋送回，親手交給你。
+
+回到床上，順一下就好。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送
+
+Instagram caption:
+
+棉被毛毯這一大袋，還得自己提去洗？
+
+用 LINE 約收送，不用自己扛出門。
+
+這麼大一袋，師傅幫你提走。
+
+來回收送免費，洗護費另計。
+
+洗好了，照片傳來，再約時間送回。
+
+裝袋送回，親手交給你。
+
+回到床上，順一下就好。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送
 

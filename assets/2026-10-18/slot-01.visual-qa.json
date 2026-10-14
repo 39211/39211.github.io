@@ -1,0 +1,90 @@
+{
+  "topic": "換季拿出白外套，才發現黃斑？先別急著洗",
+  "date": "2026-10-18",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆呈現白色布身搭配棕色皮質拼接的外套，圓形棕色鈕扣與長方形棕色口袋飾邊一致，未見類型、色系或粗略材質改變。",
+    "SCENE": "第1、3張為金屬工作檯場景，第2張為橘色洗盆，第4張為衣架懸掛且後方可見洗衣設備，場景家族不同。",
+    "TOPIC_MATCH": "四張主體皆為白色布身帶棕色拼接的外套，部分白布可見淡黃色斑痕，符合主題中的外套類物件。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-18/slot-01.png",
+      "canary": "8Y2H",
+      "sha256": "5ae70f8c89eb4da19b960b9e5bc7bf8af7f494c3064e53ed3adb909ec731bdad"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-18/slot-01-slide-02.png",
+      "canary": "NZYU",
+      "sha256": "7643e9cb8a0629afc3cce77c55bfa111e2f80540fccb33a9473fdd167d840459"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-18/slot-01-slide-03.png",
+      "canary": "T7BE",
+      "sha256": "105aa98574fb9d7026c0dbfc3f8d09014e4f21c164e77ae4050effbc6c9b52a0"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-18/slot-01-slide-04.png",
+      "canary": "5XZU",
+      "sha256": "99c1d75059f01f91e680344bf96bc0cb196690de9bd55872ab923b6a7582dcc4"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-18/slot-01.png",
+    "docs/assets/2026-10-18/slot-01-slide-02.png",
+    "docs/assets/2026-10-18/slot-01-slide-03.png",
+    "docs/assets/2026-10-18/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "8Y2H",
+    "IMAGE_2": "NZYU",
+    "IMAGE_3": "T7BE",
+    "IMAGE_4": "5XZU"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "8Y2H",
+    "IMAGE_2": "NZYU",
+    "IMAGE_3": "T7BE",
+    "IMAGE_4": "5XZU"
+  },
+  "prompt_hash": "50232c9ef7904d9a4a02affcca29327dc7b39c1bd8568c858388d2e815885970",
+  "run_id": "carousel-qa-1792017010116",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-14T22:30:35.424Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "50232c9ef7904d9a4a02affcca29327dc7b39c1bd8568c858388d2e815885970",
+      "stdout_sha256": "06f76d5d6e53f91c900b4c9f23b90fd7a6353d2a75b7ee4cf49c56ad41a71712",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}
