@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-10-14T22:30:37.553Z",
+  "generated_at": "2026-10-15T22:30:36.196Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -653,6 +653,8 @@
       "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
+      "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2154,7 +2156,7 @@
       "indexable_article_count": 0,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 0,
-      "article_count": 207
+      "article_count": 209
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2167,136 +2169,252 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 217,
-    "latest_date": "2026-10-15",
+    "post_count": 219,
+    "latest_date": "2026-10-16",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 137,
-    "posts_with_target_queries": 139,
+    "posts_with_search_intent": 139,
+    "posts_with_target_queries": 141,
     "posts_with_evidence_type": 125
   },
-  "latest_date": "2026-10-15",
+  "latest_date": "2026-10-16",
   "latest_posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-01",
-      "date": "2026-10-15",
-      "date_published": "2026-10-15T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-01",
+      "date": "2026-10-16",
+      "date_published": "2026-10-16T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-10-15 11:30 這一大袋，怎麼送去洗？",
-      "topic": "這一大袋，怎麼送去洗？",
-      "visual_route": "macro-detail",
-      "traffic_route": "object-proof",
+      "title": "2026-10-16 11:30 皮裙掉色：噴槍補色前先看皮面",
+      "topic": "皮裙掉色：噴槍補色前先看皮面",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "棉被收送洗衣",
-        "窗簾收送洗衣",
-        "沙發套收送洗衣",
-        "大件洗衣收送",
-        "LINE 選時段約收件",
-        "私享家大件送洗"
+        "台中皮裙清洗",
+        "皮裙掉色",
+        "皮件補色",
+        "皮衣補色",
+        "台中皮件保養",
+        "西屯洗衣店"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#棉被清洗",
-        "#到府收件",
-        "#洗衣收送"
+        "#皮裙",
+        "#皮件保養",
+        "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-15/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-15/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-15/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
-          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\carousel-v14n\\slot-01.png; source_sha256=26b94d96d0285d777f178fb7a30ffaab59d37f32419f1c31bb96394e8f9b03f0; frame_seconds=None; overlay_text=",
-          "local_image_path": "docs/assets/2026-10-15/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png"
+          "image_prompt": "Photo 1 is the established brown leather skirt from the L3 shot and must be matched exactly. A casual smartphone photo inside an ordinary home, no people in frame: this same brown leather skirt hangs front-facing on a simple hanger on an open wardrobe door. The vertical band along the centre front seam is visibly lighter tan than the darker brown sides, with natural leather creases and all four front pocket and zipper positions preserved. This is a general visual scenario, not a customer's case or an actual before photo. No yellow masking tape on the button or any zipper. No dirt, damage, holes, caption, lettering, label, pink tag, logo, or watermark. Vertical 4:5.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png"
         },
         {
           "slide": 2,
-          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01-slide-02.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\carousel-v14n\\slot-01-slide-02.png; source_sha256=057928dbb630d714e8e05615d3947e8633df65a99e00e4964862bbc927bf2b04; frame_seconds=None; overlay_text=",
-          "local_image_path": "docs/assets/2026-10-15/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01-slide-02.png"
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text, pink tag, clip or brand mark from the footage is drawn.\nVertical 9:16. A realistic smartphone photo, flat lighting, everything in focus, no blurry background. The same brown leather skirt hanging straight on a white wire hanger in front of a grey stainless-steel wall, my phone about 50 cm away, with a few horizontal metal shutter slats at the left edge and a steel table edge at the bottom; the whole front of the skirt is visible from the waistband to the hem. Bright yellow paper masking tape is stuck on it: a small round piece over the copper snap button at the waistband, and a crinkled strip along each of the two slanted hip zippers and along each of the two small horizontal lower zippers. A vertical band along the centre front seam is still visibly lighter tan than the darker brown sides. Smooth supple leather with fine natural creases. No hands in frame. No hang tag, no logo, no readable text.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-02.png"
         },
         {
           "slide": 3,
-          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01-slide-03.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\cut-v15o\\master-1015-B-v14.mp4; source_sha256=9b7a24898f15ca12535fc12966d74ba8cc2dcf89d25d2a791001f6d58ecfc17a; frame_seconds=28.0; overlay_text=包裝好，親手交回",
-          "local_image_path": "docs/assets/2026-10-15/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01-slide-03.png"
+          "image_prompt": "Photo 1 is the previous L4 frame with the established spray gun and colours. Photo 2 is the established skirt from the L3 shot and must be matched exactly. Photo 3 is the owner's own footage frame showing the same spray gun; any caption, label text or brand mark from it is not drawn.\nVertical 9:16 portrait composition. Use the supplied L4 image and approved L3 skirt reference to create a tighter smartphone close-up of the front hip working area under the same flat shop lighting. The central seam and lighter tan band fill the middle of the frame, with part of the lower-left stitched pocket and its yellow-taped horizontal zipper at the left edge. The waistband and white hanger lie above the upper frame boundary. One right hand broadly grips the established green spray gun, with its silver cylindrical lidded cup, short metal nozzle and blue-green hose. The black-sleeved wrist and forearm connect continuously to the right edge. A short translucent yellow-brown spray fan crosses a visible air gap toward the pale leather beside the seam. Preserve the existing pocket geometry, mottling, fine leather texture and subdued sheen.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-03.png"
         },
         {
           "slide": 4,
-          "image_prompt": "Install evidence descriptor (not a generation prompt): slot-01-slide-04.png; source=C:\\Users\\cyc39\\AI-Lanes\\p1015b\\carousel-v14n\\slot-01-slide-04.png; source_sha256=e17a9966fc2ad13700c820302f4ca032e117b87f1c85d3627031d8e5b470a0d7; frame_seconds=None; overlay_text=",
-          "local_image_path": "docs/assets/2026-10-15/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-01-slide-04.png"
+          "image_prompt": "Photo 1 is the existing morning image to edit. Photo 2 is the corrected L9 finished-skirt reference. Preserve the existing white card exactly, including its position, dimensions, and these three lines of Traditional Chinese text exactly as shown: 「先看皮面再評估」「噴槍分次補色」「補色不保證回原色」. Preserve the composition, skirt geometry, zipper hardware, steel-wall background, lighting, and crop. Refine only the visible leather surface behind and around the card to the same fine low-contrast grain and finished warm-brown tone as Photo 2. Keep the card and every Chinese character crisp and unchanged. Render with slightly soft smartphone image quality, fine even grain, no artificial sharpening and no crisp micro-detail. Copy the leather surface exactly as it looks in the L3 reference: smooth supple leather with only faint low-contrast grain, no dots, no grid, no scales, no maze-like lines.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-15-slot-01.html",
-      "facebook_caption": "這一大袋，怎麼送去洗？\n\n棉被毛毯想洗，一想到還得自己提去門市，就又往後拖了。\n\n在 LINE 點「到府收送」，約個時段，等門市回覆確認。寢具先裝好袋，師傅到家門口收。\n\n袋口露出的毯角，也順手收好再提走。\n\n洗好後先傳照片，再約時間送回；寢具包裝好再裝袋，當面交到你手上。\n\n棉被回到床上，順平被角，又回到日常。\n\n來回收送免費，一件也收；洗護費另計。\n\n洗護參考：\n棉被（雙人・雙人加大）水洗參考價 NT$500。\n毛毯（雙人）水洗參考價 NT$400。\n難乾大件約 10–14 天，實際以報價為主。\n\n到府收送預約 → LINE：\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送",
-      "instagram_caption": "這一大袋，怎麼送去洗？\n\n棉被毛毯想洗，一想到還得自己提去門市，就又往後拖了。\n\n在 LINE 點「到府收送」，約個時段，等門市回覆確認。寢具先裝好袋，師傅到家門口收。\n\n袋口露出的毯角，也順手收好再提走。\n\n洗好後先傳照片，再約時間送回；寢具包裝好再裝袋，當面交到你手上。\n\n棉被回到床上，順平被角，又回到日常。\n\n來回收送免費，一件也收；洗護費另計。\n\n洗護參考：\n棉被（雙人・雙人加大）水洗參考價 NT$500。\n毛毯（雙人）水洗參考價 NT$400。\n難乾大件約 10–14 天，實際以報價為主。\n\n到府收送預約 → LINE：\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE：0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-16-slot-01.html",
+      "facebook_caption": "皮裙掉色：噴槍補色前先看皮面。\n\n皮裙局部顏色變淺，正面和背面也可能深淺不一。補色前先看皮面與深淺差異的位置，再依實物評估處理方式。\n\n送洗前先別做：自己拿補色膏或皮革油塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看皮面，正面和背面一起檢查；皮裙掛起固定，膠帶已貼好；前處理與用劑依皮況調整；用噴槍分區噴，這次示範依序噴淺色、棕色、深棕；噴完近看皮面，再看整體深淺。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍皮裙正面、背面掉色最明顯的地方傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
+      "instagram_caption": "皮裙掉色：噴槍補色前先看皮面。\n\n皮裙局部顏色變淺，正面和背面也可能深淺不一。補色前先看皮面與深淺差異的位置，再依實物評估處理方式。\n\n送洗前先別做：自己拿補色膏或皮革油塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看皮面，正面和背面一起檢查；皮裙掛起固定，膠帶已貼好；前處理與用劑依皮況調整；用噴槍分區噴，這次示範依序噴淺色、棕色、深棕；噴完近看皮面，再看整體深淺。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍皮裙正面、背面掉色最明顯的地方傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-02",
-      "date": "2026-10-15",
-      "date_published": "2026-10-15T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-02",
+      "date": "2026-10-16",
+      "date_published": "2026-10-16T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
-      "title": "2026-10-15 20:30 大件送洗，不用扛：選好時段，再約收件。",
-      "topic": "大件送洗，不用扛：選好時段，再約收件。",
+      "title": "2026-10-16 20:30 皮裙掉色，補色前先看皮面",
+      "topic": "皮裙掉色，補色前先看皮面",
       "visual_route": "shop-inspection",
-      "traffic_route": "dwell-detail",
+      "traffic_route": "trust-reset",
       "content_role": "evidence-conversion",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "棉被收送洗衣",
-        "窗簾收送洗衣",
-        "沙發套收送洗衣",
-        "大件洗衣收送",
-        "LINE 選時段約收件",
-        "私享家大件送洗"
+        "台中皮裙清洗",
+        "皮裙掉色",
+        "皮件補色",
+        "皮衣補色",
+        "台中皮件保養",
+        "西屯洗衣店"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#棉被清洗",
-        "#到府收件",
-        "#洗衣收送"
+        "#皮裙",
+        "#皮件保養",
+        "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-15-slot-02.html",
-      "facebook_caption": "棉被毛毯這一大袋，還得自己提去洗？\n\n用 LINE 約收送，不用自己扛出門。\n\n這麼大一袋，師傅幫你提走。\n\n來回收送免費，洗護費另計。\n\n洗好了，照片傳來，再約時間送回。\n\n裝袋送回，親手交給你。\n\n回到床上，順一下就好。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送",
-      "instagram_caption": "棉被毛毯這一大袋，還得自己提去洗？\n\n用 LINE 約收送，不用自己扛出門。\n\n這麼大一袋，師傅幫你提走。\n\n來回收送免費，洗護費另計。\n\n洗好了，照片傳來，再約時間送回。\n\n裝袋送回，親手交給你。\n\n回到床上，順一下就好。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送"
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-16-slot-02.html",
+      "facebook_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
+      "instagram_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-02",
+      "date": "2026-10-16",
+      "date_published": "2026-10-16T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-16 20:30 皮裙掉色，補色前先看皮面",
+      "topic": "皮裙掉色，補色前先看皮面",
+      "visual_route": "shop-inspection",
+      "traffic_route": "trust-reset",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中皮裙清洗",
+        "皮裙掉色",
+        "皮件補色",
+        "皮衣補色",
+        "台中皮件保養",
+        "西屯洗衣店"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#皮裙",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-16-slot-02.html",
+      "facebook_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
+      "instagram_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-01",
+      "date": "2026-10-16",
+      "date_published": "2026-10-16T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-16 11:30 皮裙掉色：噴槍補色前先看皮面",
+      "topic": "皮裙掉色：噴槍補色前先看皮面",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中皮裙清洗",
+        "皮裙掉色",
+        "皮件補色",
+        "皮衣補色",
+        "台中皮件保養",
+        "西屯洗衣店"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#皮裙",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Photo 1 is the established brown leather skirt from the L3 shot and must be matched exactly. A casual smartphone photo inside an ordinary home, no people in frame: this same brown leather skirt hangs front-facing on a simple hanger on an open wardrobe door. The vertical band along the centre front seam is visibly lighter tan than the darker brown sides, with natural leather creases and all four front pocket and zipper positions preserved. This is a general visual scenario, not a customer's case or an actual before photo. No yellow masking tape on the button or any zipper. No dirt, damage, holes, caption, lettering, label, pink tag, logo, or watermark. Vertical 4:5.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text, pink tag, clip or brand mark from the footage is drawn.\nVertical 9:16. A realistic smartphone photo, flat lighting, everything in focus, no blurry background. The same brown leather skirt hanging straight on a white wire hanger in front of a grey stainless-steel wall, my phone about 50 cm away, with a few horizontal metal shutter slats at the left edge and a steel table edge at the bottom; the whole front of the skirt is visible from the waistband to the hem. Bright yellow paper masking tape is stuck on it: a small round piece over the copper snap button at the waistband, and a crinkled strip along each of the two slanted hip zippers and along each of the two small horizontal lower zippers. A vertical band along the centre front seam is still visibly lighter tan than the darker brown sides. Smooth supple leather with fine natural creases. No hands in frame. No hang tag, no logo, no readable text.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Photo 1 is the previous L4 frame with the established spray gun and colours. Photo 2 is the established skirt from the L3 shot and must be matched exactly. Photo 3 is the owner's own footage frame showing the same spray gun; any caption, label text or brand mark from it is not drawn.\nVertical 9:16 portrait composition. Use the supplied L4 image and approved L3 skirt reference to create a tighter smartphone close-up of the front hip working area under the same flat shop lighting. The central seam and lighter tan band fill the middle of the frame, with part of the lower-left stitched pocket and its yellow-taped horizontal zipper at the left edge. The waistband and white hanger lie above the upper frame boundary. One right hand broadly grips the established green spray gun, with its silver cylindrical lidded cup, short metal nozzle and blue-green hose. The black-sleeved wrist and forearm connect continuously to the right edge. A short translucent yellow-brown spray fan crosses a visible air gap toward the pale leather beside the seam. Preserve the existing pocket geometry, mottling, fine leather texture and subdued sheen.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Photo 1 is the existing morning image to edit. Photo 2 is the corrected L9 finished-skirt reference. Preserve the existing white card exactly, including its position, dimensions, and these three lines of Traditional Chinese text exactly as shown: 「先看皮面再評估」「噴槍分次補色」「補色不保證回原色」. Preserve the composition, skirt geometry, zipper hardware, steel-wall background, lighting, and crop. Refine only the visible leather surface behind and around the card to the same fine low-contrast grain and finished warm-brown tone as Photo 2. Keep the card and every Chinese character crisp and unchanged. Render with slightly soft smartphone image quality, fine even grain, no artificial sharpening and no crisp micro-detail. Copy the leather surface exactly as it looks in the L3 reference: smooth supple leather with only faint low-contrast grain, no dots, no grid, no scales, no maze-like lines.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-16-slot-01.html",
+      "facebook_caption": "皮裙掉色：噴槍補色前先看皮面。\n\n皮裙局部顏色變淺，正面和背面也可能深淺不一。補色前先看皮面與深淺差異的位置，再依實物評估處理方式。\n\n送洗前先別做：自己拿補色膏或皮革油塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看皮面，正面和背面一起檢查；皮裙掛起固定，膠帶已貼好；前處理與用劑依皮況調整；用噴槍分區噴，這次示範依序噴淺色、棕色、深棕；噴完近看皮面，再看整體深淺。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍皮裙正面、背面掉色最明顯的地方傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
+      "instagram_caption": "皮裙掉色：噴槍補色前先看皮面。\n\n皮裙局部顏色變淺，正面和背面也可能深淺不一。補色前先看皮面與深淺差異的位置，再依實物評估處理方式。\n\n送洗前先別做：自己拿補色膏或皮革油塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看皮面，正面和背面一起檢查；皮裙掛起固定，膠帶已貼好；前處理與用劑依皮況調整；用噴槍分區噴，這次示範依序噴淺色、棕色、深棕；噴完近看皮面，再看整體深淺。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍皮裙正面、背面掉色最明顯的地方傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-15.json#post-2026-10-15-slot-02",
       "date": "2026-10-15",
@@ -3745,97 +3863,6 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-10-01-slot-02.html",
       "facebook_caption": "羽絨外套能水洗嗎？\n\n先看洗標，再檢查衣況。\n\n在店裡的順序：袖口髒污，先局部處理。扣件扣好，翻面再洗。依洗標柔洗，充分漂清。再低溫分段烘乾。中途檢查，還要回機續烘。\n\n裡面的羽絨，也要乾透。\n\n拍洗標傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查",
       "instagram_caption": "羽絨外套能水洗嗎？\n\n先看洗標，再檢查衣況。\n\n在店裡的順序：袖口髒污，先局部處理。扣件扣好，翻面再洗。依洗標柔洗，充分漂清。再低溫分段烘乾。中途檢查，還要回機續烘。\n\n裡面的羽絨，也要乾透。\n\n拍洗標傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json#post-2026-10-01-slot-01",
-      "date": "2026-10-01",
-      "date_published": "2026-10-01T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-01 11:30 羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事",
-      "topic": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中羽絨外套清洗",
-        "羽絨外套可以水洗嗎",
-        "羽絨衣洗完扁掉",
-        "西屯洗衣店",
-        "台中洗衣店推薦",
-        "羽絨外套送洗"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#羽絨外套清潔",
-        "#台中洗衣店",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-01/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-01/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-01.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-01-slot-01.html",
-      "facebook_caption": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事。\n\n多數羽絨外套可以水洗，但要先看洗標：能不能水洗、能不能烘，每件不一樣。\n\n袖口、領口那塊亮亮滑滑的，常見是皮膚油脂和髒污磨出來的；洗之前要先局部處理，整件直接丟進去，不一定帶得走。\n\n洗完扁扁的，常見是裡面的羽絨還沒乾、黏在一起。低溫分段烘，中途停下來檢查，還沒乾透就回機繼續烘，裡面乾了才會慢慢蓬回來。\n\n先別做這幾件事：加漂白水或柔軟精、洗完吊著陰乾、表面乾了就收起來。沒乾透就收，裡面容易悶出味道。\n\n在店裡，我們先看洗標和車線；袖口領口先局部處理；扣件扣好、翻面，單件柔洗、充分漂清，再低溫分段烘透。車線破了、冒絨、有霉味的，要先現場看。\n\n拍整件、洗標、袖口近照傳 LINE，先幫你看能不能水洗（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查",
-      "instagram_caption": "羽絨外套能水洗嗎：袖口油膜跟扁塌是兩件事。\n\n多數羽絨外套可以水洗，但要先看洗標：能不能水洗、能不能烘，每件不一樣。\n\n袖口、領口那塊亮亮滑滑的，常見是皮膚油脂和髒污磨出來的；洗之前要先局部處理，整件直接丟進去，不一定帶得走。\n\n洗完扁扁的，常見是裡面的羽絨還沒乾、黏在一起。低溫分段烘，中途停下來檢查，還沒乾透就回機繼續烘，裡面乾了才會慢慢蓬回來。\n\n先別做這幾件事：加漂白水或柔軟精、洗完吊著陰乾、表面乾了就收起來。沒乾透就收，裡面容易悶出味道。\n\n在店裡，我們先看洗標和車線；袖口領口先局部處理；扣件扣好、翻面，單件柔洗、充分漂清，再低溫分段烘透。車線破了、冒絨、有霉味的，要先現場看。\n\n拍整件、洗標、袖口近照傳 LINE，先幫你看能不能水洗（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #羽絨外套清潔 #台中洗衣店 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json#post-2026-09-30-slot-02",
-      "date": "2026-09-30",
-      "date_published": "2026-09-30T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-09-30 20:30 白鞋交界黃了，先分是哪一種黃",
-      "topic": "白鞋交界黃了，先分是哪一種黃",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "trust-proof",
-      "target_queries": [
-        "台中洗包包",
-        "西屯洗包包",
-        "台中洗包",
-        "包包提把清潔",
-        "包包發霉怎麼辦",
-        "皮革包包清潔"
-      ],
-      "evidence_type": "real-case-photo",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#白鞋清潔",
-        "#台中洗鞋",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-09-30/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-09-30/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-09-30/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-09-30.json",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-09-30-slot-02.html",
-      "facebook_caption": "白鞋交界黃黃的，先別急著刷。\n\n白布按一下：沾到灰的是髒，沾不到、黃色不動的，是鞋底氧化。\n\n在店裡的順序：先抽鞋帶鞋墊，乾刷掉灰。網布很薄，軟毛刷、薄泡沫，短短地刷。洗劑要擦乾淨，留著會自己變黃。\n\n鞋底整片的黃是氧化，可以淡化，不保證回白。陰乾，不要曬太陽。\n\n分不出是哪一種黃，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查",
-      "instagram_caption": "白鞋交界黃黃的，先別急著刷。\n\n白布按一下：沾到灰的是髒，沾不到、黃色不動的，是鞋底氧化。\n\n在店裡的順序：先抽鞋帶鞋墊，乾刷掉灰。網布很薄，軟毛刷、薄泡沫，短短地刷。洗劑要擦乾淨，留著會自己變黃。\n\n鞋底整片的黃是氧化，可以淡化，不保證回白。陰乾，不要曬太陽。\n\n分不出是哪一種黃，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白鞋清潔 #台中洗鞋 #送洗前檢查"
     }
   ],
   "published_posts": [
@@ -13774,6 +13801,122 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-10-15-slot-02.html",
       "facebook_caption": "棉被毛毯這一大袋，還得自己提去洗？\n\n用 LINE 約收送，不用自己扛出門。\n\n這麼大一袋，師傅幫你提走。\n\n來回收送免費，洗護費另計。\n\n洗好了，照片傳來，再約時間送回。\n\n裝袋送回，親手交給你。\n\n回到床上，順一下就好。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送",
       "instagram_caption": "棉被毛毯這一大袋，還得自己提去洗？\n\n用 LINE 約收送，不用自己扛出門。\n\n這麼大一袋，師傅幫你提走。\n\n來回收送免費，洗護費另計。\n\n洗好了，照片傳來，再約時間送回。\n\n裝袋送回，親手交給你。\n\n回到床上，順一下就好。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #棉被清洗 #到府收件 #洗衣收送"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-01",
+      "date": "2026-10-16",
+      "date_published": "2026-10-16T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-16 11:30 皮裙掉色：噴槍補色前先看皮面",
+      "topic": "皮裙掉色：噴槍補色前先看皮面",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中皮裙清洗",
+        "皮裙掉色",
+        "皮件補色",
+        "皮衣補色",
+        "台中皮件保養",
+        "西屯洗衣店"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#皮裙",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Photo 1 is the established brown leather skirt from the L3 shot and must be matched exactly. A casual smartphone photo inside an ordinary home, no people in frame: this same brown leather skirt hangs front-facing on a simple hanger on an open wardrobe door. The vertical band along the centre front seam is visibly lighter tan than the darker brown sides, with natural leather creases and all four front pocket and zipper positions preserved. This is a general visual scenario, not a customer's case or an actual before photo. No yellow masking tape on the button or any zipper. No dirt, damage, holes, caption, lettering, label, pink tag, logo, or watermark. Vertical 4:5.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, any forearm wears a plain black long sleeve, and no caption, subtitle, watermark, label text, pink tag, clip or brand mark from the footage is drawn.\nVertical 9:16. A realistic smartphone photo, flat lighting, everything in focus, no blurry background. The same brown leather skirt hanging straight on a white wire hanger in front of a grey stainless-steel wall, my phone about 50 cm away, with a few horizontal metal shutter slats at the left edge and a steel table edge at the bottom; the whole front of the skirt is visible from the waistband to the hem. Bright yellow paper masking tape is stuck on it: a small round piece over the copper snap button at the waistband, and a crinkled strip along each of the two slanted hip zippers and along each of the two small horizontal lower zippers. A vertical band along the centre front seam is still visibly lighter tan than the darker brown sides. Smooth supple leather with fine natural creases. No hands in frame. No hang tag, no logo, no readable text.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Photo 1 is the previous L4 frame with the established spray gun and colours. Photo 2 is the established skirt from the L3 shot and must be matched exactly. Photo 3 is the owner's own footage frame showing the same spray gun; any caption, label text or brand mark from it is not drawn.\nVertical 9:16 portrait composition. Use the supplied L4 image and approved L3 skirt reference to create a tighter smartphone close-up of the front hip working area under the same flat shop lighting. The central seam and lighter tan band fill the middle of the frame, with part of the lower-left stitched pocket and its yellow-taped horizontal zipper at the left edge. The waistband and white hanger lie above the upper frame boundary. One right hand broadly grips the established green spray gun, with its silver cylindrical lidded cup, short metal nozzle and blue-green hose. The black-sleeved wrist and forearm connect continuously to the right edge. A short translucent yellow-brown spray fan crosses a visible air gap toward the pale leather beside the seam. Preserve the existing pocket geometry, mottling, fine leather texture and subdued sheen.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Photo 1 is the existing morning image to edit. Photo 2 is the corrected L9 finished-skirt reference. Preserve the existing white card exactly, including its position, dimensions, and these three lines of Traditional Chinese text exactly as shown: 「先看皮面再評估」「噴槍分次補色」「補色不保證回原色」. Preserve the composition, skirt geometry, zipper hardware, steel-wall background, lighting, and crop. Refine only the visible leather surface behind and around the card to the same fine low-contrast grain and finished warm-brown tone as Photo 2. Keep the card and every Chinese character crisp and unchanged. Render with slightly soft smartphone image quality, fine even grain, no artificial sharpening and no crisp micro-detail. Copy the leather surface exactly as it looks in the L3 reference: smooth supple leather with only faint low-contrast grain, no dots, no grid, no scales, no maze-like lines.",
+          "local_image_path": "docs/assets/2026-10-16/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-16-slot-01.html",
+      "facebook_caption": "皮裙掉色：噴槍補色前先看皮面。\n\n皮裙局部顏色變淺，正面和背面也可能深淺不一。補色前先看皮面與深淺差異的位置，再依實物評估處理方式。\n\n送洗前先別做：自己拿補色膏或皮革油塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看皮面，正面和背面一起檢查；皮裙掛起固定，膠帶已貼好；前處理與用劑依皮況調整；用噴槍分區噴，這次示範依序噴淺色、棕色、深棕；噴完近看皮面，再看整體深淺。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍皮裙正面、背面掉色最明顯的地方傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
+      "instagram_caption": "皮裙掉色：噴槍補色前先看皮面。\n\n皮裙局部顏色變淺，正面和背面也可能深淺不一。補色前先看皮面與深淺差異的位置，再依實物評估處理方式。\n\n送洗前先別做：自己拿補色膏或皮革油塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看皮面，正面和背面一起檢查；皮裙掛起固定，膠帶已貼好；前處理與用劑依皮況調整；用噴槍分區噴，這次示範依序噴淺色、棕色、深棕；噴完近看皮面，再看整體深淺。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍皮裙正面、背面掉色最明顯的地方傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-02",
+      "date": "2026-10-16",
+      "date_published": "2026-10-16T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-16 20:30 皮裙掉色，補色前先看皮面",
+      "topic": "皮裙掉色，補色前先看皮面",
+      "visual_route": "shop-inspection",
+      "traffic_route": "trust-reset",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "台中皮裙清洗",
+        "皮裙掉色",
+        "皮件補色",
+        "皮衣補色",
+        "台中皮件保養",
+        "西屯洗衣店"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#皮裙",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-16-slot-02.html",
+      "facebook_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
+      "instagram_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查"
     }
   ]
 }

@@ -1,0 +1,90 @@
+{
+  "topic": "包包發霉，洗後可能變黑：處理前先說清楚",
+  "date": "2026-10-19",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "FAIL",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張均可見淺棕皮革與深棕部分組成的包體，翻蓋圓角、淺色縫線與扣帶造型相容，未見明確物件身分衝突。",
+    "SCENE": "第1張背景可見木椅，未見可辨識的金屬工作檯；第2至4張均可見銀色金屬工作檯，因此場景分類不同。",
+    "TOPIC_MATCH": "四張主體均為包包，與主題中的包包一致。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-19/slot-01.png",
+      "canary": "8P9S",
+      "sha256": "d02996092f57c05edea8831ed2166f70f6c56b3e972953eaadefe1ceb2ea382f"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-19/slot-01-slide-02.png",
+      "canary": "ZF5W",
+      "sha256": "40a2d54a99d2b60c9b1dd70c1d8c0771dbb2cd47eca45ae4cf83490cc8bc97b7"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-19/slot-01-slide-03.png",
+      "canary": "N7ML",
+      "sha256": "7fa2bcd2f44dc04016e9ce1a901392f5473ddc3e22bdbb2864b9047612d585c4"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-19/slot-01-slide-04.png",
+      "canary": "6BXD",
+      "sha256": "8d670a6033a18cdb303b924342c33184f8544a092ca9fb374611edf292c531a4"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-19/slot-01.png",
+    "docs/assets/2026-10-19/slot-01-slide-02.png",
+    "docs/assets/2026-10-19/slot-01-slide-03.png",
+    "docs/assets/2026-10-19/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "8P9S",
+    "IMAGE_2": "ZF5W",
+    "IMAGE_3": "N7ML",
+    "IMAGE_4": "6BXD"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "8P9S",
+    "IMAGE_2": "ZF5W",
+    "IMAGE_3": "N7ML",
+    "IMAGE_4": "6BXD"
+  },
+  "prompt_hash": "d4653f678673bdbf002f391f84929093210c8ccdb344eac306bfedaed0830b8c",
+  "run_id": "carousel-qa-1792103408377",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-15T22:30:33.517Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "d4653f678673bdbf002f391f84929093210c8ccdb344eac306bfedaed0830b8c",
+      "stdout_sha256": "644c4745425791aef78156288db5dc7ffb3f1cebd2056c8c90757089e784fea5",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}

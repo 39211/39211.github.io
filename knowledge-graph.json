@@ -317,6 +317,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-14/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-15/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -510,7 +512,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-15"
+      "dateModified": "2026-10-16"
     },
     {
       "@type": "FAQPage",
@@ -571,7 +573,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-15",
+      "dateModified": "2026-10-16",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -14138,6 +14140,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
       "caption": "大件送洗，不用扛：選好時段，再約收件。",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-01",
+      "headline": "2026-10-16 11:30 皮裙掉色：噴槍補色前先看皮面",
+      "text": "皮裙掉色：噴槍補色前先看皮面。\n\n皮裙局部顏色變淺，正面和背面也可能深淺不一。補色前先看皮面與深淺差異的位置，再依實物評估處理方式。\n\n送洗前先別做：自己拿補色膏或皮革油塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看皮面，正面和背面一起檢查；皮裙掛起固定，膠帶已貼好；前處理與用劑依皮況調整；用噴槍分區噴，這次示範依序噴淺色、棕色、深棕；噴完近看皮面，再看整體深淺。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍皮裙正面、背面掉色最明顯的地方傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
+      "datePublished": "2026-10-16T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#皮裙",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
+      "caption": "皮裙掉色：噴槍補色前先看皮面",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-02",
+      "headline": "2026-10-16 20:30 皮裙掉色，補色前先看皮面",
+      "text": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
+      "datePublished": "2026-10-16T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#皮裙",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
+      "caption": "皮裙掉色，補色前先看皮面",
       "inLanguage": "zh-Hant"
     }
   ]
