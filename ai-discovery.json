@@ -13,7 +13,7 @@
     "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
     "google_maps_feature_id": "0x34691713872dd6f5:0x41f4295a6302e177",
     "google_maps_cid": "0x41f4295a6302e177",
-    "google_place_id": null,
+    "google_place_id": "ChIJ9dYthxMXaTQRd-ECY1op9EE",
     "facebook_url": "https://www.facebook.com/100083194756904/",
     "facebook_share_url": "https://www.facebook.com/share/1BZF4VnihJ/",
     "instagram_url": "https://www.instagram.com/si_xiang_jia/",
@@ -54,7 +54,7 @@
     "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
     "google_maps_feature_id": "0x34691713872dd6f5:0x41f4295a6302e177",
     "google_maps_cid": "0x41f4295a6302e177",
-    "google_place_id": null,
+    "google_place_id": "ChIJ9dYthxMXaTQRd-ECY1op9EE",
     "facebook_url": "https://www.facebook.com/100083194756904/",
     "facebook_share_url": "https://www.facebook.com/share/1BZF4VnihJ/",
     "instagram_url": "https://www.instagram.com/si_xiang_jia/",
@@ -111,14 +111,13 @@
     ],
     "source_notes": [
       "Google Maps short link provided by owner; resolved name/address and Maps feature id were used for business identity.",
-      "Public Google Maps page exposed Maps feature id/CID, but did not expose a Google Places API place_id; CID is stored separately and not treated as place_id.",
       "Facebook canonical page, Instagram handle, phone, mobile/LINE, official LINE URL, and opening hours were cross-checked from public Facebook/Instagram search results on 2026-07-02.",
       "Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified."
     ],
     "verification_status": {
       "name_address_map": "owner_provided_google_maps_link",
       "google_maps_cid": "resolved_from_owner_google_maps_link",
-      "google_place_id": "not_verified_public_maps_url_exposes_feature_id_only",
+      "google_place_id": "ChIJ9dYthxMXaTQRd-ECY1op9EE",
       "facebook_canonical": "public_search_result_cross_check",
       "instagram_phone_hours": "public_facebook_instagram_search_result_cross_check",
       "official_line_url": "public_facebook_instagram_search_result_cross_check",
@@ -396,6 +395,11 @@
         "@type": "PropertyValue",
         "propertyID": "Google Maps CID",
         "value": "0x41f4295a6302e177"
+      },
+      {
+        "@type": "PropertyValue",
+        "propertyID": "Google Place ID",
+        "value": "ChIJ9dYthxMXaTQRd-ECY1op9EE"
       }
     ],
     "contactPoint": [
@@ -2151,7 +2155,6 @@
       "archive_behavior": "Older approved posts stay in SEO/AEO/GEO data and render inside a collapsed homepage archive."
     },
     "omitted_until_verified": [
-      "google_place_id",
       "holiday_hours_overrides"
     ]
   },
