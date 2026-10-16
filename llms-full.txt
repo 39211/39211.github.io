@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-15T22:30:36.196Z
+- Generated at: 2026-10-16T22:31:41.123Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -411,6 +411,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -11598,4 +11600,110 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查
+
+### 2026-10-17 11:30 只有一雙鞋？也能約免費收送
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-01
+- published local time: 2026-10-17T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: value-prop-lead
+- search_intent: problem-diagnosis
+- target_queries: 一雙鞋也收送嗎 | 鞋子收送洗衣 | 一雙鞋送洗預約 | LINE 鞋子收送預約 | 鞋子收送無低消 | 私享家鞋子收送
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送
+- image: https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-17.json
+
+Facebook caption:
+
+只有一雙鞋？也能約免費收送。
+
+只有一雙鞋，也能約收送，不用湊件數。
+
+可以，一雙也收。約妥後到府收件，洗好送回；收與送都免費，無低消。
+
+老實說：時段由門市回覆確認；洗護費另計，依物件確認。
+
+LINE 點「到府收送」選收件時段，留下地址、電話，再選擇物件類型並按「確認送出」；時段由門市回覆確認。
+
+免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送
+
+Instagram caption:
+
+只有一雙鞋？也能約免費收送。
+
+只有一雙鞋，也能約收送，不用湊件數。
+
+可以，一雙也收。約妥後到府收件，洗好送回；收與送都免費，無低消。
+
+老實說：時段由門市回覆確認；洗護費另計，依物件確認。
+
+LINE 點「到府收送」選收件時段，留下地址、電話，再選擇物件類型並按「確認送出」；時段由門市回覆確認。
+
+免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送
+
+### 2026-10-17 20:30 一雙也歡迎：收一次，送一次，都免費。
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-02
+- published local time: 2026-10-17T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 一雙鞋也收送嗎 | 鞋子收送洗衣 | 一雙鞋送洗預約 | LINE 鞋子收送預約 | 鞋子收送無低消 | 私享家鞋子收送
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送
+- image: https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-17.json
+
+Facebook caption:
+
+就一雙鞋髒了，好意思叫人跑一趟嗎？
+
+LINE 約好時間，師傅到了會打電話給你。
+
+問了一句，師傅真的來了。
+
+鞋子大約七天。
+
+一般運動鞋水洗怎麼算？
+
+參考價兩百五十元，實際以報價為主。
+
+洗好先傳明細，送回時間你來選。
+
+原來，一雙也不用不好意思。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送
+
+Instagram caption:
+
+就一雙鞋髒了，好意思叫人跑一趟嗎？
+
+LINE 約好時間，師傅到了會打電話給你。
+
+問了一句，師傅真的來了。
+
+鞋子大約七天。
+
+一般運動鞋水洗怎麼算？
+
+參考價兩百五十元，實際以報價為主。
+
+洗好先傳明細，送回時間你來選。
+
+原來，一雙也不用不好意思。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送
 

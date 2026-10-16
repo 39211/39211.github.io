@@ -1,0 +1,98 @@
+{
+  "topic": "白帆布鞋晾乾才發黃？先別再猛刷",
+  "date": "2026-10-20",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆呈現奶白色帆布鞋身、焦糖色橡膠鞋頭與鞋底、銀色鞋眼及白色鞋帶，鞋型、配色與材質組合一致。",
+    "SCENE": "四張背景皆為帶有交錯刮痕的銀灰色金屬工作檯，檯面家族一致。",
+    "TOPIC_MATCH": "四張主體皆為帆布運動鞋，與主題中的白帆布鞋相符。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-20/slot-01.png",
+      "canary": "XSWX",
+      "sha256": "1b034196b475eb6457ff92ec6856b85f5ea11b9ba7d37b1c14547fe1fd2db6b3"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-20/slot-01-slide-02.png",
+      "canary": "QE7A",
+      "sha256": "05df1d918fccac44456f35c4a7c8dac3342c5ab1eeb83b5771d4c8c38ae244bf"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-20/slot-01-slide-03.png",
+      "canary": "U8R4",
+      "sha256": "97509f60fe40224fcc7703acf727deb8a6553fda319afbd84e66f717dda3392f"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-20/slot-01-slide-04.png",
+      "canary": "NYAM",
+      "sha256": "c5c3c4751493215cf49b81a75fa2390bf559d98a64881a6564a2d293d4a3dd2b"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-20/slot-01.png",
+    "docs/assets/2026-10-20/slot-01-slide-02.png",
+    "docs/assets/2026-10-20/slot-01-slide-03.png",
+    "docs/assets/2026-10-20/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "XSWX",
+    "IMAGE_2": "QE7A",
+    "IMAGE_3": "U8R4",
+    "IMAGE_4": "NYAM"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "XSWX",
+    "IMAGE_2": "QE7A",
+    "IMAGE_3": "U8R4",
+    "IMAGE_4": "NYAM"
+  },
+  "prompt_hash": "8ebca4808ea8dfd878c9fc889c6c34ff18c301b91e78e9fd7be0c56b987aacfd",
+  "run_id": "carousel-qa-1792189812177",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-16T22:31:38.359Z",
+  "mode": "warn",
+  "judge_verdict": "PASS",
+  "judge_declared_change": false,
+  "verdict": "PASS",
+  "fail_class": null,
+  "judge_attempt": 2,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "8ebca4808ea8dfd878c9fc889c6c34ff18c301b91e78e9fd7be0c56b987aacfd",
+      "stdout_sha256": "8d0a6d9b0abfbd404c663f98401f1ca9d7db6b27e4a69cb9f13c2b85fa6fc3c9",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    },
+    {
+      "attempt": 2,
+      "prompt_sha256": "46b7902cb95840b62531f144dc9b9fd3064cfc8982bc1e95839149f37e39a451",
+      "stdout_sha256": "5cc116121ed5ed34fd019b8044c0ea9e65789f90da3d9a6cb2ac658d9b8ba2de",
+      "stdout_file": "judge-stdout.attempt-2.txt",
+      "verdict": "PASS",
+      "fail_class": null
+    }
+  ]
+}

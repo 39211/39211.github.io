@@ -319,6 +319,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-15/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-16/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -512,7 +514,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-16"
+      "dateModified": "2026-10-17"
     },
     {
       "@type": "FAQPage",
@@ -573,7 +575,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-16",
+      "dateModified": "2026-10-17",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -14206,6 +14208,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-16/slot-02.png",
       "caption": "皮裙掉色，補色前先看皮面",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-01",
+      "headline": "2026-10-17 11:30 只有一雙鞋？也能約免費收送",
+      "text": "只有一雙鞋？也能約免費收送。\n\n只有一雙鞋，也能約收送，不用湊件數。\n\n可以，一雙也收。約妥後到府收件，洗好送回；收與送都免費，無低消。\n\n老實說：時段由門市回覆確認；洗護費另計，依物件確認。\n\nLINE 點「到府收送」選收件時段，留下地址、電話，再選擇物件類型並按「確認送出」；時段由門市回覆確認。\n\n免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送",
+      "datePublished": "2026-10-17T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#鞋子送洗",
+        "#一雙也收",
+        "#洗衣收送"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png",
+      "caption": "只有一雙鞋？也能約免費收送",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-02",
+      "headline": "2026-10-17 20:30 一雙也歡迎：收一次，送一次，都免費。",
+      "text": "就一雙鞋髒了，好意思叫人跑一趟嗎？\n\nLINE 約好時間，師傅到了會打電話給你。\n\n問了一句，師傅真的來了。\n\n鞋子大約七天。\n\n一般運動鞋水洗怎麼算？\n\n參考價兩百五十元，實際以報價為主。\n\n洗好先傳明細，送回時間你來選。\n\n原來，一雙也不用不好意思。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送",
+      "datePublished": "2026-10-17T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#鞋子送洗",
+        "#一雙也收",
+        "#洗衣收送"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png",
+      "caption": "一雙也歡迎：收一次，送一次，都免費。",
       "inLanguage": "zh-Hant"
     }
   ]

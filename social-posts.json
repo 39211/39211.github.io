@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T22:30:36.196Z",
+  "generated_at": "2026-10-16T22:31:41.123Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -9,7 +9,7 @@
   "image_base_url": "https://sixiangjialaundry.com",
   "image_base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "latest_date": "2026-10-16",
+  "latest_date": "2026-10-17",
   "open_graph": {
     "title": "私享家洗衣店｜台中洗衣洗鞋洗包・全市免費收送・價格公開",
     "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
@@ -12757,6 +12757,145 @@
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-02",
       "facebook_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
       "instagram_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-01",
+      "date": "2026-10-17",
+      "date_published": "2026-10-17T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-17 11:30 只有一雙鞋？也能約免費收送",
+      "topic": "只有一雙鞋？也能約免費收送",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "一雙鞋也收送嗎",
+        "鞋子收送洗衣",
+        "一雙鞋送洗預約",
+        "LINE 鞋子收送預約",
+        "鞋子收送無低消",
+        "私享家鞋子收送"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#鞋子送洗",
+        "#一雙也收",
+        "#洗衣收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-17/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-17/slot-01.png",
+        "assets/2026-10-17/slot-01-slide-02.png",
+        "assets/2026-10-17/slot-01-slide-03.png",
+        "assets/2026-10-17/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is a program-drawn frame from C:\\Users\\cyc39\\AI-Lanes\\p1017c\\carousel-v16n\\slot-01.png (sha256 323faebcf0acbe95a0ef5489f16d85a324d9b6276e514d6967ef58a269de3933), at 1.0 s, frame 30, crop {'x': 0, 'y': 250, 'width': 1080, 'height': 1350, 'output_dimensions': [1080, 1350]}. Overlay text (drawn by code): 就一雙鞋，不好意思？｜不用湊件數，沒有低消. No image generation; source file is copied from the approved v16n carousel.",
+          "local_image_path": "docs/assets/2026-10-17/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is a program-drawn frame from C:\\Users\\cyc39\\AI-Lanes\\p1017c\\carousel-v16n\\slot-01-slide-02.png (sha256 896c91c3f1468b24656e6a014449dbd4cf4f24514b57a038fadcaed6b51320d2), at 6.8 s, frame 204, crop {'x': 0, 'y': 110, 'width': 1080, 'height': 1350, 'output_dimensions': [1080, 1350]}. Overlay text (drawn by code): 一雙鞋，師傅也來了｜LINE 約好時間. No image generation; source file is copied from the approved v16n carousel.",
+          "local_image_path": "docs/assets/2026-10-17/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Slide 3 is a program-drawn frame from C:\\Users\\cyc39\\AI-Lanes\\p1017c\\carousel-v16n\\slot-01-slide-03.png (sha256 cb2ac3f7842e2341d79cd6635a7ff848c22fd5c48a02785b22a93fa0b6ce471e), at 11.6 s, frame 348, crop {'x': 0, 'y': 285, 'width': 1080, 'height': 1350, 'output_dimensions': [1080, 1350]}. Overlay text (drawn by code): 鞋交給師傅就好｜收件、送回都免費；洗護費另計. No image generation; source file is copied from the approved v16n carousel.",
+          "local_image_path": "docs/assets/2026-10-17/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Slide 4 is a program-drawn frame from C:\\Users\\cyc39\\AI-Lanes\\p1017c\\carousel-v16n\\slot-01-slide-04.png (sha256 e9bb7c5703dede1bb6cd6e9204101041c8ec067f32d329e6f1043542dea539f2), at 32.5 s, frame 975, crop {'x': 0, 'y': 160, 'width': 1080, 'height': 1350, 'output_dimensions': [1080, 1350]}. Overlay text (drawn by code): 鞋回來了，照樣出門｜加 LINE，說一雙鞋要收送. No image generation; source file is copied from the approved v16n carousel.",
+          "local_image_path": "docs/assets/2026-10-17/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-17.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json",
+      "article_path": "posts/2026-10-17-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-17-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-01",
+      "facebook_caption": "只有一雙鞋？也能約免費收送。\n\n只有一雙鞋，也能約收送，不用湊件數。\n\n可以，一雙也收。約妥後到府收件，洗好送回；收與送都免費，無低消。\n\n老實說：時段由門市回覆確認；洗護費另計，依物件確認。\n\nLINE 點「到府收送」選收件時段，留下地址、電話，再選擇物件類型並按「確認送出」；時段由門市回覆確認。\n\n免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送",
+      "instagram_caption": "只有一雙鞋？也能約免費收送。\n\n只有一雙鞋，也能約收送，不用湊件數。\n\n可以，一雙也收。約妥後到府收件，洗好送回；收與送都免費，無低消。\n\n老實說：時段由門市回覆確認；洗護費另計，依物件確認。\n\nLINE 點「到府收送」選收件時段，留下地址、電話，再選擇物件類型並按「確認送出」；時段由門市回覆確認。\n\n免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-02",
+      "date": "2026-10-17",
+      "date_published": "2026-10-17T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-10-17 20:30 一雙也歡迎：收一次，送一次，都免費。",
+      "topic": "一雙也歡迎：收一次，送一次，都免費。",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "一雙鞋也收送嗎",
+        "鞋子收送洗衣",
+        "一雙鞋送洗預約",
+        "LINE 鞋子收送預約",
+        "鞋子收送無低消",
+        "私享家鞋子收送"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#鞋子送洗",
+        "#一雙也收",
+        "#洗衣收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-17/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png",
+      "image_paths": [
+        "assets/2026-10-17/slot-02.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-10-17/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-17.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json",
+      "article_path": "posts/2026-10-17-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-17-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-02",
+      "facebook_caption": "就一雙鞋髒了，好意思叫人跑一趟嗎？\n\nLINE 約好時間，師傅到了會打電話給你。\n\n問了一句，師傅真的來了。\n\n鞋子大約七天。\n\n一般運動鞋水洗怎麼算？\n\n參考價兩百五十元，實際以報價為主。\n\n洗好先傳明細，送回時間你來選。\n\n原來，一雙也不用不好意思。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送",
+      "instagram_caption": "就一雙鞋髒了，好意思叫人跑一趟嗎？\n\nLINE 約好時間，師傅到了會打電話給你。\n\n問了一句，師傅真的來了。\n\n鞋子大約七天。\n\n一般運動鞋水洗怎麼算？\n\n參考價兩百五十元，實際以報價為主。\n\n洗好先傳明細，送回時間你來選。\n\n原來，一雙也不用不好意思。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送"
     }
   ],
   "article_posts": [
@@ -24857,6 +24996,145 @@
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-16.json#post-2026-10-16-slot-02",
       "facebook_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查",
       "instagram_caption": "皮裙掉色，補色前先看皮面。\n\n這次示範的這件皮裙，片中呈現：正反面都看，再評估處理。掛起固定，膠帶已貼好。先噴淺色，分區噴。再噴棕色，換一區。最後噴深棕，同樣分區。噴完近看，皮面紋路仍在。深淺拉近，仍可能有色差。\n\n老實說：補色效果要看皮況，不保證回到原色，皮面仍可能有深淺差異。交期依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #皮裙 #皮件保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-01",
+      "date": "2026-10-17",
+      "date_published": "2026-10-17T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-17 11:30 只有一雙鞋？也能約免費收送",
+      "topic": "只有一雙鞋？也能約免費收送",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "一雙鞋也收送嗎",
+        "鞋子收送洗衣",
+        "一雙鞋送洗預約",
+        "LINE 鞋子收送預約",
+        "鞋子收送無低消",
+        "私享家鞋子收送"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#鞋子送洗",
+        "#一雙也收",
+        "#洗衣收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-17/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-17/slot-01.png",
+        "assets/2026-10-17/slot-01-slide-02.png",
+        "assets/2026-10-17/slot-01-slide-03.png",
+        "assets/2026-10-17/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is a program-drawn frame from C:\\Users\\cyc39\\AI-Lanes\\p1017c\\carousel-v16n\\slot-01.png (sha256 323faebcf0acbe95a0ef5489f16d85a324d9b6276e514d6967ef58a269de3933), at 1.0 s, frame 30, crop {'x': 0, 'y': 250, 'width': 1080, 'height': 1350, 'output_dimensions': [1080, 1350]}. Overlay text (drawn by code): 就一雙鞋，不好意思？｜不用湊件數，沒有低消. No image generation; source file is copied from the approved v16n carousel.",
+          "local_image_path": "docs/assets/2026-10-17/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is a program-drawn frame from C:\\Users\\cyc39\\AI-Lanes\\p1017c\\carousel-v16n\\slot-01-slide-02.png (sha256 896c91c3f1468b24656e6a014449dbd4cf4f24514b57a038fadcaed6b51320d2), at 6.8 s, frame 204, crop {'x': 0, 'y': 110, 'width': 1080, 'height': 1350, 'output_dimensions': [1080, 1350]}. Overlay text (drawn by code): 一雙鞋，師傅也來了｜LINE 約好時間. No image generation; source file is copied from the approved v16n carousel.",
+          "local_image_path": "docs/assets/2026-10-17/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Slide 3 is a program-drawn frame from C:\\Users\\cyc39\\AI-Lanes\\p1017c\\carousel-v16n\\slot-01-slide-03.png (sha256 cb2ac3f7842e2341d79cd6635a7ff848c22fd5c48a02785b22a93fa0b6ce471e), at 11.6 s, frame 348, crop {'x': 0, 'y': 285, 'width': 1080, 'height': 1350, 'output_dimensions': [1080, 1350]}. Overlay text (drawn by code): 鞋交給師傅就好｜收件、送回都免費；洗護費另計. No image generation; source file is copied from the approved v16n carousel.",
+          "local_image_path": "docs/assets/2026-10-17/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Slide 4 is a program-drawn frame from C:\\Users\\cyc39\\AI-Lanes\\p1017c\\carousel-v16n\\slot-01-slide-04.png (sha256 e9bb7c5703dede1bb6cd6e9204101041c8ec067f32d329e6f1043542dea539f2), at 32.5 s, frame 975, crop {'x': 0, 'y': 160, 'width': 1080, 'height': 1350, 'output_dimensions': [1080, 1350]}. Overlay text (drawn by code): 鞋回來了，照樣出門｜加 LINE，說一雙鞋要收送. No image generation; source file is copied from the approved v16n carousel.",
+          "local_image_path": "docs/assets/2026-10-17/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-17.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json",
+      "article_path": "posts/2026-10-17-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-17-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-01",
+      "facebook_caption": "只有一雙鞋？也能約免費收送。\n\n只有一雙鞋，也能約收送，不用湊件數。\n\n可以，一雙也收。約妥後到府收件，洗好送回；收與送都免費，無低消。\n\n老實說：時段由門市回覆確認；洗護費另計，依物件確認。\n\nLINE 點「到府收送」選收件時段，留下地址、電話，再選擇物件類型並按「確認送出」；時段由門市回覆確認。\n\n免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送",
+      "instagram_caption": "只有一雙鞋？也能約免費收送。\n\n只有一雙鞋，也能約收送，不用湊件數。\n\n可以，一雙也收。約妥後到府收件，洗好送回；收與送都免費，無低消。\n\n老實說：時段由門市回覆確認；洗護費另計，依物件確認。\n\nLINE 點「到府收送」選收件時段，留下地址、電話，再選擇物件類型並按「確認送出」；時段由門市回覆確認。\n\n免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-02",
+      "date": "2026-10-17",
+      "date_published": "2026-10-17T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-10-17 20:30 一雙也歡迎：收一次，送一次，都免費。",
+      "topic": "一雙也歡迎：收一次，送一次，都免費。",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "一雙鞋也收送嗎",
+        "鞋子收送洗衣",
+        "一雙鞋送洗預約",
+        "LINE 鞋子收送預約",
+        "鞋子收送無低消",
+        "私享家鞋子收送"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#鞋子送洗",
+        "#一雙也收",
+        "#洗衣收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-17/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png",
+      "image_paths": [
+        "assets/2026-10-17/slot-02.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-10-17/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-17.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json",
+      "article_path": "posts/2026-10-17-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-17-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-17.json#post-2026-10-17-slot-02",
+      "facebook_caption": "就一雙鞋髒了，好意思叫人跑一趟嗎？\n\nLINE 約好時間，師傅到了會打電話給你。\n\n問了一句，師傅真的來了。\n\n鞋子大約七天。\n\n一般運動鞋水洗怎麼算？\n\n參考價兩百五十元，實際以報價為主。\n\n洗好先傳明細，送回時間你來選。\n\n原來，一雙也不用不好意思。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送",
+      "instagram_caption": "就一雙鞋髒了，好意思叫人跑一趟嗎？\n\nLINE 約好時間，師傅到了會打電話給你。\n\n問了一句，師傅真的來了。\n\n鞋子大約七天。\n\n一般運動鞋水洗怎麼算？\n\n參考價兩百五十元，實際以報價為主。\n\n洗好先傳明細，送回時間你來選。\n\n原來，一雙也不用不好意思。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #鞋子送洗 #一雙也收 #洗衣收送"
     }
   ]
 }
