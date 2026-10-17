@@ -1,0 +1,90 @@
+{
+  "topic": "上班不在家，送洗還得另外找時間？",
+  "date": "2026-10-21",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "FAIL",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "第1張是米白束口袋，第2張是白襯衫，第3張是藍色提袋，第4張是灰色西裝外套，類型與色系均有變化，並非同一實體物件。",
+    "SCENE": "第1、3、4張可見大理石大廳，第2張可見淺色工作檯，依指定代碼皆歸為 OTHER，因此此軸按代碼判為 PASS。",
+    "TOPIC_MATCH": "主題未指定衣物、鞋類或包袋等物件詞，因此畫面中的束口袋、襯衫、提袋與外套不觸發物件類別不符。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-21/slot-01.png",
+      "canary": "5EZ2",
+      "sha256": "8251f913d326d09649442a7f83183f0e104e5d51443db8c0d7de40fbef9199c8"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-21/slot-01-slide-02.png",
+      "canary": "4T4Z",
+      "sha256": "e24da383d270d01826e31f2687dbbe9fcc951a83c407e04457107217e2d0ee7d"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-21/slot-01-slide-03.png",
+      "canary": "UD26",
+      "sha256": "6ccd9af23668c167e0fbd04b9582575efde2f2eb8f3c14bc83dc5972d7bfa508"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-21/slot-01-slide-04.png",
+      "canary": "2WAN",
+      "sha256": "dd7db66141126ebac8455e253cfaaa2fae2e5d6b2f26280cdcb04e1f359b1828"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-21/slot-01.png",
+    "docs/assets/2026-10-21/slot-01-slide-02.png",
+    "docs/assets/2026-10-21/slot-01-slide-03.png",
+    "docs/assets/2026-10-21/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "5EZ2",
+    "IMAGE_2": "4T4Z",
+    "IMAGE_3": "UD26",
+    "IMAGE_4": "2WAN"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "5EZ2",
+    "IMAGE_2": "4T4Z",
+    "IMAGE_3": "UD26",
+    "IMAGE_4": "2WAN"
+  },
+  "prompt_hash": "11abed94335356e4b1908204f065db787efe101296e4a72e183f66d5e3b8134a",
+  "run_id": "carousel-qa-1792276210496",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-17T22:31:11.497Z",
+  "mode": "warn",
+  "judge_verdict": "FAIL",
+  "judge_declared_change": true,
+  "verdict": "FAIL_CLOSED",
+  "fail_class": "missing_observation",
+  "judge_attempt": 1,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "11abed94335356e4b1908204f065db787efe101296e4a72e183f66d5e3b8134a",
+      "stdout_sha256": "1ec059587bd7125824586a1e5f37e92c2c0e064787dd35b14a81dd9ef6aee514",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    }
+  ]
+}
