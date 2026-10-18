@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-10-18T13:15:07.391Z",
+  "generated_at": "2026-10-18T22:30:10.053Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -658,6 +658,8 @@
       "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-10-18/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.png",
+      "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2156,10 +2158,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 214,
+      "indexable_article_count": 216,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 214
+      "article_count": 216
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2172,134 +2174,248 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 224,
-    "latest_date": "2026-10-18",
+    "post_count": 226,
+    "latest_date": "2026-10-19",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 144,
-    "posts_with_target_queries": 145,
+    "posts_with_search_intent": 146,
+    "posts_with_target_queries": 147,
     "posts_with_evidence_type": 126
   },
-  "latest_date": "2026-10-18",
+  "latest_date": "2026-10-19",
   "latest_posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json#post-2026-10-18-slot-01",
-      "date": "2026-10-18",
-      "date_published": "2026-10-18T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-01",
+      "date": "2026-10-19",
+      "date_published": "2026-10-19T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-10-18 11:30 換季拿出白外套，才發現黃斑？先別急著洗",
-      "topic": "換季拿出白外套，才發現黃斑？先別急著洗",
-      "visual_route": "macro-detail",
-      "traffic_route": "share-worthy-care",
+      "title": "2026-10-19 11:30 包包發霉，洗後可能變黑：處理前先說清楚",
+      "topic": "包包發霉，洗後可能變黑：處理前先說清楚",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "白外套黃斑",
-        "換季衣服黃斑",
-        "白色外套泛黃",
-        "外套黃斑送洗",
-        "皮布拼接外套清洗",
-        "台中西屯洗衣店"
+        "包包發霉",
+        "皮包發霉清洗",
+        "包包霉斑變黑",
+        "後背包發霉",
+        "台中包包送洗",
+        "西屯洗包"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#白外套",
-        "#衣物照護",
-        "#換季整理"
+        "#包包發霉",
+        "#皮件保養",
+        "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
-          "image_prompt": "Slide 1 is the generated photo described below (generated with the earlier generated jacket frame c1018/stills/S1.png as object reference), resized and cropped to 1080x1350, with a highlight tone curve applied. Prompt: Create a vertical 4:5 ordinary smartphone close-up of the exact white cloth and brown leather jacket from the supplied approved S1 object reference, framed on one existing pale yellow-brown area in the fabric directly beside its narrow brown leather pocket frame, while preserving the original pocket stitches, brown button pattern and natural cloth folds and keeping the brown leather evenly brown so it cannot read as a stain; flat laundry-shop lighting, no hands, no text, no label, no watermark, no brand mark.",
-          "local_image_path": "docs/assets/2026-10-18/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01.png"
+          "image_prompt": "Slide 1 is a 4:5 crop (resized to 1080 wide, top 100 px removed, highlight tone curve applied) of the generated photo described below, which is an edit pass over an earlier generated photo (itself an edit of a first generated draft); Photo 2 was an earlier generated frame of the same bag used as the strap reference. Prompt of the final edit pass: Photo 1 is the image to edit; Photo 2 shows the same bag closed, with the long fastening strap sewn to the outer face of the flap. Keep the long fastening strap attached to the outer face of the open flap, with its end extending above the flap; replace the leaf-shaped strap attachment on the front rim with continuous tan leather matching the surrounding mottling, and preserve the body-mounted buckle, inner-flap markings, stitching, checkerboard body, framing and lighting. Also keep the wooden chair, the home background and the existing mottling on the inner flap exactly as they are.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png"
         },
         {
           "slide": 2,
-          "image_prompt": "Slide 2 is a 4:5 crop (resized to 1080 wide, top 284 px removed) of the generated photo described below, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference. Prompt: Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement. Each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge. No caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established jacket: same white cloth, same brown leather panels and pocket frames, same two staggered columns of round brown buttons, and the same faint pale yellow-brown discoloration patches in the same places on the white cloth. Those patches are fabric discoloration, never dirt, and they stay visible and faint.\nVertical 9:16 ordinary smartphone tight close-up of the same jacket gathered within the orange basin and its existing white suds, framed closer than S3 to emphasize the white fabric and its brown leather boundary. Show both hands supporting broad folds and an original brown button. The left black-sleeved forearm connects to the bottom-left edge of the frame, and the right black-sleeved forearm connects to the bottom-right edge of the frame. Preserve the fabric and leather seam, foam appearance and flat shop lighting.",
-          "local_image_path": "docs/assets/2026-10-18/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-02.png"
+          "image_prompt": "Slide 2 is a 4:5 crop (top 100 px removed) of the generated photo described below, upscaled and cropped to 1080x1920 with a highlight tone curve applied; the frames from the owner's own shop footage were used only as layout and action references. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand lettering from the footage is drawn. Vertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting, viewed obliquely from above. The same brown checkerboard backpack lies on the steel worktable with its flap unfolded toward the lower frame and its inner tan leather supported flat, matching the selected brushing reference. A right hand broadly grips a narrow wooden brush whose short bristles contact thin white foam on the leather. The checkerboard body occupies the upper part of the frame, with the left palm steadying it beside the flap attachment; the opened leather flap extends toward the bottom of the frame. The right black-sleeved forearm continues through the right edge and the left forearm through the bottom-left edge. A small clear glass cup stands on the table at the upper left.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png"
         },
         {
           "slide": 3,
-          "image_prompt": "Slide 3 is a 4:5 crop (resized to 1080 wide, top 284 px removed) of the generated photo described below, which is an edit pass over the earlier generated frame c1018/inputs-s4/S6-draw1-raw.png, with a highlight tone curve applied. Prompt of the final generation (edit pass): Photo 1 is the image to edit; Photo 2 shows the single small flat white contact piece to match. Edit the object held by the right hand to match S5’s single small flat white contact piece, with a short flat edge touching the fabric and the remaining portion held within the hand, and extend the connected right forearm naturally toward the bottom-right border while preserving the left supporting hand, jacket structure, pale yellow areas and lighting.",
-          "local_image_path": "docs/assets/2026-10-18/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-03.png"
+          "image_prompt": "Slide 3 is a 4:5 crop (top 40 px removed) of a two-pass generated photo: the main image is the edit pass described by the first prompt below (over an earlier generated frame, with the corrected first shot as Photo 2), and only the upper-centre strap area was then replaced from a second edit pass (second prompt below); highlight tone curve applied. Prompts: (first prompt) Photo 1 is the image to edit; Photo 2 is the corrected S1. Use the corrected S1 for the fastening-strap attachment and open-flap structure while preserving this frame's existing residual mottling and leather tone; match S1's camera position, crop, stitching, front rim, body-mounted buckle and checkerboard alignment. (second prompt) Photo 1 is the image to edit; Photo 2 is the new M01 reference with the correct strap overlap. Preserve this image's current residual mottling and leather tone while matching the new M01 reference's strap overlap, with the flap's inner leather and top-edge stitching covering the strap base and the perforated strap extending beyond the upper edge; retain the buckle, bag geometry, background and framing.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png"
         },
         {
           "slide": 4,
-          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three lines of text on the white card were drawn by the image generation itself, not added by a program. Prompt: Create a vertical 4:5 ordinary smartphone photograph of the same white cloth short jacket hanging from a plain white hanger in the laundry shop, using the supplied S9 still as the garment reference; place a simple centered white card in front of the jacket with exactly these three large dark charcoal Traditional Chinese lines, each on its own line: 「白外套有黃斑」, 「皮布狀況先評估」, 「不保證完全去除」; render every glyph exactly as provided with no other text, logo, watermark or marks, keep the jacket visible around and behind the card, with its brown leather panels and buttons unchanged.",
-          "local_image_path": "docs/assets/2026-10-18/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-04.png"
+          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three handwritten lines on the white card were drawn by the image generation itself, not added by a program; Photo 1 was an earlier generated frame of the same bag. Prompt: A plain white card is held in front of the same backpack shown in Photo 1, matching that exact bag and keeping it behind the card in the S9 composition. Handwrite exactly these three Traditional Chinese lines on the card, one line each: 洗後霉斑可能變黑 / 改善多少看實物 / 先講好再處理. No other writing, labels, logos, captions or subtitles.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json",
-      "facebook_caption": "換季拿出白外套，才發現黃斑？先別急著洗。\n\n換季整理衣物時，拿出白外套才注意到布面有淡黃褐色區域？發現的時間，不等於黃斑形成的原因；只看顏色不能確定成因，布面與皮革滾邊都要一起評估。\n\n送洗前先別做：還沒確認材質與適合的處理方式，先別自行混用清潔用品、用熱水浸泡，或對著黃斑反覆用力搓揉。\n\n在店裡，我們這樣做：先平放查看黃斑位置與皮布狀況，再依材質安排處理。這次呈現盆中揉洗、檯面扶布做局部處理、再回盆內處理，最後掛起慢慢乾燥；用劑與方式須個別評估，不能直接照做。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。適不適合處理、能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍外套整體、黃斑近照與皮革滾邊傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理",
-      "instagram_caption": "換季拿出白外套，才發現黃斑？先別急著洗。\n\n換季整理衣物時，拿出白外套才注意到布面有淡黃褐色區域？發現的時間，不等於黃斑形成的原因；只看顏色不能確定成因，布面與皮革滾邊都要一起評估。\n\n送洗前先別做：還沒確認材質與適合的處理方式，先別自行混用清潔用品、用熱水浸泡，或對著黃斑反覆用力搓揉。\n\n在店裡，我們這樣做：先平放查看黃斑位置與皮布狀況，再依材質安排處理。這次呈現盆中揉洗、檯面扶布做局部處理、再回盆內處理，最後掛起慢慢乾燥；用劑與方式須個別評估，不能直接照做。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。適不適合處理、能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍外套整體、黃斑近照與皮革滾邊傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
+      "facebook_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
+      "instagram_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json#post-2026-10-18-slot-02",
-      "date": "2026-10-18",
-      "date_published": "2026-10-18T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-02",
+      "date": "2026-10-19",
+      "date_published": "2026-10-19T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
-      "title": "2026-10-18 20:30 換季拿出白外套，才發現黃斑？先別急著洗",
-      "topic": "換季拿出白外套，才發現黃斑？先別急著洗",
+      "title": "2026-10-19 20:30 包包發霉，洗後可能變黑",
+      "topic": "包包發霉，洗後可能變黑",
       "visual_route": "shop-inspection",
-      "traffic_route": "value-prop-lead",
+      "traffic_route": "share-worthy-care",
       "content_role": "evidence-conversion",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "白外套黃斑",
-        "換季衣服黃斑",
-        "白色外套泛黃",
-        "外套黃斑送洗",
-        "皮布拼接外套清洗",
-        "台中西屯洗衣店"
+        "包包發霉",
+        "皮包發霉清洗",
+        "包包霉斑變黑",
+        "後背包發霉",
+        "台中包包送洗",
+        "西屯洗包"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#白外套",
-        "#衣物照護",
-        "#換季整理"
+        "#包包發霉",
+        "#皮件保養",
+        "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json",
-      "facebook_caption": "白外套拿出來，怎麼有黃斑？\n\n這次示範的這件白布拼棕色皮革短外套，片中呈現：先看布面，也看皮革滾邊。盆裡揉洗。皮布拼接，做法要先評估。一手扶布，局部來回處理。黃斑能退多少，得看材質。皮革部分，再做定色。掛起之後，慢慢乾燥。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍整體和黃斑，傳LINE評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理",
-      "instagram_caption": "白外套拿出來，怎麼有黃斑？\n\n這次示範的這件白布拼棕色皮革短外套，片中呈現：先看布面，也看皮革滾邊。盆裡揉洗。皮布拼接，做法要先評估。一手扶布，局部來回處理。黃斑能退多少，得看材質。皮革部分，再做定色。掛起之後，慢慢乾燥。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍整體和黃斑，傳LINE評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理"
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
+      "facebook_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
+      "instagram_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-02",
+      "date": "2026-10-19",
+      "date_published": "2026-10-19T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-19 20:30 包包發霉，洗後可能變黑",
+      "topic": "包包發霉，洗後可能變黑",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "包包發霉",
+        "皮包發霉清洗",
+        "包包霉斑變黑",
+        "後背包發霉",
+        "台中包包送洗",
+        "西屯洗包"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#包包發霉",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
+      "facebook_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
+      "instagram_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-01",
+      "date": "2026-10-19",
+      "date_published": "2026-10-19T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-19 11:30 包包發霉，洗後可能變黑：處理前先說清楚",
+      "topic": "包包發霉，洗後可能變黑：處理前先說清楚",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "包包發霉",
+        "皮包發霉清洗",
+        "包包霉斑變黑",
+        "後背包發霉",
+        "台中包包送洗",
+        "西屯洗包"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#包包發霉",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is a 4:5 crop (resized to 1080 wide, top 100 px removed, highlight tone curve applied) of the generated photo described below, which is an edit pass over an earlier generated photo (itself an edit of a first generated draft); Photo 2 was an earlier generated frame of the same bag used as the strap reference. Prompt of the final edit pass: Photo 1 is the image to edit; Photo 2 shows the same bag closed, with the long fastening strap sewn to the outer face of the flap. Keep the long fastening strap attached to the outer face of the open flap, with its end extending above the flap; replace the leaf-shaped strap attachment on the front rim with continuous tan leather matching the surrounding mottling, and preserve the body-mounted buckle, inner-flap markings, stitching, checkerboard body, framing and lighting. Also keep the wooden chair, the home background and the existing mottling on the inner flap exactly as they are.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is a 4:5 crop (top 100 px removed) of the generated photo described below, upscaled and cropped to 1080x1920 with a highlight tone curve applied; the frames from the owner's own shop footage were used only as layout and action references. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand lettering from the footage is drawn. Vertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting, viewed obliquely from above. The same brown checkerboard backpack lies on the steel worktable with its flap unfolded toward the lower frame and its inner tan leather supported flat, matching the selected brushing reference. A right hand broadly grips a narrow wooden brush whose short bristles contact thin white foam on the leather. The checkerboard body occupies the upper part of the frame, with the left palm steadying it beside the flap attachment; the opened leather flap extends toward the bottom of the frame. The right black-sleeved forearm continues through the right edge and the left forearm through the bottom-left edge. A small clear glass cup stands on the table at the upper left.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Slide 3 is a 4:5 crop (top 40 px removed) of a two-pass generated photo: the main image is the edit pass described by the first prompt below (over an earlier generated frame, with the corrected first shot as Photo 2), and only the upper-centre strap area was then replaced from a second edit pass (second prompt below); highlight tone curve applied. Prompts: (first prompt) Photo 1 is the image to edit; Photo 2 is the corrected S1. Use the corrected S1 for the fastening-strap attachment and open-flap structure while preserving this frame's existing residual mottling and leather tone; match S1's camera position, crop, stitching, front rim, body-mounted buckle and checkerboard alignment. (second prompt) Photo 1 is the image to edit; Photo 2 is the new M01 reference with the correct strap overlap. Preserve this image's current residual mottling and leather tone while matching the new M01 reference's strap overlap, with the flap's inner leather and top-edge stitching covering the strap base and the perforated strap extending beyond the upper edge; retain the buckle, bag geometry, background and framing.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three handwritten lines on the white card were drawn by the image generation itself, not added by a program; Photo 1 was an earlier generated frame of the same bag. Prompt: A plain white card is held in front of the same backpack shown in Photo 1, matching that exact bag and keeping it behind the card in the S9 composition. Handwrite exactly these three Traditional Chinese lines on the card, one line each: 洗後霉斑可能變黑 / 改善多少看實物 / 先講好再處理. No other writing, labels, logos, captions or subtitles.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
+      "facebook_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
+      "instagram_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json#post-2026-10-18-slot-02",
       "date": "2026-10-18",
@@ -3795,95 +3911,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json",
       "facebook_caption": "提把變深，先別急著上油。\n\n這處磨白，清洗補不回。\n\n在店裡的順序：先除油，鬆開握位的油污。清洗劑稀釋，一段一段擦。帆布也擦過，不做整包浸泡。塞紙定型，立著收乾。\n\n提把清完，仍可能有色差。底角仍磨白，補色另外談。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #包包提把清潔 #送洗前檢查",
       "instagram_caption": "提把變深，先別急著上油。\n\n這處磨白，清洗補不回。\n\n在店裡的順序：先除油，鬆開握位的油污。清洗劑稀釋，一段一段擦。帆布也擦過，不做整包浸泡。塞紙定型，立著收乾。\n\n提把清完，仍可能有色差。底角仍磨白，補色另外談。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #包包提把清潔 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-01",
-      "date": "2026-10-04",
-      "date_published": "2026-10-04T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-04 11:30 Gucci 托特包提把變深、包角發白：先分是哪一種",
-      "topic": "Gucci 托特包提把變深、包角發白：先分是哪一種",
-      "visual_route": "shop-inspection",
-      "traffic_route": "value-prop-lead",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中名牌包清潔",
-        "包包提把變黑",
-        "包角磨白怎麼辦",
-        "台中包包送洗",
-        "西屯洗包",
-        "精品包提把清潔"
-      ],
-      "evidence_type": "first-party-inspection",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#名牌包清潔",
-        "#包包提把清潔",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-04/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-04/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-04/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-04/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-04/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json",
-      "facebook_caption": "Gucci 托特包提把變深、包角發白：先分是哪一種。\n\n提把手握的那一段比兩端深，可能是手汗、皮脂、護手霜，也可能是皮面本身變色；光看顏色分不出來。拿布去擦，布上沾到褐色也不一定是髒東西，有可能是皮革本身的顏色被帶下來，這時候就該停手，不要越擦越用力。\n\n包角發白、花紋變淡，常見是塗層磨損。磨掉的塗層，清潔補不回來；要不要補色，要看過包再說。\n\n先別做三件事：在提把塗護手霜或皮革油、拿酒精擦包角、整個包泡水。\n\n在店裡，我們先確認材質、測試會不會掉色，再分開處理：帆布照原廠日常照護用柔軟乾布清理；提把在有支撐的狀態下短距離清理，換乾布收尾、通風陰乾。清完的提把仍可能有色差；磨損的地方，清到那裡就停。\n\n拍整包、提把近照、四個角各一張傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #包包提把清潔 #送洗前檢查",
-      "instagram_caption": "Gucci 托特包提把變深、包角發白：先分是哪一種。\n\n提把手握的那一段比兩端深，可能是手汗、皮脂、護手霜，也可能是皮面本身變色；光看顏色分不出來。拿布去擦，布上沾到褐色也不一定是髒東西，有可能是皮革本身的顏色被帶下來，這時候就該停手，不要越擦越用力。\n\n包角發白、花紋變淡，常見是塗層磨損。磨掉的塗層，清潔補不回來；要不要補色，要看過包再說。\n\n先別做三件事：在提把塗護手霜或皮革油、拿酒精擦包角、整個包泡水。\n\n在店裡，我們先確認材質、測試會不會掉色，再分開處理：帆布照原廠日常照護用柔軟乾布清理；提把在有支撐的狀態下短距離清理，換乾布收尾、通風陰乾。清完的提把仍可能有色差；磨損的地方，清到那裡就停。\n\n拍整包、提把近照、四個角各一張傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #包包提把清潔 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json#post-2026-10-03-slot-02",
-      "date": "2026-10-03",
-      "date_published": "2026-10-03T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-10-03 20:30 麂皮靴留水痕，先別急著擦",
-      "topic": "麂皮靴留水痕，先別急著擦",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "麂皮靴水痕",
-        "麂皮鞋淋雨",
-        "麂皮靴怎麼清",
-        "馬汀靴麂皮清潔",
-        "台中洗鞋",
-        "西屯洗鞋"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#麂皮靴清潔",
-        "#台中洗鞋",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-03/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-03.json",
-      "facebook_caption": "麂皮淋了雨，先別急著擦。\n\n在店裡的順序：先看材質和水痕，再處理。鞋面均勻噴濕，別追白邊。軟刷帶泡沫，鞋面輕輕刷。塞紙支撐，立著收乾。控制風溫，移動著收乾。乾透後，輕刷整理絨毛。\n\n老實說：水痕不一定全消，磨損仍在。\n\n整理好，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查",
-      "instagram_caption": "麂皮淋了雨，先別急著擦。\n\n在店裡的順序：先看材質和水痕，再處理。鞋面均勻噴濕，別追白邊。軟刷帶泡沫，鞋面輕輕刷。塞紙支撐，立著收乾。控制風溫，移動著收乾。乾透後，輕刷整理絨毛。\n\n老實說：水痕不一定全消，磨損仍在。\n\n整理好，拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮靴清潔 #台中洗鞋 #送洗前檢查"
     }
   ],
   "published_posts": [
@@ -13987,6 +14014,120 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json",
       "facebook_caption": "白外套拿出來，怎麼有黃斑？\n\n這次示範的這件白布拼棕色皮革短外套，片中呈現：先看布面，也看皮革滾邊。盆裡揉洗。皮布拼接，做法要先評估。一手扶布，局部來回處理。黃斑能退多少，得看材質。皮革部分，再做定色。掛起之後，慢慢乾燥。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍整體和黃斑，傳LINE評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理",
       "instagram_caption": "白外套拿出來，怎麼有黃斑？\n\n這次示範的這件白布拼棕色皮革短外套，片中呈現：先看布面，也看皮革滾邊。盆裡揉洗。皮布拼接，做法要先評估。一手扶布，局部來回處理。黃斑能退多少，得看材質。皮革部分，再做定色。掛起之後，慢慢乾燥。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍整體和黃斑，傳LINE評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-01",
+      "date": "2026-10-19",
+      "date_published": "2026-10-19T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-19 11:30 包包發霉，洗後可能變黑：處理前先說清楚",
+      "topic": "包包發霉，洗後可能變黑：處理前先說清楚",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "包包發霉",
+        "皮包發霉清洗",
+        "包包霉斑變黑",
+        "後背包發霉",
+        "台中包包送洗",
+        "西屯洗包"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#包包發霉",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is a 4:5 crop (resized to 1080 wide, top 100 px removed, highlight tone curve applied) of the generated photo described below, which is an edit pass over an earlier generated photo (itself an edit of a first generated draft); Photo 2 was an earlier generated frame of the same bag used as the strap reference. Prompt of the final edit pass: Photo 1 is the image to edit; Photo 2 shows the same bag closed, with the long fastening strap sewn to the outer face of the flap. Keep the long fastening strap attached to the outer face of the open flap, with its end extending above the flap; replace the leaf-shaped strap attachment on the front rim with continuous tan leather matching the surrounding mottling, and preserve the body-mounted buckle, inner-flap markings, stitching, checkerboard body, framing and lighting. Also keep the wooden chair, the home background and the existing mottling on the inner flap exactly as they are.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is a 4:5 crop (top 100 px removed) of the generated photo described below, upscaled and cropped to 1080x1920 with a highlight tone curve applied; the frames from the owner's own shop footage were used only as layout and action references. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand lettering from the footage is drawn. Vertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting, viewed obliquely from above. The same brown checkerboard backpack lies on the steel worktable with its flap unfolded toward the lower frame and its inner tan leather supported flat, matching the selected brushing reference. A right hand broadly grips a narrow wooden brush whose short bristles contact thin white foam on the leather. The checkerboard body occupies the upper part of the frame, with the left palm steadying it beside the flap attachment; the opened leather flap extends toward the bottom of the frame. The right black-sleeved forearm continues through the right edge and the left forearm through the bottom-left edge. A small clear glass cup stands on the table at the upper left.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Slide 3 is a 4:5 crop (top 40 px removed) of a two-pass generated photo: the main image is the edit pass described by the first prompt below (over an earlier generated frame, with the corrected first shot as Photo 2), and only the upper-centre strap area was then replaced from a second edit pass (second prompt below); highlight tone curve applied. Prompts: (first prompt) Photo 1 is the image to edit; Photo 2 is the corrected S1. Use the corrected S1 for the fastening-strap attachment and open-flap structure while preserving this frame's existing residual mottling and leather tone; match S1's camera position, crop, stitching, front rim, body-mounted buckle and checkerboard alignment. (second prompt) Photo 1 is the image to edit; Photo 2 is the new M01 reference with the correct strap overlap. Preserve this image's current residual mottling and leather tone while matching the new M01 reference's strap overlap, with the flap's inner leather and top-edge stitching covering the strap base and the perforated strap extending beyond the upper edge; retain the buckle, bag geometry, background and framing.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three handwritten lines on the white card were drawn by the image generation itself, not added by a program; Photo 1 was an earlier generated frame of the same bag. Prompt: A plain white card is held in front of the same backpack shown in Photo 1, matching that exact bag and keeping it behind the card in the S9 composition. Handwrite exactly these three Traditional Chinese lines on the card, one line each: 洗後霉斑可能變黑 / 改善多少看實物 / 先講好再處理. No other writing, labels, logos, captions or subtitles.",
+          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
+      "facebook_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
+      "instagram_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-02",
+      "date": "2026-10-19",
+      "date_published": "2026-10-19T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-19 20:30 包包發霉，洗後可能變黑",
+      "topic": "包包發霉，洗後可能變黑",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "包包發霉",
+        "皮包發霉清洗",
+        "包包霉斑變黑",
+        "後背包發霉",
+        "台中包包送洗",
+        "西屯洗包"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#包包發霉",
+        "#皮件保養",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
+      "facebook_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
+      "instagram_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
     }
   ]
 }

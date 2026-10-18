@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-18T13:15:07.391Z
+- Generated at: 2026-10-18T22:30:10.053Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -416,6 +416,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-17/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-18/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -11846,4 +11848,102 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理
+
+### 2026-10-19 11:30 包包發霉，洗後可能變黑：處理前先說清楚
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-01
+- published local time: 2026-10-19T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: object-proof
+- search_intent: problem-diagnosis
+- target_queries: 包包發霉 | 皮包發霉清洗 | 包包霉斑變黑 | 後背包發霉 | 台中包包送洗 | 西屯洗包
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-19.json
+
+Facebook caption:
+
+包包發霉，洗後可能變黑：處理前先說清楚。
+
+換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。
+
+送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。
+
+在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。
+
+老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。
+
+拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查
+
+Instagram caption:
+
+包包發霉，洗後可能變黑：處理前先說清楚。
+
+換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。
+
+送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。
+
+在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。
+
+老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。
+
+拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查
+
+### 2026-10-19 20:30 包包發霉，洗後可能變黑
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-02
+- published local time: 2026-10-19T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 包包發霉 | 皮包發霉清洗 | 包包霉斑變黑 | 後背包發霉 | 台中包包送洗 | 西屯洗包
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查
+- image: https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-19.json
+
+Facebook caption:
+
+換季把包拿出來，才發現翻蓋長霉了。
+
+今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。
+
+老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。
+
+講好了再處理，背出門也安心。
+
+包發霉，先拍照傳 LINE，我們先幫你看。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查
+
+Instagram caption:
+
+換季把包拿出來，才發現翻蓋長霉了。
+
+今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。
+
+老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。
+
+講好了再處理，背出門也安心。
+
+包發霉，先拍照傳 LINE，我們先幫你看。
+
+台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
+
+#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查
 

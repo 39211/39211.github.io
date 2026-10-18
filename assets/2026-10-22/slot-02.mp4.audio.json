@@ -1,0 +1,13 @@
+{
+  "narration": true,
+  "generated_clip_audio_used": false,
+  "source": "post-ambient-bed",
+  "narr_delay_ms": 0,
+  "narration_engine": "retained nine Kore source lines",
+  "narration_lines": "data/video-runs/2026-10-22/slot-02/narration.json",
+  "narration_count": 9,
+  "foley": "Added CC0 BigSoundBank s0980 / Joseph SARDIN; source 3.5-5.2s at 40.5-42.2s; gain -3 dB fade 80/250ms. SHA256 ae343e5d5707425b705586cf979c333a3a59200636005c31bcaf1f017f0b7494",
+  "assembled_by": "P1022 ending-r2 laugh-04",
+  "material_sources": "data/video-runs/2026-10-22/slot-02/material-sources.json",
+  "video_sha256": "c5c55b4182104e0661221f1af30715ca989c1a706e9f22d641b72a21faa0affb"
+}
