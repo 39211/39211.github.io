@@ -326,6 +326,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -519,7 +521,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-19"
+      "dateModified": "2026-10-20"
     },
     {
       "@type": "FAQPage",
@@ -580,7 +582,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-19",
+      "dateModified": "2026-10-20",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -14450,6 +14452,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
       "caption": "包包發霉，洗後可能變黑",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-01",
+      "headline": "2026-10-20 11:30 白帆布鞋晾乾才發黃？先別再猛刷",
+      "text": "白帆布鞋晾乾才發黃？先別再猛刷。\n\n換季拿出白帆布鞋，發現鞋面有淡黃影？先別急著重洗。淋濕或自行清洗、晾乾後才注意到，也不能只憑顏色認定原因。\n\n送洗前先別做：反覆加不同洗劑重洗、對著黃影用力猛刷、沒評估就自行加藥。\n\n在店裡，我們這樣做：先看鞋面狀態，再依材質評估用劑與手法。刷洗時分區處理鞋口與鞋側，處理後再看布面外觀；實際方式依鞋況調整。\n\n老實說：能改善多少要看材質與實物，不保證全白，處理後仍可能有色差。圖中的棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。交期依材質與排程確認。\n\n拍整雙鞋、鞋面黃影與鞋側傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
+      "datePublished": "2026-10-20T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#帆布鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+      "caption": "白帆布鞋晾乾才發黃？先別再猛刷",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02",
+      "headline": "2026-10-20 20:30 白鞋晾乾泛黃？先別猛刷",
+      "text": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
+      "datePublished": "2026-10-20T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#帆布鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
+      "caption": "白鞋晾乾泛黃？先別猛刷",
       "inLanguage": "zh-Hant"
     }
   ]

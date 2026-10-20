@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-10-19T13:15:05.528Z",
+  "generated_at": "2026-10-20T05:00:08.140Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -660,6 +660,8 @@
       "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
+      "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2158,10 +2160,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 216,
+      "indexable_article_count": 218,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 216
+      "article_count": 218
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2174,134 +2176,248 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 226,
-    "latest_date": "2026-10-19",
+    "post_count": 228,
+    "latest_date": "2026-10-20",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 146,
-    "posts_with_target_queries": 147,
+    "posts_with_search_intent": 148,
+    "posts_with_target_queries": 149,
     "posts_with_evidence_type": 126
   },
-  "latest_date": "2026-10-19",
+  "latest_date": "2026-10-20",
   "latest_posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-01",
-      "date": "2026-10-19",
-      "date_published": "2026-10-19T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-01",
+      "date": "2026-10-20",
+      "date_published": "2026-10-20T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-10-19 11:30 包包發霉，洗後可能變黑：處理前先說清楚",
-      "topic": "包包發霉，洗後可能變黑：處理前先說清楚",
-      "visual_route": "shop-inspection",
-      "traffic_route": "object-proof",
+      "title": "2026-10-20 11:30 白帆布鞋晾乾才發黃？先別再猛刷",
+      "topic": "白帆布鞋晾乾才發黃？先別再猛刷",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "包包發霉",
-        "皮包發霉清洗",
-        "包包霉斑變黑",
-        "後背包發霉",
-        "台中包包送洗",
-        "西屯洗包"
+        "白帆布鞋泛黃",
+        "白鞋晾乾變黃",
+        "帆布鞋黃斑",
+        "白鞋送洗",
+        "台中洗鞋",
+        "西屯洗鞋"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#包包發霉",
-        "#皮件保養",
+        "#帆布鞋",
+        "#台中洗鞋",
         "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
-          "image_prompt": "Slide 1 is a 4:5 crop (resized to 1080 wide, top 100 px removed, highlight tone curve applied) of the generated photo described below, which is an edit pass over an earlier generated photo (itself an edit of a first generated draft); Photo 2 was an earlier generated frame of the same bag used as the strap reference. Prompt of the final edit pass: Photo 1 is the image to edit; Photo 2 shows the same bag closed, with the long fastening strap sewn to the outer face of the flap. Keep the long fastening strap attached to the outer face of the open flap, with its end extending above the flap; replace the leaf-shaped strap attachment on the front rim with continuous tan leather matching the surrounding mottling, and preserve the body-mounted buckle, inner-flap markings, stitching, checkerboard body, framing and lighting. Also keep the wooden chair, the home background and the existing mottling on the inner flap exactly as they are.",
-          "local_image_path": "docs/assets/2026-10-19/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png"
+          "image_prompt": "Slide 1 is the top 1080x1350 of the first frame of the film's first shot: the generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nVertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting, with natural exposure and clearly resolved fabric weave. Show the reference-selected low-top canvas sneaker resting on a scratched stainless-steel worktop. Frame the off-white canvas immediately behind its ribbed gum-brown rubber toe cap, the lower white laces and the metal eyelets. Match the mild canvas tone visible on this gum-toe shoe in the supplied reference. Preserve its soft creases, stitching and original brown rubber colour. The composition consists of the shoe and worktop, with plain unprinted surfaces visible. No hands.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png"
         },
         {
           "slide": 2,
-          "image_prompt": "Slide 2 is a 4:5 crop (top 100 px removed) of the generated photo described below, upscaled and cropped to 1080x1920 with a highlight tone curve applied; the frames from the owner's own shop footage were used only as layout and action references. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand lettering from the footage is drawn. Vertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting, viewed obliquely from above. The same brown checkerboard backpack lies on the steel worktable with its flap unfolded toward the lower frame and its inner tan leather supported flat, matching the selected brushing reference. A right hand broadly grips a narrow wooden brush whose short bristles contact thin white foam on the leather. The checkerboard body occupies the upper part of the frame, with the left palm steadying it beside the flap attachment; the opened leather flap extends toward the bottom of the frame. The right black-sleeved forearm continues through the right edge and the left forearm through the bottom-left edge. A small clear glass cup stands on the table at the upper left.",
-          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png"
+          "image_prompt": "Slide 2 is a 4:5 crop (top 120 px removed) of a generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference, Photo 2 and Photo 3 were earlier generated frames used as shoe and brush references. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established sneaker from the approved S1 image and must be matched exactly: same off-white canvas, same gum-brown rubber toe cap and sole edge, same laces and eyelets.\nPhoto 3 is the approved S4 image: match its brush, hand, black sleeve and white foam exactly; Photo 3 shows the front half of the shoe, but this shot frames the rear half of the outer side.\nVertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting of the outer side canvas on the rear half of the same sneaker, toward the heel, lying on the same steel worktop. Place a long wooden-handled brush with a narrow rectangular wooden back showing small holes and a working bristle face on the opposite side against this rear-half side panel. Its working bristles touch the fabric, with its perforated wooden back facing the camera and a little white foamy liquid at the contact area. The hand maintains a broad grip, with the wrist and black-sleeved forearm continuously connected to the left edge. Preserve the same loose white laces, canvas creases, sole shape and gum-brown rubber.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-02.png"
         },
         {
           "slide": 3,
-          "image_prompt": "Slide 3 is a 4:5 crop (top 40 px removed) of a two-pass generated photo: the main image is the edit pass described by the first prompt below (over an earlier generated frame, with the corrected first shot as Photo 2), and only the upper-centre strap area was then replaced from a second edit pass (second prompt below); highlight tone curve applied. Prompts: (first prompt) Photo 1 is the image to edit; Photo 2 is the corrected S1. Use the corrected S1 for the fastening-strap attachment and open-flap structure while preserving this frame's existing residual mottling and leather tone; match S1's camera position, crop, stitching, front rim, body-mounted buckle and checkerboard alignment. (second prompt) Photo 1 is the image to edit; Photo 2 is the new M01 reference with the correct strap overlap. Preserve this image's current residual mottling and leather tone while matching the new M01 reference's strap overlap, with the flap's inner leather and top-edge stitching covering the strap base and the perforated strap extending beyond the upper edge; retain the buckle, bag geometry, background and framing.",
-          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png"
+          "image_prompt": "Slide 3 is a 4:5 crop (top 250 px removed) of a generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference, Photo 2 an earlier generated frame used as the shoe reference. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established sneaker from the approved S1 image and must be matched exactly: same off-white canvas, same gum-brown rubber toe cap and sole edge, same laces and eyelets.\nVertical 9:16 portrait composition. Use approved S1 as the shoe identity reference and the supplied gum-toe shoe frames 114 through 125 as the later-appearance reference. Compose an oblique close-up of the same sneaker's outer side and collar on the scratched steel worktop. Match the reference's natural off-white canvas appearance, retaining visible tonal variation, fabric weave and existing creases. Preserve the original gum-brown rubber, metal eyelets, loose white laces and attached tongue. Frame plain exterior surfaces, with the printed insole beyond the picture boundary. Use ordinary smartphone detail and flat shop lighting. No hands.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-03.png"
         },
         {
           "slide": 4,
-          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three handwritten lines on the white card were drawn by the image generation itself, not added by a program; Photo 1 was an earlier generated frame of the same bag. Prompt: A plain white card is held in front of the same backpack shown in Photo 1, matching that exact bag and keeping it behind the card in the S9 composition. Handwrite exactly these three Traditional Chinese lines on the card, one line each: 洗後霉斑可能變黑 / 改善多少看實物 / 先講好再處理. No other writing, labels, logos, captions or subtitles.",
-          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
+          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three lines of text on the white card were drawn by the image generation itself, not added by a program. Prompt: Photo 1 is the approved S8 image and must remain the same shoe with the same natural off-white canvas, visible tonal variation, original creases, gum-brown rubber, laces and eyelets. Create a vertical 4:5 portrait image with a clean white rectangular card in front of the shoe. The shoe remains visible behind and around the card as the same S8 photograph. The card has exactly three centered lines of Traditional Chinese text, with no other text anywhere. Copy these three lines exactly, preserving every Unicode character and line break:\n晾乾泛黃先別猛刷\n拍鞋面與鞋側\n傳LINE先評估\nUse large, highly legible, correctly formed Traditional Chinese glyphs in dark charcoal on the plain white card. No logo, watermark, extra symbols, or additional lettering.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
-      "facebook_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
-      "instagram_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
+      "facebook_caption": "白帆布鞋晾乾才發黃？先別再猛刷。\n\n換季拿出白帆布鞋，發現鞋面有淡黃影？先別急著重洗。淋濕或自行清洗、晾乾後才注意到，也不能只憑顏色認定原因。\n\n送洗前先別做：反覆加不同洗劑重洗、對著黃影用力猛刷、沒評估就自行加藥。\n\n在店裡，我們這樣做：先看鞋面狀態，再依材質評估用劑與手法。刷洗時分區處理鞋口與鞋側，處理後再看布面外觀；實際方式依鞋況調整。\n\n老實說：能改善多少要看材質與實物，不保證全白，處理後仍可能有色差。圖中的棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。交期依材質與排程確認。\n\n拍整雙鞋、鞋面黃影與鞋側傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "白帆布鞋晾乾才發黃？先別再猛刷。\n\n換季拿出白帆布鞋，發現鞋面有淡黃影？先別急著重洗。淋濕或自行清洗、晾乾後才注意到，也不能只憑顏色認定原因。\n\n送洗前先別做：反覆加不同洗劑重洗、對著黃影用力猛刷、沒評估就自行加藥。\n\n在店裡，我們這樣做：先看鞋面狀態，再依材質評估用劑與手法。刷洗時分區處理鞋口與鞋側，處理後再看布面外觀；實際方式依鞋況調整。\n\n老實說：能改善多少要看材質與實物，不保證全白，處理後仍可能有色差。圖中的棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。交期依材質與排程確認。\n\n拍整雙鞋、鞋面黃影與鞋側傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-02",
-      "date": "2026-10-19",
-      "date_published": "2026-10-19T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02",
+      "date": "2026-10-20",
+      "date_published": "2026-10-20T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
-      "title": "2026-10-19 20:30 包包發霉，洗後可能變黑",
-      "topic": "包包發霉，洗後可能變黑",
+      "title": "2026-10-20 20:30 白鞋晾乾泛黃？先別猛刷",
+      "topic": "白鞋晾乾泛黃？先別猛刷",
       "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
+      "traffic_route": "dwell-detail",
       "content_role": "evidence-conversion",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "包包發霉",
-        "皮包發霉清洗",
-        "包包霉斑變黑",
-        "後背包發霉",
-        "台中包包送洗",
-        "西屯洗包"
+        "白帆布鞋泛黃",
+        "白鞋晾乾變黃",
+        "帆布鞋黃斑",
+        "白鞋送洗",
+        "台中洗鞋",
+        "西屯洗鞋"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#包包發霉",
-        "#皮件保養",
+        "#帆布鞋",
+        "#台中洗鞋",
         "#送洗前檢查"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
-      "facebook_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
-      "instagram_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
+      "facebook_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02",
+      "date": "2026-10-20",
+      "date_published": "2026-10-20T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-20 20:30 白鞋晾乾泛黃？先別猛刷",
+      "topic": "白鞋晾乾泛黃？先別猛刷",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "白帆布鞋泛黃",
+        "白鞋晾乾變黃",
+        "帆布鞋黃斑",
+        "白鞋送洗",
+        "台中洗鞋",
+        "西屯洗鞋"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#帆布鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
+      "facebook_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-01",
+      "date": "2026-10-20",
+      "date_published": "2026-10-20T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-20 11:30 白帆布鞋晾乾才發黃？先別再猛刷",
+      "topic": "白帆布鞋晾乾才發黃？先別再猛刷",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "白帆布鞋泛黃",
+        "白鞋晾乾變黃",
+        "帆布鞋黃斑",
+        "白鞋送洗",
+        "台中洗鞋",
+        "西屯洗鞋"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#帆布鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is the top 1080x1350 of the first frame of the film's first shot: the generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nVertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting, with natural exposure and clearly resolved fabric weave. Show the reference-selected low-top canvas sneaker resting on a scratched stainless-steel worktop. Frame the off-white canvas immediately behind its ribbed gum-brown rubber toe cap, the lower white laces and the metal eyelets. Match the mild canvas tone visible on this gum-toe shoe in the supplied reference. Preserve its soft creases, stitching and original brown rubber colour. The composition consists of the shoe and worktop, with plain unprinted surfaces visible. No hands.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is a 4:5 crop (top 120 px removed) of a generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference, Photo 2 and Photo 3 were earlier generated frames used as shoe and brush references. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established sneaker from the approved S1 image and must be matched exactly: same off-white canvas, same gum-brown rubber toe cap and sole edge, same laces and eyelets.\nPhoto 3 is the approved S4 image: match its brush, hand, black sleeve and white foam exactly; Photo 3 shows the front half of the shoe, but this shot frames the rear half of the outer side.\nVertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting of the outer side canvas on the rear half of the same sneaker, toward the heel, lying on the same steel worktop. Place a long wooden-handled brush with a narrow rectangular wooden back showing small holes and a working bristle face on the opposite side against this rear-half side panel. Its working bristles touch the fabric, with its perforated wooden back facing the camera and a little white foamy liquid at the contact area. The hand maintains a broad grip, with the wrist and black-sleeved forearm continuously connected to the left edge. Preserve the same loose white laces, canvas creases, sole shape and gum-brown rubber.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Slide 3 is a 4:5 crop (top 250 px removed) of a generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference, Photo 2 an earlier generated frame used as the shoe reference. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established sneaker from the approved S1 image and must be matched exactly: same off-white canvas, same gum-brown rubber toe cap and sole edge, same laces and eyelets.\nVertical 9:16 portrait composition. Use approved S1 as the shoe identity reference and the supplied gum-toe shoe frames 114 through 125 as the later-appearance reference. Compose an oblique close-up of the same sneaker's outer side and collar on the scratched steel worktop. Match the reference's natural off-white canvas appearance, retaining visible tonal variation, fabric weave and existing creases. Preserve the original gum-brown rubber, metal eyelets, loose white laces and attached tongue. Frame plain exterior surfaces, with the printed insole beyond the picture boundary. Use ordinary smartphone detail and flat shop lighting. No hands.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three lines of text on the white card were drawn by the image generation itself, not added by a program. Prompt: Photo 1 is the approved S8 image and must remain the same shoe with the same natural off-white canvas, visible tonal variation, original creases, gum-brown rubber, laces and eyelets. Create a vertical 4:5 portrait image with a clean white rectangular card in front of the shoe. The shoe remains visible behind and around the card as the same S8 photograph. The card has exactly three centered lines of Traditional Chinese text, with no other text anywhere. Copy these three lines exactly, preserving every Unicode character and line break:\n晾乾泛黃先別猛刷\n拍鞋面與鞋側\n傳LINE先評估\nUse large, highly legible, correctly formed Traditional Chinese glyphs in dark charcoal on the plain white card. No logo, watermark, extra symbols, or additional lettering.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
+      "facebook_caption": "白帆布鞋晾乾才發黃？先別再猛刷。\n\n換季拿出白帆布鞋，發現鞋面有淡黃影？先別急著重洗。淋濕或自行清洗、晾乾後才注意到，也不能只憑顏色認定原因。\n\n送洗前先別做：反覆加不同洗劑重洗、對著黃影用力猛刷、沒評估就自行加藥。\n\n在店裡，我們這樣做：先看鞋面狀態，再依材質評估用劑與手法。刷洗時分區處理鞋口與鞋側，處理後再看布面外觀；實際方式依鞋況調整。\n\n老實說：能改善多少要看材質與實物，不保證全白，處理後仍可能有色差。圖中的棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。交期依材質與排程確認。\n\n拍整雙鞋、鞋面黃影與鞋側傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "白帆布鞋晾乾才發黃？先別再猛刷。\n\n換季拿出白帆布鞋，發現鞋面有淡黃影？先別急著重洗。淋濕或自行清洗、晾乾後才注意到，也不能只憑顏色認定原因。\n\n送洗前先別做：反覆加不同洗劑重洗、對著黃影用力猛刷、沒評估就自行加藥。\n\n在店裡，我們這樣做：先看鞋面狀態，再依材質評估用劑與手法。刷洗時分區處理鞋口與鞋側，處理後再看布面外觀；實際方式依鞋況調整。\n\n老實說：能改善多少要看材質與實物，不保證全白，處理後仍可能有色差。圖中的棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。交期依材質與排程確認。\n\n拍整雙鞋、鞋面黃影與鞋側傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-02",
       "date": "2026-10-19",
@@ -3822,95 +3938,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json",
       "facebook_caption": "領口黃了，先別急著燙。\n\n先看洗標，再查領口袖口。\n\n在店裡的順序：先預處理，別急著硬刷。依照洗標，整件先洗淨。洗標允許，才用氧系漂白。處理過後，要再洗清一次。去漬結束，再照洗標燙。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查",
       "instagram_caption": "領口黃了，先別急著燙。\n\n先看洗標，再查領口袖口。\n\n在店裡的順序：先預處理，別急著硬刷。依照洗標，整件先洗淨。洗標允許，才用氧系漂白。處理過後，要再洗清一次。去漬結束，再照洗標燙。\n\n舊黃不保證能全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json#post-2026-10-05-slot-01",
-      "date": "2026-10-05",
-      "date_published": "2026-10-05T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-05 11:30 白襯衫領口黃了洗得回來嗎：先處理，再談漂",
-      "topic": "白襯衫領口黃了洗得回來嗎：先處理，再談漂",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中襯衫清洗",
-        "白襯衫領口黃",
-        "襯衫領口發黃怎麼洗",
-        "西屯洗衣店",
-        "台中洗衣店推薦",
-        "襯衫整燙"
-      ],
-      "evidence_type": "pickup-logistics",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#襯衫清洗",
-        "#台中洗衣店",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-05/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-05/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-05/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-05/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-05/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-05.json",
-      "facebook_caption": "白襯衫領口黃了洗得回來嗎：先處理，再談漂。\n\n領口內側那一圈黃，常見和汗、皮脂留在布裡、放久了變色有關；但只看顏色，不能確定是哪一種原因。\n\n送洗前先別做：拿熨斗先燙、直接倒漂白水、用力來回硬刷。\n\n在店裡，我們這樣做：先看洗標、檢查領口袖口，可拆的領撐先取出；局部測試後做預處理，給足時間再整件水洗、漂清；洗完複查，洗標允許、有需要才用氧系漂白，處理後再洗清一次；去漬結束，才照洗標整燙。\n\n老實說：比較新的領口黃有機會明顯變淡；放很多年的舊黃，不保證能回到全白。漂白過的領口，要看過實物再說。襯衫處理大約 5–7 天。\n\n拍領口內側、袖口、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查",
-      "instagram_caption": "白襯衫領口黃了洗得回來嗎：先處理，再談漂。\n\n領口內側那一圈黃，常見和汗、皮脂留在布裡、放久了變色有關；但只看顏色，不能確定是哪一種原因。\n\n送洗前先別做：拿熨斗先燙、直接倒漂白水、用力來回硬刷。\n\n在店裡，我們這樣做：先看洗標、檢查領口袖口，可拆的領撐先取出；局部測試後做預處理，給足時間再整件水洗、漂清；洗完複查，洗標允許、有需要才用氧系漂白，處理後再洗清一次；去漬結束，才照洗標整燙。\n\n老實說：比較新的領口黃有機會明顯變淡；放很多年的舊黃，不保證能回到全白。漂白過的領口，要看過實物再說。襯衫處理大約 5–7 天。\n\n拍領口內側、袖口、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #襯衫清洗 #台中洗衣店 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json#post-2026-10-04-slot-02",
-      "date": "2026-10-04",
-      "date_published": "2026-10-04T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-10-04 20:30 Gucci 托特提把變深，先排除掉色再清",
-      "topic": "Gucci 托特提把變深，先排除掉色再清",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中名牌包清潔",
-        "包包提把變黑",
-        "包角磨白怎麼辦",
-        "台中包包送洗",
-        "西屯洗包",
-        "精品包提把清潔"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#名牌包清潔",
-        "#包包提把清潔",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-04/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-04.json",
-      "facebook_caption": "提把變深，先別急著上油。\n\n這處磨白，清洗補不回。\n\n在店裡的順序：先除油，鬆開握位的油污。清洗劑稀釋，一段一段擦。帆布也擦過，不做整包浸泡。塞紙定型，立著收乾。\n\n提把清完，仍可能有色差。底角仍磨白，補色另外談。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #包包提把清潔 #送洗前檢查",
-      "instagram_caption": "提把變深，先別急著上油。\n\n這處磨白，清洗補不回。\n\n在店裡的順序：先除油，鬆開握位的油污。清洗劑稀釋，一段一段擦。帆布也擦過，不做整包浸泡。塞紙定型，立著收乾。\n\n提把清完，仍可能有色差。底角仍磨白，補色另外談。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #名牌包清潔 #包包提把清潔 #送洗前檢查"
     }
   ],
   "published_posts": [
@@ -14128,6 +14155,120 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
       "facebook_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
       "instagram_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-01",
+      "date": "2026-10-20",
+      "date_published": "2026-10-20T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-20 11:30 白帆布鞋晾乾才發黃？先別再猛刷",
+      "topic": "白帆布鞋晾乾才發黃？先別再猛刷",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "白帆布鞋泛黃",
+        "白鞋晾乾變黃",
+        "帆布鞋黃斑",
+        "白鞋送洗",
+        "台中洗鞋",
+        "西屯洗鞋"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#帆布鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is the top 1080x1350 of the first frame of the film's first shot: the generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nVertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting, with natural exposure and clearly resolved fabric weave. Show the reference-selected low-top canvas sneaker resting on a scratched stainless-steel worktop. Frame the off-white canvas immediately behind its ribbed gum-brown rubber toe cap, the lower white laces and the metal eyelets. Match the mild canvas tone visible on this gum-toe shoe in the supplied reference. Preserve its soft creases, stitching and original brown rubber colour. The composition consists of the shoe and worktop, with plain unprinted surfaces visible. No hands.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is a 4:5 crop (top 120 px removed) of a generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference, Photo 2 and Photo 3 were earlier generated frames used as shoe and brush references. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established sneaker from the approved S1 image and must be matched exactly: same off-white canvas, same gum-brown rubber toe cap and sole edge, same laces and eyelets.\nPhoto 3 is the approved S4 image: match its brush, hand, black sleeve and white foam exactly; Photo 3 shows the front half of the shoe, but this shot frames the rear half of the outer side.\nVertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting of the outer side canvas on the rear half of the same sneaker, toward the heel, lying on the same steel worktop. Place a long wooden-handled brush with a narrow rectangular wooden back showing small holes and a working bristle face on the opposite side against this rear-half side panel. Its working bristles touch the fabric, with its perforated wooden back facing the camera and a little white foamy liquid at the contact area. The hand maintains a broad grip, with the wrist and black-sleeved forearm continuously connected to the left edge. Preserve the same loose white laces, canvas creases, sole shape and gum-brown rubber.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Slide 3 is a 4:5 crop (top 250 px removed) of a generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference, Photo 2 an earlier generated frame used as the shoe reference. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established sneaker from the approved S1 image and must be matched exactly: same off-white canvas, same gum-brown rubber toe cap and sole edge, same laces and eyelets.\nVertical 9:16 portrait composition. Use approved S1 as the shoe identity reference and the supplied gum-toe shoe frames 114 through 125 as the later-appearance reference. Compose an oblique close-up of the same sneaker's outer side and collar on the scratched steel worktop. Match the reference's natural off-white canvas appearance, retaining visible tonal variation, fabric weave and existing creases. Preserve the original gum-brown rubber, metal eyelets, loose white laces and attached tongue. Frame plain exterior surfaces, with the printed insole beyond the picture boundary. Use ordinary smartphone detail and flat shop lighting. No hands.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three lines of text on the white card were drawn by the image generation itself, not added by a program. Prompt: Photo 1 is the approved S8 image and must remain the same shoe with the same natural off-white canvas, visible tonal variation, original creases, gum-brown rubber, laces and eyelets. Create a vertical 4:5 portrait image with a clean white rectangular card in front of the shoe. The shoe remains visible behind and around the card as the same S8 photograph. The card has exactly three centered lines of Traditional Chinese text, with no other text anywhere. Copy these three lines exactly, preserving every Unicode character and line break:\n晾乾泛黃先別猛刷\n拍鞋面與鞋側\n傳LINE先評估\nUse large, highly legible, correctly formed Traditional Chinese glyphs in dark charcoal on the plain white card. No logo, watermark, extra symbols, or additional lettering.",
+          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
+      "facebook_caption": "白帆布鞋晾乾才發黃？先別再猛刷。\n\n換季拿出白帆布鞋，發現鞋面有淡黃影？先別急著重洗。淋濕或自行清洗、晾乾後才注意到，也不能只憑顏色認定原因。\n\n送洗前先別做：反覆加不同洗劑重洗、對著黃影用力猛刷、沒評估就自行加藥。\n\n在店裡，我們這樣做：先看鞋面狀態，再依材質評估用劑與手法。刷洗時分區處理鞋口與鞋側，處理後再看布面外觀；實際方式依鞋況調整。\n\n老實說：能改善多少要看材質與實物，不保證全白，處理後仍可能有色差。圖中的棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。交期依材質與排程確認。\n\n拍整雙鞋、鞋面黃影與鞋側傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "白帆布鞋晾乾才發黃？先別再猛刷。\n\n換季拿出白帆布鞋，發現鞋面有淡黃影？先別急著重洗。淋濕或自行清洗、晾乾後才注意到，也不能只憑顏色認定原因。\n\n送洗前先別做：反覆加不同洗劑重洗、對著黃影用力猛刷、沒評估就自行加藥。\n\n在店裡，我們這樣做：先看鞋面狀態，再依材質評估用劑與手法。刷洗時分區處理鞋口與鞋側，處理後再看布面外觀；實際方式依鞋況調整。\n\n老實說：能改善多少要看材質與實物，不保證全白，處理後仍可能有色差。圖中的棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。交期依材質與排程確認。\n\n拍整雙鞋、鞋面黃影與鞋側傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02",
+      "date": "2026-10-20",
+      "date_published": "2026-10-20T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-20 20:30 白鞋晾乾泛黃？先別猛刷",
+      "topic": "白鞋晾乾泛黃？先別猛刷",
+      "visual_route": "shop-inspection",
+      "traffic_route": "dwell-detail",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "白帆布鞋泛黃",
+        "白鞋晾乾變黃",
+        "帆布鞋黃斑",
+        "白鞋送洗",
+        "台中洗鞋",
+        "西屯洗鞋"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#帆布鞋",
+        "#台中洗鞋",
+        "#送洗前檢查"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
+      "facebook_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
+      "instagram_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
     }
   ]
 }
