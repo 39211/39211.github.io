@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:00:08.901Z",
+  "generated_at": "2026-10-21T13:15:07.517Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -13959,6 +13959,58 @@
       }
     },
     {
+      "id": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "topic": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#一件也收"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-pickup-916.mp4",
+      "calendar_path": "feature-reels/2026-10-21.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-10-21-feature-card-pickup-20261021.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-feature-card-pickup-20261021.html",
+      "url": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
+      "facebook_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-pickup-20261021 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
+      "instagram_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估：LINE 0968327653\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
+      "youtube_video": {
+        "video_id": "M_foOtCsgj8",
+        "embed_url": "https://www.youtube-nocookie.com/embed/M_foOtCsgj8",
+        "watch_url": "https://www.youtube.com/shorts/M_foOtCsgj8",
+        "thumbnail_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
+        "upload_date": "2026-10-21T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
+    {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
       "date": "2026-10-21",
       "date_published": "2026-10-21T11:30:00+08:00",
@@ -14096,7 +14148,14 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-slot-02.html",
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
       "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
-      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "youtube_video": {
+        "video_id": "Qy1-aADQyU4",
+        "embed_url": "https://www.youtube-nocookie.com/embed/Qy1-aADQyU4",
+        "watch_url": "https://www.youtube.com/shorts/Qy1-aADQyU4",
+        "thumbnail_url": "https://i.ytimg.com/vi/Qy1-aADQyU4/hqdefault.jpg",
+        "upload_date": "2026-10-21T13:15:00.000Z"
+      }
     }
   ],
   "article_posts": [
@@ -27394,7 +27453,14 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-slot-02.html",
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
       "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
-      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "youtube_video": {
+        "video_id": "Qy1-aADQyU4",
+        "embed_url": "https://www.youtube-nocookie.com/embed/Qy1-aADQyU4",
+        "watch_url": "https://www.youtube.com/shorts/Qy1-aADQyU4",
+        "thumbnail_url": "https://i.ytimg.com/vi/Qy1-aADQyU4/hqdefault.jpg",
+        "upload_date": "2026-10-21T13:15:00.000Z"
+      }
     },
     {
       "id": "urn:sixiangjia:feature:2026-09-15:shoewash-full-process-v3",
@@ -27503,6 +27569,58 @@
         "watch_url": "https://www.youtube.com/shorts/oF3OETEwQiU",
         "thumbnail_url": "https://i.ytimg.com/vi/oF3OETEwQiU/hqdefault.jpg",
         "upload_date": "2026-10-20T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "topic": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#一件也收"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-pickup-916.mp4",
+      "calendar_path": "feature-reels/2026-10-21.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-10-21-feature-card-pickup-20261021.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-feature-card-pickup-20261021.html",
+      "url": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
+      "facebook_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-pickup-20261021 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
+      "instagram_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估：LINE 0968327653\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
+      "youtube_video": {
+        "video_id": "M_foOtCsgj8",
+        "embed_url": "https://www.youtube-nocookie.com/embed/M_foOtCsgj8",
+        "watch_url": "https://www.youtube.com/shorts/M_foOtCsgj8",
+        "thumbnail_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
+        "upload_date": "2026-10-21T06:00:00.000Z"
       },
       "feature_reel": true
     }

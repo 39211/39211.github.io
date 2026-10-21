@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-10-21T05:00:08.901Z",
+  "generated_at": "2026-10-21T13:15:07.517Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -663,6 +663,7 @@
       "https://i.ytimg.com/vi/oF3OETEwQiU/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
+      "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -2163,10 +2164,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 221,
+      "indexable_article_count": 222,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 221
+      "article_count": 222
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2179,18 +2180,52 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 231,
+    "post_count": 232,
     "latest_date": "2026-10-21",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 151,
+    "posts_with_search_intent": 152,
     "posts_with_target_queries": 151,
-    "posts_with_evidence_type": 127
+    "posts_with_evidence_type": 128
   },
   "latest_date": "2026-10-21",
   "latest_posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "topic": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#一件也收"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-pickup-916.mp4",
+      "facebook_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-pickup-20261021 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
+      "instagram_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估：LINE 0968327653\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
       "date": "2026-10-21",
@@ -2420,6 +2455,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
       "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
       "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "topic": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#一件也收"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-pickup-916.mp4",
+      "facebook_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-pickup-20261021 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
+      "instagram_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估：LINE 0968327653\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02",
@@ -3911,49 +3980,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-08.json",
       "facebook_caption": "麂皮外套發花、絨面塌了：送洗前先看這三件事。\n\n麂皮外套穿一陣子，常見三種狀況一起出現：前幅一塊顏色發花、絨毛被壓塌、袖口和前襟卡灰。發花和塌絨多半是摩擦和髒污疊在一起，可以救回一些，但不一定回到原本的樣子。\n\n送洗前先別做：整件丟進洗衣機、拿濕布用力來回擦、用吹風機貼著吹。\n\n在店裡，我們這樣做：先看洗標和皮況，材質、掉色與用劑先確認；外套平放固定，分區輕搓；確認用劑，再分區噴；裡布、拉鍊也一起檢查；氣槍掃過浮屑；袖管換塊輕搓，不用硬磨；最後掛起分區噴，完成收尾。\n\n老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。皮件交期大約 14 天。\n\n拍洗標、發花的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查",
       "instagram_caption": "麂皮外套發花、絨面塌了：送洗前先看這三件事。\n\n麂皮外套穿一陣子，常見三種狀況一起出現：前幅一塊顏色發花、絨毛被壓塌、袖口和前襟卡灰。發花和塌絨多半是摩擦和髒污疊在一起，可以救回一些，但不一定回到原本的樣子。\n\n送洗前先別做：整件丟進洗衣機、拿濕布用力來回擦、用吹風機貼著吹。\n\n在店裡，我們這樣做：先看洗標和皮況，材質、掉色與用劑先確認；外套平放固定，分區輕搓；確認用劑，再分區噴；裡布、拉鍊也一起檢查；氣槍掃過浮屑；袖管換塊輕搓，不用硬磨；最後掛起分區噴，完成收尾。\n\n老實說：塌掉的絨毛可以救回一些，深色的印子不保證全消；完成收乾後我們會再複查一次。皮件交期大約 14 天。\n\n拍洗標、發花的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #麂皮外套 #皮衣清潔 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json#post-2026-10-07-slot-02",
-      "date": "2026-10-07",
-      "date_published": "2026-10-07T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-10-07 20:30 AF1 鞋頭摺痕，洗得掉的是溝裡的灰",
-      "topic": "AF1 鞋頭摺痕，洗得掉的是溝裡的灰",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中洗鞋",
-        "AF1 鞋頭摺痕",
-        "白鞋鞋邊發黃",
-        "西屯洗鞋",
-        "台中洗鞋推薦",
-        "AF1 清洗"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗鞋",
-        "#台中洗鞋",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json",
-      "facebook_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查",
-      "instagram_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查"
     }
   ],
   "published_posts": [
@@ -14319,6 +14345,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
       "facebook_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
       "instagram_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "topic": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#一件也收"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-pickup-916.mp4",
+      "facebook_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-pickup-20261021 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
+      "instagram_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估：LINE 0968327653\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",

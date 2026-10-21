@@ -329,6 +329,7 @@
         "https://i.ytimg.com/vi/oF3OETEwQiU/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
+        "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -14554,6 +14555,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
       "caption": "白鞋晾乾泛黃？先別猛刷",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
+      "headline": "只有一件，也能叫收送嗎｜私享家洗衣店",
+      "text": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-pickup-20261021 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
+      "datePublished": "2026-10-21T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#一件也收"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021:image",
+      "contentUrl": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
+      "caption": "只有一件，也能叫收送嗎｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {

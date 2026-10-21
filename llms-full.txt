@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-21T05:00:08.901Z
+- Generated at: 2026-10-21T13:15:07.517Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -421,6 +421,7 @@
     "https://i.ytimg.com/vi/oF3OETEwQiU/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
+    "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -12098,6 +12099,55 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查
+
+### 只有一件，也能叫收送嗎｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-10-21:card-pickup-20261021
+- published local time: 2026-10-21T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收
+- image: https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+只有一件，也能叫收送嗎？可以。
+
+台中全市免費到府收送，沒有最低消費。
+不會因為件數少就不收，也不限西屯。
+免費的是路程，不是清潔；洗護費依物件另計。
+
+流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。
+我會先看照片上你最在意的那個位置，再跟你約時間。
+
+交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。
+
+拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-pickup-20261021 （或加 LINE：0968327653）
+
+#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收
+
+Instagram caption:
+
+只有一件，也能叫收送嗎？可以。
+
+台中全市免費到府收送，沒有最低消費。
+不會因為件數少就不收，也不限西屯。
+免費的是路程，不是清潔；洗護費依物件另計。
+
+流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。
+我會先看照片上你最在意的那個位置，再跟你約時間。
+
+交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。
+
+拍照傳 LINE，先評估：LINE 0968327653
+
+#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收
 
 ### 2026-10-21 11:30 上班不在家，送洗還得另外找時間？
 
