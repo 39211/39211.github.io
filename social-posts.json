@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T13:15:09.702Z",
+  "generated_at": "2026-10-21T01:12:04.883Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -9,7 +9,7 @@
   "image_base_url": "https://sixiangjialaundry.com",
   "image_base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "latest_date": "2026-10-20",
+  "latest_date": "2026-10-21",
   "open_graph": {
     "title": "私享家洗衣店｜台中洗衣洗鞋洗包・全市免費收送・價格公開",
     "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
@@ -13957,6 +13957,145 @@
         "thumbnail_url": "https://i.ytimg.com/vi/v0_YcbbmG9Y/hqdefault.jpg",
         "upload_date": "2026-10-20T13:15:00.000Z"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-21 11:30 上班不在家，送洗還得另外找時間？",
+      "topic": "上班不在家，送洗還得另外找時間？",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-21/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-21/slot-01.png",
+        "assets/2026-10-21/slot-01-slide-02.png",
+        "assets/2026-10-21/slot-01-slide-03.png",
+        "assets/2026-10-21/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is frame 60 (2.0 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/A1-1.mp4 (sha256 9e8734af35b2ca2b, via hermes xAI OAuth) at 2.3 s, whose first frame is the generated photo described below (best-s4/A1.png, sha256 ca33554051ea0a47); the frame is cropped to {'x0': 0, 'y0': 410, 'x1': 1080, 'y1': 1760} and scaled x1.0 to 1080x1350; the text (title 上班不在家，也能送洗 and line 先在 LINE 約好，再寄放) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: She starts walking immediately at a brisk real-life commuting pace and keeps that quick efficient speed through the whole four-second shot. The camera tracks forward behind her at the same walking pace with a small natural handheld sway, keeping her back and the beige sack clear while the counter, bronze screens, and ink painting show gentle parallax. Her right hand keeps the sack low beside her thigh, the cloth bag bumps lightly once per step, her free arm swings opposite the stepping leg, and her hair follows with a small delay. She covers real ground toward the counter and does not drift or float. The lobby already visible in the opening frame remains the whole set. Sound: light footsteps and quiet lobby air. Prompt of the first frame: Vertical 9:16, photorealistic live-action frame. Match the selected lobby reference: circular ceiling recess, crystal chandelier, cream marble, bronze latticework, ink landscape painting and tall windows. An adult woman with straight, shoulder-length dark hair wears a light-gray blazer, white top, black trousers and plain black flats. Seen from directly behind, she is mid-stride toward the existing counter, shoulders slightly tense with commuting urgency. Her right hand already carries the reference beige drawstring laundry sack low beside her thigh. A small, softly focused concierge stands behind the counter in a plain navy suit, white shirt and dark tie; his chest and lapels are continuous navy fabric. Frame the resident prominently beneath the established architecture. Sound: restrained lobby ambience.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is frame 459 (15.3 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/P2-2.mp4 (sha256 8dffb5398e94c01d, via hermes xAI OAuth) at 1.167 s, whose first frame is the generated photo described below (best-v6/P2.png, sha256 d7829570def3707e); the frame is cropped to {'x0': 0, 'y0': 450, 'x1': 1080, 'y1': 1800} and scaled x1.0 to 1080x1350; the text (title 領口，再順一下 and line 不只收送，也把衣服整理好) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: One black-sleeved hand lightly steadies the folded shirt while the other hand smooths the one small uneven section of the collar flat in a single compact action. The motion is delicate but practical, then the hand rests for about half a second after the collar is corrected. The shirt stays fully supported on the worktop and the camera remains fixed. Sound: a soft cotton touch and faint workroom air. Prompt of the first frame: Use 1021-owner-look-M1b plus the owner’s personal photo for the worker’s sleeve and hand continuity. Create a vertical 9:16 photorealistic close tabletop still in neutral workroom daylight. A folded clean white shirt lies on a plain pale work surface. The shirt is already neatly folded except that one small section of the collar is slightly uneven and not fully smooth. One black-sleeved hand lightly steadies the shirt near the body panel, while the other black-sleeved hand is just about to smooth that one imperfect collar section flat. Keep the composition tight on the shirt and hands. The fabric weave, clean fold lines, and collar shape should be clear. The background is a softly focused plain laundry work area with no labels or visible text.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 21.833333 s; frame 655; crop={'x0': 80, 'y0': 140, 'x1': 1070, 'y1': 1378}; scale=1.090909; text={'title': '包好，再送回管理室', 'small': '壓縮袋裝藍袋，送回也傳照'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 27.666667 s; frame 830; crop={'x0': 0, 'y0': 200, 'x1': 1080, 'y1': 1550}; scale=1.0; text={'title': '你忙你的，衣服我們來照顧', 'small': '加 LINE，說管理室收送'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-21.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "article_path": "posts/2026-10-21-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-10-21 20:30 不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "topic": "不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-21/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
+      "image_paths": [
+        "assets/2026-10-21/slot-02.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-10-21/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-21.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "article_path": "posts/2026-10-21-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
     }
   ],
   "article_posts": [
@@ -27115,6 +27254,145 @@
         "thumbnail_url": "https://i.ytimg.com/vi/v0_YcbbmG9Y/hqdefault.jpg",
         "upload_date": "2026-10-20T13:15:00.000Z"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "title": "2026-10-21 11:30 上班不在家，送洗還得另外找時間？",
+      "topic": "上班不在家，送洗還得另外找時間？",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-21/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+      "image_paths": [
+        "assets/2026-10-21/slot-01.png",
+        "assets/2026-10-21/slot-01-slide-02.png",
+        "assets/2026-10-21/slot-01-slide-03.png",
+        "assets/2026-10-21/slot-01-slide-04.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is frame 60 (2.0 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/A1-1.mp4 (sha256 9e8734af35b2ca2b, via hermes xAI OAuth) at 2.3 s, whose first frame is the generated photo described below (best-s4/A1.png, sha256 ca33554051ea0a47); the frame is cropped to {'x0': 0, 'y0': 410, 'x1': 1080, 'y1': 1760} and scaled x1.0 to 1080x1350; the text (title 上班不在家，也能送洗 and line 先在 LINE 約好，再寄放) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: She starts walking immediately at a brisk real-life commuting pace and keeps that quick efficient speed through the whole four-second shot. The camera tracks forward behind her at the same walking pace with a small natural handheld sway, keeping her back and the beige sack clear while the counter, bronze screens, and ink painting show gentle parallax. Her right hand keeps the sack low beside her thigh, the cloth bag bumps lightly once per step, her free arm swings opposite the stepping leg, and her hair follows with a small delay. She covers real ground toward the counter and does not drift or float. The lobby already visible in the opening frame remains the whole set. Sound: light footsteps and quiet lobby air. Prompt of the first frame: Vertical 9:16, photorealistic live-action frame. Match the selected lobby reference: circular ceiling recess, crystal chandelier, cream marble, bronze latticework, ink landscape painting and tall windows. An adult woman with straight, shoulder-length dark hair wears a light-gray blazer, white top, black trousers and plain black flats. Seen from directly behind, she is mid-stride toward the existing counter, shoulders slightly tense with commuting urgency. Her right hand already carries the reference beige drawstring laundry sack low beside her thigh. A small, softly focused concierge stands behind the counter in a plain navy suit, white shirt and dark tie; his chest and lapels are continuous navy fabric. Frame the resident prominently beneath the established architecture. Sound: restrained lobby ambience.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is frame 459 (15.3 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/P2-2.mp4 (sha256 8dffb5398e94c01d, via hermes xAI OAuth) at 1.167 s, whose first frame is the generated photo described below (best-v6/P2.png, sha256 d7829570def3707e); the frame is cropped to {'x0': 0, 'y0': 450, 'x1': 1080, 'y1': 1800} and scaled x1.0 to 1080x1350; the text (title 領口，再順一下 and line 不只收送，也把衣服整理好) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: One black-sleeved hand lightly steadies the folded shirt while the other hand smooths the one small uneven section of the collar flat in a single compact action. The motion is delicate but practical, then the hand rests for about half a second after the collar is corrected. The shirt stays fully supported on the worktop and the camera remains fixed. Sound: a soft cotton touch and faint workroom air. Prompt of the first frame: Use 1021-owner-look-M1b plus the owner’s personal photo for the worker’s sleeve and hand continuity. Create a vertical 9:16 photorealistic close tabletop still in neutral workroom daylight. A folded clean white shirt lies on a plain pale work surface. The shirt is already neatly folded except that one small section of the collar is slightly uneven and not fully smooth. One black-sleeved hand lightly steadies the shirt near the body panel, while the other black-sleeved hand is just about to smooth that one imperfect collar section flat. Keep the composition tight on the shirt and hands. The fabric weave, clean fold lines, and collar shape should be clear. The background is a softly focused plain laundry work area with no labels or visible text.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 21.833333 s; frame 655; crop={'x0': 80, 'y0': 140, 'x1': 1070, 'y1': 1378}; scale=1.090909; text={'title': '包好，再送回管理室', 'small': '壓縮袋裝藍袋，送回也傳照'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 27.666667 s; frame 830; crop={'x0': 0, 'y0': 200, 'x1': 1080, 'y1': 1550}; scale=1.0; text={'title': '你忙你的，衣服我們來照顧', 'small': '加 LINE，說管理室收送'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_path": "",
+      "video_url": "",
+      "calendar_path": "content-calendar/2026-10-21.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "article_path": "posts/2026-10-21-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "title": "2026-10-21 20:30 不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "topic": "不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "assets/2026-10-21/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
+      "image_paths": [
+        "assets/2026-10-21/slot-02.png"
+      ],
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "assets/2026-10-21/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-21.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "article_path": "posts/2026-10-21-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
     },
     {
       "id": "urn:sixiangjia:feature:2026-09-15:shoewash-full-process-v3",

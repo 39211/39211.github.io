@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-10-20T13:15:09.702Z",
+  "generated_at": "2026-10-21T01:12:04.883Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -663,6 +663,8 @@
       "https://i.ytimg.com/vi/oF3OETEwQiU/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
+      "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2161,10 +2163,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 219,
+      "indexable_article_count": 221,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 219
+      "article_count": 221
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2177,168 +2179,248 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 229,
-    "latest_date": "2026-10-20",
+    "post_count": 231,
+    "latest_date": "2026-10-21",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": true,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 149,
-    "posts_with_target_queries": 149,
+    "posts_with_search_intent": 151,
+    "posts_with_target_queries": 151,
     "posts_with_evidence_type": 127
   },
-  "latest_date": "2026-10-20",
+  "latest_date": "2026-10-21",
   "latest_posts": [
     {
-      "id": "urn:sixiangjia:feature:2026-10-20:card-mold-20261020",
-      "date": "2026-10-20",
-      "date_published": "2026-10-20T06:00:00.000Z",
-      "slot": 0,
-      "time": "14:00",
-      "title": "包包發霉了？先別擦｜私享家洗衣店",
-      "topic": "包包發霉了？先別擦｜私享家洗衣店",
-      "visual_route": "feature-reel",
-      "traffic_route": "feature-reel",
-      "content_role": "reach-answer",
-      "search_intent": "social-video",
-      "target_queries": [],
-      "evidence_type": "published-feature-reel",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中洗衣店",
-        "#包包發霉",
-        "#精品包清潔",
-        "#皮革保養"
-      ],
-      "platforms": [
-        "facebook",
-        "youtube",
-        "instagram"
-      ],
-      "image_url": "https://i.ytimg.com/vi/oF3OETEwQiU/hqdefault.jpg",
-      "image_urls": [],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-mold-916.mp4",
-      "facebook_caption": "包包發霉了？先別擦。\n\n白白一層浮在皮面上，第一個反應常是拿濕布用力擦。\n那會把霉推進皮革毛孔，還可能留下色斑。\n用酒精也一樣，會帶走皮革油脂，造成乾裂與色差。\n\n我會先看霉是浮在表面，還是已經吃進皮層。\n內裡、五金、縫線一起看；內裡的霉味不處理，外面再乾淨也會再犯。\n能改善到哪先說清楚，不保證全新，再由你決定。\n\n傳 LINE 前先拍三張：整體照、發霉位置特寫、內裡照。\n皮件交期約 14 天，依皮況與排程確認；台中全市免費收送。\n\n拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-mold-20261020 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #包包發霉 #精品包清潔 #皮革保養",
-      "instagram_caption": "包包發霉了？先別擦。\n\n白白一層浮在皮面上，第一個反應常是拿濕布用力擦。\n那會把霉推進皮革毛孔，還可能留下色斑。\n用酒精也一樣，會帶走皮革油脂，造成乾裂與色差。\n\n我會先看霉是浮在表面，還是已經吃進皮層。\n內裡、五金、縫線一起看；內裡的霉味不處理，外面再乾淨也會再犯。\n能改善到哪先說清楚，不保證全新，再由你決定。\n\n傳 LINE 前先拍三張：整體照、發霉位置特寫、內裡照。\n皮件交期約 14 天，依皮況與排程確認；台中全市免費收送。\n\n拍照傳 LINE，先評估：LINE 0968327653\n\n#私享家洗衣店 #台中洗衣店 #包包發霉 #精品包清潔 #皮革保養"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-01",
-      "date": "2026-10-20",
-      "date_published": "2026-10-20T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-10-20 11:30 白帆布鞋晾乾才發黃？先別再猛刷",
-      "topic": "白帆布鞋晾乾才發黃？先別再猛刷",
-      "visual_route": "macro-detail",
-      "traffic_route": "dwell-detail",
+      "title": "2026-10-21 11:30 上班不在家，送洗還得另外找時間？",
+      "topic": "上班不在家，送洗還得另外找時間？",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "白帆布鞋泛黃",
-        "白鞋晾乾變黃",
-        "帆布鞋黃斑",
-        "白鞋送洗",
-        "台中洗鞋",
-        "西屯洗鞋"
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#帆布鞋",
-        "#台中洗鞋",
-        "#送洗前檢查"
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
-          "image_prompt": "Slide 1 is the top 1080x1350 of the first frame of the film's first shot: the generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nVertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting, with natural exposure and clearly resolved fabric weave. Show the reference-selected low-top canvas sneaker resting on a scratched stainless-steel worktop. Frame the off-white canvas immediately behind its ribbed gum-brown rubber toe cap, the lower white laces and the metal eyelets. Match the mild canvas tone visible on this gum-toe shoe in the supplied reference. Preserve its soft creases, stitching and original brown rubber colour. The composition consists of the shoe and worktop, with plain unprinted surfaces visible. No hands.",
-          "local_image_path": "docs/assets/2026-10-20/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01.png"
+          "image_prompt": "Slide 1 is frame 60 (2.0 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/A1-1.mp4 (sha256 9e8734af35b2ca2b, via hermes xAI OAuth) at 2.3 s, whose first frame is the generated photo described below (best-s4/A1.png, sha256 ca33554051ea0a47); the frame is cropped to {'x0': 0, 'y0': 410, 'x1': 1080, 'y1': 1760} and scaled x1.0 to 1080x1350; the text (title 上班不在家，也能送洗 and line 先在 LINE 約好，再寄放) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: She starts walking immediately at a brisk real-life commuting pace and keeps that quick efficient speed through the whole four-second shot. The camera tracks forward behind her at the same walking pace with a small natural handheld sway, keeping her back and the beige sack clear while the counter, bronze screens, and ink painting show gentle parallax. Her right hand keeps the sack low beside her thigh, the cloth bag bumps lightly once per step, her free arm swings opposite the stepping leg, and her hair follows with a small delay. She covers real ground toward the counter and does not drift or float. The lobby already visible in the opening frame remains the whole set. Sound: light footsteps and quiet lobby air. Prompt of the first frame: Vertical 9:16, photorealistic live-action frame. Match the selected lobby reference: circular ceiling recess, crystal chandelier, cream marble, bronze latticework, ink landscape painting and tall windows. An adult woman with straight, shoulder-length dark hair wears a light-gray blazer, white top, black trousers and plain black flats. Seen from directly behind, she is mid-stride toward the existing counter, shoulders slightly tense with commuting urgency. Her right hand already carries the reference beige drawstring laundry sack low beside her thigh. A small, softly focused concierge stands behind the counter in a plain navy suit, white shirt and dark tie; his chest and lapels are continuous navy fabric. Frame the resident prominently beneath the established architecture. Sound: restrained lobby ambience.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png"
         },
         {
           "slide": 2,
-          "image_prompt": "Slide 2 is a 4:5 crop (top 120 px removed) of a generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference, Photo 2 and Photo 3 were earlier generated frames used as shoe and brush references. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established sneaker from the approved S1 image and must be matched exactly: same off-white canvas, same gum-brown rubber toe cap and sole edge, same laces and eyelets.\nPhoto 3 is the approved S4 image: match its brush, hand, black sleeve and white foam exactly; Photo 3 shows the front half of the shoe, but this shot frames the rear half of the outer side.\nVertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting of the outer side canvas on the rear half of the same sneaker, toward the heel, lying on the same steel worktop. Place a long wooden-handled brush with a narrow rectangular wooden back showing small holes and a working bristle face on the opposite side against this rear-half side panel. Its working bristles touch the fabric, with its perforated wooden back facing the camera and a little white foamy liquid at the contact area. The hand maintains a broad grip, with the wrist and black-sleeved forearm continuously connected to the left edge. Preserve the same loose white laces, canvas creases, sole shape and gum-brown rubber.",
-          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-02.png"
+          "image_prompt": "Slide 2 is frame 459 (15.3 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/P2-2.mp4 (sha256 8dffb5398e94c01d, via hermes xAI OAuth) at 1.167 s, whose first frame is the generated photo described below (best-v6/P2.png, sha256 d7829570def3707e); the frame is cropped to {'x0': 0, 'y0': 450, 'x1': 1080, 'y1': 1800} and scaled x1.0 to 1080x1350; the text (title 領口，再順一下 and line 不只收送，也把衣服整理好) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: One black-sleeved hand lightly steadies the folded shirt while the other hand smooths the one small uneven section of the collar flat in a single compact action. The motion is delicate but practical, then the hand rests for about half a second after the collar is corrected. The shirt stays fully supported on the worktop and the camera remains fixed. Sound: a soft cotton touch and faint workroom air. Prompt of the first frame: Use 1021-owner-look-M1b plus the owner’s personal photo for the worker’s sleeve and hand continuity. Create a vertical 9:16 photorealistic close tabletop still in neutral workroom daylight. A folded clean white shirt lies on a plain pale work surface. The shirt is already neatly folded except that one small section of the collar is slightly uneven and not fully smooth. One black-sleeved hand lightly steadies the shirt near the body panel, while the other black-sleeved hand is just about to smooth that one imperfect collar section flat. Keep the composition tight on the shirt and hands. The fabric weave, clean fold lines, and collar shape should be clear. The background is a softly focused plain laundry work area with no labels or visible text.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png"
         },
         {
           "slide": 3,
-          "image_prompt": "Slide 3 is a 4:5 crop (top 250 px removed) of a generated photo described below, upscaled and cropped to 1080x1920, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference, Photo 2 an earlier generated frame used as the shoe reference. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established sneaker from the approved S1 image and must be matched exactly: same off-white canvas, same gum-brown rubber toe cap and sole edge, same laces and eyelets.\nVertical 9:16 portrait composition. Use approved S1 as the shoe identity reference and the supplied gum-toe shoe frames 114 through 125 as the later-appearance reference. Compose an oblique close-up of the same sneaker's outer side and collar on the scratched steel worktop. Match the reference's natural off-white canvas appearance, retaining visible tonal variation, fabric weave and existing creases. Preserve the original gum-brown rubber, metal eyelets, loose white laces and attached tongue. Frame plain exterior surfaces, with the printed insole beyond the picture boundary. Use ordinary smartphone detail and flat shop lighting. No hands.",
-          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-03.png"
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 21.833333 s; frame 655; crop={'x0': 80, 'y0': 140, 'x1': 1070, 'y1': 1378}; scale=1.090909; text={'title': '包好，再送回管理室', 'small': '壓縮袋裝藍袋，送回也傳照'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png"
         },
         {
           "slide": 4,
-          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three lines of text on the white card were drawn by the image generation itself, not added by a program. Prompt: Photo 1 is the approved S8 image and must remain the same shoe with the same natural off-white canvas, visible tonal variation, original creases, gum-brown rubber, laces and eyelets. Create a vertical 4:5 portrait image with a clean white rectangular card in front of the shoe. The shoe remains visible behind and around the card as the same S8 photograph. The card has exactly three centered lines of Traditional Chinese text, with no other text anywhere. Copy these three lines exactly, preserving every Unicode character and line break:\n晾乾泛黃先別猛刷\n拍鞋面與鞋側\n傳LINE先評估\nUse large, highly legible, correctly formed Traditional Chinese glyphs in dark charcoal on the plain white card. No logo, watermark, extra symbols, or additional lettering.",
-          "local_image_path": "docs/assets/2026-10-20/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-01-slide-04.png"
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 27.666667 s; frame 830; crop={'x0': 0, 'y0': 200, 'x1': 1080, 'y1': 1550}; scale=1.0; text={'title': '你忙你的，衣服我們來照顧', 'small': '加 LINE，說管理室收送'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
         }
       ],
       "media_type": "carousel",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
-      "facebook_caption": "白帆布鞋晾乾才發黃？先別再猛刷。\n\n換季拿出白帆布鞋，發現鞋面有淡黃影？先別急著重洗。淋濕或自行清洗、晾乾後才注意到，也不能只憑顏色認定原因。\n\n送洗前先別做：反覆加不同洗劑重洗、對著黃影用力猛刷、沒評估就自行加藥。\n\n在店裡，我們這樣做：先看鞋面狀態，再依材質評估用劑與手法。刷洗時分區處理鞋口與鞋側，處理後再看布面外觀；實際方式依鞋況調整。\n\n老實說：能改善多少要看材質與實物，不保證全白，處理後仍可能有色差。圖中的棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。交期依材質與排程確認。\n\n拍整雙鞋、鞋面黃影與鞋側傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
-      "instagram_caption": "白帆布鞋晾乾才發黃？先別再猛刷。\n\n換季拿出白帆布鞋，發現鞋面有淡黃影？先別急著重洗。淋濕或自行清洗、晾乾後才注意到，也不能只憑顏色認定原因。\n\n送洗前先別做：反覆加不同洗劑重洗、對著黃影用力猛刷、沒評估就自行加藥。\n\n在店裡，我們這樣做：先看鞋面狀態，再依材質評估用劑與手法。刷洗時分區處理鞋口與鞋側，處理後再看布面外觀；實際方式依鞋況調整。\n\n老實說：能改善多少要看材質與實物，不保證全白，處理後仍可能有色差。圖中的棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。交期依材質與排程確認。\n\n拍整雙鞋、鞋面黃影與鞋側傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02",
-      "date": "2026-10-20",
-      "date_published": "2026-10-20T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
-      "title": "2026-10-20 20:30 白鞋晾乾泛黃？先別猛刷",
-      "topic": "白鞋晾乾泛黃？先別猛刷",
+      "title": "2026-10-21 20:30 不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "topic": "不在家也能收送：管理室收件、送回都拍照傳 LINE",
       "visual_route": "shop-inspection",
-      "traffic_route": "dwell-detail",
+      "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
       "search_intent": "problem-diagnosis",
       "target_queries": [
-        "白帆布鞋泛黃",
-        "白鞋晾乾變黃",
-        "帆布鞋黃斑",
-        "白鞋送洗",
-        "台中洗鞋",
-        "西屯洗鞋"
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
       ],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
-        "#帆布鞋",
-        "#台中洗鞋",
-        "#送洗前檢查"
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
-      "facebook_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
-      "instagram_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-21 20:30 不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "topic": "不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-21 11:30 上班不在家，送洗還得另外找時間？",
+      "topic": "上班不在家，送洗還得另外找時間？",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is frame 60 (2.0 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/A1-1.mp4 (sha256 9e8734af35b2ca2b, via hermes xAI OAuth) at 2.3 s, whose first frame is the generated photo described below (best-s4/A1.png, sha256 ca33554051ea0a47); the frame is cropped to {'x0': 0, 'y0': 410, 'x1': 1080, 'y1': 1760} and scaled x1.0 to 1080x1350; the text (title 上班不在家，也能送洗 and line 先在 LINE 約好，再寄放) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: She starts walking immediately at a brisk real-life commuting pace and keeps that quick efficient speed through the whole four-second shot. The camera tracks forward behind her at the same walking pace with a small natural handheld sway, keeping her back and the beige sack clear while the counter, bronze screens, and ink painting show gentle parallax. Her right hand keeps the sack low beside her thigh, the cloth bag bumps lightly once per step, her free arm swings opposite the stepping leg, and her hair follows with a small delay. She covers real ground toward the counter and does not drift or float. The lobby already visible in the opening frame remains the whole set. Sound: light footsteps and quiet lobby air. Prompt of the first frame: Vertical 9:16, photorealistic live-action frame. Match the selected lobby reference: circular ceiling recess, crystal chandelier, cream marble, bronze latticework, ink landscape painting and tall windows. An adult woman with straight, shoulder-length dark hair wears a light-gray blazer, white top, black trousers and plain black flats. Seen from directly behind, she is mid-stride toward the existing counter, shoulders slightly tense with commuting urgency. Her right hand already carries the reference beige drawstring laundry sack low beside her thigh. A small, softly focused concierge stands behind the counter in a plain navy suit, white shirt and dark tie; his chest and lapels are continuous navy fabric. Frame the resident prominently beneath the established architecture. Sound: restrained lobby ambience.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is frame 459 (15.3 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/P2-2.mp4 (sha256 8dffb5398e94c01d, via hermes xAI OAuth) at 1.167 s, whose first frame is the generated photo described below (best-v6/P2.png, sha256 d7829570def3707e); the frame is cropped to {'x0': 0, 'y0': 450, 'x1': 1080, 'y1': 1800} and scaled x1.0 to 1080x1350; the text (title 領口，再順一下 and line 不只收送，也把衣服整理好) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: One black-sleeved hand lightly steadies the folded shirt while the other hand smooths the one small uneven section of the collar flat in a single compact action. The motion is delicate but practical, then the hand rests for about half a second after the collar is corrected. The shirt stays fully supported on the worktop and the camera remains fixed. Sound: a soft cotton touch and faint workroom air. Prompt of the first frame: Use 1021-owner-look-M1b plus the owner’s personal photo for the worker’s sleeve and hand continuity. Create a vertical 9:16 photorealistic close tabletop still in neutral workroom daylight. A folded clean white shirt lies on a plain pale work surface. The shirt is already neatly folded except that one small section of the collar is slightly uneven and not fully smooth. One black-sleeved hand lightly steadies the shirt near the body panel, while the other black-sleeved hand is just about to smooth that one imperfect collar section flat. Keep the composition tight on the shirt and hands. The fabric weave, clean fold lines, and collar shape should be clear. The background is a softly focused plain laundry work area with no labels or visible text.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 21.833333 s; frame 655; crop={'x0': 80, 'y0': 140, 'x1': 1070, 'y1': 1378}; scale=1.090909; text={'title': '包好，再送回管理室', 'small': '壓縮袋裝藍袋，送回也傳照'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 27.666667 s; frame 830; crop={'x0': 0, 'y0': 200, 'x1': 1080, 'y1': 1550}; scale=1.0; text={'title': '你忙你的，衣服我們來照顧', 'small': '加 LINE，說管理室收送'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02",
       "date": "2026-10-20",
@@ -3872,98 +3954,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json",
       "facebook_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查",
       "instagram_caption": "鞋頭卡灰，鞋邊又黃了。\n\n在店裡的順序：先查膠合，再乾刷掉砂。滾刷帶水，洗出摺溝的灰。鞋邊另外手刷，先清表面。清水沖淨，洗劑不留皮面。倒掛烘鞋櫃，溫風慢慢乾。\n\n老實說：灰清掉了，摺痕仍在。舊黃可能留，不保證全白。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json#post-2026-10-07-slot-01",
-      "date": "2026-10-07",
-      "date_published": "2026-10-07T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-07 11:30 AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事",
-      "topic": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事",
-      "visual_route": "shop-inspection",
-      "traffic_route": "dwell-detail",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中洗鞋",
-        "AF1 鞋頭摺痕",
-        "白鞋鞋邊發黃",
-        "西屯洗鞋",
-        "台中洗鞋推薦",
-        "AF1 清洗"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗鞋",
-        "#台中洗鞋",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-07/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-07.json",
-      "facebook_caption": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事。\n\n白色 AF1 穿一陣子，常見三件事一起出現：鞋頭的摺痕、卡在摺溝裡的灰、鞋邊（中底側面）的黃。摺痕是皮被彎折留下的形狀，不是髒；溝裡的灰是髒，清得掉；鞋邊的黃原因不只一種，清潔之後不一定會退。\n\n送洗前先別做：整雙丟進洗衣機、拿漂白水刷鞋邊、用吹風機或太陽曬乾。\n\n在店裡，我們這樣做：先看材質和膠合，有開膠的先另外評估；拆鞋帶、乾刷掉砂；清潔劑先局部測試，鞋拿在手上壓向洗鞋機的滾刷，帶水洗出摺溝裡的灰；鞋邊另外用手刷清表面；清水沖淨，洗劑不留在皮面；再倒掛進烘鞋櫃，約 40 ℃ 溫風慢慢乾，不吹不曬。\n\n老實說：溝裡的灰清掉了，摺痕還是在；鞋邊的舊黃可能留下，不保證回到全白。鞋的交期大約 7 天。\n\n拍鞋頭、鞋邊、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查",
-      "instagram_caption": "AF1 鞋頭摺痕卡灰、鞋邊發黃：先分這三件事。\n\n白色 AF1 穿一陣子，常見三件事一起出現：鞋頭的摺痕、卡在摺溝裡的灰、鞋邊（中底側面）的黃。摺痕是皮被彎折留下的形狀，不是髒；溝裡的灰是髒，清得掉；鞋邊的黃原因不只一種，清潔之後不一定會退。\n\n送洗前先別做：整雙丟進洗衣機、拿漂白水刷鞋邊、用吹風機或太陽曬乾。\n\n在店裡，我們這樣做：先看材質和膠合，有開膠的先另外評估；拆鞋帶、乾刷掉砂；清潔劑先局部測試，鞋拿在手上壓向洗鞋機的滾刷，帶水洗出摺溝裡的灰；鞋邊另外用手刷清表面；清水沖淨，洗劑不留在皮面；再倒掛進烘鞋櫃，約 40 ℃ 溫風慢慢乾，不吹不曬。\n\n老實說：溝裡的灰清掉了，摺痕還是在；鞋邊的舊黃可能留下，不保證回到全白。鞋的交期大約 7 天。\n\n拍鞋頭、鞋邊、鞋內傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗鞋 #台中洗鞋 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json#post-2026-10-06-slot-01",
-      "date": "2026-10-06",
-      "date_published": "2026-10-06T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-06 11:30 毛毯起球又黏滿寵物毛：下水前先除毛",
-      "topic": "毛毯起球又黏滿寵物毛：下水前先除毛",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中毛毯清洗",
-        "毛毯起毛球怎麼辦",
-        "毛毯寵物毛怎麼清",
-        "西屯寢具清洗",
-        "台中洗衣店推薦",
-        "毛毯送洗"
-      ],
-      "evidence_type": "first-party-inspection",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#毛毯清洗",
-        "#台中洗衣店",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-06/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-06.json",
-      "facebook_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查",
-      "instagram_caption": "毛毯起球又黏滿寵物毛：下水前先除毛。\n\n毛毯上常常同時有兩種東西：一種是絨面自己磨出來的小毛球，一種是黏上去的寵物毛。洗淨不等於除球，兩件事要分開處理。\n\n送洗前先別做：毛還沒清就整條下水、加柔軟精、用力濕刷壓平發亮的那一塊、表面摸起來乾就摺起來收。\n\n在店裡，我們這樣做：先看洗標、分辨材質與毛面；先試工具，再乾著把浮毛清掉；單獨柔洗、不加柔軟精，洗標允許才低溫烘；中途攤開檢查厚邊和摺線，不夠乾就回機續烘；乾透後輕輕順毛，小區測試通過才除毛球。洗烘完也會清理濾網和門封。\n\n老實說：毛球除掉以後，用久了還是會再長；已經倒伏、磨薄的絨面，不保證恢復。大件要烘透，交期大約 10–14 天。\n\n拍整條、毛面近照、洗標傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #毛毯清洗 #台中洗衣店 #送洗前檢查"
     }
   ],
   "published_posts": [
@@ -14329,6 +14319,120 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
       "facebook_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
       "instagram_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-10-21 11:30 上班不在家，送洗還得另外找時間？",
+      "topic": "上班不在家，送洗還得另外找時間？",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "reach-answer",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+      ],
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "Slide 1 is frame 60 (2.0 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/A1-1.mp4 (sha256 9e8734af35b2ca2b, via hermes xAI OAuth) at 2.3 s, whose first frame is the generated photo described below (best-s4/A1.png, sha256 ca33554051ea0a47); the frame is cropped to {'x0': 0, 'y0': 410, 'x1': 1080, 'y1': 1760} and scaled x1.0 to 1080x1350; the text (title 上班不在家，也能送洗 and line 先在 LINE 約好，再寄放) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: She starts walking immediately at a brisk real-life commuting pace and keeps that quick efficient speed through the whole four-second shot. The camera tracks forward behind her at the same walking pace with a small natural handheld sway, keeping her back and the beige sack clear while the counter, bronze screens, and ink painting show gentle parallax. Her right hand keeps the sack low beside her thigh, the cloth bag bumps lightly once per step, her free arm swings opposite the stepping leg, and her hair follows with a small delay. She covers real ground toward the counter and does not drift or float. The lobby already visible in the opening frame remains the whole set. Sound: light footsteps and quiet lobby air. Prompt of the first frame: Vertical 9:16, photorealistic live-action frame. Match the selected lobby reference: circular ceiling recess, crystal chandelier, cream marble, bronze latticework, ink landscape painting and tall windows. An adult woman with straight, shoulder-length dark hair wears a light-gray blazer, white top, black trousers and plain black flats. Seen from directly behind, she is mid-stride toward the existing counter, shoulders slightly tense with commuting urgency. Her right hand already carries the reference beige drawstring laundry sack low beside her thigh. A small, softly focused concierge stands behind the counter in a plain navy suit, white shirt and dark tie; his chest and lapels are continuous navy fabric. Frame the resident prominently beneath the established architecture. Sound: restrained lobby ambience.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png"
+        },
+        {
+          "slide": 2,
+          "image_prompt": "Slide 2 is frame 459 (15.3 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/P2-2.mp4 (sha256 8dffb5398e94c01d, via hermes xAI OAuth) at 1.167 s, whose first frame is the generated photo described below (best-v6/P2.png, sha256 d7829570def3707e); the frame is cropped to {'x0': 0, 'y0': 450, 'x1': 1080, 'y1': 1800} and scaled x1.0 to 1080x1350; the text (title 領口，再順一下 and line 不只收送，也把衣服整理好) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: One black-sleeved hand lightly steadies the folded shirt while the other hand smooths the one small uneven section of the collar flat in a single compact action. The motion is delicate but practical, then the hand rests for about half a second after the collar is corrected. The shirt stays fully supported on the worktop and the camera remains fixed. Sound: a soft cotton touch and faint workroom air. Prompt of the first frame: Use 1021-owner-look-M1b plus the owner’s personal photo for the worker’s sleeve and hand continuity. Create a vertical 9:16 photorealistic close tabletop still in neutral workroom daylight. A folded clean white shirt lies on a plain pale work surface. The shirt is already neatly folded except that one small section of the collar is slightly uneven and not fully smooth. One black-sleeved hand lightly steadies the shirt near the body panel, while the other black-sleeved hand is just about to smooth that one imperfect collar section flat. Keep the composition tight on the shirt and hands. The fabric weave, clean fold lines, and collar shape should be clear. The background is a softly focused plain laundry work area with no labels or visible text.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png"
+        },
+        {
+          "slide": 3,
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 21.833333 s; frame 655; crop={'x0': 80, 'y0': 140, 'x1': 1070, 'y1': 1378}; scale=1.090909; text={'title': '包好，再送回管理室', 'small': '壓縮袋裝藍袋，送回也傳照'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png"
+        },
+        {
+          "slide": 4,
+          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 27.666667 s; frame 830; crop={'x0': 0, 'y0': 200, 'x1': 1080, 'y1': 1550}; scale=1.0; text={'title': '你忙你的，衣服我們來照顧', 'small': '加 LINE，說管理室收送'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
+          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+        }
+      ],
+      "media_type": "carousel",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
+      "date": "2026-10-21",
+      "date_published": "2026-10-21T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-10-21 20:30 不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "topic": "不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "problem-diagnosis",
+      "target_queries": [
+        "不在家怎麼送洗",
+        "管理室收送洗衣",
+        "管理室代收洗衣",
+        "洗衣收送管理室",
+        "大樓洗衣收送",
+        "LINE 洗衣收送預約"
+      ],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗衣收送",
+        "#到府收件",
+        "#管理室收送"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.mp4",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
+      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
+      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
     }
   ]
 }
