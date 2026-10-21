@@ -8488,6 +8488,56 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-10-22-slot-01.html",
+      "title": "2026-10-22 11:30 汽座、嬰兒推車整台收，讓我們接手整理",
+      "date_published": "2026-10-22T11:30:00+08:00",
+      "content_text": "他玩得很開心，你也忙了一整天。\n\n回家收東西，翻起推車座布的一小角，才看到奶漬；車上的汽座，縫裡也藏著餅乾屑。原本以為今天差不多了，又多一件要整理的事。\n\n這件事，可以讓我們接手。\n汽座和嬰兒推車都能整台收回店裡，不用你先拆布套。奶漬先局部處理，再依洗標溫和水洗、陰乾，裝回後，各自包好透明保護膜、裝袋送回。\n\n兩台都想整理，可以一起安排；只有一件也收。\n大件約 10–14 天，來回收送免費。\n\n想安排家裡的汽座或推車清洗，私訊我們，告訴我們要整理哪一件。",
+      "summary": "汽座、嬰兒推車整台收，讓我們接手整理",
+      "image": "https://sixiangjialaundry.com/assets/2026-10-22/slot-01.png",
+      "tags": [],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "value-prop-lead",
+        "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-10-22-slot-02.html",
+      "title": "2026-10-22 20:30 孩子看著你笑，你也回個微笑",
+      "date_published": "2026-10-22T20:30:00+08:00",
+      "content_text": "孩子看著你笑的時候，你也想好好回他一個笑。\n\n帶孩子出門的日常裡，推車座布上的奶漬、汽座縫裡的餅乾屑，往往回家整理才發現。今晚這支小日常，從那個「事情又多一件」的時刻開始。\n\n汽座、推車整台收，在店裡拆下布套，先局部處理奶漬，再依洗標溫和水洗、陰乾、裝回。畫面裡，裝回後的小折角還多看一眼、順平，再各自包膜、裝袋送回。\n\n大件約 10–14 天；來回收送免費，一件也收。\n等整理好送回，再回到你們自己的生活節奏。\n\n想安排清洗，私訊我們，告訴我們要整理汽座、推車，或兩件一起。",
+      "summary": "孩子看著你笑，你也回個微笑",
+      "image": "https://sixiangjialaundry.com/assets/2026-10-22/slot-02.png",
+      "tags": [],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "object-proof",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json"
+      }
     }
   ]
 }

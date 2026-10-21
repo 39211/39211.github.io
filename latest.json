@@ -1,211 +1,133 @@
 {
-  "generated_at": "2026-10-21T13:15:07.517Z",
+  "generated_at": "2026-10-21T22:33:08.439Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
   "base_url": "https://sixiangjialaundry.com",
   "base_url_configured": true,
   "canonical_url": "https://sixiangjialaundry.com/",
-  "date": "2026-10-21",
+  "date": "2026-10-22",
   "posts": [
     {
-      "id": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
-      "date": "2026-10-21",
-      "date_published": "2026-10-21T06:00:00.000Z",
-      "slot": 0,
-      "time": "14:00",
-      "category": "feature-reel",
-      "title": "只有一件，也能叫收送嗎｜私享家洗衣店",
-      "topic": "只有一件，也能叫收送嗎｜私享家洗衣店",
-      "visual_route": "feature-reel",
-      "traffic_route": "feature-reel",
-      "content_role": "reach-answer",
-      "search_intent": "social-video",
-      "target_queries": [],
-      "evidence_type": "published-feature-reel",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中洗衣店",
-        "#洗衣收送",
-        "#到府收件",
-        "#一件也收"
-      ],
-      "platforms": [
-        "facebook",
-        "youtube",
-        "instagram"
-      ],
-      "in_language": "zh-Hant",
-      "image_path": "",
-      "image_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
-      "image_paths": [],
-      "image_urls": [],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_path": "",
-      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-pickup-916.mp4",
-      "calendar_path": "feature-reels/2026-10-21.json",
-      "calendar_url": "",
-      "article_path": "posts/2026-10-21-feature-card-pickup-20261021.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-feature-card-pickup-20261021.html",
-      "url": "urn:sixiangjia:feature:2026-10-21:card-pickup-20261021",
-      "facebook_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-pickup-20261021 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
-      "instagram_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估：LINE 0968327653\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
-      "youtube_video": {
-        "video_id": "M_foOtCsgj8",
-        "embed_url": "https://www.youtube-nocookie.com/embed/M_foOtCsgj8",
-        "watch_url": "https://www.youtube.com/shorts/M_foOtCsgj8",
-        "thumbnail_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
-        "upload_date": "2026-10-21T06:00:00.000Z"
-      },
-      "feature_reel": true
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
-      "date": "2026-10-21",
-      "date_published": "2026-10-21T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-01",
+      "date": "2026-10-22",
+      "date_published": "2026-10-22T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
       "category": "知識文",
-      "title": "2026-10-21 11:30 上班不在家，送洗還得另外找時間？",
-      "topic": "上班不在家，送洗還得另外找時間？",
+      "title": "2026-10-22 11:30 汽座、嬰兒推車整台收，讓我們接手整理",
+      "topic": "汽座、嬰兒推車整台收，讓我們接手整理",
       "visual_route": "shop-inspection",
       "traffic_route": "value-prop-lead",
       "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "不在家怎麼送洗",
-        "管理室收送洗衣",
-        "管理室代收洗衣",
-        "洗衣收送管理室",
-        "大樓洗衣收送",
-        "LINE 洗衣收送預約"
-      ],
+      "search_intent": "",
+      "target_queries": [],
       "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗衣收送",
-        "#到府收件",
-        "#管理室收送"
-      ],
+      "hashtags": [],
       "platforms": [
         "facebook",
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-21/slot-01.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
+      "image_path": "assets/2026-10-22/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-22/slot-01.png",
       "image_paths": [
-        "assets/2026-10-21/slot-01.png",
-        "assets/2026-10-21/slot-01-slide-02.png",
-        "assets/2026-10-21/slot-01-slide-03.png",
-        "assets/2026-10-21/slot-01-slide-04.png"
+        "assets/2026-10-22/slot-01.png",
+        "assets/2026-10-22/slot-01-slide-02.png",
+        "assets/2026-10-22/slot-01-slide-03.png",
+        "assets/2026-10-22/slot-01-slide-04.png",
+        "assets/2026-10-22/slot-01-slide-05.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+        "https://sixiangjialaundry.com/assets/2026-10-22/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-22/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-22/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-10-22/slot-01-slide-04.png",
+        "https://sixiangjialaundry.com/assets/2026-10-22/slot-01-slide-05.png"
       ],
       "carousel_items": [
         {
           "slide": 1,
-          "image_prompt": "Slide 1 is frame 60 (2.0 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/A1-1.mp4 (sha256 9e8734af35b2ca2b, via hermes xAI OAuth) at 2.3 s, whose first frame is the generated photo described below (best-s4/A1.png, sha256 ca33554051ea0a47); the frame is cropped to {'x0': 0, 'y0': 410, 'x1': 1080, 'y1': 1760} and scaled x1.0 to 1080x1350; the text (title 上班不在家，也能送洗 and line 先在 LINE 約好，再寄放) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: She starts walking immediately at a brisk real-life commuting pace and keeps that quick efficient speed through the whole four-second shot. The camera tracks forward behind her at the same walking pace with a small natural handheld sway, keeping her back and the beige sack clear while the counter, bronze screens, and ink painting show gentle parallax. Her right hand keeps the sack low beside her thigh, the cloth bag bumps lightly once per step, her free arm swings opposite the stepping leg, and her hair follows with a small delay. She covers real ground toward the counter and does not drift or float. The lobby already visible in the opening frame remains the whole set. Sound: light footsteps and quiet lobby air. Prompt of the first frame: Vertical 9:16, photorealistic live-action frame. Match the selected lobby reference: circular ceiling recess, crystal chandelier, cream marble, bronze latticework, ink landscape painting and tall windows. An adult woman with straight, shoulder-length dark hair wears a light-gray blazer, white top, black trousers and plain black flats. Seen from directly behind, she is mid-stride toward the existing counter, shoulders slightly tense with commuting urgency. Her right hand already carries the reference beige drawstring laundry sack low beside her thigh. A small, softly focused concierge stands behind the counter in a plain navy suit, white shirt and dark tie; his chest and lapels are continuous navy fabric. Frame the resident prominently beneath the established architecture. Sound: restrained lobby ambience.",
-          "local_image_path": "docs/assets/2026-10-21/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png"
+          "image_prompt": "Create a portrait 4:5 carousel-cover composition using the supplied approved A1 image as the photographic source.\n\nPreserve the exact child's identity, natural smile, cheek shape, hairline, Stone canopy detail and late-afternoon lighting. Keep the visible child limited to the established head-and-neck area. Use a tighter crop or a clean editorial layout rather than extending the image downward into the shoulder area.\n\nPlace the photographic focus mainly in the lower seventy percent of the composition. Let the original softly defocused park background continue naturally into the upper thirty percent with the same light gradient, forming a quiet photographic area for a later title. The title area is for later graphic design.\n\nMaintain natural skin texture and the original fabric weave at the source image's photographic scale. Preserve the warm side light and soft background separation. The result should feel like a carefully art-directed family-documentary cover, with the same child and physical stroller detail as the film.\n\nThe title space is a continuous photographic extension of the existing softly defocused background, with the same color and illumination and a seamless transition into the image. Keep every surface plain for later typography. Preserve the existing lower crop of the photographed subject.\n\nReference images, attached in this order: 1) the approved A1 photograph, for the explicitly described continuity detail.\nPostproduction: approved source S1.png SHA256 52fe9f2e6ccab2327584d661c1f2f1ee19565a42156437c7e888ac2f518c35fe; resized to 1080x1350. Program drawn text: 他玩得很開心，你也忙了一整天。 / 汽座・推車整台收. Final SHA256 43b3a7f346ddf70053db1a2992ad062c8253d412ce20f32e77080185d16ad239. Source engine gpt-image-2; layout/typography are local postproduction.",
+          "local_image_path": "docs/assets/2026-10-22/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-22/slot-01.png"
         },
         {
           "slide": 2,
-          "image_prompt": "Slide 2 is frame 459 (15.3 s) of the v6f film master (cut-v6f/master-1021-v6f.mp4, sha256 4d7702772f96dcab, no burned text); at that time the master shows the Grok Imagine image-to-video take gen-v6/clips/P2-2.mp4 (sha256 8dffb5398e94c01d, via hermes xAI OAuth) at 1.167 s, whose first frame is the generated photo described below (best-v6/P2.png, sha256 d7829570def3707e); the frame is cropped to {'x0': 0, 'y0': 450, 'x1': 1080, 'y1': 1800} and scaled x1.0 to 1080x1350; the text (title 領口，再順一下 and line 不只收送，也把衣服整理好) is program-drawn in GenSenRounded2 TW on a pale card, not generated. Motion prompt of the take: One black-sleeved hand lightly steadies the folded shirt while the other hand smooths the one small uneven section of the collar flat in a single compact action. The motion is delicate but practical, then the hand rests for about half a second after the collar is corrected. The shirt stays fully supported on the worktop and the camera remains fixed. Sound: a soft cotton touch and faint workroom air. Prompt of the first frame: Use 1021-owner-look-M1b plus the owner’s personal photo for the worker’s sleeve and hand continuity. Create a vertical 9:16 photorealistic close tabletop still in neutral workroom daylight. A folded clean white shirt lies on a plain pale work surface. The shirt is already neatly folded except that one small section of the collar is slightly uneven and not fully smooth. One black-sleeved hand lightly steadies the shirt near the body panel, while the other black-sleeved hand is just about to smooth that one imperfect collar section flat. Keep the composition tight on the shirt and hands. The fabric weave, clean fold lines, and collar shape should be clear. The background is a softly focused plain laundry work area with no labels or visible text.",
-          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-02.png"
+          "image_prompt": "Create a portrait 4:5 carousel image from the supplied approved B1 photograph.\n\nPreserve the exact Stone seat-pad corner, existing milk residue, small rice-cracker fragments, cream-knit sleeves and the mother's established hand positions. Keep the pad supported by the stroller and retain the small lifted outer edge.\n\nCompose the photographic detail in the lower seventy percent of the image, with a calm upper title area derived from the existing warm living-room palette. Preserve the original sixty-degree viewing direction and warm lamp illumination from camera-right.\n\nMaintain the distinction between the fine technical upholstery weave, the coarser sweater yarn, the thin uneven milk residue and the matte crumb fragments. Keep the same stain size and severity as the film. The final image should remain a close observation of an ordinary household detail, with all typography reserved for post-production.\n\nThe title space is a continuous photographic extension of the existing softly defocused background, with the same color and illumination and a seamless transition into the image. Keep every surface plain for later typography. Preserve the existing lower crop of the photographed subject.\n\nVisible milk residue is a faint dry watermark: very thin, matte discoloration embedded flat within the fabric weave, with softly faded edges and individual textile threads continuously readable through it. Any biscuit specks already needed in the scene are only three minute irregular flecks, each about two to three pixels across in the finished image. Preserve the ordinary textile relief around these light everyday traces.\n\nReference images, attached in this order: 1) the approved B1 photograph, for the explicitly described continuity detail.\nPostproduction: approved source S2.png SHA256 213e8d360c70275dbaa03ea0ee626c61daa905a9051dab0f738e77ab6915a827; resized to 1080x1350. Program drawn text: 回家整理，才發現還有一件事。 / 推車布套上的奶漬. Final SHA256 236137a1be532e006a3e6d96729afbf50d38e0b3eec527cc98ca173e281913a7. Source engine gpt-image-2; layout/typography are local postproduction.",
+          "local_image_path": "docs/assets/2026-10-22/slot-01-slide-02.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-22/slot-01-slide-02.png"
         },
         {
           "slide": 3,
-          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 21.833333 s; frame 655; crop={'x0': 80, 'y0': 140, 'x1': 1070, 'y1': 1378}; scale=1.090909; text={'title': '包好，再送回管理室', 'small': '壓縮袋裝藍袋，送回也傳照'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
-          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-03.png"
+          "image_prompt": "Create a portrait 4:5 carousel image using the supplied approved C1 photograph as the sole photographic source.\n\nPreserve the same Joie car-seat outer side wing, charcoal fabric, adjoining outer seam, narrow shell edge, milk traces and small crumb cluster. Keep the composition restricted to the established exterior detail.\n\nPlace the upholstery detail in the lower seventy percent of the layout. Reserve the upper thirty percent for a later headline, using a quiet tone sampled from the existing garage and car-interior background.\n\nMaintain the original mixed lighting: a restrained warm contribution from frame-left and cooler garage light from the right. Preserve the charcoal color, exposure, fabric weave, seam geometry and ordinary surface variation. The image should match the film's object and condition rather than becoming a new catalog photograph. Deliver the photographic layout with plain title space.\n\nThe title space is a continuous photographic extension of the existing softly defocused background, with the same color and illumination and a seamless transition into the image. Keep every surface plain for later typography. Preserve the existing lower crop of the photographed subject.\n\nVisible milk residue is a faint dry watermark: very thin, matte discoloration embedded flat within the fabric weave, with softly faded edges and individual textile threads continuously readable through it. Any biscuit specks already needed in the scene are only three minute irregular flecks, each about two to three pixels across in the finished image. Preserve the ordinary textile relief around these light everyday traces.\n\nReference images, attached in this order: 1) the approved C1 photograph, for the explicitly described continuity detail.\nPostproduction: approved source S3.png SHA256 9086906b655c2b2254873212e7293cda59669419ce14d2e3f1e987fdec39990f; resized to 1080x1350. Program drawn text: 車上的汽座，也能整台交給我們。 / 外側布面與接縫整理. Final SHA256 b07778c167453e78ef1d5aeae481d84ed83d92e8e79e40d65ca8a0aae0ffa078. Source engine gpt-image-2; layout/typography are local postproduction.",
+          "local_image_path": "docs/assets/2026-10-22/slot-01-slide-03.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-22/slot-01-slide-03.png"
         },
         {
           "slide": 4,
-          "image_prompt": "Program-drawn carousel still from 1021-v8 master at 27.666667 s; frame 830; crop={'x0': 0, 'y0': 200, 'x1': 1080, 'y1': 1550}; scale=1.0; text={'title': '你忙你的，衣服我們來照顧', 'small': '加 LINE，說管理室收送'}. Source master sha256 0ad9c1571cdef37cd73200943fce06d453411b91a820efe7a7b243cbbf77b75d.",
-          "local_image_path": "docs/assets/2026-10-21/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-01-slide-04.png"
+          "image_prompt": "Approved program layout: E3 left and E4 right; two cloth cleaning close-ups from GPT generated stills; pale upper title area. No additional image generation.\nPostproduction: approved source S4.png SHA256 2fe670c76bf7d01c41d51341b676125ab990393ce2597a7f942ed7d6f9748d90; resized to 1080x1350. Program drawn text: 拆下布套，處理好了再裝回。 / 奶漬局部處理 → 依洗標溫和水洗 → 陰乾. Final SHA256 8122f6cf13d084ff0f8ef340a51956802d7a5b67598ac2bc91a232f121ec4012. Source engine gpt-image-2; layout/typography are local postproduction.",
+          "local_image_path": "docs/assets/2026-10-22/slot-01-slide-04.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-22/slot-01-slide-04.png"
+        },
+        {
+          "slide": 5,
+          "image_prompt": "Create a portrait 4:5 carousel image from the supplied approved P1 packing photograph.\n\nPreserve the two separate blue carriers on the stainless worktable: the larger, deeper car-seat package on the left and the smaller, shallower folded-stroller package on the right. Keep each item individually enclosed in clear protective film and entirely below its blue bag rim.\n\nMaintain the limited elevated view into the openings, the thin-film creases, the collapsed soft handles and the different package volumes. Preserve the woven blue material, actual seam positions and realistic support against the worktable.\n\nPlace both complete packages in the lower seventy percent of the composition. Reserve the upper thirty percent as a calm title area using the workshop's existing pale wall tone.\n\nKeep the original soft window light from camera-left, restrained stainless reflections and naturally shaped shadows. The final layout should read as two carefully packed items from the same film sequence, with all typography added afterward.\n\nThe title space is a continuous photographic extension of the existing softly defocused background, with the same color and illumination and a seamless transition into the image. Keep every surface plain for later typography. Preserve the existing lower crop of the photographed subject.\n\nReference images, attached in this order: 1) the approved P1 photograph, for the explicitly described continuity detail.\nPostproduction: approved source S5.png SHA256 25ddac93219b4594ada8b177178fc9bfe051ce31ead7835e73c30525af51181e; resized to 1080x1350. Program drawn text: 來回收送免費，一件也收。 / 大件約 10–14 天｜私享家｜汽座・推車清洗. Final SHA256 23d60b84875ceeb01e9c8b599540b14c2e1895745ab4a4adc10e039efa8dfdb5. Source engine gpt-image-2; layout/typography are local postproduction.",
+          "local_image_path": "docs/assets/2026-10-22/slot-01-slide-05.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-22/slot-01-slide-05.png"
         }
       ],
       "media_type": "carousel",
       "video_path": "",
       "video_url": "",
-      "calendar_path": "content-calendar/2026-10-21.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
-      "article_path": "posts/2026-10-21-slot-01.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-slot-01.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-01",
-      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
-      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 跟我們約好收送，再把要洗的衣物裝袋，寄放在管理室櫃檯，讓我們過去收件。\n\n收件時，我們會在櫃檯拍照傳 LINE 給你。\n洗好後先傳明細，再一起約好送回時間。\n\n送回時，衣物用透明壓縮袋包好，再裝進藍色提袋，放在大理石櫃檯上，或交給管理員。送回後也會拍照傳 LINE，讓你知道衣物已經送到管理室。\n\n從裝袋寄放，到包好送回，收件、送回都有照片通知。\n\n來回收送免費，一件也收，洗護費另計。\n\n襯衫水洗參考價 NT$70／件\n一般衣物約 5–7 天\n實際以報價為主。\n\n你忙你的，衣服我們來照顧。\n加 LINE，跟我們說「管理室收送」，先把時間約好。\n\n到府收送預約 → LINE:\nhttps://sixiangjialaundry.com/go/line.html?source=post\n或加 LINE:0968327653\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
-      "facebook_post_url": "https://www.facebook.com/102911372343400/posts/1108166085299873"
+      "calendar_path": "content-calendar/2026-10-22.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json",
+      "article_path": "posts/2026-10-22-slot-01.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-22-slot-01.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-01",
+      "facebook_caption": "他玩得很開心，你也忙了一整天。\n\n回家收東西，翻起推車座布的一小角，才看到奶漬；車上的汽座，縫裡也藏著餅乾屑。原本以為今天差不多了，又多一件要整理的事。\n\n這件事，可以讓我們接手。\n汽座和嬰兒推車都能整台收回店裡，不用你先拆布套。奶漬先局部處理，再依洗標溫和水洗、陰乾，裝回後，各自包好透明保護膜、裝袋送回。\n\n兩台都想整理，可以一起安排；只有一件也收。\n大件約 10–14 天，來回收送免費。\n\n想安排家裡的汽座或推車清洗，私訊我們，告訴我們要整理哪一件。",
+      "instagram_caption": "他玩得很開心，你也忙了一整天。\n\n回家收東西，翻起推車座布的一小角，才看到奶漬；車上的汽座，縫裡也藏著餅乾屑。原本以為今天差不多了，又多一件要整理的事。\n\n這件事，可以讓我們接手。\n汽座和嬰兒推車都能整台收回店裡，不用你先拆布套。奶漬先局部處理，再依洗標溫和水洗、陰乾，裝回後，各自包好透明保護膜、裝袋送回。\n\n兩台都想整理，可以一起安排；只有一件也收。\n大件約 10–14 天，來回收送免費。\n\n想安排家裡的汽座或推車清洗，私訊我們，告訴我們要整理哪一件。"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
-      "date": "2026-10-21",
-      "date_published": "2026-10-21T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-02",
+      "date": "2026-10-22",
+      "date_published": "2026-10-22T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
       "category": "情境文",
-      "title": "2026-10-21 20:30 不在家也能收送：管理室收件、送回都拍照傳 LINE",
-      "topic": "不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "title": "2026-10-22 20:30 孩子看著你笑，你也回個微笑",
+      "topic": "孩子看著你笑，你也回個微笑",
       "visual_route": "shop-inspection",
       "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "不在家怎麼送洗",
-        "管理室收送洗衣",
-        "管理室代收洗衣",
-        "洗衣收送管理室",
-        "大樓洗衣收送",
-        "LINE 洗衣收送預約"
-      ],
+      "search_intent": "",
+      "target_queries": [],
       "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗衣收送",
-        "#到府收件",
-        "#管理室收送"
-      ],
+      "hashtags": [],
       "platforms": [
         "facebook",
         "instagram"
       ],
       "in_language": "zh-Hant",
-      "image_path": "assets/2026-10-21/slot-02.png",
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
+      "image_path": "assets/2026-10-22/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-10-22/slot-02.png",
       "image_paths": [
-        "assets/2026-10-21/slot-02.png"
+        "assets/2026-10-22/slot-02.png"
       ],
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-10-22/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "reel",
-      "video_path": "assets/2026-10-21/slot-02.mp4",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.mp4",
-      "calendar_path": "content-calendar/2026-10-21.json",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
-      "article_path": "posts/2026-10-21-slot-02.html",
-      "article_url": "https://sixiangjialaundry.com/posts/2026-10-21-slot-02.html",
-      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
-      "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
-      "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
-      "youtube_video": {
-        "video_id": "Qy1-aADQyU4",
-        "embed_url": "https://www.youtube-nocookie.com/embed/Qy1-aADQyU4",
-        "watch_url": "https://www.youtube.com/shorts/Qy1-aADQyU4",
-        "thumbnail_url": "https://i.ytimg.com/vi/Qy1-aADQyU4/hqdefault.jpg",
-        "upload_date": "2026-10-21T13:15:00.000Z"
-      }
+      "video_path": "assets/2026-10-22/slot-02.mp4",
+      "video_url": "https://sixiangjialaundry.com/assets/2026-10-22/slot-02.mp4",
+      "calendar_path": "content-calendar/2026-10-22.json",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json",
+      "article_path": "posts/2026-10-22-slot-02.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-22-slot-02.html",
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-02",
+      "facebook_caption": "孩子看著你笑的時候，你也想好好回他一個笑。\n\n帶孩子出門的日常裡，推車座布上的奶漬、汽座縫裡的餅乾屑，往往回家整理才發現。今晚這支小日常，從那個「事情又多一件」的時刻開始。\n\n汽座、推車整台收，在店裡拆下布套，先局部處理奶漬，再依洗標溫和水洗、陰乾、裝回。畫面裡，裝回後的小折角還多看一眼、順平，再各自包膜、裝袋送回。\n\n大件約 10–14 天；來回收送免費，一件也收。\n等整理好送回，再回到你們自己的生活節奏。\n\n想安排清洗，私訊我們，告訴我們要整理汽座、推車，或兩件一起。",
+      "instagram_caption": "孩子看著你笑的時候，你也想好好回他一個笑。\n\n帶孩子出門的日常裡，推車座布上的奶漬、汽座縫裡的餅乾屑，往往回家整理才發現。今晚這支小日常，從那個「事情又多一件」的時刻開始。\n\n汽座、推車整台收，在店裡拆下布套，先局部處理奶漬，再依洗標溫和水洗、陰乾、裝回。畫面裡，裝回後的小折角還多看一眼、順平，再各自包膜、裝袋送回。\n\n大件約 10–14 天；來回收送免費，一件也收。\n等整理好送回，再回到你們自己的生活節奏。\n\n想安排清洗，私訊我們，告訴我們要整理汽座、推車，或兩件一起。"
     }
   ]
 }
