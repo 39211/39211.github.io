@@ -1,0 +1,98 @@
+{
+  "topic": "冬衣收送分袋標籤要寫哪 2 項？店家可免費到府收取與送回",
+  "date": "2026-10-25",
+  "slot": 1,
+  "axes": {
+    "OBJECT_IDENTITY": "PASS",
+    "SCENE": "PASS",
+    "TOPIC_MATCH": "PASS"
+  },
+  "evidence": {
+    "OBJECT_IDENTITY": "四張皆可見同一件深藍色絎縫外套，橫向蓬鬆分格與布料外觀一致，旁邊也持續出現灰色翻領外套及藍色提袋。",
+    "SCENE": "四張皆為不鏽鋼工作檯，背景持續可見白色磁磚牆、瓶罐與白色毛巾。",
+    "TOPIC_MATCH": "四張主體均為放入藍色提袋的冬季外套，符合冬衣分袋收送的物件主題。"
+  },
+  "frames_used": [
+    "slide-01.png",
+    "slide-02.png",
+    "slide-03.png",
+    "slide-04.png"
+  ],
+  "slides": [
+    {
+      "name": "slide-01.png",
+      "slide": 1,
+      "source": "docs/assets/2026-10-25/slot-01.png",
+      "canary": "FHMT",
+      "sha256": "53459004da6e618b9fdc7e24bc993e19d428d50a9aa529296b0a6f0b5913d3cc"
+    },
+    {
+      "name": "slide-02.png",
+      "slide": 2,
+      "source": "docs/assets/2026-10-25/slot-01-slide-02.png",
+      "canary": "BXKL",
+      "sha256": "ba8524e782434c86e814e59a9a0768a01368bc202f5511928b29b159e6edeb3c"
+    },
+    {
+      "name": "slide-03.png",
+      "slide": 3,
+      "source": "docs/assets/2026-10-25/slot-01-slide-03.png",
+      "canary": "YRUB",
+      "sha256": "bcdcacaa6917bc22844cf2879f69cdb3006c68b0af0620bbfc781998c339f842"
+    },
+    {
+      "name": "slide-04.png",
+      "slide": 4,
+      "source": "docs/assets/2026-10-25/slot-01-slide-04.png",
+      "canary": "XAQJ",
+      "sha256": "044d2f5eee7de669fcb4dd1df4c7a21e0dcb4ab1aa965c3b00c2676f5ab3211e"
+    }
+  ],
+  "sources": [
+    "docs/assets/2026-10-25/slot-01.png",
+    "docs/assets/2026-10-25/slot-01-slide-02.png",
+    "docs/assets/2026-10-25/slot-01-slide-03.png",
+    "docs/assets/2026-10-25/slot-01-slide-04.png"
+  ],
+  "canaries_expected": {
+    "IMAGE_1": "FHMT",
+    "IMAGE_2": "BXKL",
+    "IMAGE_3": "YRUB",
+    "IMAGE_4": "XAQJ"
+  },
+  "canaries_reported": {
+    "IMAGE_1": "FHMT",
+    "IMAGE_2": "BXKL",
+    "IMAGE_3": "YRUB",
+    "IMAGE_4": "XAQJ"
+  },
+  "prompt_hash": "ad5b1499a902d3fdbdb8172df9343b1fdaad40b21e30e0e1b8fdd5a5eb4ef305",
+  "run_id": "carousel-qa-1792684585580",
+  "model": "codex-exec-read-only",
+  "reviewed_by": "codex-visual-qa",
+  "reviewed_at": "2026-10-22T15:58:37.002Z",
+  "mode": "warn",
+  "judge_verdict": "PASS",
+  "judge_declared_change": false,
+  "verdict": "PASS",
+  "fail_class": null,
+  "judge_attempt": 2,
+  "judge_attempt_log": [
+    {
+      "attempt": 1,
+      "prompt_sha256": "ad5b1499a902d3fdbdb8172df9343b1fdaad40b21e30e0e1b8fdd5a5eb4ef305",
+      "stdout_sha256": "85613fc398782a3816202f5368e3ca7d448361d92c5b60fd47e8d806102179b3",
+      "stdout_file": "judge-stdout.txt",
+      "verdict": "FAIL_CLOSED",
+      "fail_class": "missing_observation"
+    },
+    {
+      "attempt": 2,
+      "prompt_sha256": "8dfab0cb1893a30cdc32c6275b2616d6b48021d2517b0dba218d259505e5396e",
+      "stdout_sha256": "f4084620476297be44a4b25e7d54773ab34778666f395c72306270d8a25316d2",
+      "stdout_file": "judge-stdout.attempt-2.txt",
+      "verdict": "PASS",
+      "fail_class": null
+    }
+  ]
+}
