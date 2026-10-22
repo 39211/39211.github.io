@@ -169,7 +169,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - Landmark: 至善國中對面
 - Google Maps: https://maps.app.goo.gl/kUREPkWDXYNTkpct7
 - Google Maps CID: 0x41f4295a6302e177
-- Google Place ID: (not verified)
+- Google Place ID: ChIJ9dYthxMXaTQRd-ECY1op9EE
 - Facebook: https://www.facebook.com/100083194756904/
 - Instagram: https://www.instagram.com/si_xiang_jia/
 - LINE: https://line.me/ti/p/4m-rA6hxf6
@@ -190,7 +190,6 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 
 ## Business Data Sources
 - Google Maps short link provided by owner; resolved name/address and Maps feature id were used for business identity.
-- Public Google Maps page exposed Maps feature id/CID, but did not expose a Google Places API place_id; CID is stored separately and not treated as place_id.
 - Facebook canonical page, Instagram handle, phone, mobile/LINE, official LINE URL, and opening hours were cross-checked from public Facebook/Instagram search results on 2026-07-02.
 - Holiday hours are managed as owner-approved overrides; no specific holiday date is emitted until it is explicitly verified.
 
