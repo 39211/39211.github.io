@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-22T05:00:08.353Z
+- Generated at: 2026-10-22T13:15:09.051Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -424,6 +424,7 @@
     "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
+    "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-10-22/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-22/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -12276,6 +12277,51 @@ Instagram caption:
 台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）
 
 #私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送
+
+### 棉被摸起來乾，中間那層不一定乾｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-10-22:card-duvet-20261022
+- published local time: 2026-10-22T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗
+- image: https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+棉被摸起來乾，中間那層不一定乾。
+
+沒乾透就收進櫃子，下一季打開就是那個味道。
+收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。
+
+我會先確認填充物、尺寸與受潮程度，再決定烘法。
+難乾的大件約 10–14 天，以報價為準。
+體積大的棉被不用自己搬，台中全市免費收送。
+
+先拍整件、洗標、尺寸，傳 LINE → https://sixiangjialaundry.com/go/line.html?source=reel-card-duvet-20261022 （或加 LINE：0968327653）
+
+#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗
+
+Instagram caption:
+
+棉被摸起來乾，中間那層不一定乾。
+
+沒乾透就收進櫃子，下一季打開就是那個味道。
+收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。
+
+我會先確認填充物、尺寸與受潮程度，再決定烘法。
+難乾的大件約 10–14 天，以報價為準。
+體積大的棉被不用自己搬，台中全市免費收送。
+
+先拍整件、洗標、尺寸，傳 LINE：0968327653
+
+#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗
 
 ### 2026-10-22 11:30 汽座、嬰兒推車整台收，讓我們接手整理
 

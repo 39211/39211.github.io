@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T05:00:08.353Z",
+  "generated_at": "2026-10-22T13:15:09.051Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -14158,6 +14158,58 @@
       }
     },
     {
+      "id": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022",
+      "date": "2026-10-22",
+      "date_published": "2026-10-22T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "topic": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#棉被清洗",
+        "#換季收納",
+        "#寢具清洗"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-duvet-916.mp4",
+      "calendar_path": "feature-reels/2026-10-22.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-10-22-feature-card-duvet-20261022.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-22-feature-card-duvet-20261022.html",
+      "url": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022",
+      "facebook_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE → https://sixiangjialaundry.com/go/line.html?source=reel-card-duvet-20261022 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗",
+      "instagram_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE：0968327653\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗",
+      "youtube_video": {
+        "video_id": "70qUns7icUY",
+        "embed_url": "https://www.youtube-nocookie.com/embed/70qUns7icUY",
+        "watch_url": "https://www.youtube.com/shorts/70qUns7icUY",
+        "thumbnail_url": "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
+        "upload_date": "2026-10-22T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
+    {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-01",
       "date": "2026-10-22",
       "date_published": "2026-10-22T11:30:00+08:00",
@@ -14277,7 +14329,14 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-10-22-slot-02.html",
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-02",
       "facebook_caption": "孩子看著你笑的時候，你也想好好回他一個笑。\n\n帶孩子出門的日常裡，推車座布上的奶漬、汽座縫裡的餅乾屑，往往回家整理才發現。今晚這支小日常，從那個「事情又多一件」的時刻開始。\n\n汽座、推車整台收，在店裡拆下布套，先局部處理奶漬，再依洗標溫和水洗、陰乾、裝回。畫面裡，裝回後的小折角還多看一眼、順平，再各自包膜、裝袋送回。\n\n大件約 10–14 天；來回收送免費，一件也收。\n等整理好送回，再回到你們自己的生活節奏。\n\n想安排清洗，私訊我們，告訴我們要整理汽座、推車，或兩件一起。",
-      "instagram_caption": "孩子看著你笑的時候，你也想好好回他一個笑。\n\n帶孩子出門的日常裡，推車座布上的奶漬、汽座縫裡的餅乾屑，往往回家整理才發現。今晚這支小日常，從那個「事情又多一件」的時刻開始。\n\n汽座、推車整台收，在店裡拆下布套，先局部處理奶漬，再依洗標溫和水洗、陰乾、裝回。畫面裡，裝回後的小折角還多看一眼、順平，再各自包膜、裝袋送回。\n\n大件約 10–14 天；來回收送免費，一件也收。\n等整理好送回，再回到你們自己的生活節奏。\n\n想安排清洗，私訊我們，告訴我們要整理汽座、推車，或兩件一起。"
+      "instagram_caption": "孩子看著你笑的時候，你也想好好回他一個笑。\n\n帶孩子出門的日常裡，推車座布上的奶漬、汽座縫裡的餅乾屑，往往回家整理才發現。今晚這支小日常，從那個「事情又多一件」的時刻開始。\n\n汽座、推車整台收，在店裡拆下布套，先局部處理奶漬，再依洗標溫和水洗、陰乾、裝回。畫面裡，裝回後的小折角還多看一眼、順平，再各自包膜、裝袋送回。\n\n大件約 10–14 天；來回收送免費，一件也收。\n等整理好送回，再回到你們自己的生活節奏。\n\n想安排清洗，私訊我們，告訴我們要整理汽座、推車，或兩件一起。",
+      "youtube_video": {
+        "video_id": "kqh0xACx_h4",
+        "embed_url": "https://www.youtube-nocookie.com/embed/kqh0xACx_h4",
+        "watch_url": "https://www.youtube.com/shorts/kqh0xACx_h4",
+        "thumbnail_url": "https://i.ytimg.com/vi/kqh0xACx_h4/hqdefault.jpg",
+        "upload_date": "2026-10-22T13:15:00.000Z"
+      }
     }
   ],
   "article_posts": [
@@ -27704,7 +27763,14 @@
       "article_url": "https://sixiangjialaundry.com/posts/2026-10-22-slot-02.html",
       "url": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-02",
       "facebook_caption": "孩子看著你笑的時候，你也想好好回他一個笑。\n\n帶孩子出門的日常裡，推車座布上的奶漬、汽座縫裡的餅乾屑，往往回家整理才發現。今晚這支小日常，從那個「事情又多一件」的時刻開始。\n\n汽座、推車整台收，在店裡拆下布套，先局部處理奶漬，再依洗標溫和水洗、陰乾、裝回。畫面裡，裝回後的小折角還多看一眼、順平，再各自包膜、裝袋送回。\n\n大件約 10–14 天；來回收送免費，一件也收。\n等整理好送回，再回到你們自己的生活節奏。\n\n想安排清洗，私訊我們，告訴我們要整理汽座、推車，或兩件一起。",
-      "instagram_caption": "孩子看著你笑的時候，你也想好好回他一個笑。\n\n帶孩子出門的日常裡，推車座布上的奶漬、汽座縫裡的餅乾屑，往往回家整理才發現。今晚這支小日常，從那個「事情又多一件」的時刻開始。\n\n汽座、推車整台收，在店裡拆下布套，先局部處理奶漬，再依洗標溫和水洗、陰乾、裝回。畫面裡，裝回後的小折角還多看一眼、順平，再各自包膜、裝袋送回。\n\n大件約 10–14 天；來回收送免費，一件也收。\n等整理好送回，再回到你們自己的生活節奏。\n\n想安排清洗，私訊我們，告訴我們要整理汽座、推車，或兩件一起。"
+      "instagram_caption": "孩子看著你笑的時候，你也想好好回他一個笑。\n\n帶孩子出門的日常裡，推車座布上的奶漬、汽座縫裡的餅乾屑，往往回家整理才發現。今晚這支小日常，從那個「事情又多一件」的時刻開始。\n\n汽座、推車整台收，在店裡拆下布套，先局部處理奶漬，再依洗標溫和水洗、陰乾、裝回。畫面裡，裝回後的小折角還多看一眼、順平，再各自包膜、裝袋送回。\n\n大件約 10–14 天；來回收送免費，一件也收。\n等整理好送回，再回到你們自己的生活節奏。\n\n想安排清洗，私訊我們，告訴我們要整理汽座、推車，或兩件一起。",
+      "youtube_video": {
+        "video_id": "kqh0xACx_h4",
+        "embed_url": "https://www.youtube-nocookie.com/embed/kqh0xACx_h4",
+        "watch_url": "https://www.youtube.com/shorts/kqh0xACx_h4",
+        "thumbnail_url": "https://i.ytimg.com/vi/kqh0xACx_h4/hqdefault.jpg",
+        "upload_date": "2026-10-22T13:15:00.000Z"
+      }
     },
     {
       "id": "urn:sixiangjia:feature:2026-09-15:shoewash-full-process-v3",
@@ -27865,6 +27931,58 @@
         "watch_url": "https://www.youtube.com/shorts/M_foOtCsgj8",
         "thumbnail_url": "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
         "upload_date": "2026-10-21T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022",
+      "date": "2026-10-22",
+      "date_published": "2026-10-22T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "topic": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#棉被清洗",
+        "#換季收納",
+        "#寢具清洗"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-duvet-916.mp4",
+      "calendar_path": "feature-reels/2026-10-22.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-10-22-feature-card-duvet-20261022.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-10-22-feature-card-duvet-20261022.html",
+      "url": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022",
+      "facebook_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE → https://sixiangjialaundry.com/go/line.html?source=reel-card-duvet-20261022 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗",
+      "instagram_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE：0968327653\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗",
+      "youtube_video": {
+        "video_id": "70qUns7icUY",
+        "embed_url": "https://www.youtube-nocookie.com/embed/70qUns7icUY",
+        "watch_url": "https://www.youtube.com/shorts/70qUns7icUY",
+        "thumbnail_url": "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
+        "upload_date": "2026-10-22T06:00:00.000Z"
       },
       "feature_reel": true
     }

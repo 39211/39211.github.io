@@ -332,6 +332,7 @@
         "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
+        "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-10-22/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-22/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -14656,6 +14657,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
       "caption": "不在家也能收送：管理室收件、送回都拍照傳 LINE",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022",
+      "headline": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "text": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE → https://sixiangjialaundry.com/go/line.html?source=reel-card-duvet-20261022 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗",
+      "datePublished": "2026-10-22T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#棉被清洗",
+        "#換季收納",
+        "#寢具清洗"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022:image",
+      "contentUrl": "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
+      "caption": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {

@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-10-22T05:00:08.353Z",
+  "generated_at": "2026-10-22T13:15:09.051Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -666,6 +666,7 @@
       "https://i.ytimg.com/vi/M_foOtCsgj8/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-10-21/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-21/slot-02.png",
+      "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-10-22/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-22/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -2166,10 +2167,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 224,
+      "indexable_article_count": 225,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 224
+      "article_count": 225
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2182,18 +2183,52 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 234,
+    "post_count": 235,
     "latest_date": "2026-10-22",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": false,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 152,
+    "posts_with_search_intent": 153,
     "posts_with_target_queries": 151,
-    "posts_with_evidence_type": 128
+    "posts_with_evidence_type": 129
   },
   "latest_date": "2026-10-22",
   "latest_posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022",
+      "date": "2026-10-22",
+      "date_published": "2026-10-22T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "topic": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#棉被清洗",
+        "#換季收納",
+        "#寢具清洗"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-duvet-916.mp4",
+      "facebook_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE → https://sixiangjialaundry.com/go/line.html?source=reel-card-duvet-20261022 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗",
+      "instagram_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE：0968327653\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-01",
       "date": "2026-10-22",
@@ -2385,6 +2420,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json",
       "facebook_caption": "他玩得很開心，你也忙了一整天。\n\n回家收東西，翻起推車座布的一小角，才看到奶漬；車上的汽座，縫裡也藏著餅乾屑。原本以為今天差不多了，又多一件要整理的事。\n\n這件事，可以讓我們接手。\n汽座和嬰兒推車都能整台收回店裡，不用你先拆布套。奶漬先局部處理，再依洗標溫和水洗、陰乾，裝回後，各自包好透明保護膜、裝袋送回。\n\n兩台都想整理，可以一起安排；只有一件也收。\n大件約 10–14 天，來回收送免費。\n\n想安排家裡的汽座或推車清洗，私訊我們，告訴我們要整理哪一件。",
       "instagram_caption": "他玩得很開心，你也忙了一整天。\n\n回家收東西，翻起推車座布的一小角，才看到奶漬；車上的汽座，縫裡也藏著餅乾屑。原本以為今天差不多了，又多一件要整理的事。\n\n這件事，可以讓我們接手。\n汽座和嬰兒推車都能整台收回店裡，不用你先拆布套。奶漬先局部處理，再依洗標溫和水洗、陰乾，裝回後，各自包好透明保護膜、裝袋送回。\n\n兩台都想整理，可以一起安排；只有一件也收。\n大件約 10–14 天，來回收送免費。\n\n想安排家裡的汽座或推車清洗，私訊我們，告訴我們要整理哪一件。"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022",
+      "date": "2026-10-22",
+      "date_published": "2026-10-22T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "topic": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#棉被清洗",
+        "#換季收納",
+        "#寢具清洗"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-duvet-916.mp4",
+      "facebook_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE → https://sixiangjialaundry.com/go/line.html?source=reel-card-duvet-20261022 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗",
+      "instagram_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE：0968327653\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json#post-2026-10-21-slot-02",
@@ -3864,77 +3933,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json",
       "facebook_caption": "編織皮磨白，先別自己補色。\n\n這次示範的是一件編織皮外套。就這件外套的畫面來看：磨白多在袖口、下襬。掛起來看，整件深淺不一。\n\n這次片中呈現的處理：掛起固定，分區整新。拉開下襬，側邊一起做。分兩次噴，不一次上滿。深淺拉近，編織紋還在。壓一下看，皮面要留軟。\n\n老實說：整新的目標是把深淺拉近，能改善多少依皮況，不保證完全一致。皮件交期約 14 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #編織皮外套 #皮衣整新 #送洗前檢查",
       "instagram_caption": "編織皮磨白，先別自己補色。\n\n這次示範的是一件編織皮外套。就這件外套的畫面來看：磨白多在袖口、下襬。掛起來看，整件深淺不一。\n\n這次片中呈現的處理：掛起固定，分區整新。拉開下襬，側邊一起做。分兩次噴，不一次上滿。深淺拉近，編織紋還在。壓一下看，皮面要留軟。\n\n老實說：整新的目標是把深淺拉近，能改善多少依皮況，不保證完全一致。皮件交期約 14 天，依皮況與排程確認。\n\n拍照傳LINE，先評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #編織皮外套 #皮衣整新 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json#post-2026-10-09-slot-01",
-      "date": "2026-10-09",
-      "date_published": "2026-10-09T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-09 11:30 編織皮外套磨白、色差：店裡怎麼整新",
-      "topic": "編織皮外套磨白、色差：店裡怎麼整新",
-      "visual_route": "macro-detail",
-      "traffic_route": "object-proof",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中皮衣整新",
-        "編織皮外套",
-        "皮衣磨白",
-        "皮衣補色",
-        "西屯洗衣店",
-        "台中皮衣清潔"
-      ],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#編織皮外套",
-        "#皮衣整新",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-09/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-09/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-09/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-09/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-09/slot-01-slide-04.png"
-      ],
-      "carousel_items": [
-        {
-          "slide": 1,
-          "image_prompt": "Photo 1 shows this exact jacket; Photo 2 shows the exact worn cuff.\nA realistic smartphone photo, flat daylight, everything in focus, no blurry background. Inside a customer's small Taiwanese apartment bedroom, the exact brown woven leather jacket from Photo 1 hangs on a plain hanger hooked over the top of an open wardrobe door, buttons closed, the right sleeve cuff turned slightly toward the camera so its pale worn stitched edge is clearly visible; a bed corner and a few everyday things in the background, tidy, no people, no hands, no logos, no text.",
-          "local_image_path": "docs/assets/2026-10-09/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-09/slot-01.png"
-        },
-        {
-          "slide": 2,
-          "image_prompt": "Photo 1 shows this exact jacket (copy it exactly); Photo 2 shows the same scene from the owner's own footage; Photo 3 shows the exact shape of the spray gun.\nVertical 9:16 portrait composition. A realistic smartphone photo, flat lighting, everything in focus, no blurry background. The same exact right sleeve cuff of the same brown woven leather jacket, still near the stainless-steel table edge. A black-sleeved hand enters from the right edge and pinches the cuff band lightly, showing the lighter worn edge and the dense stitched band. In the left background, a spray gun stands idle on a small black stand: green handle, silver round top cup with a lid, short metal nozzle, not being held by anyone. Real interwoven leather strips, not embossed or printed texture. The cuff's lower edge rests flat on the steel table top the whole time; the right hand only lays its fingertips lightly against the side of the cuff and does not pinch, fold or lift it. The whole spray gun with its black stand stands fully inside the frame on the left.",
-          "local_image_path": "docs/assets/2026-10-09/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-09/slot-01-slide-02.png"
-        },
-        {
-          "slide": 3,
-          "image_prompt": "Photo 1 shows this exact jacket (copy it exactly); Photo 2 shows the same scene from the owner's own footage; Photo 3 shows the exact shape of the spray gun.\nA realistic smartphone photo, flat lighting, everything in focus, no blurry background. The same brown woven leather jacket hanging on the same light-colored hanger in front of the same metal shutter. A black-sleeved left hand enters from the upper left edge and lightly holds the standing collar. A black-sleeved right forearm enters from the lower right edge holding a spray gun with a green handle, a silver round top cup with lid, a short metal nozzle, and a blue-green hose coming out from below the handle. The nozzle points toward the shoulder and upper chest. Only a very faint tiny haze exists right in front of the nozzle; no big white mist cloud. The woven leather remains clearly visible.",
-          "local_image_path": "docs/assets/2026-10-09/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-09/slot-01-slide-03.png"
-        },
-        {
-          "slide": 4,
-          "image_prompt": "A realistic smartphone photo, flat fluorescent light, everything in focus. A plain off-white card lying flat on the shop's stainless-steel worktable beside the folded brown woven leather jacket from Photo 1; the card carries exactly three short lines of clean dark Traditional Chinese print, top to bottom: 「編織皮先看磨損位置」「噴槍分兩次整新」「色差不保證完全一致」, and nothing else is written anywhere; no hands, no logos.",
-          "local_image_path": "docs/assets/2026-10-09/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-09/slot-01-slide-04.png"
-        }
-      ],
-      "media_type": "carousel",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-09.json",
-      "facebook_caption": "編織皮外套磨白、色差：店裡怎麼整新。\n\n編織皮外套穿久了，先看袖口和下襬那圈滾邊，再看肩膀與前身的深淺差。袖口、下襬發白，先看磨損位置與皮況；是否還有表面髒污，要看實物。確認有失色後，再評估是否適合整新。\n\n送洗前先別做：自己拿鞋油或補色膏塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看磨損的位置和皮況，前處理與用劑依皮況調整；外套掛起固定，用噴槍分區整新；拉開下襬，側邊一起做；這次示範採分兩次噴，不一次上滿，前一層穩定後再做下一層；最後輕壓檢查手感。\n\n老實說：整新的目標是把深淺拉近，能改善多少依皮況，不保證完全一致。皮件交期約 14 天，依皮況與排程確認。\n\n拍磨白的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #編織皮外套 #皮衣整新 #送洗前檢查",
-      "instagram_caption": "編織皮外套磨白、色差：店裡怎麼整新。\n\n編織皮外套穿久了，先看袖口和下襬那圈滾邊，再看肩膀與前身的深淺差。袖口、下襬發白，先看磨損位置與皮況；是否還有表面髒污，要看實物。確認有失色後，再評估是否適合整新。\n\n送洗前先別做：自己拿鞋油或補色膏塗、拿濕布用力來回擦、掛在太陽下曬。\n\n在店裡，我們這樣做：先看磨損的位置和皮況，前處理與用劑依皮況調整；外套掛起固定，用噴槍分區整新；拉開下襬，側邊一起做；這次示範採分兩次噴，不一次上滿，前一層穩定後再做下一層；最後輕壓檢查手感。\n\n老實說：整新的目標是把深淺拉近，能改善多少依皮況，不保證完全一致。皮件交期約 14 天，依皮況與排程確認。\n\n拍磨白的位置、整件正面傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #編織皮外套 #皮衣整新 #送洗前檢查"
     }
   ],
   "published_posts": [
@@ -14448,6 +14446,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-21.json",
       "facebook_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送",
       "instagram_caption": "上班不在家，送洗還得另外找時間？\n\n先在 LINE 約好，再寄放管理室。\n\n我們來收件，在櫃檯拍照傳 LINE。\n\n一件也收，來回收送免費，洗護費另計。一般衣物約五到七天。\n\n襯衫水洗參考價每件七十元。\n\n洗好先傳明細，再約送回時間。送回管理室，包好後也拍照傳 LINE。\n\n付款也能用 LINE Pay。你忙你的，衣服我們來照顧。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #洗衣收送 #到府收件 #管理室收送"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-10-22:card-duvet-20261022",
+      "date": "2026-10-22",
+      "date_published": "2026-10-22T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "topic": "棉被摸起來乾，中間那層不一定乾｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#棉被清洗",
+        "#換季收納",
+        "#寢具清洗"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/70qUns7icUY/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-duvet-916.mp4",
+      "facebook_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE → https://sixiangjialaundry.com/go/line.html?source=reel-card-duvet-20261022 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗",
+      "instagram_caption": "棉被摸起來乾，中間那層不一定乾。\n\n沒乾透就收進櫃子，下一季打開就是那個味道。\n收進櫃子前先做三件事：先聞有沒有潮味，別用塑膠袋把潮氣封死，換季收納前洗一次。\n\n我會先確認填充物、尺寸與受潮程度，再決定烘法。\n難乾的大件約 10–14 天，以報價為準。\n體積大的棉被不用自己搬，台中全市免費收送。\n\n先拍整件、洗標、尺寸，傳 LINE：0968327653\n\n#私享家洗衣店 #台中洗衣店 #棉被清洗 #換季收納 #寢具清洗"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-22.json#post-2026-10-22-slot-01",
