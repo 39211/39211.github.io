@@ -702,8 +702,8 @@
     {
       "id": "shoe-bag-care-faq-05",
       "type": "faq",
-      "question": "洗鞋多少錢？為什麼這裡查不到價目表？",
-      "answer": "私享家洗衣店在台中西屯青海路二段365號（至善國中對面）：一般運動鞋水洗參考價250元（非固定成交價）；麂皮／皮革／泛黃／脫膠需另評估，不保證恢復原色或變全新；台中全市免費收送、無低消，清潔費另計，收送時間由門市確認。另提供洗衣、洗包與床被清潔。東海無門市（僅收送）；不做除臭或醫療級承諾。",
+      "question": "洗鞋多少錢？",
+      "answer": "一般運動鞋 $250、皮鞋 $400（水洗參考價）；其他看價目表，看過實品再報。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/services/shoe-bag-care.html#faq",
       "local_intent": "台中西屯 鞋包清潔",
@@ -1605,7 +1605,7 @@
       "id": "school-uniform-care-summary",
       "type": "guide_summary",
       "question": "開學前的制服整理:順序錯了會把黃痕定死",
-      "answer": "每年開學前一週,制服是送洗量最大的一項。家長最常做錯的一件事:先燙再說。高溫會把領口的皮脂氧化痕定型,之後再洗就洗不掉了。正確順序是先處理舊痕,再整燙。",
+      "answer": "每年開學前一週,制服是送洗量最大的一項。家長容易犯的錯:先燙再說。高溫會把領口的皮脂氧化痕定型,之後再洗就洗不掉了。正確順序是先處理舊痕,再整燙。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/school-uniform-care.html",
       "local_intent": "台中 制服送洗 開學 領口發黃",
@@ -3454,7 +3454,7 @@
     {
       "id": "luggage-wheel-cleaning-summary",
       "type": "guide_summary",
-      "question": "行李箱輪子與底板：收進櫃子前先看這裡",
+      "question": "行李箱輪子與底板：收進櫃子前先看哪些位置",
       "answer": "行李箱收進櫃子前先看輪子；輪子與底板灰收進去，下次打開就是味道。",
       "service": "鞋包清潔",
       "source_url": "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
@@ -4103,7 +4103,7 @@
       "id": "zhongke-office-laundry-faq-04",
       "type": "local_faq",
       "question": "西裝和襯衫可以同一袋嗎？",
-      "answer": "收送可以一起。判斷與工序仍分開，西裝肩線與領片要另看，不要當薄襯衫洗。",
+      "answer": "收送可以一起。判斷與工序仍分開，西裝肩線與領片要另外評估，不要當薄襯衫洗。",
       "service": "店家與公司大量衣物送洗",
       "source_url": "https://sixiangjialaundry.com/local/zhongke-office-laundry.html#faq",
       "local_intent": "中科園區 襯衫 公司衣物 收送",
@@ -4438,7 +4438,7 @@
     {
       "id": "nantun-laundry-pickup-summary",
       "type": "local_summary",
-      "question": "南屯洗衣店？門市在西屯，一件也收、免費到府收送",
+      "question": "南屯洗衣店：門市在西屯，免費到府收送",
       "answer": "南屯生活圈可約免費收送；大樓管理室代收代送，厚被與換季衣物先傳照片。",
       "service": "台中全市免費洗衣收送",
       "source_url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
@@ -6591,7 +6591,7 @@
       "id": "wool-knit-shrink-risk-faq-03",
       "type": "guide_faq",
       "question": "手洗比較安全嗎？",
-      "answer": "仍看水溫與搓揉。手洗不是保證。洗標看不懂就先問。",
+      "answer": "還是要看水溫與搓揉。手洗不是保證。洗標看不懂就先問。",
       "service": "台中西屯洗衣店",
       "source_url": "https://sixiangjialaundry.com/guides/wool-knit-shrink-risk.html#faq",
       "local_intent": "台中西屯 毛衣 針織 縮水 洗標",
@@ -8068,7 +8068,7 @@
       "id": "postpartum-center-laundry-page-summary",
       "type": "service_summary",
       "question": "月子中心洗衣收哪些布品？",
-      "answer": "月子中心洗衣收床組、包巾、產婦用的袍和職員自己的便服，要有對接人和房號或樓層標記。可以討論固定的收送節奏，實際交件日由門市確認。這裡不做醫療滅菌，不做除臭保證，不開消毒證明。",
+      "answer": "月子中心洗衣收床組、包巾、產婦用的袍和職員自己的便服，要有對接人和房號或樓層標記。可以討論固定的收送節奏，實際交件日由門市確認。我們不做醫療滅菌，不做除臭保證，不開消毒證明。",
       "source_url": "https://sixiangjialaundry.com/services/postpartum-center-laundry.html",
       "local_intent": "月子中心 洗衣",
       "keywords": [
@@ -8708,7 +8708,7 @@
       "id": "light-leather-bag-yellowing-page-summary",
       "type": "guide_summary",
       "question": "淺色皮包變黃先確認什麼？",
-      "answer": "白色或奶油色皮包變黃、包角發灰，先確認外層是有塗飾的真皮。未塗飾的原色植鞣皮變深是另一種情況，不在這裡。",
+      "answer": "白色或奶油色皮包變黃、包角發灰，先確認外層是有塗飾的真皮。未塗飾的原色植鞣皮變深是另一種情況，要另外判斷。",
       "source_url": "https://sixiangjialaundry.com/guides/light-leather-bag-yellowing.html",
       "local_intent": "淺色皮包 變黃",
       "keywords": [
@@ -9074,6 +9074,384 @@
         "水解",
         "合成皮掉屑"
       ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "golf-shoe-cleaning-page-summary",
+      "type": "guide_summary",
+      "question": "高爾夫球鞋可以整雙泡水嗎？",
+      "answer": "不要整雙泡。鞋釘座、鞋面和中底遇水的反應不一樣。先拍鞋底和鞋面，再問門市。金屬鞋釘與鞋底殘留，看過實品，確認可以收才收。",
+      "source_url": "https://sixiangjialaundry.com/guides/golf-shoe-cleaning.html",
+      "local_intent": "高爾夫球鞋怎麼清",
+      "keywords": [
+        "高爾夫球鞋",
+        "鞋釘",
+        "草地汁"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "leather-pants-skirt-page-summary",
+      "type": "guide_summary",
+      "question": "皮褲可以水洗嗎？",
+      "answer": "不能只因為是皮褲就泡水。膝摺、塗層和裡布要先看。彈性皮和已經裂開的塗層，先問門市。補色屬修繕，不包含在清潔內。",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-pants-skirt.html",
+      "local_intent": "皮褲、皮裙怎麼清",
+      "keywords": [
+        "皮褲",
+        "皮裙",
+        "膝摺"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "pleated-skirt-care-page-summary",
+      "type": "guide_summary",
+      "question": "百褶裙可以水洗嗎？",
+      "answer": "不能只看名字就泡水。先分褶是車縫固定還是只靠整燙，並看襯布和面子的成分。洗標寫乾洗時，不要在家改水洗。不保證褶的間距燙回原來。",
+      "source_url": "https://sixiangjialaundry.com/guides/pleated-skirt-care.html",
+      "local_intent": "褶裙怎麼洗",
+      "keywords": [
+        "褶裙",
+        "百褶裙",
+        "褶向"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "iron-scorch-mark-page-summary",
+      "type": "guide_summary",
+      "question": "燙焦的黃可以用漂白水嗎？",
+      "answer": "不要用漂白水。漂白水會把布漂壞，焦痕也清不掉。焦痕多半救不回，先拍照，不要在焦的位置再加熱。",
+      "source_url": "https://sixiangjialaundry.com/guides/iron-scorch-mark.html",
+      "local_intent": "衣服燙焦了怎麼看",
+      "keywords": [
+        "燙焦",
+        "焦痕",
+        "熨斗"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "shoe-insole-check-page-summary",
+      "type": "guide_summary",
+      "question": "洗鞋一定要拆鞋墊嗎？",
+      "answer": "不一定。抽得起的可以先掀起來拍。縫死或黏死的不要為了送洗硬拆。軟木鞋床不能拆，也不能整雙泡水，請看〈勃肯鞋〉。價目表沒有單獨這一項；看過實品再報價。不承諾除臭。",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-insole-check.html",
+      "local_intent": "鞋墊要不要拆",
+      "keywords": [
+        "鞋墊",
+        "黏死鞋墊",
+        "洗鞋"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "doll-shoe-cleaning-page-summary",
+      "type": "guide_summary",
+      "question": "娃娃鞋是童鞋嗎？",
+      "answer": "娃娃鞋是圓頭繫帶的鞋款，跟絨毛娃娃無關。先看細帶、摺位和鞋口。不是童鞋的魔鬼氈和印花。跟片磨斜屬修繕，不包含在清潔內。能不能改善，看過才知道。價目表沒有單獨這一項；看過實品再報價。",
+      "source_url": "https://sixiangjialaundry.com/guides/doll-shoe-cleaning.html",
+      "local_intent": "娃娃鞋怎麼清",
+      "keywords": [
+        "娃娃鞋",
+        "圓頭繫帶",
+        "絨毛娃娃"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "hat-cleaning-page-summary",
+      "type": "guide_summary",
+      "question": "帽子可以整頂丟進洗衣機嗎？",
+      "answer": "帽子要先分布帽、毛帽、皮帽和草帽。帽簷內的汗黃和帽冠的灰分開拍。毛帽不要泡熱水。皮帽不要整頂泡，先在不明顯的小角落試。能不能改善，看過才知道。價目表有『帽子、皮帽子、精品帽子』可以參考；實際金額依材質與狀況，看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/hat-cleaning.html",
+      "local_intent": "帽子怎麼洗",
+      "keywords": [
+        "帽子清洗",
+        "毛帽",
+        "皮帽"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "leather-glove-care-page-summary",
+      "type": "guide_summary",
+      "question": "皮手套可以水洗嗎？",
+      "answer": "皮手套要先看指縫、掌心和內裡。不要整雙泡，不要烘。指尖磨穿屬修繕，不包含在清潔內。特殊皮先在不明顯的小角落試。能不能改善，看過才知道。價目表有『精品手套』可以參考；實際金額依材質與狀況，看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-glove-care.html",
+      "local_intent": "皮手套怎麼清",
+      "keywords": [
+        "皮手套",
+        "精品手套",
+        "指縫"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "leather-belt-care-page-summary",
+      "type": "guide_summary",
+      "question": "皮帶可以泡水嗎？",
+      "answer": "皮帶要先看帶身、孔位和扣頭。邊油裂開不是髒，清潔不會把邊油補新。扣頭不要自己磨。改長短、打新孔屬修繕，不包含在清潔內。價目表有『皮帶』可以參考；實際金額依材質與狀況，看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-belt-care.html",
+      "local_intent": "皮帶怎麼清",
+      "keywords": [
+        "皮帶",
+        "皮帶扣頭",
+        "邊油"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "bedsheet-set-cleaning-page-summary",
+      "type": "guide_summary",
+      "question": "床組四件套可以和棉被洗在一起嗎？",
+      "answer": "床組四件套是枕套、床單、被套和床包。被套可以和這三件布一起評估，棉被本體的填充和潮味要分開看，不要把還沒乾的棉被塞進被套。洗標纖維不一樣就分袋。價目表有『床組四件套』可以參考；價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
+      "local_intent": "床組四件套怎麼洗",
+      "keywords": ["床組四件套", "枕套", "被套", "床包"],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "curtain-lining-blackout-page-summary",
+      "type": "guide_summary",
+      "question": "遮光窗簾的裡布一定要拆下來洗嗎？",
+      "answer": "不一定。先分背面塗層和獨立裡布。子母扣、黏扣、拉鍊能分開的，面布和裡布分開拍。車死的裡布不要自己拆線。背面白粉、裂紋、黏手是塗層老化，先停。不保證每一幅遮光簾都用水洗。價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/curtain-cleaning.html",
+      "local_intent": "遮光窗簾內襯怎麼看",
+      "keywords": ["遮光窗簾", "窗簾內襯", "遮光塗層"],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "carpet-fiber-types-page-summary",
+      "type": "guide_summary",
+      "question": "地毯要先看纖維還是先看尺寸？",
+      "answer": "能不能碰水先看纖維和背膠。羊毛、尼龍、聚丙烯、棉和混紡不要當成同一種。乳膠和防滑點遇水可能粉化或脫開。尺寸用來說明收送和報價。不保證每一張羊毛地毯都走水洗。價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/carpet-cleaning.html",
+      "local_intent": "地毯材質先分再洗",
+      "keywords": ["地毯材質", "地毯背膠", "地毯纖維"],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "plush-filling-clump-page-summary",
+      "type": "guide_summary",
+      "question": "娃娃洗完有硬塊，是不是洗失敗？",
+      "answer": "先分硬塊在內芯，還是只是絨毛倒伏。內芯的硬核、一條稜、整片壓扁，狀況不同。結塊之後不要再高速脫水。把娃娃拆開、把填充掏出再重塞，屬修繕，不包含在清潔內；能不能處理、是否另計，要看過實品由門市說明。不做除臭或醫療滅菌承諾。價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
+      "local_intent": "娃娃填充結塊怎麼看",
+      "keywords": ["絨毛娃娃結塊", "娃娃填充", "娃娃送洗"],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "casual-shoe-cleaning-page-summary",
+      "type": "guide_summary",
+      "question": "休閒鞋和運動鞋是同一種嗎？",
+      "answer": "不是。休閒鞋是平底膠底、低筒、帆布或合成鞋面，沒有專業跑鞋的厚中底。皮面運動鞋看真皮與塗層皮。不要整雙泡水。膠底與鞋面分離、要換一整片底，屬修繕，不包含在清潔內；能不能處理、是否另計，要看過實品由門市說明。價目表有『休閒鞋』可以參考；價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/casual-shoe-cleaning.html",
+      "local_intent": "休閒鞋怎麼清",
+      "keywords": ["休閒鞋", "帆布鞋", "平底膠底"],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "suit-pants-crease-page-summary",
+      "type": "guide_summary",
+      "question": "西裝褲摺線洗完會消失嗎？",
+      "answer": "燙出來的摺，清洗和穿坐之後可能變淡。車線摺不會因為清洗消失。膝頭磨白是布被磨薄，整燙補不回厚度。只燙褲子要先講；褲上有汗、泥或油時，只燙可能把污漬燙住。改短、放長、重車一道新的摺線，屬修繕，不包含在清潔內；能不能處理、是否另計，要看過實品由門市說明。價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/suit-pants-crease.html",
+      "local_intent": "西裝褲摺線怎麼顧",
+      "keywords": ["西裝褲摺線", "西裝褲整燙", "膝頭磨白"],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "down-duvet-vs-jacket-page-summary",
+      "type": "guide_summary",
+      "question": "羽絨被可以照羽絨外套的方式脫水嗎？",
+      "answer": "不要直接套用。羽絨被的隔間大、含水多；羽絨外套隔間小，還有拉鍊和袖子。兩邊的洗標位置也不同。跑絨的洞清洗補不上。價目表有『羽絨被』可以參考，羽絨外套是另一項；價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
+      "local_intent": "羽絨被和羽絨外套送洗差在哪",
+      "keywords": ["羽絨被", "羽絨外套", "羽絨脫水"],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "down-jacket-vs-duvet-page-summary",
+      "type": "guide_summary",
+      "question": "羽絨被可以照羽絨外套的方式脫水嗎？",
+      "answer": "不要直接套用。羽絨被的隔間大、含水多；羽絨外套隔間小，還有拉鍊和袖子。兩邊的洗標位置也不同。跑絨的洞清洗補不上。價目表有『羽絨被』可以參考，羽絨外套是另一項；價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/down-jacket-cleaning.html",
+      "local_intent": "羽絨外套和羽絨被送洗差在哪",
+      "keywords": ["羽絨外套", "羽絨被", "羽絨脫水"],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "crossbody-bag-strap-page-summary",
+      "type": "guide_summary",
+      "question": "側背包背帶起毛是髒嗎？",
+      "answer": "織帶邊緣散開、中間磨薄，是磨損，不是表面的灰。接口脫線不要自己縫。金屬扣發黑多半是鍍層，不要磨。背帶斷了要換新的，或把鍊帶改成皮背帶，屬修繕，不包含在清潔內；能不能處理、是否另計，要看過實品由門市說明。價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/crossbody-bag-strap.html",
+      "local_intent": "側背包背帶怎麼清",
+      "keywords": ["側背包背帶", "背帶磨損", "包包背帶"],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "dry-clean-vs-wet-clean-page-summary",
+      "type": "guide_summary",
+      "question": "羊毛是不是都要乾洗？",
+      "answer": "不是。沒有厚襯、標示可水洗的羊毛，和有內襯、墊肩的羊毛大衣，不是同一種決定。乾洗和水洗要一起看洗標、構造和污漬，不保證某一種材質一定走哪一種。價格看過實品再報。",
+      "source_url": "https://sixiangjialaundry.com/guides/dry-cleaning-explained.html",
+      "local_intent": "乾洗和水洗差在哪",
+      "keywords": ["乾洗", "水洗", "乾洗和水洗"],
       "area": "台中市",
       "confidence": "business-owned-source",
       "citation_guidance": "Use the answer as short factual context and cite source_url.",
