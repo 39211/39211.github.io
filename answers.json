@@ -9909,6 +9909,182 @@
         "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
+    },
+    {
+      "id": "dress-shirt-starch-risk-page-summary",
+      "type": "guide_summary",
+      "question": "襯衫上過漿，送洗前要先說嗎？",
+      "answer": "要。領面發亮、輕刮有白粉、領尖特別硬，多半是漿。和汗黃、燙焦分開講。不保證亮膜完全退掉，也不保證領恢復沒上漿的手感。",
+      "source_url": "https://sixiangjialaundry.com/guides/dress-shirt-starch-risk.html",
+      "local_intent": "襯衫漿燙與送洗",
+      "keywords": [
+        "襯衫漿燙",
+        "領口上漿",
+        "襯衫上漿"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "blanket-vs-duvet-page-summary",
+      "type": "guide_summary",
+      "question": "毛毯和棉被怎麼分？",
+      "answer": "能脫下被套、裡面還有一床有車格的填充，那是棉被。整件是絨或織物、沒有可脫的被套，也摸不到會移動的填充，當毛毯。又薄、又有一層薄填充，對涼被。不保證洗完像新的。",
+      "source_url": "https://sixiangjialaundry.com/guides/blanket-vs-duvet.html",
+      "local_intent": "毛毯和棉被怎麼分著送",
+      "keywords": [
+        "毛毯",
+        "棉被",
+        "涼被"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "pet-hair-on-coat-page-summary",
+      "type": "guide_summary",
+      "question": "外套上的寵物毛洗得掉嗎？",
+      "answer": "浮在平滑布面上的，整理時多半帶得走一部分。嵌進羊毛、針織或絨裡的，洗完仍可能留下。不保證除到一根都不剩，也不做除臭承諾。",
+      "source_url": "https://sixiangjialaundry.com/guides/pet-hair-on-coat.html",
+      "local_intent": "外套上的寵物毛",
+      "keywords": [
+        "外套寵物毛",
+        "衣服沾毛",
+        "羊毛勾毛"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "how-laundry-quote-works-page-summary",
+      "type": "guide_summary",
+      "question": "洗衣怎麼報價？",
+      "answer": "先拍全貌和洗標，指出污漬和破損，再對價目表的列。門市看過照片或實品才確認這一件怎麼計。沒有照片時，只能先說明可能對上哪一列。收送免費，清潔另計。",
+      "source_url": "https://sixiangjialaundry.com/guides/how-laundry-quote-works.html",
+      "local_intent": "洗衣怎麼報價",
+      "keywords": [
+        "洗衣報價",
+        "送洗報價",
+        "價目"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "office-shirt-subscription-page-summary",
+      "type": "service_summary",
+      "question": "公司襯衫可以固定來收嗎？",
+      "answer": "可以先約收件日和件數。實際交件日由門市確認，到府時間不先說成固定幾點。清潔仍按件對價目表的襯衫列，網站沒有包月金額。東海無門市，只有收送。",
+      "source_url": "https://sixiangjialaundry.com/services/office-shirt-subscription.html",
+      "local_intent": "公司襯衫固定收送",
+      "keywords": [
+        "公司襯衫",
+        "固定收送",
+        "辦公室襯衫"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "commercial-laundry-page-summary",
+      "type": "guide_summary",
+      "question": "商務洗衣要先看哪一頁？",
+      "answer": "先分種類。公司櫃台的襯衫用公司襯衫固定收送。診所制服、月子中心、大量毛巾床組各有自己的頁面。中科園區是地點怎麼約。不把四種收成一個總價。",
+      "source_url": "https://sixiangjialaundry.com/hubs/commercial-laundry.html",
+      "local_intent": "商務洗衣怎麼選",
+      "keywords": [
+        "商務洗衣",
+        "公司送洗",
+        "診所制服"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "makeup-on-bag-lining-page-summary",
+      "type": "guide_summary",
+      "question": "包內襯沾到口紅或粉底，要先擦嗎？",
+      "answer": "先不要用酒精大面積擦，印可能散開。先拍是口紅、粉底、筆痕，還是整片發黏的塗層。不保證顏色完全退掉。",
+      "source_url": "https://sixiangjialaundry.com/guides/makeup-on-bag-lining.html",
+      "local_intent": "包內襯沾彩妝",
+      "keywords": [
+        "包內襯",
+        "口紅",
+        "粉底"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "leather-vest-cleaning-page-summary",
+      "type": "guide_summary",
+      "question": "皮背心可以照皮衣的方式處理嗎？",
+      "answer": "不要直接套。皮背心沒有袖子，汗和磨損在袖窿、腰側和裡布。有袖的外套看皮衣頁。不保證變全新，不做除臭承諾。",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-vest-cleaning.html",
+      "local_intent": "皮背心怎麼看",
+      "keywords": [
+        "皮背心",
+        "皮背心送洗",
+        "袖窿"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
     }
   ]
 }
