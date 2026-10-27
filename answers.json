@@ -9711,6 +9711,204 @@
         "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
+    },
+    {
+      "id": "shoe-collar-foam-check-page-summary",
+      "type": "guide_summary",
+      "question": "鞋領海綿破掉是鞋墊壞了嗎？",
+      "answer": "先確認破的是鞋口泡棉。換一塊海綿屬修繕。能不能做、怎麼算，傳照片到 LINE @454foyks 問。清潔可以處理鞋口的泥和汗，不會把已經碎掉的泡棉補回去。價目表鞋子欄原文：「一般運動鞋 $250、皮類運動鞋 $300、混合運動鞋 $350」以及「休閒鞋 $350、低靴子 $350、中靴子 $450、高靴子 $550、麂皮鞋 $400、高跟鞋 $400、特殊鞋 $400、名牌鞋 $600、皮鞋 $400」。全部是水洗參考價，乾洗、柔洗另計。參考價，看過實品再報價。門市在台中市西屯區，西屯門市收件。台中全市免費收送、沒有最低消費。LINE 官方 @454foyks（https://lin.ee/w8qGVqM）。",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-collar-foam-check.html",
+      "local_intent": "鞋領海綿破掉怎麼看",
+      "keywords": [
+        "鞋領海綿破掉",
+        "鞋子泡棉外露",
+        "鞋口海綿"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "shoe-lace-eyelet-check-page-summary",
+      "type": "guide_summary",
+      "question": "鞋帶發灰和鞋眼生鏽要分開看嗎？",
+      "answer": "先拍鞋帶整條和鞋眼正反。鞋面的黃、膠邊的黃請看白鞋泛黃。換鞋帶、換鞋眼屬修繕。能不能做、怎麼算，傳照片到 LINE @454foyks 問。價目表鞋子欄原文：「一般運動鞋 $250、皮類運動鞋 $300、混合運動鞋 $350」以及「休閒鞋 $350、低靴子 $350、中靴子 $450、高靴子 $550、麂皮鞋 $400、高跟鞋 $400、特殊鞋 $400、名牌鞋 $600、皮鞋 $400」。全部是水洗參考價，乾洗、柔洗另計。參考價，看過實品再報價。門市在台中市西屯區，西屯門市收件。台中全市免費收送、沒有最低消費。LINE 官方 @454foyks（https://lin.ee/w8qGVqM）。",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-lace-eyelet-check.html",
+      "local_intent": "鞋帶發灰鞋眼生鏽",
+      "keywords": [
+        "鞋帶發霉",
+        "鞋眼生鏽",
+        "鞋帶孔發黑"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "shoe-toe-cap-wear-page-summary",
+      "type": "guide_summary",
+      "question": "鞋頭磨破和鞋面摺痕裂開一樣嗎？",
+      "answer": "先拍鞋頭正面和側面，標出掀起的邊緣。還沒有整圈離開鞋面，就不要先灌膠。補鞋頭屬修繕。能不能做、怎麼算，傳照片到 LINE @454foyks 問。價目表鞋子欄原文：「一般運動鞋 $250、皮類運動鞋 $300、混合運動鞋 $350」以及「休閒鞋 $350、低靴子 $350、中靴子 $450、高靴子 $550、麂皮鞋 $400、高跟鞋 $400、特殊鞋 $400、名牌鞋 $600、皮鞋 $400」。全部是水洗參考價，乾洗、柔洗另計。參考價，看過實品再報價。門市在台中市西屯區，西屯門市收件。台中全市免費收送、沒有最低消費。LINE 官方 @454foyks（https://lin.ee/w8qGVqM）。",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-toe-cap-wear.html",
+      "local_intent": "鞋頭磨破怎麼看",
+      "keywords": [
+        "鞋頭磨破",
+        "鞋頭塗層掀起",
+        "鞋頭脫皮"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "shoe-counter-lining-wear-page-summary",
+      "type": "guide_summary",
+      "question": "鞋子磨腳踝是鞋跟斷了嗎？",
+      "answer": "拍後跟內裡和破口邊緣。跟柱歪了、止滑片磨平，看高跟鞋那一則。補內裡屬修繕。能不能做、怎麼算，傳照片到 LINE @454foyks 問。價目表鞋子欄原文：「一般運動鞋 $250、皮類運動鞋 $300、混合運動鞋 $350」以及「休閒鞋 $350、低靴子 $350、中靴子 $450、高靴子 $550、麂皮鞋 $400、高跟鞋 $400、特殊鞋 $400、名牌鞋 $600、皮鞋 $400」。全部是水洗參考價，乾洗、柔洗另計。參考價，看過實品再報價。門市在台中市西屯區，西屯門市收件。台中全市免費收送、沒有最低消費。LINE 官方 @454foyks（https://lin.ee/w8qGVqM）。",
+      "source_url": "https://sixiangjialaundry.com/guides/shoe-counter-lining-wear.html",
+      "local_intent": "鞋後跟內裡磨破",
+      "keywords": [
+        "鞋後跟內裡破",
+        "鞋子磨腳跟",
+        "後跟裡布"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "new-shoe-dye-ruboff-page-summary",
+      "type": "guide_summary",
+      "question": "新鞋把襪子和褲腳染到，要先看鞋還是衣服？",
+      "answer": "先停穿這雙鞋去踩水、烘乾或再刷。拍鞋面出顏色的位置，以及襪子、褲腳的色塊。不要用含氯漂白水，也不要把褲腳先燙過。鞋子對價目表鞋子欄原文：「一般運動鞋 $250、皮類運動鞋 $300、混合運動鞋 $350」以及「休閒鞋 $350、低靴子 $350、中靴子 $450、高靴子 $550、麂皮鞋 $400、高跟鞋 $400、特殊鞋 $400、名牌鞋 $600、皮鞋 $400」。沾到的褲子對衣物欄原文：「短褲 $60、襯衫 $70、長褲 $70」以及「醫師服 $100、牛仔褲 $80、薄外套 $150」。全部是水洗參考價，乾洗、柔洗另計。參考價，看過實品再報價。門市在台中市西屯區，西屯門市收件。台中全市免費收送、沒有最低消費。LINE 官方 @454foyks（https://lin.ee/w8qGVqM）。",
+      "source_url": "https://sixiangjialaundry.com/guides/new-shoe-dye-ruboff.html",
+      "local_intent": "新鞋掉色沾到襪子",
+      "keywords": [
+        "新鞋掉色",
+        "鞋子染色",
+        "新鞋染到襪子"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "bag-clasp-stuck-check-page-summary",
+      "type": "guide_summary",
+      "question": "包包轉鎖轉不開，是五金氧化嗎？",
+      "answer": "拍鎖的正面、側面，以及轉到哪一個角度停住。變色但還轉得動，看五金氧化。轉不動，用這一則。裝回去屬修繕。能不能做、怎麼算，傳照片到 LINE @454foyks 問。價目表包包欄原文：「一般包 $600、皮包包 $1000、名牌包 $1500 起、特殊類名牌包 $2500」。全部是水洗參考價，乾洗、柔洗另計。參考價，看過實品再報價。 價目表其他欄原文：「整燙 $50、修改 $60」。門市在台中市西屯區，西屯門市收件。台中全市免費收送、沒有最低消費。LINE 官方 @454foyks（https://lin.ee/w8qGVqM）。",
+      "source_url": "https://sixiangjialaundry.com/guides/bag-clasp-stuck-check.html",
+      "local_intent": "包包轉鎖轉不開",
+      "keywords": [
+        "包包轉鎖轉不開",
+        "磁扣吸不住",
+        "按扣按不回去"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "wool-sweater-pilling-page-summary",
+      "type": "guide_summary",
+      "question": "羊毛毛衣起球和縮水是同一件事嗎？",
+      "answer": "先拍小球的位置，再把衣服拉平，看身片長度有沒有變短。只有小球、長度還在，和已經縮短，不是同一件事。刮破了的洞要標出來。價目表衣物欄原文：「褶裙 $100、毛衣 $150、旗袍 $200」以及「西裝背心 $80、毛衣外套 $180、羽絨背心 $200」。精品衣物欄原文：「精品外套 $200、精品毛衣 $210、精品棉T $100」。全部是水洗參考價，乾洗、柔洗另計。參考價，看過實品再報價。門市在台中市西屯區，西屯門市收件。台中全市免費收送、沒有最低消費。LINE 官方 @454foyks（https://lin.ee/w8qGVqM）。",
+      "source_url": "https://sixiangjialaundry.com/guides/wool-sweater-pilling.html",
+      "local_intent": "羊毛毛衣起球",
+      "keywords": [
+        "毛衣起球",
+        "羊毛衣起球",
+        "羊毛毛衣小球"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "leather-jacket-elbow-crease-page-summary",
+      "type": "guide_summary",
+      "question": "皮衣手肘裂開是發霉嗎？",
+      "answer": "拍手肘彎起來和放平兩張。有白點、綠點先不要擦，轉去看皮衣發霉。只有裂、沒有霉點，用這一則。不要上油把裂填滿再送。價目表皮革欄原文：「皮衣 $1200、皮帽子 $300、皮短褲 $600、皮背心 $800、特殊皮衣 $2000」。手肘對上的是其中的「皮衣 $1200」與「特殊皮衣 $2000」。同欄的「皮背心 $800」是背心，不是袖子。全部是水洗參考價，乾洗、柔洗另計。參考價，看過實品再報價。門市在台中市西屯區，西屯門市收件。台中全市免費收送、沒有最低消費。LINE 官方 @454foyks（https://lin.ee/w8qGVqM）。",
+      "source_url": "https://sixiangjialaundry.com/guides/leather-jacket-elbow-crease.html",
+      "local_intent": "皮衣手肘裂開",
+      "keywords": [
+        "皮衣手肘裂",
+        "皮衣摺痕",
+        "皮衣手肘"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
+    },
+    {
+      "id": "garment-lining-detach-page-summary",
+      "type": "guide_summary",
+      "question": "外套裡布垂下來，是髒還是車線脫開？",
+      "answer": "把衣服翻開，拍脫開的車線和垂下來的長度。先別自己用大針腳縫上，後加的線會蓋住原來的脫法。重車屬修繕。能不能做、怎麼算，傳照片到 LINE @454foyks 問。價目表衣物欄原文：「薄外套 $150、厚外套 $180、薄夾克 $150、厚夾克 $180」以及「短大衣 $200、中大衣 $250、長大衣 $300」。精品衣物欄原文：「精品短大衣 $250、精品中大衣 $300、精品長大衣 $350」。其他欄原文：「整燙 $50、修改 $60」。全部是水洗參考價，乾洗、柔洗另計。參考價，看過實品再報價。門市在台中市西屯區，西屯門市收件。台中全市免費收送、沒有最低消費。LINE 官方 @454foyks（https://lin.ee/w8qGVqM）。",
+      "source_url": "https://sixiangjialaundry.com/guides/garment-lining-detach.html",
+      "local_intent": "衣服內裡脫開",
+      "keywords": [
+        "衣服內裡脫落",
+        "裡布掉下來",
+        "外套裡布脫線"
+      ],
+      "area": "台中市",
+      "confidence": "business-owned-source",
+      "citation_guidance": "Use the answer as short factual context and cite source_url.",
+      "do_not_infer": [
+        "Do not infer pricing.",
+        "Do not guarantee like-new results, odor removal, or medical sterilization.",
+        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not infer that a price-list row means every condition is accepted."
+      ]
     }
   ]
 }
