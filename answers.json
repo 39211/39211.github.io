@@ -109,7 +109,7 @@
     ],
     "do_not_infer_rules": [
       "Do not infer pricing.",
-      "Do not describe a Donghai storefront; 東海僅收送、無門市.",
+      "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
       "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
       "Do not guarantee that white shoes can be fully whitened.",
       "Do not claim that stains, odor, mold, yellowing, or dark marks can always be fully removed.",
@@ -165,7 +165,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times."
@@ -188,7 +188,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not describe a fixed-distance service radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times, awards or customer cases."
@@ -211,7 +211,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times."
@@ -235,7 +235,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times."
@@ -258,7 +258,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times."
@@ -281,7 +281,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times."
@@ -303,7 +303,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times."
@@ -326,7 +326,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times."
@@ -349,7 +349,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times."
@@ -371,7 +371,7 @@
       "citation_guidance": "Quote the answer directly (it names 私享家洗衣店 台中西屯), then cite source_url.",
       "do_not_infer": [
         "Do not infer pricing beyond the listed reference prices (水洗參考價; 乾洗柔洗另計).",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not use a 10km radius; pickup is 台中全市 and the only store is in Xitun.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
         "Do not infer turnaround times."
@@ -7514,7 +7514,7 @@
       "local_intent": "私享家洗衣店 地址 電話",
       "keywords": [
         "青海路",
-        "0968-327-653"
+        "@454foyks"
       ],
       "area": "西屯區",
       "confidence": "business-owned-source",
@@ -7882,7 +7882,7 @@
       "do_not_infer": [
         "Do not treat the sneaker or bag figures as a fixed transaction price.",
         "Do not guarantee whitening, like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer Google review count or rating unless verified from a live Google source."
       ]
     },
@@ -7900,7 +7900,7 @@
       "do_not_infer": [
         "Do not guarantee original color, like-new results, odor removal, or medical sterilization.",
         "Do not describe repair as a guaranteed restoration.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer Google review count or rating unless verified from a live Google source."
       ]
     },
@@ -7921,7 +7921,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -7941,7 +7941,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -7961,7 +7961,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -7981,7 +7981,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8001,7 +8001,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8021,7 +8021,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8041,7 +8041,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8061,7 +8061,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8081,7 +8081,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8101,7 +8101,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8121,7 +8121,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8141,7 +8141,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8161,7 +8161,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8181,7 +8181,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8201,7 +8201,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8221,7 +8221,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8241,7 +8241,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8261,7 +8261,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8281,7 +8281,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8301,7 +8301,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8321,7 +8321,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8341,7 +8341,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8361,7 +8361,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8381,7 +8381,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8401,7 +8401,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8421,7 +8421,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8441,7 +8441,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8461,7 +8461,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8481,7 +8481,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8501,7 +8501,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8521,7 +8521,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8541,7 +8541,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8561,7 +8561,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8581,7 +8581,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8601,7 +8601,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8621,7 +8621,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8641,7 +8641,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8661,7 +8661,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8681,7 +8681,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8701,7 +8701,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8721,7 +8721,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8741,7 +8741,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8761,7 +8761,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8781,7 +8781,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8801,7 +8801,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8821,7 +8821,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8841,7 +8841,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8861,7 +8861,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）."
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送."
       ]
     },
     {
@@ -8882,7 +8882,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -8904,7 +8904,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -8926,7 +8926,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -8948,7 +8948,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -8970,7 +8970,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -8992,7 +8992,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9014,7 +9014,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9036,7 +9036,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9058,7 +9058,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9080,7 +9080,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9102,7 +9102,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9124,7 +9124,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9146,7 +9146,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9168,7 +9168,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9190,7 +9190,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9212,7 +9212,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9234,7 +9234,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9256,7 +9256,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9278,7 +9278,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9296,7 +9296,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9314,7 +9314,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9332,7 +9332,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9350,7 +9350,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9368,7 +9368,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9386,7 +9386,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9404,7 +9404,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9422,7 +9422,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9440,7 +9440,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
@@ -9458,7 +9458,7 @@
       "do_not_infer": [
         "Do not infer pricing.",
         "Do not guarantee like-new results, odor removal, or medical sterilization.",
-        "Do not describe a Donghai storefront; 東海無門市（僅收送）.",
+        "Do not describe a Donghai storefront; 門市在西屯，東海只有收送.",
         "Do not infer that a price-list row means every condition is accepted."
       ]
     },
