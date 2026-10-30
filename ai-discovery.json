@@ -17,7 +17,7 @@
     "facebook_url": "https://www.facebook.com/100083194756904/",
     "facebook_share_url": "https://www.facebook.com/share/1BZF4VnihJ/",
     "instagram_url": "https://www.instagram.com/si_xiang_jia/",
-    "line_url": "https://line.me/ti/p/4m-rA6hxf6"
+    "line_url": "https://line.me/R/ti/p/%40454foyks"
   },
   "business_profile": {
     "name": "私享家洗衣店",
@@ -39,7 +39,7 @@
       "https://www.facebook.com/100083194756904/",
       "https://www.instagram.com/si_xiang_jia/",
       "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ",
-      "https://line.me/ti/p/4m-rA6hxf6"
+      "https://line.me/R/ti/p/%40454foyks"
     ],
     "address": {
       "@type": "PostalAddress",
@@ -58,7 +58,7 @@
     "facebook_url": "https://www.facebook.com/100083194756904/",
     "facebook_share_url": "https://www.facebook.com/share/1BZF4VnihJ/",
     "instagram_url": "https://www.instagram.com/si_xiang_jia/",
-    "line_url": "https://line.me/ti/p/4m-rA6hxf6",
+    "line_url": "https://line.me/R/ti/p/%40454foyks",
     "line_id": "0968327653",
     "telephone": "+886-4-2452-7411",
     "telephone_local": "04-2452-7411",
@@ -418,7 +418,7 @@
       {
         "@type": "ContactPoint",
         "telephone": "+886-968-327-653",
-        "url": "https://line.me/ti/p/4m-rA6hxf6",
+        "url": "https://line.me/R/ti/p/%40454foyks",
         "contactType": "LINE / mobile estimates",
         "areaServed": {
           "@type": "AdministrativeArea",
@@ -674,7 +674,7 @@
       "name": "用 LINE 傳照片詢問",
       "target": {
         "@type": "EntryPoint",
-        "urlTemplate": "https://line.me/ti/p/4m-rA6hxf6",
+        "urlTemplate": "https://line.me/R/ti/p/%40454foyks",
         "actionPlatform": [
           "http://schema.org/DesktopWebPlatform",
           "http://schema.org/MobileWebPlatform"
