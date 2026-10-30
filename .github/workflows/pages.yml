@@ -198,6 +198,12 @@ jobs:
 
           echo "restore_ready=true" >> "$GITHUB_OUTPUT"
 
+      # Apply the approved design after preserving the generated homepage and feeds.
+      # Strict validation completes for every eligible page before any page is written.
+      - name: Apply v4 design shell
+        if: steps.restore.outcome == 'success'
+        run: node .github/scripts/apply_v4_shell.mjs --site-root . --strict
+
       # Upload the verified tree before any commit/rebase can change it.
       - uses: actions/configure-pages@v5
         if: github.ref == 'refs/heads/main'
