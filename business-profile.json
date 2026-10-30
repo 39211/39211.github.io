@@ -1,6 +1,6 @@
 {
   "name": "私享家洗衣店",
-  "google_business_profile_name": "私享家 旗艦總店",
+  "google_business_profile_name": "私享家洗衣店",
   "alternate_names": [
     "私享家洗衣店（西屯門市）",
     "私享家 旗艦店",
@@ -56,7 +56,7 @@
     }
   ],
   "holiday_hours_rule": {
-    "default_rule": "重大節日與連假營業時間以店家當期公告為準；未公告前，不在 schema 產生具體 specialOpeningHoursSpecification。",
+    "default_rule": "重大節日與連假營業時間以店家當期公告為準。",
     "social_content_rule": "重大節日前先發布預告海報；節日當天或連假後用真實門市照片補一篇提醒或收件狀況文。",
     "schema_rule": "只有當 overrides 有明確日期、開關店時間，且 verified_by_owner 為 true 時，才輸出 specialOpeningHoursSpecification。",
     "major_holidays": [

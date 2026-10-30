@@ -161,7 +161,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 
 ## Business Context
 - Business: 私享家洗衣店
-- Google Business Profile name: 私享家 旗艦總店
+- Google Business Profile name: 私享家洗衣店
 - Type: DryCleaningOrLaundry
 - Address: 台中市西屯區青海路二段365號（至善國中對面）
 - Public name: 私享家洗衣店（西屯門市）
@@ -176,7 +176,7 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - 門市市話: 04-2452-7411 (+886-4-2452-7411)
 - LINE 官方 @454foyks（https://lin.ee/w8qGVqM），或 LINE 0968327653 (+886-968-327-653)
 - Opening hours: 週一至週五 10:00-20:00；週六 12:00-18:00；週日公休
-- Holiday hours rule: 重大節日與連假營業時間以店家當期公告為準；未公告前，不在 schema 產生具體 specialOpeningHoursSpecification。
+- Holiday hours rule: 重大節日與連假營業時間以店家當期公告為準。
 - Canonical URL: https://sixiangjialaundry.com/
 - Topics: 衣物清潔, 鞋包清潔, 布品收納, 白鞋清潔, 雨季保養
 
