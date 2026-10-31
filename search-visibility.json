@@ -1,6 +1,6 @@
 {
   "schema_version": "2026-07-28",
-  "generated_at": "2026-10-30T05:00:16.841Z",
+  "generated_at": "2026-10-31T07:03:40.838Z",
   "name": "私享家 SEO / AIO / GEO 搜尋意圖與 28 天能見度規格",
   "status": "strategy-and-measurement-contract",
   "canonical_url": "https://sixiangjialaundry.com/",
@@ -118,7 +118,7 @@
         "台中公司大量衣物送洗",
         "台中床組到府收送"
       ],
-      "answer_pattern": "直接回答台中市全區、收送免費、清潔另計、LINE 預約，再說明要提供的照片、品項與地區。",
+      "answer_pattern": "直接回答收送範圍為台中市、收送免費、清潔另計、LINE 預約，再說明要提供的照片、品項與地區。",
       "evidence_required": [
         "pickup-logistics",
         "verified-business-fact"
@@ -377,7 +377,7 @@
       {
         "id": "brand-facts-02",
         "prompt_type": "brand-fact-check",
-        "prompt": "私享家洗衣店是否提供台中市全區免費收送？免費包含哪些範圍？",
+        "prompt": "私享家洗衣店是否提供台中市免費收送？免費包含哪些範圍？",
         "expected_source_pages": [
           "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
           "https://sixiangjialaundry.com/business-profile.json"

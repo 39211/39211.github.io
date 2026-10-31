@@ -1,9 +1,9 @@
 {
   "version": "https://jsonfeed.org/version/1.1",
-  "title": "私享家洗衣店｜台中洗衣洗鞋洗包・全市免費收送・價格公開",
+  "title": "私享家洗衣店｜台中洗衣洗鞋洗包・台中市免費到府收送・價格公開",
   "home_page_url": "https://sixiangjialaundry.com/",
   "feed_url": "https://sixiangjialaundry.com/feed.json",
-  "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
+  "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "language": "zh-Hant",
   "authors": [
     {
@@ -9021,6 +9021,75 @@
           "instagram"
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-30.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-10-31-slot-01.html",
+      "title": "2026-10-31 11:30 冬季厚床包拆封前有摺痕？洗標和接縫怎麼確認",
+      "date_published": "2026-10-31T11:30:00+08:00",
+      "content_text": "冬季厚床包拆封前有摺痕？洗標和接縫怎麼確認。\n\n寢具最厚的地方最慢乾。表面摸起來乾了，中間通常還沒。\n\n寢具我會先摸厚的地方乾透了沒。表面摸起來乾，中間還帶著濕氣，是最常見的狀況。\n\n換季要整理寢具的話，傳 LINE說一下數量就可以，我們去收。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店",
+      "summary": "冬季厚床包拆封前有摺痕？洗標和接縫怎麼確認",
+      "image": "https://sixiangjialaundry.com/assets/2026-10-31/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "洗護日常",
+        "送洗前檢查",
+        "洗包包",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "reach-answer",
+        "search_intent": "problem-diagnosis",
+        "target_queries": [
+          "台中床組清洗",
+          "台中棉被清洗",
+          "西屯寢具清洗",
+          "台中羽絨被送洗",
+          "台中床被收送",
+          "棉被有潮味怎麼辦"
+        ],
+        "evidence_type": "first-party-inspection",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-10-31-slot-02.html",
+      "title": "2026-10-31 20:30 約會前包包與白鞋的邊角整理",
+      "date_published": "2026-10-31T20:30:00+08:00",
+      "content_text": "出門前整體看起來乾淨，常常取決於包包四角、白鞋鞋邊和外套袖口這些小地方。\n\n邊角暗沉不一定很嚴重，但在近距離看會很明顯，尤其白鞋和淺色包更容易放大使用痕跡。\n\n我們會看包角材質、白鞋膠邊、鞋面灰痕和袖口狀態，再判斷哪些能快速整理、哪些需要完整清潔。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍鞋底和包角兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #白鞋清潔 #包包清潔 #出門前整理",
+      "summary": "約會前包包與白鞋的邊角整理",
+      "image": "https://sixiangjialaundry.com/assets/2026-10-31/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "白鞋清潔",
+        "包包清潔",
+        "出門前整理"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "macro-detail",
+        "traffic_route": "dwell-detail",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json"
       }
     }
   ]

@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-10-30T05:00:16.841Z
+- Generated at: 2026-10-31T07:03:40.838Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -98,12 +98,13 @@
   "@id": "https://sixiangjialaundry.com/#business",
   "name": "私享家洗衣店",
   "alternateName": [
+    "私享家洗衣店",
     "私享家 旗艦總店",
     "私享家 旗艦店",
     "私享家精品洗護"
   ],
   "url": "https://sixiangjialaundry.com/",
-  "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
+  "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "inLanguage": "zh-Hant",
   "address": {
     "@type": "PostalAddress",
@@ -440,6 +441,8 @@
     "https://sixiangjialaundry.com/assets/2026-10-29/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-30/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-30/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-10-31/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-10-31/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -550,7 +553,7 @@
           "@type": "Service",
           "name": "台中西屯洗衣店",
           "serviceType": "台中西屯洗衣店",
-          "description": "台中西屯的門市在青海路二段365號，至善國中對面，週一至週五 10-20、週六 12-18、週日公休。衣物、鞋子、包包、白鞋與布品收納分開判斷：先看材質、痕跡位置與使用情境，再決定適合的做法。台中全市免費收送，不限西屯。",
+          "description": "台中西屯的門市在青海路二段365號，至善國中對面，週一至週五 10-20、週六 12-18、週日公休。衣物、鞋子、包包、白鞋與布品收納分開判斷：先看材質、痕跡位置與使用情境，再決定適合的做法。台中市免費收送，不限西屯。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中西屯"
@@ -564,7 +567,7 @@
           "@type": "Service",
           "name": "店家與公司大量衣物送洗",
           "serviceType": "店家與公司大量衣物送洗",
-          "description": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。",
+          "description": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市免費收送，洗護費與處理方式另依實際物件判斷。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中市"
@@ -576,17 +579,17 @@
         "@type": "Offer",
         "itemOffered": {
           "@type": "Service",
-          "name": "台中全市免費洗衣收送",
-          "serviceType": "台中全市免費洗衣收送",
-          "description": "台中全市免費到府收送：收送本身免費，沒有最低消費門檻，不因件數少或金額未達標準而不收，也不限西屯一區。洗護費另計，依物件與實際狀況報價。門市在西屯區青海路二段365號；預約以 LINE 為主，先傳照片說明狀況再安排時間。",
+          "name": "台中市免費洗衣收送",
+          "serviceType": "台中市免費洗衣收送",
+          "description": "台中市免費到府收送：收送本身免費，沒有最低消費門檻，不因件數少或金額未達標準而不收，也不限西屯一區。洗護費另計，依物件與實際狀況報價。門市在西屯區青海路二段365號；預約以 LINE 為主，先傳照片說明狀況再安排時間。",
           "areaServed": {
             "@type": "AdministrativeArea",
             "name": "台中市"
           },
           "url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html"
         },
-        "name": "台中全市免費洗衣收送",
-        "description": "台中市全市免費收送；清潔與洗護費用另計。預約以 LINE 為主。"
+        "name": "台中市免費洗衣收送",
+        "description": "台中市免費收送；清潔與洗護費用另計。預約以 LINE 為主。"
       },
       {
         "@type": "Offer",
@@ -618,7 +621,7 @@
 - Concrete holiday hours are emitted only from owner-verified holiday_hours_rule.overrides.
 
 ## Holiday Hours Rule
-- 重大節日與連假營業時間以店家當期公告為準；未公告前，不在 schema 產生具體 specialOpeningHoursSpecification。
+- 重大節日與連假營業時間以店家當期公告為準。
 - 重大節日前先發布預告海報；節日當天或連假後用真實門市照片補一篇提醒或收件狀況文。
 - 只有當 overrides 有明確日期、開關店時間，且 verified_by_owner 為 true 時，才輸出 specialOpeningHoursSpecification。
 - Major holidays: 農曆春節, 端午節, 中秋節, 母親節, 父親節
@@ -13042,4 +13045,98 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店
+
+### 2026-10-31 11:30 冬季厚床包拆封前有摺痕？洗標和接縫怎麼確認
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-01
+- published local time: 2026-10-31T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中床組清洗 | 台中棉被清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中床被收送 | 棉被有潮味怎麼辦
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-10-31/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-31.json
+
+Facebook caption:
+
+冬季厚床包拆封前有摺痕？洗標和接縫怎麼確認。
+
+寢具最厚的地方最慢乾。表面摸起來乾了，中間通常還沒。
+
+寢具我會先摸厚的地方乾透了沒。表面摸起來乾，中間還帶著濕氣，是最常見的狀況。
+
+換季要整理寢具的話，傳 LINE說一下數量就可以，我們去收。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店
+
+Instagram caption:
+
+冬季厚床包拆封前有摺痕？洗標和接縫怎麼確認。
+
+寢具最厚的地方最慢乾。表面摸起來乾了，中間通常還沒。
+
+寢具我會先摸厚的地方乾透了沒。表面摸起來乾，中間還帶著濕氣，是最常見的狀況。
+
+換季要整理寢具的話，私訊說一下數量就可以，我們去收。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店
+
+### 2026-10-31 20:30 約會前包包與白鞋的邊角整理
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-02
+- published local time: 2026-10-31T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: dwell-detail
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #白鞋清潔 #包包清潔 #出門前整理
+- image: https://sixiangjialaundry.com/assets/2026-10-31/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-10-31.json
+
+Facebook caption:
+
+出門前整體看起來乾淨，常常取決於包包四角、白鞋鞋邊和外套袖口這些小地方。
+
+邊角暗沉不一定很嚴重，但在近距離看會很明顯，尤其白鞋和淺色包更容易放大使用痕跡。
+
+我們會看包角材質、白鞋膠邊、鞋面灰痕和袖口狀態，再判斷哪些能快速整理、哪些需要完整清潔。
+
+私享家洗衣店｜台中市區免費到府收送
+
+拍鞋底和包角兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #白鞋清潔 #包包清潔 #出門前整理
+
+Instagram caption:
+
+出門前整體看起來乾淨，常常取決於包包四角、白鞋鞋邊和外套袖口這些小地方。
+
+邊角暗沉不一定很嚴重，但在近距離看會很明顯，尤其白鞋和淺色包更容易放大使用痕跡。
+
+我們會看包角材質、白鞋膠邊、鞋面灰痕和袖口狀態，再判斷哪些能快速整理、哪些需要完整清潔。
+
+私享家洗衣店｜台中市區免費到府收送
+
+拍鞋底和包角兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #白鞋清潔 #包包清潔 #出門前整理
 

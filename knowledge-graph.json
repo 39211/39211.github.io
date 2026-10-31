@@ -6,12 +6,13 @@
       "@id": "https://sixiangjialaundry.com/#business",
       "name": "私享家洗衣店",
       "alternateName": [
+        "私享家洗衣店",
         "私享家 旗艦總店",
         "私享家 旗艦店",
         "私享家精品洗護"
       ],
       "url": "https://sixiangjialaundry.com/",
-      "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
+      "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "inLanguage": "zh-Hant",
       "address": {
         "@type": "PostalAddress",
@@ -348,6 +349,8 @@
         "https://sixiangjialaundry.com/assets/2026-10-29/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-30/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-30/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-10-31/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-10-31/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -458,7 +461,7 @@
               "@type": "Service",
               "name": "台中西屯洗衣店",
               "serviceType": "台中西屯洗衣店",
-              "description": "台中西屯的門市在青海路二段365號，至善國中對面，週一至週五 10-20、週六 12-18、週日公休。衣物、鞋子、包包、白鞋與布品收納分開判斷：先看材質、痕跡位置與使用情境，再決定適合的做法。台中全市免費收送，不限西屯。",
+              "description": "台中西屯的門市在青海路二段365號，至善國中對面，週一至週五 10-20、週六 12-18、週日公休。衣物、鞋子、包包、白鞋與布品收納分開判斷：先看材質、痕跡位置與使用情境，再決定適合的做法。台中市免費收送，不限西屯。",
               "areaServed": {
                 "@type": "AdministrativeArea",
                 "name": "台中西屯"
@@ -472,7 +475,7 @@
               "@type": "Service",
               "name": "店家與公司大量衣物送洗",
               "serviceType": "店家與公司大量衣物送洗",
-              "description": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市全區免費收送，洗護費與處理方式另依實際物件判斷。",
+              "description": "台中店家、公司或工作室有大量制服、工作衣、毛巾、床組或布品需要送洗，可先用 LINE 提供品項、數量與照片；私享家可安排台中市免費收送，洗護費與處理方式另依實際物件判斷。",
               "areaServed": {
                 "@type": "AdministrativeArea",
                 "name": "台中市"
@@ -484,17 +487,17 @@
             "@type": "Offer",
             "itemOffered": {
               "@type": "Service",
-              "name": "台中全市免費洗衣收送",
-              "serviceType": "台中全市免費洗衣收送",
-              "description": "台中全市免費到府收送：收送本身免費，沒有最低消費門檻，不因件數少或金額未達標準而不收，也不限西屯一區。洗護費另計，依物件與實際狀況報價。門市在西屯區青海路二段365號；預約以 LINE 為主，先傳照片說明狀況再安排時間。",
+              "name": "台中市免費洗衣收送",
+              "serviceType": "台中市免費洗衣收送",
+              "description": "台中市免費到府收送：收送本身免費，沒有最低消費門檻，不因件數少或金額未達標準而不收，也不限西屯一區。洗護費另計，依物件與實際狀況報價。門市在西屯區青海路二段365號；預約以 LINE 為主，先傳照片說明狀況再安排時間。",
               "areaServed": {
                 "@type": "AdministrativeArea",
                 "name": "台中市"
               },
               "url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html"
             },
-            "name": "台中全市免費洗衣收送",
-            "description": "台中市全市免費收送；清潔與洗護費用另計。預約以 LINE 為主。"
+            "name": "台中市免費洗衣收送",
+            "description": "台中市免費收送；清潔與洗護費用另計。預約以 LINE 為主。"
           },
           {
             "@type": "Offer",
@@ -517,10 +520,10 @@
       "@type": "WebSite",
       "@id": "https://sixiangjialaundry.com/#website",
       "name": "私享家洗衣店",
-      "alternateName": "私享家洗衣店｜台中洗衣洗鞋洗包・全市免費收送・價格公開",
+      "alternateName": "私享家洗衣店｜台中洗衣洗鞋洗包・台中市免費到府收送・價格公開",
       "url": "https://sixiangjialaundry.com/",
       "inLanguage": "zh-Hant-TW",
-      "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
+      "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "publisher": {
         "@id": "https://sixiangjialaundry.com/#business"
       }
@@ -528,9 +531,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/#webpage",
-      "name": "私享家洗衣店｜台中洗衣洗鞋洗包・全市免費收送・價格公開",
+      "name": "私享家洗衣店｜台中洗衣洗鞋洗包・台中市免費到府收送・價格公開",
       "url": "https://sixiangjialaundry.com/",
-      "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
+      "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -541,7 +544,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-10-30"
+      "dateModified": "2026-10-31"
     },
     {
       "@type": "FAQPage",
@@ -567,7 +570,7 @@
           "name": "台中市哪些地方可以預約洗衣收送？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "收送範圍為台中市全區，收送本身免費；清潔、洗護與其他整理費用另依實際物件狀態判斷。"
+            "text": "收送範圍為台中市，收送本身免費；清潔、洗護與其他整理費用另依實際物件狀態判斷。"
           }
         },
         {
@@ -600,9 +603,9 @@
       "@type": "Dataset",
       "@id": "https://sixiangjialaundry.com/#social-post-dataset",
       "name": "私享家洗衣店 social post dataset",
-      "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市全區免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
+      "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-10-30",
+      "dateModified": "2026-10-31",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -729,7 +732,7 @@
       "@id": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html#webpage",
       "name": "白鞋清潔｜台中西屯白鞋泛黃、鞋邊與內裡整理｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/services/white-shoe-cleaning.html",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號），專門判斷白鞋泛黃、鞋邊泛灰、縫線卡灰與內裡濕悶問題，台中市全區免費到府收送。",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號），專門判斷白鞋泛黃、鞋邊泛灰、縫線卡灰與內裡濕悶問題，台中市免費到府收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1027,7 +1030,7 @@
           "name": "住比較遠可以到府收送嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以。台中市全區免費到府收送、沒有最低消費，清潔費用依實際物件另計。先用 LINE 傳照片說明狀況，門市判斷後會約時間收件，完成後送回。"
+            "text": "可以。台中市免費到府收送、沒有最低消費，清潔費用依實際物件另計。先用 LINE 傳照片說明狀況，門市判斷後會約時間收件，完成後送回。"
           }
         }
       ]
@@ -1035,9 +1038,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/services/business-bulk-laundry.html#webpage",
-      "name": "台中公司團體衣物送洗怎麼算？制服・工作服・床組批量清潔，台中全區收送｜私享家",
+      "name": "台中公司團體衣物送洗怎麼算？制服・工作服・床組批量清潔，台中市收送｜私享家",
       "url": "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
-      "description": "台中店家、公司、工作室大量制服、毛巾、床組送洗。私享家提供台中市全區免費收送，依品項與件數彈性報價，LINE傳清單與照片即可快速安排。",
+      "description": "台中店家、公司、工作室大量制服、毛巾、床組送洗。私享家提供台中市免費收送，依品項與件數彈性報價，LINE傳清單與照片即可快速安排。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1064,7 +1067,7 @@
       "url": "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
       "mainEntityOfPage": "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
       "name": "店家與公司大量衣物送洗",
-      "description": "店家、公司、工作室或團隊一次有多件制服、工作衣、毛巾、床組或其他布品需要整理時，重點不是先承諾固定價格或天數，而是先確認品項、數量、材質、髒污與交接方式。私享家可在台中市全區安排免費收送，主要透過 LINE 傳照片與清單詢問；清潔與洗護費用另依實際物件判斷。",
+      "description": "店家、公司、工作室或團隊一次有多件制服、工作衣、毛巾、床組或其他布品需要整理時，重點不是先承諾固定價格或天數，而是先確認品項、數量、材質、髒污與交接方式。私享家可在台中市安排免費收送，主要透過 LINE 傳照片與清單詢問；清潔與洗護費用另依實際物件判斷。",
       "serviceType": "店家與公司大量衣物送洗",
       "provider": {
         "@id": "https://sixiangjialaundry.com/#business"
@@ -1132,9 +1135,9 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html#webpage",
-      "name": "台中洗衣收送怎麼約？一件也收、全市免運費！預約流程與收送範圍說明｜私享家",
+      "name": "台中洗衣收送怎麼約？一件也收、台中市免費到府收送！預約流程與收送範圍說明｜私享家",
       "url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
-      "description": "不用出門！私享家提供台中市全區免費到府收送洗衣、洗鞋、洗包，一件即可預約，無最低消費金額限制。先用LINE傳照片確認材質狀態，專人到府收件免運費。",
+      "description": "不用出門！私享家提供台中市免費到府收送洗衣、洗鞋、洗包，一件即可預約，無最低消費金額限制。先用LINE傳照片確認材質狀態，專人到府收件免運費。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1152,7 +1155,7 @@
       "primaryImageOfPage": {
         "@type": "ImageObject",
         "contentUrl": "https://sixiangjialaundry.com/assets/backgrounds/local-store-depth.png",
-        "caption": "台中全市免費洗衣收送服務說明｜私享家洗衣店"
+        "caption": "台中市免費洗衣收送服務說明｜私享家洗衣店"
       }
     },
     {
@@ -1160,9 +1163,9 @@
       "@id": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html#service",
       "url": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
       "mainEntityOfPage": "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
-      "name": "台中全市免費洗衣收送",
-      "description": "私享家洗衣店提供台中全市免費收送服務。收送本身免費，且不以單次洗滌滿額作為收送條件——收送沒有最低消費門檻。門市位置仍在台中市西屯區青海路二段365號；收送範圍涵蓋台中市，不以西屯為限。預約與詢問以 LINE 為主，先傳照片說明衣物、鞋子、包包或布品狀況，再安排後續。",
-      "serviceType": "台中全市免費洗衣收送",
+      "name": "台中市免費洗衣收送",
+      "description": "私享家洗衣店提供台中市免費收送服務。收送本身免費，且不以單次洗滌滿額作為收送條件——收送沒有最低消費門檻。門市位置仍在台中市西屯區青海路二段365號；收送範圍涵蓋台中市，不以西屯為限。預約與詢問以 LINE 為主，先傳照片說明衣物、鞋子、包包或布品狀況，再安排後續。",
+      "serviceType": "台中市免費洗衣收送",
       "provider": {
         "@id": "https://sixiangjialaundry.com/#business"
       },
@@ -1174,7 +1177,7 @@
       "keywords": [
         "台中洗衣收送",
         "台中免費收送",
-        "台中全市收送",
+        "台中市收送",
         "洗衣店收送",
         "私享家洗衣店",
         "LINE 預約洗衣"
@@ -1196,7 +1199,7 @@
           "name": "私享家洗衣店收送範圍到哪裡？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "收送範圍為台中市全市，西屯、逢甲、至善國中一帶當天可約。門市在台中市西屯區青海路二段365號（至善國中對面）。"
+            "text": "收送範圍為台中市，西屯、逢甲、至善國中一帶當天可約。門市在台中市西屯區青海路二段365號（至善國中對面）。"
           }
         },
         {
@@ -1212,7 +1215,7 @@
           "name": "收送流程是什麼？多久會來收？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "四步：① LINE 傳照片與大致地址 ② 門市回覆報價與可收時段（營業時間 10:00–20:00 內約定）③ 到府收件 ④ 完成後送回並付款。市區通常隔日內可安排收件，急件先說。"
+            "text": "四步：① LINE 傳照片與大致地址 ② 門市回覆報價與可收時段（營業時間 10:00–20:00 內約定）③ 到府收件 ④ 完成後送回並付款。台中市通常隔日內可安排收件，急件先說。"
           }
         },
         {
@@ -1254,7 +1257,7 @@
       "@id": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html#webpage",
       "name": "台中洗衣洗鞋多少錢？2026價目表公開：襯衫$70起、白鞋$250、名牌包$1500起｜私享家",
       "url": "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
-      "description": "洗衣服、洗鞋、洗包多少錢？私享家公開台中洗衣價格：一般運動鞋$250、襯衫水洗$70。台中全市免費到府收送、不設低消門檻，LINE傳照片立即線上預估清潔費用。",
+      "description": "洗衣服、洗鞋、洗包多少錢？私享家公開台中洗衣價格：一般運動鞋$250、襯衫水洗$70。台中市免費到府收送、不設低消門檻，LINE傳照片立即線上預估清潔費用。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1326,7 +1329,7 @@
           "name": "洗衣有到府收送嗎?要多少錢?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "台中市全區免費到府收送。收送本身不另外收費；清潔仍依參考價與實際檢視計算。請用 LINE 0968327653 傳照片預約。"
+            "text": "台中市免費到府收送。收送本身不另外收費；清潔仍依參考價與實際檢視計算。請用 LINE 0968327653 傳照片預約。"
           }
         },
         {
@@ -1524,7 +1527,7 @@
       "@id": "https://sixiangjialaundry.com/guides/school-uniform-care.html#webpage",
       "name": "開學前制服怎麼整理?領口黃、袖口髒的處理順序｜台中送洗",
       "url": "https://sixiangjialaundry.com/guides/school-uniform-care.html",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理開學前制服領口發黃、袖口油污，先處理再整燙才不會把黃痕定型，台中市全區可免費收送。",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理開學前制服領口發黃、袖口油污，先處理再整燙才不會把黃痕定型，台中市可免費收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1628,7 +1631,7 @@
           "name": "可以順便洗書包和鞋子嗎?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以,一起收最省事。書包 $500、一般運動鞋 $250、童鞋 $150。台中市全區免費到府收送。"
+            "text": "可以,一起收最省事。書包 $500、一般運動鞋 $250、童鞋 $150。台中市免費到府收送。"
           }
         }
       ]
@@ -1638,7 +1641,7 @@
       "@id": "https://sixiangjialaundry.com/guides/birkenstock-care.html#webpage",
       "name": "勃肯鞋會臭嗎？是軟木鞋床吸汗，不是鞋面｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
-      "description": "勃肯鞋的臭味幾乎都來自軟木鞋床吸汗，不是鞋面，所以一直刷鞋面沒有用。整雙泡水會讓鞋床變形、黏合處脫開，是最常見的補救失敗。私享家洗衣店（台中西屯青海路二段365號）先看鞋床與麂皮再決定做法，台中全市免費收送。",
+      "description": "勃肯鞋的臭味幾乎都來自軟木鞋床吸汗，不是鞋面，所以一直刷鞋面沒有用。整雙泡水會讓鞋床變形、黏合處脫開，是最常見的補救失敗。私享家洗衣店（台中西屯青海路二段365號）先看鞋床與麂皮再決定做法，台中市免費收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -1751,7 +1754,7 @@
           "name": "多久洗一次比較好?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "天天穿的建議每季一次,不要等到味道明顯才處理——汗垢滲得越深越難救。台中市全區免費收送。"
+            "text": "天天穿的建議每季一次,不要等到味道明顯才處理——汗垢滲得越深越難救。台中市免費收送。"
           }
         }
       ]
@@ -1865,7 +1868,7 @@
           "name": "怎麼送洗?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "LINE 傳整體照、發霉位置特寫與內裡照(0968327653),先評估再決定。台中市全區免費到府收送,門市在西屯青海路二段365號(至善國中對面)。"
+            "text": "LINE 傳整體照、發霉位置特寫與內裡照(0968327653),先評估再決定。台中市免費到府收送,門市在西屯青海路二段365號(至善國中對面)。"
           }
         }
       ]
@@ -1979,7 +1982,7 @@
           "name": "台中洗羽絨被可以收送嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以，台中市全區免費收送。羽絨被體積大不好帶，約好時間到府收件即可，LINE：0968327653。"
+            "text": "可以，台中市免費收送。羽絨被體積大不好帶，約好時間到府收件即可，LINE：0968327653。"
           }
         }
       ]
@@ -1989,7 +1992,7 @@
       "@id": "https://sixiangjialaundry.com/guides/leather-jacket-care.html#webpage",
       "name": "皮衣發霉怎麼辦？台中皮衣清洗保養・傳照片先估價・一件也收｜私享家",
       "url": "https://sixiangjialaundry.com/guides/leather-jacket-care.html",
-      "description": "皮衣發霉千萬別用酒精或濕布硬擦！私享家依真皮、合成皮、麂皮專業除霉補油。加 LINE 傳照片先估價與說明界線，台中市全區免費到府收送、一件也收，門市在西屯青海路。",
+      "description": "皮衣發霉千萬別用酒精或濕布硬擦！私享家依真皮、合成皮、麂皮專業除霉補油。加 LINE 傳照片先估價與說明界線，台中市免費到府收送、一件也收，門市在西屯青海路。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -2093,7 +2096,7 @@
           "name": "台中皮衣保養怎麼送？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "拍全身照加問題位置特寫，LINE 傳給門市先評估（0968327653）；台中市全區可約免費收送。"
+            "text": "拍全身照加問題位置特寫，LINE 傳給門市先評估（0968327653）；台中市可約免費收送。"
           }
         }
       ]
@@ -2208,7 +2211,7 @@
           "name": "台中乾洗怎麼估價？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "公開價目（水洗價）：襯衫 $70、西裝背心 $80、毛衣 $150、薄外套 $150、厚外套 $180、長大衣 $300、禮服 $450、羽絨外套 $280、G-T 外套 $250。乾洗柔洗另計，以實際報價為主；LINE 傳照片（0968327653）可先確認，台中市全區免費收送。"
+            "text": "公開價目（水洗價）：襯衫 $70、西裝背心 $80、毛衣 $150、薄外套 $150、厚外套 $180、長大衣 $300、禮服 $450、羽絨外套 $280、G-T 外套 $250。乾洗柔洗另計，以實際報價為主；LINE 傳照片（0968327653）可先確認，台中市免費收送。"
           }
         }
       ]
@@ -2218,7 +2221,7 @@
       "@id": "https://sixiangjialaundry.com/guides/rainy-shoe-care.html#webpage",
       "name": "雨天鞋子進水？先通風不要悶著，濕氣留在鞋內｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/rainy-shoe-care.html",
-      "description": "雨天鞋子進水後最傷的動作是直接塞進鞋櫃：濕氣出不來，味道和霉都是從那一步開始的。先撐開通風，鞋底泥灰和鞋邊水痕等乾了再看。私享家洗衣店（台中西屯青海路二段365號）先看鞋況再決定做法，台中全市免費收送。",
+      "description": "雨天鞋子進水後最傷的動作是直接塞進鞋櫃：濕氣出不來，味道和霉都是從那一步開始的。先撐開通風，鞋底泥灰和鞋邊水痕等乾了再看。私享家洗衣店（台中西屯青海路二段365號）先看鞋況再決定做法，台中市免費收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -2595,7 +2598,7 @@
       "@id": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html#webpage",
       "name": "台中棉被清洗？潮味來自沒乾透的中間那層｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html",
-      "description": "棉被的潮味幾乎都來自中間那層沒乾透：表面摸起來乾，芯還帶著濕氣，收進櫃子就是下一季拿出來的味道。私享家洗衣店（台中西屯青海路二段365號）先確認填充物、尺寸與受潮程度再決定烘法，台中全市免費收送。",
+      "description": "棉被的潮味幾乎都來自中間那層沒乾透：表面摸起來乾，芯還帶著濕氣，收進櫃子就是下一季拿出來的味道。私享家洗衣店（台中西屯青海路二段365號）先確認填充物、尺寸與受潮程度再決定烘法，台中市免費收送。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -2687,7 +2690,7 @@
       "@id": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html#webpage",
       "name": "台中絨毛娃娃清洗店：玩偶手洗低溫烘・傳照片先估價・一隻也收｜私享家",
       "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
-      "description": "大隻娃娃髒了不敢丟洗衣機？私享家專業手洗、保護五官配件與填充棉低溫慢烘。加 LINE 傳娃娃照片先估價；門市在西屯青海路，台中市全區免費到府收送、一隻也收。",
+      "description": "大隻娃娃髒了不敢丟洗衣機？私享家專業手洗、保護五官配件與填充棉低溫慢烘。加 LINE 傳娃娃照片先估價；門市在西屯青海路，台中市免費到府收送、一隻也收。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -2788,7 +2791,7 @@
       "@id": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html#webpage",
       "name": "精品衣服送洗？名牌服飾精緻乾洗・傳照片先估價・一件也收｜私享家",
       "url": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
-      "description": "名牌精品衣服送洗最怕洗壞五金與面料縮水。私享家依洗標與面料精緻乾洗，不盲目機洗。加 LINE 傳照片先估價與確認界線；門市在西屯青海路，台中市全區免費到府收送、一件也收。",
+      "description": "名牌精品衣服送洗最怕洗壞五金與面料縮水。私享家依洗標與面料精緻乾洗，不盲目機洗。加 LINE 傳照片先估價與確認界線；門市在西屯青海路，台中市免費到府收送、一件也收。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -2969,7 +2972,7 @@
           "name": "一雙也可以收送嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以。台中市全市免費收送、沒有最低消費；清潔費用仍依材質另計。"
+            "text": "可以。台中市免費收送、沒有最低消費；清潔費用仍依材質另計。"
           }
         }
       ]
@@ -3044,7 +3047,7 @@
           "@type": "HowToStep",
           "position": 5,
           "name": "確認收送",
-          "text": "台中市全區可預約免費收送，清潔費另依物件判斷；用 LINE 提供照片、品項與大致地區。"
+          "text": "台中市可預約免費收送，清潔費另依物件判斷；用 LINE 提供照片、品項與大致地區。"
         },
         {
           "@type": "HowToStep",
@@ -3192,7 +3195,7 @@
       "@id": "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html#webpage",
       "name": "台中洗行李箱：輪子底板深層清潔除味・傳照片先估價・免運收送｜私享家",
       "url": "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
-      "description": "出國回台行李箱輪子底板卡滿泥灰、箱內有悶味？不用自己扛出門！私享家提供行李箱深層清潔除味，加 LINE 傳照片先估價；門市在西屯青海路，台中市全區免費到府收送、一件也收。",
+      "description": "出國回台行李箱輪子底板卡滿泥灰、箱內有悶味？不用自己扛出門！私享家提供行李箱深層清潔除味，加 LINE 傳照片先估價；門市在西屯青海路，台中市免費到府收送、一件也收。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -3380,7 +3383,7 @@
           "name": "落地窗簾可以到府收嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以。台中市全區免費收送，落地窗簾建議先約，不要自己硬折進袋裡壓出折痕。"
+            "text": "可以。台中市免費收送，落地窗簾建議先約，不要自己硬折進袋裡壓出折痕。"
           }
         },
         {
@@ -3586,7 +3589,7 @@
           "name": "逢甲宿舍可以約收送嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以。台中市全市免費收送，宿舍櫃台或租屋交接都可以先在 LINE 講清楚。"
+            "text": "可以。台中市免費收送，宿舍櫃台或租屋交接都可以先在 LINE 講清楚。"
           }
         },
         {
@@ -3693,7 +3696,7 @@
           "name": "中科公司衣服可以到府收嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以。台中市全市免費收送，公司櫃台或住家交接都可以先約。"
+            "text": "可以。台中市免費收送，公司櫃台或住家交接都可以先約。"
           }
         },
         {
@@ -3727,7 +3730,7 @@
       "@id": "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html#webpage",
       "name": "東海洗衣店？免費到府收送，門市在西屯｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/local/donghai-laundry-pickup.html",
-      "description": "東海一帶沒有我們的門市，改用台中市全區免費到府收送：一件也收、沒有最低消費，不用出門。厚被、窗簾與日常衣物先用 LINE 傳照片報價，門市在西屯青海路二段365號。",
+      "description": "東海一帶沒有我們的門市，改用台中市免費到府收送：一件也收、沒有最低消費，不用出門。厚被、窗簾與日常衣物先用 LINE 傳照片報價，門市在西屯青海路二段365號。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -3800,7 +3803,7 @@
           "name": "東海別墅區可以約收棉被嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以。台中市全市免費收送；先傳邊角與潮味位置，再約上門。"
+            "text": "可以。台中市免費收送；先傳邊角與潮味位置，再約上門。"
           }
         },
         {
@@ -3832,7 +3835,7 @@
     {
       "@type": "WebPage",
       "@id": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html#webpage",
-      "name": "逢甲、西屯洗鞋｜運動鞋水洗 $250，台中全市免費收送｜私享家",
+      "name": "逢甲、西屯洗鞋｜運動鞋水洗 $250，台中市免費收送｜私享家",
       "url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
       "description": "逢甲、西屯找洗鞋店？先看這篇怎麼挑：看案例照片、問處理界線、確認收送方式。私享家在青海路二段365號，台中市免費收送，LINE 傳照片先判斷再決定。",
       "inLanguage": "zh-Hant-TW",
@@ -3867,7 +3870,7 @@
         "@id": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html#webpage"
       },
       "name": "青海路洗鞋店怎麼挑：看案例、問界線、約收送",
-      "description": "逢甲、西屯找洗鞋，最常見的是白鞋泛黃、雨天泥灰和鞋內悶味。私享家門市在西屯區青海路二段365號、至善國中對面；台中市全市可預約免費到府收送。挑洗鞋店先比三件事：敢不敢先講哪些救不回來、收送範圍清不清楚、有沒有講處理界線。",
+      "description": "逢甲、西屯找洗鞋，最常見的是白鞋泛黃、雨天泥灰和鞋內悶味。私享家門市在西屯區青海路二段365號、至善國中對面；台中市可預約免費到府收送。挑洗鞋店先比三件事：敢不敢先講哪些救不回來、收送範圍清不清楚、有沒有講處理界線。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -3886,7 +3889,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "第三步：選到店或收送",
-          "text": "門市在青海路二段365號、至善國中對面，與逢甲、西屯同在西屯區。不想跑的話，台中市全市可約免費到府收送。"
+          "text": "門市在青海路二段365號、至善國中對面，與逢甲、西屯同在西屯區。不想跑的話，台中市可約免費到府收送。"
         },
         {
           "@type": "HowToStep",
@@ -3915,7 +3918,7 @@
           "name": "逢甲宿舍的球鞋可以洗嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "可以。運動鞋水洗價250起，先傳照片。\n公開水洗價還包括皮類運動鞋 300、混合運動鞋 350。乾洗柔洗另計，以實際報價為主。台中市全市可免費收送，宿舍與租屋處都能約。"
+            "text": "可以。運動鞋水洗價250起，先傳照片。\n公開水洗價還包括皮類運動鞋 300、混合運動鞋 350。乾洗柔洗另計，以實際報價為主。台中市可免費收送，宿舍與租屋處都能約。"
           }
         },
         {
@@ -3957,7 +3960,7 @@
       "@id": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html#webpage",
       "name": "南屯洗衣店？免費到府收送，門市在西屯｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/local/nantun-laundry-pickup.html",
-      "description": "南屯一帶沒有門市，改用台中市全區免費到府收送：一件也收、沒有最低消費。文心森林公園、捷運沿線、八期大樓與七期南側，厚被床組、換季衣物先用 LINE 傳照片報價，門市在西屯青海路二段365號。",
+      "description": "南屯一帶沒有門市，改用台中市免費到府收送：一件也收、沒有最低消費。文心森林公園、捷運沿線、八期大樓與七期南側，厚被床組、換季衣物先用 LINE 傳照片報價，門市在西屯青海路二段365號。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -4039,7 +4042,7 @@
           "name": "南屯收送棉被有最低件數或運費嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "完全沒有。台中市全區免費到府收送，一件也收、免收運費；洗護費用依公開價目表另計。"
+            "text": "完全沒有。台中市免費到府收送，一件也收、免收運費；洗護費用依公開價目表另計。"
           }
         },
         {
@@ -4065,7 +4068,7 @@
       "@id": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html#webpage",
       "name": "台中北區洗衣店？免費到府收送，門市在西屯｜私享家洗衣店",
       "url": "https://sixiangjialaundry.com/local/north-district-laundry-pickup.html",
-      "description": "台中北區沒有門市，改用台中市全區免費到府收送：一件也收、沒有最低消費。中國醫大生活圈、一中商圈、科博館周邊，醫生護士工作服、學生薄衣、家庭厚被先用 LINE 傳照片報價，門市在西屯青海路二段365號。",
+      "description": "台中北區沒有門市，改用台中市免費到府收送：一件也收、沒有最低消費。中國醫大生活圈、一中商圈、科博館周邊，醫生護士工作服、學生薄衣、家庭厚被先用 LINE 傳照片報價，門市在西屯青海路二段365號。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -4146,7 +4149,7 @@
           "name": "台中北區收送需要加收車資或外送費嗎？",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "不需要。台中市全區免費到府收送，不收任何車資或外送費；費用僅按實際洗護品項收取。"
+            "text": "不需要。台中市免費到府收送，不收任何車資或外送費；費用僅按實際洗護品項收取。"
           }
         },
         {
@@ -4172,7 +4175,7 @@
       "@id": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html#webpage",
       "name": "我自己就是洗衣店老闆，我先把自己的店做給你看｜私享家示範店引流公開",
       "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
-      "description": "我自己就是洗衣店老闆。我先把自己的店做給你看，再跟你談這些方法能不能用在你的店。公開私享家在台中門市與全區免費收送的真實引流、SEO 與接待數據，歡迎同業交流。",
+      "description": "我自己就是洗衣店老闆。我先把自己的店做給你看，再跟你談這些方法能不能用在你的店。公開私享家在台中門市與台中市免費收送的真實引流、SEO 與接待數據，歡迎同業交流。",
       "inLanguage": "zh-Hant-TW",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -4203,7 +4206,7 @@
         "@id": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html#webpage"
       },
       "name": "我自己就是洗衣店老闆，我先把自己的店做給你看",
-      "description": "我自己就是洗衣店老闆，我先把自己的店做給你看；門市與全區收送真實數據，同業交流回傳同行。",
+      "description": "我自己就是洗衣店老闆，我先把自己的店做給你看；門市與台中市收送真實數據，同業交流回傳同行。",
       "inLanguage": "zh-Hant-TW",
       "step": [
         {
@@ -15187,6 +15190,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-30/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-10-30/slot-02.png",
       "caption": "週末大掃除後的布品分袋",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-01",
+      "headline": "2026-10-31 11:30 冬季厚床包拆封前有摺痕？洗標和接縫怎麼確認",
+      "text": "冬季厚床包拆封前有摺痕？洗標和接縫怎麼確認。\n\n寢具最厚的地方最慢乾。表面摸起來乾了，中間通常還沒。\n\n寢具我會先摸厚的地方乾透了沒。表面摸起來乾，中間還帶著濕氣，是最常見的狀況。\n\n換季要整理寢具的話，傳 LINE說一下數量就可以，我們去收。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店",
+      "datePublished": "2026-10-31T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#洗包包",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-31/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-31/slot-01.png",
+      "caption": "冬季厚床包拆封前有摺痕？洗標和接縫怎麼確認",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-02",
+      "headline": "2026-10-31 20:30 約會前包包與白鞋的邊角整理",
+      "text": "出門前整體看起來乾淨，常常取決於包包四角、白鞋鞋邊和外套袖口這些小地方。\n\n邊角暗沉不一定很嚴重，但在近距離看會很明顯，尤其白鞋和淺色包更容易放大使用痕跡。\n\n我們會看包角材質、白鞋膠邊、鞋面灰痕和袖口狀態，再判斷哪些能快速整理、哪些需要完整清潔。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍鞋底和包角兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #白鞋清潔 #包包清潔 #出門前整理",
+      "datePublished": "2026-10-31T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#白鞋清潔",
+        "#包包清潔",
+        "#出門前整理"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-10-31/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-10-31/slot-02.png",
+      "caption": "約會前包包與白鞋的邊角整理",
       "inLanguage": "zh-Hant"
     }
   ]
