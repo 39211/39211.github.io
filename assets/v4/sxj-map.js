@@ -4,7 +4,7 @@
   var NS = 'http://www.w3.org/2000/svg', STORE = [120.639961, 24.174057], HQ = '西屯區', OA = 'https://line.me/R/oaMessage/%40454foyks/?';
   var URBAN = ['西屯區', '南屯區', '北屯區', '中區', '東區', '西區', '南區', '北區'];
   var NOTE = { '西屯區': '門市所在地。可直接到店，或約到府收送；逢甲、東海生活圈也由這裡出發。', '南屯區': '大樓多，可寄放管理室代收代送；厚被與換季衣物先傳照片。', '北區': '中國醫大與科博館生活圈，工作服與厚被可約收送。', '北屯區': '北屯沒有門市，由西屯門市安排收送。', '西區': '西區不是西屯，同樣免費收送。' };
-  var DEF = '由西屯門市安排免費到府收送，沒有最低消費，一件也收。';
+  var DEF = '台中全市免費收送、沒有最低消費，一件也收。';
   var all = root.querySelector('[data-map-all]'), core = root.querySelector('[data-map-core]');
   var list = [].slice.call(root.querySelectorAll('[data-d]')), btn = {}, shapes = {}, cur = null;
   list.forEach(function (b) { btn[b.getAttribute('data-d')] = b; });
