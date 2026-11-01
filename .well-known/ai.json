@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-11-01T00:39:08.119Z",
+  "generated_at": "2026-11-01T22:32:32.559Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -686,8 +686,11 @@
       "https://sixiangjialaundry.com/assets/2026-10-30/slot-02.png",
       "https://sixiangjialaundry.com/assets/2026-10-31/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-10-31/slot-02.png",
+      "https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
+      "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2186,10 +2189,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 242,
+      "indexable_article_count": 245,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 242
+      "article_count": 245
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2202,100 +2205,183 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 252,
-    "latest_date": "2026-11-01",
+    "post_count": 255,
+    "latest_date": "2026-11-02",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": false,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 162,
-    "posts_with_target_queries": 160,
-    "posts_with_evidence_type": 138
+    "posts_with_search_intent": 164,
+    "posts_with_target_queries": 161,
+    "posts_with_evidence_type": 140
   },
-  "latest_date": "2026-11-01",
+  "latest_date": "2026-11-02",
   "latest_posts": [
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json#post-2026-11-01-slot-01",
-      "date": "2026-11-01",
-      "date_published": "2026-11-01T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01",
+      "date": "2026-11-02",
+      "date_published": "2026-11-02T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-11-01 11:30 冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費",
-      "topic": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費",
+      "title": "2026-11-02 11:30 東北季風連日潮濕，外套悶味先查哪 2 處？",
+      "topic": "東北季風連日潮濕，外套悶味先查哪 2 處？",
       "visual_route": "customer-consultation",
-      "traffic_route": "object-proof",
+      "traffic_route": "trust-reset",
       "content_role": "reach-answer",
-      "search_intent": "pickup-logistics",
+      "search_intent": "aftercare",
       "target_queries": [
-        "台中洗衣收送",
-        "台中免費收送洗衣",
-        "台中到府收送洗衣",
-        "西屯洗衣收送",
-        "逢甲洗衣收送",
-        "台中床被收送"
+        "台中棉被清洗",
+        "台中床組清洗",
+        "西屯寢具清洗",
+        "台中羽絨被送洗",
+        "台中外套清洗",
+        "棉被有潮味怎麼辦"
       ],
-      "evidence_type": "pickup-logistics",
+      "evidence_type": "customer-question",
       "hashtags": [
         "#私享家洗衣店",
         "#台中西屯洗衣店",
         "#洗護日常",
         "#送洗前檢查",
-        "#衣物送洗",
         "#台中洗衣店"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png"
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-04.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json",
-      "facebook_caption": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費。\n\n下雨和通勤是兩種不同的髒。雨痕要等乾才浮出來，汗漬則是越放越難救。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區免費到府收送，沒有低消、一件也收，傳 LINE跟我們說你在哪一區就可以。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店",
-      "instagram_caption": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費。\n\n下雨和通勤是兩種不同的髒。雨痕要等乾才浮出來，汗漬則是越放越難救。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區免費到府收送，沒有低消、一件也收，私訊跟我們說你在哪一區就可以。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json",
+      "facebook_caption": "東北季風連日潮濕，外套悶味先查哪 2 處？\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店",
+      "instagram_caption": "東北季風連日潮濕，外套悶味先查哪 2 處？\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張私訊，我們老實跟你說。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json#post-2026-11-01-slot-02",
-      "date": "2026-11-01",
-      "date_published": "2026-11-01T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-02",
+      "date": "2026-11-02",
+      "date_published": "2026-11-02T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
-      "title": "2026-11-01 20:30 梅雨季衣櫃打開有味道時",
-      "topic": "梅雨季衣櫃打開有味道時",
-      "visual_route": "customer-consultation",
-      "traffic_route": "trust-reset",
+      "title": "2026-11-02 20:30 雨天機車族外套袖口與鞋面",
+      "topic": "雨天機車族外套袖口與鞋面",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
       "content_role": "evidence-conversion",
       "search_intent": "",
       "target_queries": [],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
-        "#梅雨季保養",
-        "#衣櫃除味",
-        "#布品清潔"
+        "#機車通勤",
+        "#雨季保養",
+        "#衣鞋清潔"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json",
-      "facebook_caption": "梅雨季衣櫃一打開有悶味，不一定是整櫃衣服都髒，常常是幾件厚衣物或布品帶著濕氣。\n\n外套、棉被、抱枕和厚帽T比較容易留味道，如果沒有分開看，會誤以為全部都需要重洗。\n\n我們會先看物件厚度、收納時間、味道來源和布料狀態，判斷要清潔、除味，還是先做通風乾燥。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #梅雨季保養 #衣櫃除味 #布品清潔",
-      "instagram_caption": "梅雨季衣櫃一打開有悶味，不一定是整櫃衣服都髒，常常是幾件厚衣物或布品帶著濕氣。\n\n外套、棉被、抱枕和厚帽T比較容易留味道，如果沒有分開看，會誤以為全部都需要重洗。\n\n我們會先看物件厚度、收納時間、味道來源和布料狀態，判斷要清潔、除味，還是先做通風乾燥。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #梅雨季保養 #衣櫃除味 #布品清潔"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json",
+      "facebook_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔",
+      "instagram_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔"
     }
   ],
   "recent_posts": [
     {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-02",
+      "date": "2026-11-02",
+      "date_published": "2026-11-02T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-11-02 20:30 雨天機車族外套袖口與鞋面",
+      "topic": "雨天機車族外套袖口與鞋面",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#機車通勤",
+        "#雨季保養",
+        "#衣鞋清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json",
+      "facebook_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔",
+      "instagram_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01",
+      "date": "2026-11-02",
+      "date_published": "2026-11-02T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-11-02 11:30 東北季風連日潮濕，外套悶味先查哪 2 處？",
+      "topic": "東北季風連日潮濕，外套悶味先查哪 2 處？",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中棉被清洗",
+        "台中床組清洗",
+        "西屯寢具清洗",
+        "台中羽絨被送洗",
+        "台中外套清洗",
+        "棉被有潮味怎麼辦"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json",
+      "facebook_caption": "東北季風連日潮濕，外套悶味先查哪 2 處？\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店",
+      "instagram_caption": "東北季風連日潮濕，外套悶味先查哪 2 處？\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張私訊，我們老實跟你說。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店"
+    },
+    {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json#post-2026-11-01-slot-02",
       "date": "2026-11-01",
       "date_published": "2026-11-01T20:30:00+08:00",
@@ -2373,6 +2459,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json",
       "facebook_caption": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費。\n\n下雨和通勤是兩種不同的髒。雨痕要等乾才浮出來，汗漬則是越放越難救。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區免費到府收送，沒有低消、一件也收，傳 LINE跟我們說你在哪一區就可以。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店",
       "instagram_caption": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費。\n\n下雨和通勤是兩種不同的髒。雨痕要等乾才浮出來，汗漬則是越放越難救。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區免費到府收送，沒有低消、一件也收，私訊跟我們說你在哪一區就可以。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-01:reel-icecream-tee-20261101",
+      "date": "2026-11-01",
+      "date_published": "2026-11-01T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "白 T 沾到巧克力冰淇淋，還有救？｜私享家洗衣店",
+      "topic": "白 T 沾到巧克力冰淇淋，還有救？｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#白T清洗",
+        "#衣服去漬",
+        "#巧克力污漬"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-icecream-tee-916.mp4",
+      "facebook_caption": "白 T 沾到巧克力冰淇淋，還有救嗎？\n\n這次示範的是一件被冰淇淋抹到胸口的白 T。\n沾到當下先別用熱水沖，也別用力搓，把表面多的刮掉就好。\n\n我們是先局部去漬，再整件清洗、檢查。\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n拍污漬傳 LINE，先幫你看看 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #白T清洗 #衣服去漬 #巧克力污漬",
+      "instagram_caption": "白 T 沾到巧克力冰淇淋，還有救嗎？\n\n這次示範的是一件被冰淇淋抹到胸口的白 T。\n沾到當下先別用熱水沖，也別用力搓，把表面多的刮掉就好。\n\n我們是先局部去漬，再整件清洗、檢查。\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n拍污漬傳 LINE，先幫你看看 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #白T清洗 #衣服去漬 #巧克力污漬"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json#post-2026-10-31-slot-02",
@@ -3450,191 +3570,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
       "facebook_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
       "instagram_caption": "換季把包拿出來，才發現翻蓋長霉了。\n\n今晚這支片，看這只棕色皮件拼棋盤格後背包怎麼處理：這種霉斑，洗了反而可能變黑。所以先帶來，我們看過再說。先看皮況，我們先跟你講清楚。片中是處理片段，不是完整流程。\n\n老實說：這種做完還是可能留一些斑影。能改善多少要看皮況。\n\n講好了再處理，背出門也安心。\n\n包發霉，先拍照傳 LINE，我們先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json#post-2026-10-19-slot-01",
-      "date": "2026-10-19",
-      "date_published": "2026-10-19T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-19 11:30 包包發霉，洗後可能變黑：處理前先說清楚",
-      "topic": "包包發霉，洗後可能變黑：處理前先說清楚",
-      "visual_route": "shop-inspection",
-      "traffic_route": "object-proof",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "包包發霉",
-        "皮包發霉清洗",
-        "包包霉斑變黑",
-        "後背包發霉",
-        "台中包包送洗",
-        "西屯洗包"
-      ],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#包包發霉",
-        "#皮件保養",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
-      ],
-      "carousel_items": [
-        {
-          "slide": 1,
-          "image_prompt": "Slide 1 is a 4:5 crop (resized to 1080 wide, top 100 px removed, highlight tone curve applied) of the generated photo described below, which is an edit pass over an earlier generated photo (itself an edit of a first generated draft); Photo 2 was an earlier generated frame of the same bag used as the strap reference. Prompt of the final edit pass: Photo 1 is the image to edit; Photo 2 shows the same bag closed, with the long fastening strap sewn to the outer face of the flap. Keep the long fastening strap attached to the outer face of the open flap, with its end extending above the flap; replace the leaf-shaped strap attachment on the front rim with continuous tan leather matching the surrounding mottling, and preserve the body-mounted buckle, inner-flap markings, stitching, checkerboard body, framing and lighting. Also keep the wooden chair, the home background and the existing mottling on the inner flap exactly as they are.",
-          "local_image_path": "docs/assets/2026-10-19/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01.png"
-        },
-        {
-          "slide": 2,
-          "image_prompt": "Slide 2 is a 4:5 crop (top 100 px removed) of the generated photo described below, upscaled and cropped to 1080x1920 with a highlight tone curve applied; the frames from the owner's own shop footage were used only as layout and action references. Prompt: Photo 1 is a frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement, each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge; and no caption, subtitle, watermark, label text or brand lettering from the footage is drawn. Vertical 9:16 portrait composition. An ordinary smartphone close-up under flat shop lighting, viewed obliquely from above. The same brown checkerboard backpack lies on the steel worktable with its flap unfolded toward the lower frame and its inner tan leather supported flat, matching the selected brushing reference. A right hand broadly grips a narrow wooden brush whose short bristles contact thin white foam on the leather. The checkerboard body occupies the upper part of the frame, with the left palm steadying it beside the flap attachment; the opened leather flap extends toward the bottom of the frame. The right black-sleeved forearm continues through the right edge and the left forearm through the bottom-left edge. A small clear glass cup stands on the table at the upper left.",
-          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-02.png"
-        },
-        {
-          "slide": 3,
-          "image_prompt": "Slide 3 is a 4:5 crop (top 40 px removed) of a two-pass generated photo: the main image is the edit pass described by the first prompt below (over an earlier generated frame, with the corrected first shot as Photo 2), and only the upper-centre strap area was then replaced from a second edit pass (second prompt below); highlight tone curve applied. Prompts: (first prompt) Photo 1 is the image to edit; Photo 2 is the corrected S1. Use the corrected S1 for the fastening-strap attachment and open-flap structure while preserving this frame's existing residual mottling and leather tone; match S1's camera position, crop, stitching, front rim, body-mounted buckle and checkerboard alignment. (second prompt) Photo 1 is the image to edit; Photo 2 is the new M01 reference with the correct strap overlap. Preserve this image's current residual mottling and leather tone while matching the new M01 reference's strap overlap, with the flap's inner leather and top-edge stitching covering the strap base and the perforated strap extending beyond the upper edge; retain the buckle, bag geometry, background and framing.",
-          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-03.png"
-        },
-        {
-          "slide": 4,
-          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three handwritten lines on the white card were drawn by the image generation itself, not added by a program; Photo 1 was an earlier generated frame of the same bag. Prompt: A plain white card is held in front of the same backpack shown in Photo 1, matching that exact bag and keeping it behind the card in the S9 composition. Handwrite exactly these three Traditional Chinese lines on the card, one line each: 洗後霉斑可能變黑 / 改善多少看實物 / 先講好再處理. No other writing, labels, logos, captions or subtitles.",
-          "local_image_path": "docs/assets/2026-10-19/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-19/slot-01-slide-04.png"
-        }
-      ],
-      "media_type": "carousel",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-19.json",
-      "facebook_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查",
-      "instagram_caption": "包包發霉，洗後可能變黑：處理前先說清楚。\n\n換季拿出包，才注意到皮面有深淺不一的斑影，是不是霉斑、適合怎麼處理，要先看實物；已確認的霉斑，清洗後也可能變黑。\n\n送洗前先別做：未經評估就自行用漂白水或去漬劑噴洗、整包水洗，或沒確認狀況就收回櫃子。\n\n在店裡，我們這樣做：先看翻蓋內側與底部，再依皮況處理。片中呈現噴罐處理、窄刷局部刷泡、白布擦拭，以及底部局部噴色、綠布擦拭的片段；不是完整操作流程，也不是每個包都適用的做法。\n\n老實說：能改善多少要看皮況，處理後仍可能留下斑影與深淺差異，不保證回到原本的樣子。交期依皮況與排程確認。\n\n拍整個包、翻蓋內側與底部斑影的近照傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #包包發霉 #皮件保養 #送洗前檢查"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json#post-2026-10-18-slot-02",
-      "date": "2026-10-18",
-      "date_published": "2026-10-18T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-10-18 20:30 換季拿出白外套，才發現黃斑？先別急著洗",
-      "topic": "換季拿出白外套，才發現黃斑？先別急著洗",
-      "visual_route": "shop-inspection",
-      "traffic_route": "value-prop-lead",
-      "content_role": "evidence-conversion",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "白外套黃斑",
-        "換季衣服黃斑",
-        "白色外套泛黃",
-        "外套黃斑送洗",
-        "皮布拼接外套清洗",
-        "台中西屯洗衣店"
-      ],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#白外套",
-        "#衣物照護",
-        "#換季整理"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json",
-      "facebook_caption": "白外套拿出來，怎麼有黃斑？\n\n這次示範的這件白布拼棕色皮革短外套，片中呈現：先看布面，也看皮革滾邊。盆裡揉洗。皮布拼接，做法要先評估。一手扶布，局部來回處理。黃斑能退多少，得看材質。皮革部分，再做定色。掛起之後，慢慢乾燥。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍整體和黃斑，傳LINE評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理",
-      "instagram_caption": "白外套拿出來，怎麼有黃斑？\n\n這次示範的這件白布拼棕色皮革短外套，片中呈現：先看布面，也看皮革滾邊。盆裡揉洗。皮布拼接，做法要先評估。一手扶布，局部來回處理。黃斑能退多少，得看材質。皮革部分，再做定色。掛起之後，慢慢乾燥。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍整體和黃斑，傳LINE評估。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json#post-2026-10-18-slot-01",
-      "date": "2026-10-18",
-      "date_published": "2026-10-18T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-18 11:30 換季拿出白外套，才發現黃斑？先別急著洗",
-      "topic": "換季拿出白外套，才發現黃斑？先別急著洗",
-      "visual_route": "macro-detail",
-      "traffic_route": "share-worthy-care",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "白外套黃斑",
-        "換季衣服黃斑",
-        "白色外套泛黃",
-        "外套黃斑送洗",
-        "皮布拼接外套清洗",
-        "台中西屯洗衣店"
-      ],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#白外套",
-        "#衣物照護",
-        "#換季整理"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-04.png"
-      ],
-      "carousel_items": [
-        {
-          "slide": 1,
-          "image_prompt": "Slide 1 is the generated photo described below (generated with the earlier generated jacket frame c1018/stills/S1.png as object reference), resized and cropped to 1080x1350, with a highlight tone curve applied. Prompt: Create a vertical 4:5 ordinary smartphone close-up of the exact white cloth and brown leather jacket from the supplied approved S1 object reference, framed on one existing pale yellow-brown area in the fabric directly beside its narrow brown leather pocket frame, while preserving the original pocket stitches, brown button pattern and natural cloth folds and keeping the brown leather evenly brown so it cannot read as a stain; flat laundry-shop lighting, no hands, no text, no label, no watermark, no brand mark.",
-          "local_image_path": "docs/assets/2026-10-18/slot-01.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01.png"
-        },
-        {
-          "slide": 2,
-          "image_prompt": "Slide 2 is a 4:5 crop (resized to 1080 wide, top 284 px removed) of the generated photo described below, with a highlight tone curve applied; Photo 1 was a frame from the owner's own shop footage used only as a layout reference. Prompt: Photo 1 is the source frame from the owner's own footage for this shot: copy its layout, camera angle and object arrangement. Each forearm wears the owner's plain black long sleeve; the sleeve may be pushed up so some bare forearm shows between the cuff and the wrist, exactly as in the footage, but every arm is one continuous limb from the hand to its frame edge. No caption, subtitle, watermark, label text or brand mark from the footage is drawn.\nPhoto 2 is the established jacket: same white cloth, same brown leather panels and pocket frames, same two staggered columns of round brown buttons, and the same faint pale yellow-brown discoloration patches in the same places on the white cloth. Those patches are fabric discoloration, never dirt, and they stay visible and faint.\nVertical 9:16 ordinary smartphone tight close-up of the same jacket gathered within the orange basin and its existing white suds, framed closer than S3 to emphasize the white fabric and its brown leather boundary. Show both hands supporting broad folds and an original brown button. The left black-sleeved forearm connects to the bottom-left edge of the frame, and the right black-sleeved forearm connects to the bottom-right edge of the frame. Preserve the fabric and leather seam, foam appearance and flat shop lighting.",
-          "local_image_path": "docs/assets/2026-10-18/slot-01-slide-02.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-02.png"
-        },
-        {
-          "slide": 3,
-          "image_prompt": "Slide 3 is a 4:5 crop (resized to 1080 wide, top 284 px removed) of the generated photo described below, which is an edit pass over the earlier generated frame c1018/inputs-s4/S6-draw1-raw.png, with a highlight tone curve applied. Prompt of the final generation (edit pass): Photo 1 is the image to edit; Photo 2 shows the single small flat white contact piece to match. Edit the object held by the right hand to match S5’s single small flat white contact piece, with a short flat edge touching the fabric and the remaining portion held within the hand, and extend the connected right forearm naturally toward the bottom-right border while preserving the left supporting hand, jacket structure, pale yellow areas and lighting.",
-          "local_image_path": "docs/assets/2026-10-18/slot-01-slide-03.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-03.png"
-        },
-        {
-          "slide": 4,
-          "image_prompt": "Slide 4 is the generated photo described below, resized and cropped to 1080x1350, with a highlight tone curve applied; the three lines of text on the white card were drawn by the image generation itself, not added by a program. Prompt: Create a vertical 4:5 ordinary smartphone photograph of the same white cloth short jacket hanging from a plain white hanger in the laundry shop, using the supplied S9 still as the garment reference; place a simple centered white card in front of the jacket with exactly these three large dark charcoal Traditional Chinese lines, each on its own line: 「白外套有黃斑」, 「皮布狀況先評估」, 「不保證完全去除」; render every glyph exactly as provided with no other text, logo, watermark or marks, keep the jacket visible around and behind the card, with its brown leather panels and buttons unchanged.",
-          "local_image_path": "docs/assets/2026-10-18/slot-01-slide-04.png",
-          "public_image_url": "https://sixiangjialaundry.com/assets/2026-10-18/slot-01-slide-04.png"
-        }
-      ],
-      "media_type": "carousel",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-18.json",
-      "facebook_caption": "換季拿出白外套，才發現黃斑？先別急著洗。\n\n換季整理衣物時，拿出白外套才注意到布面有淡黃褐色區域？發現的時間，不等於黃斑形成的原因；只看顏色不能確定成因，布面與皮革滾邊都要一起評估。\n\n送洗前先別做：還沒確認材質與適合的處理方式，先別自行混用清潔用品、用熱水浸泡，或對著黃斑反覆用力搓揉。\n\n在店裡，我們這樣做：先平放查看黃斑位置與皮布狀況，再依材質安排處理。這次呈現盆中揉洗、檯面扶布做局部處理、再回盆內處理，最後掛起慢慢乾燥；用劑與方式須個別評估，不能直接照做。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。適不適合處理、能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍外套整體、黃斑近照與皮革滾邊傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理",
-      "instagram_caption": "換季拿出白外套，才發現黃斑？先別急著洗。\n\n換季整理衣物時，拿出白外套才注意到布面有淡黃褐色區域？發現的時間，不等於黃斑形成的原因；只看顏色不能確定成因，布面與皮革滾邊都要一起評估。\n\n送洗前先別做：還沒確認材質與適合的處理方式，先別自行混用清潔用品、用熱水浸泡，或對著黃斑反覆用力搓揉。\n\n在店裡，我們這樣做：先平放查看黃斑位置與皮布狀況，再依材質安排處理。這次呈現盆中揉洗、檯面扶布做局部處理、再回盆內處理，最後掛起慢慢乾燥；用劑與方式須個別評估，不能直接照做。\n\n老實說：只憑照片不能確定黃斑成因，也不保證完全去除。適不適合處理、能改善多少，要看實物與材質。交期依材質與排程確認。\n\n拍外套整體、黃斑近照與皮革滾邊傳 LINE，先幫你看（照片先初評，必要時看實物）。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #白外套 #衣物照護 #換季整理"
     }
   ],
   "published_posts": [
@@ -14888,6 +14823,40 @@
       "instagram_caption": "出門前整體看起來乾淨，常常取決於包包四角、白鞋鞋邊和外套袖口這些小地方。\n\n邊角暗沉不一定很嚴重，但在近距離看會很明顯，尤其白鞋和淺色包更容易放大使用痕跡。\n\n我們會看包角材質、白鞋膠邊、鞋面灰痕和袖口狀態，再判斷哪些能快速整理、哪些需要完整清潔。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍鞋底和包角兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #白鞋清潔 #包包清潔 #出門前整理"
     },
     {
+      "id": "urn:sixiangjia:feature:2026-11-01:reel-icecream-tee-20261101",
+      "date": "2026-11-01",
+      "date_published": "2026-11-01T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "白 T 沾到巧克力冰淇淋，還有救？｜私享家洗衣店",
+      "topic": "白 T 沾到巧克力冰淇淋，還有救？｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#白T清洗",
+        "#衣服去漬",
+        "#巧克力污漬"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-icecream-tee-916.mp4",
+      "facebook_caption": "白 T 沾到巧克力冰淇淋，還有救嗎？\n\n這次示範的是一件被冰淇淋抹到胸口的白 T。\n沾到當下先別用熱水沖，也別用力搓，把表面多的刮掉就好。\n\n我們是先局部去漬，再整件清洗、檢查。\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n拍污漬傳 LINE，先幫你看看 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #白T清洗 #衣服去漬 #巧克力污漬",
+      "instagram_caption": "白 T 沾到巧克力冰淇淋，還有救嗎？\n\n這次示範的是一件被冰淇淋抹到胸口的白 T。\n沾到當下先別用熱水沖，也別用力搓，把表面多的刮掉就好。\n\n我們是先局部去漬，再整件清洗、檢查。\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n拍污漬傳 LINE，先幫你看看 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #白T清洗 #衣服去漬 #巧克力污漬"
+    },
+    {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json#post-2026-11-01-slot-01",
       "date": "2026-11-01",
       "date_published": "2026-11-01T11:30:00+08:00",
@@ -14965,6 +14934,87 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json",
       "facebook_caption": "梅雨季衣櫃一打開有悶味，不一定是整櫃衣服都髒，常常是幾件厚衣物或布品帶著濕氣。\n\n外套、棉被、抱枕和厚帽T比較容易留味道，如果沒有分開看，會誤以為全部都需要重洗。\n\n我們會先看物件厚度、收納時間、味道來源和布料狀態，判斷要清潔、除味，還是先做通風乾燥。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #梅雨季保養 #衣櫃除味 #布品清潔",
       "instagram_caption": "梅雨季衣櫃一打開有悶味，不一定是整櫃衣服都髒，常常是幾件厚衣物或布品帶著濕氣。\n\n外套、棉被、抱枕和厚帽T比較容易留味道，如果沒有分開看，會誤以為全部都需要重洗。\n\n我們會先看物件厚度、收納時間、味道來源和布料狀態，判斷要清潔、除味，還是先做通風乾燥。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #梅雨季保養 #衣櫃除味 #布品清潔"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01",
+      "date": "2026-11-02",
+      "date_published": "2026-11-02T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-11-02 11:30 東北季風連日潮濕，外套悶味先查哪 2 處？",
+      "topic": "東北季風連日潮濕，外套悶味先查哪 2 處？",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
+      "search_intent": "aftercare",
+      "target_queries": [
+        "台中棉被清洗",
+        "台中床組清洗",
+        "西屯寢具清洗",
+        "台中羽絨被送洗",
+        "台中外套清洗",
+        "棉被有潮味怎麼辦"
+      ],
+      "evidence_type": "customer-question",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-02.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-03.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-04.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json",
+      "facebook_caption": "東北季風連日潮濕，外套悶味先查哪 2 處？\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店",
+      "instagram_caption": "東北季風連日潮濕，外套悶味先查哪 2 處？\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張私訊，我們老實跟你說。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-02",
+      "date": "2026-11-02",
+      "date_published": "2026-11-02T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-11-02 20:30 雨天機車族外套袖口與鞋面",
+      "topic": "雨天機車族外套袖口與鞋面",
+      "visual_route": "shop-inspection",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#機車通勤",
+        "#雨季保養",
+        "#衣鞋清潔"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json",
+      "facebook_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔",
+      "instagram_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔"
     }
   ]
 }

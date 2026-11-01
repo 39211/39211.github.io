@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-01T00:39:08.119Z
+- Generated at: 2026-11-01T22:32:32.559Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -443,8 +443,11 @@
     "https://sixiangjialaundry.com/assets/2026-10-30/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-10-31/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-10-31/slot-02.png",
+    "https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -13142,6 +13145,51 @@ Instagram caption:
 
 #私享家洗衣店 #白鞋清潔 #包包清潔 #出門前整理
 
+### 白 T 沾到巧克力冰淇淋，還有救？｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-11-01:reel-icecream-tee-20261101
+- published local time: 2026-11-01T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #私享家洗衣店 #台中洗衣店 #白T清洗 #衣服去漬 #巧克力污漬
+- image: https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+白 T 沾到巧克力冰淇淋，還有救嗎？
+
+這次示範的是一件被冰淇淋抹到胸口的白 T。
+沾到當下先別用熱水沖，也別用力搓，把表面多的刮掉就好。
+
+我們是先局部去漬，再整件清洗、檢查。
+能改善多少要看實物，先拍照讓我們看看。
+一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。
+
+拍污漬傳 LINE，先幫你看看 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）
+
+#私享家洗衣店 #台中洗衣店 #白T清洗 #衣服去漬 #巧克力污漬
+
+Instagram caption:
+
+白 T 沾到巧克力冰淇淋，還有救嗎？
+
+這次示範的是一件被冰淇淋抹到胸口的白 T。
+沾到當下先別用熱水沖，也別用力搓，把表面多的刮掉就好。
+
+我們是先局部去漬，再整件清洗、檢查。
+能改善多少要看實物，先拍照讓我們看看。
+一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。
+
+拍污漬傳 LINE，先幫你看看 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）
+
+#私享家洗衣店 #台中洗衣店 #白T清洗 #衣服去漬 #巧克力污漬
+
 ### 2026-11-01 11:30 冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費
 
 - id: https://sixiangjialaundry.com/content-calendar/2026-11-01.json#post-2026-11-01-slot-01
@@ -13235,4 +13283,98 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #梅雨季保養 #衣櫃除味 #布品清潔
+
+### 2026-11-02 11:30 東北季風連日潮濕，外套悶味先查哪 2 處？
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01
+- published local time: 2026-11-02T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: trust-reset
+- search_intent: aftercare
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中外套清洗 | 棉被有潮味怎麼辦
+- evidence_type: customer-question
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-02.json
+
+Facebook caption:
+
+東北季風連日潮濕，外套悶味先查哪 2 處？
+
+衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。
+
+我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。
+
+不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店
+
+Instagram caption:
+
+東北季風連日潮濕，外套悶味先查哪 2 處？
+
+衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。
+
+我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。
+
+不知道該不該送洗？拍一張私訊，我們老實跟你說。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店
+
+### 2026-11-02 20:30 雨天機車族外套袖口與鞋面
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-02
+- published local time: 2026-11-02T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔
+- image: https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-02.json
+
+Facebook caption:
+
+雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。
+
+如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。
+
+我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。
+
+私享家洗衣店｜台中市區免費到府收送
+
+拍領口和袖口兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔
+
+Instagram caption:
+
+雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。
+
+如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。
+
+我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。
+
+私享家洗衣店｜台中市區免費到府收送
+
+拍領口和袖口兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔
 

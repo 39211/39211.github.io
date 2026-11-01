@@ -351,8 +351,11 @@
         "https://sixiangjialaundry.com/assets/2026-10-30/slot-02.png",
         "https://sixiangjialaundry.com/assets/2026-10-31/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-10-31/slot-02.png",
+        "https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -546,7 +549,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-11-01"
+      "dateModified": "2026-11-02"
     },
     {
       "@type": "FAQPage",
@@ -607,7 +610,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-11-01",
+      "dateModified": "2026-11-02",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -15262,6 +15265,39 @@
     },
     {
       "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-01:reel-icecream-tee-20261101",
+      "headline": "白 T 沾到巧克力冰淇淋，還有救？｜私享家洗衣店",
+      "text": "白 T 沾到巧克力冰淇淋，還有救嗎？\n\n這次示範的是一件被冰淇淋抹到胸口的白 T。\n沾到當下先別用熱水沖，也別用力搓，把表面多的刮掉就好。\n\n我們是先局部去漬，再整件清洗、檢查。\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n拍污漬傳 LINE，先幫你看看 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #白T清洗 #衣服去漬 #巧克力污漬",
+      "datePublished": "2026-11-01T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#白T清洗",
+        "#衣服去漬",
+        "#巧克力污漬"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-01:reel-icecream-tee-20261101:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-01:reel-icecream-tee-20261101"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-01:reel-icecream-tee-20261101:image",
+      "contentUrl": "https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg",
+      "caption": "白 T 沾到巧克力冰淇淋，還有救？｜私享家洗衣店",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
       "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json#post-2026-11-01-slot-01",
       "headline": "2026-11-01 11:30 冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費",
       "text": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費。\n\n下雨和通勤是兩種不同的髒。雨痕要等乾才浮出來，汗漬則是越放越難救。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區免費到府收送，沒有低消、一件也收，傳 LINE跟我們說你在哪一區就可以。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店",
@@ -15324,6 +15360,71 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
       "caption": "梅雨季衣櫃打開有味道時",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01",
+      "headline": "2026-11-02 11:30 東北季風連日潮濕，外套悶味先查哪 2 處？",
+      "text": "東北季風連日潮濕，外套悶味先查哪 2 處？\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店",
+      "datePublished": "2026-11-02T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
+      "caption": "東北季風連日潮濕，外套悶味先查哪 2 處？",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-02",
+      "headline": "2026-11-02 20:30 雨天機車族外套袖口與鞋面",
+      "text": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔",
+      "datePublished": "2026-11-02T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#機車通勤",
+        "#雨季保養",
+        "#衣鞋清潔"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
+      "caption": "雨天機車族外套袖口與鞋面",
       "inLanguage": "zh-Hant"
     }
   ]
