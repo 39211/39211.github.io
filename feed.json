@@ -9091,6 +9091,75 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-31.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json#post-2026-11-01-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-01-slot-01.html",
+      "title": "2026-11-01 11:30 冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費",
+      "date_published": "2026-11-01T11:30:00+08:00",
+      "content_text": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費。\n\n下雨和通勤是兩種不同的髒。雨痕要等乾才浮出來，汗漬則是越放越難救。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區免費到府收送，沒有低消、一件也收，傳 LINE跟我們說你在哪一區就可以。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店",
+      "summary": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "洗護日常",
+        "送洗前檢查",
+        "衣物送洗",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "object-proof",
+        "content_role": "reach-answer",
+        "search_intent": "pickup-logistics",
+        "target_queries": [
+          "台中洗衣收送",
+          "台中免費收送洗衣",
+          "台中到府收送洗衣",
+          "西屯洗衣收送",
+          "逢甲洗衣收送",
+          "台中床被收送"
+        ],
+        "evidence_type": "pickup-logistics",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json#post-2026-11-01-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-01-slot-02.html",
+      "title": "2026-11-01 20:30 梅雨季衣櫃打開有味道時",
+      "date_published": "2026-11-01T20:30:00+08:00",
+      "content_text": "梅雨季衣櫃一打開有悶味，不一定是整櫃衣服都髒，常常是幾件厚衣物或布品帶著濕氣。\n\n外套、棉被、抱枕和厚帽T比較容易留味道，如果沒有分開看，會誤以為全部都需要重洗。\n\n我們會先看物件厚度、收納時間、味道來源和布料狀態，判斷要清潔、除味，還是先做通風乾燥。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #梅雨季保養 #衣櫃除味 #布品清潔",
+      "summary": "梅雨季衣櫃打開有味道時",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "梅雨季保養",
+        "衣櫃除味",
+        "布品清潔"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "trust-reset",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-01.json"
+      }
     }
   ]
 }

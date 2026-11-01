@@ -1,6 +1,6 @@
 {
   "name": "私享家洗衣店",
-  "google_business_profile_name": "私享家洗衣店",
+  "google_business_profile_name": "私享家 旗艦總店",
   "alternate_names": [
     "私享家洗衣店（西屯門市）",
     "私享家 旗艦店",
@@ -16,7 +16,7 @@
   },
   "address_text": "407 臺中市西屯區至善里青海路二段365號",
   "landmark": "至善國中對面",
-  "location_disambiguation": "私享家洗衣店門市在西屯，東海只有收送。地址在台中市西屯區青海路二段365號（至善國中對面），與其他縣市或中國大陸同名店無關。台中全市免費收送。門市市話 04-2452-7411，LINE 官方 @454foyks（https://lin.ee/w8qGVqM），或 LINE 0968327653。",
+  "location_disambiguation": "私享家洗衣店（西屯門市）是台中西屯唯一門市，地址在台中市西屯區青海路二段365號（至善國中對面），與其他縣市或中國大陸同名店無關。東海僅收送、無門市。實體門市僅西屯此一處，台中市免費收送。門市市話 04-2452-7411，LINE／手機 0968-327-653。",
   "map_url": "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
   "google_maps_feature_id": "0x34691713872dd6f5:0x41f4295a6302e177",
   "google_maps_cid": "0x41f4295a6302e177",
@@ -24,7 +24,7 @@
   "facebook_url": "https://www.facebook.com/100083194756904/",
   "facebook_share_url": "https://www.facebook.com/share/1BZF4VnihJ/",
   "instagram_url": "https://www.instagram.com/si_xiang_jia/",
-  "line_url": "https://line.me/R/ti/p/%40454foyks",
+  "line_url": "https://line.me/ti/p/4m-rA6hxf6",
   "line_id": "0968327653",
   "telephone": "+886-4-2452-7411",
   "telephone_local": "04-2452-7411",
@@ -56,7 +56,7 @@
     }
   ],
   "holiday_hours_rule": {
-    "default_rule": "重大節日與連假營業時間以店家當期公告為準。",
+    "default_rule": "重大節日與連假營業時間以店家當期公告為準；未公告前，不在 schema 產生具體 specialOpeningHoursSpecification。",
     "social_content_rule": "重大節日前先發布預告海報；節日當天或連假後用真實門市照片補一篇提醒或收件狀況文。",
     "schema_rule": "只有當 overrides 有明確日期、開關店時間，且 verified_by_owner 為 true 時，才輸出 specialOpeningHoursSpecification。",
     "major_holidays": [
@@ -99,12 +99,12 @@
   "website": "https://sixiangjialaundry.com/",
   "telephone_label": "門市市話",
   "mobile_or_line_label": "LINE／手機",
-  "service_area_narrative": "台中全市免費收送。門市在西屯，東海只有收送。",
+  "service_area_narrative": "台中市免費收送；實體門市僅西屯此一處。",
   "sameAs": [
     "https://maps.app.goo.gl/kUREPkWDXYNTkpct7",
     "https://www.facebook.com/100083194756904/",
     "https://www.instagram.com/si_xiang_jia/",
     "https://www.youtube.com/channel/UCcVDFN7Ve-cD9duxRdM5VXQ",
-    "https://line.me/R/ti/p/%40454foyks"
+    "https://line.me/ti/p/4m-rA6hxf6"
   ]
 }

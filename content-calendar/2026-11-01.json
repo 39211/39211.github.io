@@ -1,0 +1,83 @@
+{
+  "date": "2026-11-01",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-10-28T22:30:07.670Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費",
+      "format": "image-post",
+      "planned_object": "一張寫著方便時段與衣物件數的收送便條",
+      "planned_category": "note",
+      "media_type": "image",
+      "instagram_caption": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費。\n\n下雨和通勤是兩種不同的髒。雨痕要等乾才浮出來，汗漬則是越放越難救。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區免費到府收送，沒有低消、一件也收，私訊跟我們說你在哪一區就可以。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店",
+      "facebook_caption": "冬衣預約收送服務要備什麼？列可收時段和件數，店家服務免費。\n\n下雨和通勤是兩種不同的髒。雨痕要等乾才浮出來，汗漬則是越放越難救。\n\n我會先摸厚的地方確認乾透了沒。收進去之前那一步，決定下次拿出來的味道。\n\n台中市區免費到府收送，沒有低消、一件也收，傳 LINE跟我們說你在哪一區就可以。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店",
+      "image_prompt": "OBJECT PASSPORT: exactly this one item: 一張寫著方便時段與衣物件數的收送便條. Preserve its specified color, material, style and condition; do not substitute a topic-derived variant. SUBJECT CATEGORY: note. WEAR FIRST: reproduce only the condition, marks, sizes and positions specified in OBJECT PASSPORT; preserve clean areas and do not invent or enlarge damage. MATERIAL OPTICS: show the actual surface texture and light response of only the material specified in OBJECT PASSPORT, with natural folds and contact shadows; do not add a different fabric, coating or trim. SCENE LOCK: the same brushed stainless-steel work table with the white tiled wall on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. LOCATION: the back work table of the same laundry shop: brushed stainless-steel top with fine scratches and a few water spots, white ceramic tile wall behind with grey grout, a row of unlabelled care-product bottles and a folded towel softly out of focus at the back edge; no pink mat. COMPOSITION (hero, crop allowed): frame the half of the object that carries the problem, the object cut by the frame edge on one side and set off-centre with its mass near x=40% or x=60%, filling 60-75% of the frame height; one adult hand entering from the frame edge, wrist only, fingers holding or pressing right beside the problem area with five clearly separated fingers; a white plastic spray bottle with no readable label rests at the frame edge as a foreground occlusion; the surface fills the bottom of the frame, not empty space. LIGHTING: one clear key light from a window on one side: the lit side of the object is bright and the far side falls to mid-grey with a visible shadow edge running across the object; a dense contact shadow at the base that softens outward; ceiling fluorescent fills only enough to keep shadow detail; the counter or mat must not tint the whites. STYLE: candid documentary phone photo taken by the shop worker mid-inspection, the action caught while it happens, slight handheld tilt and framing imperfection; not editorial, not catalogue, not studio. CAMERA: phone main camera, 26mm-equivalent, held from the worker's standing eye line looking down about 25 degrees, f/1.8 look: the problem area sharp, the far side of the object slightly softer, the background clearly out of focus. COLOR: neutral daylight indoor tone with honest contrast, low saturation close to documentary colour, whites read white where clean and grey where soiled; no pink or warm cast on the object. Photo 1 of 4. Present the note specified in OBJECT PASSPORT on the locked inspection counter, preserving its specified arrangement and condition for pickup. Avoid: brand logos, readable text on the object, a second object of the same kind, a waxy plastic-coated surface, a second hand.",
+      "carousel_items": [
+        {
+          "slide": 1,
+          "image_prompt": "OBJECT PASSPORT: exactly this one item: 一張寫著方便時段與衣物件數的收送便條. Preserve its specified color, material, style and condition; do not substitute a topic-derived variant. SUBJECT CATEGORY: note. WEAR FIRST: reproduce only the condition, marks, sizes and positions specified in OBJECT PASSPORT; preserve clean areas and do not invent or enlarge damage. MATERIAL OPTICS: show the actual surface texture and light response of only the material specified in OBJECT PASSPORT, with natural folds and contact shadows; do not add a different fabric, coating or trim. SCENE LOCK: the same brushed stainless-steel work table with the white tiled wall on every slide; do not change location, backdrop, or room across slides. Create one portrait 4:5 photo. Keep the exact featured object consistent across all four photos. LOCATION: the back work table of the same laundry shop: brushed stainless-steel top with fine scratches and a few water spots, white ceramic tile wall behind with grey grout, a row of unlabelled care-product bottles and a folded towel softly out of focus at the back edge; no pink mat. COMPOSITION (hero, crop allowed): frame the half of the object that carries the problem, the object cut by the frame edge on one side and set off-centre with its mass near x=40% or x=60%, filling 60-75% of the frame height; one adult hand entering from the frame edge, wrist only, fingers holding or pressing right beside the problem area with five clearly separated fingers; a white plastic spray bottle with no readable label rests at the frame edge as a foreground occlusion; the surface fills the bottom of the frame, not empty space. LIGHTING: one clear key light from a window on one side: the lit side of the object is bright and the far side falls to mid-grey with a visible shadow edge running across the object; a dense contact shadow at the base that softens outward; ceiling fluorescent fills only enough to keep shadow detail; the counter or mat must not tint the whites. STYLE: candid documentary phone photo taken by the shop worker mid-inspection, the action caught while it happens, slight handheld tilt and framing imperfection; not editorial, not catalogue, not studio. CAMERA: phone main camera, 26mm-equivalent, held from the worker's standing eye line looking down about 25 degrees, f/1.8 look: the problem area sharp, the far side of the object slightly softer, the background clearly out of focus. COLOR: neutral daylight indoor tone with honest contrast, low saturation close to documentary colour, whites read white where clean and grey where soiled; no pink or warm cast on the object. Photo 1 of 4. Present the note specified in OBJECT PASSPORT on the locked inspection counter, preserving its specified arrangement and condition for pickup. Avoid: brand logos, readable text on the object, a second object of the same kind, a waxy plastic-coated surface, a second hand.",
+          "local_image_path": "docs/assets/2026-11-01/slot-01.png",
+          "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png"
+        }
+      ],
+      "video_prompt": "不要出现BGM，不要出现字幕\n\n【全局画质】手機隨手拍質感,輕微手持晃動貫穿全程,室內自動白平衡略偏暖,暗部有輕微感光噪點,真實物理;不要三維渲染感、不要廣告感、不要平滑穩定器運鏡、不要慢動作。\n【物件材質】穿過的衣物:領口與袖口有使用痕跡;縫線與褶線自然;布面有纖維方向的光澤變化與微小起毛;不是全新無皺的假象。\n【灯光与风格】背景暖色門燈為主光,牆面反射弱補光,長凳或地墊上有柔和接觸陰影,景深自然。\n【核心物理】衣物有布料的重量:被掀起時布邊先垂墜;領口或布邊翻開後保持翻開的形狀;放手後輕微回落才靜止。\n\n@image1（起始画面）——固定直式中近景；前景是完整衣物，中景是較矮小型藍色編織袋，背景保留暖色門燈與乾淨牆面形成景深；物件數量、袋體、提把與固定點完整，無人物頭部、無雨傘、無文字。保持此場景與此衣物不變。\n\n⚠️本视频严格只有2个镜头——禁止添加额外镜头，禁止自动补镜头。\n\n【镜头1｜0.0-3.0秒】\n画面动作概述：固定機位先讓觀眾看清住家玄關上的衣物與它的狀態,無人出現。\n画面构图：固定直式中近景；前景是完整衣物，中景是較矮小型藍色編織袋，背景保留暖色門燈與乾淨牆面形成景深；物件數量、袋體、提把與固定點完整，無人物頭部、無雨傘、無文字。\n机位：手機主鏡頭約26mm,胸口高度微俯,固定機位僅有手持呼吸感微晃。\n动作：無人物動作;鏡頭極緩慢向衣物微推約5%,讓材質細節成為焦點。\n音效：室內安靜環境低鳴。\n\n【镜头2｜3.0-10.0秒】（同机位延续，无剪辑跳变）\n画面动作概述：一隻成年人的手從畫面邊緣進入,完成唯一動作後退出,衣物落定。\n画面构图：手從右緣進入,衣物保持在畫面中心區域,場景其他物件不動。\n机位：同鏡頭1固定機位,手持微晃持續,不推不拉。\n动作：同一隻成人手只做一個主要動作(one dominant action only):同一隻成人手只把一件完整折好的衣物放入藍色編織袋，袋子全程留在長凳上。動作完成後,藍色編織袋留在原位、受力自然形變後靜止,最後一秒畫面完全靜止。\n音效：手與材質接觸的細微摩擦聲。\n\n环境活动 / 全场音效：安靜室內,僅有空調低頻與遠處環境聲。\n\n⚠️物件恆定:全程同一件衣物,顏色、縫線與磨損位置不變。\n⚠️多餘肢體:只有一隻手,五指健全,無人物頭部,無第二隻手進入,無重複物件。\n⚠️漂浮道具:物件必須有接觸陰影和重量,不得懸空、穿模或變形。\n⚠️文字污染:畫面中不得出現任何文字、標誌或浮水印。\n⚠️穿模:袋口開合要符合物理,物件放入或提把拉開時不得穿透袋壁。\n\nItem profile 2026-08-05-v1: 多物件情境：不得把多種物件混成一個清潔主體；只展示分件、分袋或補拍其中一件的單一動作，明確保留件數與材質差異，不宣稱全部可處理。",
+      "video_candidate": {
+        "status": "concept_ready",
+        "memory_hook": "衣物也可以送洗",
+        "conflict": "衣物已折好放在長凳上，旁邊的藍色編織袋仍是空的。",
+        "single_action": "同一隻成人手只把一件完整折好的衣物放入藍色編織袋，袋子全程留在長凳上。",
+        "payoff": "不用自己扛去門市，先拍照、分袋，再用 LINE 預約收送。",
+        "cta": "台中市全區免費收送；點個人檔案連結加 LINE 預約。",
+        "duration_seconds": 10,
+        "aspect_ratio": "9:16",
+        "first_frame_direction": "固定直式中近景；前景是完整衣物，中景是較矮小型藍色編織袋，背景保留暖色門燈與乾淨牆面形成景深；物件數量、袋體、提把與固定點完整，無人物頭部、無雨傘、無文字。",
+        "grok_motion_prompt": "不要出现BGM，不要出现字幕\n\n【全局画质】手機隨手拍質感,輕微手持晃動貫穿全程,室內自動白平衡略偏暖,暗部有輕微感光噪點,真實物理;不要三維渲染感、不要廣告感、不要平滑穩定器運鏡、不要慢動作。\n【物件材質】穿過的衣物:領口與袖口有使用痕跡;縫線與褶線自然;布面有纖維方向的光澤變化與微小起毛;不是全新無皺的假象。\n【灯光与风格】背景暖色門燈為主光,牆面反射弱補光,長凳或地墊上有柔和接觸陰影,景深自然。\n【核心物理】衣物有布料的重量:被掀起時布邊先垂墜;領口或布邊翻開後保持翻開的形狀;放手後輕微回落才靜止。\n\n@image1（起始画面）——固定直式中近景；前景是完整衣物，中景是較矮小型藍色編織袋，背景保留暖色門燈與乾淨牆面形成景深；物件數量、袋體、提把與固定點完整，無人物頭部、無雨傘、無文字。保持此場景與此衣物不變。\n\n⚠️本视频严格只有2个镜头——禁止添加额外镜头，禁止自动补镜头。\n\n【镜头1｜0.0-3.0秒】\n画面动作概述：固定機位先讓觀眾看清住家玄關上的衣物與它的狀態,無人出現。\n画面构图：固定直式中近景；前景是完整衣物，中景是較矮小型藍色編織袋，背景保留暖色門燈與乾淨牆面形成景深；物件數量、袋體、提把與固定點完整，無人物頭部、無雨傘、無文字。\n机位：手機主鏡頭約26mm,胸口高度微俯,固定機位僅有手持呼吸感微晃。\n动作：無人物動作;鏡頭極緩慢向衣物微推約5%,讓材質細節成為焦點。\n音效：室內安靜環境低鳴。\n\n【镜头2｜3.0-10.0秒】（同机位延续，无剪辑跳变）\n画面动作概述：一隻成年人的手從畫面邊緣進入,完成唯一動作後退出,衣物落定。\n画面构图：手從右緣進入,衣物保持在畫面中心區域,場景其他物件不動。\n机位：同鏡頭1固定機位,手持微晃持續,不推不拉。\n动作：同一隻成人手只做一個主要動作(one dominant action only):同一隻成人手只把一件完整折好的衣物放入藍色編織袋，袋子全程留在長凳上。動作完成後,藍色編織袋留在原位、受力自然形變後靜止,最後一秒畫面完全靜止。\n音效：手與材質接觸的細微摩擦聲。\n\n环境活动 / 全场音效：安靜室內,僅有空調低頻與遠處環境聲。\n\n⚠️物件恆定:全程同一件衣物,顏色、縫線與磨損位置不變。\n⚠️多餘肢體:只有一隻手,五指健全,無人物頭部,無第二隻手進入,無重複物件。\n⚠️漂浮道具:物件必須有接觸陰影和重量,不得懸空、穿模或變形。\n⚠️文字污染:畫面中不得出現任何文字、標誌或浮水印。\n⚠️穿模:袋口開合要符合物理,物件放入或提把拉開時不得穿透袋壁。\n\nItem profile 2026-08-05-v1: 多物件情境：不得把多種物件混成一個清潔主體；只展示分件、分袋或補拍其中一件的單一動作，明確保留件數與材質差異，不宣稱全部可處理。",
+        "fallback_media_type": "image"
+      },
+      "visual_route": "customer-consultation",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "views_target": 90,
+      "follower_target": 1,
+      "follow_cta": "追蹤私享家，之後會持續整理台中免費收送與各類物件的送洗判斷。",
+      "seo_sync_page": "/services/taichung-citywide-laundry-pickup.html",
+      "search_intent": "pickup-logistics",
+      "target_queries": [
+        "台中洗衣收送",
+        "台中免費收送洗衣",
+        "台中到府收送洗衣",
+        "西屯洗衣收送",
+        "逢甲洗衣收送",
+        "台中床被收送"
+      ],
+      "evidence_type": "pickup-logistics",
+      "ten_day_review_metric": "比較 image-post、carousel-guide、reel 的停留、分享、LINE 點擊與預約；同步檢查 GSC、Bing 與 AI 問題面板中的曝光、品牌提及和引用網址。",
+      "content_plan_source": "slot1-plan-ext",
+      "local_image_path": "docs/assets/2026-11-01/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "梅雨季衣櫃打開有味道時",
+      "media_type": "image",
+      "instagram_caption": "梅雨季衣櫃一打開有悶味，不一定是整櫃衣服都髒，常常是幾件厚衣物或布品帶著濕氣。\n\n外套、棉被、抱枕和厚帽T比較容易留味道，如果沒有分開看，會誤以為全部都需要重洗。\n\n我們會先看物件厚度、收納時間、味道來源和布料狀態，判斷要清潔、除味，還是先做通風乾燥。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #梅雨季保養 #衣櫃除味 #布品清潔",
+      "facebook_caption": "梅雨季衣櫃一打開有悶味，不一定是整櫃衣服都髒，常常是幾件厚衣物或布品帶著濕氣。\n\n外套、棉被、抱枕和厚帽T比較容易留味道，如果沒有分開看，會誤以為全部都需要重洗。\n\n我們會先看物件厚度、收納時間、味道來源和布料狀態，判斷要清潔、除味，還是先做通風乾燥。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #梅雨季保養 #衣櫃除味 #布品清潔",
+      "image_prompt": "Realistic square shop photo: several folded thick garments and bedding pieces on a clean laundry counter, staff hand sorting by fabric thickness, soft daylight, premium practical style, no logo, no readable text.",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "content_role": "evidence-conversion",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-01/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
+      "status": "pending"
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "3ee4734a63a43539"
+}
