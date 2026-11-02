@@ -2,11 +2,13 @@
 
 import os
 from pathlib import Path
+import re
 import shutil
 import subprocess
 import sys
 import tempfile
 import xml.etree.ElementTree as ET
+from urllib.parse import urlsplit
 from xml.sax.saxutils import escape
 
 from seo_overlay_merge import GENERATED_OWNED, overlay_files
@@ -24,6 +26,47 @@ POSTS = [f"posts/2026-10-17-slot-{n:02d}.html" for n in range(1, 4)]
 def sitemap_locs(raw):
     return [el.text or "" for el in ET.fromstring(raw).iter()
             if el.tag.split("}")[-1] == "loc"]
+
+URL_BLOCK = re.compile(rb"[ \t]*<url>.*?</url>[ \t]*\r?\n?", re.DOTALL)
+LOC = re.compile(rb"<loc>(.*?)</loc>", re.DOTALL)
+
+
+def ai_sitemap_added_urls(before, after):
+    """Return the <loc> URLs that `after` adds to `before`, else raise AssertionError.
+
+    ai-sitemap.xml is the one generated-owned file the merge may legitimately
+    change: it appends missing non-/posts/ pages. Accept that and nothing else:
+    every original <url> block must survive byte-for-byte and in order, the
+    bytes outside the <url> blocks must be identical, added URLs must be new
+    and must not be under /posts/. Any removal, edit or reorder is rejected.
+    """
+    old_blocks = URL_BLOCK.findall(before)
+    new_blocks = URL_BLOCK.findall(after)
+    if URL_BLOCK.sub(b"", before) != URL_BLOCK.sub(b"", after):
+        raise AssertionError("ai-sitemap changed outside its <url> entries")
+    remaining = iter(new_blocks)
+    for block in old_blocks:
+        if not any(candidate == block for candidate in remaining):
+            raise AssertionError("ai-sitemap lost or altered an existing entry: "
+                                 + block.decode("utf-8", "replace").strip())
+    old_set = set(old_blocks)
+    old_locs = {m.group(1) for b in old_blocks for m in LOC.finditer(b)}
+    added, seen = [], set(old_locs)
+    for block in new_blocks:
+        if block in old_set:
+            old_set.discard(block)
+            continue
+        locs = [m.group(1) for m in LOC.finditer(block)]
+        if len(locs) != 1:
+            raise AssertionError("ai-sitemap added an entry without exactly one <loc>")
+        loc = locs[0].decode("utf-8")
+        if loc.encode() in seen:
+            raise AssertionError(f"ai-sitemap added a duplicate URL: {loc}")
+        if urlsplit(loc).path.startswith("/posts/"):
+            raise AssertionError(f"ai-sitemap added a generated-owned /posts/ URL: {loc}")
+        seen.add(loc.encode())
+        added.append(loc)
+    return added
 
 
 def write(root, relative, raw):
@@ -110,8 +153,12 @@ def run():
         for owned in GENERATED_OWNED:
             relative = owned + "index.html" if owned.endswith("/") else owned
             write(source, relative, b"Conflicting override must be ignored\n")
+        # ai-sitemap.xml may only gain URLs (checked separately below); every other
+        # generated-owned file must stay byte-for-byte identical.
+        ai_before = (site / "ai-sitemap.xml").read_bytes()
         protected = {p.relative_to(site).as_posix(): p.read_bytes()
                      for p in site.rglob("*") if p.is_file()
+                     and p.name != "ai-sitemap.xml"
                      and (p.relative_to(site).as_posix().startswith("posts/") or p.name in GENERATED_OWNED)}
 
         def call(command, *args):
@@ -154,6 +201,10 @@ def run():
         for relative, raw in protected.items():
             if (site / relative).read_bytes() != raw:
                 raise AssertionError(f"Generated-owned bytes changed: {relative}")
+        ai_added = ai_sitemap_added_urls(ai_before, (site / "ai-sitemap.xml").read_bytes())
+        expected_added = [u for u in main_urls if "/posts/" not in u and u.encode() not in ai_before]
+        if ai_added != expected_added:
+            raise AssertionError("ai-sitemap additions differ from the SEO desk pages it lacked")
         print("homepage_has_fake_post_link=True")
         print(f"final_sitemap_urls={len(urls)} (145 SEO desk + 3 generated posts)")
         for post in POSTS:
@@ -162,7 +213,7 @@ def run():
             print(f"post_robots[{post}]=index, follow (unchanged)")
         print(f"feed_json_preserved={(site / 'feed.json').read_bytes() == feed}")
         print(f"rss_xml_preserved={(site / 'rss.xml').read_bytes() == rss}")
-        print("ai_sitemap_preserved=True; posts_hub_preserved=True")
+        print(f"ai_sitemap_only_additions={len(ai_added)} (existing entries unchanged); posts_hub_preserved=True")
         print(f"overlay_cmp_files={len(manifest)}; all_targets_exist=True; all_assertions_passed=True")
     print("simulation_temp_removed=True")
 
