@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-02T05:00:09.428Z
+- Generated at: 2026-11-02T13:15:05.620Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -446,6 +446,7 @@
     "https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
+    "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -13283,6 +13284,51 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #梅雨季保養 #衣櫃除味 #布品清潔
+
+### 羽絨外套袖口黑一圈，刷一半給你看｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-11-02:reel-down-cuff-20261102
+- published local time: 2026-11-02T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #私享家洗衣店 #台中洗衣店 #羽絨外套清洗 #袖口清潔 #衣物去漬
+- image: https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+羽絨外套袖口黑一圈，還有救嗎？
+
+這次示範的是一件燕麥色長版羽絨外套，袖口整圈黑、還泛著油光。
+我們先用軟刷沾清潔劑刷這一圈，再整件下水、低溫烘乾。
+片中先刷一半給你看，最後轉過來比前後。
+
+能改善多少要看實物，先拍照讓我們看看。
+一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。
+
+袖口黑一圈，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）
+
+#私享家洗衣店 #台中洗衣店 #羽絨外套清洗 #袖口清潔 #衣物去漬
+
+Instagram caption:
+
+羽絨外套袖口黑一圈，還有救嗎？
+
+這次示範的是一件燕麥色長版羽絨外套，袖口整圈黑、還泛著油光。
+我們先用軟刷沾清潔劑刷這一圈，再整件下水、低溫烘乾。
+片中先刷一半給你看，最後轉過來比前後。
+
+能改善多少要看實物，先拍照讓我們看看。
+一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。
+
+袖口黑一圈，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）
+
+#私享家洗衣店 #台中洗衣店 #羽絨外套清洗 #袖口清潔 #衣物去漬
 
 ### 2026-11-02 11:30 東北季風連日潮濕，外套悶味先查哪 2 處？
 

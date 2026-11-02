@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T05:00:09.428Z",
+  "generated_at": "2026-11-02T13:15:05.620Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -8,6 +8,58 @@
   "canonical_url": "https://sixiangjialaundry.com/",
   "date": "2026-11-02",
   "posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-02:reel-down-cuff-20261102",
+      "date": "2026-11-02",
+      "date_published": "2026-11-02T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "羽絨外套袖口黑一圈，刷一半給你看｜私享家洗衣店",
+      "topic": "羽絨外套袖口黑一圈，刷一半給你看｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#羽絨外套清洗",
+        "#袖口清潔",
+        "#衣物去漬"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-down-cuff-916.mp4",
+      "calendar_path": "feature-reels/2026-11-02.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-11-02-feature-reel-down-cuff-20261102.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-11-02-feature-reel-down-cuff-20261102.html",
+      "url": "urn:sixiangjia:feature:2026-11-02:reel-down-cuff-20261102",
+      "facebook_caption": "羽絨外套袖口黑一圈，還有救嗎？\n\n這次示範的是一件燕麥色長版羽絨外套，袖口整圈黑、還泛著油光。\n我們先用軟刷沾清潔劑刷這一圈，再整件下水、低溫烘乾。\n片中先刷一半給你看，最後轉過來比前後。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n袖口黑一圈，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #羽絨外套清洗 #袖口清潔 #衣物去漬",
+      "instagram_caption": "羽絨外套袖口黑一圈，還有救嗎？\n\n這次示範的是一件燕麥色長版羽絨外套，袖口整圈黑、還泛著油光。\n我們先用軟刷沾清潔劑刷這一圈，再整件下水、低溫烘乾。\n片中先刷一半給你看，最後轉過來比前後。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n袖口黑一圈，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #羽絨外套清洗 #袖口清潔 #衣物去漬",
+      "youtube_video": {
+        "video_id": "94f_Tr9g4NE",
+        "embed_url": "https://www.youtube-nocookie.com/embed/94f_Tr9g4NE",
+        "watch_url": "https://www.youtube.com/shorts/94f_Tr9g4NE",
+        "thumbnail_url": "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
+        "upload_date": "2026-11-02T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01",
       "date": "2026-11-02",

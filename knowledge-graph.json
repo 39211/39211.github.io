@@ -354,6 +354,7 @@
         "https://i.ytimg.com/vi/NGwAcxyxmk8/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-01/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
+        "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -15360,6 +15361,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-01/slot-02.png",
       "caption": "梅雨季衣櫃打開有味道時",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-02:reel-down-cuff-20261102",
+      "headline": "羽絨外套袖口黑一圈，刷一半給你看｜私享家洗衣店",
+      "text": "羽絨外套袖口黑一圈，還有救嗎？\n\n這次示範的是一件燕麥色長版羽絨外套，袖口整圈黑、還泛著油光。\n我們先用軟刷沾清潔劑刷這一圈，再整件下水、低溫烘乾。\n片中先刷一半給你看，最後轉過來比前後。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n袖口黑一圈，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #羽絨外套清洗 #袖口清潔 #衣物去漬",
+      "datePublished": "2026-11-02T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#羽絨外套清洗",
+        "#袖口清潔",
+        "#衣物去漬"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-02:reel-down-cuff-20261102:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-02:reel-down-cuff-20261102"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-02:reel-down-cuff-20261102:image",
+      "contentUrl": "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
+      "caption": "羽絨外套袖口黑一圈，刷一半給你看｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {
