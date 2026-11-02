@@ -225,6 +225,38 @@ class OverlayTests(unittest.TestCase):
         self.merge_ok()
         self.assertEqual(self.main_locs + [BASE + "posts/"], locs((self.site / "sitemap.xml").read_bytes()))
 
+    def ai_sitemap(self, urls):
+        body = "".join(f"  <url><loc>{u}</loc><changefreq>daily</changefreq><!-- x --></url>\n" for u in urls)
+        raw = ('<?xml version="1.0" encoding="UTF-8"?>\n'
+               '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' + body + '</urlset>\n').encode("utf-8")
+        (self.site / "ai-sitemap.xml").write_bytes(raw)
+        return raw
+
+    def test_ai_sitemap_gains_missing_desk_pages_only(self):
+        raw = self.ai_sitemap([self.main_locs[0], BASE + "posts/2026-10-17-slot-01.html", BASE + "generated-only.html"])
+        self.merge_ok()
+        merged = (self.site / "ai-sitemap.xml").read_bytes()
+        closing = raw.rfind(b"</urlset>")
+        self.assertTrue(merged.startswith(raw[:closing]), "existing entries stay byte-identical")
+        found = locs(merged)
+        self.assertEqual(len(found), len(set(found)))
+        for url in self.main_locs:
+            self.assertIn(url, found)
+        self.assertIn(BASE + "generated-only.html", found)
+        self.assertNotIn(BASE + "posts/2026-10-17-slot-02.html", found)
+        self.assertEqual(0, self.cli("verify").returncode)
+        self.merge_ok()
+        self.assertEqual(merged, (self.site / "ai-sitemap.xml").read_bytes())
+
+    def test_verify_rejects_ai_sitemap_missing_desk_page(self):
+        self.merge_ok()
+        self.ai_sitemap([self.main_locs[0]])
+        self.verify_bad("ai-sitemap missing sitemap URLs")
+
+    def test_merge_without_ai_sitemap_is_unchanged(self):
+        self.merge_ok()
+        self.assertFalse((self.site / "ai-sitemap.xml").exists())
+
     def test_merge_is_idempotent(self):
         self.merge_ok()
         before = [(self.site / name).read_bytes() for name in ("index.html", "sitemap.xml")]
