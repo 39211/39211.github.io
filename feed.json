@@ -9290,6 +9290,75 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-03-slot-01.html",
+      "title": "2026-11-03 11:30 牛津皮鞋做防水除味前，鞋面接縫和鞋口先看什麼？",
+      "date_published": "2026-11-03T11:30:00+08:00",
+      "content_text": "牛津皮鞋做防水除味前，鞋面接縫和鞋口先看什麼？\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #台中洗衣店",
+      "summary": "牛津皮鞋做防水除味前，鞋面接縫和鞋口先看什麼？",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "洗護日常",
+        "送洗前檢查",
+        "台中洗鞋",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "value-prop-lead",
+        "content_role": "reach-answer",
+        "search_intent": "aftercare",
+        "target_queries": [
+          "台中洗鞋",
+          "西屯洗鞋",
+          "逢甲洗鞋",
+          "台中洗鞋店",
+          "台中白鞋清潔",
+          "球鞋清洗台中"
+        ],
+        "evidence_type": "customer-question",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-03-slot-02.html",
+      "title": "2026-11-03 20:30 餐聚後外套與包包的味道",
+      "date_published": "2026-11-03T20:30:00+08:00",
+      "content_text": "餐聚回來後，外套和包包有時候不是髒，而是油煙味、香水味和室內味道混在一起。\n\n味道如果停在布料或皮革表面還好，若悶進內裡和提把，隔天拿出來會更明顯。\n\n我們會分開看外套材質、內裡味道、包包提把和內袋狀態，再判斷需要除味、清潔或保守整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #衣物除味 #包包保養 #生活洗護",
+      "summary": "餐聚後外套與包包的味道",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "衣物除味",
+        "包包保養",
+        "生活洗護"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "value-prop-lead",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json"
+      }
     }
   ]
 }

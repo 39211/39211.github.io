@@ -357,6 +357,8 @@
         "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -550,7 +552,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-11-02"
+      "dateModified": "2026-11-03"
     },
     {
       "@type": "FAQPage",
@@ -611,7 +613,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-11-02",
+      "dateModified": "2026-11-03",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -15459,6 +15461,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
       "caption": "雨天機車族外套袖口與鞋面",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-01",
+      "headline": "2026-11-03 11:30 牛津皮鞋做防水除味前，鞋面接縫和鞋口先看什麼？",
+      "text": "牛津皮鞋做防水除味前，鞋面接縫和鞋口先看什麼？\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #台中洗衣店",
+      "datePublished": "2026-11-03T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#台中洗鞋",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
+      "caption": "牛津皮鞋做防水除味前，鞋面接縫和鞋口先看什麼？",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-02",
+      "headline": "2026-11-03 20:30 餐聚後外套與包包的味道",
+      "text": "餐聚回來後，外套和包包有時候不是髒，而是油煙味、香水味和室內味道混在一起。\n\n味道如果停在布料或皮革表面還好，若悶進內裡和提把，隔天拿出來會更明顯。\n\n我們會分開看外套材質、內裡味道、包包提把和內袋狀態，再判斷需要除味、清潔或保守整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #衣物除味 #包包保養 #生活洗護",
+      "datePublished": "2026-11-03T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#衣物除味",
+        "#包包保養",
+        "#生活洗護"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
+      "caption": "餐聚後外套與包包的味道",
       "inLanguage": "zh-Hant"
     }
   ]
