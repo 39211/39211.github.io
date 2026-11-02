@@ -138,6 +138,40 @@ def merged_sitemap(site_root, generated_root):
     return merged, len(additions)
 
 
+def merged_ai_sitemap(site_root):
+    """Append sitemap.xml pages that the generated ai-sitemap.xml lacks.
+
+    ai-sitemap.xml is generated-owned, so an out-of-date publisher leaves the
+    newest desk pages out of it. Existing bytes and entries are never changed;
+    /posts/ stays generated-owned. Returns (bytes, added) or None if absent.
+    """
+    site_root = Path(site_root)
+    ai_path = site_root / "ai-sitemap.xml"
+    if not ai_path.is_file():
+        return None
+    ai_raw, ai_entries = read_sitemap(ai_path)
+    _, main_entries = read_sitemap(site_root / "sitemap.xml")
+    seen = {loc for loc, _ in ai_entries}
+    additions = []
+    for loc, lastmod in main_entries:
+        if urlsplit(loc).path.startswith("/posts/") or loc in seen:
+            continue
+        seen.add(loc)
+        slug = urlsplit(loc).path.strip("/").replace(".html", "").replace("/", "-") or "home"
+        line = "  <url><loc>" + escape(loc) + "</loc>"
+        if lastmod is not None:
+            line += "<lastmod>" + escape(lastmod) + "</lastmod>"
+        line += "<changefreq>daily</changefreq><!-- page-" + escape(slug).replace("--", "-") + " -->"
+        additions.append((line + "</url>\n").encode("utf-8"))
+    closing = ai_raw.rfind(b"</urlset>")
+    if closing < 0:
+        raise ValueError("ai-sitemap has no closing </urlset>")
+    merged = ai_raw[:closing] + b"".join(additions) + ai_raw[closing:]
+    if ET.fromstring(merged).tag != ET.fromstring(ai_raw).tag:
+        raise ValueError("ai-sitemap namespace changed")
+    return merged, len(additions)
+
+
 def snapshot(site_root, out):
     # Read both first so a missing input cannot produce a partial snapshot.
     contents = {name: (Path(site_root) / name).read_bytes()
@@ -159,6 +193,10 @@ def merge(site_root, generated, override_src):
     sitemap, added = merged_sitemap(site_root, generated)
     (site_root / "index.html").write_bytes(homepage)
     (site_root / "sitemap.xml").write_bytes(sitemap)
+    ai_result = merged_ai_sitemap(site_root)
+    if ai_result is not None:
+        (site_root / "ai-sitemap.xml").write_bytes(ai_result[0])
+        print(f"::notice::ai-sitemap appended {ai_result[1]} desk page URLs")
     if mergeable:
         print("::notice::homepage recent posts merged")
     else:
@@ -177,6 +215,14 @@ def verify(site_root, override_src, generated):
         raise ValueError(f"Missing override sitemap URLs: {', '.join(sorted(missing))}")
     if len(final) != len(set(final)):
         raise ValueError("Duplicate sitemap URLs")
+    ai_path = site_root / "ai-sitemap.xml"
+    if ai_path.is_file():
+        _, ai_entries = read_sitemap(ai_path)
+        ai_locs = {loc for loc, _ in ai_entries}
+        absent = [url for url in final
+                  if not urlsplit(url).path.startswith("/posts/") and url not in ai_locs]
+        if absent:
+            raise ValueError(f"ai-sitemap missing sitemap URLs: {', '.join(sorted(absent)[:5])}")
     for url in final:
         target = sitemap_target(site_root, url)
         if not target.is_file():
