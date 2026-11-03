@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-03T14:50:45.686Z
+- Generated at: 2026-11-03T22:35:13.231Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -452,6 +452,8 @@
     "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-11-04/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-11-04/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -13569,4 +13571,98 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #衣物除味 #包包保養 #生活洗護
+
+### 2026-11-04 11:30 高領毛衣領口沾到粉底和口紅？先看這 2 處再決定怎麼洗
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-01
+- published local time: 2026-11-04T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: share-worthy-care
+- search_intent: problem-diagnosis
+- target_queries: 台中棉被清洗 | 台中床組清洗 | 西屯寢具清洗 | 台中羽絨被送洗 | 台中外套清洗 | 棉被有潮味怎麼辦
+- evidence_type: first-party-inspection
+- hashtags: #私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-11-04/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-04.json
+
+Facebook caption:
+
+高領毛衣領口沾到粉底和口紅？先看這 2 處再決定怎麼洗。
+
+領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。
+
+我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。
+
+想先問問看再決定？拍一張傳 LINE，我們幫你判斷。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店
+
+Instagram caption:
+
+高領毛衣領口沾到粉底和口紅？先看這 2 處再決定怎麼洗。
+
+領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。
+
+我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。
+
+想先問問看再決定？拍一張私訊，我們幫你判斷。
+
+出處：門市當日看件
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店
+
+### 2026-11-04 20:30 搬家後寢具與窗簾的灰塵
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-02
+- published local time: 2026-11-04T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #搬家整理 #寢具清潔 #窗簾清潔
+- image: https://sixiangjialaundry.com/assets/2026-11-04/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-04.json
+
+Facebook caption:
+
+搬家後最容易累積灰塵的不是只有地板，寢具、窗簾和布套在搬運過程也會吃進很多灰。
+
+這些布品如果直接鋪上或掛回去，灰塵和倉庫味會留在房間裡，睡覺時更容易感覺不舒服。
+
+我們會看布品種類、搬運包裝、灰塵位置和洗標限制，再判斷哪些要先洗、哪些可以除塵整理。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍下緣和掛鉤處兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #搬家整理 #寢具清潔 #窗簾清潔
+
+Instagram caption:
+
+搬家後最容易累積灰塵的不是只有地板，寢具、窗簾和布套在搬運過程也會吃進很多灰。
+
+這些布品如果直接鋪上或掛回去，灰塵和倉庫味會留在房間裡，睡覺時更容易感覺不舒服。
+
+我們會看布品種類、搬運包裝、灰塵位置和洗標限制，再判斷哪些要先洗、哪些可以除塵整理。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍下緣和掛鉤處兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #搬家整理 #寢具清潔 #窗簾清潔
 

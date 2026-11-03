@@ -360,6 +360,8 @@
         "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-11-04/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-11-04/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -553,7 +555,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-11-03"
+      "dateModified": "2026-11-04"
     },
     {
       "@type": "FAQPage",
@@ -614,7 +616,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-11-03",
+      "dateModified": "2026-11-04",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -15561,6 +15563,72 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
       "caption": "餐聚後外套與包包的味道",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-01",
+      "headline": "2026-11-04 11:30 高領毛衣領口沾到粉底和口紅？先看這 2 處再決定怎麼洗",
+      "text": "高領毛衣領口沾到粉底和口紅？先看這 2 處再決定怎麼洗。\n\n領口、袖口和內層比表面先累積。看起來還好的時候，其實已經開始了。\n\n我會先問這件平常怎麼用、多久沒整理。同樣的痕跡，成因不同就不能用同一種做法。\n\n想先問問看再決定？拍一張傳 LINE，我們幫你判斷。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店",
+      "datePublished": "2026-11-04T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中西屯洗衣店",
+        "#洗護日常",
+        "#送洗前檢查",
+        "#衣物送洗",
+        "#台中洗衣店"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-04/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-04/slot-01.png",
+      "caption": "高領毛衣領口沾到粉底和口紅？先看這 2 處再決定怎麼洗",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-02",
+      "headline": "2026-11-04 20:30 搬家後寢具與窗簾的灰塵",
+      "text": "搬家後最容易累積灰塵的不是只有地板，寢具、窗簾和布套在搬運過程也會吃進很多灰。\n\n這些布品如果直接鋪上或掛回去，灰塵和倉庫味會留在房間裡，睡覺時更容易感覺不舒服。\n\n我們會看布品種類、搬運包裝、灰塵位置和洗標限制，再判斷哪些要先洗、哪些可以除塵整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍下緣和掛鉤處兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #搬家整理 #寢具清潔 #窗簾清潔",
+      "datePublished": "2026-11-04T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#搬家整理",
+        "#寢具清潔",
+        "#窗簾清潔"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-04.json#post-2026-11-04-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-04/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-04/slot-02.png",
+      "caption": "搬家後寢具與窗簾的灰塵",
       "inLanguage": "zh-Hant"
     }
   ]
