@@ -5,6 +5,7 @@ HTML and the override sitemap are edited as bytes, never reserialized.
 """
 
 import argparse
+from r10_homepage import is_r10, recent_cards, render_journals, journal_pages
 from html.parser import HTMLParser
 from pathlib import Path
 import re
@@ -47,14 +48,22 @@ def marker_parts(raw, label):
     return raw[:start], raw[start:end], raw[end:]
 
 
-def homepage_result(main_raw, generated_raw):
+def homepage_result(main_raw, generated_raw, site_root=None):
     try:
         prefix, _, suffix = marker_parts(main_raw, "main homepage")
+    except ValueError as exc:
+        if is_r10(main_raw):
+            raise
+        return main_raw, False, str(exc)
+    if is_r10(main_raw):
+        if site_root is None:
+            raise ValueError("R10 homepage requires the live site root")
+        return prefix + recent_cards(site_root, main_raw) + suffix, True, ""
+    try:
         _, generated_inside, _ = marker_parts(generated_raw, "generated homepage")
     except ValueError as exc:
         return main_raw, False, str(exc)
-    merged = prefix + generated_inside + suffix
-    return merged, True, ""
+    return prefix + generated_inside + suffix, True, ""
 
 
 def read_sitemap(path):
@@ -189,10 +198,12 @@ def merge(site_root, generated, override_src):
     # that the site's current desk files are byte-identical to that source.
     main_raw = (site_root / "index.html").read_bytes()
     generated_raw = (generated / "index.html").read_bytes()
-    homepage, mergeable, reason = homepage_result(main_raw, generated_raw)
+    homepage, mergeable, reason = homepage_result(main_raw, generated_raw, site_root)
     sitemap, added = merged_sitemap(site_root, generated)
     (site_root / "index.html").write_bytes(homepage)
     (site_root / "sitemap.xml").write_bytes(sitemap)
+    if is_r10(homepage):
+        render_journals(site_root)
     ai_result = merged_ai_sitemap(site_root)
     if ai_result is not None:
         (site_root / "ai-sitemap.xml").write_bytes(ai_result[0])
@@ -230,10 +241,14 @@ def verify(site_root, override_src, generated):
         if urlsplit(url).path.startswith("/posts/") and not post_is_indexable(target):
             raise ValueError(f"Post is not indexable: {url}")
     expected, mergeable, _ = homepage_result((override_src / "index.html").read_bytes(),
-                                           (generated / "index.html").read_bytes())
+                                           (generated / "index.html").read_bytes(), site_root)
     if (site_root / "index.html").read_bytes() != expected:
         state = "merged region or SEO desk bytes" if mergeable else "unchanged SEO desk fallback"
         raise ValueError(f"Homepage mismatch: {state}")
+    if is_r10(expected):
+        for path, raw in journal_pages(site_root).items():
+            if (site_root / path).read_bytes() != raw:
+                raise ValueError(f"R10 journal mismatch: {path}")
     print(f"::notice::Final SEO assertions: {len(final)} sitemap URLs; all five checks passed")
 
 
