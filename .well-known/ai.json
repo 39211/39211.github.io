@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-11-03T05:00:11.022Z",
+  "generated_at": "2026-11-03T14:50:45.686Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -692,6 +692,7 @@
       "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
+      "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -2192,10 +2193,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 248,
+      "indexable_article_count": 249,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 248
+      "article_count": 249
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2208,18 +2209,52 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 258,
+    "post_count": 259,
     "latest_date": "2026-11-03",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": false,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 166,
+    "posts_with_search_intent": 167,
     "posts_with_target_queries": 162,
-    "posts_with_evidence_type": 142
+    "posts_with_evidence_type": 143
   },
   "latest_date": "2026-11-03",
   "latest_posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-03:reel-sweater-pilling-20261103",
+      "date": "2026-11-03",
+      "date_published": "2026-11-03T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "毛衣起球，一區一區處理給你看｜私享家洗衣店",
+      "topic": "毛衣起球，一區一區處理給你看｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#毛衣起球",
+        "#除毛球",
+        "#毛衣保養"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-sweater-pilling-916.mp4",
+      "facebook_caption": "毛衣起球，還有救嗎？\n\n這次示範的是一件起毛球的毛衣。\n大顆的先梳掉，再用除毛球工具輕貼布面、一區一區處理。\n同一處比前後，紋路還在；處理完摺好、平放收。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n毛衣起球，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養",
+      "instagram_caption": "毛衣起球，還有救嗎？\n\n這次示範的是一件起毛球的毛衣。\n大顆的先梳掉，再用除毛球工具輕貼布面、一區一區處理。\n同一處比前後，紋路還在；處理完摺好、平放收。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n毛衣起球，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-01",
       "date": "2026-11-03",
@@ -2379,6 +2414,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json",
       "facebook_caption": "牛津皮鞋做防水除味前，鞋面接縫和鞋口先看什麼？\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張傳 LINE給我們，先幫你看。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #台中洗衣店",
       "instagram_caption": "牛津皮鞋做防水除味前，鞋面接縫和鞋口先看什麼？\n\n鞋子真正的問題常在鞋口內裡。外面看起來乾，裡面不一定。\n\n鞋子我會先翻開鞋口看內裡。那裡的狀況通常比鞋面誠實。\n\n不確定還救不救得回來？拍一張私訊給我們，先幫你看。\n\n參考價：皮鞋 $400、低靴 $350、高靴 $550（水洗價）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗鞋 #台中洗衣店"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-03:reel-sweater-pilling-20261103",
+      "date": "2026-11-03",
+      "date_published": "2026-11-03T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "毛衣起球，一區一區處理給你看｜私享家洗衣店",
+      "topic": "毛衣起球，一區一區處理給你看｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#毛衣起球",
+        "#除毛球",
+        "#毛衣保養"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-sweater-pilling-916.mp4",
+      "facebook_caption": "毛衣起球，還有救嗎？\n\n這次示範的是一件起毛球的毛衣。\n大顆的先梳掉，再用除毛球工具輕貼布面、一區一區處理。\n同一處比前後，紋路還在；處理完摺好、平放收。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n毛衣起球，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養",
+      "instagram_caption": "毛衣起球，還有救嗎？\n\n這次示範的是一件起毛球的毛衣。\n大顆的先梳掉，再用除毛球工具輕貼布面、一區一區處理。\n同一處比前後，紋路還在；處理完摺好、平放收。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n毛衣起球，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-02",
@@ -3493,49 +3562,6 @@
       "video_url": "https://sixiangjialaundry.com/assets/services/sxj-card-pickup-916.mp4",
       "facebook_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估 → https://sixiangjialaundry.com/go/line.html?source=reel-card-pickup-20261021 （或加 LINE：0968327653）\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收",
       "instagram_caption": "只有一件，也能叫收送嗎？可以。\n\n台中全市免費到府收送，沒有最低消費。\n不會因為件數少就不收，也不限西屯。\n免費的是路程，不是清潔；洗護費依物件另計。\n\n流程四步：LINE 傳照片與大致地址，門市回覆報價與可收時段，到府收件，完成後送回並付款。\n我會先看照片上你最在意的那個位置，再跟你約時間。\n\n交件前三個小提醒：還濕的別密封裝袋，鞋包和衣物分開裝，最在意的痕跡用紙條標註位置。\n\n拍照傳 LINE，先評估：LINE 0968327653\n\n#私享家洗衣店 #台中洗衣店 #洗衣收送 #到府收件 #一件也收"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json#post-2026-10-20-slot-02",
-      "date": "2026-10-20",
-      "date_published": "2026-10-20T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-10-20 20:30 白鞋晾乾泛黃？先別猛刷",
-      "topic": "白鞋晾乾泛黃？先別猛刷",
-      "visual_route": "shop-inspection",
-      "traffic_route": "dwell-detail",
-      "content_role": "evidence-conversion",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "白帆布鞋泛黃",
-        "白鞋晾乾變黃",
-        "帆布鞋黃斑",
-        "白鞋送洗",
-        "台中洗鞋",
-        "西屯洗鞋"
-      ],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#帆布鞋",
-        "#台中洗鞋",
-        "#送洗前檢查"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/2026-10-20/slot-02.mp4",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-20.json",
-      "facebook_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查",
-      "instagram_caption": "白鞋晾乾泛黃？先別猛刷。\n\n今晚這支片，看這雙棕色橡膠鞋頭的米白帆布鞋怎麼處理：先看布面，再看鞋邊。用劑怎麼選，要看材質。鞋帶旁分區刷洗。鞋側同樣刷洗。鞋口後緣刷洗。片中是處理片段，不是完整流程。\n\n老實說：刷過，也不一定全白。能改善多少，要看實物。處理後仍可能有色差。棕色橡膠鞋頭與底邊是本色，不是要洗掉的黃影。\n\n拍照傳LINE，先幫你看。\n\n台中免費收送 → LINE 預約：https://sixiangjialaundry.com/go/line.html?source=post （或加 LINE:0968327653）\n\n#私享家洗衣店 #台中西屯洗衣店 #帆布鞋 #台中洗鞋 #送洗前檢查"
     }
   ],
   "published_posts": [
@@ -15015,6 +15041,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json",
       "facebook_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔",
       "instagram_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-03:reel-sweater-pilling-20261103",
+      "date": "2026-11-03",
+      "date_published": "2026-11-03T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "毛衣起球，一區一區處理給你看｜私享家洗衣店",
+      "topic": "毛衣起球，一區一區處理給你看｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#毛衣起球",
+        "#除毛球",
+        "#毛衣保養"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-sweater-pilling-916.mp4",
+      "facebook_caption": "毛衣起球，還有救嗎？\n\n這次示範的是一件起毛球的毛衣。\n大顆的先梳掉，再用除毛球工具輕貼布面、一區一區處理。\n同一處比前後，紋路還在；處理完摺好、平放收。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n毛衣起球，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養",
+      "instagram_caption": "毛衣起球，還有救嗎？\n\n這次示範的是一件起毛球的毛衣。\n大顆的先梳掉，再用除毛球工具輕貼布面、一區一區處理。\n同一處比前後，紋路還在；處理完摺好、平放收。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n毛衣起球，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-01",

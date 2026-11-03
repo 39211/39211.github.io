@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-03T05:00:11.022Z
+- Generated at: 2026-11-03T14:50:45.686Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -449,6 +449,7 @@
     "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
+    "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -13425,6 +13426,51 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔
+
+### 毛衣起球，一區一區處理給你看｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-11-03:reel-sweater-pilling-20261103
+- published local time: 2026-11-03T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養
+- image: https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+毛衣起球，還有救嗎？
+
+這次示範的是一件起毛球的毛衣。
+大顆的先梳掉，再用除毛球工具輕貼布面、一區一區處理。
+同一處比前後，紋路還在；處理完摺好、平放收。
+
+能改善多少要看實物，先拍照讓我們看看。
+一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。
+
+毛衣起球，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）
+
+#私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養
+
+Instagram caption:
+
+毛衣起球，還有救嗎？
+
+這次示範的是一件起毛球的毛衣。
+大顆的先梳掉，再用除毛球工具輕貼布面、一區一區處理。
+同一處比前後，紋路還在；處理完摺好、平放收。
+
+能改善多少要看實物，先拍照讓我們看看。
+一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。
+
+毛衣起球，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）
+
+#私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養
 
 ### 2026-11-03 11:30 牛津皮鞋做防水除味前，鞋面接縫和鞋口先看什麼？
 

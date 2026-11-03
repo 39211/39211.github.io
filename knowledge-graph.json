@@ -357,6 +357,7 @@
         "https://i.ytimg.com/vi/94f_Tr9g4NE/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
+        "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -15461,6 +15462,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-02.png",
       "caption": "雨天機車族外套袖口與鞋面",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-03:reel-sweater-pilling-20261103",
+      "headline": "毛衣起球，一區一區處理給你看｜私享家洗衣店",
+      "text": "毛衣起球，還有救嗎？\n\n這次示範的是一件起毛球的毛衣。\n大顆的先梳掉，再用除毛球工具輕貼布面、一區一區處理。\n同一處比前後，紋路還在；處理完摺好、平放收。\n\n能改善多少要看實物，先拍照讓我們看看。\n一般衣物約 5–7 天；不想跑一趟，台中全市免費收送。\n\n毛衣起球，拍照傳 LINE 先評估 → https://lin.ee/w8qGVqM（LINE ID：@454foyks）\n\n#私享家洗衣店 #台中洗衣店 #毛衣起球 #除毛球 #毛衣保養",
+      "datePublished": "2026-11-03T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#毛衣起球",
+        "#除毛球",
+        "#毛衣保養"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-03:reel-sweater-pilling-20261103:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-03:reel-sweater-pilling-20261103"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-03:reel-sweater-pilling-20261103:image",
+      "contentUrl": "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
+      "caption": "毛衣起球，一區一區處理給你看｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {
