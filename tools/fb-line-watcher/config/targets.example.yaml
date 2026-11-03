@@ -1,0 +1,139 @@
+# fb-line-watcher 目標設定範例
+# 複製成 config/targets.yaml 後修改。帳密、Token、群組 ID 一律放在 .env，不要寫在這裡。
+
+timezone: Asia/Taipei
+
+# interval  = 固定週期巡邏
+# triggered = 平常不巡邏，等手機通知觸發（見 PHONE_TRIGGER.md）。
+#             這個模式一天只會載入 Facebook 幾十次而不是幾百次，帳號風險低很多，
+#             建議搭配 poll_interval_seconds: 900 當安全網補抓留言。
+poll_mode: interval
+
+# 每隔多久巡邏一次（秒）。
+# poll_mode 為 interval 時：這就是巡邏間隔，建議 120～300。
+# poll_mode 為 triggered 時：這是安全網間隔，用來補抓不會產生手機通知的留言，建議 600～1800。
+poll_interval_seconds: 180
+
+# 同一篇貼文底下短時間內的多則新留言，等這麼多秒後合併成一則 LINE 通知
+comment_debounce_seconds: 60
+
+# 結構化抽取連續失敗幾次後，切換為「視覺降級模式」並發警報
+extractor_failure_threshold: 3
+visual_fallback_enabled: true
+visual_confirm_after_seconds: 45
+
+# 偵測到變更之後，一定要等事件寫進資料庫才會把內容標記成「已通知」；
+# 中途截圖失敗時下一輪會自動補送。連續失敗達這個次數就改送純文字（不會漏報，只是沒有圖）。
+capture_failure_fallback_threshold: 3
+
+# 每日最多發送幾則通知（保護 LINE 免費額度，超過後只發一次警報）
+max_notifications_per_day: 150
+
+browser:
+  # chromium：Playwright 自帶（需先 npx playwright install chromium）
+  # msedge / chrome：使用 Windows 已安裝的 Edge / Chrome
+  channel: chromium
+  headed: true            # true = 看得到瀏覽器視窗（建議，最接近真實畫面）
+  locale: zh-TW
+  viewport:
+    width: 1440
+    height: 1200
+  device_scale_factor: 1
+  profile_dir: data/browser-profile   # 專用登入資料夾，不要指向日常瀏覽器的 profile
+  navigation_timeout_ms: 45000
+  quiet_period_ms: 2500
+
+line:
+  destination_type: group             # group | user
+  destination_id_env: LINE_DESTINATION_ID
+  system_alert_cooldown_minutes: 60   # 同一種系統警報至少間隔多久才再發
+  daily_health_summary: false         # true 時每天固定時間傳一則健康摘要
+  health_summary_hour: 9
+
+images:
+  # none       → 只傳文字摘要（截圖仍存在本機 captures/），最快可用
+  # local_http → 本機小型 HTTP 伺服器 + 你自己的 HTTPS Tunnel（PUBLIC_BASE_URL）
+  # s3         → Cloudflare R2 / S3 相容儲存（推薦長期使用）
+  publisher: none
+  retention_hours: 72                 # 公開圖片保留時間，到期自動刪除
+  local_http:
+    port: 8787
+    public_base_url_env: PUBLIC_BASE_URL
+  s3:
+    endpoint_env: S3_ENDPOINT
+    region_env: S3_REGION
+    bucket_env: S3_BUCKET
+    access_key_env: S3_ACCESS_KEY_ID
+    secret_key_env: S3_SECRET_ACCESS_KEY
+    public_base_url_env: S3_PUBLIC_BASE_URL
+    key_prefix: fb-line-watcher/
+    acl: none                         # none | public-read（AWS S3 需 public-read；R2 用 none）
+
+# 純手機模式：手機把 Facebook 通知（與可選截圖）POST 過來，電腦完全不連 Facebook。
+# 帳號風險最低，但只抓得到 Facebook 有推播通知的東西（別人貼文底下的留言通常不會通知）。
+# 開啟後 targets 可以留空。完整說明見 PHONE_INGEST.md。
+phone_ingest:
+  enabled: false
+  port: 8800
+  bind: 0.0.0.0
+  token_env: PHONE_INGEST_TOKEN
+  dedup_window_seconds: 600     # 這段時間內同一則通知只處理一次
+  debounce_seconds: 45          # 收到後等一下，把連續通知合併成一則 LINE 訊息
+  max_items_per_message: 10
+  notify_authors: []            # 例：['林大明'] 或 ['/^林/'] 只收群主說的話
+  ignore_authors: []
+  require_text_match: []        # 例：['聚會'] 內文要含關鍵字才通知
+  allowed_packages: [com.facebook.katana, com.facebook.lite]
+  allow_missing_package: false  # 沒帶 pkg 的請求預設擋掉（fail-closed），要放行才改 true
+  max_image_bytes: 8388608      # 單張截圖大小上限
+  max_image_pixels: 40000000    # 解碼後像素數上限，擋解壓炸彈
+
+# 手機通知觸發伺服器（poll_mode: triggered 時必須開啟）
+trigger:
+  enabled: false
+  port: 8799
+  bind: 0.0.0.0                 # 手機要連得到；僅限家用網路，不要轉發到網際網路
+  token_env: TRIGGER_TOKEN
+  min_interval_seconds: 20      # 一串通知同時進來時，這段時間內只巡邏一次
+  delay_seconds: 8              # 收到通知後等幾秒再巡邏，讓網頁端內容跟上手機通知
+
+privacy:
+  redact_phone: true                  # LINE 文字摘要中遮蔽台灣手機／市話
+  redact_email: true
+  redact_in_screenshot: false         # 截圖中對電話／Email 做模糊（盡力而為，不保證）
+
+retention:
+  local_capture_days: 30              # 本機截圖保留天數
+  log_days: 14
+
+targets:
+  # 別人經營的公開粉專也可以監看，不需要對方同意，也不用追蹤；直接填網址即可
+  - key: watched_page
+    name: 要監看的粉絲專頁
+    type: facebook_page
+    url: https://www.facebook.com/REPLACE_WITH_PAGE_USERNAME_OR_ID
+    scan_latest_posts: 8              # 每次巡邏檢查最新幾篇貼文
+    detect_post_edits: true
+    detect_comments: true
+    detect_replies: true
+    max_comment_expansions_per_post: 15
+    # 想只收到哪些事件？可選：NEW_POST, EDITED_POST, NEW_COMMENT, NEW_REPLY
+    notify_event_types: [NEW_POST, EDITED_POST, NEW_COMMENT, NEW_REPLY]
+    # 只通知特定人的內容（畫面顯示名稱，可用 /正規表達式/），空陣列 = 全部通知
+    notify_authors: []
+    ignore_authors: []
+
+  - key: group_main
+    name: 指定的 Facebook 社團
+    type: facebook_group
+    url: https://www.facebook.com/groups/REPLACE_WITH_GROUP_ID
+    preferred_sort: newest            # newest | recent_activity | default
+    scan_latest_posts: 10
+    detect_post_edits: true
+    detect_comments: true
+    detect_replies: true
+    max_comment_expansions_per_post: 20
+    notify_event_types: [NEW_POST, NEW_COMMENT, NEW_REPLY]
+    # 例：只通知群主與管理員說的話
+    notify_authors: []
+    ignore_authors: []

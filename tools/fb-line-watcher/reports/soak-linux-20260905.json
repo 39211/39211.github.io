@@ -1,0 +1,81 @@
+{
+  "platform": "linux x64",
+  "node": "v22.14.0",
+  "minutes": 30,
+  "iterations": 30,
+  "cycles": 552,
+  "restarts": 6,
+  "lineAccepted": 270,
+  "triggerRequests": 600,
+  "phone": {
+    "accepted": 30,
+    "duplicate": 270
+  },
+  "falsePositives": 0,
+  "pending": 0,
+  "dead": 0,
+  "events": 270,
+  "deliveries": 270,
+  "sent": 270,
+  "uncommitted": 0,
+  "latencySeconds": {
+    "p50": 3.868,
+    "p95": 6.063,
+    "p99": 8.637,
+    "max": 8.723
+  },
+  "rssMiB": {
+    "start": 145.3,
+    "end": 182.2,
+    "max": 182.2
+  },
+  "maxBrowserPages": 4,
+  "gates": [
+    {
+      "name": "零錯誤",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "零誤報",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "零 pending delivery",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "零 dead letter",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "event 與 delivery 一致",
+      "pass": true,
+      "detail": "events=270 deliveries=270 sent=270"
+    },
+    {
+      "name": "沒有未提交的偵測狀態殘留",
+      "pass": true,
+      "detail": "0"
+    },
+    {
+      "name": "瀏覽器頁數受控（<= 6）",
+      "pass": true,
+      "detail": "4"
+    },
+    {
+      "name": "記憶體無明顯洩漏（結束 < 起始 + 300 MiB）",
+      "pass": true,
+      "detail": "145.3 → 182.2 MiB（最大 182.2）"
+    },
+    {
+      "name": "至少跑滿指定時間",
+      "pass": true,
+      "detail": "30 輪"
+    }
+  ],
+  "errors": []
+}
