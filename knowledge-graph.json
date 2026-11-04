@@ -360,6 +360,7 @@
         "https://i.ytimg.com/vi/74jq98-izu4/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-03/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
+        "https://i.ytimg.com/vi/DOEwnXazKKM/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-04/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-04/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -15563,6 +15564,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
       "caption": "餐聚後外套與包包的味道",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-04:reel-hotpot-coat-20261104",
+      "headline": "羊毛大衣沾到羊肉爐湯汁，別急著機洗｜私享家洗衣店",
+      "text": "羊毛大衣沾到羊肉爐湯汁，別急著丟洗衣機。\n\n這次示範的是一件米白色羊毛長大衣，吃火鍋時前襟濺到幾點帶油的湯汁。\n沾到當下，若有食物殘渣，先輕輕移除，再用乾淨白色乾紙巾或吸水布輕壓，吸起表面餘液。別搓、別沖熱水，也不要自行加清潔劑；不確定洗法，先拍照讓我們看看。\n\n不能只看到「可水洗」就直接套用一般機洗程序；洗法不當可能造成縮絨或變形，還要確認洗標上的洗程限制，並評估大衣的裡布、墊肩與整體狀況。\n我們先看洗標、材質與結構，評估污漬，再向你說明採用專業清洗或乾洗的理由；你同意後，才開始處理。\n清潔前後畫面為示意；能改善多少要看實物，不保證變全新。\n一般衣物約 5–7 天（特殊材質、重污另行確認）；不想跑一趟，台中全市免費收送。\n\n拍下污漬和洗標，傳 LINE 讓我們先看看：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n\n#羊毛大衣 #私享家洗衣店 #台中洗衣店 #大衣送洗 #衣服去漬\n\n音效：Hao0321 Studio（CC BY 4.0）",
+      "datePublished": "2026-11-04T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#羊毛大衣",
+        "#私享家洗衣店",
+        "#台中洗衣店",
+        "#大衣送洗",
+        "#衣服去漬"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-04:reel-hotpot-coat-20261104:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-04:reel-hotpot-coat-20261104"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-04:reel-hotpot-coat-20261104:image",
+      "contentUrl": "https://i.ytimg.com/vi/DOEwnXazKKM/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/DOEwnXazKKM/hqdefault.jpg",
+      "caption": "羊毛大衣沾到羊肉爐湯汁，別急著機洗｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {
