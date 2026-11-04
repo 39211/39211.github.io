@@ -9490,6 +9490,75 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-04.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-05.json#post-2026-11-05-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-05-slot-01.html",
+      "title": "2026-11-05 11:30 Gucci Jackie 1961 精品肩背包五金邊有磨痕？先查扣件和包角",
+      "date_published": "2026-11-05T11:30:00+08:00",
+      "content_text": "Gucci Jackie 1961 精品肩背包五金邊有磨痕？先查扣件和包角。\n\n同一個牌子會用不同的皮。看品牌決定怎麼洗，比看材質更容易出事。\n\n精品我會先看邊角和五金。能處理的時間比大家想的短，拖過頭就只能維持現狀。\n\n不確定這件能不能處理？拍一張傳 LINE，我們先看材質再說。\n\n參考價：背包清洗 $500（水洗價，以實際報價為主）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店",
+      "summary": "Gucci Jackie 1961 精品肩背包五金邊有磨痕？先查扣件和包角",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-05/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "台中西屯洗衣店",
+        "洗護日常",
+        "送洗前檢查",
+        "洗包包",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "object-proof",
+        "content_role": "reach-answer",
+        "search_intent": "problem-diagnosis",
+        "target_queries": [
+          "台中精品乾洗",
+          "台中名牌衣物清潔",
+          "西屯精品乾洗",
+          "精緻乾洗",
+          "精品衣物怎麼洗",
+          "白鞋泛黃怎麼辦"
+        ],
+        "evidence_type": "first-party-inspection",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-05.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-05.json#post-2026-11-05-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-05-slot-02.html",
+      "title": "2026-11-05 20:30 上班包內袋的粉底與筆痕",
+      "date_published": "2026-11-05T20:30:00+08:00",
+      "content_text": "上班包外觀看起來乾淨，內袋卻常常有粉底、筆痕、收據灰和飲料小痕跡。\n\n內袋材質通常比較薄，處理太強容易起毛或留下水痕，所以要先看污漬種類和布料狀態。\n\n我們會看內袋布料、筆痕深度、粉底範圍和包包外層材質，再判斷能做局部處理或只能保守整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包清潔 #內袋清潔 #上班包保養",
+      "summary": "上班包內袋的粉底與筆痕",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-05/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "包包清潔",
+        "內袋清潔",
+        "上班包保養"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "dwell-detail",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-05.json"
+      }
     }
   ]
 }
