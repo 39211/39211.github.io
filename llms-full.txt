@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-05T05:00:07.615Z
+- Generated at: 2026-11-05T22:37:57.671Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -455,8 +455,11 @@
     "https://i.ytimg.com/vi/DOEwnXazKKM/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-04/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-04/slot-02.png",
+    "https://i.ytimg.com/vi/Nvg7eYjoVIU/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-05/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-05/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-11-06/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -13720,6 +13723,57 @@ Instagram caption:
 
 #私享家洗衣店 #搬家整理 #寢具清潔 #窗簾清潔
 
+### 高領毛衣領口沾到粉底口紅，先別來回搓｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-11-05:reel-turtleneck-20261105
+- published local time: 2026-11-05T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #高領毛衣 #私享家洗衣店 #台中洗衣店 #衣服去漬 #毛衣清洗
+- image: https://i.ytimg.com/vi/Nvg7eYjoVIU/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+高領毛衣領口沾到粉底、口紅，先別來回搓。
+
+這次示範的是一件高領針織毛衣，領口內緣蹭到一點粉底和口紅。
+口紅有油蠟和色料，粉底常是水、油、色料混在一起，不能當成單純的水漬或油漬，可能需要分階段處理；清洗方式也不能只看纖維名稱，還要看洗標與衣物結構。
+沾到當下：表面有膏體，用乾淨鈍邊輕輕提走浮在上面的餘量；還有液體，就用乾淨白色吸水布輕觸吸取。不要拿濕紙巾或毛巾來回用力擦，也先別烘、別燙、別用熱風吹，熱可能讓殘漬更難處理。不要自己拿卸妝品、酒精、漂白去試，適合卸妝不等於適合衣物。
+
+我們先看洗標、材質與結構，評估污漬，再向你說明採用專業清洗或乾洗的理由；你同意後，才開始處理。專業去漬前，通常會先在不顯眼處測試，觀察是否掉色、暈色或出現外觀變化。
+清潔前後畫面為示意；能改善多少要看實物與處理史，不保證變全新。
+一般衣物約 5–7 天（特殊材質、重污另行確認）；不想跑一趟，台中全市免費收送。
+
+拍下領口污漬和洗標，傳 LINE 讓我們先看看：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+
+#高領毛衣 #私享家洗衣店 #台中洗衣店 #衣服去漬 #毛衣清洗
+
+音效：Hao0321 Studio（CC BY 4.0）
+
+Instagram caption:
+
+高領毛衣領口沾到粉底、口紅，先別來回搓。
+
+這次示範的是一件高領針織毛衣，領口內緣蹭到一點粉底和口紅。
+口紅有油蠟和色料，粉底常是水、油、色料混在一起，不能當成單純的水漬或油漬，可能需要分階段處理；清洗方式也不能只看纖維名稱，還要看洗標與衣物結構。
+沾到當下：表面有膏體，用乾淨鈍邊輕輕提走浮在上面的餘量；還有液體，就用乾淨白色吸水布輕觸吸取。不要拿濕紙巾或毛巾來回用力擦，也先別烘、別燙、別用熱風吹，熱可能讓殘漬更難處理。不要自己拿卸妝品、酒精、漂白去試，適合卸妝不等於適合衣物。
+
+我們先看洗標、材質與結構，評估污漬，再向你說明採用專業清洗或乾洗的理由；你同意後，才開始處理。專業去漬前，通常會先在不顯眼處測試，觀察是否掉色、暈色或出現外觀變化。
+清潔前後畫面為示意；能改善多少要看實物與處理史，不保證變全新。
+一般衣物約 5–7 天（特殊材質、重污另行確認）；不想跑一趟，台中全市免費收送。
+
+拍下領口污漬和洗標，傳 LINE 讓我們先看看：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+
+#高領毛衣 #私享家洗衣店 #台中洗衣店 #衣服去漬 #毛衣清洗
+
+音效：Hao0321 Studio（CC BY 4.0）
+
 ### 2026-11-05 11:30 Gucci Jackie 1961 精品肩背包五金邊有磨痕？先查扣件和包角
 
 - id: https://sixiangjialaundry.com/content-calendar/2026-11-05.json#post-2026-11-05-slot-01
@@ -13817,4 +13871,98 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #包包清潔 #內袋清潔 #上班包保養
+
+### 2026-11-06 11:30 包包提把的手汗與邊油痕
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-06.json#post-2026-11-06-slot-01
+- published local time: 2026-11-06T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #包包清潔 #提把清潔 #精品洗護
+- image: https://sixiangjialaundry.com/assets/2026-11-06/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-06.json
+
+Facebook caption:
+
+包包提把如果開始變黏、變暗，通常不是單純灰塵，而是手汗、保養品和摩擦慢慢堆在表面。
+
+提把和包角是最常被碰到的位置，處理方式如果太強，可能讓皮革變乾、帆布起毛，或讓原本的邊油痕更明顯。
+
+我們會先分辨提把是皮革、合成皮還是布面，再看邊油、縫線和轉角磨耗，判斷能清到什麼程度、哪些痕跡需要保守處理。
+
+包包提把變暗時，可以拍近照和整包照片，我們先幫你看材質狀態。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #包包清潔 #提把清潔 #精品洗護
+
+Instagram caption:
+
+包包提把如果開始變黏、變暗，通常不是單純灰塵，而是手汗、保養品和摩擦慢慢堆在表面。
+
+提把和包角是最常被碰到的位置，處理方式如果太強，可能讓皮革變乾、帆布起毛，或讓原本的邊油痕更明顯。
+
+我們會先分辨提把是皮革、合成皮還是布面，再看邊油、縫線和轉角磨耗，判斷能清到什麼程度、哪些痕跡需要保守處理。
+
+包包提把變暗時，可以拍近照和整包照片，我們先幫你看材質狀態。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #包包清潔 #提把清潔 #精品洗護
+
+### 2026-11-06 20:30 換季收鞋前的鞋底邊緣清潔
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-06.json#post-2026-11-06-slot-02
+- published local time: 2026-11-06T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: object-proof
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #換季收納 #鞋子清潔 #鞋子保養
+- image: https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-06.json
+
+Facebook caption:
+
+換季收鞋前，鞋面看起來乾淨還不夠，鞋底邊緣和鞋內味道也要一起看。
+
+鞋子收進盒子後，殘留泥灰和濕氣會被關在裡面，下次拿出來才會發現變黃、變味或邊緣更暗。
+
+我們會看鞋底邊、鞋墊、內裡和鞋面材質，判斷清潔範圍和收納前乾燥需求。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍鞋面和鞋底兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #換季收納 #鞋子清潔 #鞋子保養
+
+Instagram caption:
+
+換季收鞋前，鞋面看起來乾淨還不夠，鞋底邊緣和鞋內味道也要一起看。
+
+鞋子收進盒子後，殘留泥灰和濕氣會被關在裡面，下次拿出來才會發現變黃、變味或邊緣更暗。
+
+我們會看鞋底邊、鞋墊、內裡和鞋面材質，判斷清潔範圍和收納前乾燥需求。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍鞋面和鞋底兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #換季收納 #鞋子清潔 #鞋子保養
 

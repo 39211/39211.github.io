@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-06",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-11-02T22:30:08.029Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "包包提把的手汗與邊油痕",
+      "media_type": "image",
+      "instagram_caption": "包包提把如果開始變黏、變暗，通常不是單純灰塵，而是手汗、保養品和摩擦慢慢堆在表面。\n\n提把和包角是最常被碰到的位置，處理方式如果太強，可能讓皮革變乾、帆布起毛，或讓原本的邊油痕更明顯。\n\n我們會先分辨提把是皮革、合成皮還是布面，再看邊油、縫線和轉角磨耗，判斷能清到什麼程度、哪些痕跡需要保守處理。\n\n包包提把變暗時，可以拍近照和整包照片，我們先幫你看材質狀態。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包清潔 #提把清潔 #精品洗護",
+      "facebook_caption": "包包提把如果開始變黏、變暗，通常不是單純灰塵，而是手汗、保養品和摩擦慢慢堆在表面。\n\n提把和包角是最常被碰到的位置，處理方式如果太強，可能讓皮革變乾、帆布起毛，或讓原本的邊油痕更明顯。\n\n我們會先分辨提把是皮革、合成皮還是布面，再看邊油、縫線和轉角磨耗，判斷能清到什麼程度、哪些痕跡需要保守處理。\n\n包包提把變暗時，可以拍近照和整包照片，我們先幫你看材質狀態。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包清潔 #提把清潔 #精品洗護",
+      "image_prompt": "Realistic square shop photo at a bag-care counter: everyday handbag with handle close-up visible, staff hand inspecting darkened handle and edge coating, clean neutral surface, premium laundry boutique atmosphere, no logo, no readable text, no poster.",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-06/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-06/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "換季收鞋前的鞋底邊緣清潔",
+      "media_type": "image",
+      "instagram_caption": "換季收鞋前，鞋面看起來乾淨還不夠，鞋底邊緣和鞋內味道也要一起看。\n\n鞋子收進盒子後，殘留泥灰和濕氣會被關在裡面，下次拿出來才會發現變黃、變味或邊緣更暗。\n\n我們會看鞋底邊、鞋墊、內裡和鞋面材質，判斷清潔範圍和收納前乾燥需求。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #換季收納 #鞋子清潔 #鞋子保養",
+      "facebook_caption": "換季收鞋前，鞋面看起來乾淨還不夠，鞋底邊緣和鞋內味道也要一起看。\n\n鞋子收進盒子後，殘留泥灰和濕氣會被關在裡面，下次拿出來才會發現變黃、變味或邊緣更暗。\n\n我們會看鞋底邊、鞋墊、內裡和鞋面材質，判斷清潔範圍和收納前乾燥需求。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #換季收納 #鞋子清潔 #鞋子保養",
+      "image_prompt": "Realistic square shop photo: shoes prepared for seasonal storage on an inspection table, shoe box nearby, sole edges and inner lining visible, staff hand checking dryness, bright clean shop style, no readable text.",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
+      "content_role": "evidence-conversion",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-06/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
+      "status": "pending"
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "d7b13eb7a23226b9"
+}
