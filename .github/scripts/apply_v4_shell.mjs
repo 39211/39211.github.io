@@ -58,7 +58,7 @@ function shellPage(html, opt) {
   const CTA = '<section class="sv4-cta" aria-label="LINE 預約"><div class="sv4-cta-in">'
     + '<p class="k">LINE 送洗 — 官方帳號 @454foyks</p><p class="big">一件也收。</p>'
     + '<div class="row"><ol><li><b>01</b>整體照</li><li><b>02</b>痕跡近照</li><li><b>03</b>洗標或材質</li></ol>'
-    + '<div class="act"><p>台中全市免費收送、沒有最低消費。拍三張傳 LINE，門市先看材質再報價。</p>'
+    + '<div class="act"><p>免費收送、沒有最低消費。拍三張傳 LINE，門市先看材質再報價。</p>'
     + '<a class="go" href="' + OA + encodeURIComponent(msg) + '" onclick="' + track + '">開啟 LINE，訊息已填好<span aria-hidden="true">→</span></a></div>'
     + '</div></div></section>\n';
   const BAR = '\n<div class="sv4-bar"><a class="l" href="' + navHref + '">LINE 傳照片評估<span aria-hidden="true">→</span></a><a class="p" href="tel:+886424527411" aria-label="打電話給門市 04-2452-7411">電話</a></div>';
