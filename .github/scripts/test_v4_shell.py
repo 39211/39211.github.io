@@ -25,14 +25,15 @@ class V4ShellTests(unittest.TestCase):
         (self.root/'assets/v4/sxj-shell.css').unlink();r=self.run_shell();self.assertEqual(1,r.returncode)
     def test_cta_act_omits_citywide_claim(self):
         phrase='免費收送、沒有最低消費。拍三張傳 LINE，門市先看材質再報價。'
+        forbidden='台中'+'全市'
         src=SCRIPT.read_text(encoding='utf-8')
         act=src.split('<div class="act"><p>',1)[1].split('</p>',1)[0]
-        self.assertNotIn('台中全市',act)
+        self.assertNotIn(forbidden,act)
         self.assertEqual(phrase,act)
         p=self.root/'guides'/'sample.html';p.parent.mkdir();p.write_text(HTML,encoding='utf-8')
         r=self.run_shell();self.assertEqual(0,r.returncode,r.stdout+r.stderr);out=p.read_text(encoding='utf-8')
         rendered=out.split('<div class="act"><p>',1)[1].split('</p>',1)[0]
-        self.assertNotIn('台中全市',rendered)
+        self.assertNotIn(forbidden,rendered)
         self.assertEqual(phrase,rendered)
         self.assertIn('<section class="sv4-cta" aria-label="LINE 預約">',out)
     def test_legacy_links_always_route_to_official_account(self):

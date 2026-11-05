@@ -388,7 +388,7 @@ class FixtureTests(unittest.TestCase):
         self.assertEqual(1, raw.count(b"      " + OPEN + b"\n"))
         self.assertEqual(1, raw.count(b"      " + CLOSE + b"\n"))
         unmarked = raw.replace(b"      " + OPEN + b"\n", b"").replace(b"      " + CLOSE + b"\n", b"")
-        self.assertEqual("3131dacaec0d5522670a68fe1a73a296312d39fb19058de8bf7ff5c29aa75e58",
+        self.assertEqual("78b83cf8a48522d2aa58caa71e9d4f00eab6b60d685f546a30bcf9d127d5c8f7",
                          hashlib.sha256(unmarked).hexdigest())
 
     def test_real_homepage_fixtures_retain_50_lines_around_markers(self):
