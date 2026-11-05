@@ -23,6 +23,18 @@ class V4ShellTests(unittest.TestCase):
         p=self.root/'a-valid.html';p.write_text(HTML,encoding='utf-8');(self.root/'z-invalid.html').write_text(HTML.replace('</main>',''),encoding='utf-8');before=p.read_bytes();r=self.run_shell();self.assertEqual(1,r.returncode);self.assertEqual(before,p.read_bytes())
     def test_missing_css_is_not_a_success(self):
         (self.root/'assets/v4/sxj-shell.css').unlink();r=self.run_shell();self.assertEqual(1,r.returncode)
+    def test_cta_act_omits_citywide_claim(self):
+        phrase='免費收送、沒有最低消費。拍三張傳 LINE，門市先看材質再報價。'
+        src=SCRIPT.read_text(encoding='utf-8')
+        act=src.split('<div class="act"><p>',1)[1].split('</p>',1)[0]
+        self.assertNotIn('台中全市',act)
+        self.assertEqual(phrase,act)
+        p=self.root/'guides'/'sample.html';p.parent.mkdir();p.write_text(HTML,encoding='utf-8')
+        r=self.run_shell();self.assertEqual(0,r.returncode,r.stdout+r.stderr);out=p.read_text(encoding='utf-8')
+        rendered=out.split('<div class="act"><p>',1)[1].split('</p>',1)[0]
+        self.assertNotIn('台中全市',rendered)
+        self.assertEqual(phrase,rendered)
+        self.assertIn('<section class="sv4-cta" aria-label="LINE 預約">',out)
     def test_legacy_links_always_route_to_official_account(self):
         old='https://line.me/ti/p/4m-rA6hxf6';new='https://line.me/R/ti/p/%40454foyks'
         p=self.root/'guide.html';p.write_text(HTML.replace('New daily post content.','<a href="'+old+'">Book</a>'),encoding='utf-8')
