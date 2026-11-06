@@ -369,6 +369,8 @@
         "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-06/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -562,7 +564,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-11-06"
+      "dateModified": "2026-11-07"
     },
     {
       "@type": "FAQPage",
@@ -623,7 +625,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-11-06",
+      "dateModified": "2026-11-07",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -15865,6 +15867,70 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
       "caption": "換季收鞋前的鞋底邊緣清潔",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-01",
+      "headline": "2026-11-07 11:30 皮鞋雨痕與鞋面乾裂前的檢查",
+      "text": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養",
+      "datePublished": "2026-11-07T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#皮鞋保養",
+        "#鞋子清潔",
+        "#雨季保養"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
+      "caption": "皮鞋雨痕與鞋面乾裂前的檢查",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-02",
+      "headline": "2026-11-07 20:30 雨傘滴水後包底被弄濕",
+      "text": "雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。\n\n包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。\n\n我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包保養 #雨季保養 #包包清潔",
+      "datePublished": "2026-11-07T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#包包保養",
+        "#雨季保養",
+        "#包包清潔"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
+      "caption": "雨傘滴水後包底被弄濕",
       "inLanguage": "zh-Hant"
     }
   ]

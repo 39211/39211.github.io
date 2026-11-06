@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-06T14:50:10.400Z
+- Generated at: 2026-11-06T22:39:59.189Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -461,6 +461,8 @@
     "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-06/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -14011,4 +14013,98 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #換季收納 #鞋子清潔 #鞋子保養
+
+### 2026-11-07 11:30 皮鞋雨痕與鞋面乾裂前的檢查
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-01
+- published local time: 2026-11-07T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: trust-reset
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養
+- image: https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-07.json
+
+Facebook caption:
+
+皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。
+
+皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。
+
+我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。
+
+皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養
+
+Instagram caption:
+
+皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。
+
+皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。
+
+我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。
+
+皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養
+
+### 2026-11-07 20:30 雨傘滴水後包底被弄濕
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-02
+- published local time: 2026-11-07T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: trust-reset
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #包包保養 #雨季保養 #包包清潔
+- image: https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-07.json
+
+Facebook caption:
+
+雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。
+
+包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。
+
+我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍包角和內裡兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #包包保養 #雨季保養 #包包清潔
+
+Instagram caption:
+
+雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。
+
+包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。
+
+我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍包角和內裡兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #包包保養 #雨季保養 #包包清潔
 

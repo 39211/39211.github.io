@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-07",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-11-03T22:30:07.297Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "皮鞋雨痕與鞋面乾裂前的檢查",
+      "media_type": "image",
+      "instagram_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養",
+      "facebook_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養",
+      "image_prompt": "Realistic square shop photo in a shoe-care workspace: leather dress shoes on a clean inspection table, subtle rain marks on upper, soft cloth and brush nearby, staff hand checking creases, premium documentary style, no logo, no readable text.",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "content_role": "reach-answer",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-07/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "雨傘滴水後包底被弄濕",
+      "media_type": "image",
+      "instagram_caption": "雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。\n\n包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。\n\n我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包保養 #雨季保養 #包包清潔",
+      "facebook_caption": "雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。\n\n包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。\n\n我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包保養 #雨季保養 #包包清潔",
+      "image_prompt": "Realistic square shop photo: handbag bottom and corners on a clean counter with folded umbrella nearby, staff hand checking moisture mark, premium Taiwanese laundry care setting, no logo, no readable text.",
+      "visual_route": "customer-consultation",
+      "traffic_route": "trust-reset",
+      "content_role": "evidence-conversion",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-07/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
+      "status": "pending"
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "29a468eeeb54fad7"
+}
