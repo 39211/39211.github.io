@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-11-06T05:00:06.762Z",
+  "generated_at": "2026-11-06T13:15:06.086Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -701,6 +701,7 @@
       "https://i.ytimg.com/vi/Nvg7eYjoVIU/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-05/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-05/slot-02.png",
+      "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-06/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -2201,10 +2202,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 257,
+      "indexable_article_count": 258,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 257
+      "article_count": 258
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2217,18 +2218,52 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 267,
+    "post_count": 268,
     "latest_date": "2026-11-06",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": false,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 171,
+    "posts_with_search_intent": 172,
     "posts_with_target_queries": 164,
-    "posts_with_evidence_type": 147
+    "posts_with_evidence_type": 148
   },
   "latest_date": "2026-11-06",
   "latest_posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-06:reel-sequin-dress-20261106",
+      "date": "2026-11-06",
+      "date_published": "2026-11-06T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
+      "topic": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#亮片禮服",
+        "#禮服送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店",
+        "#衣服去漬"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-sequin-dress-916.mp4",
+      "facebook_caption": "亮片禮服髒了？先看亮片怎麼縫。\n\n這次示範的是一件亮片禮服，裙擺沾到一道灰痕。\n亮片是怎麼縫上去的、底布和內襯是什麼材質，要一起看，處理方式才不會傷到衣服；不要直接丟洗衣機，也不要自己用力刷。\n專業處理前，通常會先在不明顯處測試；原本已經鬆動的亮片或飾件，處理時仍可能脫落，我們會先說明清楚，你同意後才處理。\n\n先拍整件、洗標和亮片正反面，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#亮片禮服 #禮服送洗 #台中洗衣店 #私享家洗衣店 #衣服去漬",
+      "instagram_caption": "亮片禮服髒了？先看亮片怎麼縫。\n\n這次示範的是一件亮片禮服，裙擺沾到一道灰痕。\n亮片是怎麼縫上去的、底布和內襯是什麼材質，要一起看，處理方式才不會傷到衣服；不要直接丟洗衣機，也不要自己用力刷。\n專業處理前，通常會先在不明顯處測試；原本已經鬆動的亮片或飾件，處理時仍可能脫落，我們會先說明清楚，你同意後才處理。\n\n先拍整件、洗標和亮片正反面，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#亮片禮服 #禮服送洗 #台中洗衣店 #私享家洗衣店 #衣服去漬"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-06.json#post-2026-11-06-slot-01",
       "date": "2026-11-06",
@@ -2370,6 +2405,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-06.json",
       "facebook_caption": "包包提把如果開始變黏、變暗，通常不是單純灰塵，而是手汗、保養品和摩擦慢慢堆在表面。\n\n提把和包角是最常被碰到的位置，處理方式如果太強，可能讓皮革變乾、帆布起毛，或讓原本的邊油痕更明顯。\n\n我們會先分辨提把是皮革、合成皮還是布面，再看邊油、縫線和轉角磨耗，判斷能清到什麼程度、哪些痕跡需要保守處理。\n\n包包提把變暗時，可以拍近照和整包照片，我們先幫你看材質狀態。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包清潔 #提把清潔 #精品洗護",
       "instagram_caption": "包包提把如果開始變黏、變暗，通常不是單純灰塵，而是手汗、保養品和摩擦慢慢堆在表面。\n\n提把和包角是最常被碰到的位置，處理方式如果太強，可能讓皮革變乾、帆布起毛，或讓原本的邊油痕更明顯。\n\n我們會先分辨提把是皮革、合成皮還是布面，再看邊油、縫線和轉角磨耗，判斷能清到什麼程度、哪些痕跡需要保守處理。\n\n包包提把變暗時，可以拍近照和整包照片，我們先幫你看材質狀態。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包清潔 #提把清潔 #精品洗護"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-06:reel-sequin-dress-20261106",
+      "date": "2026-11-06",
+      "date_published": "2026-11-06T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
+      "topic": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#亮片禮服",
+        "#禮服送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店",
+        "#衣服去漬"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-sequin-dress-916.mp4",
+      "facebook_caption": "亮片禮服髒了？先看亮片怎麼縫。\n\n這次示範的是一件亮片禮服，裙擺沾到一道灰痕。\n亮片是怎麼縫上去的、底布和內襯是什麼材質，要一起看，處理方式才不會傷到衣服；不要直接丟洗衣機，也不要自己用力刷。\n專業處理前，通常會先在不明顯處測試；原本已經鬆動的亮片或飾件，處理時仍可能脫落，我們會先說明清楚，你同意後才處理。\n\n先拍整件、洗標和亮片正反面，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#亮片禮服 #禮服送洗 #台中洗衣店 #私享家洗衣店 #衣服去漬",
+      "instagram_caption": "亮片禮服髒了？先看亮片怎麼縫。\n\n這次示範的是一件亮片禮服，裙擺沾到一道灰痕。\n亮片是怎麼縫上去的、底布和內襯是什麼材質，要一起看，處理方式才不會傷到衣服；不要直接丟洗衣機，也不要自己用力刷。\n專業處理前，通常會先在不明顯處測試；原本已經鬆動的亮片或飾件，處理時仍可能脫落，我們會先說明清楚，你同意後才處理。\n\n先拍整件、洗標和亮片正反面，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#亮片禮服 #禮服送洗 #台中洗衣店 #私享家洗衣店 #衣服去漬"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-05.json#post-2026-11-05-slot-02",
@@ -3423,53 +3492,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-25.json",
       "facebook_caption": "雨季過後，不一定要全部鞋包一起整理，先挑最常穿、最常背、最有味道的那幾件看就好。\n\n真正需要優先處理的通常是白鞋、通勤鞋、上班包和常用外套，因為它們每天接觸濕氣、手汗和路面灰。\n\n我們會先看使用頻率、材質、味道和邊角痕跡，幫你判斷哪些值得先整理，哪些可以再觀察。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍鞋底和包角兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店",
       "instagram_caption": "雨季過後，不一定要全部鞋包一起整理，先挑最常穿、最常背、最有味道的那幾件看就好。\n\n真正需要優先處理的通常是白鞋、通勤鞋、上班包和常用外套，因為它們每天接觸濕氣、手汗和路面灰。\n\n我們會先看使用頻率、材質、味道和邊角痕跡，幫你判斷哪些值得先整理，哪些可以再觀察。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍鞋底和包角兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-25.json#post-2026-10-25-slot-01",
-      "date": "2026-10-25",
-      "date_published": "2026-10-25T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-25 11:30 冬衣收送分袋標籤要寫哪 2 項？店家可免費到府收取與送回",
-      "topic": "冬衣收送分袋標籤要寫哪 2 項？店家可免費到府收取與送回",
-      "visual_route": "shop-inspection",
-      "traffic_route": "dwell-detail",
-      "content_role": "reach-answer",
-      "search_intent": "pickup-logistics",
-      "target_queries": [
-        "台中洗衣收送",
-        "台中免費收送洗衣",
-        "台中到府收送洗衣",
-        "西屯洗衣收送",
-        "逢甲洗衣收送",
-        "台中床被收送"
-      ],
-      "evidence_type": "pickup-logistics",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#洗包包",
-        "#台中洗衣店"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-25/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-25/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-10-25/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-10-25/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-10-25/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-25.json",
-      "facebook_caption": "冬衣收送分袋標籤要寫哪 2 項？店家可免費到府收取與送回。\n\n台中這幾個月的濕度，衣服收進櫃子前沒乾透，味道就是那時候留下的。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不用出門，台中市區我們去收。傳 LINE說個地址和時間就好。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店",
-      "instagram_caption": "冬衣收送分袋標籤要寫哪 2 項？店家可免費到府收取與送回。\n\n台中這幾個月的濕度，衣服收進櫃子前沒乾透，味道就是那時候留下的。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不用出門，台中市區我們去收。私訊說個地址和時間就好。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店"
     }
   ],
   "published_posts": [
@@ -15291,6 +15313,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-05.json",
       "facebook_caption": "上班包外觀看起來乾淨，內袋卻常常有粉底、筆痕、收據灰和飲料小痕跡。\n\n內袋材質通常比較薄，處理太強容易起毛或留下水痕，所以要先看污漬種類和布料狀態。\n\n我們會看內袋布料、筆痕深度、粉底範圍和包包外層材質，再判斷能做局部處理或只能保守整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包清潔 #內袋清潔 #上班包保養",
       "instagram_caption": "上班包外觀看起來乾淨，內袋卻常常有粉底、筆痕、收據灰和飲料小痕跡。\n\n內袋材質通常比較薄，處理太強容易起毛或留下水痕，所以要先看污漬種類和布料狀態。\n\n我們會看內袋布料、筆痕深度、粉底範圍和包包外層材質，再判斷能做局部處理或只能保守整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包清潔 #內袋清潔 #上班包保養"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-06:reel-sequin-dress-20261106",
+      "date": "2026-11-06",
+      "date_published": "2026-11-06T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
+      "topic": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#亮片禮服",
+        "#禮服送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店",
+        "#衣服去漬"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-sequin-dress-916.mp4",
+      "facebook_caption": "亮片禮服髒了？先看亮片怎麼縫。\n\n這次示範的是一件亮片禮服，裙擺沾到一道灰痕。\n亮片是怎麼縫上去的、底布和內襯是什麼材質，要一起看，處理方式才不會傷到衣服；不要直接丟洗衣機，也不要自己用力刷。\n專業處理前，通常會先在不明顯處測試；原本已經鬆動的亮片或飾件，處理時仍可能脫落，我們會先說明清楚，你同意後才處理。\n\n先拍整件、洗標和亮片正反面，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#亮片禮服 #禮服送洗 #台中洗衣店 #私享家洗衣店 #衣服去漬",
+      "instagram_caption": "亮片禮服髒了？先看亮片怎麼縫。\n\n這次示範的是一件亮片禮服，裙擺沾到一道灰痕。\n亮片是怎麼縫上去的、底布和內襯是什麼材質，要一起看，處理方式才不會傷到衣服；不要直接丟洗衣機，也不要自己用力刷。\n專業處理前，通常會先在不明顯處測試；原本已經鬆動的亮片或飾件，處理時仍可能脫落，我們會先說明清楚，你同意後才處理。\n\n先拍整件、洗標和亮片正反面，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#亮片禮服 #禮服送洗 #台中洗衣店 #私享家洗衣店 #衣服去漬"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-06.json#post-2026-11-06-slot-01",

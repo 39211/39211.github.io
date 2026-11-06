@@ -366,6 +366,7 @@
         "https://i.ytimg.com/vi/Nvg7eYjoVIU/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-05/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-05/slot-02.png",
+        "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-06/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -15767,6 +15768,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-05/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-05/slot-02.png",
       "caption": "上班包內袋的粉底與筆痕",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-06:reel-sequin-dress-20261106",
+      "headline": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
+      "text": "亮片禮服髒了？先看亮片怎麼縫。\n\n這次示範的是一件亮片禮服，裙擺沾到一道灰痕。\n亮片是怎麼縫上去的、底布和內襯是什麼材質，要一起看，處理方式才不會傷到衣服；不要直接丟洗衣機，也不要自己用力刷。\n專業處理前，通常會先在不明顯處測試；原本已經鬆動的亮片或飾件，處理時仍可能脫落，我們會先說明清楚，你同意後才處理。\n\n先拍整件、洗標和亮片正反面，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#亮片禮服 #禮服送洗 #台中洗衣店 #私享家洗衣店 #衣服去漬",
+      "datePublished": "2026-11-06T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#亮片禮服",
+        "#禮服送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店",
+        "#衣服去漬"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-06:reel-sequin-dress-20261106:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-06:reel-sequin-dress-20261106"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-06:reel-sequin-dress-20261106:image",
+      "contentUrl": "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
+      "caption": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T05:00:06.762Z",
+  "generated_at": "2026-11-06T13:15:06.086Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -8,6 +8,58 @@
   "canonical_url": "https://sixiangjialaundry.com/",
   "date": "2026-11-06",
   "posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-06:reel-sequin-dress-20261106",
+      "date": "2026-11-06",
+      "date_published": "2026-11-06T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
+      "topic": "亮片禮服髒了？先看亮片怎麼縫｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#亮片禮服",
+        "#禮服送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店",
+        "#衣服去漬"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-sequin-dress-916.mp4",
+      "calendar_path": "feature-reels/2026-11-06.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-11-06-feature-reel-sequin-dress-20261106.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-11-06-feature-reel-sequin-dress-20261106.html",
+      "url": "urn:sixiangjia:feature:2026-11-06:reel-sequin-dress-20261106",
+      "facebook_caption": "亮片禮服髒了？先看亮片怎麼縫。\n\n這次示範的是一件亮片禮服，裙擺沾到一道灰痕。\n亮片是怎麼縫上去的、底布和內襯是什麼材質，要一起看，處理方式才不會傷到衣服；不要直接丟洗衣機，也不要自己用力刷。\n專業處理前，通常會先在不明顯處測試；原本已經鬆動的亮片或飾件，處理時仍可能脫落，我們會先說明清楚，你同意後才處理。\n\n先拍整件、洗標和亮片正反面，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#亮片禮服 #禮服送洗 #台中洗衣店 #私享家洗衣店 #衣服去漬",
+      "instagram_caption": "亮片禮服髒了？先看亮片怎麼縫。\n\n這次示範的是一件亮片禮服，裙擺沾到一道灰痕。\n亮片是怎麼縫上去的、底布和內襯是什麼材質，要一起看，處理方式才不會傷到衣服；不要直接丟洗衣機，也不要自己用力刷。\n專業處理前，通常會先在不明顯處測試；原本已經鬆動的亮片或飾件，處理時仍可能脫落，我們會先說明清楚，你同意後才處理。\n\n先拍整件、洗標和亮片正反面，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#亮片禮服 #禮服送洗 #台中洗衣店 #私享家洗衣店 #衣服去漬",
+      "youtube_video": {
+        "video_id": "wbYmrir3nVY",
+        "embed_url": "https://www.youtube-nocookie.com/embed/wbYmrir3nVY",
+        "watch_url": "https://www.youtube.com/shorts/wbYmrir3nVY",
+        "thumbnail_url": "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
+        "upload_date": "2026-11-06T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-06.json#post-2026-11-06-slot-01",
       "date": "2026-11-06",
