@@ -251,3 +251,5 @@ jobs:
       - id: deployment
         uses: actions/deploy-pages@v4
         if: github.ref == 'refs/heads/main'
+        with:
+          timeout: 1200000
