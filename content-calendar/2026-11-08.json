@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-08",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-11-04T22:30:11.208Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "帆布鞋泥點滲進布紋後的處理",
+      "media_type": "image",
+      "instagram_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋",
+      "facebook_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋",
+      "image_prompt": "Realistic square shop photo: canvas sneakers with small mud marks on a clean counter, fabric texture visible, staff hand pointing to woven surface and rubber edge, natural light, practical premium laundry shop look, no poster, no readable text.",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-08/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "冷氣房外套的味道累積",
+      "media_type": "image",
+      "instagram_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養",
+      "facebook_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養",
+      "image_prompt": "Realistic square shop photo: office jacket on a hanger at a laundry inspection counter, collar and inner lining visible, staff hand checking shoulder and cuff, clean premium light, no readable text.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-08/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
+      "status": "pending"
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "ae327218cf1c4bb6"
+}

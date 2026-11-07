@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-11-07T14:50:44.432Z",
+  "generated_at": "2026-11-07T22:39:06.983Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -707,6 +707,8 @@
       "https://i.ytimg.com/vi/Nac9mIuxBUg/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
+      "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
+      "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2205,10 +2207,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 261,
+      "indexable_article_count": 263,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 261
+      "article_count": 263
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2221,8 +2223,8 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 271,
-    "latest_date": "2026-11-07",
+    "post_count": 273,
+    "latest_date": "2026-11-08",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": false,
     "all_posts_have_routes": true,
@@ -2231,114 +2233,150 @@
     "posts_with_target_queries": 164,
     "posts_with_evidence_type": 149
   },
-  "latest_date": "2026-11-07",
+  "latest_date": "2026-11-08",
   "latest_posts": [
     {
-      "id": "urn:sixiangjia:feature:2026-11-07:reel-snow-boot-20261107",
-      "date": "2026-11-07",
-      "date_published": "2026-11-07T06:00:00.000Z",
-      "slot": 0,
-      "time": "14:00",
-      "title": "雪靴清洗前後對比：水痕別只擦一處｜台中洗鞋 私享家洗衣店",
-      "topic": "雪靴清洗前後對比：水痕別只擦一處｜台中洗鞋 私享家洗衣店",
-      "visual_route": "feature-reel",
-      "traffic_route": "feature-reel",
-      "content_role": "reach-answer",
-      "search_intent": "social-video",
-      "target_queries": [],
-      "evidence_type": "published-feature-reel",
-      "hashtags": [
-        "#雪靴清洗",
-        "#雪靴送洗",
-        "#鞋子清洗",
-        "#台中洗衣店",
-        "#私享家洗衣店"
-      ],
-      "platforms": [
-        "facebook",
-        "youtube",
-        "instagram"
-      ],
-      "image_url": "https://i.ytimg.com/vi/Nac9mIuxBUg/hqdefault.jpg",
-      "image_urls": [],
-      "carousel_items": [],
-      "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-snow-boot-916.mp4",
-      "facebook_caption": "雪靴鞋頭黑一圈、還有白色水痕？先別急著局部濕擦。\n\n這次示範雪靴清洗：一雙栗色短筒羊皮雪靴，台中送洗前我們先看鞋況。\n羊皮絨面只擦髒的那一圈，乾了以後邊緣可能又留一圈水痕。\n我們會先評估，再整面均勻清洗，乾透以後把絨毛刷順。能改善多少，要看實際鞋況。\n\n先拍整雙和鞋頭近照，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意，清潔前後為示意對照。\n\n#雪靴清洗 #雪靴送洗 #鞋子清洗 #台中洗衣店 #私享家洗衣店",
-      "instagram_caption": "雪靴鞋頭黑一圈、還有白色水痕？先別急著局部濕擦。\n\n這次示範雪靴清洗：一雙栗色短筒羊皮雪靴，台中送洗前我們先看鞋況。\n羊皮絨面只擦髒的那一圈，乾了以後邊緣可能又留一圈水痕。\n我們會先評估，再整面均勻清洗，乾透以後把絨毛刷順。能改善多少，要看實際鞋況。\n\n先拍整雙和鞋頭近照，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意，清潔前後為示意對照。\n\n#雪靴清洗 #雪靴送洗 #鞋子清洗 #台中洗衣店 #私享家洗衣店"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-01",
-      "date": "2026-11-07",
-      "date_published": "2026-11-07T11:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T11:30:00+08:00",
       "slot": 1,
       "time": "11:30",
-      "title": "2026-11-07 11:30 皮鞋雨痕與鞋面乾裂前的檢查",
-      "topic": "皮鞋雨痕與鞋面乾裂前的檢查",
-      "visual_route": "customer-consultation",
-      "traffic_route": "trust-reset",
+      "title": "2026-11-08 11:30 帆布鞋泥點滲進布紋後的處理",
+      "topic": "帆布鞋泥點滲進布紋後的處理",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
       "content_role": "reach-answer",
       "search_intent": "",
       "target_queries": [],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
-        "#皮鞋保養",
-        "#鞋子清潔",
-        "#雨季保養"
+        "#帆布鞋清潔",
+        "#鞋子保養",
+        "#台中洗鞋"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png"
+        "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json",
-      "facebook_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養",
-      "instagram_caption": "皮鞋淋雨後如果只擦乾表面，水痕和鞋面乾裂的問題有時候會過幾天才浮出來。\n\n皮革遇到雨水、泥灰和冷氣房乾燥，表面油分狀態會改變，太急著用不適合的保養品，反而可能讓顏色不均。\n\n我們會先看鞋面皮革種類、摺痕深度、鞋邊縫線和水痕範圍，再判斷是清潔、補油保養，還是先做溫和整理。\n\n皮鞋淋雨後先不要亂上油，拍鞋面、水痕和鞋底邊給我們判斷。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #皮鞋保養 #鞋子清潔 #雨季保養"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json",
+      "facebook_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋",
+      "instagram_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋"
     },
     {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-02",
-      "date": "2026-11-07",
-      "date_published": "2026-11-07T20:30:00+08:00",
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-02",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T20:30:00+08:00",
       "slot": 2,
       "time": "20:30",
-      "title": "2026-11-07 20:30 雨傘滴水後包底被弄濕",
-      "topic": "雨傘滴水後包底被弄濕",
-      "visual_route": "customer-consultation",
-      "traffic_route": "trust-reset",
+      "title": "2026-11-08 20:30 冷氣房外套的味道累積",
+      "topic": "冷氣房外套的味道累積",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
       "content_role": "evidence-conversion",
       "search_intent": "",
       "target_queries": [],
       "evidence_type": "",
       "hashtags": [
         "#私享家洗衣店",
-        "#包包保養",
-        "#雨季保養",
-        "#包包清潔"
+        "#外套清潔",
+        "#衣物除味",
+        "#上班族保養"
       ],
       "platforms": [
         "facebook",
         "instagram"
       ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
       "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png"
+        "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png"
       ],
       "carousel_items": [],
       "media_type": "image",
       "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json",
-      "facebook_caption": "雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。\n\n包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。\n\n我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包保養 #雨季保養 #包包清潔",
-      "instagram_caption": "雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。\n\n包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。\n\n我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包保養 #雨季保養 #包包清潔"
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json",
+      "facebook_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養",
+      "instagram_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養"
     }
   ],
   "recent_posts": [
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-02",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-11-08 20:30 冷氣房外套的味道累積",
+      "topic": "冷氣房外套的味道累積",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#外套清潔",
+        "#衣物除味",
+        "#上班族保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json",
+      "facebook_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養",
+      "instagram_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-11-08 11:30 帆布鞋泥點滲進布紋後的處理",
+      "topic": "帆布鞋泥點滲進布紋後的處理",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#帆布鞋清潔",
+        "#鞋子保養",
+        "#台中洗鞋"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json",
+      "facebook_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋",
+      "instagram_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-02",
       "date": "2026-11-07",
@@ -3394,85 +3432,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-28.json",
       "facebook_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔",
       "instagram_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-28.json#post-2026-10-28-slot-01",
-      "date": "2026-10-28",
-      "date_published": "2026-10-28T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-28 11:30 冬被準備交洗，先翻哪 2 個角落？",
-      "topic": "冬被準備交洗，先翻哪 2 個角落？",
-      "visual_route": "customer-consultation",
-      "traffic_route": "object-proof",
-      "content_role": "reach-answer",
-      "search_intent": "problem-diagnosis",
-      "target_queries": [
-        "台中床組清洗",
-        "台中棉被清洗",
-        "西屯寢具清洗",
-        "台中羽絨被送洗",
-        "台中床被收送",
-        "棉被有潮味怎麼辦"
-      ],
-      "evidence_type": "first-party-inspection",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#棉被送洗",
-        "#台中洗衣店"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-28/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-28/slot-01.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-28.json",
-      "facebook_caption": "冬被準備交洗，先翻哪 2 個角落？\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季拿出來就是那個味道。\n\n棉被我會先聞內層再看表布。濕氣的味道和髒的味道不一樣，處理方式也不同。\n\n想收之前先清一次？傳 LINE跟我們說一聲，台中市區我們到府收。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #台中洗衣店",
-      "instagram_caption": "冬被準備交洗，先翻哪 2 個角落？\n\n棉被收櫃前先聞一下。帶著濕氣收，下一季拿出來就是那個味道。\n\n棉被我會先聞內層再看表布。濕氣的味道和髒的味道不一樣，處理方式也不同。\n\n想收之前先清一次？私訊跟我們說一聲，台中市區我們到府收。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #棉被送洗 #台中洗衣店"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-27.json#post-2026-10-27-slot-02",
-      "date": "2026-10-27",
-      "date_published": "2026-10-27T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-10-27 20:30 健身後運動鞋與毛巾分開整理",
-      "topic": "健身後運動鞋與毛巾分開整理",
-      "visual_route": "shop-inspection",
-      "traffic_route": "object-proof",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#運動鞋清潔",
-        "#毛巾清潔",
-        "#除味保養"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-27/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-27/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-27.json",
-      "facebook_caption": "健身後的運動鞋和毛巾不要只看乾不乾，汗味來源其實很不一樣。\n\n毛巾吸汗快、運動鞋內裡悶得久，如果一起堆在袋子裡，味道會互相影響，回家後也更難判斷來源。\n\n我們會分別看毛巾纖維、鞋墊、鞋內濕氣和鞋面材質，再判斷哪些要清潔、哪些只需要先通風。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #運動鞋清潔 #毛巾清潔 #除味保養",
-      "instagram_caption": "健身後的運動鞋和毛巾不要只看乾不乾，汗味來源其實很不一樣。\n\n毛巾吸汗快、運動鞋內裡悶得久，如果一起堆在袋子裡，味道會互相影響，回家後也更難判斷來源。\n\n我們會分別看毛巾纖維、鞋墊、鞋內濕氣和鞋面材質，再判斷哪些要清潔、哪些只需要先通風。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #運動鞋清潔 #毛巾清潔 #除味保養"
     }
   ],
   "published_posts": [
@@ -15502,6 +15461,76 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json",
       "facebook_caption": "雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。\n\n包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。\n\n我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包保養 #雨季保養 #包包清潔",
       "instagram_caption": "雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。\n\n包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。\n\n我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包保養 #雨季保養 #包包清潔"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T11:30:00+08:00",
+      "slot": 1,
+      "time": "11:30",
+      "title": "2026-11-08 11:30 帆布鞋泥點滲進布紋後的處理",
+      "topic": "帆布鞋泥點滲進布紋後的處理",
+      "visual_route": "macro-detail",
+      "traffic_route": "object-proof",
+      "content_role": "reach-answer",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#帆布鞋清潔",
+        "#鞋子保養",
+        "#台中洗鞋"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json",
+      "facebook_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋",
+      "instagram_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋"
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-02",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T20:30:00+08:00",
+      "slot": 2,
+      "time": "20:30",
+      "title": "2026-11-08 20:30 冷氣房外套的味道累積",
+      "topic": "冷氣房外套的味道累積",
+      "visual_route": "shop-inspection",
+      "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
+      "search_intent": "",
+      "target_queries": [],
+      "evidence_type": "",
+      "hashtags": [
+        "#私享家洗衣店",
+        "#外套清潔",
+        "#衣物除味",
+        "#上班族保養"
+      ],
+      "platforms": [
+        "facebook",
+        "instagram"
+      ],
+      "image_url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
+      "image_urls": [
+        "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png"
+      ],
+      "carousel_items": [],
+      "media_type": "image",
+      "video_url": "",
+      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json",
+      "facebook_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養",
+      "instagram_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養"
     }
   ]
 }

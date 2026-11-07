@@ -372,6 +372,8 @@
         "https://i.ytimg.com/vi/Nac9mIuxBUg/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -565,7 +567,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-11-07"
+      "dateModified": "2026-11-08"
     },
     {
       "@type": "FAQPage",
@@ -626,7 +628,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-11-07",
+      "dateModified": "2026-11-08",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -15965,6 +15967,70 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
       "caption": "雨傘滴水後包底被弄濕",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01",
+      "headline": "2026-11-08 11:30 帆布鞋泥點滲進布紋後的處理",
+      "text": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋",
+      "datePublished": "2026-11-08T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#帆布鞋清潔",
+        "#鞋子保養",
+        "#台中洗鞋"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
+      "caption": "帆布鞋泥點滲進布紋後的處理",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-02",
+      "headline": "2026-11-08 20:30 冷氣房外套的味道累積",
+      "text": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養",
+      "datePublished": "2026-11-08T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#外套清潔",
+        "#衣物除味",
+        "#上班族保養"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
+      "caption": "冷氣房外套的味道累積",
       "inLanguage": "zh-Hant"
     }
   ]
