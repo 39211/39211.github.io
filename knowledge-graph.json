@@ -369,6 +369,7 @@
         "https://i.ytimg.com/vi/wbYmrir3nVY/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-06/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
+        "https://i.ytimg.com/vi/Nac9mIuxBUg/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -15867,6 +15868,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-06/slot-02.png",
       "caption": "換季收鞋前的鞋底邊緣清潔",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-07:reel-snow-boot-20261107",
+      "headline": "雪靴清洗前後對比：水痕別只擦一處｜台中洗鞋 私享家洗衣店",
+      "text": "雪靴鞋頭黑一圈、還有白色水痕？先別急著局部濕擦。\n\n這次示範雪靴清洗：一雙栗色短筒羊皮雪靴，台中送洗前我們先看鞋況。\n羊皮絨面只擦髒的那一圈，乾了以後邊緣可能又留一圈水痕。\n我們會先評估，再整面均勻清洗，乾透以後把絨毛刷順。能改善多少，要看實際鞋況。\n\n先拍整雙和鞋頭近照，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意，清潔前後為示意對照。\n\n#雪靴清洗 #雪靴送洗 #鞋子清洗 #台中洗衣店 #私享家洗衣店",
+      "datePublished": "2026-11-07T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#雪靴清洗",
+        "#雪靴送洗",
+        "#鞋子清洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-07:reel-snow-boot-20261107:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-07:reel-snow-boot-20261107"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-07:reel-snow-boot-20261107:image",
+      "contentUrl": "https://i.ytimg.com/vi/Nac9mIuxBUg/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/Nac9mIuxBUg/hqdefault.jpg",
+      "caption": "雪靴清洗前後對比：水痕別只擦一處｜台中洗鞋 私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {
