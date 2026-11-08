@@ -372,6 +372,7 @@
         "https://i.ytimg.com/vi/Nac9mIuxBUg/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
+        "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -15967,6 +15968,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
       "caption": "雨傘滴水後包底被弄濕",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108",
+      "headline": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
+      "text": "天絲床組能直接丟洗衣機嗎？先看洗標。\n\n這次示範的是一套天絲床組。\n天絲床組的洗標常見三種寫法：可機洗、只能手洗、不可水洗；要以手上這一套的洗標為準。\n洗法不確定，先別直接丟洗衣機。帶來店裡，我們先看洗標和布料，再跟你說怎麼處理。\n\n先拍整套和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#天絲床組 #床組清洗 #寢具送洗 #台中洗衣店 #私享家洗衣店",
+      "datePublished": "2026-11-08T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#天絲床組",
+        "#床組清洗",
+        "#寢具送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108:image",
+      "contentUrl": "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
+      "caption": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {

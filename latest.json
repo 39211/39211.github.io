@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T22:39:06.983Z",
+  "generated_at": "2026-11-08T13:15:06.995Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -8,6 +8,58 @@
   "canonical_url": "https://sixiangjialaundry.com/",
   "date": "2026-11-08",
   "posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
+      "topic": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#天絲床組",
+        "#床組清洗",
+        "#寢具送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-tencel-bedding-916.mp4",
+      "calendar_path": "feature-reels/2026-11-08.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-11-08-feature-reel-tencel-bedding-20261108.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-11-08-feature-reel-tencel-bedding-20261108.html",
+      "url": "urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108",
+      "facebook_caption": "天絲床組能直接丟洗衣機嗎？先看洗標。\n\n這次示範的是一套天絲床組。\n天絲床組的洗標常見三種寫法：可機洗、只能手洗、不可水洗；要以手上這一套的洗標為準。\n洗法不確定，先別直接丟洗衣機。帶來店裡，我們先看洗標和布料，再跟你說怎麼處理。\n\n先拍整套和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#天絲床組 #床組清洗 #寢具送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "天絲床組能直接丟洗衣機嗎？先看洗標。\n\n這次示範的是一套天絲床組。\n天絲床組的洗標常見三種寫法：可機洗、只能手洗、不可水洗；要以手上這一套的洗標為準。\n洗法不確定，先別直接丟洗衣機。帶來店裡，我們先看洗標和布料，再跟你說怎麼處理。\n\n先拍整套和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#天絲床組 #床組清洗 #寢具送洗 #台中洗衣店 #私享家洗衣店",
+      "youtube_video": {
+        "video_id": "y99XlWOQkRo",
+        "embed_url": "https://www.youtube-nocookie.com/embed/y99XlWOQkRo",
+        "watch_url": "https://www.youtube.com/shorts/y99XlWOQkRo",
+        "thumbnail_url": "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
+        "upload_date": "2026-11-08T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01",
       "date": "2026-11-08",

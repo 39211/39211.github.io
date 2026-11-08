@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-11-07T22:39:06.983Z",
+  "generated_at": "2026-11-08T13:15:06.995Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -707,6 +707,7 @@
       "https://i.ytimg.com/vi/Nac9mIuxBUg/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-07/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png",
+      "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -2207,10 +2208,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 263,
+      "indexable_article_count": 264,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 263
+      "article_count": 264
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2223,18 +2224,52 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 273,
+    "post_count": 274,
     "latest_date": "2026-11-08",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": false,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 173,
+    "posts_with_search_intent": 174,
     "posts_with_target_queries": 164,
-    "posts_with_evidence_type": 149
+    "posts_with_evidence_type": 150
   },
   "latest_date": "2026-11-08",
   "latest_posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
+      "topic": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#天絲床組",
+        "#床組清洗",
+        "#寢具送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-tencel-bedding-916.mp4",
+      "facebook_caption": "天絲床組能直接丟洗衣機嗎？先看洗標。\n\n這次示範的是一套天絲床組。\n天絲床組的洗標常見三種寫法：可機洗、只能手洗、不可水洗；要以手上這一套的洗標為準。\n洗法不確定，先別直接丟洗衣機。帶來店裡，我們先看洗標和布料，再跟你說怎麼處理。\n\n先拍整套和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#天絲床組 #床組清洗 #寢具送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "天絲床組能直接丟洗衣機嗎？先看洗標。\n\n這次示範的是一套天絲床組。\n天絲床組的洗標常見三種寫法：可機洗、只能手洗、不可水洗；要以手上這一套的洗標為準。\n洗法不確定，先別直接丟洗衣機。帶來店裡，我們先看洗標和布料，再跟你說怎麼處理。\n\n先拍整套和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#天絲床組 #床組清洗 #寢具送洗 #台中洗衣店 #私享家洗衣店"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01",
       "date": "2026-11-08",
@@ -2376,6 +2411,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json",
       "facebook_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋",
       "instagram_caption": "帆布鞋沾到泥點時，最麻煩的不是表面那一點灰，而是泥水滲進布紋後留下的影子。\n\n如果直接用硬刷刷到變白，布面可能起毛、顏色變淡，鞋邊和縫線也容易被刷出粗糙感。\n\n我們會看帆布顏色、泥點深度、鞋邊膠痕和縫線髒污，再判斷要做局部處理、整雙清潔，還是保留材質原本的紋理感。\n\n帆布鞋沾泥後，可以先拍鞋面近照和鞋邊，我們幫你看能不能整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #帆布鞋清潔 #鞋子保養 #台中洗鞋"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
+      "topic": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#天絲床組",
+        "#床組清洗",
+        "#寢具送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-tencel-bedding-916.mp4",
+      "facebook_caption": "天絲床組能直接丟洗衣機嗎？先看洗標。\n\n這次示範的是一套天絲床組。\n天絲床組的洗標常見三種寫法：可機洗、只能手洗、不可水洗；要以手上這一套的洗標為準。\n洗法不確定，先別直接丟洗衣機。帶來店裡，我們先看洗標和布料，再跟你說怎麼處理。\n\n先拍整套和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#天絲床組 #床組清洗 #寢具送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "天絲床組能直接丟洗衣機嗎？先看洗標。\n\n這次示範的是一套天絲床組。\n天絲床組的洗標常見三種寫法：可機洗、只能手洗、不可水洗；要以手上這一套的洗標為準。\n洗法不確定，先別直接丟洗衣機。帶來店裡，我們先看洗標和布料，再跟你說怎麼處理。\n\n先拍整套和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#天絲床組 #床組清洗 #寢具送洗 #台中洗衣店 #私享家洗衣店"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json#post-2026-11-07-slot-02",
@@ -3397,41 +3466,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-29.json",
       "facebook_caption": "Chanel Classic Flap 名牌小羊皮包有淺摺痕？先檢查這 2 處。\n\n私享家做精品乾洗和特殊處理：先看材質和五金再定工法，不是整件丟下去洗，洗壞的機率比一般水洗低很多。\n\n這類東西我不太看品牌，先看材質和已經有的磨損。同一個牌子用不同皮，做法就不一樣。\n\n捨不得亂試的那件，先拍一張傳 LINE，我們幫你判斷。\n\n參考價：皮包包 $1000、名牌包 $1500 起（發霉特污另計）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店",
       "instagram_caption": "Chanel Classic Flap 名牌小羊皮包有淺摺痕？先檢查這 2 處。\n\n私享家做精品乾洗和特殊處理：先看材質和五金再定工法，不是整件丟下去洗，洗壞的機率比一般水洗低很多。\n\n這類東西我不太看品牌，先看材質和已經有的磨損。同一個牌子用不同皮，做法就不一樣。\n\n捨不得亂試的那件，先拍一張私訊，我們幫你判斷。\n\n參考價：皮包包 $1000、名牌包 $1500 起（發霉特污另計）\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #洗包包 #台中洗衣店"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-28.json#post-2026-10-28-slot-02",
-      "date": "2026-10-28",
-      "date_published": "2026-10-28T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-10-28 20:30 旅行回來先處理外套與行李灰塵",
-      "topic": "旅行回來先處理外套與行李灰塵",
-      "visual_route": "customer-consultation",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#旅行後整理",
-        "#衣物清潔",
-        "#行李箱清潔"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-28/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-28/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-28.json",
-      "facebook_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔",
-      "instagram_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔"
     }
   ],
   "published_posts": [
@@ -15461,6 +15495,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-07.json",
       "facebook_caption": "雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。\n\n包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。\n\n我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包保養 #雨季保養 #包包清潔",
       "instagram_caption": "雨傘收進包裡或放在座位旁時，最容易被忽略的是包底和包角被水氣慢慢弄濕。\n\n包底濕掉後如果沒有打開通風，內袋和角落會悶出味道，皮革或帆布也可能留下水痕。\n\n我們會看包底材質、包角水痕、內袋濕氣和縫線狀態，再判斷適合除濕、清潔或局部整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍包角和內裡兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #包包保養 #雨季保養 #包包清潔"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108",
+      "date": "2026-11-08",
+      "date_published": "2026-11-08T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
+      "topic": "天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#天絲床組",
+        "#床組清洗",
+        "#寢具送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-tencel-bedding-916.mp4",
+      "facebook_caption": "天絲床組能直接丟洗衣機嗎？先看洗標。\n\n這次示範的是一套天絲床組。\n天絲床組的洗標常見三種寫法：可機洗、只能手洗、不可水洗；要以手上這一套的洗標為準。\n洗法不確定，先別直接丟洗衣機。帶來店裡，我們先看洗標和布料，再跟你說怎麼處理。\n\n先拍整套和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#天絲床組 #床組清洗 #寢具送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "天絲床組能直接丟洗衣機嗎？先看洗標。\n\n這次示範的是一套天絲床組。\n天絲床組的洗標常見三種寫法：可機洗、只能手洗、不可水洗；要以手上這一套的洗標為準。\n洗法不確定，先別直接丟洗衣機。帶來店裡，我們先看洗標和布料，再跟你說怎麼處理。\n\n先拍整套和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n本片以 AI 畫面示意送洗前的檢查重點。\n\n#天絲床組 #床組清洗 #寢具送洗 #台中洗衣店 #私享家洗衣店"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01",
