@@ -9863,6 +9863,66 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-09.json#post-2026-11-09-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-09-slot-01.html",
+      "title": "2026-11-09 11:30 羽絨外套壓扁後的蓬度判斷",
+      "date_published": "2026-11-09T11:30:00+08:00",
+      "content_text": "羽絨外套收久了變扁，不一定代表壞掉，但清潔和乾燥方式會影響它能不能回到比較舒服的蓬度。\n\n羽絨最怕洗完沒有乾透，裡面結塊或有悶味，下一次穿起來就會覺得重量不均、保暖感變差。\n\n我們會先看填充分布、表布防潑水狀態、領口袖口髒污和洗標限制，再判斷清潔與乾燥方式。\n\n羽絨外套要洗前，先拍整件、壓扁的位置和洗標，我們幫你判斷風險。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #羽絨外套清潔 #冬衣收納 #衣物保養",
+      "summary": "羽絨外套壓扁後的蓬度判斷",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-09/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "羽絨外套清潔",
+        "冬衣收納",
+        "衣物保養"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "value-prop-lead",
+        "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-09.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-09.json#post-2026-11-09-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-09-slot-02.html",
+      "title": "2026-11-09 20:30 沙發毯久放後的灰味",
+      "date_published": "2026-11-09T20:30:00+08:00",
+      "content_text": "沙發毯放久了有灰味，不一定是明顯髒污，有時候是皮屑、灰塵和室內濕氣慢慢堆出來。\n\n常蓋、常折、常靠近地板的位置會比較容易卡味道，收起來前如果沒處理，下次拿出來會更悶。\n\n我們會看毯子厚度、纖維種類、味道位置和邊角灰塵，再判斷適合清洗、除味或收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍起球處和邊緣兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #沙發毯清潔 #居家布品 #布品收納",
+      "summary": "沙發毯久放後的灰味",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-09/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "沙發毯清潔",
+        "居家布品",
+        "布品收納"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "macro-detail",
+        "traffic_route": "share-worthy-care",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-09.json"
+      }
     }
   ]
 }

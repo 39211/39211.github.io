@@ -74,7 +74,7 @@
   <url><loc>https://sixiangjialaundry.com/feed.json</loc><changefreq>daily</changefreq><!-- updates-feed --></url>
   <url><loc>https://sixiangjialaundry.com/social-posts.json</loc><changefreq>daily</changefreq><!-- post-records --></url>
   <url><loc>https://sixiangjialaundry.com/latest.json</loc><changefreq>daily</changefreq><!-- latest-package --></url>
-  <url><loc>https://sixiangjialaundry.com/posts/</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><!-- daily-article-hub --></url>
+  <url><loc>https://sixiangjialaundry.com/posts/</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><!-- daily-article-hub --></url>
   <url><loc>https://sixiangjialaundry.com/rss.xml</loc><changefreq>daily</changefreq><!-- rss-feed --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-07-02-slot-01.html</loc><lastmod>2026-09-04</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-07-02.json#post-2026-07-02-slot-01 --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-07-02-slot-02.html</loc><lastmod>2026-09-04</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-07-02.json#post-2026-07-02-slot-02 --></url>
@@ -340,6 +340,8 @@
   <url><loc>https://sixiangjialaundry.com/posts/2026-11-08-feature-reel-tencel-bedding-20261108.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><!-- feature-reel-urn:sixiangjia:feature:2026-11-08:reel-tencel-bedding-20261108 --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-11-08-slot-01.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-01 --></url>
   <url><loc>https://sixiangjialaundry.com/posts/2026-11-08-slot-02.html</loc><lastmod>2026-11-08</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-02 --></url>
+  <url><loc>https://sixiangjialaundry.com/posts/2026-11-09-slot-01.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-11-09.json#post-2026-11-09-slot-01 --></url>
+  <url><loc>https://sixiangjialaundry.com/posts/2026-11-09-slot-02.html</loc><lastmod>2026-11-09</lastmod><changefreq>daily</changefreq><!-- daily-article-https://sixiangjialaundry.com/content-calendar/2026-11-09.json#post-2026-11-09-slot-02 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png</loc><changefreq>daily</changefreq><!-- service-image-generated-product-image --></url>
   <url><loc>https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png</loc><changefreq>daily</changefreq><!-- service-image-generated-product-image --></url>
   <url><loc>https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png</loc><changefreq>daily</changefreq><!-- service-image-generated-product-image --></url>
@@ -466,6 +468,7 @@
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-11-06.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-11-07.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/content-calendar/2026-11-08.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
+  <url><loc>https://sixiangjialaundry.com/content-calendar/2026-11-09.json</loc><changefreq>daily</changefreq><!-- calendar-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-02/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-02/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-07-03/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
@@ -728,149 +731,6 @@
   <url><loc>https://sixiangjialaundry.com/assets/2026-11-07/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
   <url><loc>https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
-  <url><loc>https://sixiangjialaundry.com/</loc><lastmod>2026-10-07</lastmod><changefreq>daily</changefreq><!-- page-home --></url>
-  <url><loc>https://sixiangjialaundry.com/hubs/bag-care.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-hubs-bag-care --></url>
-  <url><loc>https://sixiangjialaundry.com/hubs/luxury-garment-care.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-hubs-luxury-garment-care --></url>
-  <url><loc>https://sixiangjialaundry.com/hubs/shoe-care.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-hubs-shoe-care --></url>
-  <url><loc>https://sixiangjialaundry.com/hubs/bedding-textile-care.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-hubs-bedding-textile-care --></url>
-  <url><loc>https://sixiangjialaundry.com/hubs/local-pickup.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><!-- page-hubs-local-pickup --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/xitun-laundry-how-to-choose.html</loc><lastmod>2026-09-25</lastmod><changefreq>daily</changefreq><!-- page-guides-xitun-laundry-how-to-choose --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-mold-treatment.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-mold-treatment --></url>
-  <url><loc>https://sixiangjialaundry.com/services/luxury-garment-cleaning.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-services-luxury-garment-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-about-sixiangjia-taichung-only --></url>
-  <url><loc>https://sixiangjialaundry.com/local/fengjia-shoe-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-local-fengjia-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/local/beitun-laundry-pickup.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-local-beitun-laundry-pickup --></url>
-  <url><loc>https://sixiangjialaundry.com/services/luxury-bag-cleaning.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-services-luxury-bag-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/services/suit-dry-cleaning.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-services-suit-dry-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/services/luggage-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-services-luggage-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/services/duvet-bedding-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-services-duvet-bedding-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/boot-shaft-cleaning.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-boot-shaft-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/wallet-cleaning-check.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-wallet-cleaning-check --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/trench-coat-cleaning.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><!-- page-guides-trench-coat-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/coin-laundry-vs-pickup.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-coin-laundry-vs-pickup --></url>
-  <url><loc>https://sixiangjialaundry.com/services/postpartum-center-laundry.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-services-postpartum-center-laundry --></url>
-  <url><loc>https://sixiangjialaundry.com/services/uniform-laundry.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-services-uniform-laundry --></url>
-  <url><loc>https://sixiangjialaundry.com/services/wool-coat-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-services-wool-coat-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/services/clinic-uniform-laundry.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-services-clinic-uniform-laundry --></url>
-  <url><loc>https://sixiangjialaundry.com/local/beitun-shoe-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-local-beitun-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/local/nantun-shoe-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-local-nantun-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/mesh-shoe-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-mesh-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-sneaker-care.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-sneaker-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-bag-care.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-bag-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/silk-garment-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-silk-garment-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/cashmere-knit-care.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-cashmere-knit-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/collar-sweat-yellow.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-collar-sweat-yellow --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/down-clump-after-wash.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-down-clump-after-wash --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/knit-shoe-cleaning.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-knit-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/patent-leather-shoe-care.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-patent-leather-shoe-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/nubuck-shoe-cleaning.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-nubuck-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/clear-sole-yellowing.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-clear-sole-yellowing --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/hiking-shoe-cleaning.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-hiking-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/sheepskin-boot-cleaning.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-sheepskin-boot-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/coated-canvas-bag-care.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-coated-canvas-bag-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/vachetta-leather-darkening.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-vachetta-leather-darkening --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/lambskin-bag-care.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-lambskin-bag-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/bag-edge-paint-cracking.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-bag-edge-paint-cracking --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/sticky-bag-lining.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-sticky-bag-lining --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/luxury-bag-storage.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-luxury-bag-storage --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/straw-bag-care.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-straw-bag-care --></url>
-  <url><loc>https://sixiangjialaundry.com/local/west-district-laundry-pickup.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-local-west-district-laundry-pickup --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-drying-heat-risk.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-drying-heat-risk --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/dry-cleaning-explained.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-dry-cleaning-explained --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/clothing-dye-transfer.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-clothing-dye-transfer --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/velvet-shoe-cleaning.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-velvet-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/satin-shoe-cleaning.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-satin-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/dress-shoe-polish-buildup.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-dress-shoe-polish-buildup --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/suede-bag-care.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-suede-bag-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/bag-hardware-tarnish.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-bag-hardware-tarnish --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/light-leather-bag-yellowing.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-light-leather-bag-yellowing --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/gore-tex-jacket-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-gore-tex-jacket-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/sleeping-bag-cleaning.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-sleeping-bag-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/linen-garment-care.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-linen-garment-care --></url>
-  <url><loc>https://sixiangjialaundry.com/services/evening-gown-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-services-evening-gown-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/services/secondhand-luxury-shop-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-services-secondhand-luxury-shop-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/services/sequin-rhinestone-clothing-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-services-sequin-rhinestone-clothing-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/services/ironing-pressing.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-services-ironing-pressing --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/spot-test-before-cleaning.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-spot-test-before-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/down-vest-cleaning.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-down-vest-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/scarf-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-scarf-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/cardigan-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-cardigan-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/kids-shoe-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-kids-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/sandal-cleaning.html</loc><lastmod>2026-10-06</lastmod><changefreq>daily</changefreq><!-- page-guides-sandal-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/high-heel-structure.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-high-heel-structure --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/denim-jeans-cleaning.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-denim-jeans-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/day-dress-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-day-dress-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/pu-leather-peeling.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-pu-leather-peeling --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/golf-shoe-cleaning.html</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><!-- page-guides-golf-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-pants-skirt.html</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-pants-skirt --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/pleated-skirt-care.html</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><!-- page-guides-pleated-skirt-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/iron-scorch-mark.html</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><!-- page-guides-iron-scorch-mark --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-insole-check.html</loc><lastmod>2026-10-12</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-insole-check --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/doll-shoe-cleaning.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><!-- page-guides-doll-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/hat-cleaning.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><!-- page-guides-hat-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-glove-care.html</loc><lastmod>2026-10-14</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-glove-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-belt-care.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-belt-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/casual-shoe-cleaning.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-casual-shoe-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/suit-pants-crease.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-suit-pants-crease --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/crossbody-bag-strap.html</loc><lastmod>2026-10-15</lastmod><changefreq>daily</changefreq><!-- page-guides-crossbody-bag-strap --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-waterproof-treatment.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-waterproof-treatment --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/rubber-rain-boot-care.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-rubber-rain-boot-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-shoe-salt-bloom.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-shoe-salt-bloom --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/insulated-down-pants-care.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-insulated-down-pants-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/bag-base-stud-check.html</loc><lastmod>2026-10-22</lastmod><changefreq>daily</changefreq><!-- page-guides-bag-base-stud-check --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-collar-foam-check.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-collar-foam-check --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-lace-eyelet-check.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-lace-eyelet-check --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-toe-cap-wear.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-toe-cap-wear --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-counter-lining-wear.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-counter-lining-wear --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/new-shoe-dye-ruboff.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><!-- page-guides-new-shoe-dye-ruboff --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/bag-clasp-stuck-check.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><!-- page-guides-bag-clasp-stuck-check --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/wool-sweater-pilling.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><!-- page-guides-wool-sweater-pilling --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-jacket-elbow-crease.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-jacket-elbow-crease --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/garment-lining-detach.html</loc><lastmod>2026-10-27</lastmod><changefreq>daily</changefreq><!-- page-guides-garment-lining-detach --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/dress-shirt-starch-risk.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-dress-shirt-starch-risk --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/blanket-vs-duvet.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-blanket-vs-duvet --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/pet-hair-on-coat.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-pet-hair-on-coat --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/how-laundry-quote-works.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-how-laundry-quote-works --></url>
-  <url><loc>https://sixiangjialaundry.com/services/office-shirt-subscription.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-services-office-shirt-subscription --></url>
-  <url><loc>https://sixiangjialaundry.com/hubs/commercial-laundry.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-hubs-commercial-laundry --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/makeup-on-bag-lining.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-makeup-on-bag-lining --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-vest-cleaning.html</loc><lastmod>2026-10-26</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-vest-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-outsole-tread-wear.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-outsole-tread-wear --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-heel-counter-collapse.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-heel-counter-collapse --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-welt-stitch-break.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-welt-stitch-break --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/bag-structure-collapse.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><!-- page-guides-bag-structure-collapse --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/bag-zipper-tape-fray.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><!-- page-guides-bag-zipper-tape-fray --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/bag-frame-gap.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><!-- page-guides-bag-frame-gap --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-bag-crease-lighten.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-bag-crease-lighten --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/knit-snag-check.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><!-- page-guides-knit-snag-check --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/coat-cuff-wear.html</loc><lastmod>2026-10-29</lastmod><changefreq>daily</changefreq><!-- page-guides-coat-cuff-wear --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/care-label-symbols-text-guide.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><!-- page-guides-care-label-symbols-text-guide --></url>
-  <url><loc>https://sixiangjialaundry.com/campaign/</loc><lastmod>2026-10-30</lastmod><changefreq>daily</changefreq><!-- page-campaign --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/prewash-self-check.html</loc><lastmod>2026-10-31</lastmod><changefreq>daily</changefreq><!-- page-guides-prewash-self-check --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/bedding-duvet-mold.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-bedding-duvet-mold --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/wool-duvet-washing.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-wool-duvet-washing --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/down-duvet-washing.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-down-duvet-washing --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/blanket-washing.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-blanket-washing --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/jacket-cleaning-price.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-jacket-cleaning-price --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/bag-cleaning-price.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-bag-cleaning-price --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/suit-water-wash-risk.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-suit-water-wash-risk --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/dry-cleaning-shrink-risk.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-dry-cleaning-shrink-risk --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/leather-shoe-cleaning-price.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-leather-shoe-cleaning-price --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/laundry-damage-risk.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-laundry-damage-risk --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/sweater-shrunk-what-now.html</loc><lastmod>2026-11-02</lastmod><changefreq>daily</changefreq><!-- page-guides-sweater-shrunk-what-now --></url>
-  <url><loc>https://sixiangjialaundry.com/booking/</loc><lastmod>2026-11-03</lastmod><changefreq>daily</changefreq><!-- page-booking --></url>
-  <url><loc>https://sixiangjialaundry.com/journal/</loc><lastmod>2026-11-03</lastmod><changefreq>daily</changefreq><!-- page-journal --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/clothing-ink-stain.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><!-- page-guides-clothing-ink-stain --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/suede-jacket-cleaning.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><!-- page-guides-suede-jacket-cleaning --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/clothing-color-fading.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><!-- page-guides-clothing-color-fading --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/waterproof-breathable-shoe-care.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><!-- page-guides-waterproof-breathable-shoe-care --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/summer-quilt-washing.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><!-- page-guides-summer-quilt-washing --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/sweater-cleaning-price.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><!-- page-guides-sweater-cleaning-price --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/mattress-protector-washing.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><!-- page-guides-mattress-protector-washing --></url>
-  <url><loc>https://sixiangjialaundry.com/guides/shoe-insole-machine-wash.html</loc><lastmod>2026-11-05</lastmod><changefreq>daily</changefreq><!-- page-guides-shoe-insole-machine-wash --></url>
-  <url><loc>https://sixiangjialaundry.com/journal/2026-11/</loc><changefreq>daily</changefreq><!-- page-journal-2026-11 --></url>
-  <url><loc>https://sixiangjialaundry.com/journal/2026-10/</loc><changefreq>daily</changefreq><!-- page-journal-2026-10 --></url>
-  <url><loc>https://sixiangjialaundry.com/journal/2026-09/</loc><changefreq>daily</changefreq><!-- page-journal-2026-09 --></url>
-  <url><loc>https://sixiangjialaundry.com/journal/2026-08/</loc><changefreq>daily</changefreq><!-- page-journal-2026-08 --></url>
-  <url><loc>https://sixiangjialaundry.com/journal/2026-07/</loc><changefreq>daily</changefreq><!-- page-journal-2026-07 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-11-09/slot-01.png</loc><changefreq>daily</changefreq><!-- image-slot-1 --></url>
+  <url><loc>https://sixiangjialaundry.com/assets/2026-11-09/slot-02.png</loc><changefreq>daily</changefreq><!-- image-slot-2 --></url>
 </urlset>
