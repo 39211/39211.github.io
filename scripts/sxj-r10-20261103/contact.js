@@ -21,7 +21,7 @@
  function open(url,{source='website-line',preview=!!window.SXJ_PREVIEW,from=null}={}){
   if(!isLine(url))return;
   document.querySelectorAll('dialog[open] video').forEach(v=>v.pause());
-  window.gtag?.('event','line_click',{source,link_source:source,transport_type:'beacon'});
+  window.gtag?.('event','line_click',{link_source:source,transport_type:'beacon'});
   if(mobile()&&!preview){location.href=url;return;}
   create();if(!dialog.open)trigger=from||document.activeElement;
   let text='你好，我想詢問洗護與預約收送，我會傳照片請你們評估。';
