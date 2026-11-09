@@ -4,7 +4,7 @@
   const $=(s,r=document)=>r.querySelector(s), $$=(s,r=document)=>[...r.querySelectorAll(s)];
   const core=window.BookingCore;
   const reduced=matchMedia('(prefers-reduced-motion: reduce)');
-  const track=(event,source)=>window.gtag?.('event',event,{link_source:source,transport_type:'beacon'});
+  const track=(event,source)=>window.gtag?.('event',event,{source,link_source:source,transport_type:'beacon'});
   const parts=Object.fromEntries(new Intl.DateTimeFormat('en-GB',{timeZone:'Asia/Taipei',year:'numeric',month:'2-digit',day:'2-digit',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).formatToParts(new Date()).map(p=>[p.type,p.value]));
   const day=`${parts.year}-${parts.month}-${parts.day}`,campaign=core.campaign(day),season=$('[data-season-bar]');
   if(season&&campaign){
