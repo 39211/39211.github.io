@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-09T13:15:05.515Z
+- Generated at: 2026-11-09T22:33:44.319Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -470,6 +470,8 @@
     "https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-09/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-09/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-11-10/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-11-10/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -14433,4 +14435,98 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #沙發毯清潔 #居家布品 #布品收納
+
+### 2026-11-10 11:30 抱枕布套飲料痕與局部色差
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-10.json#post-2026-11-10-slot-01
+- published local time: 2026-11-10T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: macro-detail
+- traffic_route: dwell-detail
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #布品清潔 #抱枕清潔 #居家保養
+- image: https://sixiangjialaundry.com/assets/2026-11-10/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-10.json
+
+Facebook caption:
+
+抱枕布套如果有飲料痕，最怕的是當下擦一擦看起來淡了，乾掉後才留下局部色差。
+
+沙發布、抱枕布和填充物吸水速度不同，髒污如果擴散到縫線或內層，處理方式就不能只看表面。
+
+我們會先看布套能不能拆、材質是否會褪色、飲料痕停留多久，再判斷適合局部處理或整件清潔。
+
+抱枕有痕跡時，先拍污漬、縫線和洗標，我們再幫你判斷。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #布品清潔 #抱枕清潔 #居家保養
+
+Instagram caption:
+
+抱枕布套如果有飲料痕，最怕的是當下擦一擦看起來淡了，乾掉後才留下局部色差。
+
+沙發布、抱枕布和填充物吸水速度不同，髒污如果擴散到縫線或內層，處理方式就不能只看表面。
+
+我們會先看布套能不能拆、材質是否會褪色、飲料痕停留多久，再判斷適合局部處理或整件清潔。
+
+抱枕有痕跡時，先拍污漬、縫線和洗標，我們再幫你判斷。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #布品清潔 #抱枕清潔 #居家保養
+
+### 2026-11-10 20:30 雨季後第一件要整理的鞋包
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-10.json#post-2026-11-10-slot-02
+- published local time: 2026-11-10T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-11-10/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-10.json
+
+Facebook caption:
+
+雨季過後，不一定要全部鞋包一起整理，先挑最常穿、最常背、最有味道的那幾件看就好。
+
+真正需要優先處理的通常是白鞋、通勤鞋、上班包和常用外套，因為它們每天接觸濕氣、手汗和路面灰。
+
+我們會先看使用頻率、材質、味道和邊角痕跡，幫你判斷哪些值得先整理，哪些可以再觀察。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍鞋底和包角兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店
+
+Instagram caption:
+
+雨季過後，不一定要全部鞋包一起整理，先挑最常穿、最常背、最有味道的那幾件看就好。
+
+真正需要優先處理的通常是白鞋、通勤鞋、上班包和常用外套，因為它們每天接觸濕氣、手汗和路面灰。
+
+我們會先看使用頻率、材質、味道和邊角痕跡，幫你判斷哪些值得先整理，哪些可以再觀察。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍鞋底和包角兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店
 

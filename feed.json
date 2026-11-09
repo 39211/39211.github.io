@@ -9954,6 +9954,66 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-09.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-10.json#post-2026-11-10-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-10-slot-01.html",
+      "title": "2026-11-10 11:30 抱枕布套飲料痕與局部色差",
+      "date_published": "2026-11-10T11:30:00+08:00",
+      "content_text": "抱枕布套如果有飲料痕，最怕的是當下擦一擦看起來淡了，乾掉後才留下局部色差。\n\n沙發布、抱枕布和填充物吸水速度不同，髒污如果擴散到縫線或內層，處理方式就不能只看表面。\n\n我們會先看布套能不能拆、材質是否會褪色、飲料痕停留多久，再判斷適合局部處理或整件清潔。\n\n抱枕有痕跡時，先拍污漬、縫線和洗標，我們再幫你判斷。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #布品清潔 #抱枕清潔 #居家保養",
+      "summary": "抱枕布套飲料痕與局部色差",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-10/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "布品清潔",
+        "抱枕清潔",
+        "居家保養"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "macro-detail",
+        "traffic_route": "dwell-detail",
+        "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-10.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-10.json#post-2026-11-10-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-10-slot-02.html",
+      "title": "2026-11-10 20:30 雨季後第一件要整理的鞋包",
+      "date_published": "2026-11-10T20:30:00+08:00",
+      "content_text": "雨季過後，不一定要全部鞋包一起整理，先挑最常穿、最常背、最有味道的那幾件看就好。\n\n真正需要優先處理的通常是白鞋、通勤鞋、上班包和常用外套，因為它們每天接觸濕氣、手汗和路面灰。\n\n我們會先看使用頻率、材質、味道和邊角痕跡，幫你判斷哪些值得先整理，哪些可以再觀察。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋底和包角兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店",
+      "summary": "雨季後第一件要整理的鞋包",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-10/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "雨季後整理",
+        "鞋包清潔",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "value-prop-lead",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-10.json"
+      }
     }
   ]
 }

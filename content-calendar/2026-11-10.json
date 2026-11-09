@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-10",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-11-06T22:30:07.317Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "抱枕布套飲料痕與局部色差",
+      "media_type": "image",
+      "instagram_caption": "抱枕布套如果有飲料痕，最怕的是當下擦一擦看起來淡了，乾掉後才留下局部色差。\n\n沙發布、抱枕布和填充物吸水速度不同，髒污如果擴散到縫線或內層，處理方式就不能只看表面。\n\n我們會先看布套能不能拆、材質是否會褪色、飲料痕停留多久，再判斷適合局部處理或整件清潔。\n\n抱枕有痕跡時，先拍污漬、縫線和洗標，我們再幫你判斷。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #布品清潔 #抱枕清潔 #居家保養",
+      "facebook_caption": "抱枕布套如果有飲料痕，最怕的是當下擦一擦看起來淡了，乾掉後才留下局部色差。\n\n沙發布、抱枕布和填充物吸水速度不同，髒污如果擴散到縫線或內層，處理方式就不能只看表面。\n\n我們會先看布套能不能拆、材質是否會褪色、飲料痕停留多久，再判斷適合局部處理或整件清潔。\n\n抱枕有痕跡時，先拍污漬、縫線和洗標，我們再幫你判斷。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #布品清潔 #抱枕清潔 #居家保養",
+      "image_prompt": "Realistic square shop photo at a laundry inspection counter: cushion cover with a faint drink stain, seam detail visible, staff hand holding fabric edge, soft daylight, clean premium documentary style, no logo, no readable text.",
+      "visual_route": "macro-detail",
+      "traffic_route": "dwell-detail",
+      "content_role": "reach-answer",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-10/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-10/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "雨季後第一件要整理的鞋包",
+      "media_type": "image",
+      "instagram_caption": "雨季過後，不一定要全部鞋包一起整理，先挑最常穿、最常背、最有味道的那幾件看就好。\n\n真正需要優先處理的通常是白鞋、通勤鞋、上班包和常用外套，因為它們每天接觸濕氣、手汗和路面灰。\n\n我們會先看使用頻率、材質、味道和邊角痕跡，幫你判斷哪些值得先整理，哪些可以再觀察。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋底和包角兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店",
+      "facebook_caption": "雨季過後，不一定要全部鞋包一起整理，先挑最常穿、最常背、最有味道的那幾件看就好。\n\n真正需要優先處理的通常是白鞋、通勤鞋、上班包和常用外套，因為它們每天接觸濕氣、手汗和路面灰。\n\n我們會先看使用頻率、材質、味道和邊角痕跡，幫你判斷哪些值得先整理，哪些可以再觀察。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋底和包角兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店",
+      "image_prompt": "Realistic square shop photo: a small selection of shoes, handbag, and jacket arranged on a clean care counter for prioritizing after rainy season, staff hand comparing items, premium documentary lighting, no readable text, no logo.",
+      "visual_route": "customer-consultation",
+      "traffic_route": "value-prop-lead",
+      "content_role": "evidence-conversion",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-10/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-10/slot-02.png",
+      "status": "pending"
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "91104fd5d1abb16c"
+}
