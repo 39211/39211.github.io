@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-09T05:00:08.208Z
+- Generated at: 2026-11-09T13:15:05.515Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -467,6 +467,7 @@
     "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
+    "https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-09/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-09/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -14297,6 +14298,47 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #外套清潔 #衣物除味 #上班族保養
+
+### 換季收納前，先看領口、袖口、腋下｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-11-09:reel-change-season-20261109
+- published local time: 2026-11-09T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店
+- image: https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+換季收納前，先看這三個地方：領口、袖口、腋下。
+
+這次示範的是一件米白色棉麻襯衫。
+看起來乾淨的衣服，翻開領口內側、袖口邊緣和腋下，常留著汗和皮脂；收著放久，衣服可能發黃。
+污漬先評估，再依洗標和材質清潔；洗好要完全乾透，領台、接縫這些厚的地方也要乾，再裝袋、放乾燥處。
+
+先拍整件、洗標和這三個地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店
+
+Instagram caption:
+
+換季收納前，先看這三個地方：領口、袖口、腋下。
+
+這次示範的是一件米白色棉麻襯衫。
+看起來乾淨的衣服，翻開領口內側、袖口邊緣和腋下，常留著汗和皮脂；收著放久，衣服可能發黃。
+污漬先評估，再依洗標和材質清潔；洗好要完全乾透，領台、接縫這些厚的地方也要乾，再裝袋、放乾燥處。
+
+先拍整件、洗標和這三個地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店
 
 ### 2026-11-09 11:30 羽絨外套壓扁後的蓬度判斷
 

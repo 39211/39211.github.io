@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-11-09T05:00:08.208Z",
+  "generated_at": "2026-11-09T13:15:05.515Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -710,6 +710,7 @@
       "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
+      "https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-09/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-09/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -2210,10 +2211,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 266,
+      "indexable_article_count": 267,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 266
+      "article_count": 267
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2226,18 +2227,52 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 276,
+    "post_count": 277,
     "latest_date": "2026-11-09",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": false,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 174,
+    "posts_with_search_intent": 175,
     "posts_with_target_queries": 164,
-    "posts_with_evidence_type": 150
+    "posts_with_evidence_type": 151
   },
   "latest_date": "2026-11-09",
   "latest_posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-09:reel-change-season-20261109",
+      "date": "2026-11-09",
+      "date_published": "2026-11-09T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "換季收納前，先看領口、袖口、腋下｜私享家洗衣店",
+      "topic": "換季收納前，先看領口、袖口、腋下｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#換季收納",
+        "#衣服發黃",
+        "#衣物送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-change-season-916.mp4",
+      "facebook_caption": "換季收納前，先看這三個地方：領口、袖口、腋下。\n\n這次示範的是一件米白色棉麻襯衫。\n看起來乾淨的衣服，翻開領口內側、袖口邊緣和腋下，常留著汗和皮脂；收著放久，衣服可能發黃。\n污漬先評估，再依洗標和材質清潔；洗好要完全乾透，領台、接縫這些厚的地方也要乾，再裝袋、放乾燥處。\n\n先拍整件、洗標和這三個地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "換季收納前，先看這三個地方：領口、袖口、腋下。\n\n這次示範的是一件米白色棉麻襯衫。\n看起來乾淨的衣服，翻開領口內側、袖口邊緣和腋下，常留著汗和皮脂；收著放久，衣服可能發黃。\n污漬先評估，再依洗標和材質清潔；洗好要完全乾透，領台、接縫這些厚的地方也要乾，再裝袋、放乾燥處。\n\n先拍整件、洗標和這三個地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-09.json#post-2026-11-09-slot-01",
       "date": "2026-11-09",
@@ -2379,6 +2414,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-09.json",
       "facebook_caption": "羽絨外套收久了變扁，不一定代表壞掉，但清潔和乾燥方式會影響它能不能回到比較舒服的蓬度。\n\n羽絨最怕洗完沒有乾透，裡面結塊或有悶味，下一次穿起來就會覺得重量不均、保暖感變差。\n\n我們會先看填充分布、表布防潑水狀態、領口袖口髒污和洗標限制，再判斷清潔與乾燥方式。\n\n羽絨外套要洗前，先拍整件、壓扁的位置和洗標，我們幫你判斷風險。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #羽絨外套清潔 #冬衣收納 #衣物保養",
       "instagram_caption": "羽絨外套收久了變扁，不一定代表壞掉，但清潔和乾燥方式會影響它能不能回到比較舒服的蓬度。\n\n羽絨最怕洗完沒有乾透，裡面結塊或有悶味，下一次穿起來就會覺得重量不均、保暖感變差。\n\n我們會先看填充分布、表布防潑水狀態、領口袖口髒污和洗標限制，再判斷清潔與乾燥方式。\n\n羽絨外套要洗前，先拍整件、壓扁的位置和洗標，我們幫你判斷風險。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #羽絨外套清潔 #冬衣收納 #衣物保養"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-09:reel-change-season-20261109",
+      "date": "2026-11-09",
+      "date_published": "2026-11-09T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "換季收納前，先看領口、袖口、腋下｜私享家洗衣店",
+      "topic": "換季收納前，先看領口、袖口、腋下｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#換季收納",
+        "#衣服發黃",
+        "#衣物送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-change-season-916.mp4",
+      "facebook_caption": "換季收納前，先看這三個地方：領口、袖口、腋下。\n\n這次示範的是一件米白色棉麻襯衫。\n看起來乾淨的衣服，翻開領口內側、袖口邊緣和腋下，常留著汗和皮脂；收著放久，衣服可能發黃。\n污漬先評估，再依洗標和材質清潔；洗好要完全乾透，領台、接縫這些厚的地方也要乾，再裝袋、放乾燥處。\n\n先拍整件、洗標和這三個地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "換季收納前，先看這三個地方：領口、袖口、腋下。\n\n這次示範的是一件米白色棉麻襯衫。\n看起來乾淨的衣服，翻開領口內側、袖口邊緣和腋下，常留著汗和皮脂；收著放久，衣服可能發黃。\n污漬先評估，再依洗標和材質清潔；洗好要完全乾透，領台、接縫這些厚的地方也要乾，再裝袋、放乾燥處。\n\n先拍整件、洗標和這三個地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json#post-2026-11-08-slot-02",
@@ -3378,50 +3447,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-30.json",
       "facebook_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍整體和最在意的位置兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店",
       "instagram_caption": "週末大掃除整理出來的布品，不建議全部塞同一袋，棉被、外套、抱枕的髒污來源不一樣。\n\n有些是睡眠味、有些是灰塵、有些是飲料或手汗痕，混在一起送洗前也比較難判斷處理順序。\n\n我們會在櫃台先分材質、厚度、味道和髒污位置，確認哪些適合一起整理，哪些需要分開處理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍整體和最在意的位置兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #布品收納 #大掃除整理 #台中洗衣店"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-10-30.json#post-2026-10-30-slot-01",
-      "date": "2026-10-30",
-      "date_published": "2026-10-30T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-10-30 11:30 連日濕冷，衣服晾幾天仍不乾？先摸衣身和接縫這 2 處",
-      "topic": "連日濕冷，衣服晾幾天仍不乾？先摸衣身和接縫這 2 處",
-      "visual_route": "macro-detail",
-      "traffic_route": "object-proof",
-      "content_role": "reach-answer",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "西屯寢具清洗",
-        "台中羽絨被送洗",
-        "台中外套清洗",
-        "棉被有潮味怎麼辦"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#衣物送洗",
-        "#台中洗衣店"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-10-30/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-10-30/slot-01.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-10-30.json",
-      "facebook_caption": "連日濕冷，衣服晾幾天仍不乾？先摸衣身和接縫這 2 處。\n\n衣服收起來之前那一下沒檢查，下次拿出來通常就是味道的來源。\n\n我會先看髒污停在哪一層。浮在表面的和吃進纖維的，處理方式差很多。\n\n不確定該怎麼處理？拍一張傳 LINE給我們，先幫你看方向。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店",
-      "instagram_caption": "連日濕冷，衣服晾幾天仍不乾？先摸衣身和接縫這 2 處。\n\n衣服收起來之前那一下沒檢查，下次拿出來通常就是味道的來源。\n\n我會先看髒污停在哪一層。浮在表面的和吃進纖維的，處理方式差很多。\n\n不確定該怎麼處理？拍一張私訊給我們，先幫你看方向。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #衣物送洗 #台中洗衣店"
     }
   ],
   "published_posts": [
@@ -15555,6 +15580,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-08.json",
       "facebook_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養",
       "instagram_caption": "常放辦公室的冷氣房外套，不一定每天都髒，但領口、肩線和內裡會慢慢累積味道。\n\n冷氣房乾、通勤濕，外套在兩種環境來回，味道和汗痕會留在接觸皮膚的位置。\n\n我們會看領口、袖口、肩線和內裡材質，再判斷要局部處理、整件清潔，還是收納前整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #外套清潔 #衣物除味 #上班族保養"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-09:reel-change-season-20261109",
+      "date": "2026-11-09",
+      "date_published": "2026-11-09T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "換季收納前，先看領口、袖口、腋下｜私享家洗衣店",
+      "topic": "換季收納前，先看領口、袖口、腋下｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#換季收納",
+        "#衣服發黃",
+        "#衣物送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-change-season-916.mp4",
+      "facebook_caption": "換季收納前，先看這三個地方：領口、袖口、腋下。\n\n這次示範的是一件米白色棉麻襯衫。\n看起來乾淨的衣服，翻開領口內側、袖口邊緣和腋下，常留著汗和皮脂；收著放久，衣服可能發黃。\n污漬先評估，再依洗標和材質清潔；洗好要完全乾透，領台、接縫這些厚的地方也要乾，再裝袋、放乾燥處。\n\n先拍整件、洗標和這三個地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "換季收納前，先看這三個地方：領口、袖口、腋下。\n\n這次示範的是一件米白色棉麻襯衫。\n看起來乾淨的衣服，翻開領口內側、袖口邊緣和腋下，常留著汗和皮脂；收著放久，衣服可能發黃。\n污漬先評估，再依洗標和材質清潔；洗好要完全乾透，領台、接縫這些厚的地方也要乾，再裝袋、放乾燥處。\n\n先拍整件、洗標和這三個地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-09.json#post-2026-11-09-slot-01",

@@ -375,6 +375,7 @@
         "https://i.ytimg.com/vi/y99XlWOQkRo/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-08/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
+        "https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-09/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-09/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -16067,6 +16068,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-08/slot-02.png",
       "caption": "冷氣房外套的味道累積",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-09:reel-change-season-20261109",
+      "headline": "換季收納前，先看領口、袖口、腋下｜私享家洗衣店",
+      "text": "換季收納前，先看這三個地方：領口、袖口、腋下。\n\n這次示範的是一件米白色棉麻襯衫。\n看起來乾淨的衣服，翻開領口內側、袖口邊緣和腋下，常留著汗和皮脂；收著放久，衣服可能發黃。\n污漬先評估，再依洗標和材質清潔；洗好要完全乾透，領台、接縫這些厚的地方也要乾，再裝袋、放乾燥處。\n\n先拍整件、洗標和這三個地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#換季收納 #衣服發黃 #衣物送洗 #台中洗衣店 #私享家洗衣店",
+      "datePublished": "2026-11-09T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#換季收納",
+        "#衣服發黃",
+        "#衣物送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-09:reel-change-season-20261109:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-09:reel-change-season-20261109"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-09:reel-change-season-20261109:image",
+      "contentUrl": "https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/B11NlB3fH5w/hqdefault.jpg",
+      "caption": "換季收納前，先看領口、袖口、腋下｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {
