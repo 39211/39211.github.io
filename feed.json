@@ -10014,6 +10014,66 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-10.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-11.json#post-2026-11-11-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-11-slot-01.html",
+      "title": "2026-11-11 11:30 襯衫腋下汗漬與布料發黃",
+      "date_published": "2026-11-11T11:30:00+08:00",
+      "content_text": "襯衫腋下如果開始有黃痕，通常不是洗一次就能完全看結果，要先判斷汗漬停留多久和布料狀態。\n\n汗、止汗產品和洗滌殘留混在一起，會讓腋下布料變硬或變黃，太強的處理也可能傷到纖維。\n\n我們會先看襯衫材質、腋下色差、布料脆化程度和領口袖口狀態，再決定適合局部加強或整件處理。\n\n襯衫發黃時，可以拍腋下、領口和洗標，我們先幫你看可處理程度。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #襯衫清潔 #汗漬處理 #衣物保養",
+      "summary": "襯衫腋下汗漬與布料發黃",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-11/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "襯衫清潔",
+        "汗漬處理",
+        "衣物保養"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "trust-reset",
+        "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-11.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-11.json#post-2026-11-11-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-11-slot-02.html",
+      "title": "2026-11-11 20:30 雨後鞋櫃收納前的小檢查",
+      "date_published": "2026-11-11T20:30:00+08:00",
+      "content_text": "雨後回家，把鞋子直接收進鞋櫃前，可以先看鞋底邊和鞋內是不是還有濕氣。\n\n很多味道不是當天就出現，而是濕氣悶在鞋內幾天後才變明顯，鞋櫃也會跟著有悶味。\n\n我們會看鞋底邊泥灰、鞋墊濕度、鞋面材質和內裡氣味，再判斷需要通風、除味，還是送來做清潔。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #雨季保養 #鞋櫃保養 #鞋子清潔",
+      "summary": "雨後鞋櫃收納前的小檢查",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "雨季保養",
+        "鞋櫃保養",
+        "鞋子清潔"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "value-prop-lead",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-11.json"
+      }
     }
   ]
 }

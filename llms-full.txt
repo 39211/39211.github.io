@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-10T13:15:05.934Z
+- Generated at: 2026-11-10T22:33:38.512Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -472,6 +472,8 @@
     "https://sixiangjialaundry.com/assets/2026-11-09/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-11-10/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-10/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-11-11/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -14529,4 +14531,98 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店
+
+### 2026-11-11 11:30 襯衫腋下汗漬與布料發黃
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-11.json#post-2026-11-11-slot-01
+- published local time: 2026-11-11T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: trust-reset
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #襯衫清潔 #汗漬處理 #衣物保養
+- image: https://sixiangjialaundry.com/assets/2026-11-11/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-11.json
+
+Facebook caption:
+
+襯衫腋下如果開始有黃痕，通常不是洗一次就能完全看結果，要先判斷汗漬停留多久和布料狀態。
+
+汗、止汗產品和洗滌殘留混在一起，會讓腋下布料變硬或變黃，太強的處理也可能傷到纖維。
+
+我們會先看襯衫材質、腋下色差、布料脆化程度和領口袖口狀態，再決定適合局部加強或整件處理。
+
+襯衫發黃時，可以拍腋下、領口和洗標，我們先幫你看可處理程度。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #襯衫清潔 #汗漬處理 #衣物保養
+
+Instagram caption:
+
+襯衫腋下如果開始有黃痕，通常不是洗一次就能完全看結果，要先判斷汗漬停留多久和布料狀態。
+
+汗、止汗產品和洗滌殘留混在一起，會讓腋下布料變硬或變黃，太強的處理也可能傷到纖維。
+
+我們會先看襯衫材質、腋下色差、布料脆化程度和領口袖口狀態，再決定適合局部加強或整件處理。
+
+襯衫發黃時，可以拍腋下、領口和洗標，我們先幫你看可處理程度。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #襯衫清潔 #汗漬處理 #衣物保養
+
+### 2026-11-11 20:30 雨後鞋櫃收納前的小檢查
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-11.json#post-2026-11-11-slot-02
+- published local time: 2026-11-11T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: value-prop-lead
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #雨季保養 #鞋櫃保養 #鞋子清潔
+- image: https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-11.json
+
+Facebook caption:
+
+雨後回家，把鞋子直接收進鞋櫃前，可以先看鞋底邊和鞋內是不是還有濕氣。
+
+很多味道不是當天就出現，而是濕氣悶在鞋內幾天後才變明顯，鞋櫃也會跟著有悶味。
+
+我們會看鞋底邊泥灰、鞋墊濕度、鞋面材質和內裡氣味，再判斷需要通風、除味，還是送來做清潔。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍鞋面和鞋底兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #雨季保養 #鞋櫃保養 #鞋子清潔
+
+Instagram caption:
+
+雨後回家，把鞋子直接收進鞋櫃前，可以先看鞋底邊和鞋內是不是還有濕氣。
+
+很多味道不是當天就出現，而是濕氣悶在鞋內幾天後才變明顯，鞋櫃也會跟著有悶味。
+
+我們會看鞋底邊泥灰、鞋墊濕度、鞋面材質和內裡氣味，再判斷需要通風、除味，還是送來做清潔。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍鞋面和鞋底兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #雨季保養 #鞋櫃保養 #鞋子清潔
 
