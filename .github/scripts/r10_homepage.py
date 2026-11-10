@@ -31,6 +31,16 @@ def media_url(value):
     if u.scheme=='https' and u.hostname in ('sixiangjialaundry.com','i.ytimg.com'):return value
     return ''
 
+def card_image(site_root,image):
+    """Use an existing daily WebP on homepage cards only; keep original feeds/media."""
+    u=urlsplit(image)
+    if u.netloc and (u.scheme!='https' or u.netloc!='sixiangjialaundry.com'):return image
+    if u.query or u.fragment or not re.fullmatch(r'/assets/\d{4}-\d{2}-\d{2}/slot-\d{2}\.png',u.path):return image
+    derivative=u.path[:-4]+'.webp'
+    root=Path(site_root).resolve();target=(root/derivative.lstrip('/')).resolve()
+    if not target.is_relative_to(root) or not target.is_file():return image
+    return u._replace(path=derivative).geturl()
+
 def recent_cards(site_root,template):
     root=Path(site_root)
     seed_path=root/'scripts/sxj-r10-20261103/r6-posts.json'
@@ -43,8 +53,8 @@ def recent_cards(site_root,template):
     cards=[]
     for p in chosen:
         article='/'+p['article_path'].lstrip('/');o=old.get(article,{})
-        title=o.get('title') or p.get('topic') or p.get('title') or '洗護紀錄'
-        image=media_url(o.get('image') or p.get('image_url'))
+        title=p.get('editorial_title') or o.get('title') or p.get('topic') or p.get('title') or '洗護紀錄'
+        image=card_image(root,media_url(o.get('image') or p.get('image_url')))
         alt=o.get('imageAlt') or '洗護圖文配圖；來源與說明請見完整紀錄'
         pic=f'<img src="{escape(image,quote=True)}" alt="{escape(alt,quote=True)}" loading="lazy" width="800" height="800"/>' if image else '<span class="r6-missing-photo">洗護紀錄</span>'
         note='<small class="r7-source-note">情境示意</small>' if '示意' in alt or 'AI' in alt else ''
@@ -73,7 +83,7 @@ def journal_pages(site_root):
         nav+='</nav>';cards=[]
         for p in selected:
             article='/'+p['article_path'].lstrip('/');o=old.get(article,{})
-            name=o.get('title') or p.get('topic') or p.get('title') or '洗護紀錄'
+            name=p.get('editorial_title') or o.get('title') or p.get('topic') or p.get('title') or '洗護紀錄'
             image=media_url(o.get('image') or p.get('image_url'))
             alt=o.get('imageAlt') or '洗護圖文配圖；來源與說明請見完整紀錄'
             pic=f'<img src="{escape(image,quote=True)}" alt="{escape(alt,quote=True)}" loading="lazy" width="800" height="800"/>' if image else ''
@@ -88,7 +98,7 @@ def journal_pages(site_root):
         items=[]
         for position,p in enumerate(selected,1):
             article='/'+p['article_path'].lstrip('/');o=old.get(article,{})
-            items.append({'@type':'ListItem','position':position,'url':'https://sixiangjialaundry.com'+article,'name':o.get('title') or p.get('topic') or p.get('title') or '洗護紀錄'})
+            items.append({'@type':'ListItem','position':position,'url':'https://sixiangjialaundry.com'+article,'name':p.get('editorial_title') or o.get('title') or p.get('topic') or p.get('title') or '洗護紀錄'})
         schema={'@context':'https://schema.org','@type':'CollectionPage','name':title,'url':canonical,'mainEntity':{'@type':'ItemList','itemListElement':items}}
         encoded=json.dumps(schema,ensure_ascii=True,separators=(',',':')).replace('<','\\u003c')
         def update_schema(match):
@@ -111,3 +121,4 @@ def render_journals(site_root):
         if url not in existing:added.append(f'  <url><loc>{url}</loc></url>')
     if added:sitemap.write_text(raw.replace('</urlset>','\n'.join(added)+'\n</urlset>'),encoding='utf-8')
     return pages
+
