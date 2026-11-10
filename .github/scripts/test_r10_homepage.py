@@ -99,6 +99,26 @@ class R10Tests(unittest.TestCase):
         self.assertIn(b'Corrected title',pages['journal/index.html'])
         self.assertEqual(before,(self.root/'social-posts.json').read_bytes())
 
+    def test_full_merge_verify_keeps_date_pair_and_detects_tampering(self):
+        from seo_overlay_merge import merge, verify
+        self.rows=[{'article_path':'posts/2026-11-10-slot-01.html','date':'2026-11-10','topic':'Latest'}];self.write()
+        template=self.template.replace(b'<body',b'<script type="application/ld+json">{"@type":"WebPage","url":"https://sixiangjialaundry.com/","dateModified":"2026-11-03"}</script><body')
+        sitemap=b'<urlset><url><loc>https://sixiangjialaundry.com/</loc><lastmod>2026-11-03</lastmod></url></urlset>'
+        generated=self.root/'_generated';generated.mkdir()
+        overrides=self.root/'_overrides';overrides.mkdir()
+        for folder in (self.root,generated,overrides):
+            (folder/'index.html').write_bytes(template)
+            (folder/'sitemap.xml').write_bytes(sitemap)
+        merge(self.root,generated,overrides);verify(self.root,overrides,generated)
+        html=(self.root/'index.html').read_bytes();xml=(self.root/'sitemap.xml').read_bytes()
+        self.assertIn(b'"dateModified":"2026-11-10"',html)
+        self.assertIn(b'<lastmod>2026-11-10</lastmod>',xml)
+        merge(self.root,generated,overrides);verify(self.root,overrides,generated)
+        self.assertEqual(html,(self.root/'index.html').read_bytes())
+        (self.root/'sitemap.xml').write_bytes(xml.replace(b'<lastmod>2026-11-10</lastmod>',b'<lastmod>2026-11-03</lastmod>'))
+        with self.assertRaisesRegex(ValueError,'Homepage sitemap content date mismatch'):
+            verify(self.root,overrides,generated)
+
     def test_bad_index_blocks_release(self):
         (self.root/'social-posts.json').write_text('{bad')
         with self.assertRaises(ValueError):homepage_result(self.template,b'legacy',self.root)
