@@ -6,6 +6,7 @@ HTML and the override sitemap are edited as bytes, never reserialized.
 
 import argparse
 from r10_homepage import is_r10, recent_cards, render_journals, journal_pages
+from homepage_content_dates import sync_homepage_dates
 from html.parser import HTMLParser
 from pathlib import Path
 import re
@@ -200,6 +201,10 @@ def merge(site_root, generated, override_src):
     generated_raw = (generated / "index.html").read_bytes()
     homepage, mergeable, reason = homepage_result(main_raw, generated_raw, site_root)
     sitemap, added = merged_sitemap(site_root, generated)
+    if is_r10(homepage):
+        homepage, sitemap, date_reason = sync_homepage_dates(homepage, sitemap)
+        if date_reason:
+            print(f"::warning::homepage content dates unchanged: {date_reason}")
     (site_root / "index.html").write_bytes(homepage)
     (site_root / "sitemap.xml").write_bytes(sitemap)
     if is_r10(homepage):
@@ -242,6 +247,10 @@ def verify(site_root, override_src, generated):
             raise ValueError(f"Post is not indexable: {url}")
     expected, mergeable, _ = homepage_result((override_src / "index.html").read_bytes(),
                                            (generated / "index.html").read_bytes(), site_root)
+    if is_r10(expected):
+        expected, expected_sitemap, _ = sync_homepage_dates(expected, (site_root / "sitemap.xml").read_bytes())
+        if expected_sitemap != (site_root / "sitemap.xml").read_bytes():
+            raise ValueError("Homepage sitemap content date mismatch")
     if (site_root / "index.html").read_bytes() != expected:
         state = "merged region or SEO desk bytes" if mergeable else "unchanged SEO desk fallback"
         raise ValueError(f"Homepage mismatch: {state}")

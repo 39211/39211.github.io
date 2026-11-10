@@ -1,6 +1,6 @@
 import json, re, tempfile, unittest
 from pathlib import Path
-from r10_homepage import recent_cards, records, render_journals, journal_pages
+from r10_homepage import recent_cards, records, render_journals, journal_pages, card_image
 from seo_overlay_merge import homepage_result
 
 class R10Tests(unittest.TestCase):
@@ -61,6 +61,63 @@ class R10Tests(unittest.TestCase):
         nov=pages['journal/2026-11/index.html'].decode('utf-8')
         self.assertIn('Original https://sixiangjialaundry.com/journal/',nov)
         self.assertEqual(pages,journal_pages(self.root))
+
+    def test_card_derivative_requires_real_local_file(self):
+        original='https://sixiangjialaundry.com/assets/2026-11-10/slot-01.png'
+        self.assertEqual(card_image(self.root,original),original)
+        target=self.root/'assets/2026-11-10/slot-01.webp'
+        target.parent.mkdir(parents=True);target.write_bytes(b'fixture')
+        self.assertEqual(card_image(self.root,original),original.replace('.png','.webp'))
+        self.assertEqual(card_image(self.root,'/assets/2026-11-10/slot-01.png'),'/assets/2026-11-10/slot-01.webp')
+        for value in ['https://i.ytimg.com/vi/id/hqdefault.jpg','https://other.example/assets/2026-11-10/slot-01.png',original+'?v=1',original+'#crop','/assets/services/a.png']:
+            self.assertEqual(card_image(self.root,value),value)
+    def test_only_home_cards_use_webp_journal_and_index_keep_original(self):
+        original='https://sixiangjialaundry.com/assets/2026-11-10/slot-01.png'
+        target=self.root/'assets/2026-11-10/slot-01.webp'
+        target.parent.mkdir(parents=True);target.write_bytes(b'fixture')
+        self.rows=[{'article_path':'posts/2026-11-10-slot-01.html','date':'2026-11-10','topic':'Latest','image_url':original}];self.write()
+        before=(self.root/'social-posts.json').read_bytes()
+        self.assertIn(original.replace('.png','.webp').encode(),recent_cards(self.root,self.template))
+        self.assertIn(original.encode(),journal_pages(self.root)['journal/index.html'])
+        self.assertEqual(before,(self.root/'social-posts.json').read_bytes())
+
+    def test_merged_cards_drive_final_homepage_dates(self):
+        from homepage_content_dates import sync_homepage_dates
+        self.rows=[{'article_path':'posts/2026-11-10-slot-01.html','date':'2026-11-10','topic':'Latest'}];self.write()
+        template=self.template.replace(b'<body',b'<script type="application/ld+json">{"@type":"WebPage","url":"https://sixiangjialaundry.com/","dateModified":"2026-11-03"}</script><body')
+        merged,ok,_=homepage_result(template,b'legacy',self.root)
+        sitemap=b'<urlset><url><loc>https://sixiangjialaundry.com/</loc><lastmod>2026-11-03</lastmod></url></urlset>'
+        html,xml,reason=sync_homepage_dates(merged,sitemap)
+        self.assertTrue(ok);self.assertEqual(reason,'')
+        self.assertIn(b'"dateModified":"2026-11-10"',html)
+        self.assertIn(b'<lastmod>2026-11-10</lastmod>',xml)
+
+    def test_editorial_title_wins_without_rewriting_feed(self):
+        self.rows[0]['editorial_title']='Corrected title'
+        self.write();before=(self.root/'social-posts.json').read_bytes()
+        pages=journal_pages(self.root)
+        self.assertIn(b'Corrected title',pages['journal/index.html'])
+        self.assertEqual(before,(self.root/'social-posts.json').read_bytes())
+
+    def test_full_merge_verify_keeps_date_pair_and_detects_tampering(self):
+        from seo_overlay_merge import merge, verify
+        self.rows=[{'article_path':'posts/2026-11-10-slot-01.html','date':'2026-11-10','topic':'Latest'}];self.write()
+        template=self.template.replace(b'<body',b'<script type="application/ld+json">{"@type":"WebPage","url":"https://sixiangjialaundry.com/","dateModified":"2026-11-03"}</script><body')
+        sitemap=b'<urlset><url><loc>https://sixiangjialaundry.com/</loc><lastmod>2026-11-03</lastmod></url></urlset>'
+        generated=self.root/'_generated';generated.mkdir()
+        overrides=self.root/'_overrides';overrides.mkdir()
+        for folder in (self.root,generated,overrides):
+            (folder/'index.html').write_bytes(template)
+            (folder/'sitemap.xml').write_bytes(sitemap)
+        merge(self.root,generated,overrides);verify(self.root,overrides,generated)
+        html=(self.root/'index.html').read_bytes();xml=(self.root/'sitemap.xml').read_bytes()
+        self.assertIn(b'"dateModified":"2026-11-10"',html)
+        self.assertIn(b'<lastmod>2026-11-10</lastmod>',xml)
+        merge(self.root,generated,overrides);verify(self.root,overrides,generated)
+        self.assertEqual(html,(self.root/'index.html').read_bytes())
+        (self.root/'sitemap.xml').write_bytes(xml.replace(b'<lastmod>2026-11-10</lastmod>',b'<lastmod>2026-11-03</lastmod>'))
+        with self.assertRaisesRegex(ValueError,'Homepage sitemap content date mismatch'):
+            verify(self.root,overrides,generated)
 
     def test_bad_index_blocks_release(self):
         (self.root/'social-posts.json').write_text('{bad')
