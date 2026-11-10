@@ -121,4 +121,3 @@ def render_journals(site_root):
         if url not in existing:added.append(f'  <url><loc>{url}</loc></url>')
     if added:sitemap.write_text(raw.replace('</urlset>','\n'.join(added)+'\n</urlset>'),encoding='utf-8')
     return pages
-

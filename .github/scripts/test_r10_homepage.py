@@ -106,4 +106,3 @@ class R10Tests(unittest.TestCase):
         with self.assertRaises(ValueError):homepage_result(b'<body data-sxj-release="r10-20261103">',b'legacy',self.root)
 
 if __name__=='__main__':unittest.main()
-
