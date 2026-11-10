@@ -17,10 +17,10 @@ const grid=q('[data-post-grid]'),more=q('[data-post-more]'),status=q('[data-post
 function el(tag,cls,text){const n=document.createElement(tag);if(cls)n.className=cls;if(text!==undefined)n.textContent=text;return n;}
 function safeURL(value,hosts){try{const u=new URL(value);return u.protocol==='https:'&&hosts.some(h=>u.hostname===h||u.hostname.endsWith('.'+h))?u.href:'';}catch{return '';}}
 function external(label,url){const a=el('a','',label);a.href=url;a.target='_blank';a.rel='noopener';return a;}
-function photoFallback(img){img.addEventListener('error',()=>{const p=img.parentElement;img.remove();p.append(el('span','r6-missing-photo','照片暫時無法載入\n仍可閱讀內容'));},{once:true});}
+function photoFallback(img,original){let retried=false;img.addEventListener('error',()=>{if(!retried&&original&&img.getAttribute('src')!==original){retried=true;img.src=original;return;}const p=img.parentElement;img.remove();p.append(el('span','r6-missing-photo','照片暫時無法載入\n仍可閱讀內容'));});}
 function card(p){
  const article=el('article','r6-post'),photo=el('a','r6-post-photo');photo.href=p.article;photo.setAttribute('aria-label','閱讀：'+p.title);
- if(p.image){const img=el('img');img.src=p.image;img.alt=p.imageAlt;img.loading='lazy';img.width=800;img.height=800;photoFallback(img);photo.append(img);}else photo.append(el('span','r6-missing-photo','洗護紀錄'));
+ if(p.image){const img=el('img');img.src=window.SXJPosts.thumbnail(p.image);img.alt=p.imageAlt;img.loading='lazy';img.width=800;img.height=800;photoFallback(img,p.image);photo.append(img);}else photo.append(el('span','r6-missing-photo','洗護紀錄'));
  const body=el('div','r6-post-copy'),date=el('time','',p.date.replaceAll('-',' / '));date.dateTime=p.date;
  if(/示意|AI/.test(p.imageAlt))body.append(el('small','r7-source-note','情境示意'));
  const h=el('h3'),a=el('a','',p.title);a.href=p.article;h.append(a);
