@@ -383,6 +383,8 @@
         "https://i.ytimg.com/vi/oF2jCsJ-yjE/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-11/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
+        "https://sixiangjialaundry.com/assets/2026-11-12/slot-01.png",
+        "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -576,7 +578,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-11-11"
+      "dateModified": "2026-11-12"
     },
     {
       "@type": "FAQPage",
@@ -637,7 +639,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-11-11",
+      "dateModified": "2026-11-12",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -16331,6 +16333,70 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
       "caption": "雨後鞋櫃收納前的小檢查",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-01",
+      "headline": "2026-11-12 11:30 安全帽內襯與外套帽沿的汗味",
+      "text": "通勤族常忽略安全帽內襯和外套帽沿，這兩個位置其實很容易累積汗味、髮品和濕氣。\n\n如果下雨後又直接戴上或收起來，味道會更明顯，也可能沾到外套帽沿和領口。\n\n我們會看可拆洗結構、布料厚度、汗味來源和外套帽沿材質，再判斷能不能清潔或需要保守除味。\n\n如果帽沿或內襯開始有味道，可以拍材質和可拆位置給我們看。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #通勤保養 #衣物除味 #雨季保養",
+      "datePublished": "2026-11-12T11:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#通勤保養",
+        "#衣物除味",
+        "#雨季保養"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-01:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-01"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-01:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-12/slot-01.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-12/slot-01.png",
+      "caption": "安全帽內襯與外套帽沿的汗味",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-02",
+      "headline": "2026-11-12 20:30 健身後運動鞋與毛巾分開整理",
+      "text": "健身後的運動鞋和毛巾不要只看乾不乾，汗味來源其實很不一樣。\n\n毛巾吸汗快、運動鞋內裡悶得久，如果一起堆在袋子裡，味道會互相影響，回家後也更難判斷來源。\n\n我們會分別看毛巾纖維、鞋墊、鞋內濕氣和鞋面材質，再判斷哪些要清潔、哪些只需要先通風。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #運動鞋清潔 #毛巾清潔 #除味保養",
+      "datePublished": "2026-11-12T20:30:00+08:00",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#私享家洗衣店",
+        "#運動鞋清潔",
+        "#毛巾清潔",
+        "#除味保養"
+      ],
+      "image": {
+        "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-02:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-02"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-02:image",
+      "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
+      "url": "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
+      "caption": "健身後運動鞋與毛巾分開整理",
       "inLanguage": "zh-Hant"
     }
   ]
