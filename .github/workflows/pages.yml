@@ -206,6 +206,13 @@ jobs:
         if: steps.restore.outcome == 'success'
         run: node .github/scripts/apply_v4_shell.mjs --site-root . --strict
 
+      # Only the three reviewed guide dates may change; final HTML is authoritative.
+      - name: Verify reviewed AI sitemap content dates
+        if: steps.restore.outcome == 'success'
+        run: |
+          python3 .github/scripts/sync_ai_content_dates.py --site-root .
+          python3 .github/scripts/sync_ai_content_dates.py --site-root . --check
+
       # Upload the verified tree before any commit/rebase can change it.
       - uses: actions/configure-pages@v5
         if: github.ref == 'refs/heads/main'
