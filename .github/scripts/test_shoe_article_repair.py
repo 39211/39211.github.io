@@ -1,5 +1,6 @@
 """Regression gates for the one reviewed shoe article, using public fixtures."""
 import json
+from datetime import date
 import re
 import tempfile
 import unittest
@@ -59,10 +60,12 @@ class ShoeRepairTests(unittest.TestCase):
             for x in graph(fixed.encode()):
                 if x['@type'] in ('BlogPosting','WebPage'):self.assertEqual(x['description'],meta)
 
-    def test_reinjected_old_page_and_other_file_protection(self):
+    @patch('repair_shoe_article.taipei_today', return_value=date(2026,11,12))
+    def test_reinjected_old_page_and_other_file_protection(self, _today):
         with tempfile.TemporaryDirectory() as tmp:
             root=Path(tmp);target=root/TARGET;target.parent.mkdir()
             other=root/'posts/other.html';other.write_bytes(b'untouched')
+            (root/'posts/2026-11-11-slot-01.html').write_text('<html>Public prior article stub</html>')
             for raw in self.sources():
                 target.write_bytes(raw);repair(root)
                 self.assertEqual(target.read_bytes(),repaired_bytes(raw))
@@ -87,7 +90,7 @@ class ShoeRepairTests(unittest.TestCase):
 
     def test_corrupt_manifest_does_not_write(self):
         with tempfile.TemporaryDirectory() as tmp:
-            p=Path(tmp)/'manifest.json';data=json.loads(MANIFEST.read_text());data['variants'][0]['after_sha256']='0'*64;p.write_text(json.dumps(data))
+            p=Path(tmp)/'manifest.json';data=json.loads(MANIFEST.read_text());data['variants'][0]['normalized_after_sha256']='0'*64;p.write_text(json.dumps(data))
             with patch('repair_shoe_article.MANIFEST',p):
                 with self.assertRaises(ValueError):repaired_bytes(self.sources()[0])
 
