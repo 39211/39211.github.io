@@ -1,0 +1,91 @@
+{
+  "path": "posts/2026-11-11-slot-02.html",
+  "source_commit": "4f2054735b97779c459ba0e73c8f17138735b7b2",
+  "changes": [
+    {
+      "before": "\"articleSection\":\"寢具與布品\"",
+      "after": "\"articleSection\":\"鞋面與鞋內檢查\""
+    },
+    {
+      "before": ",\"wordCount\":2175",
+      "after": ""
+    },
+    {
+      "before": "\"棉被多久洗一次?\"",
+      "after": "\"雨後鞋子表面乾了就能收進鞋櫃嗎？\""
+    },
+    {
+      "before": "\"一般建議每年換季收納前清洗一次;有汗味、潮味或黃斑時就不要再等。\"",
+      "after": "\"不能只看鞋面。還要確認鞋口內裡、鞋墊周圍與鞋底接縫是否乾燥；有潮感或悶味時先通風，未乾透不密封收納。\""
+    },
+    {
+      "before": "\"體積太大不好帶怎麼辦?\"",
+      "after": "\"鞋墊可以直接拆下來晾乾嗎？\""
+    },
+    {
+      "before": "\"台中市可預約免費收送,到府收件即可,不用自己搬。\"",
+      "after": "\"只有原本可取出的鞋墊才取出通風；固定或黏合鞋墊不要硬拆。若鞋內仍濕、有霉點或持續異味，先拍照詢問處理方式。\""
+    },
+    {
+      "before": "            <a class=\"button secondary\" href=\"https://sixiangjialaundry.com/services/fabric-storage.html\">布品收納</a>\n",
+      "after": "            <a class=\"button secondary\" href=\"https://sixiangjialaundry.com/services/shoe-bag-care.html\">鞋包清潔</a>\n"
+    },
+    {
+      "before": "            <li>這則紀錄的物件族：寢具與布品。門市先看材質與痕跡位置，再說能整理到什麼程度。</li>\n            <li>對應服務：布品收納。台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。</li>\n            <li>下一步：拍整體、近照與最在意的痕跡傳 LINE，或約台中市免費收送。</li>\n",
+      "after": "            <li>雨後的鞋子收進鞋櫃前，先看鞋底邊泥灰、鞋墊濕度、鞋面材質與內裡氣味；鞋面摸起來乾，不代表鞋內已乾透。</li>\n            <li>鞋面與鞋內分開檢查。先放在陰涼通風處，不用高溫烘烤，也不硬拆固定鞋墊；有污漬、霉點或持續異味時，先評估材質與清潔方式。</li>\n            <li>拍左右鞋整體、鞋面、鞋底邊與鞋內近照傳 LINE，說明淋雨時間和曾用過的清潔產品，再約到店或台中市免費收送。</li>\n"
+    },
+    {
+      "before": "          <h2 id=\"checkpoints\">寢具與布品的檢查重點</h2>\n",
+      "after": "          <h2 id=\"checkpoints\">鞋面與鞋內的檢查重點</h2>\n"
+    },
+    {
+      "before": "            <li>收納前一定要完全乾燥,沒乾透就壓縮會悶出味道也會失去蓬鬆度。</li>\n            <li>黃斑多半是汗漬或濕氣長期作用,越早處理越容易淡化。</li>\n            <li>體積大的布品要先確認車線與破口,清洗時破口會擴大。</li>\n",
+      "after": "            <li>先看鞋底邊、接縫與溝槽是否殘留泥灰，再確認鞋底有沒有開膠或裂痕；不要拉扯鬆脫的位置。</li>\n            <li>查看鞋口內裡與鞋墊周圍是否仍有潮感或異味。只有可取出的鞋墊才取出通風，不硬拆黏合鞋墊。</li>\n            <li>確認鞋面材質與保養標示。鞋內外乾燥後再收納；未乾透時不放進密閉鞋盒，也不用香味噴劑掩蓋潮味。</li>\n"
+    },
+    {
+      "before": "          <p>以下是布品收納常見的送件情境與處理界線，用來協助送洗前判斷；不是特定客戶成果，也不代表效果保證。</p>\n",
+      "after": "          <p>以下是雨後鞋子常見的檢查情境，用來協助收納或送洗前判斷；不是特定客戶成果，也不代表效果保證。</p>\n"
+    },
+    {
+      "before": "                <tr>\n                  <th>物件</th>\n                  <th>材質</th>\n                  <th>門市先看</th>\n                  <th>處理界線</th>\n                </tr>\n",
+      "after": "                <tr><th>物件</th><th>材質</th><th>門市先看</th><th>處理界線</th></tr>\n"
+    },
+    {
+      "before": "                <tr>\n                <td>換季外套</td>\n                <td>棉質或混紡外套</td>\n                <td>先看接觸皮膚的位置、材質標籤與是否還有汗味或潮氣。</td>\n                <td>有味道或局部髒污時不直接壓縮收納，先評估是否適合清潔。</td>\n              </tr>\n<tr>\n                <td>雙人棉被中間層</td>\n                <td>棉質表布與填充寢具</td>\n                <td>拉開絎縫，用手壓中間層確認是不是只有表布乾；同時聞收納袋內側。</td>\n                <td>中間層還沒乾就不密封；不以香味噴劑蓋住潮氣。</td>\n              </tr>\n<tr>\n                <td>毛毯起毛球</td>\n                <td>搖粒或混紡毯</td>\n                <td>在工作台鋪開，看 pill 是浮在表層還是纖維已經起毛；再確認有沒有潮味。</td>\n                <td>起毛球不是髒污保證能還原；先說能修到什麼程度，再決定清或收。</td>\n              </tr>\n",
+      "after": "                <tr><td>運動鞋鞋面與鞋底邊</td><td>網布、合成材與橡膠拼接</td><td>確認泥灰、水痕、縫線與膠合處，對照左右鞋的狀態。</td><td>不直接強刷、漂白或高溫烘烤；開膠與材料老化不能只靠清洗修復。</td></tr>\n                <tr><td>皮鞋雨痕與摺痕</td><td>皮革、塗層或異材質拼接</td><td>先辨認皮面種類，查看雨痕、掉色與接縫是否受潮。</td><td>不一律泡水或塗油；清潔方式依材質評估，原有磨損與失色不保證還原。</td></tr>\n                <tr><td>鞋口內裡與鞋墊周圍</td><td>織物、泡棉或固定鞋墊</td><td>查看潮感、汗污、異味與內裡磨損，確認鞋墊是否可取出。</td><td>不硬拆黏合部件；持續潮味先查來源，不用香味遮蓋，也不保證一次完全除味。</td></tr>\n"
+    },
+    {
+      "before": "            <a class=\"button secondary\" href=\"https://sixiangjialaundry.com/services/fabric-storage.html\">看布品收納說明</a>\n",
+      "after": "            <a class=\"button secondary\" href=\"https://sixiangjialaundry.com/services/shoe-bag-care.html\">看鞋包清潔說明</a>\n"
+    },
+    {
+      "before": "                <h3>棉被多久洗一次?</h3>\n                <p>一般建議每年換季收納前清洗一次;有汗味、潮味或黃斑時就不要再等。</p>\n",
+      "after": "                <h3>雨後鞋子表面乾了就能收進鞋櫃嗎？</h3>\n                <p>不能只看鞋面。還要確認鞋口內裡、鞋墊周圍與鞋底接縫是否乾燥；有潮感或悶味時先通風，未乾透不密封收納。</p>\n"
+    },
+    {
+      "before": "                <h3>體積太大不好帶怎麼辦?</h3>\n                <p>台中市可預約免費收送,到府收件即可,不用自己搬。</p>\n",
+      "after": "                <h3>鞋墊可以直接拆下來晾乾嗎？</h3>\n                <p>只有原本可取出的鞋墊才取出通風；固定或黏合鞋墊不要硬拆。若鞋內仍濕、有霉點或持續異味，先拍照詢問處理方式。</p>\n"
+    },
+    {
+      "before": "              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/posts/2026-11-10-slot-01.html\">抱枕布套飲料痕與局部色差</a>（2026-11-10）</li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/posts/2026-11-09-slot-02.html\">沙發毯久放後的灰味</a>（2026-11-09）</li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/posts/2026-11-08-feature-reel-tencel-bedding-20261108.html\">天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店</a>（2026-11-08）</li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html\">台中棉被清洗：潮味來自沒乾透的中間那層</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/curtain-cleaning.html\">台中洗窗簾：先看布料與軌道，再決定怎麼送</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/carpet-cleaning.html\">台中洗地毯：先看材質與潮濕，再決定要不要捲</a></li>\n",
+      "after": "              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/rainy-shoe-care.html\">雨天鞋子受潮後的檢查</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/shoe-insole-check.html\">鞋墊與鞋內的檢查</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/shoe-drying-heat-risk.html\">鞋子乾燥與高溫風險</a></li>\n"
+    },
+    {
+      "before": "        <div class=\"product-card__meta\">家庭、換季收納、租屋族</div>\n        <h3><a href=\"https://sixiangjialaundry.com/services/fabric-storage.html\">布品收納</a></h3>\n        <p>布品收納不是把東西折好放進櫃子就結束。收納前要先確認濕氣、汗味、灰塵、黃斑、寢具接觸皮膚的位置與清潔狀態，避免下次拿出來才發現霉味或局部痕跡變深。</p>\n        <p><strong>能解決：</strong>台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。</p>\n        <a class=\"card-link\" href=\"https://sixiangjialaundry.com/services/fabric-storage.html\" aria-label=\"詳細介紹：布品收納\">詳細介紹</a>\n",
+      "after": "        <div class=\"product-card__meta\">雨後通勤鞋、運動鞋與皮鞋</div>\n        <h3><a href=\"https://sixiangjialaundry.com/services/shoe-bag-care.html\">鞋包清潔</a></h3>\n        <p>鞋子收納前，先看鞋面材質、鞋底邊泥灰、鞋墊潮感與內裡氣味。傳整體和局部照片，門市會依鞋材、膠合與磨損狀態評估清潔方式。</p>\n        <p><strong>能解決：</strong>協助判斷是否需要清潔、通風或進一步檢查異味來源；原有開膠、老化與失色需另行評估，不保證清洗後恢復原狀。</p>\n        <a class=\"card-link\" href=\"https://sixiangjialaundry.com/services/shoe-bag-care.html\" aria-label=\"詳細介紹：鞋包清潔\">詳細介紹</a>\n"
+    }
+  ],
+  "variants": [
+    {
+      "source": "live",
+      "before_sha256": "404feceb5cbad62099381cc959130deb820d85f5367279dddfbe808f08476710",
+      "after_sha256": "c01a9007578de9953aebf1fb8c7fcf01df8f1e7bfb87eeeb390c0b7135e26a21"
+    },
+    {
+      "source": "producer",
+      "before_sha256": "26ea3ebc89fb306d44cfd25fa3419df085b84c8bc50aa7e51dedfcce3fbbb694",
+      "after_sha256": "b21aee07c8d125c75aa981baf52f77d7c6bf6bfb0b724f0bb55509977487651e"
+    }
+  ],
+  "producer_commit": "96d549ce4d0077afc881a8cedb695e8458e49633"
+}
