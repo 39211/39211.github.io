@@ -64,6 +64,24 @@ def recent_cards(site_root,template):
     return ('\n'+'\n'.join(cards)+'\n').encode('utf-8')
 
 
+def journal_description(month, selected, old):
+    """Describe the archive using only its displayed month and article data."""
+    if not month:
+        return '按月份閱讀私享家的洗護筆記、影片與送洗前判斷，保留每篇原始日期與完整內容。'
+    row=selected[0]
+    legacy=old.get('/'+row['article_path'].lstrip('/'),{})
+    topic=row.get('editorial_title') or legacy.get('title') or row.get('topic') or row.get('title') or '洗護紀錄'
+    topic=' '.join(topic.split())
+    if len(topic)>48:topic=topic[:47]+'…'
+    return f'私享家 {month[:4]} 年 {int(month[5:])} 月洗護筆記，共 {len(selected)} 篇。從「{topic}」等紀錄，回看本月的送洗判斷與日常照顧，並依原始日期閱讀全文。'
+
+
+def update_journal_meta(html, attribute, key, value):
+    """Update existing double-quoted template fields without adding metadata."""
+    pattern=rf'(<meta\b(?=[^>]*\b{attribute}="{re.escape(key)}")[^>]*\bcontent=")[^"]*'
+    return re.sub(pattern,lambda m:m[1]+escape(value,quote=True),html,count=1)
+
+
 def journal_pages(site_root):
     root=Path(site_root);source=root/'journal/index.html'
     if not source.exists():raise ValueError('R10 journal template missing')
@@ -95,15 +113,21 @@ def journal_pages(site_root):
         html=re.sub(r'<title>.*?</title>',lambda _:f'<title>{title}｜私享家洗衣店</title>',html,count=1,flags=re.S)
         html=re.sub(r'(<link\b(?=[^>]*\brel="canonical")[^>]*\bhref=")[^"]*',lambda m:m[1]+canonical,html,count=1)
         html=re.sub(r'(<meta\b(?=[^>]*\bproperty="og:url")[^>]*\bcontent=")[^"]*',lambda m:m[1]+canonical,html,count=1)
+        description=journal_description(month,selected,old)
+        for attribute,key,value in [('name','description',description),('property','og:description',description),('name','twitter:description',description),('property','og:title',title),('name','twitter:title',title)]:
+            html=update_journal_meta(html,attribute,key,value)
         items=[]
         for position,p in enumerate(selected,1):
             article='/'+p['article_path'].lstrip('/');o=old.get(article,{})
             items.append({'@type':'ListItem','position':position,'url':'https://sixiangjialaundry.com'+article,'name':p.get('editorial_title') or o.get('title') or p.get('topic') or p.get('title') or '洗護紀錄'})
         schema={'@context':'https://schema.org','@type':'CollectionPage','name':title,'url':canonical,'mainEntity':{'@type':'ItemList','itemListElement':items}}
-        encoded=json.dumps(schema,ensure_ascii=True,separators=(',',':')).replace('<','\\u003c')
         def update_schema(match):
             data=json.loads(match[1])
-            return '<script type="application/ld+json">'+encoded+'</script>' if data.get('@type')=='CollectionPage' else match[0]
+            if data.get('@type')!='CollectionPage':return match[0]
+            updated=dict(schema)
+            if 'description' in data:updated['description']=description
+            encoded=json.dumps(updated,ensure_ascii=True,separators=(',',':')).replace('<','\\u003c')
+            return '<script type="application/ld+json">'+encoded+'</script>'
         html=re.sub(r'<script type="application/ld\+json">(.*?)</script>',update_schema,html,flags=re.S)
         pages[path]=html.encode('utf-8')
     return pages
