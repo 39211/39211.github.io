@@ -7,10 +7,6 @@
       "after": "\"articleSection\":\"鞋面與鞋內檢查\""
     },
     {
-      "before": ",\"wordCount\":2175",
-      "after": ""
-    },
-    {
       "before": "\"棉被多久洗一次?\"",
       "after": "\"雨後鞋子表面乾了就能收進鞋櫃嗎？\""
     },
@@ -67,10 +63,6 @@
       "after": "                <h3>鞋墊可以直接拆下來晾乾嗎？</h3>\n                <p>只有原本可取出的鞋墊才取出通風；固定或黏合鞋墊不要硬拆。若鞋內仍濕、有霉點或持續異味，先拍照詢問處理方式。</p>\n"
     },
     {
-      "before": "              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/posts/2026-11-10-slot-01.html\">抱枕布套飲料痕與局部色差</a>（2026-11-10）</li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/posts/2026-11-09-slot-02.html\">沙發毯久放後的灰味</a>（2026-11-09）</li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/posts/2026-11-08-feature-reel-tencel-bedding-20261108.html\">天絲床組能直接丟洗衣機？先看洗標｜私享家洗衣店</a>（2026-11-08）</li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html\">台中棉被清洗：潮味來自沒乾透的中間那層</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/curtain-cleaning.html\">台中洗窗簾：先看布料與軌道，再決定怎麼送</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/carpet-cleaning.html\">台中洗地毯：先看材質與潮濕，再決定要不要捲</a></li>\n",
-      "after": "              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/rainy-shoe-care.html\">雨天鞋子受潮後的檢查</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/shoe-insole-check.html\">鞋墊與鞋內的檢查</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/shoe-drying-heat-risk.html\">鞋子乾燥與高溫風險</a></li>\n"
-    },
-    {
       "before": "        <div class=\"product-card__meta\">家庭、換季收納、租屋族</div>\n        <h3><a href=\"https://sixiangjialaundry.com/services/fabric-storage.html\">布品收納</a></h3>\n        <p>布品收納不是把東西折好放進櫃子就結束。收納前要先確認濕氣、汗味、灰塵、黃斑、寢具接觸皮膚的位置與清潔狀態，避免下次拿出來才發現霉味或局部痕跡變深。</p>\n        <p><strong>能解決：</strong>台中西屯布品收納建議先確認衣物、外套、寢具、被套與厚棉布品是否乾燥，有無汗味、悶味、黃痕或局部髒污，再決定是否清潔後收納。</p>\n        <a class=\"card-link\" href=\"https://sixiangjialaundry.com/services/fabric-storage.html\" aria-label=\"詳細介紹：布品收納\">詳細介紹</a>\n",
       "after": "        <div class=\"product-card__meta\">雨後通勤鞋、運動鞋與皮鞋</div>\n        <h3><a href=\"https://sixiangjialaundry.com/services/shoe-bag-care.html\">鞋包清潔</a></h3>\n        <p>鞋子收納前，先看鞋面材質、鞋底邊泥灰、鞋墊潮感與內裡氣味。傳整體和局部照片，門市會依鞋材、膠合與磨損狀態評估清潔方式。</p>\n        <p><strong>能解決：</strong>協助判斷是否需要清潔、通風或進一步檢查異味來源；原有開膠、老化與失色需另行評估，不保證清洗後恢復原狀。</p>\n        <a class=\"card-link\" href=\"https://sixiangjialaundry.com/services/shoe-bag-care.html\" aria-label=\"詳細介紹：鞋包清潔\">詳細介紹</a>\n"
     }
@@ -79,13 +71,36 @@
     {
       "source": "live",
       "before_sha256": "404feceb5cbad62099381cc959130deb820d85f5367279dddfbe808f08476710",
-      "after_sha256": "c01a9007578de9953aebf1fb8c7fcf01df8f1e7bfb87eeeb390c0b7135e26a21"
+      "after_sha256": "c01a9007578de9953aebf1fb8c7fcf01df8f1e7bfb87eeeb390c0b7135e26a21",
+      "normalized_before_sha256": "dc2ba4e3fc4123851b39774ebfd3148c6de8536a3fc0cda0cf1c48790b5cb89c",
+      "normalized_after_sha256": "fd766110962a528914f255ec9a6a64fb8f1be2026b9168c0c837dcaad4f1dc68"
     },
     {
       "source": "producer",
       "before_sha256": "26ea3ebc89fb306d44cfd25fa3419df085b84c8bc50aa7e51dedfcce3fbbb694",
-      "after_sha256": "b21aee07c8d125c75aa981baf52f77d7c6bf6bfb0b724f0bb55509977487651e"
+      "after_sha256": "b21aee07c8d125c75aa981baf52f77d7c6bf6bfb0b724f0bb55509977487651e",
+      "normalized_before_sha256": "fd5ae54629579ecc0561fe80227f9f7bc9e5dc85de0448b594da0da4599ce849",
+      "normalized_after_sha256": "71a0b8a1a47ae25813ce4c476ccef7a6d39952a0c3125d5df1c51acbd7c8f9dd"
     }
   ],
-  "producer_commit": "96d549ce4d0077afc881a8cedb695e8458e49633"
+  "producer_commit": "96d549ce4d0077afc881a8cedb695e8458e49633",
+  "related_prefix": "<section class=\"article-related\" aria-labelledby=\"related-https://sixiangjialaundry.com/content-calendar/2026-11-11.json#post-2026-11-11-slot-02\">\n            <h2 id=\"related-https://sixiangjialaundry.com/content-calendar/2026-11-11.json#post-2026-11-11-slot-02\" class=\"article-related__title\">延伸閱讀</h2>\n            <ul class=\"article-related__list\">\n",
+  "related_suffix": "              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/rainy-shoe-care.html\">雨天鞋子受潮後的檢查</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/shoe-insole-check.html\">鞋墊與鞋內的檢查</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/shoe-drying-heat-risk.html\">鞋子乾燥與高溫風險</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/services/taichung-laundry-price-list.html\">台中洗衣價目表</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html\">台中市免費洗衣收送</a></li>\n              <li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/posts/\">每日洗護紀錄總覽</a></li>\n            </ul>\n          </section>",
+  "related_guide_sets": [
+    [
+      "<li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/bedding-duvet-cleaning.html\">台中棉被清洗：潮味來自沒乾透的中間那層</a></li>",
+      "<li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/curtain-cleaning.html\">台中洗窗簾：先看布料與軌道，再決定怎麼送</a></li>",
+      "<li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/carpet-cleaning.html\">台中洗地毯：先看材質與潮濕，再決定要不要捲</a></li>"
+    ],
+    [
+      "<li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/rainy-shoe-care.html\">雨天鞋子受潮後的檢查</a></li>",
+      "<li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/shoe-insole-check.html\">鞋墊與鞋內的檢查</a></li>",
+      "<li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/guides/shoe-drying-heat-risk.html\">鞋子乾燥與高溫風險</a></li>"
+    ]
+  ],
+  "related_tail": [
+    "<li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/services/taichung-laundry-price-list.html\">台中洗衣價目表</a></li>",
+    "<li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html\">台中市免費洗衣收送</a></li>",
+    "<li class=\"article-related__item\"><a class=\"article-related__link\" href=\"https://sixiangjialaundry.com/posts/\">每日洗護紀錄總覽</a></li>"
+  ]
 }
