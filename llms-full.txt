@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-11T05:00:08.702Z
+- Generated at: 2026-11-11T13:15:24.339Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -472,6 +472,7 @@
     "https://sixiangjialaundry.com/assets/2026-11-09/slot-02.png",
     "https://sixiangjialaundry.com/assets/2026-11-10/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-10/slot-02.png",
+    "https://i.ytimg.com/vi/oF2jCsJ-yjE/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-11/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -14531,6 +14532,47 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #雨季後整理 #鞋包清潔 #台中洗衣店
+
+### 旗袍收好幾年冒黃斑：喜宴前一晚才發現｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-11-11:reel-qipao-20261111
+- published local time: 2026-11-11T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #旗袍 #黃斑 #衣物送洗 #台中洗衣店 #私享家洗衣店
+- image: https://i.ytimg.com/vi/oF2jCsJ-yjE/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+旗袍收了好幾年，喜宴前一晚才發現黃斑。
+
+這次用一件緞面旗袍示範。
+收納前沒處理的油漬，放久了可能滲進纖維。
+這塊黃能改善多少，要看實物。
+
+先拍清楚黃斑、盤扣和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#旗袍 #黃斑 #衣物送洗 #台中洗衣店 #私享家洗衣店
+
+Instagram caption:
+
+旗袍收了好幾年，喜宴前一晚才發現黃斑。
+
+這次用一件緞面旗袍示範。
+收納前沒處理的油漬，放久了可能滲進纖維。
+這塊黃能改善多少，要看實物。
+
+先拍清楚黃斑、盤扣和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#旗袍 #黃斑 #衣物送洗 #台中洗衣店 #私享家洗衣店
 
 ### 2026-11-11 11:30 襯衫腋下汗漬與布料發黃
 
