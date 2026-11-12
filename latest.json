@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T05:00:08.000Z",
+  "generated_at": "2026-11-12T13:15:07.159Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -8,6 +8,58 @@
   "canonical_url": "https://sixiangjialaundry.com/",
   "date": "2026-11-12",
   "posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112",
+      "date": "2026-11-12",
+      "date_published": "2026-11-12T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "topic": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#乾洗",
+        "#衣物送洗",
+        "#羊毛大衣",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-dryclean-916.mp4",
+      "calendar_path": "feature-reels/2026-11-12.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-11-12-feature-reel-dryclean-20261112.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-11-12-feature-reel-dryclean-20261112.html",
+      "url": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112",
+      "facebook_caption": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店",
+      "youtube_video": {
+        "video_id": "m_uOiRjKDiI",
+        "embed_url": "https://www.youtube-nocookie.com/embed/m_uOiRjKDiI",
+        "watch_url": "https://www.youtube.com/shorts/m_uOiRjKDiI",
+        "thumbnail_url": "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
+        "upload_date": "2026-11-12T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-01",
       "date": "2026-11-12",

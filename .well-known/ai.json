@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-11-12T05:00:08.000Z",
+  "generated_at": "2026-11-12T13:15:07.159Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -718,6 +718,7 @@
       "https://i.ytimg.com/vi/oF2jCsJ-yjE/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-11/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
+      "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-12/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -2218,10 +2219,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 274,
+      "indexable_article_count": 275,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 274
+      "article_count": 275
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2234,18 +2235,52 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 284,
+    "post_count": 285,
     "latest_date": "2026-11-12",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": false,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 176,
+    "posts_with_search_intent": 177,
     "posts_with_target_queries": 164,
-    "posts_with_evidence_type": 152
+    "posts_with_evidence_type": 153
   },
   "latest_date": "2026-11-12",
   "latest_posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112",
+      "date": "2026-11-12",
+      "date_published": "2026-11-12T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "topic": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#乾洗",
+        "#衣物送洗",
+        "#羊毛大衣",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-dryclean-916.mp4",
+      "facebook_caption": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-01",
       "date": "2026-11-12",
@@ -2387,6 +2422,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json",
       "facebook_caption": "通勤族常忽略安全帽內襯和外套帽沿，這兩個位置其實很容易累積汗味、髮品和濕氣。\n\n如果下雨後又直接戴上或收起來，味道會更明顯，也可能沾到外套帽沿和領口。\n\n我們會看可拆洗結構、布料厚度、汗味來源和外套帽沿材質，再判斷能不能清潔或需要保守除味。\n\n如果帽沿或內襯開始有味道，可以拍材質和可拆位置給我們看。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #通勤保養 #衣物除味 #雨季保養",
       "instagram_caption": "通勤族常忽略安全帽內襯和外套帽沿，這兩個位置其實很容易累積汗味、髮品和濕氣。\n\n如果下雨後又直接戴上或收起來，味道會更明顯，也可能沾到外套帽沿和領口。\n\n我們會看可拆洗結構、布料厚度、汗味來源和外套帽沿材質，再判斷能不能清潔或需要保守除味。\n\n如果帽沿或內襯開始有味道，可以拍材質和可拆位置給我們看。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #通勤保養 #衣物除味 #雨季保養"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112",
+      "date": "2026-11-12",
+      "date_published": "2026-11-12T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "topic": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#乾洗",
+        "#衣物送洗",
+        "#羊毛大衣",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-dryclean-916.mp4",
+      "facebook_caption": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-11.json#post-2026-11-11-slot-02",
@@ -3354,52 +3423,6 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json",
       "facebook_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔",
       "instagram_caption": "雨天騎車後，外套袖口和鞋面常常比褲管更早吸到雨水、泥點和路面灰。\n\n如果只是掛起來等乾，袖口汗味和雨水味會混在一起，鞋面泥點也可能留下淡淡痕跡。\n\n我們會看外套袖口材質、防潑水層、鞋面材質和泥點深度，再判斷適合局部處理或整件整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #機車通勤 #雨季保養 #衣鞋清潔"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json#post-2026-11-02-slot-01",
-      "date": "2026-11-02",
-      "date_published": "2026-11-02T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-11-02 11:30 東北季風連日潮濕，外套悶味先查哪 2 處？",
-      "topic": "東北季風連日潮濕，外套悶味先查哪 2 處？",
-      "visual_route": "customer-consultation",
-      "traffic_route": "trust-reset",
-      "content_role": "reach-answer",
-      "search_intent": "aftercare",
-      "target_queries": [
-        "台中棉被清洗",
-        "台中床組清洗",
-        "西屯寢具清洗",
-        "台中羽絨被送洗",
-        "台中外套清洗",
-        "棉被有潮味怎麼辦"
-      ],
-      "evidence_type": "customer-question",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#台中西屯洗衣店",
-        "#洗護日常",
-        "#送洗前檢查",
-        "#台中洗衣店"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01.png",
-        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-02.png",
-        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-03.png",
-        "https://sixiangjialaundry.com/assets/2026-11-02/slot-01-slide-04.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-02.json",
-      "facebook_caption": "東北季風連日潮濕，外套悶味先查哪 2 處？\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張傳 LINE，我們老實跟你說。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店",
-      "instagram_caption": "東北季風連日潮濕，外套悶味先查哪 2 處？\n\n衣櫃的味道多半不是衣櫃的問題，是收進去的時候就帶著了。\n\n我會先分開看正面和內層。內層通常比外面早出狀況，只是看不到。\n\n不知道該不該送洗？拍一張私訊，我們老實跟你說。\n\n出處：門市當日看件\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #台中西屯洗衣店 #洗護日常 #送洗前檢查 #台中洗衣店"
     }
   ],
   "published_posts": [
@@ -15811,6 +15834,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-11.json",
       "facebook_caption": "雨後回家，把鞋子直接收進鞋櫃前，可以先看鞋底邊和鞋內是不是還有濕氣。\n\n很多味道不是當天就出現，而是濕氣悶在鞋內幾天後才變明顯，鞋櫃也會跟著有悶味。\n\n我們會看鞋底邊泥灰、鞋墊濕度、鞋面材質和內裡氣味，再判斷需要通風、除味，還是送來做清潔。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #雨季保養 #鞋櫃保養 #鞋子清潔",
       "instagram_caption": "雨後回家，把鞋子直接收進鞋櫃前，可以先看鞋底邊和鞋內是不是還有濕氣。\n\n很多味道不是當天就出現，而是濕氣悶在鞋內幾天後才變明顯，鞋櫃也會跟著有悶味。\n\n我們會看鞋底邊泥灰、鞋墊濕度、鞋面材質和內裡氣味，再判斷需要通風、除味，還是送來做清潔。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #雨季保養 #鞋櫃保養 #鞋子清潔"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112",
+      "date": "2026-11-12",
+      "date_published": "2026-11-12T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "topic": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#乾洗",
+        "#衣物送洗",
+        "#羊毛大衣",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-dryclean-916.mp4",
+      "facebook_caption": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店"
     },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-01",

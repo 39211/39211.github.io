@@ -383,6 +383,7 @@
         "https://i.ytimg.com/vi/oF2jCsJ-yjE/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-11/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
+        "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-12/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -16333,6 +16334,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
       "caption": "雨後鞋櫃收納前的小檢查",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112",
+      "headline": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "text": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店",
+      "datePublished": "2026-11-12T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#乾洗",
+        "#衣物送洗",
+        "#羊毛大衣",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112:image",
+      "contentUrl": "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
+      "caption": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {

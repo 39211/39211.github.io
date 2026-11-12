@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-12T05:00:08.000Z
+- Generated at: 2026-11-12T13:15:07.159Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -475,6 +475,7 @@
     "https://i.ytimg.com/vi/oF2jCsJ-yjE/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-11/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-11/slot-02.png",
+    "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-12/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -14669,6 +14670,49 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #雨季保養 #鞋櫃保養 #鞋子清潔
+
+### 乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112
+- published local time: 2026-11-12T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店
+- image: https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。
+
+這次示範的是一件駝色羊毛大衣。
+羊毛、蠶絲水洗不當，容易縮水變形。
+但汗漬是水溶性的，乾洗不好洗。
+所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。
+
+先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店
+
+Instagram caption:
+
+乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。
+
+這次示範的是一件駝色羊毛大衣。
+羊毛、蠶絲水洗不當，容易縮水變形。
+但汗漬是水溶性的，乾洗不好洗。
+所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。
+
+先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店
 
 ### 2026-11-12 11:30 安全帽內襯與外套帽沿的汗味
 

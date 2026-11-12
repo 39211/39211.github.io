@@ -10107,6 +10107,37 @@
       }
     },
     {
+      "id": "urn:sixiangjia:feature:2026-11-12:reel-dryclean-20261112",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-12-feature-reel-dryclean-20261112.html",
+      "title": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "date_published": "2026-11-12T06:00:00.000Z",
+      "content_text": "乾洗不是乾的，衣服是泡在液體裡洗，只是用的不是水，是溶劑。\n\n這次示範的是一件駝色羊毛大衣。\n羊毛、蠶絲水洗不當，容易縮水變形。\n但汗漬是水溶性的，乾洗不好洗。\n所以送洗前，我們會先看洗標和髒污，再決定乾洗或水洗。\n\n先拍整件、洗標和髒污的地方，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#乾洗 #衣物送洗 #羊毛大衣 #台中洗衣店 #私享家洗衣店",
+      "summary": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜私享家洗衣店",
+      "image": "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
+      "tags": [
+        "乾洗",
+        "衣物送洗",
+        "羊毛大衣",
+        "台中洗衣店",
+        "私享家洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 0,
+        "category": "feature-reel",
+        "visual_route": "feature-reel",
+        "traffic_route": "feature-reel",
+        "content_role": "reach-answer",
+        "search_intent": "social-video",
+        "target_queries": [],
+        "evidence_type": "published-feature-reel",
+        "platforms": [
+          "facebook",
+          "youtube",
+          "instagram"
+        ]
+      }
+    },
+    {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json#post-2026-11-12-slot-01",
       "url": "https://sixiangjialaundry.com/posts/2026-11-12-slot-01.html",
       "title": "2026-11-12 11:30 安全帽內襯與外套帽沿的汗味",
