@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-13T05:00:08.130Z
+- Generated at: 2026-11-13T13:15:05.893Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -478,6 +478,7 @@
     "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-12/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
+    "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -14809,6 +14810,47 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #運動鞋清潔 #毛巾清潔 #除味保養
+
+### 牛仔褲染到淺色鞋：那一道藍怎麼辦｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113
+- published local time: 2026-11-13T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店
+- image: https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+牛仔褲染到淺色鞋，先看這一道藍。
+
+這次用一雙淺色鞋示範。
+深色丹寧一摩擦，染料就可能沾上鞋面。
+能不能處理，先看鞋面材質，也要看實物。
+
+先拍清楚染到的地方和整雙鞋，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店
+
+Instagram caption:
+
+牛仔褲染到淺色鞋，先看這一道藍。
+
+這次用一雙淺色鞋示範。
+深色丹寧一摩擦，染料就可能沾上鞋面。
+能不能處理，先看鞋面材質，也要看實物。
+
+先拍清楚染到的地方和整雙鞋，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店
 
 ### 2026-11-13 11:30 行李箱布面與輪邊灰塵
 

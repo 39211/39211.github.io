@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:00:08.130Z",
+  "generated_at": "2026-11-13T13:15:05.893Z",
   "site_name": "私享家洗衣店",
   "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
   "timezone": "Asia/Taipei",
@@ -16869,6 +16869,58 @@
       "instagram_caption": "健身後的運動鞋和毛巾不要只看乾不乾，汗味來源其實很不一樣。\n\n毛巾吸汗快、運動鞋內裡悶得久，如果一起堆在袋子裡，味道會互相影響，回家後也更難判斷來源。\n\n我們會分別看毛巾纖維、鞋墊、鞋內濕氣和鞋面材質，再判斷哪些要清潔、哪些只需要先通風。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍鞋面和鞋底兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #運動鞋清潔 #毛巾清潔 #除味保養"
     },
     {
+      "id": "urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113",
+      "date": "2026-11-13",
+      "date_published": "2026-11-13T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "牛仔褲染到淺色鞋：那一道藍怎麼辦｜私享家洗衣店",
+      "topic": "牛仔褲染到淺色鞋：那一道藍怎麼辦｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#牛仔褲掉色",
+        "#鞋子染色",
+        "#洗鞋",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-jeans-dye-916.mp4",
+      "calendar_path": "feature-reels/2026-11-13.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-11-13-feature-reel-jeans-dye-20261113.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-11-13-feature-reel-jeans-dye-20261113.html",
+      "url": "urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113",
+      "facebook_caption": "牛仔褲染到淺色鞋，先看這一道藍。\n\n這次用一雙淺色鞋示範。\n深色丹寧一摩擦，染料就可能沾上鞋面。\n能不能處理，先看鞋面材質，也要看實物。\n\n先拍清楚染到的地方和整雙鞋，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "牛仔褲染到淺色鞋，先看這一道藍。\n\n這次用一雙淺色鞋示範。\n深色丹寧一摩擦，染料就可能沾上鞋面。\n能不能處理，先看鞋面材質，也要看實物。\n\n先拍清楚染到的地方和整雙鞋，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店",
+      "youtube_video": {
+        "video_id": "NU0xz8t-6xE",
+        "embed_url": "https://www.youtube-nocookie.com/embed/NU0xz8t-6xE",
+        "watch_url": "https://www.youtube.com/shorts/NU0xz8t-6xE",
+        "thumbnail_url": "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
+        "upload_date": "2026-11-13T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
+    {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json#post-2026-11-13-slot-01",
       "date": "2026-11-13",
       "date_published": "2026-11-13T11:30:00+08:00",
@@ -33226,6 +33278,58 @@
         "watch_url": "https://www.youtube.com/shorts/m_uOiRjKDiI",
         "thumbnail_url": "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
         "upload_date": "2026-11-12T06:00:00.000Z"
+      },
+      "feature_reel": true
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113",
+      "date": "2026-11-13",
+      "date_published": "2026-11-13T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "category": "feature-reel",
+      "title": "牛仔褲染到淺色鞋：那一道藍怎麼辦｜私享家洗衣店",
+      "topic": "牛仔褲染到淺色鞋：那一道藍怎麼辦｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#牛仔褲掉色",
+        "#鞋子染色",
+        "#洗鞋",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "in_language": "zh-Hant",
+      "image_path": "",
+      "image_url": "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
+      "image_paths": [],
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_path": "",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-jeans-dye-916.mp4",
+      "calendar_path": "feature-reels/2026-11-13.json",
+      "calendar_url": "",
+      "article_path": "posts/2026-11-13-feature-reel-jeans-dye-20261113.html",
+      "article_url": "https://sixiangjialaundry.com/posts/2026-11-13-feature-reel-jeans-dye-20261113.html",
+      "url": "urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113",
+      "facebook_caption": "牛仔褲染到淺色鞋，先看這一道藍。\n\n這次用一雙淺色鞋示範。\n深色丹寧一摩擦，染料就可能沾上鞋面。\n能不能處理，先看鞋面材質，也要看實物。\n\n先拍清楚染到的地方和整雙鞋，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "牛仔褲染到淺色鞋，先看這一道藍。\n\n這次用一雙淺色鞋示範。\n深色丹寧一摩擦，染料就可能沾上鞋面。\n能不能處理，先看鞋面材質，也要看實物。\n\n先拍清楚染到的地方和整雙鞋，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店",
+      "youtube_video": {
+        "video_id": "NU0xz8t-6xE",
+        "embed_url": "https://www.youtube-nocookie.com/embed/NU0xz8t-6xE",
+        "watch_url": "https://www.youtube.com/shorts/NU0xz8t-6xE",
+        "thumbnail_url": "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
+        "upload_date": "2026-11-13T06:00:00.000Z"
       },
       "feature_reel": true
     }

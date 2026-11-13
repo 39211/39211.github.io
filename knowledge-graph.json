@@ -386,6 +386,7 @@
         "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-12/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
+        "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
@@ -16433,6 +16434,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
       "caption": "健身後運動鞋與毛巾分開整理",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113",
+      "headline": "牛仔褲染到淺色鞋：那一道藍怎麼辦｜私享家洗衣店",
+      "text": "牛仔褲染到淺色鞋，先看這一道藍。\n\n這次用一雙淺色鞋示範。\n深色丹寧一摩擦，染料就可能沾上鞋面。\n能不能處理，先看鞋面材質，也要看實物。\n\n先拍清楚染到的地方和整雙鞋，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店",
+      "datePublished": "2026-11-13T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#牛仔褲掉色",
+        "#鞋子染色",
+        "#洗鞋",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113:image",
+      "contentUrl": "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
+      "caption": "牛仔褲染到淺色鞋：那一道藍怎麼辦｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     },
     {
