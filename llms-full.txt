@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-13T13:15:05.893Z
+- Generated at: 2026-11-13T22:30:09.160Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
