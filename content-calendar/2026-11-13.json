@@ -1,0 +1,43 @@
+{
+  "date": "2026-11-13",
+  "timezone": "Asia/Taipei",
+  "generated_at": "2026-11-09T22:30:06.785Z",
+  "slots": [
+    {
+      "slot": 1,
+      "time": "11:30",
+      "category": "知識文",
+      "topic": "行李箱布面與輪邊灰塵",
+      "media_type": "image",
+      "instagram_caption": "行李箱回來後，布面、把手和輪邊常常比衣服更早累積灰塵和地面髒污。\n\n如果直接推進房間或靠近衣櫃，輪邊泥灰和把手汗味會跟著進到家裡，布面也容易越看越暗。\n\n我們會先看行李箱材質、布面髒污深度、輪邊泥灰和把手接觸痕，再判斷適合局部清潔或外觀整理。\n\n旅行回來要整理行李箱，可以先拍布面、把手和輪邊給我們看。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #行李箱清潔 #旅行後整理 #台中洗衣店",
+      "facebook_caption": "行李箱回來後，布面、把手和輪邊常常比衣服更早累積灰塵和地面髒污。\n\n如果直接推進房間或靠近衣櫃，輪邊泥灰和把手汗味會跟著進到家裡，布面也容易越看越暗。\n\n我們會先看行李箱材質、布面髒污深度、輪邊泥灰和把手接觸痕，再判斷適合局部清潔或外觀整理。\n\n旅行回來要整理行李箱，可以先拍布面、把手和輪邊給我們看。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #行李箱清潔 #旅行後整理 #台中洗衣店",
+      "image_prompt": "Realistic square shop photo: fabric suitcase on a clean inspection floor mat near a laundry counter, wheel edge and handle visible, staff hand pointing to dust buildup, premium documentary look, no readable text, no logo.",
+      "visual_route": "shop-inspection",
+      "traffic_route": "share-worthy-care",
+      "content_role": "reach-answer",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-13/slot-01.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png",
+      "status": "pending"
+    },
+    {
+      "slot": 2,
+      "time": "20:30",
+      "category": "情境文",
+      "topic": "旅行回來先處理外套與行李灰塵",
+      "media_type": "image",
+      "instagram_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔",
+      "facebook_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔",
+      "image_prompt": "Realistic square shop photo: travel jacket, handbag bottom, and suitcase wheel area arranged on a clean inspection counter, staff hand pointing to dust, premium documentary laundry shop style, no readable text, no logo.",
+      "visual_route": "customer-consultation",
+      "traffic_route": "share-worthy-care",
+      "content_role": "evidence-conversion",
+      "content_plan_source": "legacy-template",
+      "local_image_path": "docs/assets/2026-11-13/slot-02.png",
+      "public_image_url": "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
+      "status": "pending"
+    }
+  ],
+  "written_by": "contentPlan.writeDailyContent",
+  "content_checksum": "c787a5f1eff19e93"
+}

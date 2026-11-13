@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-12T13:15:07.159Z
+- Generated at: 2026-11-13T05:00:08.130Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -478,6 +478,8 @@
     "https://i.ytimg.com/vi/m_uOiRjKDiI/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-12/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-12/slot-02.png",
+    "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png",
+    "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -14807,4 +14809,98 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #運動鞋清潔 #毛巾清潔 #除味保養
+
+### 2026-11-13 11:30 行李箱布面與輪邊灰塵
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-13.json#post-2026-11-13-slot-01
+- published local time: 2026-11-13T11:30:00+08:00
+- category: 知識文
+- platforms: facebook, instagram
+- visual_route: shop-inspection
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #行李箱清潔 #旅行後整理 #台中洗衣店
+- image: https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-13.json
+
+Facebook caption:
+
+行李箱回來後，布面、把手和輪邊常常比衣服更早累積灰塵和地面髒污。
+
+如果直接推進房間或靠近衣櫃，輪邊泥灰和把手汗味會跟著進到家裡，布面也容易越看越暗。
+
+我們會先看行李箱材質、布面髒污深度、輪邊泥灰和把手接觸痕，再判斷適合局部清潔或外觀整理。
+
+旅行回來要整理行李箱，可以先拍布面、把手和輪邊給我們看。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #行李箱清潔 #旅行後整理 #台中洗衣店
+
+Instagram caption:
+
+行李箱回來後，布面、把手和輪邊常常比衣服更早累積灰塵和地面髒污。
+
+如果直接推進房間或靠近衣櫃，輪邊泥灰和把手汗味會跟著進到家裡，布面也容易越看越暗。
+
+我們會先看行李箱材質、布面髒污深度、輪邊泥灰和把手接觸痕，再判斷適合局部清潔或外觀整理。
+
+旅行回來要整理行李箱，可以先拍布面、把手和輪邊給我們看。
+
+私享家洗衣店｜台中市免費到府收送
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #行李箱清潔 #旅行後整理 #台中洗衣店
+
+### 2026-11-13 20:30 旅行回來先處理外套與行李灰塵
+
+- id: https://sixiangjialaundry.com/content-calendar/2026-11-13.json#post-2026-11-13-slot-02
+- published local time: 2026-11-13T20:30:00+08:00
+- category: 情境文
+- platforms: facebook, instagram
+- visual_route: customer-consultation
+- traffic_route: share-worthy-care
+- search_intent: (legacy-unassigned)
+- target_queries: (legacy-unassigned)
+- evidence_type: (legacy-unassigned)
+- hashtags: #私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
+- image: https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png
+- calendar: https://sixiangjialaundry.com/content-calendar/2026-11-13.json
+
+Facebook caption:
+
+旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。
+
+如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。
+
+我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍領口和袖口兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
+
+Instagram caption:
+
+旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。
+
+如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。
+
+我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。
+
+私享家洗衣店｜台中市免費到府收送
+
+拍領口和袖口兩張傳 LINE，我們先看。
+
+直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
+
+#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
 

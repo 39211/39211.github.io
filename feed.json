@@ -10196,6 +10196,66 @@
         ],
         "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-12.json"
       }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json#post-2026-11-13-slot-01",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-13-slot-01.html",
+      "title": "2026-11-13 11:30 行李箱布面與輪邊灰塵",
+      "date_published": "2026-11-13T11:30:00+08:00",
+      "content_text": "行李箱回來後，布面、把手和輪邊常常比衣服更早累積灰塵和地面髒污。\n\n如果直接推進房間或靠近衣櫃，輪邊泥灰和把手汗味會跟著進到家裡，布面也容易越看越暗。\n\n我們會先看行李箱材質、布面髒污深度、輪邊泥灰和把手接觸痕，再判斷適合局部清潔或外觀整理。\n\n旅行回來要整理行李箱，可以先拍布面、把手和輪邊給我們看。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #行李箱清潔 #旅行後整理 #台中洗衣店",
+      "summary": "行李箱布面與輪邊灰塵",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png",
+      "tags": [
+        "私享家洗衣店",
+        "行李箱清潔",
+        "旅行後整理",
+        "台中洗衣店"
+      ],
+      "_sixiangjia": {
+        "slot": 1,
+        "category": "知識文",
+        "visual_route": "shop-inspection",
+        "traffic_route": "share-worthy-care",
+        "content_role": "reach-answer",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json"
+      }
+    },
+    {
+      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json#post-2026-11-13-slot-02",
+      "url": "https://sixiangjialaundry.com/posts/2026-11-13-slot-02.html",
+      "title": "2026-11-13 20:30 旅行回來先處理外套與行李灰塵",
+      "date_published": "2026-11-13T20:30:00+08:00",
+      "content_text": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔",
+      "summary": "旅行回來先處理外套與行李灰塵",
+      "image": "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
+      "tags": [
+        "私享家洗衣店",
+        "旅行後整理",
+        "衣物清潔",
+        "行李箱清潔"
+      ],
+      "_sixiangjia": {
+        "slot": 2,
+        "category": "情境文",
+        "visual_route": "customer-consultation",
+        "traffic_route": "share-worthy-care",
+        "content_role": "evidence-conversion",
+        "search_intent": "",
+        "target_queries": [],
+        "evidence_type": "",
+        "platforms": [
+          "facebook",
+          "instagram"
+        ],
+        "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json"
+      }
     }
   ]
 }
