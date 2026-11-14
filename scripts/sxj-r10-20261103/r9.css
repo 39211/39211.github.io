@@ -1,0 +1,82 @@
+/* R9: focused corrections after complete desktop/mobile visual review. */
+.r9-home .r9-est-head{display:flex;flex-wrap:wrap;align-items:center;gap:8px 18px}
+.r9-home .r9-est-head>p{font-size:14px;margin:0;width:100%}
+.r9-home .r9-est-head output{margin:0;flex:1}
+.r9-home .r9-est-head .r6-clear{margin:0;min-width:60px;min-height:44px}
+.r9-home .r6-est-body [data-est-count]{margin:4px 0 12px}
+.r9-home .r9-est-details{border-top:1px solid #8a7260;margin-bottom:12px}
+.r9-home .r9-est-details summary{cursor:pointer;min-height:44px;display:flex;align-items:center;gap:12px;font-size:14px}
+.r9-home .r9-est-details summary:after{content:'＋';margin-left:auto}
+.r9-home .r9-est-details[open] summary:after{content:'−'}
+.r9-home .r9-est-details [data-est-list]{border:0;padding:0;margin:0 0 12px}
+.r9-home .r6-est-body small{margin-top:10px}
+.r9-home .r6-price-item{flex-wrap:wrap}
+.r9-home .r9-row-feedback{width:100%;display:flex;justify-content:space-between;align-items:center;gap:8px;border-left:2px solid #926c54;background:#f6ede2;padding:2px 8px;font-size:13px}
+.r9-home .r9-row-feedback [data-row-total]{font-size:13px;margin:0;color:#563e30}
+.r9-home .r9-row-feedback a{min-height:44px;display:inline-flex;align-items:center;white-space:nowrap;text-decoration:underline;text-underline-offset:3px}
+.r9-home .r8-photo-guide h4{font-size:14px;line-height:1.65;margin-bottom:10px}
+.r9-home .r8-guide-options button{font-size:14px;padding:8px 11px}
+.r9-home .r8-photo-guide>p{background:#eee7dc;border-left:2px solid #916a50;padding:10px 12px;font-size:14px;line-height:1.8;min-height:70px;color:#59483b}
+.r9-home .r9-library-note{font-size:13px;line-height:1.8;color:#705e4d;margin:14px 0 0}
+/* Place indicator and disclosure in normal flow; do not cover the photograph or each other. */
+.r9-home .season-controls{justify-content:space-between;flex-wrap:wrap;padding:8px 20px;gap:4px 18px}
+.r9-home .season-controls>div:empty{display:none}
+.r9-home .season-controls .r5-season-dots{position:static;display:flex;align-items:center;gap:3px;flex-shrink:0}
+.r9-home .season-controls .r5-season-dots button{border:0;background:transparent;border-radius:0;padding:0 5px;min-width:38px;width:38px;min-height:44px;height:44px}
+.r9-home .season-controls>span{font-size:12px;color:#716153}
+.r9-home .r6-map .map-inset{border:1px solid #d3c6b7;background:#fffcf4f2;box-shadow:0 3px 12px #503e2610}
+.r9-home .r6-map .dst:not(.hq):not(.on):not(.hv){fill:#d1c8b9}
+@media(max-width:760px){
+ .r9-home #prices .r6-heading{margin-bottom:18px}
+ .r9-home .r6-price-layout{gap:20px}
+ .r9-home .r6-est-summary{box-shadow:4px 4px 0 #d6c2b2}
+ .r9-home .r6-est-body{padding:16px 18px}
+ .r9-home .r9-est-head{gap:4px 10px}
+ .r9-home .r9-est-head>p{width:auto;flex:1;min-width:100px;font-size:13px}
+ .r9-home .r9-est-head output{font-size:32px;line-height:1.3;flex:none;letter-spacing:-.03em}
+ .r9-home .r9-est-head .r6-clear{font-size:13px;min-width:44px}
+ .r9-home .r6-est-body [data-est-count]{font-size:13px;margin:4px 0 10px}
+ .r9-home .r6-est-body .btn{min-height:44px;padding:9px 12px;font-size:14px}
+ .r9-home .r6-est-body small{font-size:12px;text-align:left;margin-top:8px}
+ .r9-home .r6-price-item{padding:11px 0;gap:8px}
+ .r9-home .r6-price-item strong{font-weight:600}
+ .r9-home .r6-stepper button[data-est-change="1"]{background:#d7bcaa;border-color:#ac8972}
+ .r9-home .r6-map .map-canvas{gap:20px}
+ .r9-home .r6-map .map-drawing{margin-top:0;min-height:0;height:auto;max-height:none}
+ .r9-home .r6-map .map-drawing>svg{height:auto;max-height:none;aspect-ratio:1000/512}
+ .r9-home .r6-map .map-inset{position:static;margin:10px 0 0 auto;width:min(70%,260px);padding:8px}
+ .r9-home .r6-map .map-inset p{font-size:11px}
+ .r9-home .r6-map .map-inset svg{height:auto}
+ .r9-home .season-slide>div{padding-bottom:26px}
+}
+@media(max-width:370px){
+ .r9-home .r9-est-head>p{min-width:88px;font-size:12px}
+ .r9-home .r9-est-head output{font-size:28px}
+ .r9-home .r8-guide-options{gap:5px}
+ .r9-home .r8-guide-options button{padding:8px 7px}
+ .r9-home .r9-row-feedback{flex-wrap:wrap;gap:0}
+}
+
+/* Two editorial stories, followed by a slim full-width booking note. */
+.r9-home .r7-feature-layout{grid-template-columns:minmax(0,1.4fr) minmax(0,1fr);gap:28px 48px;align-items:start}
+.r9-home .r7-feature-main{grid-column:1;grid-row:1}
+.r9-home .r7-feature-video{grid-column:2;grid-row:1}
+.r9-home .r7-feature-note{grid-column:1/-1;grid-row:2;grid-template-columns:112px 1fr;margin:0;padding:20px 0 0;gap:24px}
+.r9-home .r7-feature-note .r7-feature-copy{display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:0 24px}
+.r9-home .r7-feature-note .r7-kicker{grid-column:1}
+.r9-home .r7-feature-note h3{grid-column:1;margin:5px 0}
+.r9-home .r7-feature-note .r7-feature-links{grid-column:2;grid-row:1/3}
+.r9-home .r6-post-links a:first-child{font-weight:600;color:#70402d}
+.r9-home .r6-post-links a:last-child{color:#786758;text-decoration-style:dotted}
+@media(max-width:760px){
+ .r9-home .r7-feature-layout{display:flex;flex-direction:column;gap:0}
+ .r9-home .r7-feature-main{width:100%}
+ .r9-home .r7-feature-note{order:1;width:100%;grid-template-columns:100px minmax(0,1fr);gap:17px;padding:20px 0}
+ .r9-home .r7-feature-note .r7-feature-copy{display:block}
+ .r9-home .r7-feature-video{order:2;width:100%}
+ .r9-home .r6-post h3{line-height:1.5}
+}
+
+/* Final GPT-6/Gemini visual follow-up: keep the note links with its title. */
+.r9-home .r7-feature-note .r7-feature-copy{display:block}
+.r9-home .r7-feature-note .r7-feature-links{margin-top:6px;justify-content:flex-start}
