@@ -4,7 +4,7 @@
 
 ## Source Of Record
 - Canonical URL: https://sixiangjialaundry.com/
-- Generated at: 2026-11-13T22:30:09.160Z
+- Generated at: 2026-11-14T22:30:11.420Z
 - Timezone: Asia/Taipei
 - Base URL configured: yes
 
@@ -481,6 +481,7 @@
     "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png",
     "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
+    "https://i.ytimg.com/vi/E8uMcMmxvC8/hqdefault.jpg",
     "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
     "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -14945,4 +14946,47 @@ Instagram caption:
 直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)
 
 #私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔
+
+### 羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜私享家洗衣店
+
+- id: urn:sixiangjia:feature:2026-11-14:reel-cashmere-scarf-20261114
+- published local time: 2026-11-14T06:00:00.000Z
+- category: feature-reel
+- platforms: facebook, youtube, instagram
+- visual_route: feature-reel
+- traffic_route: feature-reel
+- search_intent: social-video
+- target_queries: (legacy-unassigned)
+- evidence_type: published-feature-reel
+- hashtags: #羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店
+- image: https://i.ytimg.com/vi/E8uMcMmxvC8/hqdefault.jpg
+- calendar: 
+
+Facebook caption:
+
+羊絨圍巾越揉越乾淨？洗完反而又硬又縮。
+
+熱水和摩擦，都可能讓羊絨縮。
+用力搓揉，還可能起毛球。
+所以洗之前先看洗標，再決定怎麼洗。
+已經縮了能不能救，要看實物。
+
+先拍清楚整條圍巾和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店
+
+Instagram caption:
+
+羊絨圍巾越揉越乾淨？洗完反而又硬又縮。
+
+熱水和摩擦，都可能讓羊絨縮。
+用力搓揉，還可能起毛球。
+所以洗之前先看洗標，再決定怎麼洗。
+已經縮了能不能救，要看實物。
+
+先拍清楚整條圍巾和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）
+不想跑一趟，台中全市免費收送。
+
+#羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店
 

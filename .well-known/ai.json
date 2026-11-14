@@ -1,7 +1,7 @@
 {
   "schema_version": "2026-07-02",
   "standard_level": "standard",
-  "generated_at": "2026-11-13T22:30:09.160Z",
+  "generated_at": "2026-11-14T22:30:11.420Z",
   "website": {
     "name": "私享家洗衣店",
     "business_name": "私享家洗衣店",
@@ -724,6 +724,7 @@
       "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png",
       "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
+      "https://i.ytimg.com/vi/E8uMcMmxvC8/hqdefault.jpg",
       "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
       "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -2222,10 +2223,10 @@
       "min_visible_chars": 1200,
       "min_caption_chars": 80,
       "behavior": "Each approved post renders as a daily article (summary, store note, checklist, material table, next step, FAQ, related). Only articles that clear the thickness gate carry index robots; eligible articles enter rss.xml and the posts hub. sitemap.xml includes the newest sitemap_max_indexable_posts eligible articles, ai-sitemap.xml includes eligible article URLs, and both sitemaps omit below-gate posts and override HTML with robots noindex.",
-      "indexable_article_count": 278,
+      "indexable_article_count": 279,
       "sitemap_max_indexable_posts": 30,
       "sitemap_indexable_post_count": 30,
-      "article_count": 278
+      "article_count": 279
     },
     "homepage_archive_policy": {
       "expanded_recent_days": 7,
@@ -2238,26 +2239,26 @@
   },
   "data_quality": {
     "public_base_url_configured": true,
-    "post_count": 288,
-    "latest_date": "2026-11-13",
+    "post_count": 289,
+    "latest_date": "2026-11-14",
     "all_posts_have_images": true,
     "all_posts_have_hashtags": false,
     "all_posts_have_routes": true,
     "all_posts_have_content_roles": true,
-    "posts_with_search_intent": 178,
+    "posts_with_search_intent": 179,
     "posts_with_target_queries": 164,
-    "posts_with_evidence_type": 154
+    "posts_with_evidence_type": 155
   },
-  "latest_date": "2026-11-13",
+  "latest_date": "2026-11-14",
   "latest_posts": [
     {
-      "id": "urn:sixiangjia:feature:2026-11-13:reel-jeans-dye-20261113",
-      "date": "2026-11-13",
-      "date_published": "2026-11-13T06:00:00.000Z",
+      "id": "urn:sixiangjia:feature:2026-11-14:reel-cashmere-scarf-20261114",
+      "date": "2026-11-14",
+      "date_published": "2026-11-14T06:00:00.000Z",
       "slot": 0,
       "time": "14:00",
-      "title": "牛仔褲染到淺色鞋：那一道藍怎麼辦｜私享家洗衣店",
-      "topic": "牛仔褲染到淺色鞋：那一道藍怎麼辦｜私享家洗衣店",
+      "title": "羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜私享家洗衣店",
+      "topic": "羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜私享家洗衣店",
       "visual_route": "feature-reel",
       "traffic_route": "feature-reel",
       "content_role": "reach-answer",
@@ -2265,9 +2266,9 @@
       "target_queries": [],
       "evidence_type": "published-feature-reel",
       "hashtags": [
-        "#牛仔褲掉色",
-        "#鞋子染色",
-        "#洗鞋",
+        "#羊絨圍巾",
+        "#圍巾清洗",
+        "#衣物送洗",
         "#台中洗衣店",
         "#私享家洗衣店"
       ],
@@ -2276,86 +2277,50 @@
         "youtube",
         "instagram"
       ],
-      "image_url": "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
+      "image_url": "https://i.ytimg.com/vi/E8uMcMmxvC8/hqdefault.jpg",
       "image_urls": [],
       "carousel_items": [],
       "media_type": "reel",
-      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-jeans-dye-916.mp4",
-      "facebook_caption": "牛仔褲染到淺色鞋，先看這一道藍。\n\n這次用一雙淺色鞋示範。\n深色丹寧一摩擦，染料就可能沾上鞋面。\n能不能處理，先看鞋面材質，也要看實物。\n\n先拍清楚染到的地方和整雙鞋，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店",
-      "instagram_caption": "牛仔褲染到淺色鞋，先看這一道藍。\n\n這次用一雙淺色鞋示範。\n深色丹寧一摩擦，染料就可能沾上鞋面。\n能不能處理，先看鞋面材質，也要看實物。\n\n先拍清楚染到的地方和整雙鞋，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#牛仔褲掉色 #鞋子染色 #洗鞋 #台中洗衣店 #私享家洗衣店"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json#post-2026-11-13-slot-01",
-      "date": "2026-11-13",
-      "date_published": "2026-11-13T11:30:00+08:00",
-      "slot": 1,
-      "time": "11:30",
-      "title": "2026-11-13 11:30 行李箱布面與輪邊灰塵",
-      "topic": "行李箱布面與輪邊灰塵",
-      "visual_route": "shop-inspection",
-      "traffic_route": "share-worthy-care",
-      "content_role": "reach-answer",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#行李箱清潔",
-        "#旅行後整理",
-        "#台中洗衣店"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json",
-      "facebook_caption": "行李箱回來後，布面、把手和輪邊常常比衣服更早累積灰塵和地面髒污。\n\n如果直接推進房間或靠近衣櫃，輪邊泥灰和把手汗味會跟著進到家裡，布面也容易越看越暗。\n\n我們會先看行李箱材質、布面髒污深度、輪邊泥灰和把手接觸痕，再判斷適合局部清潔或外觀整理。\n\n旅行回來要整理行李箱，可以先拍布面、把手和輪邊給我們看。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #行李箱清潔 #旅行後整理 #台中洗衣店",
-      "instagram_caption": "行李箱回來後，布面、把手和輪邊常常比衣服更早累積灰塵和地面髒污。\n\n如果直接推進房間或靠近衣櫃，輪邊泥灰和把手汗味會跟著進到家裡，布面也容易越看越暗。\n\n我們會先看行李箱材質、布面髒污深度、輪邊泥灰和把手接觸痕，再判斷適合局部清潔或外觀整理。\n\n旅行回來要整理行李箱，可以先拍布面、把手和輪邊給我們看。\n\n私享家洗衣店｜台中市免費到府收送\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #行李箱清潔 #旅行後整理 #台中洗衣店"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json#post-2026-11-13-slot-02",
-      "date": "2026-11-13",
-      "date_published": "2026-11-13T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-11-13 20:30 旅行回來先處理外套與行李灰塵",
-      "topic": "旅行回來先處理外套與行李灰塵",
-      "visual_route": "customer-consultation",
-      "traffic_route": "share-worthy-care",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#旅行後整理",
-        "#衣物清潔",
-        "#行李箱清潔"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json",
-      "facebook_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔",
-      "instagram_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔"
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-cashmere-scarf-916.mp4",
+      "facebook_caption": "羊絨圍巾越揉越乾淨？洗完反而又硬又縮。\n\n熱水和摩擦，都可能讓羊絨縮。\n用力搓揉，還可能起毛球。\n所以洗之前先看洗標，再決定怎麼洗。\n已經縮了能不能救，要看實物。\n\n先拍清楚整條圍巾和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "羊絨圍巾越揉越乾淨？洗完反而又硬又縮。\n\n熱水和摩擦，都可能讓羊絨縮。\n用力搓揉，還可能起毛球。\n所以洗之前先看洗標，再決定怎麼洗。\n已經縮了能不能救，要看實物。\n\n先拍清楚整條圍巾和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店"
     }
   ],
   "recent_posts": [
+    {
+      "id": "urn:sixiangjia:feature:2026-11-14:reel-cashmere-scarf-20261114",
+      "date": "2026-11-14",
+      "date_published": "2026-11-14T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜私享家洗衣店",
+      "topic": "羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#羊絨圍巾",
+        "#圍巾清洗",
+        "#衣物送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/E8uMcMmxvC8/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-cashmere-scarf-916.mp4",
+      "facebook_caption": "羊絨圍巾越揉越乾淨？洗完反而又硬又縮。\n\n熱水和摩擦，都可能讓羊絨縮。\n用力搓揉，還可能起毛球。\n所以洗之前先看洗標，再決定怎麼洗。\n已經縮了能不能救，要看實物。\n\n先拍清楚整條圍巾和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "羊絨圍巾越揉越乾淨？洗完反而又硬又縮。\n\n熱水和摩擦，都可能讓羊絨縮。\n用力搓揉，還可能起毛球。\n所以洗之前先看洗標，再決定怎麼洗。\n已經縮了能不能救，要看實物。\n\n先拍清楚整條圍巾和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店"
+    },
     {
       "id": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json#post-2026-11-13-slot-02",
       "date": "2026-11-13",
@@ -3382,41 +3347,6 @@
       "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-hotpot-coat-916.mp4",
       "facebook_caption": "羊毛大衣沾到羊肉爐湯汁，別急著丟洗衣機。\n\n這次示範的是一件米白色羊毛長大衣，吃火鍋時前襟濺到幾點帶油的湯汁。\n沾到當下，若有食物殘渣，先輕輕移除，再用乾淨白色乾紙巾或吸水布輕壓，吸起表面餘液。別搓、別沖熱水，也不要自行加清潔劑；不確定洗法，先拍照讓我們看看。\n\n不能只看到「可水洗」就直接套用一般機洗程序；洗法不當可能造成縮絨或變形，還要確認洗標上的洗程限制，並評估大衣的裡布、墊肩與整體狀況。\n我們先看洗標、材質與結構，評估污漬，再向你說明採用專業清洗或乾洗的理由；你同意後，才開始處理。\n清潔前後畫面為示意；能改善多少要看實物，不保證變全新。\n一般衣物約 5–7 天（特殊材質、重污另行確認）；不想跑一趟，台中全市免費收送。\n\n拍下污漬和洗標，傳 LINE 讓我們先看看：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n\n#羊毛大衣 #私享家洗衣店 #台中洗衣店 #大衣送洗 #衣服去漬\n\n音效：Hao0321 Studio（CC BY 4.0）",
       "instagram_caption": "羊毛大衣沾到羊肉爐湯汁，別急著丟洗衣機。\n\n這次示範的是一件米白色羊毛長大衣，吃火鍋時前襟濺到幾點帶油的湯汁。\n沾到當下，若有食物殘渣，先輕輕移除，再用乾淨白色乾紙巾或吸水布輕壓，吸起表面餘液。別搓、別沖熱水，也不要自行加清潔劑；不確定洗法，先拍照讓我們看看。\n\n不能只看到「可水洗」就直接套用一般機洗程序；洗法不當可能造成縮絨或變形，還要確認洗標上的洗程限制，並評估大衣的裡布、墊肩與整體狀況。\n我們先看洗標、材質與結構，評估污漬，再向你說明採用專業清洗或乾洗的理由；你同意後，才開始處理。\n清潔前後畫面為示意；能改善多少要看實物，不保證變全新。\n一般衣物約 5–7 天（特殊材質、重污另行確認）；不想跑一趟，台中全市免費收送。\n\n拍下污漬和洗標，傳 LINE 讓我們先看看：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n\n#羊毛大衣 #私享家洗衣店 #台中洗衣店 #大衣送洗 #衣服去漬\n\n音效：Hao0321 Studio（CC BY 4.0）"
-    },
-    {
-      "id": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json#post-2026-11-03-slot-02",
-      "date": "2026-11-03",
-      "date_published": "2026-11-03T20:30:00+08:00",
-      "slot": 2,
-      "time": "20:30",
-      "title": "2026-11-03 20:30 餐聚後外套與包包的味道",
-      "topic": "餐聚後外套與包包的味道",
-      "visual_route": "customer-consultation",
-      "traffic_route": "value-prop-lead",
-      "content_role": "evidence-conversion",
-      "search_intent": "",
-      "target_queries": [],
-      "evidence_type": "",
-      "hashtags": [
-        "#私享家洗衣店",
-        "#衣物除味",
-        "#包包保養",
-        "#生活洗護"
-      ],
-      "platforms": [
-        "facebook",
-        "instagram"
-      ],
-      "image_url": "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png",
-      "image_urls": [
-        "https://sixiangjialaundry.com/assets/2026-11-03/slot-02.png"
-      ],
-      "carousel_items": [],
-      "media_type": "image",
-      "video_url": "",
-      "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-03.json",
-      "facebook_caption": "餐聚回來後，外套和包包有時候不是髒，而是油煙味、香水味和室內味道混在一起。\n\n味道如果停在布料或皮革表面還好，若悶進內裡和提把，隔天拿出來會更明顯。\n\n我們會分開看外套材質、內裡味道、包包提把和內袋狀態，再判斷需要除味、清潔或保守整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #衣物除味 #包包保養 #生活洗護",
-      "instagram_caption": "餐聚回來後，外套和包包有時候不是髒，而是油煙味、香水味和室內味道混在一起。\n\n味道如果停在布料或皮革表面還好，若悶進內裡和提把，隔天拿出來會更明顯。\n\n我們會分開看外套材質、內裡味道、包包提把和內袋狀態，再判斷需要除味、清潔或保守整理。\n\n私享家洗衣店｜台中市區免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #衣物除味 #包包保養 #生活洗護"
     }
   ],
   "published_posts": [
@@ -16036,6 +15966,40 @@
       "calendar_url": "https://sixiangjialaundry.com/content-calendar/2026-11-13.json",
       "facebook_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔",
       "instagram_caption": "旅行回來最容易忽略的是外套袖口、行李箱輪邊和包包底部，這些地方一路都在接觸外面的灰塵。\n\n如果直接把外套掛回衣櫃、行李箱推進房間，外面的髒污也會跟著進到日常收納空間。\n\n我們會先看外套領口袖口、包包底部、行李箱把手和輪邊，再判斷哪些需要清潔、哪些只要外觀整理。\n\n私享家洗衣店｜台中市免費到府收送\n\n拍領口和袖口兩張傳 LINE，我們先看。\n\n直接點這裡問:https://sixiangjialaundry.com/go/line.html?source=post (或加 LINE:0968327653)\n\n#私享家洗衣店 #旅行後整理 #衣物清潔 #行李箱清潔"
+    },
+    {
+      "id": "urn:sixiangjia:feature:2026-11-14:reel-cashmere-scarf-20261114",
+      "date": "2026-11-14",
+      "date_published": "2026-11-14T06:00:00.000Z",
+      "slot": 0,
+      "time": "14:00",
+      "title": "羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜私享家洗衣店",
+      "topic": "羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜私享家洗衣店",
+      "visual_route": "feature-reel",
+      "traffic_route": "feature-reel",
+      "content_role": "reach-answer",
+      "search_intent": "social-video",
+      "target_queries": [],
+      "evidence_type": "published-feature-reel",
+      "hashtags": [
+        "#羊絨圍巾",
+        "#圍巾清洗",
+        "#衣物送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "platforms": [
+        "facebook",
+        "youtube",
+        "instagram"
+      ],
+      "image_url": "https://i.ytimg.com/vi/E8uMcMmxvC8/hqdefault.jpg",
+      "image_urls": [],
+      "carousel_items": [],
+      "media_type": "reel",
+      "video_url": "https://sixiangjialaundry.com/assets/services/sxj-reel-cashmere-scarf-916.mp4",
+      "facebook_caption": "羊絨圍巾越揉越乾淨？洗完反而又硬又縮。\n\n熱水和摩擦，都可能讓羊絨縮。\n用力搓揉，還可能起毛球。\n所以洗之前先看洗標，再決定怎麼洗。\n已經縮了能不能救，要看實物。\n\n先拍清楚整條圍巾和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店",
+      "instagram_caption": "羊絨圍巾越揉越乾淨？洗完反而又硬又縮。\n\n熱水和摩擦，都可能讓羊絨縮。\n用力搓揉，還可能起毛球。\n所以洗之前先看洗標，再決定怎麼洗。\n已經縮了能不能救，要看實物。\n\n先拍清楚整條圍巾和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店"
     }
   ]
 }

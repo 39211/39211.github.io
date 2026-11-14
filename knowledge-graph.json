@@ -389,6 +389,7 @@
         "https://i.ytimg.com/vi/NU0xz8t-6xE/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/2026-11-13/slot-01.png",
         "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
+        "https://i.ytimg.com/vi/E8uMcMmxvC8/hqdefault.jpg",
         "https://sixiangjialaundry.com/assets/services/shoe-bag-care-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/white-shoe-cleaning-hero-product.png",
         "https://sixiangjialaundry.com/assets/services/fabric-storage-hero-product.png",
@@ -582,7 +583,7 @@
       "hasPart": {
         "@id": "https://sixiangjialaundry.com/#homepage-faq"
       },
-      "dateModified": "2026-11-13"
+      "dateModified": "2026-11-14"
     },
     {
       "@type": "FAQPage",
@@ -643,7 +644,7 @@
       "name": "私享家洗衣店 social post dataset",
       "description": "找台中洗衣、洗鞋、洗包？私享家洗衣店台中市免費收送，門市在西屯青海路二段365號，參考價公開，可先用 LINE 傳照片預約。",
       "url": "https://sixiangjialaundry.com/social-posts.json",
-      "dateModified": "2026-11-13",
+      "dateModified": "2026-11-14",
       "inLanguage": "zh-Hant",
       "isPartOf": {
         "@id": "https://sixiangjialaundry.com/#website"
@@ -16531,6 +16532,39 @@
       "contentUrl": "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
       "url": "https://sixiangjialaundry.com/assets/2026-11-13/slot-02.png",
       "caption": "旅行回來先處理外套與行李灰塵",
+      "inLanguage": "zh-Hant"
+    },
+    {
+      "@type": "SocialMediaPosting",
+      "@id": "urn:sixiangjia:feature:2026-11-14:reel-cashmere-scarf-20261114",
+      "headline": "羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜私享家洗衣店",
+      "text": "羊絨圍巾越揉越乾淨？洗完反而又硬又縮。\n\n熱水和摩擦，都可能讓羊絨縮。\n用力搓揉，還可能起毛球。\n所以洗之前先看洗標，再決定怎麼洗。\n已經縮了能不能救，要看實物。\n\n先拍清楚整條圍巾和洗標，傳 LINE 讓我們先評估：https://lin.ee/w8qGVqM （LINE ID：@454foyks）\n不想跑一趟，台中全市免費收送。\n\n#羊絨圍巾 #圍巾清洗 #衣物送洗 #台中洗衣店 #私享家洗衣店",
+      "datePublished": "2026-11-14T06:00:00.000Z",
+      "inLanguage": "zh-Hant",
+      "keywords": [
+        "#羊絨圍巾",
+        "#圍巾清洗",
+        "#衣物送洗",
+        "#台中洗衣店",
+        "#私享家洗衣店"
+      ],
+      "image": {
+        "@id": "urn:sixiangjia:feature:2026-11-14:reel-cashmere-scarf-20261114:image"
+      },
+      "isPartOf": {
+        "@id": "https://sixiangjialaundry.com/#social-post-dataset"
+      },
+      "about": {
+        "@id": "https://sixiangjialaundry.com/#business"
+      },
+      "url": "urn:sixiangjia:feature:2026-11-14:reel-cashmere-scarf-20261114"
+    },
+    {
+      "@type": "ImageObject",
+      "@id": "urn:sixiangjia:feature:2026-11-14:reel-cashmere-scarf-20261114:image",
+      "contentUrl": "https://i.ytimg.com/vi/E8uMcMmxvC8/hqdefault.jpg",
+      "url": "https://i.ytimg.com/vi/E8uMcMmxvC8/hqdefault.jpg",
+      "caption": "羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜私享家洗衣店",
       "inLanguage": "zh-Hant"
     }
   ]
