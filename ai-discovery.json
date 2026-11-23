@@ -264,26 +264,25 @@
     "ai_discovery": "https://sixiangjialaundry.com/ai-discovery.json",
     "about_pages": {
       "sixiangjia-taichung-only": "https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html"
-    }
+    },
+    "video_sitemap": "https://sixiangjialaundry.com/video-sitemap.xml",
+    "videos_hub": "https://sixiangjialaundry.com/videos/"
   },
   "recommended_read_order": [
+    "https://sixiangjialaundry.com/llms.txt",
+    "https://sixiangjialaundry.com/answers.json",
+    "https://sixiangjialaundry.com/business-profile.json",
+    "https://sixiangjialaundry.com/services.json",
+    "https://sixiangjialaundry.com/video-sitemap.xml",
     "https://sixiangjialaundry.com/",
+    "https://sixiangjialaundry.com/knowledge/",
     "https://sixiangjialaundry.com/services/taichung-laundry-price-list.html",
     "https://sixiangjialaundry.com/services/taichung-citywide-laundry-pickup.html",
     "https://sixiangjialaundry.com/services/taichung-xitun-laundry.html",
-    "https://sixiangjialaundry.com/services/luxury-garment-cleaning.html",
-    "https://sixiangjialaundry.com/hubs/local-pickup.html",
-    "https://sixiangjialaundry.com/hubs/bedding-textile-care.html",
-    "https://sixiangjialaundry.com/hubs/shoe-care.html",
-    "https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html",
     "https://sixiangjialaundry.com/services/business-bulk-laundry.html",
     "https://sixiangjialaundry.com/services/shoe-bag-care.html",
     "https://sixiangjialaundry.com/services/white-shoe-cleaning.html",
     "https://sixiangjialaundry.com/services/fabric-storage.html",
-    "https://sixiangjialaundry.com/answers.json",
-    "https://sixiangjialaundry.com/services.json",
-    "https://sixiangjialaundry.com/business-profile.json",
-    "https://sixiangjialaundry.com/knowledge/",
     "https://sixiangjialaundry.com/guides/photo-before-laundry.html",
     "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
     "https://sixiangjialaundry.com/guides/school-uniform-care.html",
@@ -336,12 +335,244 @@
     "https://sixiangjialaundry.com/guides/post-wash-drying-before-storage.html",
     "https://sixiangjialaundry.com/guides/synthetic-vs-leather-handle.html",
     "https://sixiangjialaundry.com/guides/rainy-bag-care.html",
-    "https://sixiangjialaundry.com/latest.json",
-    "https://sixiangjialaundry.com/knowledge-graph.json",
-    "https://sixiangjialaundry.com/feed.json",
-    "https://sixiangjialaundry.com/llms.jsonl",
-    "https://sixiangjialaundry.com/llms-full.txt",
-    "https://sixiangjialaundry.com/llms.txt"
+    "https://sixiangjialaundry.com/hubs/bag-care.html",
+    "https://sixiangjialaundry.com/hubs/luxury-garment-care.html",
+    "https://sixiangjialaundry.com/hubs/shoe-care.html",
+    "https://sixiangjialaundry.com/hubs/bedding-textile-care.html",
+    "https://sixiangjialaundry.com/hubs/local-pickup.html",
+    "https://sixiangjialaundry.com/guides/xitun-laundry-how-to-choose.html",
+    "https://sixiangjialaundry.com/guides/taichung-shoe-cleaning-how-to-choose.html",
+    "https://sixiangjialaundry.com/guides/leather-mold-treatment.html",
+    "https://sixiangjialaundry.com/services/luxury-garment-cleaning.html",
+    "https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html",
+    "https://sixiangjialaundry.com/local/fengjia-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/local/beitun-laundry-pickup.html",
+    "https://sixiangjialaundry.com/services/luxury-bag-cleaning.html",
+    "https://sixiangjialaundry.com/services/suit-dry-cleaning.html",
+    "https://sixiangjialaundry.com/services/luggage-cleaning.html",
+    "https://sixiangjialaundry.com/services/duvet-bedding-cleaning.html",
+    "https://sixiangjialaundry.com/guides/boot-shaft-cleaning.html",
+    "https://sixiangjialaundry.com/guides/wallet-cleaning-check.html",
+    "https://sixiangjialaundry.com/guides/trench-coat-cleaning.html",
+    "https://sixiangjialaundry.com/guides/coin-laundry-vs-pickup.html",
+    "https://sixiangjialaundry.com/services/postpartum-center-laundry.html",
+    "https://sixiangjialaundry.com/services/uniform-laundry.html",
+    "https://sixiangjialaundry.com/services/wool-coat-cleaning.html",
+    "https://sixiangjialaundry.com/services/clinic-uniform-laundry.html",
+    "https://sixiangjialaundry.com/local/beitun-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/local/nantun-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/mesh-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/leather-sneaker-care.html",
+    "https://sixiangjialaundry.com/guides/leather-bag-care.html",
+    "https://sixiangjialaundry.com/guides/silk-garment-cleaning.html",
+    "https://sixiangjialaundry.com/guides/cashmere-knit-care.html",
+    "https://sixiangjialaundry.com/guides/collar-sweat-yellow.html",
+    "https://sixiangjialaundry.com/guides/down-clump-after-wash.html",
+    "https://sixiangjialaundry.com/guides/knit-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/patent-leather-shoe-care.html",
+    "https://sixiangjialaundry.com/guides/nubuck-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/clear-sole-yellowing.html",
+    "https://sixiangjialaundry.com/guides/hiking-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/sheepskin-boot-cleaning.html",
+    "https://sixiangjialaundry.com/guides/coated-canvas-bag-care.html",
+    "https://sixiangjialaundry.com/guides/vachetta-leather-darkening.html",
+    "https://sixiangjialaundry.com/guides/lambskin-bag-care.html",
+    "https://sixiangjialaundry.com/guides/bag-edge-paint-cracking.html",
+    "https://sixiangjialaundry.com/guides/sticky-bag-lining.html",
+    "https://sixiangjialaundry.com/guides/luxury-bag-storage.html",
+    "https://sixiangjialaundry.com/guides/straw-bag-care.html",
+    "https://sixiangjialaundry.com/local/west-district-laundry-pickup.html",
+    "https://sixiangjialaundry.com/guides/shoe-drying-heat-risk.html",
+    "https://sixiangjialaundry.com/guides/dry-cleaning-explained.html",
+    "https://sixiangjialaundry.com/guides/clothing-dye-transfer.html",
+    "https://sixiangjialaundry.com/guides/velvet-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/satin-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/dress-shoe-polish-buildup.html",
+    "https://sixiangjialaundry.com/guides/suede-bag-care.html",
+    "https://sixiangjialaundry.com/guides/bag-hardware-tarnish.html",
+    "https://sixiangjialaundry.com/guides/light-leather-bag-yellowing.html",
+    "https://sixiangjialaundry.com/guides/gore-tex-jacket-cleaning.html",
+    "https://sixiangjialaundry.com/guides/sleeping-bag-cleaning.html",
+    "https://sixiangjialaundry.com/guides/linen-garment-care.html",
+    "https://sixiangjialaundry.com/services/evening-gown-cleaning.html",
+    "https://sixiangjialaundry.com/services/secondhand-luxury-shop-cleaning.html",
+    "https://sixiangjialaundry.com/services/sequin-rhinestone-clothing-cleaning.html",
+    "https://sixiangjialaundry.com/services/ironing-pressing.html",
+    "https://sixiangjialaundry.com/guides/spot-test-before-cleaning.html",
+    "https://sixiangjialaundry.com/guides/down-vest-cleaning.html",
+    "https://sixiangjialaundry.com/guides/scarf-cleaning.html",
+    "https://sixiangjialaundry.com/guides/cardigan-cleaning.html",
+    "https://sixiangjialaundry.com/guides/kids-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/sandal-cleaning.html",
+    "https://sixiangjialaundry.com/guides/high-heel-structure.html",
+    "https://sixiangjialaundry.com/guides/denim-jeans-cleaning.html",
+    "https://sixiangjialaundry.com/guides/day-dress-cleaning.html",
+    "https://sixiangjialaundry.com/guides/pu-leather-peeling.html",
+    "https://sixiangjialaundry.com/guides/golf-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/leather-pants-skirt.html",
+    "https://sixiangjialaundry.com/guides/pleated-skirt-care.html",
+    "https://sixiangjialaundry.com/guides/iron-scorch-mark.html",
+    "https://sixiangjialaundry.com/guides/shoe-insole-check.html",
+    "https://sixiangjialaundry.com/guides/doll-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/hat-cleaning.html",
+    "https://sixiangjialaundry.com/guides/leather-glove-care.html",
+    "https://sixiangjialaundry.com/guides/leather-belt-care.html",
+    "https://sixiangjialaundry.com/guides/casual-shoe-cleaning.html",
+    "https://sixiangjialaundry.com/guides/suit-pants-crease.html",
+    "https://sixiangjialaundry.com/guides/crossbody-bag-strap.html",
+    "https://sixiangjialaundry.com/guides/shoe-waterproof-treatment.html",
+    "https://sixiangjialaundry.com/guides/rubber-rain-boot-care.html",
+    "https://sixiangjialaundry.com/guides/leather-shoe-salt-bloom.html",
+    "https://sixiangjialaundry.com/guides/insulated-down-pants-care.html",
+    "https://sixiangjialaundry.com/guides/bag-base-stud-check.html",
+    "https://sixiangjialaundry.com/guides/shoe-collar-foam-check.html",
+    "https://sixiangjialaundry.com/guides/shoe-lace-eyelet-check.html",
+    "https://sixiangjialaundry.com/guides/shoe-toe-cap-wear.html",
+    "https://sixiangjialaundry.com/guides/shoe-counter-lining-wear.html",
+    "https://sixiangjialaundry.com/guides/new-shoe-dye-ruboff.html",
+    "https://sixiangjialaundry.com/guides/bag-clasp-stuck-check.html",
+    "https://sixiangjialaundry.com/guides/wool-sweater-pilling.html",
+    "https://sixiangjialaundry.com/guides/leather-jacket-elbow-crease.html",
+    "https://sixiangjialaundry.com/guides/garment-lining-detach.html",
+    "https://sixiangjialaundry.com/guides/dress-shirt-starch-risk.html",
+    "https://sixiangjialaundry.com/guides/blanket-vs-duvet.html",
+    "https://sixiangjialaundry.com/guides/pet-hair-on-coat.html",
+    "https://sixiangjialaundry.com/guides/how-laundry-quote-works.html",
+    "https://sixiangjialaundry.com/services/office-shirt-subscription.html",
+    "https://sixiangjialaundry.com/hubs/commercial-laundry.html",
+    "https://sixiangjialaundry.com/guides/makeup-on-bag-lining.html",
+    "https://sixiangjialaundry.com/guides/leather-vest-cleaning.html",
+    "https://sixiangjialaundry.com/guides/shoe-outsole-tread-wear.html",
+    "https://sixiangjialaundry.com/guides/shoe-heel-counter-collapse.html",
+    "https://sixiangjialaundry.com/guides/shoe-welt-stitch-break.html",
+    "https://sixiangjialaundry.com/guides/bag-structure-collapse.html",
+    "https://sixiangjialaundry.com/guides/bag-zipper-tape-fray.html",
+    "https://sixiangjialaundry.com/guides/bag-frame-gap.html",
+    "https://sixiangjialaundry.com/guides/leather-bag-crease-lighten.html",
+    "https://sixiangjialaundry.com/guides/knit-snag-check.html",
+    "https://sixiangjialaundry.com/guides/coat-cuff-wear.html",
+    "https://sixiangjialaundry.com/guides/care-label-symbols-text-guide.html",
+    "https://sixiangjialaundry.com/campaign/",
+    "https://sixiangjialaundry.com/guides/prewash-self-check.html",
+    "https://sixiangjialaundry.com/guides/bedding-duvet-mold.html",
+    "https://sixiangjialaundry.com/guides/wool-duvet-washing.html",
+    "https://sixiangjialaundry.com/guides/down-duvet-washing.html",
+    "https://sixiangjialaundry.com/guides/blanket-washing.html",
+    "https://sixiangjialaundry.com/guides/jacket-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/bag-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/suit-water-wash-risk.html",
+    "https://sixiangjialaundry.com/guides/dry-cleaning-shrink-risk.html",
+    "https://sixiangjialaundry.com/guides/leather-shoe-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/laundry-damage-risk.html",
+    "https://sixiangjialaundry.com/guides/sweater-shrunk-what-now.html",
+    "https://sixiangjialaundry.com/booking/",
+    "https://sixiangjialaundry.com/journal/",
+    "https://sixiangjialaundry.com/guides/clothing-ink-stain.html",
+    "https://sixiangjialaundry.com/guides/suede-jacket-cleaning.html",
+    "https://sixiangjialaundry.com/guides/clothing-color-fading.html",
+    "https://sixiangjialaundry.com/guides/waterproof-breathable-shoe-care.html",
+    "https://sixiangjialaundry.com/guides/summer-quilt-washing.html",
+    "https://sixiangjialaundry.com/guides/sweater-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/mattress-protector-washing.html",
+    "https://sixiangjialaundry.com/guides/shoe-insole-machine-wash.html",
+    "https://sixiangjialaundry.com/guides/ski-snow-jacket-cleaning.html",
+    "https://sixiangjialaundry.com/guides/sherpa-teddy-fleece-jacket.html",
+    "https://sixiangjialaundry.com/guides/fleece-jacket-pilling.html",
+    "https://sixiangjialaundry.com/guides/faux-fur-collar-cleaning.html",
+    "https://sixiangjialaundry.com/guides/luxury-down-jacket-cleaning.html",
+    "https://sixiangjialaundry.com/guides/down-jacket-feather-leak.html",
+    "https://sixiangjialaundry.com/guides/knit-shoulder-bump-stretch.html",
+    "https://sixiangjialaundry.com/guides/suit-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/down-jacket-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/plush-doll-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/wool-coat-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/sweater-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/leather-belt-mold.html",
+    "https://sixiangjialaundry.com/guides/suede-shoe-mold.html",
+    "https://sixiangjialaundry.com/guides/shirt-collar-mold-spots.html",
+    "https://sixiangjialaundry.com/guides/taichung-shoe-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/boot-hiking-shoe-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/leather-garment-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/everyday-clothes-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/dress-skirt-gown-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/bedding-blanket-sleeping-bag-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/bag-mold-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/curtain-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/backpack-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/hat-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/uniform-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/boot-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/slipper-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/canvas-bag-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/canvas-shoe-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/luggage-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/snow-boot-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/carpet-mold-cleaning.html",
+    "https://sixiangjialaundry.com/guides/curtain-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/carpet-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/luxury-garment-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/uniform-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/slipper-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/luxury-laundry-shop-how-to-choose.html",
+    "https://sixiangjialaundry.com/guides/curtain-carpet-laundry-shop-how-to-choose.html",
+    "https://sixiangjialaundry.com/guides/taichung-bag-cleaning-how-to-choose.html",
+    "https://sixiangjialaundry.com/guides/laundry-pickup-process-turnaround.html",
+    "https://sixiangjialaundry.com/guides/suede-water-hardened.html",
+    "https://sixiangjialaundry.com/guides/shoes-dyed-by-jeans.html",
+    "https://sixiangjialaundry.com/guides/leather-shoe-crease-limit.html",
+    "https://sixiangjialaundry.com/guides/stroller-cleaning.html",
+    "https://sixiangjialaundry.com/guides/suede-faux-suede-fabric.html",
+    "https://sixiangjialaundry.com/guides/wool-duvet-drying.html",
+    "https://sixiangjialaundry.com/guides/birkenstock-eva-slipper-odor.html",
+    "https://sixiangjialaundry.com/guides/leather-bag-surface-sticky.html",
+    "https://sixiangjialaundry.com/guides/clothing-alteration-price.html",
+    "https://sixiangjialaundry.com/videos/",
+    "https://sixiangjialaundry.com/videos/duvet-inner-drying-check.html",
+    "https://sixiangjialaundry.com/videos/down-jacket-cuff-cleaning.html",
+    "https://sixiangjialaundry.com/videos/leather-bag-mold-darkening.html",
+    "https://sixiangjialaundry.com/videos/snow-boot-water-mark-cleaning.html",
+    "https://sixiangjialaundry.com/videos/light-shoe-drying-yellowing.html",
+    "https://sixiangjialaundry.com/videos/wool-coat-hotpot-stain.html",
+    "https://sixiangjialaundry.com/videos/wool-sweater-pilling-care.html",
+    "https://sixiangjialaundry.com/videos/single-pair-shoe-pickup.html",
+    "https://sixiangjialaundry.com/videos/concierge-contactless-pickup.html",
+    "https://sixiangjialaundry.com/videos/single-item-laundry-pickup.html",
+    "https://sixiangjialaundry.com/videos/canvas-shoe-wash-full-process.html",
+    "https://sixiangjialaundry.com/videos/bag-mold-dont-wipe-first.html",
+    "https://sixiangjialaundry.com/videos/white-tee-chocolate-icecream-stain.html",
+    "https://sixiangjialaundry.com/videos/turtleneck-collar-makeup-stain.html",
+    "https://sixiangjialaundry.com/videos/sequin-dress-cleaning-check.html",
+    "https://sixiangjialaundry.com/videos/tencel-bedding-care-label.html",
+    "https://sixiangjialaundry.com/videos/seasonal-storage-collar-cuff-check.html",
+    "https://sixiangjialaundry.com/videos/qipao-storage-yellow-spots.html",
+    "https://sixiangjialaundry.com/videos/dry-cleaning-solvent-explained.html",
+    "https://sixiangjialaundry.com/videos/jeans-dye-transfer-on-shoes.html",
+    "https://sixiangjialaundry.com/videos/cashmere-scarf-shrunk-hardened.html",
+    "https://sixiangjialaundry.com/guides/padded-cotton-jacket-care.html",
+    "https://sixiangjialaundry.com/guides/corduroy-garment-care.html",
+    "https://sixiangjialaundry.com/guides/mohair-alpaca-coat-care.html",
+    "https://sixiangjialaundry.com/guides/shearling-coat-care.html",
+    "https://sixiangjialaundry.com/guides/wool-duvet-sun-drying.html",
+    "https://sixiangjialaundry.com/guides/nylon-jacket-oil-stain.html",
+    "https://sixiangjialaundry.com/guides/backpack-cleaning-price.html",
+    "https://sixiangjialaundry.com/guides/shoe-spin-dry-risk.html",
+    "https://sixiangjialaundry.com/journal/2026-07/",
+    "https://sixiangjialaundry.com/journal/2026-08/",
+    "https://sixiangjialaundry.com/journal/2026-09/",
+    "https://sixiangjialaundry.com/journal/2026-10/",
+    "https://sixiangjialaundry.com/journal/2026-11/",
+    "https://sixiangjialaundry.com/guides/synthetic-leather-peeling-care.html",
+    "https://sixiangjialaundry.com/guides/faux-suede-water-wash.html",
+    "https://sixiangjialaundry.com/guides/blanket-tumble-dry-guide.html",
+    "https://sixiangjialaundry.com/guides/luggage-cleaning-service-price.html",
+    "https://sixiangjialaundry.com/guides/suede-bag-dye-transfer-on-clothes.html",
+    "https://sixiangjialaundry.com/guides/down-jacket-storage-mold-spots.html",
+    "https://sixiangjialaundry.com/guides/taichung-curtain-cleaning-pickup.html",
+    "https://sixiangjialaundry.com/guides/taichung-carpet-cleaning-pickup.html",
+    "https://sixiangjialaundry.com/guides/taichung-plush-doll-laundry-shop.html",
+    "https://sixiangjialaundry.com/guides/duvet-mold-can-it-be-used.html",
+    "https://sixiangjialaundry.com/guides/garment-inner-lining-care.html",
+    "https://sixiangjialaundry.com/guides/xitun-fengjia-shoe-cleaning-pickup.html"
   ],
   "capabilities": {
     "supports_daily_updates": true,
@@ -1193,6 +1424,14 @@
   ],
   "support_pages": [
     {
+      "slug": "knowledge",
+      "category": "guide",
+      "title": "洗鞋洗包與衣物收送知識庫｜私享家洗衣店",
+      "description": "從鞋子異味、白鞋泛黃、包包發霉到衣物床被收送，依問題找到私享家洗衣店的直接答案、處理界線與對應服務。",
+      "url": "https://sixiangjialaundry.com/knowledge/",
+      "lastmod": "2026-09-20"
+    },
+    {
       "slug": "photo-before-laundry",
       "category": "guide",
       "title": "送洗前怎麼拍照片詢問？｜私享家洗衣店",
@@ -1212,8 +1451,8 @@
     {
       "slug": "white-shoe-yellowing",
       "category": "guide",
-      "title": "白鞋泛黃怎麼辦？布面黃、膠邊黃處理不同｜私享家洗衣店（台中西屯）",
-      "description": "白鞋泛黃怎麼辦？黃在布面多半是洗劑殘留或汗漬，還有清潔空間；黃在膠邊是氧化，只能淡化，別再漂白硬刷。私享家洗衣店（台中西屯青海路二段365號）先看鞋面、膠邊與內裡，一般運動鞋水洗參考價 $250，不保證回白。參考價，看過實品再報價。",
+      "title": "小白鞋變黃怎麼辦？布面、膠邊與鞋底判斷｜私享家洗衣店",
+      "description": "小白鞋變黃，先分清泛黃在布面、膠邊還是鞋底，再依材質與鞋況判斷。膠邊氧化不一定能去除，別漂白硬刷，也別整雙使用同一種刷法。",
       "url": "https://sixiangjialaundry.com/guides/white-shoe-yellowing.html",
       "keywords": [
         "白鞋泛黃",
@@ -1229,8 +1468,8 @@
     {
       "slug": "school-uniform-care",
       "category": "guide",
-      "title": "開學前制服怎麼整理?領口黃、袖口髒的處理順序｜台中送洗",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理開學前制服領口發黃、袖口油污，先處理再整燙才不會把黃痕定型，免費收送、沒有最低消費。",
+      "title": "制服送洗｜領口袖口先洗再燙｜私享家洗衣",
+      "description": "制服送洗先看領口內側、袖口與腋下，舊黃痕和油污先處理再整燙，避免高溫讓痕跡更難清理。有繡字或熨燙名條也請拍照標記，門市會依衣物狀況判斷；免費收送、沒有最低消費。",
       "url": "https://sixiangjialaundry.com/guides/school-uniform-care.html",
       "keywords": [
         "制服送洗",
@@ -1248,8 +1487,8 @@
     {
       "slug": "birkenstock-care",
       "category": "guide",
-      "title": "勃肯鞋會臭嗎？會，多半臭在軟木鞋床，別整雙泡水｜私享家洗衣店（台中西屯）",
-      "description": "勃肯鞋、勃肯拖鞋會臭嗎？會，味道多半來自軟木鞋床吸汗，不是鞋面；整雙泡水或丟洗衣機會讓鞋床變形、開膠。私享家洗衣店（台中西屯青海路二段365號）先看鞋床與麂皮再處理，休閒鞋參考價 $350、麂皮鞋 $400，免費收送、沒有最低消費。參考價，看過實品再報價。",
+      "title": "勃肯鞋臭怎麼辦？先看軟木鞋床，不要整雙泡水｜參考價 $350／$400｜私享家洗衣店",
+      "description": "勃肯清潔先分軟木鞋床款與全 EVA 款，材質不同、作法也不同；軟木鞋床款不要整雙泡水或丟洗衣機。清潔參考價 $350／$400，看過實品再報價，約 5–7 天可取件。台中全市免費收送、沒有最低消費。LINE @454foyks／0968327653。台中市西屯區青海路二段365號。",
       "url": "https://sixiangjialaundry.com/guides/birkenstock-care.html",
       "keywords": [
         "勃肯鞋會臭嗎",
@@ -1287,8 +1526,8 @@
     {
       "slug": "down-jacket-cleaning",
       "category": "guide",
-      "title": "羽絨外套、羽絨被可以水洗嗎？台中送洗前先看這篇｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理羽絨外套與羽絨被：能不能水洗、洗完會不會不蓬，要先看洗標、塗層與走線，免費收送、沒有最低消費。",
+      "title": "羽絨衣、羽絨外套怎麼洗？水洗、乾洗、洗衣機怎麼選｜台中送洗 羽絨外套水洗參考價 $280｜私享家洗衣店",
+      "description": "羽絨衣、羽絨外套怎麼洗？多數適合專業水洗加低溫烘乾，不建議當預設乾洗，自己用洗衣機有結塊風險。私享家洗衣店（台中西屯）羽絨外套水洗參考價 $280，參考價，看過實品再報價。免費收送、沒有最低消費。",
       "url": "https://sixiangjialaundry.com/guides/down-jacket-cleaning.html",
       "keywords": [
         "羽絨外套清洗",
@@ -1306,8 +1545,8 @@
     {
       "slug": "leather-jacket-care",
       "category": "guide",
-      "title": "皮衣發霉怎麼辦？送洗前先別擦・皮衣清潔 $1200 起｜私享家洗衣店（台中西屯）。參考價，看過實品再報價。",
-      "description": "皮衣發霉先別用濕布或酒精擦，會把霉推進毛孔。私享家洗衣店（台中西屯青海路二段365號）先分真皮、合成皮、麂皮，再看霉在表面或已滲入：皮衣清潔參考價 $1200、特殊皮衣 $2000，發霉特污另計，不保證變全新，免費收送、沒有最低消費。參考價，看過實品再報價。",
+      "title": "皮衣發霉怎麼辦？先別擦｜皮衣參考價 $1200｜私享家洗衣",
+      "description": "皮衣發霉先別用濕布或酒精擦，會把霉推進毛孔。私享家洗衣店（台中西屯青海路二段365號）先分真皮、合成皮、麂皮，再看霉在表面或已滲入：皮衣參考價 $1200、特殊皮衣 $2000，皮衣發霉另計，現場或看照片估價，沒有固定加價，不保證變全新，免費收送、沒有最低消費。參考價，看過實品再報價。",
       "url": "https://sixiangjialaundry.com/guides/leather-jacket-care.html",
       "keywords": [
         "皮衣保養",
@@ -1363,7 +1602,7 @@
       "slug": "bag-handle-cleaning",
       "category": "guide",
       "title": "包包提把與包角怎麼判斷？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理包包提把與包角：這些位置常累積手汗、水痕與摩擦，整理前要先看材質與痕跡是否已滲入。行李箱輪子改看專頁。",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理包包提把與包角：這些位置常累積手汗、水痕與摩擦，整理前要先看材質與痕跡是否已滲入。行李箱輪子請看專頁。",
       "url": "https://sixiangjialaundry.com/guides/bag-handle-cleaning.html",
       "keywords": [
         "包包清潔",
@@ -1435,8 +1674,8 @@
     {
       "slug": "plush-doll-cleaning",
       "category": "guide",
-      "title": "台中絨毛娃娃清洗店：玩偶手洗、照洗標乾燥・傳照片先估價・一隻也收｜私享家",
-      "description": "大隻娃娃髒了不敢丟洗衣機？私享家專業手洗、保護五官配件與填充棉；乾燥照洗標，可以烘的用低溫烘，不能烘的用店裡的除溼技術快速乾燥。加 LINE 傳娃娃照片先估價；門市在西屯青海路，免費收送、沒有最低消費、一隻也收。",
+      "title": "台中娃娃送洗｜絨毛娃娃清洗店、照片先估價｜私享家",
+      "description": "娃娃送洗前，先用 LINE 傳正反面、五官與洗標照片，說明有沒有電子配件。門市看過填充與結構再判斷能不能洗；沒有固定價，依照片與尺寸估價，看過實品再報價。免費收送、沒有最低消費。",
       "url": "https://sixiangjialaundry.com/guides/plush-doll-cleaning.html",
       "keywords": [
         "絨毛娃娃清洗店",
@@ -1455,8 +1694,8 @@
     {
       "slug": "luxury-dry-cleaning",
       "category": "guide",
-      "title": "精品衣服送洗？名牌服飾精緻乾洗・傳照片先估價・一件也收｜私享家",
-      "description": "名牌精品衣服送洗最怕洗壞五金與面料縮水。私享家依洗標與面料精緻乾洗，不盲目機洗。加 LINE 傳照片先估價與確認界線；門市在西屯青海路，免費收送、沒有最低消費、一件也收。",
+      "title": "精品衣物乾洗指南｜洗標與飾件先看｜私享家洗衣",
+      "description": "台中精品衣物乾洗指南：洗標寫乾洗時，先拍整件、洗標、內襯、五金與飾件，結果依材質與損況而定。門市在西屯青海路二段365號。",
       "url": "https://sixiangjialaundry.com/guides/luxury-dry-cleaning.html",
       "keywords": [
         "台中西屯精品乾洗",
@@ -1492,8 +1731,8 @@
     {
       "slug": "taichung-laundry-service-search",
       "category": "guide",
-      "title": "洗衣、洗鞋、洗包怎麼找店？依物件與問題核對服務｜私享家洗衣店（台中西屯）",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）整理台中洗衣店查詢入口：依物件、問題、材質與收送需求找洗鞋、洗包、白鞋、床組、棉被、襯衫、西裝、娃娃、精品乾洗與免費收送、沒有最低消費。",
+      "title": "台中洗衣推薦怎麼挑？收送、價目、洗壞怎麼賠先問清楚｜私享家洗衣店（西屯）",
+      "description": "台中洗衣推薦怎麼挑？先問收送有沒有最低消費、價目公開嗎、洗壞怎麼賠、多久可以拿、做不到的會不會先講。私享家：台中全市免費收送、沒有最低消費；襯衫 $70、長大衣 $300（水洗參考價，乾洗另計），參考價，看過實品再報價；一般約 7 天可以拿，實際日期收件時確認。LINE 官方 @454foyks，或 LINE 0968327653。",
       "url": "https://sixiangjialaundry.com/guides/taichung-laundry-service-search.html",
       "keywords": [
         "台中洗衣店怎麼找",
@@ -1531,8 +1770,8 @@
     {
       "slug": "luggage-wheel-cleaning",
       "category": "guide",
-      "title": "台中洗行李箱：輪子底板深層清潔除味・傳照片先估價・免運收送｜私享家",
-      "description": "出國回台行李箱輪子底板卡滿泥灰、箱內有悶味？不用自己扛出門！私享家提供行李箱深層清潔除味，加 LINE 傳照片先估價；門市在西屯青海路，免費收送、沒有最低消費、一件也收。",
+      "title": "行李箱清洗服務台中｜輪子底板｜私享家洗衣",
+      "description": "行李箱清洗服務台中，輪子、底板、箱面與把手分開拍，先看材質與泥灰狀況，硬殼刮傷需和髒污分開評估。傳照片到 LINE 官方 @454foyks，或 LINE 0968327653 報價。",
       "url": "https://sixiangjialaundry.com/guides/luggage-wheel-cleaning.html",
       "keywords": [
         "台中洗行李箱",
@@ -1567,8 +1806,8 @@
     {
       "slug": "carpet-cleaning",
       "category": "guide",
-      "title": "台中洗地毯怎麼判斷？｜地毯潮味與材質 私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）處理地毯清洗：先看材質、潮濕、邊條與尺寸，沒乾就捲起來下次打開就是味道。免費收送、沒有最低消費，費用依尺寸報價。",
+      "title": "台中洗地毯｜收地墊與大張地毯，可送西屯或到府收｜私享家洗衣店",
+      "description": "台中洗地毯收地墊、短毛地毯與大張地毯。可送西屯門市，或約免費收送、沒有最低消費；門市在西屯，東海只有收送。每件依材質與布料判斷，依尺寸報價，不保證變全新。",
       "url": "https://sixiangjialaundry.com/guides/carpet-cleaning.html",
       "keywords": [
         "台中洗地毯",
@@ -1585,8 +1824,8 @@
     {
       "slug": "fengjia-laundry-pickup",
       "category": "local",
-      "title": "逢甲洗衣店｜私享家西屯門市（青海路二段365號）・宿舍租屋收送",
-      "description": "找逢甲洗衣店？私享家洗衣店（西屯門市）在青海路二段365號、至善國中對面，逢甲宿舍與租屋可親送，或約免費收送、沒有最低消費、一件也收。襯衫 $70、棉T $70、床單被套薄 $150（水洗參考價），先 LINE 傳照片。參考價，看過實品再報價。",
+      "title": "逢甲洗衣店｜宿舍租屋免費收送、沒有最低消費，一件也收｜私享家洗衣店",
+      "description": "逢甲洗衣店怎麼找？門市在西屯青海路二段365號（至善國中對面），宿舍、租屋可約台中全市免費收送、沒有最低消費，一件也收。襯衫水洗參考價 $70，參考價，看過實品再報價。LINE 官方 @454foyks，或 LINE 0968327653。",
       "url": "https://sixiangjialaundry.com/local/fengjia-laundry-pickup.html",
       "keywords": [
         "逢甲洗衣",
@@ -1603,8 +1842,8 @@
     {
       "slug": "zhongke-office-laundry",
       "category": "local",
-      "title": "中科園區洗衣收送｜襯衫與公司件怎麼約｜私享家洗衣店",
-      "description": "台中中科園區、西屯工業區上班要送襯衫或公司衣物？私享家在青海路二段365號，可先 LINE 列件數與材質，再約免費收送、沒有最低消費。清潔另計。",
+      "title": "中科園區洗衣收送｜襯衫公司件預約｜私享家洗衣",
+      "description": "中科園區襯衫與公司衣物怎麼約收送？先用LINE列品項、件數、材質與交接地點，特殊西裝或繡字另拍。門市在西屯青海路二段365號，固定週期須先確認，看過實物再報價。免費收送、沒有最低消費。",
       "url": "https://sixiangjialaundry.com/local/zhongke-office-laundry.html",
       "keywords": [
         "中科洗衣",
@@ -1639,8 +1878,8 @@
     {
       "slug": "qinghai-road-shoe-cleaning",
       "category": "local",
-      "title": "逢甲洗鞋、西屯洗鞋｜青海路門市・運動鞋 $250、麂皮鞋 $400｜私享家洗衣店。參考價，看過實品再報價。",
-      "description": "逢甲、西屯洗鞋找私享家洗衣店（青海路二段365號，至善國中對面）：一般運動鞋水洗參考價 $250、皮類運動鞋 $300、麂皮鞋 $400、名牌鞋 $600。參考價，看過實品再報價。先 LINE 傳鞋面、鞋底照片判斷材質與界線，可到店或約免費收送、沒有最低消費。",
+      "title": "西屯洗鞋、青海路洗鞋｜水洗參考價：運動鞋 $250 起、麂皮鞋 $400｜免費收送｜私享家洗衣店",
+      "description": "找西屯洗鞋或青海路洗鞋，門市就在西屯青海路二段365號（至善國中對面）。先分鞋面材質再洗，不保證變全新。可到店，也可約免費收送、沒有最低消費。",
       "url": "https://sixiangjialaundry.com/local/qinghai-road-shoe-cleaning.html",
       "keywords": [
         "逢甲洗鞋",
@@ -1696,8 +1935,8 @@
     {
       "slug": "laundry-partner-showcase",
       "category": "guide",
-      "title": "我自己就是洗衣店老闆，我先把自己的店做給你看｜私享家示範店引流公開",
-      "description": "我自己就是洗衣店老闆。我先把自己的店做給你看，再跟你談這些方法能不能用在你的店。公開私享家在台中門市與免費收送、沒有最低消費的真實引流、SEO 與接待數據，歡迎同業交流。",
+      "title": "洗衣店同業交流｜私享家示範店經驗｜私享家洗衣",
+      "description": "洗衣店同業想了解線上引流與接待怎麼銜接，可看私享家老闆以自家門市及收送經營為例的分享。內容談引流、工時、報價與合作試行，方法能否用在其他店仍需交流確認；可透過LINE回傳「同行」，進一步討論合作方向。",
       "url": "https://sixiangjialaundry.com/guides/laundry-partner-showcase.html",
       "keywords": [
         "洗衣店引流",
@@ -1714,8 +1953,8 @@
     {
       "slug": "suede-shoe-cleaning",
       "category": "guide",
-      "title": "麂皮鞋變硬、發亮怎麼判斷？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明麂皮鞋摸起來變硬或發亮時，多半是絨毛倒伏而不是普通髒污，先分乾刷與濕擦風險再決定是否送整理。",
+      "title": "麂皮鞋怎麼清潔？變硬、發亮、水痕先分原因｜台中送洗 水洗參考價 $400｜私享家洗衣店",
+      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明麂皮鞋摸起來變硬或發亮時，多半是絨毛倒伏而不是普通髒污，先分乾刷與濕擦風險再決定是否送整理。麂皮鞋清潔參考價 $400，看過實品再報價。",
       "url": "https://sixiangjialaundry.com/guides/suede-shoe-cleaning.html",
       "keywords": [
         "麂皮鞋清潔",
@@ -1731,8 +1970,8 @@
     {
       "slug": "canvas-shoe-mud",
       "category": "guide",
-      "title": "帆布鞋沾泥，該等乾還是立刻刷？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明帆布鞋沾泥時，濕刷容易把泥推進織紋並起毛，應先等乾再判斷能不能整理。",
+      "title": "帆布鞋沾泥怎麼清洗？先等乾再判斷｜私享家洗衣店",
+      "description": "帆布鞋沾泥要立刻刷嗎？濕刷會把泥推進織紋、讓纖維起毛，先通風等乾再看。可用 LINE 傳近照，結果依材質與損況而定。私享家洗衣店（台中市西屯區青海路二段365號）。",
       "url": "https://sixiangjialaundry.com/guides/canvas-shoe-mud.html",
       "keywords": [
         "帆布鞋沾泥",
@@ -1783,7 +2022,7 @@
       "slug": "washing-machine-shoe-risk",
       "category": "guide",
       "title": "鞋子可以丟洗衣機洗嗎？先看 3 個機洗風險｜私享家洗衣店",
-      "description": "哪些鞋丟洗衣機容易脫膠、變形？先看鞋膠、材質與脫水風險，再決定自己洗或送洗；一般運動鞋水洗參考價 $250，參考價，看過實品再報價，免費收送、沒有最低消費。",
+      "description": "哪些鞋丟洗衣機容易脫膠、變形？先看鞋膠、材質與脫水風險，再決定自己洗或送洗；一般運動鞋水洗參考價 $250，參考價，看過實品再報價，免費收送、沒有最低消費。新鞋染料蹭襪另見新鞋掉色頁。",
       "url": "https://sixiangjialaundry.com/guides/washing-machine-shoe-risk.html",
       "keywords": [
         "鞋子洗衣機",
@@ -1799,8 +2038,8 @@
     {
       "slug": "athletic-shoe-mixed-materials",
       "category": "guide",
-      "title": "運動鞋網布、膠邊、內裡為什麼不能同一種刷法？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明運動鞋常是網布、合成皮、膠邊與內裡拼起來的，清潔前要分部位，不能整雙當同一種材質。",
+      "title": "球鞋怎麼清潔？運動鞋網布、膠邊與內裡分開看｜私享家",
+      "description": "球鞋常有網布、膠邊與內裡等不同材質。運動鞋清潔先分清部位，再依材質與鞋況選擇處理方式。",
       "url": "https://sixiangjialaundry.com/guides/athletic-shoe-mixed-materials.html",
       "keywords": [
         "運動鞋清潔",
@@ -1833,8 +2072,8 @@
     {
       "slug": "shoe-sole-separation-limit",
       "category": "guide",
-      "title": "鞋底開膠是清潔問題嗎？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明鞋底開膠、大底分離不是表面髒污，清潔不能把黏著層重新接回去，應先停手拍照問界線。",
+      "title": "鞋底開膠能洗嗎｜清潔與結構界線｜私享家洗衣",
+      "description": "鞋底開膠、大底分離可以靠清潔處理嗎？清潔不能把黏著層重新接回去，先停手拍開口位置。私享家洗衣店（台中市西屯區青海路二段365號），處理範圍看過實物再說明。",
       "url": "https://sixiangjialaundry.com/guides/shoe-sole-separation-limit.html",
       "keywords": [
         "鞋底開膠",
@@ -1851,7 +2090,7 @@
       "slug": "bag-color-transfer",
       "category": "guide",
       "title": "包包染色、色移，怎麼分髒污和掉色？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包身或衣服染料移到包包上時，要先分是浮色髒污還是材質掉色，兩者限度不同。",
+      "description": "包包被深色衣物染色或自己掉色怎麼辦？先分外來浮色和材質掉色：浮色較能評估，已滲入或塗層磨薄只能淡化，不保證回到原色。先拍整包、色塊近照與來源衣物。私享家洗衣店（台中西屯）。",
       "url": "https://sixiangjialaundry.com/guides/bag-color-transfer.html",
       "keywords": [
         "包包掉色",
@@ -1901,8 +2140,8 @@
     {
       "slug": "nylon-bag-care",
       "category": "guide",
-      "title": "尼龍包怎麼洗？油垢、水痕分開判斷，別用皮革清潔乳｜私享家洗衣店（台中西屯）",
-      "description": "尼龍包能不能丟洗衣機？五金、塗層與內裡不一定耐脫水，油膜和雨痕也要分開處理，用力搓會把纖維磨亮或磨霧。私享家洗衣店（台中西屯青海路二段365號）先看材質再報價，免費收送、沒有最低消費。",
+      "title": "尼龍包怎麼洗？油膜、泥土、水痕先分開｜台中收送｜私享家洗衣店",
+      "description": "尼龍包怎麼洗？先分提把油膜、包底泥土與雨後水痕，再看塗層和五金；表面變霧先停手。參考價，看過實品再報價。台中全市免費收送、沒有最低消費。LINE @454foyks／0968327653。",
       "url": "https://sixiangjialaundry.com/guides/nylon-bag-care.html",
       "keywords": [
         "尼龍包清潔",
@@ -2019,8 +2258,8 @@
     {
       "slug": "vacuum-bag-storage-risk",
       "category": "guide",
-      "title": "衣物還沒乾，可以真空壓縮嗎？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明真空袋與密封收納在布品未全乾時會把潮氣與味道悶住，應先確認乾燥再壓縮。",
+      "title": "衣物沒乾能真空壓縮嗎｜先查夾層｜私享家洗衣",
+      "description": "衣物還沒乾能真空壓縮嗎？密封會悶住潮氣與味道，厚外套和寢具應先確認乾燥；有潮味先停手，結果依材質與損況而定。私享家洗衣店（台中市西屯區青海路二段365號）。",
       "url": "https://sixiangjialaundry.com/guides/vacuum-bag-storage-risk.html",
       "keywords": [
         "真空袋收納",
@@ -2104,8 +2343,8 @@
     {
       "slug": "rainy-bag-care",
       "category": "guide",
-      "title": "雨後包包怎麼處理？包角和內裡先看哪？｜私享家洗衣店",
-      "description": "私享家洗衣店（台中市西屯區青海路二段365號）說明包包淋雨後應先通風檢查包角與內裡，不要立刻收進防塵袋或上油。",
+      "title": "包包淋雨怎麼辦｜通風看包角內裡｜私享家洗衣",
+      "description": "包包淋雨後怎麼處理？先取出濕物、打開包通風，檢查包角與內底，皮革仍潮時先別上油或熱風催乾，結果依材質與損況而定。私享家洗衣店（台中市西屯區青海路二段365號）。",
       "url": "https://sixiangjialaundry.com/guides/rainy-bag-care.html",
       "keywords": [
         "包包淋雨",
@@ -2117,6 +2356,1910 @@
       "linked_service": "鞋包清潔",
       "faq_count": 3,
       "step_count": 4
+    },
+    {
+      "slug": "bag-care",
+      "category": "hub",
+      "title": "台中洗包包、包包清洗｜背包 $500、一般包 $600、名牌包 $1500 起（水洗參考價）｜私享家洗衣店",
+      "description": "私享家洗衣店（台中西屯）包包清潔專頁：精品包發霉、皮革包清潔、包角水痕、提把油痕、內裡整理與免費收送、沒有最低消費。先看材質再決定處理方式，不保證變全新。",
+      "url": "https://sixiangjialaundry.com/hubs/bag-care.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "luxury-garment-care",
+      "category": "hub",
+      "title": "精緻衣物洗護專頁｜皮衣、羊毛、絲質與乾洗指南｜私享家洗衣店",
+      "description": "精緻衣物的入口：皮衣發霉、羊毛、絲質、羽絨，以及乾洗指南。精品衣物怎麼報價看送洗價目。不保證變全新。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/hubs/luxury-garment-care.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "shoe-care",
+      "category": "hub",
+      "title": "洗鞋材質總覽｜網布皮革麂皮先分｜私享家洗衣",
+      "description": "台中西屯洗鞋先分材質。一般運動鞋水洗參考價 $250、皮類運動鞋 $300、混合運動鞋 $350、名牌鞋 $600，參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/hubs/shoe-care.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "bedding-textile-care",
+      "category": "hub",
+      "title": "台中寢具布品清洗｜窗簾地毯分流｜私享家洗衣",
+      "description": "台中寢具、布品、窗簾與地毯送洗怎麼分？棉被單人 $350、雙人 $500、羽絨被 $600、羊毛被 $800，窗簾地毯依尺寸照片報價；參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/hubs/bedding-textile-care.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "local-pickup",
+      "category": "hub",
+      "title": "台中各區洗衣收送｜門市在西屯｜私享家洗衣",
+      "description": "台中各區洗衣收送怎麼約？門市在西屯青海路二段365號，東海、北屯、南屯無門市，僅提供收送。免費收送、沒有最低消費。先分衣物、鞋子與厚被，再用 LINE 傳照片約時段；清潔另計，看過實物再報價。",
+      "url": "https://sixiangjialaundry.com/hubs/local-pickup.html",
+      "lastmod": "2026-09-25"
+    },
+    {
+      "slug": "xitun-laundry-how-to-choose",
+      "category": "guide",
+      "title": "西屯洗衣店怎麼選｜門市與價目｜私享家洗衣",
+      "description": "西屯洗衣店怎麼選？本頁整理門市地址、公開價目與處理界線的核對方式，衣物、鞋包與窗簾應分別看待。私享家門市在西屯青海路二段365號，東海無門市、僅收送；送洗前先確認可處理範圍，結果依材質與損況而定。",
+      "url": "https://sixiangjialaundry.com/guides/xitun-laundry-how-to-choose.html",
+      "lastmod": "2026-09-25"
+    },
+    {
+      "slug": "taichung-shoe-cleaning-how-to-choose",
+      "category": "guide",
+      "title": "台中洗鞋推薦怎麼挑？7 個檢查點與參考價對照｜私享家洗衣店（西屯）",
+      "description": "台中洗鞋推薦怎麼挑？先看有沒有分材質、價格公開、洗壞怎麼賠、多久可以拿、收送有沒有最低消費、做不到的會不會先講。私享家：運動鞋 $250、麂皮鞋 $400（水洗參考價），參考價，看過實品再報價；台中全市免費收送、沒有最低消費。LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/taichung-shoe-cleaning-how-to-choose.html",
+      "lastmod": "2026-10-05"
+    },
+    {
+      "slug": "leather-mold-treatment",
+      "category": "guide",
+      "title": "皮衣發霉送洗價格｜看照片估價｜私享家洗衣",
+      "description": "皮衣發霉送洗價格需先確認能不能洗，發霉另計，沒有固定加價。請先拍整件與霉點近照，說明材質及受損狀況，由門市看照片或實品評估。先別用酒精或濕布擦，避免影響皮革油脂與表面狀態。",
+      "url": "https://sixiangjialaundry.com/guides/leather-mold-treatment.html",
+      "lastmod": "2026-10-14"
+    },
+    {
+      "slug": "luxury-garment-cleaning",
+      "category": "guide",
+      "title": "精品衣物送洗價目：精品襯衫、大衣、洋裝、皮衣參考價｜私享家洗衣店（台中西屯）",
+      "description": "私享家洗衣店（台中西屯）精品衣物水洗參考價：精品襯衫 $100、精品外套 $200、精品長大衣 $350、皮衣 $1200；乾洗柔洗另計。參考價，看過實品再報價。先看材質與飾件再報價，不保證變全新。免費收送、沒有最低消費，門市在西屯，東海只有收送。",
+      "url": "https://sixiangjialaundry.com/services/luxury-garment-cleaning.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "sixiangjia-taichung-only",
+      "category": "guide",
+      "title": "私享家洗衣店只在台中西屯：與外縣市同名店無關",
+      "description": "私享家洗衣店（台中西屯）門市只有青海路二段365號。門市市話 04-2452-7411，LINE 官方 @454foyks（https://lin.ee/w8qGVqM），或 LINE 0968327653。與新竹、其他縣市或中國大陸同名店無關。東海無門市，免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/about/sixiangjia-taichung-only.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "fengjia-shoe-cleaning",
+      "category": "local",
+      "title": "逢甲洗鞋：夜市與宿舍球鞋先分材質｜私享家洗衣店",
+      "description": "逢甲洗鞋先分鞋面材質，再約西屯青海路二段365號門市或免費收送、沒有最低消費。福星路、文華路與宿舍球鞋不和衣物混成一袋。不保證變全新。門市在西屯，東海只有收送。",
+      "url": "https://sixiangjialaundry.com/local/fengjia-shoe-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "beitun-laundry-pickup",
+      "category": "local",
+      "title": "北屯洗衣收送：門市在西屯，全市收送｜私享家洗衣店",
+      "description": "北屯沒有私享家門市。收送名單含北屯區，由西屯青海路二段365號安排免費收送、沒有最低消費。不編造北屯路名，也不列沒有來源的車程。門市在西屯，東海只有收送。",
+      "url": "https://sixiangjialaundry.com/local/beitun-laundry-pickup.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "luxury-bag-cleaning",
+      "category": "guide",
+      "title": "台中精品包送洗｜私享家洗衣店（西屯）",
+      "description": "精品包送洗先分皮革、帆布、尼龍與內裡，再決定清潔範圍。洗鞋價目請看鞋包清潔。名牌包 $1500 起，實際價格依評估。參考價，看過實品再報價。不保證變全新。門市在西屯，東海只有收送。",
+      "url": "https://sixiangjialaundry.com/services/luxury-bag-cleaning.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "suit-dry-cleaning",
+      "category": "guide",
+      "title": "台中洗西裝、西裝乾洗要多久？一般約 7 天可以拿｜私享家洗衣店（西屯）",
+      "description": "台中洗西裝、西裝乾洗要多久？一般約 7 天可以拿，實際日期收件時確認。西裝背心 $80、長褲 $70（水洗參考價，乾洗另計），西裝外套沒有固定價，參考價，看過實品再報價。台中全市免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/services/suit-dry-cleaning.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "luggage-cleaning",
+      "category": "guide",
+      "title": "台中行李箱清潔｜先評估、價目表沒有這一列｜私享家洗衣店",
+      "description": "行李箱清潔先看硬殼、布面或混合，以及輪子、底板與箱面。價目表沒有行李箱項目，網站不列價格。不保證變全新。門市在西屯，東海只有收送。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/services/luggage-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "duvet-bedding-cleaning",
+      "category": "guide",
+      "title": "台中洗棉被多少錢？單人 $350、雙人 $500｜台中收送｜私享家洗衣店",
+      "description": "台中洗棉被多少錢？棉被單人 $350、雙人 $500，羽絨被 $600、羊毛被 $800（水洗參考價）。參考價，看過實品再報價。免費收送、沒有最低消費。不保證變全新。東海無門市，僅收送。",
+      "url": "https://sixiangjialaundry.com/services/duvet-bedding-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "boot-shaft-cleaning",
+      "category": "guide",
+      "title": "長靴、高筒靴送洗前先看筒身｜私享家洗衣店",
+      "description": "長靴和高筒靴先看筒高、內裡、拉鍊和鞋底交界。麂皮筒、毛料內裡、已經開膠的，先別泡水。低靴價格不在討論範圍，也不保證變全新。",
+      "url": "https://sixiangjialaundry.com/guides/boot-shaft-cleaning.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "wallet-cleaning-check",
+      "category": "guide",
+      "title": "皮夾、短夾清潔前先看邊角與內裡｜私享家洗衣店",
+      "description": "皮夾和短夾先看邊油、卡層、證件膠套和五金，不是把整只包包縮小來洗。泡水會讓卡層裡的紙板鼓起。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/wallet-cleaning-check.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "trench-coat-cleaning",
+      "category": "guide",
+      "title": "風衣怎麼洗？先看內襯與塗層｜私享家洗衣店",
+      "description": "以下只講風衣怎麼洗，不是羊毛大衣。風衣怎麼洗，先看內襯和面布是不是同一種纖維，以及背面塗層有沒有剝。不要用家用洗衣機洗，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/trench-coat-cleaning.html",
+      "lastmod": "2026-10-14"
+    },
+    {
+      "slug": "coin-laundry-vs-pickup",
+      "category": "guide",
+      "title": "自助洗衣店 vs 到府收送洗衣怎麼選？厚被、洗鞋與精緻衣物比較｜私享家洗衣店",
+      "description": "去自助洗衣店還是叫到府收送？日常耐洗棉T適合自助洗烘；厚被、羽絨外套、羊毛大衣、鞋子或沒時間顧機器，可約私享家洗衣店（台中西屯）免費收送、沒有最低消費。一般運動鞋 $250、羽絨外套 $280（水洗參考價，看過實品再報價）。",
+      "url": "https://sixiangjialaundry.com/guides/coin-laundry-vs-pickup.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "postpartum-center-laundry",
+      "category": "guide",
+      "title": "月子中心洗衣｜床組、包巾與職員服怎麼約｜私享家洗衣店",
+      "description": "月子中心洗衣是固定窗口的床組、包巾和職員便服，不是家裡那條棉被。不做滅菌、不開除臭保證、不先訂死鐘點。車從西屯門市約。",
+      "url": "https://sixiangjialaundry.com/services/postpartum-center-laundry.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "uniform-laundry",
+      "category": "guide",
+      "title": "制服送洗｜個人與小量工作服、工作褲｜私享家洗衣店",
+      "description": "制服送洗收個人與小量工作服、工作褲。學生制服看開學整理，店家公斤級看大量衣物，診所固定窗口另頁。不保證變全新，價格看過實品再報。東海無門市。",
+      "url": "https://sixiangjialaundry.com/services/uniform-laundry.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "wool-coat-cleaning",
+      "category": "guide",
+      "title": "台中洗羊毛大衣多少錢？先看洗標，長大衣水洗參考價 $300｜私享家洗衣店",
+      "description": "台中洗羊毛大衣、大衣送洗多少錢？官網價目表長大衣水洗參考價 $300、厚外套 $180，乾洗另計，參考價，看過實品再報價。先拍洗標、裡布與墊肩傳 LINE（@454foyks／0968327653），台中全市免費收送、沒有最低消費。不保證變全新。",
+      "url": "https://sixiangjialaundry.com/services/wool-coat-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "clinic-uniform-laundry",
+      "category": "guide",
+      "title": "診所制服送洗台中｜醫美牙科固定窗口｜私享家洗衣店",
+      "description": "診所制服送洗台中：給診所、醫美、牙科的固定窗口。先定對接的人、標記和收送節奏，不先訂死到府鐘點。不做滅菌，不靠低價搶大量件。",
+      "url": "https://sixiangjialaundry.com/services/clinic-uniform-laundry.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "beitun-shoe-cleaning",
+      "category": "local",
+      "title": "北屯洗鞋、台中北屯洗鞋推薦收送｜運動鞋 $250、麂皮鞋 $400 參考價｜私享家洗衣店",
+      "description": "找北屯洗鞋或台中北屯洗鞋收送？北屯無門市，由西屯青海路門市收送。一般運動鞋水洗參考價 $250、皮鞋清潔參考價 $400、麂皮鞋清潔參考價 $400（看過實品再報價），洗鞋一般約一個禮拜可拿，免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/local/beitun-shoe-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "nantun-shoe-cleaning",
+      "category": "local",
+      "title": "南屯洗鞋怎麼約？運動鞋水洗參考價 $250、麂皮鞋 $400｜台中收送｜私享家洗衣店",
+      "description": "南屯沒有洗鞋門市，公益路、大墩、河南路、嶺東一帶約西屯門市收送。一般運動鞋水洗參考價 $250、麂皮鞋 $400，參考價，看過實品再報價；洗鞋一般約一個禮拜可以拿。台中全市免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/local/nantun-shoe-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "mesh-shoe-cleaning",
+      "category": "guide",
+      "title": "網狀球鞋怎麼洗？網布透氣層與脫膠先看｜私享家洗衣店",
+      "description": "網狀球鞋怎麼洗？先看網布透氣層、接合處與脫膠狀況，再判斷清潔方式。結果依材質與損況而定，不保證變全新。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/mesh-shoe-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "leather-sneaker-care",
+      "category": "guide",
+      "title": "皮面運動鞋清潔｜先分真皮與塗層皮｜私享家洗衣店",
+      "description": "皮面運動鞋清潔：先分真皮與塗層皮。摺痕裂開、邊油磨掉不是污漬。皮鞋雨痕、麂皮、一般網布運動鞋各有頁。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/leather-sneaker-care.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "leather-bag-care",
+      "category": "guide",
+      "title": "皮包怎麼清｜真皮與合成皮先分開｜私享家洗衣店",
+      "description": "皮包怎麼清：先分真皮與合成皮。剝落、粉化、五金氧化不是污漬。尼龍包、帆布包、提把磨損、發霉各有頁。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/leather-bag-care.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "silk-garment-cleaning",
+      "category": "guide",
+      "title": "絲質衣服送洗｜水漬圈與失去光澤｜私享家洗衣店",
+      "description": "絲質衣服送洗：先看水漬圈、光澤有沒有被搓掉、染料會不會走。乾洗總判斷請看乾洗總指南。不保證變全新，價格看過實品再報。東海無門市。",
+      "url": "https://sixiangjialaundry.com/guides/silk-garment-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "cashmere-knit-care",
+      "category": "guide",
+      "title": "羊絨怎麼洗｜喀什米爾起毛與縮水｜私享家洗衣店",
+      "description": "喀什米爾、羊絨怎麼洗：先分起毛、起球和已經縮絨。羊毛毛衣與羊毛大衣各有頁。不保證變全新，價格看過實品再報。東海無門市。",
+      "url": "https://sixiangjialaundry.com/guides/cashmere-knit-care.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "collar-sweat-yellow",
+      "category": "guide",
+      "title": "領口發黃怎麼辦｜襯衫汗黃先看位置｜私享家洗衣店",
+      "description": "領口發黃怎麼辦：先分新的汗黃、舊的氧化黃，還是洗劑沒沖掉。學生制服的整燙順序、白鞋的黃各有頁。不保證黃完全退掉。",
+      "url": "https://sixiangjialaundry.com/guides/collar-sweat-yellow.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "down-clump-after-wash",
+      "category": "guide",
+      "title": "羽絨結塊怎麼判斷｜潮濕壓扁先分｜私享家洗衣",
+      "description": "羽絨洗後或受潮後結塊，先分潮濕硬塊、乾燥壓扁與填充流失，再看外層有沒有塗層鼓起或貼條翹起。摸起來涼、有潮氣時先別自行高溫烘；車縫跑絨也不能靠拍打補回，可傳結塊與車線近照，結果依材質與損況而定。",
+      "url": "https://sixiangjialaundry.com/guides/down-clump-after-wash.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "knit-shoe-cleaning",
+      "category": "guide",
+      "title": "針織鞋怎麼洗｜起毛、撐大與鞋口鬆先看｜私享家洗衣店",
+      "description": "針織鞋怎麼洗：一體針織鞋面吃水會變重、會被撐開，刷太用力會起毛球。先看鞋口彈性和起毛範圍。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/knit-shoe-cleaning.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "patent-leather-shoe-care",
+      "category": "guide",
+      "title": "漆皮鞋怎麼洗？會霧掉嗎？台中收送評估｜私享家",
+      "description": "漆皮鞋怎麼洗、會不會洗壞？先分表面髒污與塗層損傷，塗層刮痕與霧化不一定處理得了。參考價，看過實品再報價。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/patent-leather-shoe-care.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "nubuck-shoe-cleaning",
+      "category": "guide",
+      "title": "牛巴戈怎麼清｜磨砂皮和麂皮不一樣｜私享家洗衣店",
+      "description": "牛巴戈怎麼清：牛巴戈是磨過的正面皮，絨毛比麂皮更短更細，油污一吃進去就變深。先分灰、水痕、油斑。不保證變全新，參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/nubuck-shoe-cleaning.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "clear-sole-yellowing",
+      "category": "guide",
+      "title": "冰底鞋發黃能洗白嗎｜透明大底氧化先看｜私享家洗衣店",
+      "description": "冰底鞋發黃能洗白嗎：透明或半透明大底變黃，多半是材料本身氧化，表面灰可以清，黃在裡面清不掉。白鞋布面黃另有頁。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/clear-sole-yellowing.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "hiking-shoe-cleaning",
+      "category": "guide",
+      "title": "登山鞋怎麼洗｜防水膜、泥沙與鞋底紋先看｜私享家洗衣店",
+      "description": "登山鞋怎麼洗：先把鞋底紋的泥和鞋面的灰分開，防水膜怕高溫和用力擰。清潔不等於恢復防水。不保證變全新，參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/hiking-shoe-cleaning.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "sheepskin-boot-cleaning",
+      "category": "guide",
+      "title": "雪靴怎麼洗｜羊皮水痕與內毛｜私享家洗衣",
+      "description": "雪靴怎麼洗？本頁針對羊皮毛一體雪靴，說明外皮水痕與內毛糾結應分開評估，並非所有靴子都適用。整雙泡水或急著高溫烘乾可能讓皮變硬、縮小；先拍水圈、內毛與鞋底狀況，結果依材質與損況而定。",
+      "url": "https://sixiangjialaundry.com/guides/sheepskin-boot-cleaning.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "coated-canvas-bag-care",
+      "category": "guide",
+      "title": "老花包怎麼清｜塗層帆布、皮邊與內裡分開看｜私享家洗衣店",
+      "description": "老花包怎麼清：常見的老花包是塗層帆布，髒在膜上面；皮邊、提把和內裡是另一種材料。先看塗層有沒有裂。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/coated-canvas-bag-care.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "vachetta-leather-darkening",
+      "category": "guide",
+      "title": "原色皮變黑能洗回來嗎｜植鞣皮變深與水漬｜私享家洗衣店",
+      "description": "原色皮變黑能洗回來嗎：植鞣原色皮會隨光線、手汗慢慢變深，這是皮本身的變化，清潔只能處理表面髒與部分水漬。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/vachetta-leather-darkening.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "lambskin-bag-care",
+      "category": "guide",
+      "title": "小羊皮包怎麼洗？會留痕嗎？先拍照評估｜台中收送｜私享家洗衣店",
+      "description": "小羊皮包怎麼洗、會不會留痕？先分刮痕、壓痕與沾色，材質不明先別自己刷。傳照片看過實品再報價，不套固定價。台中全市免費收送、沒有最低消費。LINE @454foyks／0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/lambskin-bag-care.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "bag-edge-paint-cracking",
+      "category": "guide",
+      "title": "包包油邊裂開｜老化與髒污先分｜私享家洗衣",
+      "description": "包包油邊裂開是髒污嗎？先分封邊表面的灰與邊油老化；龜裂、黏手、脫落不會因清洗而修復，重上邊油屬修繕，不包含在清潔內。先別撕翹起處或自行補膠，可傳裂紋近照，價格看過實品再報，結果依材質與損況而定。",
+      "url": "https://sixiangjialaundry.com/guides/bag-edge-paint-cracking.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "sticky-bag-lining",
+      "category": "guide",
+      "title": "包包黏黏的怎麼處理？放久內裡黏手、掉屑，是塗層老化不是髒｜私享家洗衣店",
+      "description": "包包放久黏黏的怎麼處理？內裡黏手、起皺、掉黑屑或白屑，多半是塗層老化，不是髒，清潔洗不掉黏。不要用酒精擦、不要撒粉蓋住。拍主袋、夾層與剝落處傳 LINE（@454foyks／0968327653），換內裡屬修繕，是否可處理由門市看實品說明。",
+      "url": "https://sixiangjialaundry.com/guides/sticky-bag-lining.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "luxury-bag-storage",
+      "category": "guide",
+      "title": "精品包怎麼收納｜收進櫃子前的五個檢查｜私享家洗衣店",
+      "description": "精品包怎麼收納：收之前先確認乾淨、乾燥，裡面適度填充、站著放、五金隔開，不要用塑膠袋密封。已經發霉請看發霉頁。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/luxury-bag-storage.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "straw-bag-care",
+      "category": "guide",
+      "title": "草編包發霉、變形怎麼辦｜先看編織和內襯｜私享家洗衣店",
+      "description": "草編包發霉、變形怎麼辦：草編包有紙纖維、拉菲草、藤編等材料，有的不能碰水。先看編織材料、內襯和霉在哪一層。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/straw-bag-care.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "west-district-laundry-pickup",
+      "category": "local",
+      "title": "台中西區洗衣收送｜草悟道、美術館與精明商圈｜私享家洗衣店",
+      "description": "台中西區洗衣不是西屯。草悟道、美術館一帶的上班襯衫和精明商圈的精品衣物分開約，車從西屯青海路門市出來收。不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/local/west-district-laundry-pickup.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "shoe-drying-heat-risk",
+      "category": "guide",
+      "title": "鞋子可以烘乾嗎？烘鞋機、烘衣機、吹風機風險不同｜私享家洗衣店",
+      "description": "鞋子可以烘乾嗎？不建議用熱風催乾：鞋膠、塗層、泡棉與皮革都可能受影響。先看洗標與材質，沒有通用安全溫度。台中全市免費收送、沒有最低消費。LINE @454foyks／0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-drying-heat-risk.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "dry-cleaning-explained",
+      "category": "guide",
+      "title": "乾洗是什麼？乾洗原理真的是乾的嗎？從洗標判斷乾洗或水洗｜私享家洗衣店",
+      "description": "乾洗原理不是乾洗不沾液體，而是以有機溶劑代替水來溶解油脂，減少羊毛、蠶絲與西裝墊肩縮水變形；但汗漬屬水溶性，仍需先看洗標與污漬評估。私享家洗衣店（台中西屯青海路二段365號），免費收送、沒有最低消費，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/dry-cleaning-explained.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "clothing-dye-transfer",
+      "category": "guide",
+      "title": "衣服被染色｜洗衣串色判斷｜私享家洗衣店",
+      "description": "衣服被染色先分混洗沾色與原布掉色，留照片和處理紀錄，不要再加熱或疊加藥劑。不做重新染色或改色，不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/clothing-dye-transfer.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "velvet-shoe-cleaning",
+      "category": "guide",
+      "title": "絨布鞋怎麼清｜絨向與水圈｜私享家洗衣店",
+      "description": "絨布鞋怎麼清：先確認是織物絨面或皮革，倒絨色差、水圈與掉絨分開拍，不照搬麂皮刷法。不保證變全新，參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/velvet-shoe-cleaning.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "satin-shoe-cleaning",
+      "category": "guide",
+      "title": "緞面婚鞋發黃與水痕怎麼看｜私享家洗衣店",
+      "description": "緞面婚鞋的黃痕、水圈與摩擦暗面分開看；緞面是織法，不能推定真絲或可泡水。飾件需實品評估，不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/satin-shoe-cleaning.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "dress-shoe-polish-buildup",
+      "category": "guide",
+      "title": "皮鞋鞋油堆積｜摺痕白線怎麼看｜私享家洗衣",
+      "description": "皮鞋摺痕的白線不一定是鞋油，也可能是殘留、皮面磨耗或塗層裂紋。先停止加油覆蓋，拍鞋頭、彎折處與縫邊，記下用過的鞋油，讓門市看過實品再評估；不要用強溶劑自行去油。",
+      "url": "https://sixiangjialaundry.com/guides/dress-shoe-polish-buildup.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "suede-bag-care",
+      "category": "guide",
+      "title": "麂皮包怎麼洗？會不會洗壞？先別濕刷｜台中收送｜私享家洗衣店",
+      "description": "麂皮包怎麼洗、會不會洗壞？材質不明先別刷、先別濕擦；先拍標示與內袋，看過實品才能判斷。參考價，看過實品再報價。台中全市免費收送、沒有最低消費。LINE @454foyks／0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/suede-bag-care.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "bag-hardware-tarnish",
+      "category": "guide",
+      "title": "包包金屬氧化處理｜先看鍍層｜私享家洗衣",
+      "description": "包包金屬扣變黑不一定是髒，可能是表面污垢、氧化，或鍍層已經露底。清潔不能補回鍍層，先不要用牙膏反覆研磨；拍金屬扣、鏈環與相鄰皮革，讓門市看過實品再評估。",
+      "url": "https://sixiangjialaundry.com/guides/bag-hardware-tarnish.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "light-leather-bag-yellowing",
+      "category": "guide",
+      "title": "淺色皮包變黃變灰怎麼看｜私享家洗衣店",
+      "description": "白色與淺色塗飾真皮包先分接觸污垢、整片變色和外來染色，不漂白、不用力擦。補色另屬修繕，不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/light-leather-bag-yellowing.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "gore-tex-jacket-cleaning",
+      "category": "guide",
+      "title": "防水外套怎麼洗｜膜與壓膠｜私享家洗衣店",
+      "description": "防水外套先看洗標、型號、膜與壓膠，保養依洗標與品牌官方說明。清潔不等於防水性能修復，不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/gore-tex-jacket-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "sleeping-bag-cleaning",
+      "category": "guide",
+      "title": "睡袋怎麼洗｜填充與收納｜私享家洗衣店",
+      "description": "睡袋先看羽絨或化纖填充、隔間與拉鍊，展開尺寸和老化塗層需確認。收納前要確認內層乾燥，不保證保暖或蓬鬆度回復，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/sleeping-bag-cleaning.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "linen-garment-care",
+      "category": "guide",
+      "title": "亞麻衣服縮水、皺與變硬｜私享家洗衣店",
+      "description": "亞麻與混紡先讀成分，尺寸變小、皺褶和手感變硬分開記錄，不套通用水溫或拉伸配方。不保證回復尺寸、手感或完全不皺，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/guides/linen-garment-care.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "evening-gown-cleaning",
+      "category": "guide",
+      "title": "台中禮服、旗袍送洗評估｜私享家洗衣店",
+      "description": "禮服與旗袍先評估內襯、支撐、裙擺和珠飾，妝痕與拖地痕依材質與損況而定。修繕不含在清潔內，不保證變全新，價格看過實品再報。",
+      "url": "https://sixiangjialaundry.com/services/evening-gown-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "secondhand-luxury-shop-cleaning",
+      "category": "guide",
+      "title": "二手精品店鞋包清潔合作｜私享家洗衣店",
+      "description": "二手精品店、選物店準備上架的鞋子和包包可以送洗，每件逐件看材質與原本損況。我們不做真偽鑑定、不估價，也不提供成色描述，上架描述由店家自行判斷。",
+      "url": "https://sixiangjialaundry.com/services/secondhand-luxury-shop-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "sequin-rhinestone-clothing-cleaning",
+      "category": "guide",
+      "title": "亮片、滿鑽衣服送洗｜表演服與舞衣｜私享家洗衣店",
+      "description": "亮片、滿鑽衣服可以送洗。先看每片亮片、每顆鑽是縫上、黏上還是燙上，再看底布才決定做法，不保證每一顆都不脫落。費用看價目表。",
+      "url": "https://sixiangjialaundry.com/services/sequin-rhinestone-clothing-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "ironing-pressing",
+      "category": "guide",
+      "title": "哪裡可以燙衣服？台中燙衣服店只燙不洗｜整燙參考價 $50（一般衣服）｜私享家洗衣店",
+      "description": "哪裡可以燙衣服？台中燙衣服店可只燙不洗：衣服先洗好、完全乾透，先拍洗標與在意部位。整燙 $50 參考價（一般衣服），其他衣物看過實品再報價。台中全市免費收送、沒有最低消費。LINE @454foyks／0968327653。",
+      "url": "https://sixiangjialaundry.com/services/ironing-pressing.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "spot-test-before-cleaning",
+      "category": "guide",
+      "title": "送洗前為什麼先小範圍試｜私享家洗衣店",
+      "description": "特殊材質先在縫份或內側小角試。顏色移開、變黏、絨毛倒得更厲害或飾件鬆動就停。試過的一小塊不能代表整件。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/spot-test-before-cleaning.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "down-vest-cleaning",
+      "category": "guide",
+      "title": "羽絨背心怎麼洗｜無袖與短版｜私享家洗衣店",
+      "description": "羽絨背心先讀洗標，分開拍袖窿、領口汗和短版隔間。袖窿和領口的汗要單獨看。不保證蓬鬆回復。",
+      "url": "https://sixiangjialaundry.com/guides/down-vest-cleaning.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "scarf-cleaning",
+      "category": "guide",
+      "title": "圍巾怎麼洗｜流蘇與纖維｜私享家洗衣店",
+      "description": "圍巾先讀羊毛、絲或棉，再看流蘇、捲邊和印花邊，整條攤平拍。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/scarf-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "cardigan-cleaning",
+      "category": "guide",
+      "title": "毛衣外套怎麼洗｜門襟與羅紋｜私享家洗衣店",
+      "description": "毛衣外套先看開襟的門襟、口袋和羅紋。門襟襯條可能和毛料縮得不一樣。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/cardigan-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "kids-shoe-cleaning",
+      "category": "guide",
+      "title": "童鞋怎麼洗｜魔鬼氈與印花｜私享家洗衣店",
+      "description": "童鞋先分魔鬼氈線屑、縫上或黏上的印花，以及反光條。會亮燈或會發聲的先問門市。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/kids-shoe-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "sandal-cleaning",
+      "category": "guide",
+      "title": "涼鞋怎麼清｜細帶與鞋床｜私享家洗衣店",
+      "description": "細帶涼鞋先分細帶和露出的鞋床。鞋床若是軟木，不能整雙泡水。不做除臭或醫療滅菌承諾。",
+      "url": "https://sixiangjialaundry.com/guides/sandal-cleaning.html",
+      "lastmod": "2026-10-06"
+    },
+    {
+      "slug": "high-heel-structure",
+      "category": "guide",
+      "title": "高跟鞋送洗｜鞋跟與鞋台｜私享家洗衣店",
+      "description": "高跟鞋先看細跟、粗跟、鞋台止滑片和內裡。緞面看光澤與水痕，漆皮看鏡面。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/high-heel-structure.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "denim-jeans-cleaning",
+      "category": "guide",
+      "title": "牛仔褲送洗｜磨白與彈性布｜私享家洗衣店",
+      "description": "牛仔褲先分褲檔磨白、破壞加工和彈性纖維。和別件一起洗造成的染色，要和褲子自己的磨白分開。",
+      "url": "https://sixiangjialaundry.com/guides/denim-jeans-cleaning.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "day-dress-cleaning",
+      "category": "guide",
+      "title": "洋裝怎麼洗｜腰封與襯裙｜私享家洗衣店",
+      "description": "日常洋裝先分短、中、長，看腰封能不能拆、襯裙和面布是否同一種成分。有拖尾或滿鑽的處理方式不同。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/day-dress-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "pu-leather-peeling",
+      "category": "guide",
+      "title": "合成皮掉屑處理：先停手、留屑，清潔補不回已掉的皮膜｜私享家洗衣店",
+      "description": "合成皮掉屑處理：已經掉下的膜，清洗補不回去，用力擦還會帶起鬆的膜。先停手，把屑收進袋子，拍外層與內裡傳 LINE（@454foyks／0968327653），門市看過實品再說明；不保證恢復皮面，也不保證不再掉屑。",
+      "url": "https://sixiangjialaundry.com/guides/pu-leather-peeling.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "golf-shoe-cleaning",
+      "category": "guide",
+      "title": "高爾夫球鞋怎麼清｜鞋釘與草汁｜私享家洗衣店",
+      "description": "高爾夫球鞋先分固定鞋釘與可更換鞋釘，草汁在鞋面或鞋釘座要分開拍。鞋釘斷了屬修繕。金屬鞋釘與鞋底殘留先看實品。不保證清乾淨。",
+      "url": "https://sixiangjialaundry.com/guides/golf-shoe-cleaning.html",
+      "lastmod": "2026-10-12"
+    },
+    {
+      "slug": "leather-pants-skirt",
+      "category": "guide",
+      "title": "皮褲、皮裙怎麼洗？可以水洗嗎｜皮褲 $700、皮裙 $600 參考價｜私享家洗衣店",
+      "description": "皮褲、皮裙怎麼洗、可以水洗嗎？不能只因為是皮褲就泡水，膝摺、塗層和裡布要先看，彈性皮和已經裂開的塗層先問門市。皮褲 $700、皮裙 $600，水洗參考價，乾洗、柔洗另計，看過實品再報價。補色屬修繕，不包含在清潔內。",
+      "url": "https://sixiangjialaundry.com/guides/leather-pants-skirt.html",
+      "lastmod": "2026-10-12"
+    },
+    {
+      "slug": "pleated-skirt-care",
+      "category": "guide",
+      "title": "褶裙怎麼洗｜褶向與整燙｜私享家洗衣店",
+      "description": "褶裙先看褶是車縫固定還是只靠整燙，襯布和面子縮率不同要先講。已經洗好且乾透、只想燙，看只燙不洗。不保證褶距燙回原來。",
+      "url": "https://sixiangjialaundry.com/guides/pleated-skirt-care.html",
+      "lastmod": "2026-10-12"
+    },
+    {
+      "slug": "iron-scorch-mark",
+      "category": "guide",
+      "title": "衣服燙焦了怎麼看｜焦痕與整燙｜私享家洗衣",
+      "description": "衣服燙焦了，先分焦痕、布面發亮與變硬，並與領口汗黃分開判斷。焦痕多半救不回，破洞屬損壞；不要再加熱或用漂白水，整燙也清不掉焦痕。可先傳外觀與材質照片，結果依材質與損況而定。",
+      "url": "https://sixiangjialaundry.com/guides/iron-scorch-mark.html",
+      "lastmod": "2026-10-12"
+    },
+    {
+      "slug": "shoe-insole-check",
+      "category": "guide",
+      "title": "鞋墊要不要拆｜送洗前先看｜私享家洗衣店",
+      "description": "送洗前先看鞋墊抽得起、縫死還是黏死。黏死的不要自行撕。軟木鞋床不能拆，也不能整雙泡水。不承諾除臭。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-insole-check.html",
+      "lastmod": "2026-10-12"
+    },
+    {
+      "slug": "doll-shoe-cleaning",
+      "category": "guide",
+      "title": "娃娃鞋怎麼清｜圓頭與細帶｜私享家洗衣店",
+      "description": "娃娃鞋是圓頭繫帶的鞋款，跟絨毛娃娃無關。先看圓頭摺位、細帶和鞋口。漆皮、絨布、皮革要分開。不保證變新。",
+      "url": "https://sixiangjialaundry.com/guides/doll-shoe-cleaning.html",
+      "lastmod": "2026-10-14"
+    },
+    {
+      "slug": "hat-cleaning",
+      "category": "guide",
+      "title": "帽子怎麼洗：布帽、毛帽、皮帽不要用同一種做法｜私享家洗衣",
+      "description": "帽子怎麼洗先分布帽、毛帽、皮帽與草帽，帽簷內側汗黃、帽冠灰塵和洗標分開拍，帽徽、電繡與金屬扣也請標記。皮帽不要整頂泡水，毛帽避免熱水與高溫烘乾，門市看過材質與帽型再說明處理範圍。",
+      "url": "https://sixiangjialaundry.com/guides/hat-cleaning.html",
+      "lastmod": "2026-10-14"
+    },
+    {
+      "slug": "leather-glove-care",
+      "category": "guide",
+      "title": "皮手套怎麼清｜指縫與掌心｜私享家洗衣店",
+      "description": "皮手套先看指縫、掌心和內裡。不要整雙泡，不要烘。特殊皮先在小角落試。不保證恢復柔軟。",
+      "url": "https://sixiangjialaundry.com/guides/leather-glove-care.html",
+      "lastmod": "2026-10-14"
+    },
+    {
+      "slug": "leather-belt-care",
+      "category": "guide",
+      "title": "皮帶可以洗嗎？台中皮帶清潔｜私享家洗衣",
+      "description": "皮帶可以洗嗎？先評估材質與扣頭，不要整條泡水。皮帶清潔參考價 $400，參考價，看過實品再報價。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/leather-belt-care.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "casual-shoe-cleaning",
+      "category": "guide",
+      "title": "休閒鞋怎麼清｜膠底與鞋面｜私享家洗衣店",
+      "description": "休閒鞋指平底膠底、低筒、帆布或合成鞋面，不是專業跑鞋，也不是皮面運動鞋。膠底的灰和鞋面接縫分開看。不保證恢復原色。",
+      "url": "https://sixiangjialaundry.com/guides/casual-shoe-cleaning.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "suit-pants-crease",
+      "category": "guide",
+      "title": "西裝褲摺線怎麼顧｜送洗與整燙｜私享家洗衣店",
+      "description": "西裝褲先看前中摺是燙出來的還是車線，膝頭磨白不是污漬。成套西裝在西裝乾洗。只燙褲線要先講。不保證恢復原色。",
+      "url": "https://sixiangjialaundry.com/guides/suit-pants-crease.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "crossbody-bag-strap",
+      "category": "guide",
+      "title": "側背包背帶怎麼清｜磨損與接口｜私享家洗衣店",
+      "description": "側背包先看背帶磨損和接到包身的接口。脫線先停，不要自己縫。換背帶不是清潔。整包檢查在背包清潔。不保證恢復原色。",
+      "url": "https://sixiangjialaundry.com/guides/crossbody-bag-strap.html",
+      "lastmod": "2026-10-15"
+    },
+    {
+      "slug": "shoe-waterproof-treatment",
+      "category": "guide",
+      "title": "鞋子防潑水｜雨季與颱風前｜私享家洗衣店",
+      "description": "私享家提供鞋子防潑水，適合颱風或雨季前依鞋面材質先做預防。這不是登山鞋原有的防水膜，也不是進水後的通風。麂皮可能染色，先在不明顯的小角落測試。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-waterproof-treatment.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "rubber-rain-boot-care",
+      "category": "guide",
+      "title": "雨靴怎麼清｜內套與筒底｜私享家洗衣店",
+      "description": "橡膠雨靴的味道多在可拆布鞋套、鞋墊和筒底，不是皮鞋雨痕，也不是長靴的皮筒。不要整雙泡熱水。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/rubber-rain-boot-care.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "leather-shoe-salt-bloom",
+      "category": "guide",
+      "title": "皮鞋白霜怎麼看｜鹽花與汗｜私享家洗衣店",
+      "description": "皮面上一抹就掉的乾白粉，多半是汗的鹽花。過幾天才浮出的水圈是雨痕。摺痕上的白線多半是鞋油。三種不要先上油。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/leather-shoe-salt-bloom.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "insulated-down-pants-care",
+      "category": "guide",
+      "title": "羽絨褲怎麼洗｜褲檔與隔間｜私享家洗衣店",
+      "description": "羽絨褲的汗和磨損在褲檔、膝蓋內側和褲口，不是羽絨外套的袖口，也不是羽絨背心的袖窿。外套的價目不能套到褲子。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/insulated-down-pants-care.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "bag-base-stud-check",
+      "category": "guide",
+      "title": "包包底釘怎麼看｜釘座的泥｜私享家洗衣店",
+      "description": "包底腳釘與釘座之間的泥、沙，是清潔能看的部分。腳釘搖晃、掉落屬修繕。表面鍍層變色看五金氧化，封邊裂開看封邊。不保證恢復原色或變全新。",
+      "url": "https://sixiangjialaundry.com/guides/bag-base-stud-check.html",
+      "lastmod": "2026-10-22"
+    },
+    {
+      "slug": "shoe-collar-foam-check",
+      "category": "guide",
+      "title": "鞋領海綿外露｜泡棉破開怎麼看｜私享家洗衣店",
+      "description": "鞋領海綿外露時，鞋口泡棉破開、海綿跑出來。這不是鞋墊，也不是軟木鞋床。換海綿要看過實品。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-collar-foam-check.html",
+      "lastmod": "2026-10-27"
+    },
+    {
+      "slug": "shoe-lace-eyelet-check",
+      "category": "guide",
+      "title": "鞋帶與鞋眼｜發灰與生鏽分開看｜私享家洗衣店",
+      "description": "鞋帶發灰、發硬，金屬鞋眼生鏽，和鞋面的黃不是同一件事。換鞋帶、換鞋眼要看過實品。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-lace-eyelet-check.html",
+      "lastmod": "2026-10-27"
+    },
+    {
+      "slug": "shoe-toe-cap-wear",
+      "category": "guide",
+      "title": "鞋頭磨破｜塗層掀起和開膠分開｜私享家洗衣店",
+      "description": "鞋頭磨破是腳尖那一塊被踢到、塗層掀起。這不是鞋面彎折處的裂，也不是大底開膠。補鞋頭要看過實品。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-toe-cap-wear.html",
+      "lastmod": "2026-10-27"
+    },
+    {
+      "slug": "shoe-counter-lining-wear",
+      "category": "guide",
+      "title": "鞋後跟內裡磨破｜和鞋跟結構分開｜私享家洗衣店",
+      "description": "鞋後跟內裡磨破，是貼著腳踝的那一層。跟柱、止滑片和靴筒是別的位置。補內裡要看過實品。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-counter-lining-wear.html",
+      "lastmod": "2026-10-27"
+    },
+    {
+      "slug": "new-shoe-dye-ruboff",
+      "category": "guide",
+      "title": "新鞋掉色怎麼辦？染料沾到襪子、褲腳先停穿停熱｜私享家洗衣店",
+      "description": "新鞋掉色是鞋面染料蹭到襪子或褲腳，不是洗衣機互染、也不是包包色移。先停穿、停熱、先拍照。台中全市免費收送、沒有最低消費。LINE @454foyks／0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/new-shoe-dye-ruboff.html",
+      "lastmod": "2026-10-27"
+    },
+    {
+      "slug": "bag-clasp-stuck-check",
+      "category": "guide",
+      "title": "包包轉鎖與按扣｜卡住和氧化分開｜私享家洗衣店",
+      "description": "包包轉鎖轉不開、按扣按不回去、磁扣吸不住，是機構。鍍層變色是五金氧化。不要灌油，也不要硬扳。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/bag-clasp-stuck-check.html",
+      "lastmod": "2026-10-27"
+    },
+    {
+      "slug": "wool-sweater-pilling",
+      "category": "guide",
+      "title": "羊毛毛衣起球｜和羊絨、縮絨分開｜私享家洗衣店",
+      "description": "羊毛毛衣起球，是腋下、袖內側、側腰的小球。羊絨的起球、身片縮短、開襟門襟各有頁。不要用力刮。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/wool-sweater-pilling.html",
+      "lastmod": "2026-10-27"
+    },
+    {
+      "slug": "leather-jacket-elbow-crease",
+      "category": "guide",
+      "title": "皮衣手肘摺｜裂開和發霉分開｜私享家洗衣店",
+      "description": "皮衣手肘摺裂開，是有袖皮衣彎折處的縫。發霉、膝摺、皮背心各看各的。先別上油把裂填滿。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/leather-jacket-elbow-crease.html",
+      "lastmod": "2026-10-27"
+    },
+    {
+      "slug": "garment-lining-detach",
+      "category": "guide",
+      "title": "衣服內裡脫開｜裡布從車線垂下來｜私享家洗衣店",
+      "description": "衣服內裡脫開，是裡布離開原來的車線、垂下來。風衣看塗層，改尺寸看改衣。60 元起，實際價格現場由師傅報價。參考價，看過實品再報價。包的內裡是另一則。裡布脫開不是清潔。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/garment-lining-detach.html",
+      "lastmod": "2026-10-27"
+    },
+    {
+      "slug": "dress-shirt-starch-risk",
+      "category": "guide",
+      "title": "襯衫領口發亮變硬？先分漿膜、汗黃、燙焦再決定洗或燙｜私享家洗衣店",
+      "description": "襯衫漿燙後領口發亮、變硬？先分漿膜、汗黃與燙焦，再決定先洗還是只燙。襯衫水洗參考價 $70、整燙 $50（一般衣服），參考價，看過實品再報價。台中全市免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/dress-shirt-starch-risk.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "blanket-vs-duvet",
+      "category": "guide",
+      "title": "毛毯和棉被怎麼分｜送洗前先看有沒有內芯｜私享家洗衣店",
+      "description": "毛毯多半是一整片絨或織物；棉被有被殼和內芯；涼被薄、有薄填充。先分開再送，潮氣和結塊的看法人不同。不保證變全新。",
+      "url": "https://sixiangjialaundry.com/guides/blanket-vs-duvet.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "pet-hair-on-coat",
+      "category": "guide",
+      "title": "外套上的寵物毛｜哪些清得掉｜私享家洗衣店",
+      "description": "外套上的寵物毛，先分浮在表面還是嵌進織紋。平滑布多半帶得走一部分；羊毛和針織可能留下。不保證除盡，不做除臭承諾。",
+      "url": "https://sixiangjialaundry.com/guides/pet-hair-on-coat.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "how-laundry-quote-works",
+      "category": "guide",
+      "title": "洗衣怎麼報價｜先看物件再對價目｜私享家洗衣店",
+      "description": "洗衣報價先看品項、尺寸、材質和污漬，再對價目表的列。沒有照片時，門市只能先說明對哪一列。，免費收送、沒有最低消費，清潔費另計。不保證變全新。",
+      "url": "https://sixiangjialaundry.com/guides/how-laundry-quote-works.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "office-shirt-subscription",
+      "category": "guide",
+      "title": "公司襯衫固定收送｜櫃台交接｜私享家洗衣店",
+      "description": "一般公司的襯衫固定收送：先約收件日和件數，清潔仍對價目表的襯衫列。不是中科園區頁，也不是大量毛巾床組。東海無門市。",
+      "url": "https://sixiangjialaundry.com/services/office-shirt-subscription.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "commercial-laundry",
+      "category": "hub",
+      "title": "商務洗衣怎麼分：診所、月子、公司襯衫、大量件",
+      "description": "商務洗衣先分四種：公司襯衫固定收送、診所制服、月子中心床組、店家大量毛巾。中科園區是地點怎麼約。東海無門市，免費收送、沒有最低消費，清潔費另計。",
+      "url": "https://sixiangjialaundry.com/hubs/commercial-laundry.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "makeup-on-bag-lining",
+      "category": "guide",
+      "title": "包內襯沾彩妝｜口紅與粉底怎麼看｜私享家洗衣店",
+      "description": "包內襯上的口紅和粉底，先和原子筆、黏掉的塗層分開。不要先用酒精大面積擦。不保證顏色完全退掉。衣服上的色素不是這一題。",
+      "url": "https://sixiangjialaundry.com/guides/makeup-on-bag-lining.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "leather-vest-cleaning",
+      "category": "guide",
+      "title": "皮背心怎麼看｜袖窿、裡布與送洗｜私享家洗衣店",
+      "description": "皮背心沒有袖子，汗和磨損在袖窿、腰側和裡布。不要套皮衣的做法。皮帽在帽子頁。徽章和破洞屬修繕。不保證變全新。",
+      "url": "https://sixiangjialaundry.com/guides/leather-vest-cleaning.html",
+      "lastmod": "2026-10-26"
+    },
+    {
+      "slug": "shoe-outsole-tread-wear",
+      "category": "guide",
+      "title": "鞋底花紋磨平｜和大底開膠分開｜私享家洗衣店",
+      "description": "鞋底花紋磨平是大底紋路被走光，鞋面還黏在大底上。這不是開膠，也不是鞋頭被踢破。傳照片到 LINE @454foyks 問。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-outsole-tread-wear.html",
+      "lastmod": "2026-10-29"
+    },
+    {
+      "slug": "shoe-heel-counter-collapse",
+      "category": "guide",
+      "title": "跟杯被踩軟｜鞋口站不直｜私享家洗衣店",
+      "description": "鞋後跟塌是腳跟外面的跟杯被踩軟、鞋口站不住。這不是後跟內裡磨到腳踝，也不是高跟鞋的跟柱歪了。傳照片到 LINE @454foyks 問。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-heel-counter-collapse.html",
+      "lastmod": "2026-10-29"
+    },
+    {
+      "slug": "shoe-welt-stitch-break",
+      "category": "guide",
+      "title": "皮鞋沿條線斷了｜和開膠分開看｜私享家洗衣店",
+      "description": "沿條線是大底和鞋面中間那一圈車線。線斷、線頭露出，鞋子可能還沒分開。傳照片到 LINE @454foyks 問。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-welt-stitch-break.html",
+      "lastmod": "2026-10-29"
+    },
+    {
+      "slug": "bag-structure-collapse",
+      "category": "guide",
+      "title": "包包站不住｜包身塌陷和草編變形分開｜私享家洗衣店",
+      "description": "皮包或布包放著會塌、口關不攏，多半是內撐板或包身骨架軟掉。這和草編包被水泡軟不同，也不是封邊油裂開。傳照片到 LINE @454foyks 問。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/bag-structure-collapse.html",
+      "lastmod": "2026-10-29"
+    },
+    {
+      "slug": "bag-zipper-tape-fray",
+      "category": "guide",
+      "title": "包包拉鍊布邊脫線｜和轉鎖卡住分開｜私享家洗衣店",
+      "description": "拉鍊旁邊的布帶起毛、和包身分開，齒可能還拉得動。這不是轉鎖卡住，也不是五金鍍層變色。傳照片到 LINE @454foyks 問。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/bag-zipper-tape-fray.html",
+      "lastmod": "2026-10-29"
+    },
+    {
+      "slug": "bag-frame-gap",
+      "category": "guide",
+      "title": "包口金屬框鬆了｜和按扣分開看｜私享家洗衣店",
+      "description": "上下兩片金屬口框合不緊、中間留縫。這不是轉鎖或按扣卡住，也不是鍍層變色。傳照片到 LINE @454foyks 問。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/bag-frame-gap.html",
+      "lastmod": "2026-10-29"
+    },
+    {
+      "slug": "leather-bag-crease-lighten",
+      "category": "guide",
+      "title": "皮包彎折處顏色變淺｜和皮鞋白痕分開｜私享家洗衣店",
+      "description": "皮包常折的位置顏色變淺、表面發霧。整片變黃或變灰是另一件事。小羊皮的刮痕也分開看。傳照片到 LINE @454foyks 問。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/leather-bag-crease-lighten.html",
+      "lastmod": "2026-10-29"
+    },
+    {
+      "slug": "knit-snag-check",
+      "category": "guide",
+      "title": "毛衣勾紗｜和起球、縮絨分開｜私享家洗衣店",
+      "description": "勾紗是一根紗被拉出一個環或一條線。起球是許多短纖維纏成小球。縮絨是整件變短、變厚。傳照片到 LINE @454foyks 問。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/knit-snag-check.html",
+      "lastmod": "2026-10-29"
+    },
+    {
+      "slug": "coat-cuff-wear",
+      "category": "guide",
+      "title": "外套袖口磨破｜和手肘摺、領口汗黃分開｜私享家洗衣店",
+      "description": "袖口是手腕那一圈布被磨薄、磨穿，或塗層掀起。手肘在手臂中段。領口發黃是汗。傳照片到 LINE @454foyks 問。門市在台中市西屯區，西屯門市收件。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/coat-cuff-wear.html",
+      "lastmod": "2026-10-29"
+    },
+    {
+      "slug": "care-label-symbols-text-guide",
+      "category": "guide",
+      "title": "洗標符號怎麼看｜用文字認水洗、漂白、乾燥、熨燙｜私享家洗衣店",
+      "description": "洗標符號用文字描述：水槽、三角形、方框、熨斗、圓形，分別管水洗、漂白、乾燥、熨燙與專業洗護。附 PDF 文字小抄，洗標看不懂可傳照片問。",
+      "url": "https://sixiangjialaundry.com/guides/care-label-symbols-text-guide.html",
+      "lastmod": "2026-10-31"
+    },
+    {
+      "slug": "campaign",
+      "category": "guide",
+      "title": "台中換季送洗檔期｜萬聖節・入冬・聖誕・年前大掃除｜私享家洗衣店",
+      "description": "台中換季送洗檔期｜萬聖節・入冬・聖誕・年前大掃除｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/campaign/",
+      "lastmod": "2026-10-30"
+    },
+    {
+      "slug": "prewash-self-check",
+      "category": "guide",
+      "title": "送洗前自我檢查｜選物件、材質、狀況，看官網已寫的提醒｜私享家洗衣店",
+      "description": "選物件、材質和現在的狀況，列出私享家官網各指南裡已寫的提醒，每條附出處。不是判斷結果也不是報價，實品要看照片或實物。",
+      "url": "https://sixiangjialaundry.com/guides/prewash-self-check.html",
+      "lastmod": "2026-10-31"
+    },
+    {
+      "slug": "bedding-duvet-mold",
+      "category": "guide",
+      "title": "棉被、羽絨被發霉怎麼辦？先停手別收納，送洗前先看這篇｜台中私享家洗衣店",
+      "description": "棉被、羽絨被發霉怎麼辦？先停手：不再蓋、不密封收納、不先用漂白水；分零星霉點、整片黑斑或只有悶味，拍照傳 LINE 問能不能送洗。私享家洗衣店（台中西屯），發霉要看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/bedding-duvet-mold.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "wool-duvet-washing",
+      "category": "guide",
+      "title": "羊毛被可以水洗嗎？可以烘乾或曬太陽嗎｜羊毛被 $800 參考價｜私享家洗衣店",
+      "description": "羊毛被可以水洗、可以烘乾或曬太陽嗎？先看洗標：羊毛被遇熱水、高溫烘乾或烈日直曬容易縮絨變硬；價目表上羊毛被 $800 是水洗參考價，羊毛被基本上只能乾洗，乾洗另計，看過實品再報價。私享家洗衣店（台中西屯），免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/wool-duvet-washing.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "down-duvet-washing",
+      "category": "guide",
+      "title": "羽絨被可以水洗嗎？多久洗一次、能曬太陽嗎｜台中私享家洗衣店",
+      "description": "羽絨被可以水洗嗎？先看洗標與尺寸：吸水後很重、羽絨容易結團、中間層慢乾；雙人或洗不動的建議送洗。私享家洗衣店（台中西屯）羽絨被水洗參考價 $600。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/down-duvet-washing.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "blanket-washing",
+      "category": "guide",
+      "title": "毛毯可以烘乾嗎？可以丟洗衣機嗎｜毛毯單人 $200、雙人 $400 參考價｜私享家洗衣店",
+      "description": "毛毯可以烘乾嗎？烘乾要看洗標，洗標沒有明寫可烘乾就不要烘。可以丟洗衣機嗎？先看洗標與厚度：薄毛毯可先試，厚毯、羊毛毯或洗不動的建議送洗，洗後中間層要乾透。私享家洗衣店（台中西屯）毛毯單人 $200、雙人 $400，水洗參考價，乾洗、柔洗另計，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/blanket-washing.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "jacket-cleaning-price",
+      "category": "guide",
+      "title": "外套送洗多少錢？薄外套、厚外套、羽絨外套、長大衣價格怎麼分｜台中私享家洗衣店",
+      "description": "外套送洗多少錢？私享家洗衣店（台中西屯）水洗參考價：薄外套 $150、厚外套 $180、羽絨外套 $280、長大衣 $300。依厚度、填充與長度分列。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/jacket-cleaning-price.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "bag-cleaning-price",
+      "category": "guide",
+      "title": "包包清洗多少錢？背包、一般包、皮包、名牌包價格差在哪｜台中私享家洗衣店",
+      "description": "包包清洗多少錢？私享家洗衣店（台中西屯）水洗參考價：背包 $500、一般包 $600、皮包 $1000、名牌包 $1500 起、特殊類名牌包 $2500。補色、修補另計。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/bag-cleaning-price.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "suit-water-wash-risk",
+      "category": "guide",
+      "title": "西裝可以水洗嗎？水洗會怎樣、多久乾洗一次｜台中私享家洗衣店",
+      "description": "西裝可以水洗嗎？先看洗標：限乾洗或打叉水盆的不要自己水洗，墊肩、襯與內裡遇水可能縮水、變形。私享家洗衣店（台中西屯）西裝外套看過實品再報價。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/suit-water-wash-risk.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "dry-cleaning-shrink-risk",
+      "category": "guide",
+      "title": "乾洗會縮水嗎？哪些衣服乾洗也可能變形、掉色｜台中私享家洗衣店",
+      "description": "乾洗會縮水嗎？乾洗不用水當主要介質，水造成的縮皺風險通常較低，但針織、有墊肩的外套、亮片飾件與絲質仍可能變形或掉色。送洗前先拍洗標與整件。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/dry-cleaning-shrink-risk.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "leather-shoe-cleaning-price",
+      "category": "guide",
+      "title": "皮鞋可以送洗嗎？皮鞋清潔多少錢、會不會洗壞｜台中私享家洗衣店",
+      "description": "皮鞋可以送洗嗎？私享家洗衣店（台中西屯）清潔參考價：皮鞋 $400、名牌鞋 $600、皮類運動鞋 $300、低靴 $350、高靴 $550。補色、修補另計。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/leather-shoe-cleaning-price.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "laundry-damage-risk",
+      "category": "guide",
+      "title": "衣服送洗會洗壞嗎？哪些衣服風險高、送洗前要先說什麼？｜台中私享家洗衣店",
+      "description": "衣服送洗會洗壞嗎？風險高低看材質、洗標、舊傷與污漬來源。針織、絲質、有墊肩的外套、亮片飾件與皮革要先講清楚，洗標、舊傷、污漬怎麼來的，送洗前一起拍給門市。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/laundry-damage-risk.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "sweater-shrunk-what-now",
+      "category": "guide",
+      "title": "毛衣縮水怎麼辦？縮水的衣服洗衣店能不能處理？｜台中私享家洗衣店",
+      "description": "毛衣縮水怎麼辦？先別再洗、再烘、再熨，拍洗標與整件，記下縮水的經過，再傳 LINE 或拿來店裡讓門市看過實物。能處理到哪，要看材質跟縮的程度。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/sweater-shrunk-what-now.html",
+      "lastmod": "2026-11-02"
+    },
+    {
+      "slug": "booking",
+      "category": "guide",
+      "title": "LINE 洗護詢問與收送預約｜私享家洗衣店",
+      "description": "LINE 洗護詢問與收送預約｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/booking/",
+      "lastmod": "2026-11-03"
+    },
+    {
+      "slug": "journal",
+      "category": "guide",
+      "title": "洗護紀錄｜私享家洗衣店",
+      "description": "洗護紀錄｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/journal/",
+      "lastmod": "2026-11-03"
+    },
+    {
+      "slug": "clothing-ink-stain",
+      "category": "guide",
+      "title": "衣服畫到原子筆怎麼洗？｜台中私享家洗衣店",
+      "description": "衣服畫到原子筆怎麼洗？先不要用水搓，也不要用酒精擦，墨容易沿著布紋暈開。拍整件、筆痕與洗標傳給門市。原子筆污漬沒有公開單價。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/clothing-ink-stain.html",
+      "lastmod": "2026-11-05"
+    },
+    {
+      "slug": "suede-jacket-cleaning",
+      "category": "guide",
+      "title": "麂皮外套怎麼洗？先別整件泡水、別脫水，台中送洗先看絨面｜私享家洗衣店",
+      "description": "麂皮外套可以送洗，但不要整件泡水、不要脫水。絨毛倒了用軟刷順毛，還濕的話門市會趁濕處理，麂皮可能染色。價目表沒有麂皮外套這一列，參考價，看過實品再報價。台中全市免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/suede-jacket-cleaning.html",
+      "lastmod": "2026-11-05"
+    },
+    {
+      "slug": "clothing-color-fading",
+      "category": "guide",
+      "title": "衣服褪色怎麼辦？可以補色嗎？｜台中私享家洗衣店",
+      "description": "衣服褪色怎麼辦？先分是這件自己變淡，還是被別件染上顏色。自己變淡時，清潔通常補不回原來的顏色。價目頁寫補色修補另計，沒有公開數字。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/clothing-color-fading.html",
+      "lastmod": "2026-11-05"
+    },
+    {
+      "slug": "waterproof-breathable-shoe-care",
+      "category": "guide",
+      "title": "防水透氣鞋可以水洗嗎？可以烘乾嗎？｜台中私享家洗衣店",
+      "description": "防水透氣鞋可以水洗嗎？先看洗標，不要整雙泡水，也不要高溫烘。清潔不會把防潑找回來。登山鞋的泥與深紋、雨季前的防潑水，各看各的頁。價目表沒有這一列。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/waterproof-breathable-shoe-care.html",
+      "lastmod": "2026-11-05"
+    },
+    {
+      "slug": "summer-quilt-washing",
+      "category": "guide",
+      "title": "涼被可以水洗嗎？可以烘乾嗎？｜台中私享家洗衣店",
+      "description": "涼被可以水洗嗎？先看洗標。洗標允許、機器轉得動、洗完攤得開，才考慮自己洗。烘乾只以洗標為準。私享家涼被水洗參考價 $180。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/summer-quilt-washing.html",
+      "lastmod": "2026-11-05"
+    },
+    {
+      "slug": "sweater-cleaning-price",
+      "category": "guide",
+      "title": "毛衣送洗多少錢？會縮水嗎？｜台中私享家洗衣店",
+      "description": "毛衣送洗多少錢？毛衣 $150，參考價，看過實品再報價；毛衣外套 $180，參考價，看過實品再報價；精品毛衣 $210，參考價，看過實品再報價；精品毛衣外套 $240，參考價，看過實品再報價。會不會縮，看纖維與洗標。羊絨沒有公開列。",
+      "url": "https://sixiangjialaundry.com/guides/sweater-cleaning-price.html",
+      "lastmod": "2026-11-05"
+    },
+    {
+      "slug": "mattress-protector-washing",
+      "category": "guide",
+      "title": "保潔墊可以丟洗衣機嗎？可以烘乾嗎？｜台中私享家洗衣店",
+      "description": "保潔墊可以丟洗衣機嗎？先看洗標、尺寸，以及有沒有膜或鬆緊固定。洗標允許、機器裝得下，才考慮自己洗。烘乾以洗標為準。保潔墊水洗參考價 $120。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/mattress-protector-washing.html",
+      "lastmod": "2026-11-05"
+    },
+    {
+      "slug": "shoe-insole-machine-wash",
+      "category": "guide",
+      "title": "鞋墊可以丟洗衣機嗎？｜台中私享家洗衣店",
+      "description": "鞋墊可以丟洗衣機嗎？抽得起的鞋墊也不建議直接脫水。泡棉、皮、絨遇水和高速轉動可能變形或脫膠。黏死、縫死的不要把整雙鞋一起丟。價目表沒有鞋墊這一列。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-insole-machine-wash.html",
+      "lastmod": "2026-11-05"
+    },
+    {
+      "slug": "ski-snow-jacket-cleaning",
+      "category": "guide",
+      "title": "雪衣、滑雪外套怎麼洗？出國回來要送洗嗎？｜台中私享家洗衣店",
+      "description": "雪衣、滑雪外套先別整件丟進家用洗衣機。出國回來先看外層鹽痕、裡布與口袋是否還潮。清潔不等於恢復防潑水或防水性能。一般厚雪衣、滑雪外套可看厚外套水洗參考價 $180，參考價，看過實品再報價；羽絨填充的看羽絨外套水洗參考價 $280，參考價，看過實品再報價。雪褲、連身雪衣傳照片看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/ski-snow-jacket-cleaning.html",
+      "lastmod": "2026-11-09"
+    },
+    {
+      "slug": "sherpa-teddy-fleece-jacket",
+      "category": "guide",
+      "title": "羊羔絨、泰迪絨外套怎麼洗？洗完會結塊變硬嗎？｜台中私享家洗衣店",
+      "description": "羊羔絨、泰迪絨外套是布面貼著短絨或長絨，不是羊毛，也不是羽絨。高溫烘、強力脫水容易讓絨倒、結塊、摸起來變硬。結塊或倒伏洗完能回到哪裡，要看材質與損況，看過實品再說。厚外套水洗參考價 $180，參考價，看過實品再報價；毛衣外套形制用毛衣外套水洗參考價 $180，參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/sherpa-teddy-fleece-jacket.html",
+      "lastmod": "2026-11-09"
+    },
+    {
+      "slug": "fleece-jacket-pilling",
+      "category": "guide",
+      "title": "刷毛、搖粒絨外套起球、變硬怎麼辦？｜台中私享家洗衣店",
+      "description": "刷毛、搖粒絨是合成纖維。起的小球和羊毛毛衣起球不是同一件事。自己用力刮，薄的刷毛會刮破。起球只能評估改善，不承諾去掉或回到原表面。變硬多半是烘太熱，或洗劑沒沖開。厚外套水洗參考價 $180，參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/fleece-jacket-pilling.html",
+      "lastmod": "2026-11-09"
+    },
+    {
+      "slug": "faux-fur-collar-cleaning",
+      "category": "guide",
+      "title": "外套毛領、帽緣毛怎麼洗？可以拆下來嗎？｜台中私享家洗衣店",
+      "description": "外套毛領、帽緣毛先看是縫死、拉鍊可拆，還是扣子固定。可拆的先拆開分開拍。人造毛沾水後用力搓，毛會打結。這份只判斷清潔前要看的地方。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/faux-fur-collar-cleaning.html",
+      "lastmod": "2026-11-09"
+    },
+    {
+      "slug": "luxury-down-jacket-cleaning",
+      "category": "guide",
+      "title": "精品羽絨外套可以送洗嗎？｜台中私享家洗衣店",
+      "description": "精品羽絨外套可以先傳照片問能不能收。這不是品牌授權、指定或合作洗護。一般羽絨外套水洗參考價是羽絨外套 $280，參考價，看過實品再報價。有毛領、徽章、特殊塗層或厚填充的不套那一列，也不套精品外套。怎麼洗看羽絨外套指南。",
+      "url": "https://sixiangjialaundry.com/guides/luxury-down-jacket-cleaning.html",
+      "lastmod": "2026-11-09"
+    },
+    {
+      "slug": "down-jacket-feather-leak",
+      "category": "guide",
+      "title": "羽絨外套一直漏毛正常嗎？送洗會更嚴重嗎？｜台中私享家洗衣店",
+      "description": "車縫偶爾帶出幾根羽絲，和同一個位置一直冒絨，不是同一件事。破口先拍。水與脫水可能讓羽絲從已經張開的口跑出。清潔不包含把破口車起來。參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/down-jacket-feather-leak.html",
+      "lastmod": "2026-11-09"
+    },
+    {
+      "slug": "knit-shoulder-bump-stretch",
+      "category": "guide",
+      "title": "毛衣洗完變大、變長、變硬怎麼辦？肩膀凸起也看這篇｜台中私享家洗衣店",
+      "description": "毛衣洗完變大、變長或變硬怎麼辦？先別再洗、再烘、再熨，也別用力拉，把衣服攤平量一量。變長多半是濕的時候被吊或被拉，變硬可能是縮絨，要看實物。毛衣水洗參考價 $150，參考價，看過實品再報價。",
+      "url": "https://sixiangjialaundry.com/guides/knit-shoulder-bump-stretch.html",
+      "lastmod": "2026-11-09"
+    },
+    {
+      "slug": "suit-mold-cleaning",
+      "category": "guide",
+      "title": "西裝外套發霉怎麼辦？能不能送洗、要多久、怎麼估價｜台中私享家洗衣店",
+      "description": "西裝外套發霉先別濕擦、別戶外抖、別噴香水，先通風再拍斑點與洗標。一般約 7 天可以拿，西裝外套沒有固定價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/suit-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "down-jacket-mold-cleaning",
+      "category": "guide",
+      "title": "羽絨外套發霉怎麼辦？能送洗嗎、羽絨會不會結塊｜水洗參考價 $280｜私享家洗衣店",
+      "description": "羽絨外套發霉先通風、別濕擦，先分是表面霉點還是羽絨受潮結塊。羽絨外套水洗參考價 $280，參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/down-jacket-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "plush-doll-mold-cleaning",
+      "category": "guide",
+      "title": "娃娃發霉還有救嗎？台中娃娃送洗先看填充與五官｜私享家洗衣店",
+      "description": "娃娃發霉先別丟洗衣機：脫水可能讓填充結塊、五官或配件鬆脫。先通風、拍正反面與霉點，有電池或發聲裝置的不進水。價目表沒有娃娃固定價，依照片與尺寸估價。免費收送、沒有最低消費，一隻也收，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/plush-doll-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "wool-coat-mold-cleaning",
+      "category": "guide",
+      "title": "羊毛大衣發霉怎麼辦？能送洗嗎、要多久、怎麼估價｜台中私享家洗衣店",
+      "description": "羊毛大衣發霉先拍洗標、領口、裡布與霉點；不要長時間密封潮濕衣物，送件包裝先向門市確認。洗標寫只能乾洗就照洗標乾洗。一般約 7 天可以拿，長大衣水洗參考價 $300，參考價，看過實品再報價。乾洗另計。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/wool-coat-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "sweater-mold-cleaning",
+      "category": "guide",
+      "title": "毛衣發霉怎麼洗？會縮水嗎、要多久、多少錢｜台中私享家洗衣店",
+      "description": "毛衣發霉先通風，不要整件泡水、不要濕擦。毛衣水洗參考價 $150，參考價，看過實品再報價，會不會縮要看纖維與洗標。一般約 7 天可以拿。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/sweater-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "leather-belt-mold",
+      "category": "guide",
+      "title": "皮帶發霉還有救嗎？能洗嗎、多少錢｜皮帶清潔參考價 $400｜私享家洗衣店",
+      "description": "皮帶發霉先通風，不要整條泡水。皮帶清潔參考價 $400，參考價，看過實品再報價。要分帶身、孔位、扣頭、邊油四處看。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/leather-belt-mold.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "suede-shoe-mold",
+      "category": "guide",
+      "title": "麂皮鞋發霉怎麼辦？不要濕擦、不要硬刷｜麂皮鞋清潔參考價 $400｜私享家洗衣店",
+      "description": "麂皮鞋發霉先通風，不要濕擦、不要用硬刷。麂皮鞋清潔參考價 $400，參考價，看過實品再報價。洗鞋一般約一個禮拜可以拿。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/suede-shoe-mold.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "shirt-collar-mold-spots",
+      "category": "guide",
+      "title": "襯衫領口發霉黑點怎麼洗？先分霉點、汗黃、漿膜｜襯衫水洗參考價 $70｜私享家洗衣店",
+      "description": "襯衫領口出現黑點，先分是霉點、汗黃還是漿膜，先評估清潔方式，清潔後再確認整燙。襯衫水洗參考價 $70，參考價，看過實品再報價。一般約 7 天可以拿。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/shirt-collar-mold-spots.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "taichung-shoe-cleaning-price",
+      "category": "guide",
+      "title": "台中洗鞋多少錢？一般運動鞋 $250、麂皮鞋 $400、名牌鞋 $600｜私享家洗衣店",
+      "description": "台中洗鞋多少錢？私享家洗衣店（台中西屯）清潔參考價：童鞋 $150、一般運動鞋 $250、皮鞋與麂皮鞋 $400、名牌鞋 $600。依鞋款與材質分列。參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/taichung-shoe-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "boot-hiking-shoe-cleaning-price",
+      "category": "guide",
+      "title": "靴子、登山鞋送洗多少錢？低靴 $350、中靴 $450、高靴 $550｜私享家洗衣店",
+      "description": "靴子、登山鞋送洗多少錢？私享家洗衣店（台中西屯）水洗參考價：低靴 $350、中靴 $450、高靴 $550、一般登山鞋 $350、高筒登山鞋 $500。參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/boot-hiking-shoe-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "leather-garment-cleaning-price",
+      "category": "guide",
+      "title": "皮衣送洗多少錢？皮衣 $1200、皮褲 $700、皮裙 $600｜台中私享家洗衣店",
+      "description": "皮衣送洗多少錢？私享家洗衣店（台中西屯）清潔參考價：皮衣 $1200、皮背心 $800、皮褲 $700、皮裙 $600、皮帶 $400。發霉與特殊污漬看過實品再報價。參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/leather-garment-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "everyday-clothes-cleaning-price",
+      "category": "guide",
+      "title": "襯衫、褲子、T恤送洗多少錢？襯衫 $70、長褲 $70、牛仔褲 $80｜私享家洗衣店",
+      "description": "襯衫、褲子、T恤送洗多少錢？私享家洗衣店（台中西屯）水洗參考價：襯衫 $70、長褲 $70、棉T $70、牛仔褲 $80、帽T $80。參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/everyday-clothes-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "dress-skirt-gown-cleaning-price",
+      "category": "guide",
+      "title": "洋裝、裙子、旗袍、禮服送洗多少錢？短洋裝 $120、旗袍 $200、禮服 $450｜私享家洗衣店",
+      "description": "洋裝、裙子、旗袍、禮服送洗多少錢？私享家洗衣店（台中西屯）水洗參考價：短洋裝 $120、長洋裝 $180、旗袍 $200、禮服 $450。參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/dress-skirt-gown-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "bedding-blanket-sleeping-bag-cleaning-price",
+      "category": "guide",
+      "title": "床單被套、毛毯、睡袋送洗多少錢？單人毛毯 $200、睡袋 $250｜私享家洗衣店",
+      "description": "床單被套、毛毯、睡袋送洗多少錢？私享家洗衣店（台中西屯）水洗參考價：薄床單被套 $150、床組四件套 $300、單人毛毯 $200、睡袋 $250。參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/bedding-blanket-sleeping-bag-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "bag-mold-cleaning-price",
+      "category": "guide",
+      "title": "包包發霉送洗多少錢？背包 $500、一般包 $600、名牌包 $1500 起｜私享家洗衣店",
+      "description": "包包發霉送洗多少錢？私享家洗衣店（台中西屯）清潔參考價：背包 $500、一般包 $600、名牌包 $1500 起。發霉屬特殊污況，看過實物再報價。參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/bag-mold-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "curtain-mold-cleaning",
+      "category": "guide",
+      "title": "窗簾發霉怎麼辦？先通風、拍照，傳照片到 LINE 問｜台中私享家洗衣店",
+      "description": "窗簾發霉先別濕擦、別噴漂白水，先取下通風，拍整片、霉點近照與洗標。窗簾、地毯傳照片到 LINE 問。免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/curtain-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "backpack-mold-cleaning",
+      "category": "guide",
+      "title": "書包、背包發霉怎麼辦？能送洗嗎、背包 $500｜台中私享家洗衣店",
+      "description": "書包、背包發霉先倒空、攤開通風，別濕擦、別整個泡水。背包清潔參考價 $500，參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/backpack-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "hat-mold-cleaning",
+      "category": "guide",
+      "title": "帽子發霉怎麼辦？棒球帽、毛帽、皮帽能送洗嗎｜帽子 $80｜私享家洗衣店",
+      "description": "帽子發霉先別濕擦、別用漂白水塗帽簷，先分布帽、毛帽或皮帽。帽子清潔參考價 $80、皮帽子 $300，參考價，看過實品再報價。免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/hat-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "uniform-mold-cleaning",
+      "category": "guide",
+      "title": "制服發霉怎麼辦？護士服 $80、醫師服 $100，能送洗嗎｜台中私享家洗衣店",
+      "description": "制服發霉先通風、別濕擦，先拍領口、腋下、褲腳與洗標。護士服清潔參考價 $80、醫師服 $100，參考價，看過實品再報價。一般約 7 天可以拿，免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/uniform-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "boot-mold-cleaning",
+      "category": "guide",
+      "title": "靴子發霉怎麼辦？皮靴、麂皮靴還能穿嗎、低靴 $350 參考價｜私享家洗衣店",
+      "description": "靴子發霉先別濕擦、別硬刷，先拍靴筒內裡、鞋墊背面與拉鍊。低靴 $350、中靴 $450、高靴 $550，參考價，看過實品再報價。洗鞋一般約一個禮拜可以拿，免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/boot-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "slipper-mold-cleaning",
+      "category": "guide",
+      "title": "拖鞋發霉怎麼辦？EVA、勃肯拖鞋還能穿嗎、拖鞋 $200｜私享家洗衣店",
+      "description": "拖鞋發霉先別泡水、別用漂白水，先分 EVA、軟木鞋床或布面。拖鞋清潔參考價 $200，參考價，看過實品再報價。洗鞋一般約一個禮拜可以拿，免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/slipper-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "canvas-bag-mold-cleaning",
+      "category": "guide",
+      "title": "帆布包發霉怎麼辦？全布包 $550、布混包 $900，能送洗嗎｜私享家洗衣店",
+      "description": "帆布包發霉先倒空、攤開通風，別濕擦、別用漂白水，先拍內袋、底角與皮革提把。全布包 $550、布混包 $900，參考價，看過實品再報價。免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/canvas-bag-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "canvas-shoe-mold-cleaning",
+      "category": "guide",
+      "title": "帆布鞋發霉怎麼辦？還能穿嗎、洗鞋要多久、價格｜台中私享家洗衣店",
+      "description": "帆布鞋發霉先別刷、別泡水，先抽出鞋墊通風，拍鞋面、鞋舌內側與鞋墊背面。價目表沒有帆布鞋單獨一列，帆布鞋傳照片到 LINE，看過實品再報價。洗鞋一般約一個禮拜可以拿，免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/canvas-shoe-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "luggage-mold-cleaning",
+      "category": "guide",
+      "title": "行李箱發霉怎麼辦？內袋、拉鍊、輪子能送洗嗎｜台中私享家洗衣店",
+      "description": "行李箱發霉先清空、打開通風，別濕擦、別噴香水，先拍內袋、拉鍊布帶與輪座。行李箱沒有固定價，傳尺寸與照片到 LINE，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/luggage-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "snow-boot-mold-cleaning",
+      "category": "guide",
+      "title": "雪靴發霉怎麼辦？羊皮毛一體雪靴內毛發霉能送洗嗎｜私享家洗衣店",
+      "description": "雪靴發霉先別泡水、別吹暖氣，先分外皮絨面與內毛。羊皮毛一體吃水後乾得慢，沒有固定價，看過實品再報價。洗鞋一般約一個禮拜可以拿，免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/snow-boot-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "carpet-mold-cleaning",
+      "category": "guide",
+      "title": "地毯發霉怎麼辦？先通風、拍照，傳照片到 LINE 問｜台中私享家洗衣店",
+      "description": "地毯發霉先別澆水、別噴漂白水，先捲起通風，拍正反面、霉點近照與背襯。窗簾、地毯傳照片到 LINE 問。免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/carpet-mold-cleaning.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "curtain-cleaning-price",
+      "category": "guide",
+      "title": "窗簾送洗價格怎麼算？台中洗窗簾沒有固定價，先傳照片到 LINE 問｜私享家洗衣店",
+      "description": "窗簾送洗價格怎麼算？私享家洗衣店（台中西屯）價目表沒有窗簾固定價，窗簾、地毯傳照片到 LINE 問。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/curtain-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "carpet-cleaning-price",
+      "category": "guide",
+      "title": "洗地毯價格怎麼算？台中地毯送洗沒有固定價，先看乾不乾｜私享家洗衣店",
+      "description": "洗地毯價格怎麼算？私享家洗衣店（台中西屯）價目表沒有地毯固定價，窗簾、地毯傳照片到 LINE 問。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/carpet-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "luxury-garment-cleaning-price",
+      "category": "guide",
+      "title": "精品衣服送洗多少錢？精品襯衫 $100、精品外套 $200、精品中大衣 $300｜私享家洗衣店",
+      "description": "精品衣服送洗多少錢？私享家洗衣店（台中西屯）水洗參考價：精品襯衫 $100、精品外套 $200、精品中大衣 $300，參考價，看過實品再報價。依品項分列。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/luxury-garment-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "uniform-cleaning-price",
+      "category": "guide",
+      "title": "制服送洗多少錢？護士服 $80、醫師服 $100、襯衫 $70、長褲 $70｜私享家洗衣店",
+      "description": "制服送洗多少錢？私享家洗衣店（台中西屯）水洗參考價：護士服 $80、醫師服 $100、襯衫 $70、長褲 $70，參考價，看過實品再報價。整批制服傳品項與件數。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/uniform-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "slipper-cleaning-price",
+      "category": "guide",
+      "title": "拖鞋送洗多少錢？一般拖鞋 $200，勃肯要先分軟木與 EVA｜私享家洗衣店",
+      "description": "拖鞋送洗多少錢？私享家洗衣店（台中西屯）拖鞋清潔參考價 $200，參考價，看過實品再報價；勃肯要先分軟木鞋床款與全 EVA 款。洗鞋一般約一個禮拜可以拿。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/slipper-cleaning-price.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "luxury-laundry-shop-how-to-choose",
+      "category": "guide",
+      "title": "台中精品洗衣店怎麼挑？精品衣服送洗前先問這五件事｜私享家洗衣店",
+      "description": "台中精品洗衣店怎麼挑？先問洗標怎麼判斷、五金飾件能不能處理、價目有沒有分列、做不到什麼、交期與收送。私享家洗衣店（台中西屯）精品襯衫 $100，參考價，看過實品再報價。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/luxury-laundry-shop-how-to-choose.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "curtain-carpet-laundry-shop-how-to-choose",
+      "category": "guide",
+      "title": "洗窗簾、洗地毯的洗衣店怎麼挑？送洗前先問這五件事｜台中私享家洗衣店",
+      "description": "洗窗簾、洗地毯的洗衣店怎麼挑？先問有沒有固定價、看不看尺寸與照片、地毯乾不乾、遮光塗層與背底怎麼看、大件交期。價目表沒有窗簾與地毯的固定價，傳照片到 LINE 問。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/curtain-carpet-laundry-shop-how-to-choose.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "taichung-bag-cleaning-how-to-choose",
+      "category": "guide",
+      "title": "台中洗包包推薦怎麼挑？先問材質、五金、價目與交期｜私享家洗衣店",
+      "description": "台中洗包包推薦怎麼挑？先問材質怎麼分、五金與內裡怎麼看、價目有沒有分列、清潔還是維修、交期。私享家洗衣店（台中西屯）背包 $500、一般包 $600，參考價，看過實品再報價。免費收送，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/taichung-bag-cleaning-how-to-choose.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "laundry-pickup-process-turnaround",
+      "category": "guide",
+      "title": "衣服送洗怎麼送？台中送洗流程、要多久、多少錢｜私享家洗衣店",
+      "description": "衣服送洗怎麼送？拍照傳 LINE、看過實物報價、免費收送、衣服一般約 7 天可以拿、洗鞋一般約一個禮拜可以拿、大件至少 10–14 天。襯衫 $70，參考價，看過實品再報價。沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/laundry-pickup-process-turnaround.html",
+      "lastmod": "2026-11-11"
+    },
+    {
+      "slug": "suede-water-hardened",
+      "category": "guide",
+      "title": "麂皮碰水變硬怎麼辦？先別再濕擦｜私享家洗衣店",
+      "description": "麂皮碰水後摸起來變硬，先不要濕擦、烘或上油。還沒泡水、只是絨毛倒了發亮，看麂皮鞋清潔。留下的水痕顏色只能淡化。麂皮鞋清潔參考價 $400，參考價，看過實品再報價。洗鞋一般約一個禮拜可以拿，實際日期收件時確認。台中全市免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/suede-water-hardened.html",
+      "lastmod": "2026-11-12"
+    },
+    {
+      "slug": "shoes-dyed-by-jeans",
+      "category": "guide",
+      "title": "鞋子被牛仔褲染色怎麼辦？先別漂白、先別烘｜私享家洗衣店",
+      "description": "鞋子被牛仔褲染色，是褲料染料沾到鞋面，不是新鞋蹭到襪子，也不是衣服互染。先不要漂白、不要烘。沾上的顏色只能淡化。一般運動鞋 $250、皮鞋清潔參考價 $400，參考價，看過實品再報價。洗鞋一般約一個禮拜可以拿，實際日期收件時確認。台中全市免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/shoes-dyed-by-jeans.html",
+      "lastmod": "2026-11-12"
+    },
+    {
+      "slug": "leather-shoe-crease-limit",
+      "category": "guide",
+      "title": "皮鞋摺痕能不能處理？清洗消不掉摺痕｜私享家洗衣店",
+      "description": "皮鞋走路彎出的摺痕，清洗不能消除。想把摺痕壓平屬修繕，不包含在清潔內。鞋油白線看皮鞋鞋油堆積。皮鞋清潔參考價 $400，參考價，看過實品再報價。洗鞋一般約一個禮拜可以拿，實際日期收件時確認。台中全市免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/leather-shoe-crease-limit.html",
+      "lastmod": "2026-11-12"
+    },
+    {
+      "slug": "stroller-cleaning",
+      "category": "guide",
+      "title": "嬰兒推車、娃娃推車怎麼清洗？整台送來再拆布｜私享家洗衣店",
+      "description": "嬰兒推車、娃娃推車整台送來店裡，清洗時才拆解、把布拆下來洗。布料手工溫柔清洗，不用機洗。推車或比較大件的物品至少 10～14 天才能交件。價格看過實品再報。台中全市免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/stroller-cleaning.html",
+      "lastmod": "2026-11-12"
+    },
+    {
+      "slug": "suede-faux-suede-fabric",
+      "category": "guide",
+      "title": "麂皮、仿麂皮、麂皮絨怎麼分？送洗差在哪｜私享家洗衣店",
+      "description": "麂皮是皮革絨面，仿麂皮多半是布底絨感，麂皮絨常是織物。三種不能用同一套刷法。真皮絨面的鞋看麂皮鞋清潔。麂皮鞋清潔參考價 $400，參考價，看過實品再報價。仿麂皮與麂皮絨價格看過實品再報。洗鞋一般約一個禮拜可以拿，實際日期收件時確認。台中全市免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/suede-faux-suede-fabric.html",
+      "lastmod": "2026-11-12"
+    },
+    {
+      "slug": "wool-duvet-drying",
+      "category": "guide",
+      "title": "羊毛被可以烘嗎？先看洗標烘乾符號，不能烘乾的用除溼乾燥｜私享家洗衣店",
+      "description": "羊毛被可以烘嗎？先看這件洗標上的烘乾符號，不替材質下一定可以烘或一定不能烘的結論。私享家的羊毛被基本上都只能乾洗；洗標不能烘乾的，用店裡的除溼技術快速乾燥。台中全市免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/wool-duvet-drying.html",
+      "lastmod": "2026-11-16"
+    },
+    {
+      "slug": "birkenstock-eva-slipper-odor",
+      "category": "guide",
+      "title": "勃肯 EVA 拖鞋會臭嗎？味道從哪來、能不能送洗｜私享家洗衣店",
+      "description": "勃肯 EVA 拖鞋會臭嗎？全 EVA 款沒有軟木鞋床，不能套用軟木吸汗的說明；味道先分潮氣、汗垢與悶放，不要用香味蓋住。拍鞋床正反面與大底傳 LINE，看過實品再報價，不承諾除味。洗鞋一般約一個禮拜可以拿。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/birkenstock-eva-slipper-odor.html",
+      "lastmod": "2026-11-22"
+    },
+    {
+      "slug": "leather-bag-surface-sticky",
+      "category": "guide",
+      "title": "皮包表面黏黏的怎麼辦？先分手汗、保養油、合成皮老化與油邊｜私享家洗衣店",
+      "description": "皮包表面黏黏的怎麼辦？先分黏在哪：提把黏手多半是手汗堆積；合成皮上了皮革油可能發黏；外層掉粉、脫皮是表面塑料層老化，清洗補不回。不要用酒精、去漬油擦。一般包 $600、皮包 $1000，水洗參考價，乾洗、柔洗另計，看過實品再報價。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/leather-bag-surface-sticky.html",
+      "lastmod": "2026-11-22"
+    },
+    {
+      "slug": "clothing-alteration-price",
+      "category": "guide",
+      "title": "台中修改衣服多少錢？改衣 $60 起，現場由師傅報價｜送洗順便改｜私享家洗衣店",
+      "description": "台中修改衣服多少錢？私享家洗衣店（台中西屯）價目表寫改衣 $60 起，實際價格現場由師傅報價，參考價，看過實品再報價。可以跟送洗衣物一起收送，清潔費與修改費分開計算。免費收送、沒有最低消費，LINE 官方 @454foyks，或 LINE 0968327653。",
+      "url": "https://sixiangjialaundry.com/guides/clothing-alteration-price.html",
+      "lastmod": "2026-11-22"
+    },
+    {
+      "slug": "videos",
+      "category": "video",
+      "title": "洗護實務影片庫｜21 支衣鞋包與收送流程短片｜私享家洗衣店",
+      "description": "私享家洗衣店 21 支洗護實務短片與專屬觀賞頁：包含雪靴水痕、羽絨袖口、羊毛大衣湯汁、毛衣起球、帆布鞋清洗全流程、包包發霉風險、天絲與棉被乾燥檢查，以及一件也收的管理室收送示範。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/videos/",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "duvet-inner-drying-check",
+      "category": "video",
+      "title": "棉被摸起來乾，中間那層不一定乾｜收進櫃子前先檢查｜私享家洗衣店",
+      "description": "棉被表面摸起來乾，不代表中間填充層也乾透。收進櫃子前先檢查潮味、別用塑膠袋封死潮氣，大件棉被與洗標不可烘乾物件的店內除溼乾燥提醒。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/videos/duvet-inner-drying-check.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "down-jacket-cuff-cleaning",
+      "category": "video",
+      "title": "羽絨外套袖口黑一圈，刷一半給你看｜局部先刷再整件洗｜私享家洗衣店",
+      "description": "羽絨外套袖口常卡手汗油脂變黑泛油光，片中示範先用軟刷分區處理袖口、再整件清洗與低溫烘乾的步驟與檢查重點。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/videos/down-jacket-cuff-cleaning.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "leather-bag-mold-darkening",
+      "category": "video",
+      "title": "包包發霉，洗後可能變黑｜棕色皮件拼布背包清潔風險｜私享家洗衣店",
+      "description": "換季拿包包出來發現翻蓋長霉，為什麼有些皮革霉斑清潔後反而可能變深或留下淡影？以棕色皮件拼接棋盤格後背包示範洗前判斷與實話說明。",
+      "url": "https://sixiangjialaundry.com/videos/leather-bag-mold-darkening.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "snow-boot-water-mark-cleaning",
+      "category": "video",
+      "title": "雪靴清洗前後對比：水痕別只擦一處｜羊皮絨面整雙處理｜私享家洗衣店",
+      "description": "雪靴鞋頭黑一圈或留下一圈白色水痕，為什麼局部濕擦反而更容易留痕？看栗色短筒羊皮雪靴整面清洗、乾透後刷順絨毛的示範說明。",
+      "url": "https://sixiangjialaundry.com/videos/snow-boot-water-mark-cleaning.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "light-shoe-drying-yellowing",
+      "category": "video",
+      "title": "淺色帆布鞋晾乾泛黃？先別猛刷｜分區洗護重點示範｜私享家洗衣店",
+      "description": "淺色帆布鞋洗完乾掉後常冒出一圈黃邊，先別拿硬刷猛刷或直接漂白。片中看米白帆布鞋配棕色橡膠鞋頭如何分區判斷鞋面、鞋邊與鞋帶旁。",
+      "url": "https://sixiangjialaundry.com/videos/light-shoe-drying-yellowing.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "wool-coat-hotpot-stain",
+      "category": "video",
+      "title": "羊毛大衣沾到羊肉爐湯汁，別急著機洗｜緊急處理與乾洗判斷｜私享家洗衣店",
+      "description": "吃火鍋或羊肉爐時羊毛大衣濺到帶油湯汁，當下千萬別搓、別沖熱水、別丟洗衣機。示範吸起表面餘液、查看洗標結構與乾洗/水洗判斷。",
+      "url": "https://sixiangjialaundry.com/videos/wool-coat-hotpot-stain.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "wool-sweater-pilling-care",
+      "category": "video",
+      "title": "毛衣起球，一區一區處理給你看｜梳球與平放收納示範｜私享家洗衣店",
+      "description": "針織毛衣袖下與正面起毛球，不能硬拔或硬扯。示範大顆先梳順、再用工具輕貼布面一區一區整理、保留織紋與平放收納重點。",
+      "url": "https://sixiangjialaundry.com/videos/wool-sweater-pilling-care.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "single-pair-shoe-pickup",
+      "category": "video",
+      "title": "一雙鞋也能約收送：收一次、送一次都免費｜沒有最低消費｜私享家洗衣店",
+      "description": "只有一雙鞋需要送洗，也可以約私享家收送嗎？示範 LINE 約好時段、師傅到場聯絡、洗好先傳明細再送回，免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/videos/single-pair-shoe-pickup.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "concierge-contactless-pickup",
+      "category": "video",
+      "title": "不在家也能收送：管理室收件、送回都拍照傳 LINE｜私享家洗衣店",
+      "description": "上班不在家怎麼約洗衣收送？先在 LINE 約好並寄放社區管理室，師傅到管理室取件與送回都會拍照傳 LINE 回報，支援 LINE Pay 付款。",
+      "url": "https://sixiangjialaundry.com/videos/concierge-contactless-pickup.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "single-item-laundry-pickup",
+      "category": "video",
+      "title": "只有一件，也能叫收送嗎？四步驟約好免費收送｜私享家洗衣店",
+      "description": "只有一件大衣、一雙鞋或一床棉被能不能約收送？私享家免費收送、沒有最低消費，示範 LINE 傳照約時段到送回的四個步驟與交件前提醒。",
+      "url": "https://sixiangjialaundry.com/videos/single-item-laundry-pickup.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "canvas-shoe-wash-full-process",
+      "category": "video",
+      "title": "帆布鞋清洗全流程：從收件檢查到裝袋交回｜拆帶拆墊分開洗｜私享家洗衣店",
+      "description": "一雙帆布鞋送洗會經過哪些步驟？實拍呈現鞋帶與鞋墊拆下分開洗、鞋面與大底分區清潔、乾透裝回並以透明袋交付的完整流程。",
+      "url": "https://sixiangjialaundry.com/videos/canvas-shoe-wash-full-process.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "bag-mold-dont-wipe-first",
+      "category": "video",
+      "title": "包包發霉了？先別擦｜避開濕布與酒精的正確處置｜私享家洗衣店",
+      "description": "發現包包表面長出一層白灰霉斑，先別急著用濕布或酒精擦！說明為什麼擦拭會把霉推入毛孔造成乾裂色差，以及送洗前拍照三步驟。",
+      "url": "https://sixiangjialaundry.com/videos/bag-mold-dont-wipe-first.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "white-tee-chocolate-icecream-stain",
+      "category": "video",
+      "title": "白 T 沾到巧克力冰淇淋，還有救？｜別沖熱水別猛搓｜私享家洗衣店",
+      "description": "白色棉 T 胸口沾到巧克力冰淇淋，結合油脂、可可粉與乳脂的複合污漬該怎麼辦？示範別沖熱水、刮除多餘表面後局部去漬與整件清洗。",
+      "url": "https://sixiangjialaundry.com/videos/white-tee-chocolate-icecream-stain.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "turtleneck-collar-makeup-stain",
+      "category": "video",
+      "title": "高領毛衣領口沾到粉底口紅，先別來回搓｜複合色料去漬重點｜私享家洗衣店",
+      "description": "高領針織毛衣領口內緣最常蹭到粉底與口紅。說明為何不能拿卸妝品或濕紙巾來回擦，以及門市送洗前測色與分步去漬流程。",
+      "url": "https://sixiangjialaundry.com/videos/turtleneck-collar-makeup-stain.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "sequin-dress-cleaning-check",
+      "category": "video",
+      "title": "亮片禮服髒了？先看亮片怎麼縫｜送洗前檢查與測試重點｜私享家洗衣店",
+      "description": "亮片禮服或舞台服裙擺髒了，為什麼不能直接丟洗衣機？看門市如何檢查亮片縫法、底布與內襯，並在不明顯處先測試。",
+      "url": "https://sixiangjialaundry.com/videos/sequin-dress-cleaning-check.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "tencel-bedding-care-label",
+      "category": "video",
+      "title": "天絲床組能直接丟洗衣機？先看洗標｜三種常見寫法分辨｜私享家洗衣店",
+      "description": "天絲（萊賽爾）床單被套涼滑但濕潤後纖維較脆弱。說明天絲床組洗標常見的三種寫法（可機洗、手洗、不可水洗）以及送洗參考價。",
+      "url": "https://sixiangjialaundry.com/videos/tencel-bedding-care-label.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "seasonal-storage-collar-cuff-check",
+      "category": "video",
+      "title": "換季收納前，先看領口、袖口、腋下｜避免放一季冒黃斑｜私享家洗衣店",
+      "description": "看起來沒髒的襯衫外套收進衣櫃，下一季拿出來卻變黃？示範換季收納前必查領口、袖口與腋下三個皮脂區，以及完全乾透再裝袋的重點。",
+      "url": "https://sixiangjialaundry.com/videos/seasonal-storage-collar-cuff-check.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "qipao-storage-yellow-spots",
+      "category": "video",
+      "title": "旗袍收好幾年冒黃斑：喜宴前一晚才發現｜緞面陳年黃斑處理｜私享家洗衣店",
+      "description": "緞面旗袍或宴會服收了好幾年才發現黃斑，為什麼收納前看不見的油漬放久會滲進纖維？說明黃斑能淡化到什麼程度與交期提醒。",
+      "url": "https://sixiangjialaundry.com/videos/qipao-storage-yellow-spots.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "dry-cleaning-solvent-explained",
+      "category": "video",
+      "title": "乾洗不是乾的：衣服其實泡在溶劑裡洗｜乾洗與水洗怎麼選｜私享家洗衣店",
+      "description": "很多人以為乾洗是乾擦不碰液體，其實乾洗是把衣物放進有機溶劑中清洗。以駝色羊毛大衣說明乾洗對油性髒污與水洗對汗漬的差異。",
+      "url": "https://sixiangjialaundry.com/videos/dry-cleaning-solvent-explained.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "jeans-dye-transfer-on-shoes",
+      "category": "video",
+      "title": "牛仔褲染到淺色鞋：那一道藍怎麼辦｜先看鞋面材質再評估｜私享家洗衣店",
+      "description": "穿新牛仔褲褲腳摩擦到淺色鞋鞋口，留下一圈藍色染料印怎麼辦？說明不同鞋面（網布、麂皮、光面皮）染料滲入差異與送洗評估重點。",
+      "url": "https://sixiangjialaundry.com/videos/jeans-dye-transfer-on-shoes.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "cashmere-scarf-shrunk-hardened",
+      "category": "video",
+      "title": "羊絨圍巾越揉越乾淨？洗完又硬又縮的原因｜洗前先看洗標｜私享家洗衣店",
+      "description": "羊絨（喀什米爾）圍巾怕熱水也怕大力搓揉，洗錯為什麼會變得又硬又縮水？說明羊絨洗護重點與已經縮水後該怎麼判斷。",
+      "url": "https://sixiangjialaundry.com/videos/cashmere-scarf-shrunk-hardened.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "padded-cotton-jacket-care",
+      "category": "guide",
+      "title": "鋪棉外套洗完結塊、變扁怎麼辦？先跟羽絨分開｜台中私享家洗衣店",
+      "description": "鋪棉外套（化纖填充，不是羽絨）洗完棉結塊、變扁怎麼辦？先看洗標上的填充名稱。洗標寫羽絨的不要用這份。鋪棉移位或板掉，和羽絨結塊不是同一件事。先看洗標、照洗標。洗標寫只能乾洗的，只能乾洗。洗標不能烘乾的，用店裡的除溼技術快速乾燥。厚外套 $180 是水洗參考價，乾洗、柔洗另計，看過實品再報價。台中全市免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/padded-cotton-jacket-care.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "corduroy-garment-care",
+      "category": "guide",
+      "title": "燈芯絨外套、褲子怎麼洗？倒毛發亮、壓痕怎麼看｜台中私享家洗衣店",
+      "description": "燈芯絨外套、褲子怎麼洗？先看洗標、照洗標。洗標寫只能乾洗的，只能乾洗。倒毛發亮多半是凸條被壓倒；壓痕是坐下或對摺把凸條壓扁，和磨穿不是同一件事。洗標不能烘乾的，用店裡的除溼技術快速乾燥。長褲 $70、厚外套 $180 都是水洗參考價，乾洗、柔洗另計，看過實品再報價。台中全市免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/corduroy-garment-care.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "mohair-alpaca-coat-care",
+      "category": "guide",
+      "title": "毛海、羊駝毛大衣一直掉毛正常嗎？可以水洗嗎｜台中私享家洗衣店",
+      "description": "毛海、羊駝毛大衣一直掉毛正常嗎？表面浮毛、布面還沒缺一塊，常見；露出底組織或破洞就不是一般浮毛。可以水洗嗎，先看洗標、照洗標。洗標寫只能乾洗的，只能乾洗。洗標不能烘乾的，用店裡的除溼技術快速乾燥。長大衣 $300、精品長大衣 $350 都是水洗參考價，乾洗、柔洗另計，看過實品再報價。台中全市免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/mohair-alpaca-coat-care.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "shearling-coat-care",
+      "category": "guide",
+      "title": "羊皮毛一體外套可以送洗嗎？外皮內毛要一起看｜台中私享家洗衣店",
+      "description": "羊皮毛一體外套可以送洗嗎？先確認外皮和內毛是同一張皮，不是可拆內裡。可以先送看，不要整件泡水。先看洗標、照洗標。洗標寫只能乾洗的，只能乾洗。洗標不能烘乾的，用店裡的除溼技術快速乾燥。污漬、發黃只能淡化。皮革類看過實品再報價。台中全市免費收送、沒有最低消費。東海沒有門市。",
+      "url": "https://sixiangjialaundry.com/guides/shearling-coat-care.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "wool-duvet-sun-drying",
+      "category": "guide",
+      "title": "羊毛被可以曬太陽嗎？強光曝曬與潮氣風險｜台中私享家洗衣店",
+      "description": "羊毛被可以曬太陽嗎？先看手上那件羊毛被的洗標，直接直射強光曝曬容易讓羊毛纖維脆化、變硬或表布褪色，若剛沾濕反而把內層水氣悶住。價目表上羊毛被 $800 是水洗參考價；羊毛被基本上只能乾洗，乾洗另計，看過實品再報價。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/wool-duvet-sun-drying.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "nylon-jacket-oil-stain",
+      "category": "guide",
+      "title": "尼龍外套材質清洗油漬怎麼辦？先別搓、防塗層受損｜台中私享家洗衣店",
+      "description": "尼龍外套、風衣或防風褲沾到油漬怎麼清洗？先吸表面浮油、不要用熱水或酒精用力搓揉，避免破壞表層防潑水塗層或壓膠貼條。薄夾克 $150、厚夾克 $180、G-T外套 $250 皆為水洗參考價，看過實品再報價。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/nylon-jacket-oil-stain.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "backpack-cleaning-price",
+      "category": "guide",
+      "title": "背包清洗價格怎麼算？台中背包清洗店收費對照與材質檢查｜私享家洗衣店",
+      "description": "台中背包清洗價格怎麼算？依價目表參考價：背包 $500、全布包 $550、布混包 $900、皮包包 $1000、名牌包 $1500、特殊類名牌包 $2500（水洗參考價，看過實品再報價；發霉特污另計）。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/backpack-cleaning-price.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "shoe-spin-dry-risk",
+      "category": "guide",
+      "title": "鞋子可以放洗衣機脫水嗎？開膠與變形風險說明｜台中私享家洗衣店",
+      "description": "鞋子洗完可以丟洗衣機脫水嗎？高速離心力容易拉扯鞋面車線、加速鞋底開膠、壓扁後跟港寶或讓鞋領泡棉變形。說明替代吸乾方法與送洗參考價（運動鞋 $250 起，看過實品再報價）。免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/shoe-spin-dry-risk.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "journal-2026-07",
+      "category": "guide",
+      "title": "2026 年 07 月｜私享家洗衣店",
+      "description": "2026 年 07 月｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/journal/2026-07/",
+      "lastmod": "2026-07-31"
+    },
+    {
+      "slug": "journal-2026-08",
+      "category": "guide",
+      "title": "2026 年 08 月｜私享家洗衣店",
+      "description": "2026 年 08 月｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/journal/2026-08/",
+      "lastmod": "2026-08-31"
+    },
+    {
+      "slug": "journal-2026-09",
+      "category": "guide",
+      "title": "2026 年 09 月｜私享家洗衣店",
+      "description": "2026 年 09 月｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/journal/2026-09/",
+      "lastmod": "2026-09-30"
+    },
+    {
+      "slug": "journal-2026-10",
+      "category": "guide",
+      "title": "2026 年 10 月｜私享家洗衣店",
+      "description": "2026 年 10 月｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/journal/2026-10/",
+      "lastmod": "2026-10-31"
+    },
+    {
+      "slug": "journal-2026-11",
+      "category": "guide",
+      "title": "2026 年 11 月｜私享家洗衣店",
+      "description": "2026 年 11 月｜私享家洗衣店",
+      "url": "https://sixiangjialaundry.com/journal/2026-11/",
+      "lastmod": "2026-11-14"
+    },
+    {
+      "slug": "synthetic-leather-peeling-care",
+      "category": "guide",
+      "title": "合成皮掉屑處理怎麼辦？PU皮外套、包包脫皮還能送洗嗎｜私享家洗衣店",
+      "description": "合成皮掉屑處理前先看表層 PU 塗層是否已水解裂開。已經起泡、掉屑或裂紋的合成皮在清潔摩擦下會繼續剝落，洗護無法把剝落的塗層黏回去；送洗前先拍洗標與近照傳 LINE 評估。薄外套 $150、一般包 $600（水洗參考價，乾洗、柔洗另計，看過實品再報價）。",
+      "url": "https://sixiangjialaundry.com/guides/synthetic-leather-peeling-care.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "faux-suede-water-wash",
+      "category": "guide",
+      "title": "人造麂皮可以水洗嗎？麂皮絨外套、衣服怎麼洗與送洗價格｜私享家洗衣店",
+      "description": "人造麂皮可以水洗嗎？人造麂皮（聚酯纖維超細纖維絨面）多數比真皮麂皮耐水，但能不能直接水洗仍要看洗標、內裡、拼接皮條與染色牢度。薄外套 $150、厚外套 $180、短裙 $100（水洗參考價，乾洗、柔洗另計，看過實品再報價），免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/faux-suede-water-wash.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "blanket-tumble-dry-guide",
+      "category": "guide",
+      "title": "毛毯可以烘乾嗎？厚毛毯烘乾縮水結球風險與單人 $200 參考價｜私享家洗衣店",
+      "description": "毛毯可以烘乾嗎？先看洗標：動物羊毛毯與壓克力纖維厚毯遇高溫烘乾容易縮水、絨毛焦化結球；一般薄聚酯刷毛毯雖較耐溫，但家用烘衣機空間不足也會受熱不均、中心悶濕。毛毯單人 $200、雙人 $400（水洗參考價，乾洗、柔洗另計，看過實品再報價），免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/blanket-tumble-dry-guide.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "luggage-cleaning-service-price",
+      "category": "guide",
+      "title": "行李箱清洗服務怎麼算？內裡發霉、打翻液體與布箱送洗評估｜私享家洗衣店",
+      "description": "找台中行李箱清洗服務？行李箱包含硬殼、布面箱體、拉桿機構、紙板襯墊與內裡布，不能整咖直接泡水。私享家洗衣店（台中西屯）會先看是可拆式內裡、固定內裡發霉還是旅途打翻液體，依尺寸與箱況看照片或實品報價，免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/luggage-cleaning-service-price.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "suede-bag-dye-transfer-on-clothes",
+      "category": "guide",
+      "title": "麂皮包包染色衣服、包包被牛仔褲染色怎麼辦？色移處理與參考價｜私享家洗衣店",
+      "description": "麂皮包包染色到淺色衣服，或淺色麂皮包被深色牛仔褲染色（色移）怎麼辦？千萬別拿濕紙巾、酒精或橡皮擦猛搓，否則絨毛會起毛掉色、染料更吃進纖維。私享家洗衣店（台中西屯）可同時評估被染衣物與麂皮包，一般包 $600、皮包 $1000（參考價，看過實品再報價），免費收送。",
+      "url": "https://sixiangjialaundry.com/guides/suede-bag-dye-transfer-on-clothes.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "down-jacket-storage-mold-spots",
+      "category": "guide",
+      "title": "羽絨外套發霉怎麼處理？表面白霉與黑霉斑清洗｜羽絨外套 $280 參考價｜私享家洗衣店",
+      "description": "羽絨外套發霉怎麼處理？從衣櫃拿出來發現領口、袖口或縫線冒出白霉點，先別在室內乾拍或拿酒精擦（酒精會傷防潑水塗層與表布顏色）。私享家洗衣店（台中西屯）羽絨背心 $200、羽絨外套 $280（水洗參考價，乾洗、柔洗與發霉重污另計，看過實品再報價），免費收送。",
+      "url": "https://sixiangjialaundry.com/guides/down-jacket-storage-mold-spots.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "taichung-curtain-cleaning-pickup",
+      "category": "guide",
+      "title": "台中窗簾清洗、洗窗簾洗衣店推薦怎麼挑？布簾與遮光簾免費收送｜私享家洗衣店",
+      "description": "找台中窗簾清洗或洗窗簾洗衣店？窗簾因布料材質、遮光背膠塗層、折景鉤與尺寸片數差異大，未列單一固定價。私享家洗衣店（台中西屯青海路二段365號）先看整幅照片、布標與遮光層有沒有脆化，再依尺寸與照片報價（看過實品再報價），拆下後可約台中免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/taichung-curtain-cleaning-pickup.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "taichung-carpet-cleaning-pickup",
+      "category": "guide",
+      "title": "洗地毯洗衣店、台中洗地毯怎麼算？塊毯與長毛地毯免費收送｜私享家洗衣店",
+      "description": "找洗地毯洗衣店或台中洗地毯服務？地毯因長寬尺寸、厚度、長毛或短毛材質、以及背面止滑膠是否粉化差異大，未列單一固定價。私享家洗衣店（台中西屯青海路二段365號）先看地毯正背面照片與長寬公分估價（看過實品再報價），捲起後可約台中免費收送、沒有最低消費。",
+      "url": "https://sixiangjialaundry.com/guides/taichung-carpet-cleaning-pickup.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "taichung-plush-doll-laundry-shop",
+      "category": "guide",
+      "title": "洗娃娃店怎麼挑？台中絨毛娃娃、大型玩偶手洗與免費收送｜私享家洗衣店",
+      "description": "找台中洗娃娃店洗絨毛娃娃或安撫玩偶？玩偶不能直接丟家用洗衣機高速脫水，容易讓填充棉花結塊、塑膠眼睛刮傷或縫線爆開。私享家洗衣店（台中西屯青海路二段365號）先檢查填充物、電池機芯與配件，固定五官後手洗並依洗標低溫烘或除溼乾燥，看照片與尺寸報價（看過實品再報價），免費收送、一隻也收。",
+      "url": "https://sixiangjialaundry.com/guides/taichung-plush-doll-laundry-shop.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "duvet-mold-can-it-be-used",
+      "category": "guide",
+      "title": "棉被發霉還能用嗎？被胎黑霉點清洗評估與薄被 $250 參考價｜私享家洗衣店",
+      "description": "棉被發霉還能用嗎？先看發霉位置與材質：若只是外層被套或可水洗薄被、化纖被表面的近期浮霉與潮味，經專業洗護與中心徹底烘乾後多半能繼續使用；但若黑霉菌絲已吃進棉花胎或蠶絲被芯深處且纖維脆化，黑點色素多半只能淡化。薄被 $250、厚被 $350、羽絨被 $500（水洗參考價，乾洗、柔洗與發霉另計，看過實品再報價）。",
+      "url": "https://sixiangjialaundry.com/guides/duvet-mold-can-it-be-used.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "garment-inner-lining-care",
+      "category": "guide",
+      "title": "衣服內裡破掉、脫線或汗漬發黃怎麼洗？送洗順便補內裡 $60 起參考價｜私享家洗衣店",
+      "description": "西裝、羊毛大衣、風衣或洋裝的衣服內裡（裡布）腋下發黃、下擺脫線或拉扯破洞怎麼辦？內裡多為醋酸纖維、嫘縈或絲質，與外層面料縮水率不同，亂丟水洗會出現裡布吊起或外露。私享家洗衣店（台中西屯）可同步評估乾洗水洗與修改衣服補內裡（改衣 $60 起、西裝外套 $150、長大衣 $300，水洗參考價，乾洗與修改另計，看過實品再報價）。",
+      "url": "https://sixiangjialaundry.com/guides/garment-inner-lining-care.html",
+      "lastmod": "2026-11-23"
+    },
+    {
+      "slug": "xitun-fengjia-shoe-cleaning-pickup",
+      "category": "guide",
+      "title": "逢甲洗鞋、西屯洗鞋推薦｜青海路門市親送或免費收送・運動鞋 $250 參考價｜私享家洗衣店",
+      "description": "在台中找逢甲洗鞋或西屯洗鞋？私享家洗衣店唯一實體門市就在西屯區青海路二段365號（至善國中對面，鄰近逢甲商圈）。先分網布、皮革、麂皮再洗：童鞋 $150、一般運動鞋 $250（水洗參考價）、皮鞋清潔參考價 $400、麂皮鞋清潔參考價 $400、名牌鞋 $600（乾洗、柔洗另計，看過實品再報價）。可親送西屯門市，或約免費收送、沒有最低消費、一雙也收。",
+      "url": "https://sixiangjialaundry.com/guides/xitun-fengjia-shoe-cleaning-pickup.html",
+      "lastmod": "2026-11-23"
     }
   ],
   "content_contract": {
