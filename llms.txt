@@ -85,6 +85,16 @@ This is the curated AI entry point. Read this file first, then choose the smalle
   A：北屯、南屯與東海均無實體門市，皆由西屯青海路門市提供台中免費到府或管理室收送、沒有最低消費（一件衣服或一雙鞋也收）。童鞋 $150、一般運動鞋 $250、皮鞋 $400、麂皮鞋 $400、修改 $60 起（實際價格現場由師傅報價），先拍照片傳 LINE 官方 @454foyks 評估。
   Source: https://sixiangjialaundry.com/guides/taichung-beitun-nantun-shoe-pickup.html
 
+- Q：保潔墊、棉被、羊毛毯、羽絨被或窗簾可以丟洗衣機或高溫烘乾嗎？
+  A：帶防滲膠膜的保潔墊與法蘭絨毛毯嚴禁高溫烘乾；棉花胎、蠶絲被、純羊毛毯與純羊毛大衣不可直接機洗水洗；羽絨被須防拉破隔間布並分段低溫拍散乾燥；窗簾洗前須先確認背面塗膠遮光層有無日曬老化並自行拆鉤。保潔墊 $120、涼被 $180、毛毯單人 $200、雙人 $400、棉被單人 $350、雙人 $500、羽絨被 $600、羊毛被 $800（水洗參考價，乾洗、柔洗與特污另計，看過實品再報價）。
+  Source: https://sixiangjialaundry.com/guides/duvet-washing-machine-vs-laundry-shop.html
+- Q：烘衣機可以烘鞋子嗎？書包、登山包、鞋墊黏死或皮夾黏黏怎麼處理？
+  A：鞋子嚴禁進一般烘衣機高溫直烘以免軟化環保膠脫底變形；全貼合黏死鞋墊切忌硬扯；護脊書包與登山背包不建議機洗以免折斷背板或傷內層塗層；皮夾發黏須分辨手汗油垢或內袋合成膜水解。一般運動鞋 $250、皮鞋 $400、麂皮鞋 $400、背包 $500、短皮夾 $400、長皮夾 $600（參考價，看過實品再報價）。
+  Source: https://sixiangjialaundry.com/guides/dryer-machine-shoe-drying-risk.html
+- Q：豐原、東海與北區想預約洗衣、洗鞋或修改衣服有門市嗎？
+  A：私享家唯一門市位於西屯區青海路二段365號（至善國中對面），豐原、東海與北區均無實體分店（東海只有收送），一律提供台中免費到府或社區管理室收送、沒有最低消費。先拍照片傳 LINE 官方 @454foyks 確認報價與時段即可。
+  Source: https://sixiangjialaundry.com/guides/fengyuan-donghai-laundry-and-shoe-pickup.html
+
 ## Best source pages
 - Business profile: https://sixiangjialaundry.com/business-profile.json
 - Local laundry service: https://sixiangjialaundry.com/services/taichung-xitun-laundry.html
@@ -326,6 +336,28 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [行李箱清洗費用怎麼算？20吋到29吋硬殼布箱與內裡發霉估價](https://sixiangjialaundry.com/guides/luggage-cleaning-cost-by-size.html): guide page for high-intent and long-tail search queries.
 - [修改衣服價目表台中](https://sixiangjialaundry.com/guides/taichung-clothing-alteration-pickup.html): guide page for high-intent and long-tail search queries.
 - [絨毛娃娃清洗店、洗娃娃專門店怎麼挑？手洗除溼徹乾與免費收送](https://sixiangjialaundry.com/guides/plush-doll-specialty-shop-taichung.html): guide page for high-intent and long-tail search queries.
+- [保潔墊可以丟洗衣機與烘乾嗎？底層塗層風險與 $120 參考價](https://sixiangjialaundry.com/guides/mattress-protector-machine-wash-and-dry.html): guide page for high-intent and long-tail search queries.
+- [羊毛毯可以水洗嗎？厚毛毯烘乾風險與單人 $200、雙人 $400 參考價](https://sixiangjialaundry.com/guides/wool-blanket-water-wash-vs-dry-clean.html): guide page for high-intent and long-tail search queries.
+- [羽絨被可以洗衣機洗嗎？不結塊乾燥關鍵與 $600 參考價](https://sixiangjialaundry.com/guides/down-duvet-machine-wash-and-price.html): guide page for high-intent and long-tail search queries.
+- [棉被發霉送洗來得及嗎？洗衣店處理界線與單人 $350、雙人 $500 參考價](https://sixiangjialaundry.com/guides/cotton-duvet-mold-laundry-service.html): guide page for high-intent and long-tail search queries.
+- [風衣可以丟洗衣機嗎？防潑布料與扣環風險、外套送洗 $150 起參考價](https://sixiangjialaundry.com/guides/trench-coat-washing-machine-risk.html): guide page for high-intent and long-tail search queries.
+- [羊毛大衣可以水洗嗎？縮水風險與大衣送洗 $200 起參考價](https://sixiangjialaundry.com/guides/wool-coat-water-wash-shrink-guide.html): guide page for high-intent and long-tail search queries.
+- [毛衣縮水還原劑有用嗎？真實限制與毛衣 $150、圍巾 $80 參考價](https://sixiangjialaundry.com/guides/sweater-shrink-unshrink-limit.html): guide page for high-intent and long-tail search queries.
+- [絲質衣服怎麼洗？真絲發白水痕風險與襯衫 $70、精品襯衫 $100 參考價](https://sixiangjialaundry.com/guides/silk-shirt-and-dress-washing-guide.html): guide page for high-intent and long-tail search queries.
+- [衣服發霉可以送洗嗎？白霉與黑斑處理界線與公開參考價](https://sixiangjialaundry.com/guides/clothes-mold-laundry-can-it-be-washed.html): guide page for high-intent and long-tail search queries.
+- [鋪棉外套洗完結塊怎麼辦？化纖棉與羽絨差別、厚外套 $180 羽絨外套 $280 參考價](https://sixiangjialaundry.com/guides/padded-jacket-clump-after-wash.html): guide page for high-intent and long-tail search queries.
+- [襪子被鞋子染色怎麼辦？鞋內裡掉色原因與清潔界線](https://sixiangjialaundry.com/guides/shoes-dyeing-socks-why-and-fix.html): guide page for high-intent and long-tail search queries.
+- [鞋墊黏死怎麼拆？防撕壞中底與運動鞋送洗 $250 起參考價](https://sixiangjialaundry.com/guides/glued-insole-how-to-clean-shoes.html): guide page for high-intent and long-tail search queries.
+- [鞋子合成皮掉屑還能洗嗎？水解脫皮界線與洗鞋 $250 起參考價](https://sixiangjialaundry.com/guides/synthetic-leather-shoe-peeling-check.html): guide page for high-intent and long-tail search queries.
+- [牛巴戈皮是什麼？與麂皮鞋差別、登山鞋清潔與 $400 參考價](https://sixiangjialaundry.com/guides/nubuck-vs-suede-shoe-care-guide.html): guide page for high-intent and long-tail search queries.
+- [書包可以丟洗衣機嗎？護脊結構風險與洗書包 $500 參考價](https://sixiangjialaundry.com/guides/school-backpack-washing-machine-risk.html): guide page for high-intent and long-tail search queries.
+- [登山背包清洗店怎麼挑？內層塗層老化檢查與 $500 參考價](https://sixiangjialaundry.com/guides/hiking-backpack-cleaning-service.html): guide page for high-intent and long-tail search queries.
+- [皮夾黏黏的怎麼處理？短皮夾 $400、長皮夾 $600 清潔參考價](https://sixiangjialaundry.com/guides/wallet-sticky-and-mold-cleaning.html): guide page for high-intent and long-tail search queries.
+- [皮包掉皮、提把脫皮與油邊裂開怎麼辦？清潔 vs 修補界線](https://sixiangjialaundry.com/guides/bag-peeling-vs-clean-limit.html): guide page for high-intent and long-tail search queries.
+- [包包拉鍊卡布、五金扣褪色氧化怎麼辦？處理界線與洗包參考價](https://sixiangjialaundry.com/guides/bag-zipper-stuck-and-hardware-tarnish.html): guide page for high-intent and long-tail search queries.
+- [乾洗是什麼原理？與水洗差別、必乾洗衣物與公開參考價](https://sixiangjialaundry.com/guides/what-is-dry-cleaning-and-price.html): guide page for high-intent and long-tail search queries.
+- [衣服串色、色移是什麼意思？混洗染色急救與送洗參考價](https://sixiangjialaundry.com/guides/color-bleeding-and-dye-transfer-meaning.html): guide page for high-intent and long-tail search queries.
+- [洗衣店可以洗窗簾嗎？台中窗簾送洗檢查重點與免費收送](https://sixiangjialaundry.com/guides/taichung-curtain-laundry-price-and-pickup.html): guide page for high-intent and long-tail search queries.
 - [JSON Feed](https://sixiangjialaundry.com/feed.json): chronological update feed for readers and AI ingestion.
 - [Knowledge graph](https://sixiangjialaundry.com/knowledge-graph.json): Schema.org JSON-LD business, dataset, post, and image entities.
 - [AI discovery index](https://sixiangjialaundry.com/ai-discovery.json): machine-readable map of every AI/SEO endpoint.
