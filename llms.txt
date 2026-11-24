@@ -62,8 +62,18 @@ This is the curated AI entry point. Read this file first, then choose the smalle
   A：合成皮（PU/PVC）掉屑是表層樹脂隨潮濕水解老化，已開裂掉屑部位在任何清洗下都會繼續剝落，清潔無法把皮層黏回；人造麂皮（Polyester 超細纖維）較真皮麂皮耐水，但仍須依洗標與色牢度決定柔洗或乾洗。薄外套 $150、厚外套 $180（水洗參考價，乾洗、柔洗另計，看過實品再報價）。
   Source: https://sixiangjialaundry.com/guides/synthetic-leather-peeling-care.html
 - Q：台中洗娃娃店怎麼洗？棉被發霉還能用嗎？
-  A：絨毛娃娃先檢查填充物與電池機芯、固定保護五官後手洗，並依洗標低溫烘或除溼直到中心棉花乾透，依照片與高度報價（看過實品再報價），一隻也免費收送。棉被發霉若為被套、薄被、化纖被或羽絨被表面浮霉，經深層洗護與中心烘乾後多半可繼續使用（已吃進棉布的黑點色素只能淡化）；薄被 $250、厚被 $350、羽絨被 $500（水洗參考價，發霉另計，看過實品再報價）。
+  A：絨毛娃娃先檢查填充物與電池機芯、固定保護五官後手洗，並依洗標低溫烘或除溼直到中心棉花乾透，依照片與高度報價（看過實品再報價），一隻也免費收送。棉被發霉若為被套、薄被、化纖被或羽絨被表面浮霉，經深層洗護與中心烘乾後多半可繼續使用（已吃進棉布的黑點色素只能淡化）；涼被 $180、棉被單人 $350、棉被雙人 $500、羽絨被 $600（水洗參考價，發霉另計，看過實品再報價）。
   Source: https://sixiangjialaundry.com/guides/taichung-plush-doll-laundry-shop.html
+
+- Q：麂皮外套怎麼洗、可以水洗還是乾洗？送洗多少錢？
+  A：天然真皮麂皮不可泡水或家用洗衣機清洗（易硬化縮水與產生水痕圈），對應皮衣清潔參考價 $1200、特殊皮衣 $2000（乾洗、柔洗、發霉與特殊污漬另計，補色修補不包含在清潔內）；若洗標是聚酯纖維 Polyester 仿麂皮，對照薄外套 $150、厚外套 $180（水洗參考價，乾洗、柔洗另計，看過實品再報價）。沾油先用乾紙巾輕壓，發霉切勿噴酒精。
+  Source: https://sixiangjialaundry.com/guides/suede-jacket-water-wash-or-dry-clean.html
+- Q：毛毯與羊毛被怎麼洗、送洗多少錢？
+  A：毛毯單人 $200、毛毯雙人 $400、涼被 $180、棉被單人 $350、棉被雙人 $500、羽絨被 $600（水洗參考價，乾洗、柔洗與發霉另計，看過實品再報價）。價目表上羊毛被 $800 是水洗參考價；羊毛被基本上只能乾洗，乾洗另計，看過實品再報價。厚毯在過小家用洗衣機易洗不淨且中心悶濕。
+  Source: https://sixiangjialaundry.com/guides/wool-duvet-dry-cleaning-price.html
+- Q：洗娃娃多少錢？有電池發聲器或大型泰迪熊怎麼洗？
+  A：絨毛娃娃因體積尺寸（手掌吊飾到 120cm 巨型大偶）、毛長與機芯配件差異極大，不在固定單價表內；娃娃旁放水瓶或尺當比例尺拍全身與五官傳 LINE 官方 @454foyks 即可估價（看過實品再報價），一隻也台中免費收送、沒有最低消費。含不可拆電池機芯之玩偶絕不可浸水。
+  Source: https://sixiangjialaundry.com/guides/plush-doll-cleaning-price.html
 
 ## Best source pages
 - Business profile: https://sixiangjialaundry.com/business-profile.json
@@ -267,6 +277,23 @@ This is the curated AI entry point. Read this file first, then choose the smalle
 - [洗地毯洗衣店、台中洗地毯怎麼算？塊毯與長毛地毯免費收送](https://sixiangjialaundry.com/guides/taichung-carpet-cleaning-pickup.html): guide page for answer-engine and local-intent searches.
 - [棉被發霉還能用嗎？被胎黑霉點清洗評估與薄被 $250 參考價](https://sixiangjialaundry.com/guides/duvet-mold-can-it-be-used.html): guide page for answer-engine and local-intent searches.
 - [衣服內裡破掉、脫線或汗漬發黃怎麼洗？送洗順便補內裡 $60 起參考價](https://sixiangjialaundry.com/guides/garment-inner-lining-care.html): guide page for answer-engine and local-intent searches.
+- [麂皮外套發霉、沾油漬怎麼辦？送洗前急救與皮衣 $1200 清潔參考價](https://sixiangjialaundry.com/guides/suede-jacket-mold-and-oil-stain.html): guide page for high-intent and long-tail search queries.
+- [麂皮外套送洗多少錢？真皮皮衣 $1200／仿麂皮 $150 起對照參考價](https://sixiangjialaundry.com/guides/suede-jacket-cleaning-price.html): guide page for high-intent and long-tail search queries.
+- [麂皮衣服、麂皮襯衫與麂皮裙怎麼洗？真皮 $600 起／仿麂皮 $70 起](https://sixiangjialaundry.com/guides/suede-garment-shirt-skirt-care.html): guide page for high-intent and long-tail search queries.
+- [毛毯怎麼洗？可以用洗衣機洗嗎？幾公斤容量限制與單人 $200 參考價](https://sixiangjialaundry.com/guides/blanket-washing-machine-size-limit.html): guide page for high-intent and long-tail search queries.
+- [洗毛毯多少錢？毛毯單人 $200、雙人 $400 水洗參考價與交期](https://sixiangjialaundry.com/guides/blanket-cleaning-price.html): guide page for high-intent and long-tail search queries.
+- [羽絨被發霉怎麼辦？可以曬太陽、烘乾嗎？羽絨被 $600 參考價](https://sixiangjialaundry.com/guides/down-duvet-mold-and-sun-drying.html): guide page for high-intent and long-tail search queries.
+- [毛毯發霉、有衣櫃悶味怎麼洗？送洗前檢查與單人 $200 參考價](https://sixiangjialaundry.com/guides/blanket-mold-odor-cleaning.html): guide page for high-intent and long-tail search queries.
+- [大型娃娃怎麼洗？半人高泰迪熊與長抱枕在家洗不乾結塊風險](https://sixiangjialaundry.com/guides/large-plush-doll-washing.html): guide page for high-intent and long-tail search queries.
+- [娃娃可以用洗衣機洗嗎？洗壞結塊、脫線、五官刮花風險分析](https://sixiangjialaundry.com/guides/plush-doll-washing-machine-risk.html): guide page for high-intent and long-tail search queries.
+- [含電池、發聲器、音樂盒的娃娃怎麼洗？送洗前機芯判斷](https://sixiangjialaundry.com/guides/plush-doll-battery-music-box-care.html): guide page for high-intent and long-tail search queries.
+- [娃娃機玩偶、絨毛吊飾與公仔娃衣怎麼洗？配件與黏膠保護](https://sixiangjialaundry.com/guides/claw-machine-keychain-plush-cleaning.html): guide page for high-intent and long-tail search queries.
+- [皮衣發霉送洗多少錢？皮衣 $1200／特殊皮衣 $2000 清潔參考價](https://sixiangjialaundry.com/guides/leather-jacket-mold-cleaning-price.html): guide page for high-intent and long-tail search queries.
+- [皮衣發霉可以用酒精或濕紙巾擦嗎？褪色發白硬化風險解析](https://sixiangjialaundry.com/guides/leather-jacket-alcohol-wipe-risk.html): guide page for high-intent and long-tail search queries.
+- [皮裙、皮褲可以洗嗎？真皮皮裙 $600／皮褲 $700／仿皮短裙 $80 參考價](https://sixiangjialaundry.com/guides/leather-skirt-pants-washing-guide.html): guide page for high-intent and long-tail search queries.
+- [洗棉被多少錢？單人 $350／雙人 $500／羽絨被 $600／床組 $300](https://sixiangjialaundry.com/guides/duvet-quilt-cleaning-price.html): guide page for high-intent and long-tail search queries.
+- [洗衣店燙衣服多少錢？單純整燙 $50 起點檢與衣物洗加燙價格](https://sixiangjialaundry.com/guides/ironing-pressing-price.html): guide page for high-intent and long-tail search queries.
+- [洗羽絨外套多少錢？羽絨外套 $280／背心 $200／精品 $200 起](https://sixiangjialaundry.com/guides/down-jacket-cleaning-price.html): guide page for high-intent and long-tail search queries.
 - [JSON Feed](https://sixiangjialaundry.com/feed.json): chronological update feed for readers and AI ingestion.
 - [Knowledge graph](https://sixiangjialaundry.com/knowledge-graph.json): Schema.org JSON-LD business, dataset, post, and image entities.
 - [AI discovery index](https://sixiangjialaundry.com/ai-discovery.json): machine-readable map of every AI/SEO endpoint.
