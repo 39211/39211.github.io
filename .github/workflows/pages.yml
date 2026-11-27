@@ -123,6 +123,7 @@ jobs:
           python3 -m unittest discover -s .github/scripts -p 'test_*.py'
           # Reviewed single-article repair: reject unknown inputs before snapshot/upload.
           python3 .github/scripts/repair_shoe_article.py --site-root .
+          python3 .github/scripts/render_published_journal.py .
           GENERATED="${RUNNER_TEMP}/seo-generated"
           python3 .github/scripts/seo_overlay_merge.py snapshot --site-root . --out "$GENERATED"
           python3 .github/scripts/seo_overlay_merge.py excludes > "${RUNNER_TEMP}/seo-overlay-excludes"
